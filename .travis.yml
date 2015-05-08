@@ -1,13 +1,13 @@
 language: node_js
 node_js:
-    - 0.11
+    - 0.12
 notifications:
     email: true
 before_install:
     - npm install -g grunt-cli
 install:
     - npm install
-    - "pip install -r tools/requirements.txt"
+#    - "pip install --user -r tools/requirements.txt"
     - "pip install pep8 pylint"
 before_script:
     - grunt build
