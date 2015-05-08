@@ -30,4 +30,4 @@ Production code comes from the "prod" branch of the repository. You need to swit
 
 Some shared libraries are available via an Apache License v2.0 (e.g. bootstrap)
 
-All other work is Copyright 2014, The Trustworthy Healthcare Initiative. All rights reserved.
+All other work is Copyright 2014-2015, The Trustworthy Healthcare Initiative. All rights reserved.

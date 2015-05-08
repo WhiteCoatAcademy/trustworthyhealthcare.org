@@ -1,11 +1,17 @@
 language: node_js
 node_js:
-  - 0.10
+    - 0.10
 notifications:
     email: true
 before_install:
     - npm install -g grunt-cli
 install:
     - npm install
+    - "pip install -r tools/requirements.txt"
+    - "pip install pep8 pylint"
 before_script:
     - grunt build
+script:
+    - grunt test
+    - "pylint --rcfile=.pylintrc --disable=import-error,fixme tools/*.py"
+    - "pep8 --ignore=E501,E302,E303 tools/*.py"
