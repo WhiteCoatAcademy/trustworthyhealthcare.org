@@ -7,8 +7,8 @@ before_install:
     - npm install -g grunt-cli
 install:
     - npm install
-#    - "pip install --user -r tools/requirements.txt"
-    - "pip install pep8 pylint"
+    - "sudo pip install -r tools/requirements.txt"
+    - "sudo pip install pep8 pylint"
 before_script:
     - grunt build
 script:
