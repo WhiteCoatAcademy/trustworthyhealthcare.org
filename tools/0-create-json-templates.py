@@ -13,7 +13,6 @@ import json
 import os
 import time
 import us
-import IPython  # Prettier debugging, but unnecessary
 
 
 OUTPUT_PATH = '1-hospital-by-cms-id'
@@ -58,7 +57,7 @@ JSON_TEMPLATE = {
     },
 
     # Data from SHODAN, etc.
-    "raw_ratings": { },
+    "raw_ratings": {},
 
     # Raw ratings, interpreted (e.g. 94%, "A", Great!)
     "numeric_ratings": {},

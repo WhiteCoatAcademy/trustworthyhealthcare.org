@@ -38,4 +38,3 @@ for filename in json_files:
         with open(filename, 'w') as json_out:
             # reset to the original .json by CDing to the directory and running `git checkout *.json`
             json.dump(json_to_write, json_out, sort_keys=True, indent=4)
-        

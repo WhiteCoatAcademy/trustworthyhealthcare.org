@@ -42,7 +42,7 @@ def establish_firewall():
     """
 
     # WARNING: The use of sudo w/ shell=True is bad practice here. :/
-    
+
     # Check we have sudo, and iptables has no outbound rules
     assert("2" == subprocess.check_output("sudo iptables -L OUTPUT | wc -l", shell=True, universal_newlines=True).strip())
 
@@ -53,7 +53,7 @@ def establish_firewall():
     # What's Virustotal's IP?
     virustotal_db = socket.gethostbyname('www.virustotal.com')  # Also their API endpoint
     shodan_db = socket.getbyhostname('api.shodan.io')
-    
+
     whitelisted_ips = [virustotal_db, shodan_db]
     ####
 
@@ -102,9 +102,9 @@ def virustotal_url():
     Get malware info on a specific URL. Probably not very useful - *maybe* on TLD.
     """
     assert(False)  # Disabled, since this is useless.
-    
+
     api_endpoint = "https://www.virustotal.com/vtapi/v2/url/report"
-    
+
     payload = {"resource": "http://www.google.com", "apikey": VIRUSTOTAL_API_KEY}
     # This does post, but it's really just a database lookup.
     r = requests.post(api_endpoint, data=payload)
@@ -127,7 +127,7 @@ def virustotal_domains():
 
     pprint.pprint(r.text)
 
-    
+
 def virustotal_ips():
     """
     Get malware info about an IP, including passive DNS.
@@ -136,7 +136,7 @@ def virustotal_ips():
 
     params = {"ip": "8.8.8.8", "apikey": VIRUSTOTAL_API_KEY}
     r = requests.get(api_endpoint, params=params)
-    
+
     print(r.text)
 
 
@@ -145,17 +145,17 @@ def shodan_ips():
     Get Shodan info about an IP, including product fingerprinting, TLS data, etc.
     """
     ip = "8.8.8.8"
-    
-    api_endpoint = "https://api.shodan.io/shodan/host/%s" % (ip) 
+
+    api_endpoint = "https://api.shodan.io/shodan/host/%s" % (ip)
     print(api_endpoint)
     params = {"key": SHODAN_API_KEY}
     print(params)
     r = requests.get(api_endpoint, params=params)
     print(r.url)
-    
+
     print(r.text)
-    
-    
+
+
 def validate_hospital_list():
     """
     """
@@ -177,7 +177,7 @@ def main():
 
     virustotal_domains()
     shodan_ips()
-    
+
     teardown_firewall()
 
 
