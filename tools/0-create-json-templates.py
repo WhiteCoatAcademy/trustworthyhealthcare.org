@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8
+#
 #
 # Create .json templates for every hospital based on their CMS ID.
 #
@@ -6,6 +8,15 @@
 #
 # Note, this is *exactly* the same public-domain data provided by CMS -- we're
 # just splitting it up more cleanly, and adding some new blank fields to be filled in.
+#
+#
+# Copyright (c) 2015 The Trustworthy Healthcare Initiative
+#  https://TrustworthyHealthcare.org
+#
+# This software is released under the @@@ License:
+#  @@@@@@@@@@
+#
+# Source: https://github.com/WhiteCoatAcademy/trustworthyhealthcare.org
 #
 
 import glob

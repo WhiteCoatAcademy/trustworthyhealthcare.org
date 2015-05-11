@@ -7,17 +7,16 @@
 # This software is released under the @@@ License:
 #  @@@@@@@@@@
 #
-# Source: https://github.com/@@@@@@@@@@
+# Source: https://github.com/WhiteCoatAcademy/trustworthyhealthcare.org
 #
 
 import configparser
 import pprint
 import requests
-import simplejson
+# import simplejson
 import socket
 import subprocess
-import urllib.parse
-import urllib.request
+import urllib
 
 _CONFIG = configparser.ConfigParser()
 _CONFIG.read("secrets.cfg")

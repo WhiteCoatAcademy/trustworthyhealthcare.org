@@ -1,9 +1,20 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8
 #
 # Update .json templates with some factual metadata (ARIN WHOIS, etc.)
 #
 # Specifically, We try to complete the network_info section of the .json files.
 #
+#
+# Copyright (c) 2015 The Trustworthy Healthcare Initiative
+#  https://TrustworthyHealthcare.org
+#
+# This software is released under the @@@ License:
+#  @@@@@@@@@@
+#
+# Source: https://github.com/WhiteCoatAcademy/trustworthyhealthcare.org
+#
+
 
 import glob
 import json
