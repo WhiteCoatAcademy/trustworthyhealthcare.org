@@ -42,7 +42,7 @@ for filename in json_files:
         json_to_write = parsed_json.copy()  # Let's get a copy to mess around with
 
         # Add a 'lolcats' string under network info & set to kittens
-        json_to_write['network_info']['lolcats'] = 'Kittens'
+        # json_to_write['network_info']['lolcats'] = 'Kittens'
 
 
         # Now, if you want to write out the file, you'd do this:
