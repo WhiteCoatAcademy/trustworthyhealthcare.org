@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"243 CHARLES STREET\",\"city\":\"BOSTON\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.36297323800005",
-        "longitude": "-71.07042991899993",
-        "needs_recoding": false
+        "coordinates": [
+            -71.070396,
+            42.363111
+        ],
+        "type": "Point"
     },
+    "location_address": "243 CHARLES STREET",
+    "location_city": "BOSTON",
+    "location_state": "MA",
+    "location_zip": "02114",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6175237900"
-    },
+    "phone_number": "6175237900",
     "provider_id": "220075",
     "raw_ratings": {},
     "state": "MA",

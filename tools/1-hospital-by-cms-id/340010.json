@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2700 WAYNE MEMORIAL DR\",\"city\":\"GOLDSBORO\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.40080717700005",
-        "longitude": "-77.95319501299997",
-        "needs_recoding": false
+        "coordinates": [
+            -77.953852,
+            35.400679
+        ],
+        "type": "Point"
     },
+    "location_address": "2700 WAYNE MEMORIAL DR",
+    "location_city": "GOLDSBORO",
+    "location_state": "NC",
+    "location_zip": "27534",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9197361110"
-    },
+    "phone_number": "9197361110",
     "provider_id": "340010",
     "raw_ratings": {},
     "state": "NC",

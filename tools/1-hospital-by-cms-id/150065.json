@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"411 W TIPTON ST\",\"city\":\"SEYMOUR\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "38.95661386900008",
-        "longitude": "-85.89166398199995",
-        "needs_recoding": false
+        "coordinates": [
+            -85.891268,
+            38.956754
+        ],
+        "type": "Point"
     },
+    "location_address": "411 W TIPTON ST",
+    "location_city": "SEYMOUR",
+    "location_state": "IN",
+    "location_zip": "47274",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8125222349"
-    },
+    "phone_number": "8125222349",
     "provider_id": "150065",
     "raw_ratings": {},
     "state": "IN",

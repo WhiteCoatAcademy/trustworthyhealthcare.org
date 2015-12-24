@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"40 WRIGHT STREET\",\"city\":\"PALMER\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.16878955400006",
-        "longitude": "-72.34101535499997",
-        "needs_recoding": false
+        "coordinates": [
+            -72.340832,
+            42.168972
+        ],
+        "type": "Point"
     },
+    "location_address": "40 WRIGHT STREET",
+    "location_city": "PALMER",
+    "location_state": "MA",
+    "location_zip": "01069",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.umassmemorial.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4132837651"
-    },
+    "phone_number": "4132837651",
     "provider_id": "220030",
     "raw_ratings": {},
     "state": "MA",

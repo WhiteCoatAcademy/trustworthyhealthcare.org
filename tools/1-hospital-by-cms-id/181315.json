@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"110 METKER TRAIL\",\"city\":\"STANFORD\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.54359728000003",
-        "longitude": "-84.65393921499998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.653879,
+            37.543616
+        ],
+        "type": "Point"
     },
+    "location_address": "110 METKER TRAIL",
+    "location_city": "STANFORD",
+    "location_state": "KY",
+    "location_zip": "40484",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.emhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6063654600"
-    },
+    "phone_number": "6063654788",
     "provider_id": "181315",
     "raw_ratings": {},
     "state": "KY",

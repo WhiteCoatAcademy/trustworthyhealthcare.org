@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1100 HIGHLAND DRIVE\",\"city\":\"CONCORDIA\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.566264284000056",
-        "longitude": "-97.67248609699999",
-        "needs_recoding": false
+        "coordinates": [
+            -97.672517,
+            39.565974
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 HIGHLAND DRIVE",
+    "location_city": "CONCORDIA",
+    "location_state": "KS",
+    "location_zip": "66901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7852431234"
-    },
+    "phone_number": "7852431234",
     "provider_id": "171349",
     "raw_ratings": {},
     "state": "KS",

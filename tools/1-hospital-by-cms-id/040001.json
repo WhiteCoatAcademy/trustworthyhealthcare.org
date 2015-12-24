@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"603 NORTH PROGRESS AVENUE\",\"city\":\"SILOAM SPRINGS\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "36.18995440300006",
-        "longitude": "-94.50968759599994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.510476,
+            36.188656
+        ],
+        "type": "Point"
     },
+    "location_address": "603 NORTH PROGRESS AVENUE",
+    "location_city": "SILOAM SPRINGS",
+    "location_state": "AR",
+    "location_zip": "72761",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4795244141"
-    },
+    "phone_number": "4795244141",
     "provider_id": "040001",
     "raw_ratings": {},
     "state": "AR",

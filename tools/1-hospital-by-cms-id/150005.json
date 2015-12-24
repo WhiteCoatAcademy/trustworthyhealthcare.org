@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 E MAIN ST\",\"city\":\"DANVILLE\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.760122153000054",
-        "longitude": "-86.50253832699997",
-        "needs_recoding": false
+        "coordinates": [
+            -86.500743,
+            39.76077
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 E MAIN ST",
+    "location_city": "DANVILLE",
+    "location_state": "IN",
+    "location_zip": "46122",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3177454451"
-    },
+    "phone_number": "3177454451",
     "provider_id": "150005",
     "raw_ratings": {},
     "state": "IN",

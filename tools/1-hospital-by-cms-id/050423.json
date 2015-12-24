@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"250 NORTH FIRST STREET\",\"city\":\"BLYTHE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.613040616000035",
-        "longitude": "-114.59549601899994",
-        "needs_recoding": false
+        "coordinates": [
+            -114.595476,
+            33.612342
+        ],
+        "type": "Point"
     },
+    "location_address": "250 NORTH FIRST STREET",
+    "location_city": "BLYTHE",
+    "location_state": "CA",
+    "location_zip": "92225",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7609224115"
-    },
+    "phone_number": "7609224115",
     "provider_id": "050423",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 W CARSON ST\",\"city\":\"TORRANCE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.83155357800007",
-        "longitude": "-118.29352902699998",
-        "needs_recoding": false
+        "coordinates": [
+            -118.294487,
+            33.831583
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 W CARSON ST",
+    "location_city": "TORRANCE",
+    "location_state": "CA",
+    "location_zip": "90509",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ladhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3102222101"
-    },
+    "phone_number": "3102222101",
     "provider_id": "050376",
     "raw_ratings": {},
     "state": "CA",

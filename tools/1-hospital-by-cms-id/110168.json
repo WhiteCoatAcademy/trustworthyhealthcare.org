@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"501 REDMOND ROAD\",\"city\":\"ROME\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "34.278178996000065",
-        "longitude": "-85.19410857599996",
-        "needs_recoding": false
+        "coordinates": [
+            -85.193534,
+            34.278186
+        ],
+        "type": "Point"
     },
+    "location_address": "501 REDMOND ROAD",
+    "location_city": "ROME",
+    "location_state": "GA",
+    "location_zip": "30165",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7068023012"
-    },
+    "phone_number": "7068023012",
     "provider_id": "110168",
     "raw_ratings": {},
     "state": "GA",

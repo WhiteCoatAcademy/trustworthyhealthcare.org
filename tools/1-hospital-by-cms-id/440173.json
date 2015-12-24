@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9352 PARK WEST BLVD\",\"city\":\"KNOXVILLE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.91767338300008",
-        "longitude": "-84.10184883699998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.100732,
+            35.917901
+        ],
+        "type": "Point"
     },
+    "location_address": "9352 PARK WEST BLVD",
+    "location_city": "KNOXVILLE",
+    "location_state": "TN",
+    "location_zip": "37923",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.covenanthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8659709800"
-    },
+    "phone_number": "8659709800",
     "provider_id": "440173",
     "raw_ratings": {},
     "state": "TN",

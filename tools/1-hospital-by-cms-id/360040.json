@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1330 COSHOCTON ROAD\",\"city\":\"MOUNT VERNON\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.402504004000036",
-        "longitude": "-82.44720441499999",
-        "needs_recoding": false
+        "coordinates": [
+            -82.447579,
+            40.402482
+        ],
+        "type": "Point"
     },
+    "location_address": "1330 COSHOCTON ROAD",
+    "location_city": "MOUNT VERNON",
+    "location_state": "OH",
+    "location_zip": "43050",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7403939000"
-    },
+    "phone_number": "7403939000",
     "provider_id": "360040",
     "raw_ratings": {},
     "state": "OH",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3501 KNICKERBOCKER ROAD\",\"city\":\"SAN ANGELO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.41964798300006",
-        "longitude": "-100.47066305899995",
-        "needs_recoding": false
+        "coordinates": [
+            -100.467158,
+            31.422315
+        ],
+        "type": "Point"
     },
+    "location_address": "3501 KNICKERBOCKER ROAD",
+    "location_city": "SAN ANGELO",
+    "location_state": "TX",
+    "location_zip": "76904",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "3259499511"
-    },
+    "phone_number": "3259499511",
     "provider_id": "450340",
     "raw_ratings": {},
     "state": "TX",

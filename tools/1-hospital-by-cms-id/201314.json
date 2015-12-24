@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"46 FAIRVIEW AVE PO BOX 468\",\"city\":\"SKOWHEGAN\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "44.75842309600006",
-        "longitude": "-69.71353972599996",
-        "needs_recoding": false
+        "coordinates": [
+            -69.713578,
+            44.758411
+        ],
+        "type": "Point"
     },
+    "location_address": "46 FAIRVIEW AVE PO BOX 468",
+    "location_city": "SKOWHEGAN",
+    "location_state": "ME",
+    "location_zip": "04976",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2074745121"
-    },
+    "phone_number": "2074745121",
     "provider_id": "201314",
     "raw_ratings": {},
     "state": "ME",

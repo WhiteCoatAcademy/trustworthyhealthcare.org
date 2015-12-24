@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1300 S JACKSON ST\",\"city\":\"FRANKFORT\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.26930022600004",
-        "longitude": "-86.51057643899998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.510534,
+            40.269311
+        ],
+        "type": "Point"
     },
+    "location_address": "1300 S JACKSON ST",
+    "location_city": "FRANKFORT",
+    "location_state": "IN",
+    "location_zip": "46041",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7656563000"
-    },
+    "phone_number": "7656563000",
     "provider_id": "151316",
     "raw_ratings": {},
     "state": "IN",

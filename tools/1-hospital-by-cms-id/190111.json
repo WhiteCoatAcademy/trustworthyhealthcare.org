@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2600 GREENWOOD ROAD\",\"city\":\"SHREVEPORT\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.483826331000046",
-        "longitude": "-93.77908140199997",
-        "needs_recoding": false
+        "coordinates": [
+            -93.778797,
+            32.483912
+        ],
+        "type": "Point"
     },
+    "location_address": "2600 GREENWOOD ROAD",
+    "location_city": "SHREVEPORT",
+    "location_state": "LA",
+    "location_zip": "71103",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wkhs.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3182124000"
-    },
+    "phone_number": "3182124000",
     "provider_id": "190111",
     "raw_ratings": {},
     "state": "LA",

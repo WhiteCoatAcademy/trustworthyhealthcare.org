@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"715 SOUTH TAFT AVENUE\",\"city\":\"FREMONT\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.33902335300007",
-        "longitude": "-83.13515007399997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.134951,
+            41.338786
+        ],
+        "type": "Point"
     },
+    "location_address": "715 SOUTH TAFT AVENUE",
+    "location_city": "FREMONT",
+    "location_state": "OH",
+    "location_zip": "43420",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4193346617"
-    },
+    "phone_number": "4193346617",
     "provider_id": "360156",
     "raw_ratings": {},
     "state": "OH",

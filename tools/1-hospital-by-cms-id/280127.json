@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1710 SOUTH 70TH ST, SUITE 200\",\"city\":\"LINCOLN\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.795070286000055",
-        "longitude": "-96.62501468299996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.624976,
+            40.795012
+        ],
+        "type": "Point"
     },
+    "location_address": "1710 SOUTH 70TH ST, SUITE 200",
+    "location_city": "LINCOLN",
+    "location_state": "NE",
+    "location_zip": "68506",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4024849090"
-    },
+    "phone_number": "4024849090",
     "provider_id": "280127",
     "raw_ratings": {},
     "state": "NE",

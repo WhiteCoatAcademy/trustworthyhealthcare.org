@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"720 N LINCOLN ST\",\"city\":\"GREENSBURG\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.34347866100006",
-        "longitude": "-85.47939483299996",
-        "needs_recoding": false
+        "coordinates": [
+            -85.479401,
+            39.344212
+        ],
+        "type": "Point"
     },
+    "location_address": "720 N LINCOLN ST",
+    "location_city": "GREENSBURG",
+    "location_state": "IN",
+    "location_zip": "47240",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8126634331"
-    },
+    "phone_number": "8126634331",
     "provider_id": "151332",
     "raw_ratings": {},
     "state": "IN",

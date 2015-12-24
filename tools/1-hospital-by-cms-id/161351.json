@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"826 NORTH 8TH STREET\",\"city\":\"ESTHERVILLE\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "43.40981089700006",
-        "longitude": "-94.83420281399998",
-        "needs_recoding": false
+        "coordinates": [
+            -94.833863,
+            43.410731
+        ],
+        "type": "Point"
     },
+    "location_address": "826 NORTH 8TH STREET",
+    "location_city": "ESTHERVILLE",
+    "location_state": "IA",
+    "location_zip": "51334",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7123622631"
-    },
+    "phone_number": "7123622631",
     "provider_id": "161351",
     "raw_ratings": {},
     "state": "IA",

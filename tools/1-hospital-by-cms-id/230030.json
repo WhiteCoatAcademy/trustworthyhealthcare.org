@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 E WARWICK DR\",\"city\":\"ALMA\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.39175330100005",
-        "longitude": "-84.66192958099998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.662507,
+            43.391626
+        ],
+        "type": "Point"
     },
+    "location_address": "300 E WARWICK DR",
+    "location_city": "ALMA",
+    "location_state": "MI",
+    "location_zip": "48801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.midmichigan.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9894631101"
-    },
+    "phone_number": "9894631101",
     "provider_id": "230030",
     "raw_ratings": {},
     "state": "MI",

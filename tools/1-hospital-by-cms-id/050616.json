@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2309 ANTONIO AVE\",\"city\":\"CAMARILLO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.24363951400005",
-        "longitude": "-119.01857931399996",
-        "needs_recoding": false
+        "coordinates": [
+            -119.019137,
+            34.244396
+        ],
+        "type": "Point"
     },
+    "location_address": "2309 ANTONIO AVE",
+    "location_city": "CAMARILLO",
+    "location_state": "CA",
+    "location_zip": "93010",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8053895800"
-    },
+    "phone_number": "8053895800",
     "provider_id": "050616",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7063 VETERANS PARKWAY\",\"city\":\"PELL CITY\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "33.604999676000034",
-        "longitude": "-86.30046997699998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.298969,
+            33.605262
+        ],
+        "type": "Point"
     },
+    "location_address": "7063 VETERANS PARKWAY",
+    "location_city": "PELL CITY",
+    "location_state": "AL",
+    "location_zip": "35125",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2053383301"
-    },
+    "phone_number": "2053383301",
     "provider_id": "010130",
     "raw_ratings": {},
     "state": "AL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3349 S HIGHWAY 181\",\"city\":\"KENEDY\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "28.84863023400004",
-        "longitude": "-97.87837107599995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.85663,
+            28.804213
+        ],
+        "type": "Point"
     },
+    "location_address": "3349 S HIGHWAY 181",
+    "location_city": "KENEDY",
+    "location_state": "TX",
+    "location_zip": "78119",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8305833401"
-    },
+    "phone_number": "8305833401",
     "provider_id": "451364",
     "raw_ratings": {},
     "state": "TX",

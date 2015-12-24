@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"621 SOUTH FOURTH STREET\",\"city\":\"LE SUEUR\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.467353253000056",
-        "longitude": "-93.90661940999996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.916036,
+            44.454474
+        ],
+        "type": "Point"
     },
+    "location_address": "621 SOUTH FOURTH STREET",
+    "location_city": "LE SUEUR",
+    "location_state": "MN",
+    "location_zip": "56058",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5076653375"
-    },
+    "phone_number": "5076653375",
     "provider_id": "241375",
     "raw_ratings": {},
     "state": "MN",

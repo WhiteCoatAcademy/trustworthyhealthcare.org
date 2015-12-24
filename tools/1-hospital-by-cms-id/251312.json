@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"409 TYLER HOLMES DRIVE\",\"city\":\"WINONA\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "33.49018513800007",
-        "longitude": "-89.73774983599998",
-        "needs_recoding": false
+        "coordinates": [
+            -89.737749,
+            33.490685
+        ],
+        "type": "Point"
     },
+    "location_address": "409 TYLER HOLMES DRIVE",
+    "location_city": "WINONA",
+    "location_state": "MS",
+    "location_zip": "38967",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6622834114"
-    },
+    "phone_number": "6622834114",
     "provider_id": "251312",
     "raw_ratings": {},
     "state": "MS",

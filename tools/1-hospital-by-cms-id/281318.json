@@ -1,5 +1,5 @@
 {
-    "address": "P O BOX 579, 1313 S STREET",
+    "address": "1313 S STREET",
     "city": "BRIDGEPORT",
     "county_name": "MORRILL",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"P O BOX 579, 1313 S STREET\",\"city\":\"BRIDGEPORT\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.664743885000064",
-        "longitude": "-103.09954853999994",
-        "needs_recoding": false
+        "coordinates": [
+            -103.091381,
+            41.662149
+        ],
+        "type": "Point"
     },
+    "location_address": "1313 S STREET",
+    "location_city": "BRIDGEPORT",
+    "location_state": "NE",
+    "location_zip": "69336",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3082621616"
-    },
+    "phone_number": "3082621616",
     "provider_id": "281318",
     "raw_ratings": {},
     "state": "NE",

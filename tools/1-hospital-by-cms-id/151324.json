@@ -4,15 +4,20 @@
     "county_name": "JASPER",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "JASPER COUNTY HOSPITAL",
+    "hospital_name": "FRANCISCAN HEALTHCARE RENSSELAER",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1104 E GRACE ST\",\"city\":\"RENSSELAER\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.93364093300005",
-        "longitude": "-87.13784407299994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.138355,
+            40.9336
+        ],
+        "type": "Point"
     },
+    "location_address": "1104 E GRACE ST",
+    "location_city": "RENSSELAER",
+    "location_state": "IN",
+    "location_zip": "47978",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2198665141"
-    },
+    "phone_number": "2198665141",
     "provider_id": "151324",
     "raw_ratings": {},
     "state": "IN",

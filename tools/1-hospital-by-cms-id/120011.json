@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3288 MOANALUA RD\",\"city\":\"HONOLULU\",\"state\":\"HI\",\"zip\":\"\"}",
-        "latitude": "21.36248160100007",
-        "longitude": "-157.90029999299998",
-        "needs_recoding": false
+        "coordinates": [
+            -157.9011,
+            21.363277
+        ],
+        "type": "Point"
     },
+    "location_address": "3288 MOANALUA RD",
+    "location_city": "HONOLULU",
+    "location_state": "HI",
+    "location_zip": "96819",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8084320000"
-    },
+    "phone_number": "8084320000",
     "provider_id": "120011",
     "raw_ratings": {},
     "state": "HI",

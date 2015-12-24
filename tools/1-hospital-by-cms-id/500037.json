@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"502 W FOURTH AVE\",\"city\":\"TOPPENISH\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "46.37133187100005",
-        "longitude": "-120.31662938699998",
-        "needs_recoding": false
+        "coordinates": [
+            -120.316651,
+            46.371355
+        ],
+        "type": "Point"
     },
+    "location_address": "502 W FOURTH AVE",
+    "location_city": "TOPPENISH",
+    "location_state": "WA",
+    "location_zip": "98948",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5098651520"
-    },
+    "phone_number": "5098651520",
     "provider_id": "500037",
     "raw_ratings": {},
     "state": "WA",

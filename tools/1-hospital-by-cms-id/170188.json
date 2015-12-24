@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3651 COLLEGE BLVD\",\"city\":\"LEAWOOD\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.92755332100006",
-        "longitude": "-94.62795013099998",
-        "needs_recoding": false
+        "coordinates": [
+            -94.628235,
+            38.927549
+        ],
+        "type": "Point"
     },
+    "location_address": "3651 COLLEGE BLVD",
+    "location_city": "LEAWOOD",
+    "location_state": "KS",
+    "location_zip": "66211",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9133197633"
-    },
+    "phone_number": "9133197633",
     "provider_id": "170188",
     "raw_ratings": {},
     "state": "KS",

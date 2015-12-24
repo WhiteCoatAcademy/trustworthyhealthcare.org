@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3700 E SOUTH ST\",\"city\":\"LAKEWOOD\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.860205765000046",
-        "longitude": "-118.14896738899995",
-        "needs_recoding": false
+        "coordinates": [
+            -118.147613,
+            33.860228
+        ],
+        "type": "Point"
     },
+    "location_address": "3700 E SOUTH ST",
+    "location_city": "LAKEWOOD",
+    "location_state": "CA",
+    "location_zip": "90712",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5626026751"
-    },
+    "phone_number": "5626026751",
     "provider_id": "050581",
     "raw_ratings": {},
     "state": "CA",

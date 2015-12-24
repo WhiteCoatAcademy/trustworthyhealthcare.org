@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"18321 CLARK STREET\",\"city\":\"TARZANA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.16979783900007",
-        "longitude": "-118.53259984899995",
-        "needs_recoding": false
+        "coordinates": [
+            -118.531305,
+            34.169773
+        ],
+        "type": "Point"
     },
+    "location_address": "18321 CLARK STREET",
+    "location_city": "TARZANA",
+    "location_state": "CA",
+    "location_zip": "91356",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8188810800"
-    },
+    "phone_number": "8188810800",
     "provider_id": "050761",
     "raw_ratings": {},
     "state": "CA",

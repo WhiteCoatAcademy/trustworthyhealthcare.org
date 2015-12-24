@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"20000 HARVARD ROAD\",\"city\":\"WARRENSVILLE HEIGHTS\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.44985755000005",
-        "longitude": "-81.53789850799996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.537782,
+            41.449865
+        ],
+        "type": "Point"
     },
+    "location_address": "20000 HARVARD ROAD",
+    "location_city": "WARRENSVILLE HEIGHTS",
+    "location_state": "OH",
+    "location_zip": "44122",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "my.clevelandclinic.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2164916000"
-    },
+    "phone_number": "2164916000",
     "provider_id": "360144",
     "raw_ratings": {},
     "state": "OH",

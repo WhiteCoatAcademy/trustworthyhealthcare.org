@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"211 S THIRD ST\",\"city\":\"BELLEVILLE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "38.51134221600006",
-        "longitude": "-89.98823554999996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.988247,
+            38.510748
+        ],
+        "type": "Point"
     },
+    "location_address": "211 S THIRD ST",
+    "location_city": "BELLEVILLE",
+    "location_state": "IL",
+    "location_zip": "62220",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hshs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6182342120"
-    },
+    "phone_number": "6182342120",
     "provider_id": "140187",
     "raw_ratings": {},
     "state": "IL",

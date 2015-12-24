@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 JD ANDERSON DR\",\"city\":\"MORGANTOWN\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "39.66262629000005",
-        "longitude": "-79.94635224999996",
-        "needs_recoding": false
+        "coordinates": [
+            -79.94639,
+            39.66262
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 JD ANDERSON DR",
+    "location_city": "MORGANTOWN",
+    "location_state": "WV",
+    "location_zip": "26505",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3045981200"
-    },
+    "phone_number": "3045981200",
     "provider_id": "510024",
     "raw_ratings": {},
     "state": "WV",

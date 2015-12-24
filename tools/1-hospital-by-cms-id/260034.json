@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"615 W NURSERY ST\",\"city\":\"BUTLER\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.249563042000034",
-        "longitude": "-94.34281329199996",
-        "needs_recoding": false
+        "coordinates": [
+            -94.342633,
+            38.24959
+        ],
+        "type": "Point"
     },
+    "location_address": "615 W NURSERY ST",
+    "location_city": "BUTLER",
+    "location_state": "MO",
+    "location_zip": "64730",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6602007000"
-    },
+    "phone_number": "6602007000",
     "provider_id": "260034",
     "raw_ratings": {},
     "state": "MO",

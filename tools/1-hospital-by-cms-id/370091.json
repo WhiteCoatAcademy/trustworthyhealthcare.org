@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6161 SOUTH YALE\",\"city\":\"TULSA\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.07327285700006",
-        "longitude": "-95.92206241199995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.92209,
+            36.075107
+        ],
+        "type": "Point"
     },
+    "location_address": "6161 SOUTH YALE",
+    "location_city": "TULSA",
+    "location_state": "OK",
+    "location_zip": "74136",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.saintfrancis.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9184942200"
-    },
+    "phone_number": "9184942200",
     "provider_id": "370091",
     "raw_ratings": {},
     "state": "OK",

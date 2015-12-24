@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"330 S STILLAGUAMISH AVE\",\"city\":\"ARLINGTON\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "48.188979232000065",
-        "longitude": "-122.11772076299997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.11763,
+            48.189355
+        ],
+        "type": "Point"
     },
+    "location_address": "330 S STILLAGUAMISH AVE",
+    "location_city": "ARLINGTON",
+    "location_state": "WA",
+    "location_zip": "98223",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3604352133"
-    },
+    "phone_number": "3604352133",
     "provider_id": "500060",
     "raw_ratings": {},
     "state": "WA",

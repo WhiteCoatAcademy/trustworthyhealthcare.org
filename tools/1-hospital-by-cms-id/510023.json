@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"601 COLLIERS WAY\",\"city\":\"WEIRTON\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "40.39369319000008",
-        "longitude": "-80.52970209799997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.529667,
+            40.393733
+        ],
+        "type": "Point"
     },
+    "location_address": "601 COLLIERS WAY",
+    "location_city": "WEIRTON",
+    "location_state": "WV",
+    "location_zip": "26062",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3047976000"
-    },
+    "phone_number": "3047976000",
     "provider_id": "510023",
     "raw_ratings": {},
     "state": "WV",

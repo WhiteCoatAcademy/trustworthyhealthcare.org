@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1415 KINCAID STREET\",\"city\":\"MOUNT VERNON\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "48.41748708600005",
-        "longitude": "-122.32444933799997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.323914,
+            48.417415
+        ],
+        "type": "Point"
     },
+    "location_address": "1415 KINCAID STREET",
+    "location_city": "MOUNT VERNON",
+    "location_state": "WA",
+    "location_zip": "98274",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3604244111"
-    },
+    "phone_number": "3604244111",
     "provider_id": "500003",
     "raw_ratings": {},
     "state": "WA",

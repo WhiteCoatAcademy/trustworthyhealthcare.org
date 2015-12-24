@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"206 EAST BROWN STREET\",\"city\":\"EAST STROUDSBURG\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.99225238400004",
-        "longitude": "-75.17467590599995",
-        "needs_recoding": false
+        "coordinates": [
+            -75.1747,
+            40.992232
+        ],
+        "type": "Point"
     },
+    "location_address": "206 EAST BROWN STREET",
+    "location_city": "EAST STROUDSBURG",
+    "location_state": "PA",
+    "location_zip": "18301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5704763348"
-    },
+    "phone_number": "5704763348",
     "provider_id": "390201",
     "raw_ratings": {},
     "state": "PA",

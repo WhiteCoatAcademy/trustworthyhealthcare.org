@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2325 CORONADO STREET\",\"city\":\"IDAHO FALLS\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "43.47255725100007",
-        "longitude": "-111.98769099299994",
-        "needs_recoding": false
+        "coordinates": [
+            -111.987748,
+            43.472521
+        ],
+        "type": "Point"
     },
+    "location_address": "2325 CORONADO STREET",
+    "location_city": "IDAHO FALLS",
+    "location_state": "ID",
+    "location_zip": "83404",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2085572899"
-    },
+    "phone_number": "2085572711",
     "provider_id": "130065",
     "raw_ratings": {},
     "state": "ID",

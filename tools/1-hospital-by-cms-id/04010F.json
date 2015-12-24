@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"4300 WEST SEVENTH STREET\",\"city\":\"LITTLE ROCK\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "34.74500321800008",
-        "longitude": "-92.32195185799998",
-        "needs_recoding": false
+        "coordinates": [
+            -92.320509,
+            34.74487
+        ],
+        "type": "Point"
     },
+    "location_address": "4300 WEST SEVENTH STREET",
+    "location_city": "LITTLE ROCK",
+    "location_state": "AR",
+    "location_zip": "72205",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5012571000"
-    },
+    "phone_number": "5012571000",
     "provider_id": "04010F",
     "raw_ratings": {},
     "state": "AR",

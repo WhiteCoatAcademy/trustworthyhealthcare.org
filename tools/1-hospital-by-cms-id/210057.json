@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9901 MEDICAL CENTER DRIVE\",\"city\":\"ROCKVILLE\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.09648820600006",
-        "longitude": "-77.19882577199996",
-        "needs_recoding": false
+        "coordinates": [
+            -77.200942,
+            39.097983
+        ],
+        "type": "Point"
     },
+    "location_address": "9901 MEDICAL CENTER DRIVE",
+    "location_city": "ROCKVILLE",
+    "location_state": "MD",
+    "location_zip": "20850",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.adventisthealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2408266517"
-    },
+    "phone_number": "2408266517",
     "provider_id": "210057",
     "raw_ratings": {},
     "state": "MD",

@@ -4,15 +4,20 @@
     "county_name": "DEKALB",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "STONES RIVER HOSPITAL AND DEKALB COMMUNITY HOSP",
+    "hospital_name": "DEKALB COMMUNITY HOSP",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"520 W MAIN ST\",\"city\":\"SMITHVILLE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.959367548000046",
-        "longitude": "-85.82938660699995",
-        "needs_recoding": false
+        "coordinates": [
+            -85.829841,
+            35.959403
+        ],
+        "type": "Point"
     },
+    "location_address": "520 W MAIN ST",
+    "location_city": "SMITHVILLE",
+    "location_state": "TN",
+    "location_zip": "37166",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6152155000"
-    },
+    "phone_number": "6152155000",
     "provider_id": "440148",
     "raw_ratings": {},
     "state": "TN",

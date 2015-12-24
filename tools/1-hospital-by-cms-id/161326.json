@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 WEST HUTCHINGS STREET\",\"city\":\"WINTERSET\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.32877307900003",
-        "longitude": "-94.01707834099994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.017015,
+            41.328815
+        ],
+        "type": "Point"
     },
+    "location_address": "300 WEST HUTCHINGS STREET",
+    "location_city": "WINTERSET",
+    "location_state": "IA",
+    "location_zip": "50273",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5154622373"
-    },
+    "phone_number": "5154622373",
     "provider_id": "161326",
     "raw_ratings": {},
     "state": "IA",

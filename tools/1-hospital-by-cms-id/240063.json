@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"45 WEST 10TH STREET\",\"city\":\"SAINT PAUL\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.09144905200003",
-        "longitude": "-93.00080197299997",
-        "needs_recoding": false
+        "coordinates": [
+            -93.100808,
+            44.948774
+        ],
+        "type": "Point"
     },
+    "location_address": "45 WEST 10TH STREET",
+    "location_city": "SAINT PAUL",
+    "location_state": "MN",
+    "location_zip": "55102",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.healtheast.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6512327707"
-    },
+    "phone_number": "6512327707",
     "provider_id": "240063",
     "raw_ratings": {},
     "state": "MN",

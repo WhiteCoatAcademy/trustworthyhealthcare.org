@@ -1,6 +1,6 @@
 {
-    "address": "252 SOUTH MAIN STREET",
-    "city": "VICTOR",
+    "address": "120 EAST HOWARD AVE",
+    "city": "DRIGGS",
     "county_name": "TETON",
     "emergency_services": true,
     "global_rank": {},
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"252 SOUTH MAIN STREET\",\"city\":\"VICTOR\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "43.59837605400003",
-        "longitude": "-111.11129425099995",
-        "needs_recoding": false
+        "coordinates": [
+            -111.108181,
+            43.727337
+        ],
+        "type": "Point"
     },
+    "location_address": "120 EAST HOWARD AVE",
+    "location_city": "DRIGGS",
+    "location_state": "ID",
+    "location_zip": "83422",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,11 +31,9 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2083542383"
-    },
+    "phone_number": "2083542383",
     "provider_id": "131313",
     "raw_ratings": {},
     "state": "ID",
-    "zip_code": "83455"
+    "zip_code": "83422"
 }

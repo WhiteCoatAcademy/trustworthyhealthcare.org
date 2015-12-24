@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 SIOUX VALLEY DRIVE\",\"city\":\"CHEROKEE\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.75935703000005",
-        "longitude": "-95.54587049999998",
-        "needs_recoding": false
+        "coordinates": [
+            -95.547251,
+            42.759106
+        ],
+        "type": "Point"
     },
+    "location_address": "300 SIOUX VALLEY DRIVE",
+    "location_city": "CHEROKEE",
+    "location_state": "IA",
+    "location_zip": "51012",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7122255101"
-    },
+    "phone_number": "7122255101",
     "provider_id": "161362",
     "raw_ratings": {},
     "state": "IA",

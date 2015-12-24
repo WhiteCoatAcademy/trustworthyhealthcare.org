@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"160 ALLEN ST\",\"city\":\"RUTLAND\",\"state\":\"VT\",\"zip\":\"\"}",
-        "latitude": "43.59924257000006",
-        "longitude": "-72.95581416499994",
-        "needs_recoding": false
+        "coordinates": [
+            -72.956122,
+            43.599193
+        ],
+        "type": "Point"
     },
+    "location_address": "160 ALLEN ST",
+    "location_city": "RUTLAND",
+    "location_state": "VT",
+    "location_zip": "05701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8027757111"
-    },
+    "phone_number": "8027757111",
     "provider_id": "470005",
     "raw_ratings": {},
     "state": "VT",

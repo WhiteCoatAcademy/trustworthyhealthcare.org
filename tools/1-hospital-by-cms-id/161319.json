@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"901 DAVIDSON STREET NW\",\"city\":\"ELKADER\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.85889293200006",
-        "longitude": "-91.41326785399997",
-        "needs_recoding": false
+        "coordinates": [
+            -91.414588,
+            42.859692
+        ],
+        "type": "Point"
     },
+    "location_address": "901 DAVIDSON STREET NW",
+    "location_city": "ELKADER",
+    "location_state": "IA",
+    "location_zip": "52043",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5632457000"
-    },
+    "phone_number": "5632457000",
     "provider_id": "161319",
     "raw_ratings": {},
     "state": "IA",

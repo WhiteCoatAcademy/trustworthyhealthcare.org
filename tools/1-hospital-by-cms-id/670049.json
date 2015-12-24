@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9301 NORTH CENTRAL EXPRESSWAY SUITE 100\",\"city\":\"DALLAS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.875008723000064",
-        "longitude": "-96.77064351599995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.770604,
+            32.874836
+        ],
+        "type": "Point"
     },
+    "location_address": "9301 NORTH CENTRAL EXPRESSWAY SUITE 100",
+    "location_city": "DALLAS",
+    "location_state": "TX",
+    "location_zip": "75231",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2142652810"
-    },
+    "phone_number": "2142652810",
     "provider_id": "670049",
     "raw_ratings": {},
     "state": "TX",

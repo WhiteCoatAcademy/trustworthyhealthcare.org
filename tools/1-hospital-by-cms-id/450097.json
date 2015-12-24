@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4000 SPENCER HWY\",\"city\":\"PASADENA\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.665153144000044",
-        "longitude": "-95.18371238199995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.181617,
+            29.665195
+        ],
+        "type": "Point"
     },
+    "location_address": "4000 SPENCER HWY",
+    "location_city": "PASADENA",
+    "location_state": "TX",
+    "location_zip": "77504",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7133591000"
-    },
+    "phone_number": "7133591000",
     "provider_id": "450097",
     "raw_ratings": {},
     "state": "TX",

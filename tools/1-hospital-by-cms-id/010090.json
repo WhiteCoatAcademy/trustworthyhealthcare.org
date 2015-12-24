@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6801 AIRPORT BOULEVARD\",\"city\":\"MOBILE\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "30.68208912600005",
-        "longitude": "-88.19924246199997",
-        "needs_recoding": false
+        "coordinates": [
+            -88.199618,
+            30.682265
+        ],
+        "type": "Point"
     },
+    "location_address": "6801 AIRPORT BOULEVARD",
+    "location_city": "MOBILE",
+    "location_state": "AL",
+    "location_zip": "36608",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2516331000"
-    },
+    "phone_number": "2516331000",
     "provider_id": "010090",
     "raw_ratings": {},
     "state": "AL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"440 W LAUREL AVE\",\"city\":\"PLENTYWOOD\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "48.778727435000064",
-        "longitude": "-104.56321085799999",
-        "needs_recoding": false
+        "coordinates": [
+            -104.563076,
+            48.778676
+        ],
+        "type": "Point"
     },
+    "location_address": "440 W LAUREL AVE",
+    "location_city": "PLENTYWOOD",
+    "location_state": "MT",
+    "location_zip": "59254",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4067653700"
-    },
+    "phone_number": "4067653700",
     "provider_id": "271322",
     "raw_ratings": {},
     "state": "MT",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 FIFTH AVENUE\",\"city\":\"MC KEESPORT\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.35217348600003",
-        "longitude": "-79.84989782799994",
-        "needs_recoding": false
+        "coordinates": [
+            -79.849272,
+            40.352292
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 FIFTH AVENUE",
+    "location_city": "MC KEESPORT",
+    "location_state": "PA",
+    "location_zip": "15132",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.upmc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4126642000"
-    },
+    "phone_number": "4126642000",
     "provider_id": "390002",
     "raw_ratings": {},
     "state": "PA",

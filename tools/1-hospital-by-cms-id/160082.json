@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 PLEASANT STREET\",\"city\":\"DES MOINES\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.59068314000007",
-        "longitude": "-93.63301109399998",
-        "needs_recoding": false
+        "coordinates": [
+            -93.631819,
+            41.588848
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 PLEASANT STREET",
+    "location_city": "DES MOINES",
+    "location_state": "IA",
+    "location_zip": "50309",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ihs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5152416212"
-    },
+    "phone_number": "5152416212",
     "provider_id": "160082",
     "raw_ratings": {},
     "state": "IA",

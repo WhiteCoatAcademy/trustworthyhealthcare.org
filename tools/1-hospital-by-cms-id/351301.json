@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"615 6TH ST SE\",\"city\":\"STANLEY\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "48.31232591200006",
-        "longitude": "-102.38078594299998",
-        "needs_recoding": false
+        "coordinates": [
+            -102.380869,
+            48.312519
+        ],
+        "type": "Point"
     },
+    "location_address": "615 6TH ST SE",
+    "location_city": "STANLEY",
+    "location_state": "ND",
+    "location_zip": "58784",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7016282424"
-    },
+    "phone_number": "7016282424",
     "provider_id": "351301",
     "raw_ratings": {},
     "state": "ND",

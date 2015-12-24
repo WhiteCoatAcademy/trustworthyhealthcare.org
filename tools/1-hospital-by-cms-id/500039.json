@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2520 CHERRY AVENUE\",\"city\":\"BREMERTON\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.58234894700007",
-        "longitude": "-122.62597844399994",
-        "needs_recoding": false
+        "coordinates": [
+            -122.626046,
+            47.583426
+        ],
+        "type": "Point"
     },
+    "location_address": "2520 CHERRY AVENUE",
+    "location_city": "BREMERTON",
+    "location_state": "WA",
+    "location_zip": "98310",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3603773911"
-    },
+    "phone_number": "3603773911",
     "provider_id": "500039",
     "raw_ratings": {},
     "state": "WA",

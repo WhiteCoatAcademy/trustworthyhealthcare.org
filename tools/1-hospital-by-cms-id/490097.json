@@ -1,18 +1,23 @@
 {
     "address": "727 NORTH MAIN STREET",
     "city": "EMPORIA",
-    "county_name": "Emporia City",
+    "county_name": "EMPORIA CITY",
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "SOUTHERN VIRGINIA REGIONAL MEDICAL CENTER",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"727 NORTH MAIN STREET\",\"city\":\"EMPORIA\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "36.70206193900003",
-        "longitude": "-77.53575185699998",
-        "needs_recoding": false
+        "coordinates": [
+            -77.535969,
+            36.701534
+        ],
+        "type": "Point"
     },
+    "location_address": "727 NORTH MAIN STREET",
+    "location_city": "EMPORIA",
+    "location_state": "VA",
+    "location_zip": "23847",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "4343484400"
-    },
+    "phone_number": "4343484400",
     "provider_id": "490097",
     "raw_ratings": {},
     "state": "VA",

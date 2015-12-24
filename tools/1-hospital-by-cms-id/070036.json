@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"263 FARMINGTON AVE\",\"city\":\"FARMINGTON\",\"state\":\"CT\",\"zip\":\"\"}",
-        "latitude": "41.73579332200006",
-        "longitude": "-72.79516590999998",
-        "needs_recoding": false
+        "coordinates": [
+            -72.79582,
+            41.73509
+        ],
+        "type": "Point"
     },
+    "location_address": "263 FARMINGTON AVE",
+    "location_city": "FARMINGTON",
+    "location_state": "CT",
+    "location_zip": "06032",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8606791145"
-    },
+    "phone_number": "8606791145",
     "provider_id": "070036",
     "raw_ratings": {},
     "state": "CT",

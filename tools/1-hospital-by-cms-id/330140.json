@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"301 PROSPECT AVENUE\",\"city\":\"SYRACUSE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.055715847000045",
-        "longitude": "-76.14918691599996",
-        "needs_recoding": false
+        "coordinates": [
+            -76.149328,
+            43.055782
+        ],
+        "type": "Point"
     },
+    "location_address": "301 PROSPECT AVENUE",
+    "location_city": "SYRACUSE",
+    "location_state": "NY",
+    "location_zip": "13203",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sosf.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3154485111"
-    },
+    "phone_number": "3154485111",
     "provider_id": "330140",
     "raw_ratings": {},
     "state": "NY",

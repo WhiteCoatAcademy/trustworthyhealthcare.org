@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 W HARLEM AVENUE\",\"city\":\"MONMOUTH\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "40.92132107300006",
-        "longitude": "-90.65830888299996",
-        "needs_recoding": false
+        "coordinates": [
+            -90.659058,
+            40.921292
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 W HARLEM AVENUE",
+    "location_city": "MONMOUTH",
+    "location_state": "IL",
+    "location_zip": "61462",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.osfhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3097343141"
-    },
+    "phone_number": "3097343141",
     "provider_id": "141318",
     "raw_ratings": {},
     "state": "IL",

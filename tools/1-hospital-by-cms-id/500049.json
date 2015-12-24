@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1025 S SECOND AVE\",\"city\":\"WALLA WALLA\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "46.05459480800005",
-        "longitude": "-118.33191425899997",
-        "needs_recoding": false
+        "coordinates": [
+            -118.331571,
+            46.054089
+        ],
+        "type": "Point"
     },
+    "location_address": "1025 S SECOND AVE",
+    "location_city": "WALLA WALLA",
+    "location_state": "WA",
+    "location_zip": "99362",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.adventisthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5095250480"
-    },
+    "phone_number": "5095250480",
     "provider_id": "500049",
     "raw_ratings": {},
     "state": "WA",

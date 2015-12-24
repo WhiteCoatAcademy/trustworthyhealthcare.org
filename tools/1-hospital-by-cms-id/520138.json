@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2900 W OKLAHOMA AVE\",\"city\":\"MILWAUKEE\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "42.98859658400005",
-        "longitude": "-87.94943074099996",
-        "needs_recoding": false
+        "coordinates": [
+            -87.950653,
+            42.988598
+        ],
+        "type": "Point"
     },
+    "location_address": "2900 W OKLAHOMA AVE",
+    "location_city": "MILWAUKEE",
+    "location_state": "WI",
+    "location_zip": "53215",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.aurorahealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4146496000"
-    },
+    "phone_number": "4146496000",
     "provider_id": "520138",
     "raw_ratings": {},
     "state": "WI",

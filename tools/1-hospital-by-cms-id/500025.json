@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 17TH AVENUE\",\"city\":\"SEATTLE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.60625903700003",
-        "longitude": "-122.31018775299998",
-        "needs_recoding": false
+        "coordinates": [
+            -122.310234,
+            47.606569
+        ],
+        "type": "Point"
     },
+    "location_address": "500 17TH AVENUE",
+    "location_city": "SEATTLE",
+    "location_state": "WA",
+    "location_zip": "98122",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.swedish.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2063202000"
-    },
+    "phone_number": "2063202000",
     "provider_id": "500025",
     "raw_ratings": {},
     "state": "WA",

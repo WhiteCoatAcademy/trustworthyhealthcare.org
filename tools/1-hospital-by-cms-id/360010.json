@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"659 BOULEVARD\",\"city\":\"DOVER\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.52126283400003",
-        "longitude": "-81.47309993899995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.455852,
+            40.513502
+        ],
+        "type": "Point"
     },
+    "location_address": "659 BOULEVARD",
+    "location_city": "DOVER",
+    "location_state": "OH",
+    "location_zip": "44622",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3303433311"
-    },
+    "phone_number": "3303433311",
     "provider_id": "360010",
     "raw_ratings": {},
     "state": "OH",

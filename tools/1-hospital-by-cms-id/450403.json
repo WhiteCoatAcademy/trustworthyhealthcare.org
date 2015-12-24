@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4500 MEDICAL CENTER DRIVE\",\"city\":\"MCKINNEY\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.16164343300005",
-        "longitude": "-96.63552810299996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.635558,
+            33.159033
+        ],
+        "type": "Point"
     },
+    "location_address": "4500 MEDICAL CENTER DRIVE",
+    "location_city": "MCKINNEY",
+    "location_state": "TX",
+    "location_zip": "75069",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9725478000"
-    },
+    "phone_number": "9725478000",
     "provider_id": "450403",
     "raw_ratings": {},
     "state": "TX",

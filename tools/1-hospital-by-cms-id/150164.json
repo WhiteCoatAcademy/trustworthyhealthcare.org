@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4011 S MONROE MEDICAL PARK BLVD\",\"city\":\"BLOOMINGTON\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.16659113600008",
-        "longitude": "-86.53423772999997",
-        "needs_recoding": false
+        "coordinates": [
+            -86.572683,
+            39.120141
+        ],
+        "type": "Point"
     },
+    "location_address": "4011 S MONROE MEDICAL PARK BLVD",
+    "location_city": "BLOOMINGTON",
+    "location_state": "IN",
+    "location_zip": "47403",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8128251111"
-    },
+    "phone_number": "8128251111",
     "provider_id": "150164",
     "raw_ratings": {},
     "state": "IN",

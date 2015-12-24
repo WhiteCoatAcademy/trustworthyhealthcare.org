@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"601 HIGHWAY 6 WEST\",\"city\":\"IOWA CITY\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.66464321500007",
-        "longitude": "-91.54835368599998",
-        "needs_recoding": false
+        "coordinates": [
+            -91.547615,
+            41.664557
+        ],
+        "type": "Point"
     },
+    "location_address": "601 HIGHWAY 6 WEST",
+    "location_city": "IOWA CITY",
+    "location_state": "IA",
+    "location_zip": "52246",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "3193380581"
-    },
+    "phone_number": "3193380581",
     "provider_id": "16004F",
     "raw_ratings": {},
     "state": "IA",

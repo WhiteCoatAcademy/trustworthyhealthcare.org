@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"400 FOOT HILL AVE.\",\"city\":\"CANANDAIGUA\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.90078353000007",
-        "longitude": "-77.27083972099996",
-        "needs_recoding": false
+        "coordinates": [
+            -77.270625,
+            42.900834
+        ],
+        "type": "Point"
     },
+    "location_address": "400 FOOT HILL AVE.",
+    "location_city": "CANANDAIGUA",
+    "location_state": "NY",
+    "location_zip": "14424",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "5853942000"
-    },
+    "phone_number": "5853942000",
     "provider_id": "33013F",
     "raw_ratings": {},
     "state": "NY",

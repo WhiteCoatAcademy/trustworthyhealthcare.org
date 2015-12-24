@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11111 SOUTH 84TH ST\",\"city\":\"PAPILLION\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.132548247000045",
-        "longitude": "-96.04286033899996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.042918,
+            41.137517
+        ],
+        "type": "Point"
     },
+    "location_address": "11111 SOUTH 84TH ST",
+    "location_city": "PAPILLION",
+    "location_state": "NE",
+    "location_zip": "68046",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.alegent.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4025933000"
-    },
+    "phone_number": "4025933000",
     "provider_id": "280105",
     "raw_ratings": {},
     "state": "NE",

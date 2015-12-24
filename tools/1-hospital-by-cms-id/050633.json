@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1100 LAS TABLAS RD\",\"city\":\"TEMPLETON\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "35.554428064000035",
-        "longitude": "-120.71883911599997",
-        "needs_recoding": false
+        "coordinates": [
+            -120.720652,
+            35.554384
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 LAS TABLAS RD",
+    "location_city": "TEMPLETON",
+    "location_state": "CA",
+    "location_zip": "93465",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8054343500"
-    },
+    "phone_number": "8054343500",
     "provider_id": "050633",
     "raw_ratings": {},
     "state": "CA",

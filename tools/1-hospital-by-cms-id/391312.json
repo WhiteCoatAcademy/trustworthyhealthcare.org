@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 HOSPITAL ROAD\",\"city\":\"BROOKVILLE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "41.15616305700007",
-        "longitude": "-79.09293238199996",
-        "needs_recoding": false
+        "coordinates": [
+            -79.093379,
+            41.156616
+        ],
+        "type": "Point"
     },
+    "location_address": "100 HOSPITAL ROAD",
+    "location_city": "BROOKVILLE",
+    "location_state": "PA",
+    "location_zip": "15825",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8148492312"
-    },
+    "phone_number": "8148492312",
     "provider_id": "391312",
     "raw_ratings": {},
     "state": "PA",

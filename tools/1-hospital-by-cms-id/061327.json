@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1311 N MILDRED RD\",\"city\":\"CORTEZ\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "37.362210739000034",
-        "longitude": "-108.57274481899998",
-        "needs_recoding": false
+        "coordinates": [
+            -108.572725,
+            37.363313
+        ],
+        "type": "Point"
     },
+    "location_address": "1311 N MILDRED RD",
+    "location_city": "CORTEZ",
+    "location_state": "CO",
+    "location_zip": "81321",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9705656666"
-    },
+    "phone_number": "9705656666",
     "provider_id": "061327",
     "raw_ratings": {},
     "state": "CO",

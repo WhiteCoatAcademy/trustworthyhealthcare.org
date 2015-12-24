@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1629 E DIVISION ST\",\"city\":\"RIVER FALLS\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.86303645800007",
-        "longitude": "-92.60247837499998",
-        "needs_recoding": false
+        "coordinates": [
+            -92.602146,
+            44.8631
+        ],
+        "type": "Point"
     },
+    "location_address": "1629 E DIVISION ST",
+    "location_city": "RIVER FALLS",
+    "location_state": "WI",
+    "location_zip": "54022",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.allina.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7153076000"
-    },
+    "phone_number": "7153076000",
     "provider_id": "521349",
     "raw_ratings": {},
     "state": "WI",

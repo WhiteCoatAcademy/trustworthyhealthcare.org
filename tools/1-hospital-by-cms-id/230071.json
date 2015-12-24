@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"23901 LAHSER\",\"city\":\"SOUTHFIELD\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.46495709200008",
-        "longitude": "-83.26045726499996",
-        "needs_recoding": false
+        "coordinates": [
+            -83.26038,
+            42.464106
+        ],
+        "type": "Point"
     },
+    "location_address": "23901 LAHSER",
+    "location_city": "SOUTHFIELD",
+    "location_state": "MI",
+    "location_zip": "48033",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2483573360"
-    },
+    "phone_number": "2483573360",
     "provider_id": "230071",
     "raw_ratings": {},
     "state": "MI",

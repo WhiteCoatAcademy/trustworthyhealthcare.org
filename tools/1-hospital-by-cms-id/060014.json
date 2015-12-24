@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1719 E 19TH AVE\",\"city\":\"DENVER\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.746088231000044",
-        "longitude": "-104.96681023899998",
-        "needs_recoding": false
+        "coordinates": [
+            -104.966482,
+            39.746083
+        ],
+        "type": "Point"
     },
+    "location_address": "1719 E 19TH AVE",
+    "location_city": "DENVER",
+    "location_state": "CO",
+    "location_zip": "80218",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.healthonecares.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3038396000"
-    },
+    "phone_number": "3038396000",
     "provider_id": "060014",
     "raw_ratings": {},
     "state": "CO",

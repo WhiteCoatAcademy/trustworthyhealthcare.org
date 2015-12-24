@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11500 BROOKSHIRE AVENUE\",\"city\":\"DOWNEY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.93515177900008",
-        "longitude": "-118.13195607099999",
-        "needs_recoding": false
+        "coordinates": [
+            -118.131342,
+            33.936016
+        ],
+        "type": "Point"
     },
+    "location_address": "11500 BROOKSHIRE AVENUE",
+    "location_city": "DOWNEY",
+    "location_state": "CA",
+    "location_zip": "90241",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5269045000"
-    },
+    "phone_number": "5269045000",
     "provider_id": "050393",
     "raw_ratings": {},
     "state": "CA",

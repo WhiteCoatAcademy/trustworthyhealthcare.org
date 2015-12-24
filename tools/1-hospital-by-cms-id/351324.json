@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"570 CHAUTAUQUA BLVD\",\"city\":\"VALLEY CITY\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "46.92854788200003",
-        "longitude": "-97.99485349499997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.994865,
+            46.928561
+        ],
+        "type": "Point"
     },
+    "location_address": "570 CHAUTAUQUA BLVD",
+    "location_city": "VALLEY CITY",
+    "location_state": "ND",
+    "location_zip": "58072",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7018456400"
-    },
+    "phone_number": "7018456400",
     "provider_id": "351324",
     "raw_ratings": {},
     "state": "ND",

@@ -4,15 +4,20 @@
     "county_name": "HOUGHTON",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "PORTAGE HEALTH",
+    "hospital_name": "UP HEALTH SYSTEM PORTAGE",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 CAMPUS DRIVE\",\"city\":\"HANCOCK\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "47.14129234200004",
-        "longitude": "-88.58667945799994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.585078,
+            47.141355
+        ],
+        "type": "Point"
     },
+    "location_address": "500 CAMPUS DRIVE",
+    "location_city": "HANCOCK",
+    "location_state": "MI",
+    "location_zip": "49930",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9064831000"
-    },
+    "phone_number": "9064831000",
     "provider_id": "230108",
     "raw_ratings": {},
     "state": "MI",

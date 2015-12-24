@@ -4,15 +4,20 @@
     "county_name": "BURKE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "CMC-BLUE RIDGE",
+    "hospital_name": "CAROLINAS HEALTHCARE SYSTEM-BLUE RIDGE",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2201 S STERLING ST\",\"city\":\"MORGANTON\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.72343554200006",
-        "longitude": "-81.65769548299994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.657615,
+            35.723354
+        ],
+        "type": "Point"
     },
+    "location_address": "2201 S STERLING ST",
+    "location_city": "MORGANTON",
+    "location_state": "NC",
+    "location_zip": "28655",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.carolinas.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8285805000"
-    },
+    "phone_number": "8285805000",
     "provider_id": "340075",
     "raw_ratings": {},
     "state": "NC",

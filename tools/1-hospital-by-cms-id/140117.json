@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7435 W TALCOTT AVENUE\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.988758379000046",
-        "longitude": "-87.81313204199995",
-        "needs_recoding": false
+        "coordinates": [
+            -87.813175,
+            41.988768
+        ],
+        "type": "Point"
     },
+    "location_address": "7435 W TALCOTT AVENUE",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60631",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.reshealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7737748000"
-    },
+    "phone_number": "7737748000",
     "provider_id": "140117",
     "raw_ratings": {},
     "state": "IL",

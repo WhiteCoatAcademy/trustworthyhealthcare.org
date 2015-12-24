@@ -4,15 +4,20 @@
     "county_name": "ECTOR",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ODESSA REGIONAL HOSPITAL",
+    "hospital_name": "ODESSA REGIONAL MEDICAL CENTER",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"520 E 6TH STREET\",\"city\":\"ODESSA\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.851235605000056",
-        "longitude": "-102.36636532999995",
-        "needs_recoding": false
+        "coordinates": [
+            -102.366027,
+            31.851458
+        ],
+        "type": "Point"
     },
+    "location_address": "520 E 6TH STREET",
+    "location_city": "ODESSA",
+    "location_state": "TX",
+    "location_zip": "79761",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.iasishealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4325828340"
-    },
+    "phone_number": "4325828340",
     "provider_id": "450661",
     "raw_ratings": {},
     "state": "TX",

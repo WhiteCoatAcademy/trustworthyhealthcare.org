@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1077 SOUTH MAIN STREET\",\"city\":\"MADISON\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.58401388600004",
-        "longitude": "-83.47996147099997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.477623,
+            33.583463
+        ],
+        "type": "Point"
     },
+    "location_address": "1077 SOUTH MAIN STREET",
+    "location_city": "MADISON",
+    "location_state": "GA",
+    "location_zip": "30650",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7063421667"
-    },
+    "phone_number": "7063421667",
     "provider_id": "111304",
     "raw_ratings": {},
     "state": "GA",

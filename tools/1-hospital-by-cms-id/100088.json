@@ -4,15 +4,20 @@
     "county_name": "DUVAL",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "BAPTIST MEDICAL CENTER",
+    "hospital_name": "BAPTIST MEDICAL CENTER JACKSONVILLE",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 PRUDENTIAL DR\",\"city\":\"JACKSONVILLE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "30.31626324700005",
-        "longitude": "-81.66443057099997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.664099,
+            30.316273
+        ],
+        "type": "Point"
     },
+    "location_address": "800 PRUDENTIAL DR",
+    "location_city": "JACKSONVILLE",
+    "location_state": "FL",
+    "location_zip": "32207",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.e-baptisthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9042022000"
-    },
+    "phone_number": "9042022000",
     "provider_id": "100088",
     "raw_ratings": {},
     "state": "FL",

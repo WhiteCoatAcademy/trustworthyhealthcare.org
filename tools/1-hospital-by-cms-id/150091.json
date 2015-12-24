@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2001 STULTS RD\",\"city\":\"HUNTINGTON\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.90494161500004",
-        "longitude": "-85.49055443599997",
-        "needs_recoding": false
+        "coordinates": [
+            -85.490567,
+            40.902763
+        ],
+        "type": "Point"
     },
+    "location_address": "2001 STULTS RD",
+    "location_city": "HUNTINGTON",
+    "location_state": "IN",
+    "location_zip": "46750",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.parkview.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2603553000"
-    },
+    "phone_number": "2603553000",
     "provider_id": "150091",
     "raw_ratings": {},
     "state": "IN",

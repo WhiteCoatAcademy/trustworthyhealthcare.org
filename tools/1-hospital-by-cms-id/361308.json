@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"158 WEST MAIN ROAD\",\"city\":\"CONNEAUT\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.93696773700003",
-        "longitude": "-80.58699061199997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.587557,
+            41.936904
+        ],
+        "type": "Point"
     },
+    "location_address": "158 WEST MAIN ROAD",
+    "location_city": "CONNEAUT",
+    "location_state": "OH",
+    "location_zip": "44030",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhhospitals.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4405931131"
-    },
+    "phone_number": "4405931131",
     "provider_id": "361308",
     "raw_ratings": {},
     "state": "OH",

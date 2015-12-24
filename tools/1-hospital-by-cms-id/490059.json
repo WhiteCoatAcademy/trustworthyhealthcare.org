@@ -2,17 +2,22 @@
     "address": "5801 BREMO RD",
     "city": "RICHMOND",
     "county_name": "HENRICO",
-    "emergency_services": true,
+    "emergency_services": false,
     "global_rank": {},
     "hospital_name": "BON SECOURS ST MARYS HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5801 BREMO RD\",\"city\":\"RICHMOND\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.58502357800006",
-        "longitude": "-77.51256760699994",
-        "needs_recoding": false
+        "coordinates": [
+            -77.512525,
+            37.58512
+        ],
+        "type": "Point"
     },
+    "location_address": "5801 BREMO RD",
+    "location_city": "RICHMOND",
+    "location_state": "VA",
+    "location_zip": "23226",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bshsi.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8042852011"
-    },
+    "phone_number": "8042852011",
     "provider_id": "490059",
     "raw_ratings": {},
     "state": "VA",

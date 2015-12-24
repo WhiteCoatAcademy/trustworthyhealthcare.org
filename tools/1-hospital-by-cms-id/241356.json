@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 NORTH ELM STREET\",\"city\":\"ONAMIA\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "46.06945708000006",
-        "longitude": "-93.66200506899997",
-        "needs_recoding": false
+        "coordinates": [
+            -93.661815,
+            46.073093
+        ],
+        "type": "Point"
     },
+    "location_address": "200 NORTH ELM STREET",
+    "location_city": "ONAMIA",
+    "location_state": "MN",
+    "location_zip": "56359",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3205328020"
-    },
+    "phone_number": "3205323154",
     "provider_id": "241356",
     "raw_ratings": {},
     "state": "MN",

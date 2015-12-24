@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"744 S WEBSTER AVE\",\"city\":\"GREEN BAY\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.50201734700005",
-        "longitude": "-88.01062957999994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.010724,
+            44.501872
+        ],
+        "type": "Point"
     },
+    "location_address": "744 S WEBSTER AVE",
+    "location_city": "GREEN BAY",
+    "location_state": "WI",
+    "location_zip": "54305",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9204333500"
-    },
+    "phone_number": "9204333500",
     "provider_id": "520049",
     "raw_ratings": {},
     "state": "WI",

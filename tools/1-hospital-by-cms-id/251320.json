@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"123 MCCOMB AVENUE\",\"city\":\"PORT GIBSON\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "31.945953563000046",
-        "longitude": "-90.98505558599999",
-        "needs_recoding": false
+        "coordinates": [
+            -90.986769,
+            31.946466
+        ],
+        "type": "Point"
     },
+    "location_address": "123 MCCOMB AVENUE",
+    "location_city": "PORT GIBSON",
+    "location_state": "MS",
+    "location_zip": "39150",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6014375141"
-    },
+    "phone_number": "6014375141",
     "provider_id": "251320",
     "raw_ratings": {},
     "state": "MS",

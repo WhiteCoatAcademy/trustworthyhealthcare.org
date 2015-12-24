@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1959 NE PACIFIC ST BOX 356151\",\"city\":\"SEATTLE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.64988854500007",
-        "longitude": "-122.30636413599996",
-        "needs_recoding": false
+        "coordinates": [
+            -122.307742,
+            47.65064
+        ],
+        "type": "Point"
     },
+    "location_address": "1959 NE PACIFIC ST BOX 356151",
+    "location_city": "SEATTLE",
+    "location_state": "WA",
+    "location_zip": "98195",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uwmedicine.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2065983300"
-    },
+    "phone_number": "2065983300",
     "provider_id": "500008",
     "raw_ratings": {},
     "state": "WA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1034 NORTH 500 WEST\",\"city\":\"PROVO\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "40.24649080700004",
-        "longitude": "-111.66739467299999",
-        "needs_recoding": false
+        "coordinates": [
+            -111.667383,
+            40.248084
+        ],
+        "type": "Point"
     },
+    "location_address": "1034 NORTH 500 WEST",
+    "location_city": "PROVO",
+    "location_state": "UT",
+    "location_zip": "84604",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "intermountainhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8013737850"
-    },
+    "phone_number": "8013737850",
     "provider_id": "460001",
     "raw_ratings": {},
     "state": "UT",

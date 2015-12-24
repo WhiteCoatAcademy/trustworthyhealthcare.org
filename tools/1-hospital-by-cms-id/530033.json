@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6550 EAST 2ND STREET\",\"city\":\"CASPER\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "42.83998319400007",
-        "longitude": "-106.22799260899995",
-        "needs_recoding": false
+        "coordinates": [
+            -106.226345,
+            42.839723
+        ],
+        "type": "Point"
     },
+    "location_address": "6550 EAST 2ND STREET",
+    "location_city": "CASPER",
+    "location_state": "WY",
+    "location_zip": "82605",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3079958100"
-    },
+    "phone_number": "3079958100",
     "provider_id": "530033",
     "raw_ratings": {},
     "state": "WY",

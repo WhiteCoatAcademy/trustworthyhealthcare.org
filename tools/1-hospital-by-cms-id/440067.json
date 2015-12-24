@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"726 MCFARLAND ST\",\"city\":\"MORRISTOWN\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.21419582400006",
-        "longitude": "-83.30405269499994",
-        "needs_recoding": false
+        "coordinates": [
+            -83.304331,
+            36.214632
+        ],
+        "type": "Point"
     },
+    "location_address": "726 MCFARLAND ST",
+    "location_city": "MORRISTOWN",
+    "location_state": "TN",
+    "location_zip": "37814",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "4235226000"
-    },
+    "phone_number": "4235226000",
     "provider_id": "440067",
     "raw_ratings": {},
     "state": "TN",

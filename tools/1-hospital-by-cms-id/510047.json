@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1325 LOCUST AVENUE\",\"city\":\"FAIRMONT\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "39.48198979500006",
-        "longitude": "-80.16203172199994",
-        "needs_recoding": false
+        "coordinates": [
+            -80.164067,
+            39.480826
+        ],
+        "type": "Point"
     },
+    "location_address": "1325 LOCUST AVENUE",
+    "location_city": "FAIRMONT",
+    "location_state": "WV",
+    "location_zip": "26554",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3043677100"
-    },
+    "phone_number": "3043677100",
     "provider_id": "510047",
     "raw_ratings": {},
     "state": "WV",

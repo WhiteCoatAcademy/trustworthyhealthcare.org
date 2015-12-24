@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"525 BRANSON LANDING BLVD, PO BOX 650\",\"city\":\"BRANSON\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "36.652202239000076",
-        "longitude": "-93.22044058499995",
-        "needs_recoding": false
+        "coordinates": [
+            -93.220248,
+            36.650286
+        ],
+        "type": "Point"
     },
+    "location_address": "525 BRANSON LANDING BLVD, PO BOX 650",
+    "location_city": "BRANSON",
+    "location_state": "MO",
+    "location_zip": "65615",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4173357000"
-    },
+    "phone_number": "4173357000",
     "provider_id": "260094",
     "raw_ratings": {},
     "state": "MO",

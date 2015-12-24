@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"650 E. INDIAN SCHOOL ROAD\",\"city\":\"PHOENIX\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.494757736000054",
-        "longitude": "-112.06591018699999",
-        "needs_recoding": false
+        "coordinates": [
+            -112.066211,
+            33.494747
+        ],
+        "type": "Point"
     },
+    "location_address": "650 E. INDIAN SCHOOL ROAD",
+    "location_city": "PHOENIX",
+    "location_state": "AZ",
+    "location_zip": "85012",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "6022226444"
-    },
+    "phone_number": "6022226444",
     "provider_id": "03012F",
     "raw_ratings": {},
     "state": "AZ",

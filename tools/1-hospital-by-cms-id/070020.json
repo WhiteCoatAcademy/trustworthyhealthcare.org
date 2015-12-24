@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"28 CRESCENT ST\",\"city\":\"MIDDLETOWN\",\"state\":\"CT\",\"zip\":\"\"}",
-        "latitude": "41.554804682000054",
-        "longitude": "-72.64763376799993",
-        "needs_recoding": false
+        "coordinates": [
+            -72.647319,
+            41.555126
+        ],
+        "type": "Point"
     },
+    "location_address": "28 CRESCENT ST",
+    "location_city": "MIDDLETOWN",
+    "location_state": "CT",
+    "location_zip": "06457",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8603446000"
-    },
+    "phone_number": "8603446000",
     "provider_id": "070020",
     "raw_ratings": {},
     "state": "CT",

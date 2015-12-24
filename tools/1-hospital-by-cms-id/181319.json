@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1011 OLD HIGHWAY 60\",\"city\":\"HARDINSBURG\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.76694857500007",
-        "longitude": "-86.44166768099996",
-        "needs_recoding": false
+        "coordinates": [
+            -86.44092,
+            37.763514
+        ],
+        "type": "Point"
     },
+    "location_address": "1011 OLD HIGHWAY 60",
+    "location_city": "HARDINSBURG",
+    "location_state": "KY",
+    "location_zip": "40143",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2707567000"
-    },
+    "phone_number": "2707567000",
     "provider_id": "181319",
     "raw_ratings": {},
     "state": "KY",

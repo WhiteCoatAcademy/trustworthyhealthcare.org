@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "GLENDORA COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"150 WEST ROUTE 66\",\"city\":\"GLENDORA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.128666734000035",
-        "longitude": "-117.86608886599998",
-        "needs_recoding": false
+        "coordinates": [
+            -117.865193,
+            34.128685
+        ],
+        "type": "Point"
     },
+    "location_address": "150 WEST ROUTE 66",
+    "location_city": "GLENDORA",
+    "location_state": "CA",
+    "location_zip": "91740",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6263350231"
-    },
+    "phone_number": "6263350231",
     "provider_id": "050205",
     "raw_ratings": {},
     "state": "CA",

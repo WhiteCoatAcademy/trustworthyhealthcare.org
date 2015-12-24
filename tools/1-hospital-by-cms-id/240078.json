@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6401 FRANCE AVENUE SOUTH\",\"city\":\"EDINA\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.88622152000005",
-        "longitude": "-93.32881230299995",
-        "needs_recoding": false
+        "coordinates": [
+            -93.328857,
+            44.886279
+        ],
+        "type": "Point"
     },
+    "location_address": "6401 FRANCE AVENUE SOUTH",
+    "location_city": "EDINA",
+    "location_state": "MN",
+    "location_zip": "55435",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.fairview.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9529245000"
-    },
+    "phone_number": "9529245000",
     "provider_id": "240078",
     "raw_ratings": {},
     "state": "MN",

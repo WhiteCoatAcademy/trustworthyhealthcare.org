@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 HADDON AVENUE\",\"city\":\"CAMDEN\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "39.92672441900004",
-        "longitude": "-75.09523519999993",
-        "needs_recoding": false
+        "coordinates": [
+            -75.09571,
+            39.927037
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 HADDON AVENUE",
+    "location_city": "CAMDEN",
+    "location_state": "NJ",
+    "location_zip": "08103",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.che.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8567573500"
-    },
+    "phone_number": "8567573500",
     "provider_id": "310029",
     "raw_ratings": {},
     "state": "NJ",

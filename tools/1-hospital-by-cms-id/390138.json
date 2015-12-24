@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"501 EAST MAIN ST\",\"city\":\"WAYNESBORO\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.75139411500004",
-        "longitude": "-77.56925784299995",
-        "needs_recoding": false
+        "coordinates": [
+            -77.574023,
+            39.753538
+        ],
+        "type": "Point"
     },
+    "location_address": "501 EAST MAIN ST",
+    "location_city": "WAYNESBORO",
+    "location_state": "PA",
+    "location_zip": "17268",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.summithealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7177654000"
-    },
+    "phone_number": "7177654000",
     "provider_id": "390138",
     "raw_ratings": {},
     "state": "PA",

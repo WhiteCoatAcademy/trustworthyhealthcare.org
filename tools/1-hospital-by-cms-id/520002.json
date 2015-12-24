@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"900 ILLINOIS AVE\",\"city\":\"STEVENS POINT\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.52651946700007",
-        "longitude": "-89.56626879699996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.566197,
+            44.526164
+        ],
+        "type": "Point"
     },
+    "location_address": "900 ILLINOIS AVE",
+    "location_city": "STEVENS POINT",
+    "location_state": "WI",
+    "location_zip": "54481",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.marianhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7153465000"
-    },
+    "phone_number": "7153465000",
     "provider_id": "520002",
     "raw_ratings": {},
     "state": "WI",

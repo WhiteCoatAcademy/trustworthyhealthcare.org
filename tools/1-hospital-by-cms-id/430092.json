@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 8TH AVENUE NW SUITE C\",\"city\":\"ABERDEEN\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "45.45696744400004",
-        "longitude": "-98.47730078699999",
-        "needs_recoding": false
+        "coordinates": [
+            -98.502266,
+            45.473935
+        ],
+        "type": "Point"
     },
+    "location_address": "701 8TH AVENUE NW SUITE C",
+    "location_city": "ABERDEEN",
+    "location_state": "SD",
+    "location_zip": "57401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.medicalfacilitiescorp.ca"
         ]
     },
-    "phone_number": {
-        "phone_number": "6052253300"
-    },
+    "phone_number": "6052253300",
     "provider_id": "430092",
     "raw_ratings": {},
     "state": "SD",

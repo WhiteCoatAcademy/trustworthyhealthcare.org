@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1635 MARVEL STREET\",\"city\":\"COUSHATTA\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.020842954000045",
-        "longitude": "-93.34424596599996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.343255,
+            32.022341
+        ],
+        "type": "Point"
     },
+    "location_address": "1635 MARVEL STREET",
+    "location_city": "COUSHATTA",
+    "location_state": "LA",
+    "location_zip": "71019",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.christushealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3189322000"
-    },
+    "phone_number": "3189322000",
     "provider_id": "191312",
     "raw_ratings": {},
     "state": "LA",

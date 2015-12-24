@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8012 SOUTH CRANDON AVENUE\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.749601444000064",
-        "longitude": "-87.56868927899995",
-        "needs_recoding": false
+        "coordinates": [
+            -87.568623,
+            41.749496
+        ],
+        "type": "Point"
     },
+    "location_address": "8012 SOUTH CRANDON AVENUE",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60617",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7737680810"
-    },
+    "phone_number": "7737680810",
     "provider_id": "140181",
     "raw_ratings": {},
     "state": "IL",

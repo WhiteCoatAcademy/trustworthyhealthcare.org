@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"951 N WASHINGTON AVE\",\"city\":\"TITUSVILLE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.627996394000036",
-        "longitude": "-80.82426502599998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.824023,
+            28.627529
+        ],
+        "type": "Point"
     },
+    "location_address": "951 N WASHINGTON AVE",
+    "location_city": "TITUSVILLE",
+    "location_state": "FL",
+    "location_zip": "32796",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3212686111"
-    },
+    "phone_number": "3212686111",
     "provider_id": "100028",
     "raw_ratings": {},
     "state": "FL",

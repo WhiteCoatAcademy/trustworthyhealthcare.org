@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1265 E COLLEGE ST\",\"city\":\"PULASKI\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.19117178800008",
-        "longitude": "-87.00419074299998",
-        "needs_recoding": false
+        "coordinates": [
+            -87.007123,
+            35.192228
+        ],
+        "type": "Point"
     },
+    "location_address": "1265 E COLLEGE ST",
+    "location_city": "PULASKI",
+    "location_state": "TN",
+    "location_zip": "38478",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9313637531"
-    },
+    "phone_number": "9313637531",
     "provider_id": "440020",
     "raw_ratings": {},
     "state": "TN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"317 MAIN STREET\",\"city\":\"EAGLE BUTTE\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "44.997885444000076",
-        "longitude": "-101.23479846099997",
-        "needs_recoding": false
+        "coordinates": [
+            -101.234822,
+            44.998159
+        ],
+        "type": "Point"
     },
+    "location_address": "317 MAIN STREET",
+    "location_city": "EAGLE BUTTE",
+    "location_state": "SD",
+    "location_zip": "57625",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ihs.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "6059643005"
-    },
+    "phone_number": "6059643005",
     "provider_id": "430083",
     "raw_ratings": {},
     "state": "SD",

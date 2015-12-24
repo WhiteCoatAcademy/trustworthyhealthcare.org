@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 NORTH LEWIS STREET\",\"city\":\"NEW IBERIA\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.00779596600006",
-        "longitude": "-91.79549707599995",
-        "needs_recoding": false
+        "coordinates": [
+            -91.795591,
+            30.007689
+        ],
+        "type": "Point"
     },
+    "location_address": "600 NORTH LEWIS STREET",
+    "location_city": "NEW IBERIA",
+    "location_state": "LA",
+    "location_zip": "70563",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3373657311"
-    },
+    "phone_number": "3373657311",
     "provider_id": "190003",
     "raw_ratings": {},
     "state": "LA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1518 MULBERRY AVENUE\",\"city\":\"MUSCATINE\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.43397713600007",
-        "longitude": "-91.05248072999996",
-        "needs_recoding": false
+        "coordinates": [
+            -91.052402,
+            41.433948
+        ],
+        "type": "Point"
     },
+    "location_address": "1518 MULBERRY AVENUE",
+    "location_city": "MUSCATINE",
+    "location_state": "IA",
+    "location_zip": "52761",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5632649100"
-    },
+    "phone_number": "5632649100",
     "provider_id": "160013",
     "raw_ratings": {},
     "state": "IA",

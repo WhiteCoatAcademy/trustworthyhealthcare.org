@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"900 SUNSET DRIVE\",\"city\":\"LA GRANDE\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "45.31900935200008",
-        "longitude": "-118.10477604799996",
-        "needs_recoding": false
+        "coordinates": [
+            -118.104828,
+            45.319464
+        ],
+        "type": "Point"
     },
+    "location_address": "900 SUNSET DRIVE",
+    "location_city": "LA GRANDE",
+    "location_state": "OR",
+    "location_zip": "97850",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5419638421"
-    },
+    "phone_number": "5419638421",
     "provider_id": "381321",
     "raw_ratings": {},
     "state": "OR",

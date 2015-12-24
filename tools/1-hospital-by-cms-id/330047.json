@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"427 GUY PARK AVENUE\",\"city\":\"AMSTERDAM\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.95352573400004",
-        "longitude": "-74.21554164999998",
-        "needs_recoding": false
+        "coordinates": [
+            -74.216686,
+            42.95386
+        ],
+        "type": "Point"
     },
+    "location_address": "427 GUY PARK AVENUE",
+    "location_city": "AMSTERDAM",
+    "location_state": "NY",
+    "location_zip": "12010",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5188421900"
-    },
+    "phone_number": "5188421900",
     "provider_id": "330047",
     "raw_ratings": {},
     "state": "NY",

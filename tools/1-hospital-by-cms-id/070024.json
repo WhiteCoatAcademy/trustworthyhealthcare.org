@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"326 WASHINGTON ST\",\"city\":\"NORWICH\",\"state\":\"CT\",\"zip\":\"\"}",
-        "latitude": "41.54356280500008",
-        "longitude": "-72.08689717099998",
-        "needs_recoding": false
+        "coordinates": [
+            -72.086747,
+            41.543402
+        ],
+        "type": "Point"
     },
+    "location_address": "326 WASHINGTON ST",
+    "location_city": "NORWICH",
+    "location_state": "CT",
+    "location_zip": "06360",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8608898331"
-    },
+    "phone_number": "8608898331",
     "provider_id": "070024",
     "raw_ratings": {},
     "state": "CT",

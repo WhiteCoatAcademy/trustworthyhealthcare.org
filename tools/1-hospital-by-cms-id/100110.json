@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 WEST OAK STREET\",\"city\":\"KISSIMMEE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.300863586000048",
-        "longitude": "-81.41034090799997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.409316,
+            28.300919
+        ],
+        "type": "Point"
     },
+    "location_address": "700 WEST OAK STREET",
+    "location_city": "KISSIMMEE",
+    "location_state": "FL",
+    "location_zip": "34741",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4078462266"
-    },
+    "phone_number": "4078462266",
     "provider_id": "100110",
     "raw_ratings": {},
     "state": "FL",

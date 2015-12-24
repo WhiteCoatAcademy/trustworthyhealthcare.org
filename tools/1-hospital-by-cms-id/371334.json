@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"102 NORTH BROADWAY\",\"city\":\"CARNEGIE\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.10721092700004",
-        "longitude": "-98.60492076899999",
-        "needs_recoding": false
+        "coordinates": [
+            -98.604922,
+            35.107133
+        ],
+        "type": "Point"
     },
+    "location_address": "102 NORTH BROADWAY",
+    "location_city": "CARNEGIE",
+    "location_state": "OK",
+    "location_zip": "73015",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5806541050"
-    },
+    "phone_number": "5806541050",
     "provider_id": "371334",
     "raw_ratings": {},
     "state": "OK",

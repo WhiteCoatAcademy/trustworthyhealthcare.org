@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"3601 SOUTH SIXTH AVENUE\",\"city\":\"TUCSON\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "32.18111037500006",
-        "longitude": "-110.96825805299994",
-        "needs_recoding": false
+        "coordinates": [
+            -110.968281,
+            32.181434
+        ],
+        "type": "Point"
     },
+    "location_address": "3601 SOUTH SIXTH AVENUE",
+    "location_city": "TUCSON",
+    "location_state": "AZ",
+    "location_zip": "85723",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "5206291821"
-    },
+    "phone_number": "5206291821",
     "provider_id": "03013F",
     "raw_ratings": {},
     "state": "AZ",

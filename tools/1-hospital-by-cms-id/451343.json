@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1207 S BAILEY STREET\",\"city\":\"ELECTRA\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "34.01910588000004",
-        "longitude": "-98.92399320399994",
-        "needs_recoding": false
+        "coordinates": [
+            -98.923957,
+            34.019123
+        ],
+        "type": "Point"
     },
+    "location_address": "1207 S BAILEY STREET",
+    "location_city": "ELECTRA",
+    "location_state": "TX",
+    "location_zip": "76360",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9404953981"
-    },
+    "phone_number": "9404953981",
     "provider_id": "451343",
     "raw_ratings": {},
     "state": "TX",

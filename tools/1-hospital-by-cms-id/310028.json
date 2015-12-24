@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"175 HIGH ST\",\"city\":\"NEWTON\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "41.05561618400003",
-        "longitude": "-74.76507406599995",
-        "needs_recoding": false
+        "coordinates": [
+            -74.765035,
+            41.055592
+        ],
+        "type": "Point"
     },
+    "location_address": "175 HIGH ST",
+    "location_city": "NEWTON",
+    "location_state": "NJ",
+    "location_zip": "07860",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9735798300"
-    },
+    "phone_number": "9735798300",
     "provider_id": "310028",
     "raw_ratings": {},
     "state": "NJ",

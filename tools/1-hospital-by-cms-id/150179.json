@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8102 CLEARVISTA PARKWAY\",\"city\":\"INDIANAPOLIS\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.90283658300007",
-        "longitude": "-86.03938881599998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.039584,
+            39.903152
+        ],
+        "type": "Point"
     },
+    "location_address": "8102 CLEARVISTA PARKWAY",
+    "location_city": "INDIANAPOLIS",
+    "location_state": "IN",
+    "location_zip": "46256",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3178498222"
-    },
+    "phone_number": "3178498222",
     "provider_id": "150179",
     "raw_ratings": {},
     "state": "IN",

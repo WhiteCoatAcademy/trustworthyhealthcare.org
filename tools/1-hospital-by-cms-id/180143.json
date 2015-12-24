@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"150 NORTH EAGLE CREEK DRIVE\",\"city\":\"LEXINGTON\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "38.00002753100006",
-        "longitude": "-84.44056207699998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.439978,
+            38.000573
+        ],
+        "type": "Point"
     },
+    "location_address": "150 NORTH EAGLE CREEK DRIVE",
+    "location_city": "LEXINGTON",
+    "location_state": "KY",
+    "location_zip": "40509",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8599675000"
-    },
+    "phone_number": "8599675000",
     "provider_id": "180143",
     "raw_ratings": {},
     "state": "KY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"15 AIKEN AVENUE\",\"city\":\"FRANKLIN\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "43.44747605400005",
-        "longitude": "-71.64235768699996",
-        "needs_recoding": false
+        "coordinates": [
+            -71.642801,
+            43.447764
+        ],
+        "type": "Point"
     },
+    "location_address": "15 AIKEN AVENUE",
+    "location_city": "FRANKLIN",
+    "location_state": "NH",
+    "location_zip": "03235",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lrgh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6039342060"
-    },
+    "phone_number": "6039342060",
     "provider_id": "301306",
     "raw_ratings": {},
     "state": "NH",

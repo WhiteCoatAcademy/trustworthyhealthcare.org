@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3155 GLENDALE MILFORD ROAD\",\"city\":\"CINCINNATI\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.253972866000026",
-        "longitude": "-84.42039253599995",
-        "needs_recoding": false
+        "coordinates": [
+            -84.420098,
+            39.253934
+        ],
+        "type": "Point"
     },
+    "location_address": "3155 GLENDALE MILFORD ROAD",
+    "location_city": "CINCINNATI",
+    "location_state": "OH",
+    "location_zip": "45241",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5134542222"
-    },
+    "phone_number": "5134542222",
     "provider_id": "360362",
     "raw_ratings": {},
     "state": "OH",

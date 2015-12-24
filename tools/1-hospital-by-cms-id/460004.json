@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4401 HARRISON BOULEVARD\",\"city\":\"OGDEN\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "41.182842762000064",
-        "longitude": "-111.94917334099995",
-        "needs_recoding": false
+        "coordinates": [
+            -111.94908,
+            41.184218
+        ],
+        "type": "Point"
     },
+    "location_address": "4401 HARRISON BOULEVARD",
+    "location_city": "OGDEN",
+    "location_state": "UT",
+    "location_zip": "84403",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "intermountainhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8013872800"
-    },
+    "phone_number": "8013872800",
     "provider_id": "460004",
     "raw_ratings": {},
     "state": "UT",

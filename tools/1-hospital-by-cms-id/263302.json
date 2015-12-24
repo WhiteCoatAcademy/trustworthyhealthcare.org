@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Childrens",
     "location": {
-        "human_address": "{\"address\":\"2401 GILLHAM ROAD\",\"city\":\"KANSAS CITY\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.08396729800006",
-        "longitude": "-94.57899671399997",
-        "needs_recoding": false
+        "coordinates": [
+            -94.578985,
+            39.085393
+        ],
+        "type": "Point"
     },
+    "location_address": "2401 GILLHAM ROAD",
+    "location_city": "KANSAS CITY",
+    "location_state": "MO",
+    "location_zip": "64108",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.childrens-mercy.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8162343000"
-    },
+    "phone_number": "8162343000",
     "provider_id": "263302",
     "raw_ratings": {},
     "state": "MO",

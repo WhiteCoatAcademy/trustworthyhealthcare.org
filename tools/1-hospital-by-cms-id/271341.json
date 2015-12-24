@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"315 KNAPP ST\",\"city\":\"WOLF POINT\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "48.10103708400004",
-        "longitude": "-105.64166021599999",
-        "needs_recoding": false
+        "coordinates": [
+            -105.640949,
+            48.100895
+        ],
+        "type": "Point"
     },
+    "location_address": "315 KNAPP ST",
+    "location_city": "WOLF POINT",
+    "location_state": "MT",
+    "location_zip": "59201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4066536500"
-    },
+    "phone_number": "4066536500",
     "provider_id": "271341",
     "raw_ratings": {},
     "state": "MT",

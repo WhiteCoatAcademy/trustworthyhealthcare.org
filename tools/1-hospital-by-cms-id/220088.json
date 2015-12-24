@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"125 PARKER HILL AVENUE\",\"city\":\"BOSTON\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.32960202700008",
-        "longitude": "-71.10613278599999",
-        "needs_recoding": false
+        "coordinates": [
+            -71.106294,
+            42.330025
+        ],
+        "type": "Point"
     },
+    "location_address": "125 PARKER HILL AVENUE",
+    "location_city": "BOSTON",
+    "location_state": "MA",
+    "location_zip": "02120",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.caregroup.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6177545800"
-    },
+    "phone_number": "6177545800",
     "provider_id": "220088",
     "raw_ratings": {},
     "state": "MA",

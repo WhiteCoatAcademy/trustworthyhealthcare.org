@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2500 N STATE ST\",\"city\":\"JACKSON\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.32875080300005",
-        "longitude": "-90.17554315599995",
-        "needs_recoding": false
+        "coordinates": [
+            -90.175582,
+            32.328655
+        ],
+        "type": "Point"
     },
+    "location_address": "2500 N STATE ST",
+    "location_city": "JACKSON",
+    "location_state": "MS",
+    "location_zip": "39216",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.umc.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "6019844100"
-    },
+    "phone_number": "6019844100",
     "provider_id": "250001",
     "raw_ratings": {},
     "state": "MS",

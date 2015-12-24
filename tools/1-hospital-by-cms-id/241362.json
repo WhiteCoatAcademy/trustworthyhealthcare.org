@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1013 HART BOULEVARD\",\"city\":\"MONTICELLO\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.30002010700008",
-        "longitude": "-93.77877927699996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.780492,
+            45.300905
+        ],
+        "type": "Point"
     },
+    "location_address": "1013 HART BOULEVARD",
+    "location_city": "MONTICELLO",
+    "location_state": "MN",
+    "location_zip": "55362",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7632952945"
-    },
+    "phone_number": "7632952945",
     "provider_id": "241362",
     "raw_ratings": {},
     "state": "MN",

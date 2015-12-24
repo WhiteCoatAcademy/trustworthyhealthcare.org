@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"720 HOSPITAL DRIVE\",\"city\":\"ANDREWS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.337086698000064",
-        "longitude": "-102.54617265199994",
-        "needs_recoding": false
+        "coordinates": [
+            -102.546362,
+            32.337144
+        ],
+        "type": "Point"
     },
+    "location_address": "720 HOSPITAL DRIVE",
+    "location_city": "ANDREWS",
+    "location_state": "TX",
+    "location_zip": "79714",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4325232200"
-    },
+    "phone_number": "4325232200",
     "provider_id": "450144",
     "raw_ratings": {},
     "state": "TX",

@@ -4,15 +4,20 @@
     "county_name": "WAYNE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "REID HOSPITAL & HEALTH CARE SERVICES",
+    "hospital_name": "REID HEALTH",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1100 REID PKWY\",\"city\":\"RICHMOND\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.86284779500005",
-        "longitude": "-84.88379073399994",
-        "needs_recoding": false
+        "coordinates": [
+            -84.887765,
+            39.86303
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 REID PKWY",
+    "location_city": "RICHMOND",
+    "location_state": "IN",
+    "location_zip": "47374",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7659833000"
-    },
+    "phone_number": "7659833000",
     "provider_id": "150048",
     "raw_ratings": {},
     "state": "IN",

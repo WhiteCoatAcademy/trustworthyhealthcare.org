@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 S COLUMBIA RD\",\"city\":\"GRAND FORKS\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "47.90915911600007",
-        "longitude": "-97.06649187199997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.066383,
+            47.910637
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 S COLUMBIA RD",
+    "location_city": "GRAND FORKS",
+    "location_state": "ND",
+    "location_zip": "58201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7017805000"
-    },
+    "phone_number": "7017805000",
     "provider_id": "350019",
     "raw_ratings": {},
     "state": "ND",

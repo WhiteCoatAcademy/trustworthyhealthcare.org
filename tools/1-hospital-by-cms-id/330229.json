@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"529 CENTRAL AVENUE\",\"city\":\"DUNKIRK\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.480329684000026",
-        "longitude": "-79.33369516399995",
-        "needs_recoding": false
+        "coordinates": [
+            -79.333697,
+            42.480398
+        ],
+        "type": "Point"
     },
+    "location_address": "529 CENTRAL AVENUE",
+    "location_city": "DUNKIRK",
+    "location_state": "NY",
+    "location_zip": "14048",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7163661111"
-    },
+    "phone_number": "7163661111",
     "provider_id": "330229",
     "raw_ratings": {},
     "state": "NY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"509 SUMTER STREET, BOX 770\",\"city\":\"MONTEZUMA\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.29401210000003",
-        "longitude": "-84.02988077199996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.029901,
+            32.294195
+        ],
+        "type": "Point"
     },
+    "location_address": "509 SUMTER STREET, BOX 770",
+    "location_city": "MONTEZUMA",
+    "location_state": "GA",
+    "location_zip": "31063",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.resurgencehealthgroup.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4784723100"
-    },
+    "phone_number": "4784723100",
     "provider_id": "110190",
     "raw_ratings": {},
     "state": "GA",

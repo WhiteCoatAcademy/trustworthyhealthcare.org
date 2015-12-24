@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1 ELLIOT WAY\",\"city\":\"MANCHESTER\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "42.982755833000056",
-        "longitude": "-71.43477375499998",
-        "needs_recoding": false
+        "coordinates": [
+            -71.437232,
+            42.983851
+        ],
+        "type": "Point"
     },
+    "location_address": "1 ELLIOT WAY",
+    "location_city": "MANCHESTER",
+    "location_state": "NH",
+    "location_zip": "03103",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6036695300"
-    },
+    "phone_number": "6036695300",
     "provider_id": "300012",
     "raw_ratings": {},
     "state": "NH",

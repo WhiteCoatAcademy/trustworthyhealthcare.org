@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"593 EDDY STREET\",\"city\":\"PROVIDENCE\",\"state\":\"RI\",\"zip\":\"\"}",
-        "latitude": "41.811566345000074",
-        "longitude": "-71.40711144899996",
-        "needs_recoding": false
+        "coordinates": [
+            -71.407047,
+            41.812045
+        ],
+        "type": "Point"
     },
+    "location_address": "593 EDDY STREET",
+    "location_city": "PROVIDENCE",
+    "location_state": "RI",
+    "location_zip": "02903",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,11 +33,9 @@
             "www.lifespan.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4014444000"
-    },
+    "phone_number": "4014444000",
     "provider_id": "410007",
     "raw_ratings": {},
     "state": "RI",
-    "zip_code": "02902"
+    "zip_code": "02903"
 }

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 WEST AVENUE SOUTH\",\"city\":\"LA CROSSE\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.80402379000003",
-        "longitude": "-91.23952833199996",
-        "needs_recoding": false
+        "coordinates": [
+            -91.239513,
+            43.804645
+        ],
+        "type": "Point"
     },
+    "location_address": "700 WEST AVENUE SOUTH",
+    "location_city": "LA CROSSE",
+    "location_state": "WI",
+    "location_zip": "54601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mayohealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6087850940"
-    },
+    "phone_number": "6087850940",
     "provider_id": "520004",
     "raw_ratings": {},
     "state": "WI",

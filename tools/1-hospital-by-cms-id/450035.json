@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "ST JOSEPH MEDICAL CENTER",
-    "hospital_ownership": "Government - Federal",
+    "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1401 ST. JOSEPH PARKWAY\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.74780460200003",
-        "longitude": "-95.36622630799997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.366182,
+            29.747785
+        ],
+        "type": "Point"
     },
+    "location_address": "1401 ST. JOSEPH PARKWAY",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77002",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hospitalpartners.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7137571000"
-    },
+    "phone_number": "7137571000",
     "provider_id": "450035",
     "raw_ratings": {},
     "state": "TX",

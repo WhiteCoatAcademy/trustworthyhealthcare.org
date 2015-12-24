@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"31 UNION ST\",\"city\":\"ROCKVILLE\",\"state\":\"CT\",\"zip\":\"\"}",
-        "latitude": "41.86793219200007",
-        "longitude": "-72.45700561199999",
-        "needs_recoding": false
+        "coordinates": [
+            -72.451083,
+            41.866959
+        ],
+        "type": "Point"
     },
+    "location_address": "31 UNION ST",
+    "location_city": "ROCKVILLE",
+    "location_state": "CT",
+    "location_zip": "06066",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.echn.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8608725160"
-    },
+    "phone_number": "8608725160",
     "provider_id": "070012",
     "raw_ratings": {},
     "state": "CT",

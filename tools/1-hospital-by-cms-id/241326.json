@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"20 NINTH STREET SOUTHEAST\",\"city\":\"LONG PRAIRIE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.973669047000044",
-        "longitude": "-94.85024142499998",
-        "needs_recoding": false
+        "coordinates": [
+            -94.85026,
+            45.973688
+        ],
+        "type": "Point"
     },
+    "location_address": "20 NINTH STREET SOUTHEAST",
+    "location_city": "LONG PRAIRIE",
+    "location_state": "MN",
+    "location_zip": "56347",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.centracare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3207327210"
-    },
+    "phone_number": "3207322141",
     "provider_id": "241326",
     "raw_ratings": {},
     "state": "MN",

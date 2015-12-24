@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2211 LOMAS BOULEVARD NE\",\"city\":\"ALBUQUERQUE\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "35.08756841100006",
-        "longitude": "-106.61749081199997",
-        "needs_recoding": false
+        "coordinates": [
+            -106.616839,
+            35.087491
+        ],
+        "type": "Point"
     },
+    "location_address": "2211 LOMAS BOULEVARD NE",
+    "location_city": "ALBUQUERQUE",
+    "location_state": "NM",
+    "location_zip": "87106",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "hospitals.unm.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "5052722111"
-    },
+    "phone_number": "5052722111",
     "provider_id": "320001",
     "raw_ratings": {},
     "state": "NM",

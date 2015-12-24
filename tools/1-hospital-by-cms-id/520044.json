@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3100 SUPERIOR AVE\",\"city\":\"SHEBOYGAN\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.76116697200007",
-        "longitude": "-87.74787130099998",
-        "needs_recoding": false
+        "coordinates": [
+            -87.747489,
+            43.761115
+        ],
+        "type": "Point"
     },
+    "location_address": "3100 SUPERIOR AVE",
+    "location_city": "SHEBOYGAN",
+    "location_state": "WI",
+    "location_zip": "53081",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hshs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9204598300"
-    },
+    "phone_number": "9204598300",
     "provider_id": "520044",
     "raw_ratings": {},
     "state": "WI",

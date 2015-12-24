@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 SAINT CLAIR STREET\",\"city\":\"SAINT MARYS\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.54485019700007",
-        "longitude": "-84.37002990199994",
-        "needs_recoding": false
+        "coordinates": [
+            -84.369837,
+            40.545212
+        ],
+        "type": "Point"
     },
+    "location_address": "200 SAINT CLAIR STREET",
+    "location_city": "SAINT MARYS",
+    "location_state": "OH",
+    "location_zip": "45885",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4193943335"
-    },
+    "phone_number": "4193943335",
     "provider_id": "360032",
     "raw_ratings": {},
     "state": "OH",

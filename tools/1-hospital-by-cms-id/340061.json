@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"101 MANNING DRIVE\",\"city\":\"CHAPEL HILL\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.90354199300003",
-        "longitude": "-79.05200445999998",
-        "needs_recoding": false
+        "coordinates": [
+            -79.052621,
+            35.903781
+        ],
+        "type": "Point"
     },
+    "location_address": "101 MANNING DRIVE",
+    "location_city": "CHAPEL HILL",
+    "location_state": "NC",
+    "location_zip": "27514",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9199664141"
-    },
+    "phone_number": "9199664141",
     "provider_id": "340061",
     "raw_ratings": {},
     "state": "NC",

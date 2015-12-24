@@ -4,15 +4,20 @@
     "county_name": "LLANO",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "SCOTT & WHITE HOSPITAL-LLANO",
+    "hospital_name": "BAYLOR SCOTT & WHITE MEDICAL CENTER - LLANO",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 W OLLIE\",\"city\":\"LLANO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.743282756000042",
-        "longitude": "-98.67767107199995",
-        "needs_recoding": false
+        "coordinates": [
+            -98.677078,
+            30.743343
+        ],
+        "type": "Point"
     },
+    "location_address": "200 W OLLIE",
+    "location_city": "LLANO",
+    "location_state": "TX",
+    "location_zip": "78643",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3252475040"
-    },
+    "phone_number": "3252475040",
     "provider_id": "450219",
     "raw_ratings": {},
     "state": "TX",

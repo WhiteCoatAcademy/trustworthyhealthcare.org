@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1730 WEST 25TH STREET\",\"city\":\"CLEVELAND\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.48729718000004",
-        "longitude": "-81.70592763699995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.705834,
+            41.487243
+        ],
+        "type": "Point"
     },
+    "location_address": "1730 WEST 25TH STREET",
+    "location_city": "CLEVELAND",
+    "location_state": "OH",
+    "location_zip": "44113",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "my.clevelandclinic.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2166964300"
-    },
+    "phone_number": "2166964300",
     "provider_id": "360087",
     "raw_ratings": {},
     "state": "OH",

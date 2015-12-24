@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1125 W JEFFERSON ST\",\"city\":\"FRANKLIN\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.480993125000055",
-        "longitude": "-86.03949136899996",
-        "needs_recoding": false
+        "coordinates": [
+            -86.077859,
+            39.480961
+        ],
+        "type": "Point"
     },
+    "location_address": "1125 W JEFFERSON ST",
+    "location_city": "FRANKLIN",
+    "location_state": "IN",
+    "location_zip": "46131",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3177363300"
-    },
+    "phone_number": "3177363300",
     "provider_id": "150001",
     "raw_ratings": {},
     "state": "IN",

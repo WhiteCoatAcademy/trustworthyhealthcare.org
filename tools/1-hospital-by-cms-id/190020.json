@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6300 MAIN STREET\",\"city\":\"ZACHARY\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.65009397700004",
-        "longitude": "-91.13770135499999",
-        "needs_recoding": false
+        "coordinates": [
+            -91.136768,
+            30.64996
+        ],
+        "type": "Point"
     },
+    "location_address": "6300 MAIN STREET",
+    "location_city": "ZACHARY",
+    "location_state": "LA",
+    "location_zip": "70791",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2256584000"
-    },
+    "phone_number": "2256584000",
     "provider_id": "190020",
     "raw_ratings": {},
     "state": "LA",

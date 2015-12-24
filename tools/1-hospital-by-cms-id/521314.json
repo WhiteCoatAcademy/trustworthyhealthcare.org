@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1501 THOMPSON ST\",\"city\":\"BLOOMER\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "45.101834189000044",
-        "longitude": "-91.50057892999996",
-        "needs_recoding": false
+        "coordinates": [
+            -91.500572,
+            45.102101
+        ],
+        "type": "Point"
     },
+    "location_address": "1501 THOMPSON ST",
+    "location_city": "BLOOMER",
+    "location_state": "WI",
+    "location_zip": "54724",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mayohealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7155682000"
-    },
+    "phone_number": "7155682000",
     "provider_id": "521314",
     "raw_ratings": {},
     "state": "WI",

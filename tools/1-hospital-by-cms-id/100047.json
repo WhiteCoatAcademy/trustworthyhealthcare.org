@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"809 E MARION AVE\",\"city\":\"PUNTA GORDA\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.94149111100006",
-        "longitude": "-82.04031314099996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.041808,
+            26.940672
+        ],
+        "type": "Point"
     },
+    "location_address": "809 E MARION AVE",
+    "location_city": "PUNTA GORDA",
+    "location_state": "FL",
+    "location_zip": "33950",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9416393131"
-    },
+    "phone_number": "9416393131",
     "provider_id": "100047",
     "raw_ratings": {},
     "state": "FL",

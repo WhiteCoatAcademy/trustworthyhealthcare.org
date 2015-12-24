@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 WEST GROVE STREET\",\"city\":\"EL DORADO\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "33.21840734400007",
-        "longitude": "-92.67236526799996",
-        "needs_recoding": false
+        "coordinates": [
+            -92.672295,
+            33.218363
+        ],
+        "type": "Point"
     },
+    "location_address": "700 WEST GROVE STREET",
+    "location_city": "EL DORADO",
+    "location_state": "AR",
+    "location_zip": "71731",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "8708632000"
-    },
+    "phone_number": "8708632000",
     "provider_id": "040088",
     "raw_ratings": {},
     "state": "AR",

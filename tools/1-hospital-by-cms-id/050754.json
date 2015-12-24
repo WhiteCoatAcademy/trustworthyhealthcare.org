@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"570 WILLOW ROAD\",\"city\":\"MENLO PARK\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.46208246100008",
-        "longitude": "-122.15946447599998",
-        "needs_recoding": false
+        "coordinates": [
+            -122.159496,
+            37.462072
+        ],
+        "type": "Point"
     },
+    "location_address": "570 WILLOW ROAD",
+    "location_city": "MENLO PARK",
+    "location_state": "CA",
+    "location_zip": "94025",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sutterhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6503248500"
-    },
+    "phone_number": "6503248500",
     "provider_id": "050754",
     "raw_ratings": {},
     "state": "CA",

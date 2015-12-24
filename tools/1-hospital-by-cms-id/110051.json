@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"35 HOSPITAL ROAD\",\"city\":\"BLAIRSVILLE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "34.88474830400003",
-        "longitude": "-83.96270910299995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.962676,
+            34.886699
+        ],
+        "type": "Point"
     },
+    "location_address": "35 HOSPITAL ROAD",
+    "location_city": "BLAIRSVILLE",
+    "location_state": "GA",
+    "location_zip": "30512",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7067452111"
-    },
+    "phone_number": "7067452111",
     "provider_id": "110051",
     "raw_ratings": {},
     "state": "GA",

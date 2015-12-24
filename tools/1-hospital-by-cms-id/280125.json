@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2700 WEST NORFOLK AVE\",\"city\":\"NORFOLK\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "42.032578321000074",
-        "longitude": "-97.45260076699998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.450942,
+            42.032526
+        ],
+        "type": "Point"
     },
+    "location_address": "2700 WEST NORFOLK AVE",
+    "location_city": "NORFOLK",
+    "location_state": "NE",
+    "location_zip": "68701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4023714880"
-    },
+    "phone_number": "4023714880",
     "provider_id": "280125",
     "raw_ratings": {},
     "state": "NE",

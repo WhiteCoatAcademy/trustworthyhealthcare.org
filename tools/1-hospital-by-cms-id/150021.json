@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11109 PARKVIEW PLAZA DRIVE\",\"city\":\"FORT WAYNE\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.187069646000054",
-        "longitude": "-85.09943681799996",
-        "needs_recoding": false
+        "coordinates": [
+            -85.098727,
+            41.185668
+        ],
+        "type": "Point"
     },
+    "location_address": "11109 PARKVIEW PLAZA DRIVE",
+    "location_city": "FORT WAYNE",
+    "location_state": "IN",
+    "location_zip": "46845",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.parkview.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2602661000"
-    },
+    "phone_number": "2602661000",
     "provider_id": "150021",
     "raw_ratings": {},
     "state": "IN",

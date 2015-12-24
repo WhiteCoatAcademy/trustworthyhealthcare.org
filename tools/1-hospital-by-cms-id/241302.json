@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"920 BELL AVENUE PO BOX 188\",\"city\":\"WESTBROOK\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.04524953300006",
-        "longitude": "-95.43890431299997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.438891,
+            44.045285
+        ],
+        "type": "Point"
     },
+    "location_address": "920 BELL AVENUE PO BOX 188",
+    "location_city": "WESTBROOK",
+    "location_state": "MN",
+    "location_zip": "56183",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sanfordhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5072746121"
-    },
+    "phone_number": "5072746121",
     "provider_id": "241302",
     "raw_ratings": {},
     "state": "MN",

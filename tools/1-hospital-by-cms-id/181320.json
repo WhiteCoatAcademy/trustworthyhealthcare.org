@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"131 HOSPITAL DRIVE\",\"city\":\"SALEM\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.264240175000054",
-        "longitude": "-88.22786912299995",
-        "needs_recoding": false
+        "coordinates": [
+            -88.229755,
+            37.263472
+        ],
+        "type": "Point"
     },
+    "location_address": "131 HOSPITAL DRIVE",
+    "location_city": "SALEM",
+    "location_state": "KY",
+    "location_zip": "42078",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2709882299"
-    },
+    "phone_number": "2709882299",
     "provider_id": "181320",
     "raw_ratings": {},
     "state": "KY",

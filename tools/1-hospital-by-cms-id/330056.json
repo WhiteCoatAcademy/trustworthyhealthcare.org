@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"121 DEKALB AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.68986978700008",
-        "longitude": "-73.97800735899995",
-        "needs_recoding": false
+        "coordinates": [
+            -73.9774,
+            40.689785
+        ],
+        "type": "Point"
     },
+    "location_address": "121 DEKALB AVENUE",
+    "location_city": "BROOKLYN",
+    "location_state": "NY",
+    "location_zip": "11201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nypsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7182508000"
-    },
+    "phone_number": "7182508000",
     "provider_id": "330056",
     "raw_ratings": {},
     "state": "NY",

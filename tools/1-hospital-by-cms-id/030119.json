@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3555 SOUTH VAL VISTA DRIVE\",\"city\":\"GILBERT\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.285886563000076",
-        "longitude": "-111.75528291999996",
-        "needs_recoding": false
+        "coordinates": [
+            -111.755311,
+            33.286661
+        ],
+        "type": "Point"
     },
+    "location_address": "3555 SOUTH VAL VISTA DRIVE",
+    "location_city": "GILBERT",
+    "location_state": "AZ",
+    "location_zip": "85296",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4807288327"
-    },
+    "phone_number": "4807288000",
     "provider_id": "030119",
     "raw_ratings": {},
     "state": "AZ",

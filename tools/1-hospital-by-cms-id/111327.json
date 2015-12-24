@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"302 SOUTH WAYNE STREET\",\"city\":\"ALMA\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "31.539141912000048",
-        "longitude": "-82.45962025099999",
-        "needs_recoding": false
+        "coordinates": [
+            -82.459678,
+            31.539158
+        ],
+        "type": "Point"
     },
+    "location_address": "302 SOUTH WAYNE STREET",
+    "location_city": "ALMA",
+    "location_state": "GA",
+    "location_zip": "31510",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9126328961"
-    },
+    "phone_number": "9126328961",
     "provider_id": "111327",
     "raw_ratings": {},
     "state": "GA",

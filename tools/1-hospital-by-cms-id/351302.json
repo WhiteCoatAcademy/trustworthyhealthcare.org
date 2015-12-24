@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"516 NORTH MAIN ST\",\"city\":\"WATFORD CITY\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "47.80675506500006",
-        "longitude": "-103.28303906999997",
-        "needs_recoding": false
+        "coordinates": [
+            -103.28304,
+            47.806152
+        ],
+        "type": "Point"
     },
+    "location_address": "516 NORTH MAIN ST",
+    "location_city": "WATFORD CITY",
+    "location_state": "ND",
+    "location_zip": "58854",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7018423000"
-    },
+    "phone_number": "7018423000",
     "provider_id": "351302",
     "raw_ratings": {},
     "state": "ND",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5995 SPRING STREET\",\"city\":\"WARM SPRINGS\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.890795368000056",
-        "longitude": "-84.68366392599995",
-        "needs_recoding": false
+        "coordinates": [
+            -84.68064,
+            32.890268
+        ],
+        "type": "Point"
     },
+    "location_address": "5995 SPRING STREET",
+    "location_city": "WARM SPRINGS",
+    "location_state": "GA",
+    "location_zip": "31830",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7066559351"
-    },
+    "phone_number": "7066559351",
     "provider_id": "111316",
     "raw_ratings": {},
     "state": "GA",

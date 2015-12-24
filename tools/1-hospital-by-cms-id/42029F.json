@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"109 BEE STREET\",\"city\":\"CHARLESTON\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "32.78530358300003",
-        "longitude": "-79.95332203499999",
-        "needs_recoding": false
+        "coordinates": [
+            -79.954452,
+            32.784955
+        ],
+        "type": "Point"
     },
+    "location_address": "109 BEE STREET",
+    "location_city": "CHARLESTON",
+    "location_state": "SC",
+    "location_zip": "29401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "8435775011"
-    },
+    "phone_number": "8435775011",
     "provider_id": "42029F",
     "raw_ratings": {},
     "state": "SC",

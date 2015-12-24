@@ -5,7 +5,7 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "MARIA PARHAM MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
         "human_address": "{\"address\":\"PO BOX 59\",\"city\":\"HENDERSON\",\"state\":\"NC\",\"zip\":\"\"}",
@@ -13,6 +13,10 @@
         "longitude": "-78.39867644999998",
         "needs_recoding": false
     },
+    "location_address": "PO BOX 59",
+    "location_city": "HENDERSON",
+    "location_state": "NC",
+    "location_zip": "27536",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +30,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2524313708"
-    },
+    "phone_number": "2524313708",
     "provider_id": "340132",
     "raw_ratings": {},
     "state": "NC",

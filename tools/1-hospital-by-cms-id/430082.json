@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3200 CANYON LAKE DR\",\"city\":\"RAPID CITY\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "44.07383837700007",
-        "longitude": "-103.27063234399998",
-        "needs_recoding": false
+        "coordinates": [
+            -103.278346,
+            44.071276
+        ],
+        "type": "Point"
     },
+    "location_address": "3200 CANYON LAKE DR",
+    "location_city": "RAPID CITY",
+    "location_state": "SD",
+    "location_zip": "57702",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ihs.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "6053552500"
-    },
+    "phone_number": "6053552500",
     "provider_id": "430082",
     "raw_ratings": {},
     "state": "SD",

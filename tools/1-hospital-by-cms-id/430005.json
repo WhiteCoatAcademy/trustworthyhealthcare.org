@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 9TH AVENUE NW POST OFFICE BOX 1210\",\"city\":\"WATERTOWN\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "44.91087654300003",
-        "longitude": "-97.12044740399995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.120996,
+            44.910677
+        ],
+        "type": "Point"
     },
+    "location_address": "401 9TH AVENUE NW POST OFFICE BOX 1210",
+    "location_city": "WATERTOWN",
+    "location_state": "SD",
+    "location_zip": "57201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6058827000"
-    },
+    "phone_number": "6058827000",
     "provider_id": "430005",
     "raw_ratings": {},
     "state": "SD",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 EAST LEFEVRE ROAD\",\"city\":\"STERLING\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.801582246000066",
-        "longitude": "-89.69703698299998",
-        "needs_recoding": false
+        "coordinates": [
+            -89.697127,
+            41.801549
+        ],
+        "type": "Point"
     },
+    "location_address": "100 EAST LEFEVRE ROAD",
+    "location_city": "STERLING",
+    "location_state": "IL",
+    "location_zip": "61081",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8156250400"
-    },
+    "phone_number": "8156250400",
     "provider_id": "140043",
     "raw_ratings": {},
     "state": "IL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"22401 FOSTER WINTER DRIVE\",\"city\":\"SOUTHFIELD\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.45780833600003",
-        "longitude": "-83.20272794599998",
-        "needs_recoding": false
+        "coordinates": [
+            -83.20269,
+            42.457572
+        ],
+        "type": "Point"
     },
+    "location_address": "22401 FOSTER WINTER DRIVE",
+    "location_city": "SOUTHFIELD",
+    "location_state": "MI",
+    "location_zip": "48075",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2484235100"
-    },
+    "phone_number": "2484235100",
     "provider_id": "230301",
     "raw_ratings": {},
     "state": "MI",

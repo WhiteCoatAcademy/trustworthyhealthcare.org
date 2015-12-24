@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2727 EAST LEMMON AVENUE BUILDING I\",\"city\":\"DALLAS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.80375096900008",
-        "longitude": "-96.79415057499995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.79453,
+            32.80429
+        ],
+        "type": "Point"
     },
+    "location_address": "2727 EAST LEMMON AVENUE BUILDING I",
+    "location_city": "DALLAS",
+    "location_state": "TX",
+    "location_zip": "75204",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2144433000"
-    },
+    "phone_number": "2144433000",
     "provider_id": "450422",
     "raw_ratings": {},
     "state": "TX",

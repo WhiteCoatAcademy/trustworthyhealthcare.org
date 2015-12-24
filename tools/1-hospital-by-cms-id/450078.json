@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "ANSON GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"101 AVENUE J\",\"city\":\"ANSON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.76742281400004",
-        "longitude": "-99.89548544199994",
-        "needs_recoding": false
+        "coordinates": [
+            -99.895515,
+            32.767506
+        ],
+        "type": "Point"
     },
+    "location_address": "101 AVENUE J",
+    "location_city": "ANSON",
+    "location_state": "TX",
+    "location_zip": "79501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3258233231"
-    },
+    "phone_number": "3258233231",
     "provider_id": "450078",
     "raw_ratings": {},
     "state": "TX",

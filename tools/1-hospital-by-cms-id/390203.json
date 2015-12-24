@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"595 WEST STATE ST\",\"city\":\"DOYLESTOWN\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.304602713000065",
-        "longitude": "-75.14381218999995",
-        "needs_recoding": false
+        "coordinates": [
+            -75.144395,
+            40.304193
+        ],
+        "type": "Point"
     },
+    "location_address": "595 WEST STATE ST",
+    "location_city": "DOYLESTOWN",
+    "location_state": "PA",
+    "location_zip": "18901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2153452200"
-    },
+    "phone_number": "2153452200",
     "provider_id": "390203",
     "raw_ratings": {},
     "state": "PA",

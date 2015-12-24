@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 INDUSTRIAL BOULEVARD\",\"city\":\"DUBLIN\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.53326843900004",
-        "longitude": "-82.94933886999996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.951076,
+            32.534759
+        ],
+        "type": "Point"
     },
+    "location_address": "200 INDUSTRIAL BOULEVARD",
+    "location_city": "DUBLIN",
+    "location_state": "GA",
+    "location_zip": "31021",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4782743100"
-    },
+    "phone_number": "4782743100",
     "provider_id": "110125",
     "raw_ratings": {},
     "state": "GA",

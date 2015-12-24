@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"145 MEMORIAL DRIVE\",\"city\":\"BROKEN BOW\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.40905498800004",
-        "longitude": "-99.63160059499995",
-        "needs_recoding": false
+        "coordinates": [
+            -99.631644,
+            41.408961
+        ],
+        "type": "Point"
     },
+    "location_address": "145 MEMORIAL DRIVE",
+    "location_city": "BROKEN BOW",
+    "location_state": "NE",
+    "location_zip": "68822",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3088724100"
-    },
+    "phone_number": "3088724100",
     "provider_id": "281365",
     "raw_ratings": {},
     "state": "NE",

@@ -4,15 +4,20 @@
     "county_name": "ADAMS",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "NATCHEZ COMMUNITY HOSPITAL",
+    "hospital_name": "MERIT HEALTH NATCHEZ-COMMUNITY CAMPUS",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"129 JEFFERSON DAVIS BLVD BOX 1203\",\"city\":\"NATCHEZ\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "31.523856894000062",
-        "longitude": "-91.38650879099998",
-        "needs_recoding": false
+        "coordinates": [
+            -91.387309,
+            31.523565
+        ],
+        "type": "Point"
     },
+    "location_address": "129 JEFFERSON DAVIS BLVD BOX 1203",
+    "location_city": "NATCHEZ",
+    "location_state": "MS",
+    "location_zip": "39120",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6014456200"
-    },
+    "phone_number": "6014456200",
     "provider_id": "250122",
     "raw_ratings": {},
     "state": "MS",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"301 EAST 18TH ST\",\"city\":\"ANNISTON\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "33.66768739300005",
-        "longitude": "-85.82468952899995",
-        "needs_recoding": false
+        "coordinates": [
+            -85.825025,
+            33.667701
+        ],
+        "type": "Point"
     },
+    "location_address": "301 EAST 18TH ST",
+    "location_city": "ANNISTON",
+    "location_state": "AL",
+    "location_zip": "36201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2562358900"
-    },
+    "phone_number": "2562358900",
     "provider_id": "010038",
     "raw_ratings": {},
     "state": "AL",

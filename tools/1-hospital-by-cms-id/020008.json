@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3260 HOSPITAL DR\",\"city\":\"JUNEAU\",\"state\":\"AK\",\"zip\":\"\"}",
-        "latitude": "58.32944252500005",
-        "longitude": "-134.46585505299998",
-        "needs_recoding": false
+        "coordinates": [
+            -134.466731,
+            58.328647
+        ],
+        "type": "Point"
     },
+    "location_address": "3260 HOSPITAL DR",
+    "location_city": "JUNEAU",
+    "location_state": "AK",
+    "location_zip": "99801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9077968900"
-    },
+    "phone_number": "9077968900",
     "provider_id": "020008",
     "raw_ratings": {},
     "state": "AK",

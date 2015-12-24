@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"16000 JOHNSTON MEMORIAL DRIVE\",\"city\":\"ABINGDON\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "36.72259189000005",
-        "longitude": "-81.91020345899994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.90856,
+            36.72067
+        ],
+        "type": "Point"
     },
+    "location_address": "16000 JOHNSTON MEMORIAL DRIVE",
+    "location_city": "ABINGDON",
+    "location_state": "VA",
+    "location_zip": "24211",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2762581000"
-    },
+    "phone_number": "2762581000",
     "provider_id": "490053",
     "raw_ratings": {},
     "state": "VA",

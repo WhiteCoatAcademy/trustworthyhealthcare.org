@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2001 W 68TH ST\",\"city\":\"HIALEAH\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.884148367000023",
-        "longitude": "-80.32671089099995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.324568,
+            25.884168
+        ],
+        "type": "Point"
     },
+    "location_address": "2001 W 68TH ST",
+    "location_city": "HIALEAH",
+    "location_state": "FL",
+    "location_zip": "33016",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3058235000"
-    },
+    "phone_number": "3058235000",
     "provider_id": "100187",
     "raw_ratings": {},
     "state": "FL",

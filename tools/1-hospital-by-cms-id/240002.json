@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"407 EAST THIRD STREET\",\"city\":\"DULUTH\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "46.79360397900007",
-        "longitude": "-92.09544902599998",
-        "needs_recoding": false
+        "coordinates": [
+            -92.095431,
+            46.793635
+        ],
+        "type": "Point"
     },
+    "location_address": "407 EAST THIRD STREET",
+    "location_city": "DULUTH",
+    "location_state": "MN",
+    "location_zip": "55805",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.smdc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2187864000"
-    },
+    "phone_number": "2187864000",
     "provider_id": "240002",
     "raw_ratings": {},
     "state": "MN",

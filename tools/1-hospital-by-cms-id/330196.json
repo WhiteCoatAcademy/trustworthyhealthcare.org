@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2601 OCEAN PARKWAY\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.59802779100005",
-        "longitude": "-73.95111601999997",
-        "needs_recoding": false
+        "coordinates": [
+            -73.965856,
+            40.586701
+        ],
+        "type": "Point"
     },
+    "location_address": "2601 OCEAN PARKWAY",
+    "location_city": "BROOKLYN",
+    "location_state": "NY",
+    "location_zip": "11235",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nyc.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "7186163000"
-    },
+    "phone_number": "7186163000",
     "provider_id": "330196",
     "raw_ratings": {},
     "state": "NY",

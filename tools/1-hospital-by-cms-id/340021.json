@@ -4,15 +4,20 @@
     "county_name": "CLEVELAND",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "CLEVELAND REGIONAL MEDICAL CENTER",
+    "hospital_name": "CAROLINAS HEALTHCARE SYSTEM CLEVELAND",
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"201 E GROVER ST\",\"city\":\"SHELBY\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.30150796700008",
-        "longitude": "-81.53723248599994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.535343,
+            35.301837
+        ],
+        "type": "Point"
     },
+    "location_address": "201 E GROVER ST",
+    "location_city": "SHELBY",
+    "location_state": "NC",
+    "location_zip": "28150",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.carolinas.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7044873000"
-    },
+    "phone_number": "7044873000",
     "provider_id": "340021",
     "raw_ratings": {},
     "state": "NC",

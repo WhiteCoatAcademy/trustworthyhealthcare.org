@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"900 LINCOLN AVE\",\"city\":\"GRANT\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.84800988400008",
-        "longitude": "-101.72693371599996",
-        "needs_recoding": false
+        "coordinates": [
+            -101.726778,
+            40.847687
+        ],
+        "type": "Point"
     },
+    "location_address": "900 LINCOLN AVE",
+    "location_city": "GRANT",
+    "location_state": "NE",
+    "location_zip": "69140",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3083527200"
-    },
+    "phone_number": "3083527200",
     "provider_id": "281356",
     "raw_ratings": {},
     "state": "NE",

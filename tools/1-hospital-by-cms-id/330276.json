@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"99 EAST STATE STREET\",\"city\":\"GLOVERSVILLE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.06803719700008",
-        "longitude": "-74.33079287799995",
-        "needs_recoding": false
+        "coordinates": [
+            -74.330817,
+            43.068029
+        ],
+        "type": "Point"
     },
+    "location_address": "99 EAST STATE STREET",
+    "location_city": "GLOVERSVILLE",
+    "location_state": "NY",
+    "location_zip": "12078",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5187258621"
-    },
+    "phone_number": "5187258621",
     "provider_id": "330276",
     "raw_ratings": {},
     "state": "NY",

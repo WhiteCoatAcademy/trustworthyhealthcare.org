@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"312 GRAMMONT ST SUITE 101\",\"city\":\"MONROE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.50146430900003",
-        "longitude": "-92.11433146799999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.115305,
+            32.501117
+        ],
+        "type": "Point"
     },
+    "location_address": "312 GRAMMONT ST SUITE 101",
+    "location_city": "MONROE",
+    "location_state": "LA",
+    "location_zip": "71201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.fmolhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3183884040"
-    },
+    "phone_number": "3183884040",
     "provider_id": "190246",
     "raw_ratings": {},
     "state": "LA",

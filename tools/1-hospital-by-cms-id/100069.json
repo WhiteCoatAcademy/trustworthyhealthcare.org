@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7171 N DALE MABRY HWY\",\"city\":\"TAMPA\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.014183470000035",
-        "longitude": "-82.50496723399993",
-        "needs_recoding": false
+        "coordinates": [
+            -82.504954,
+            28.013102
+        ],
+        "type": "Point"
     },
+    "location_address": "7171 N DALE MABRY HWY",
+    "location_city": "TAMPA",
+    "location_state": "FL",
+    "location_zip": "33614",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uch.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8139322222"
-    },
+    "phone_number": "8139322222",
     "provider_id": "100069",
     "raw_ratings": {},
     "state": "FL",

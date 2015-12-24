@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3000 N I-35\",\"city\":\"DENTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.21789322200004",
-        "longitude": "-97.16948166799995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.165874,
+            33.212735
+        ],
+        "type": "Point"
     },
+    "location_address": "3000 N I-35",
+    "location_city": "DENTON",
+    "location_state": "TX",
+    "location_zip": "76201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9408987000"
-    },
+    "phone_number": "9408987000",
     "provider_id": "450743",
     "raw_ratings": {},
     "state": "TX",

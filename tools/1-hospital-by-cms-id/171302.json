@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 BARKER DRIVE\",\"city\":\"OSWEGO\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.15975367200008",
-        "longitude": "-95.11044163799994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.108826,
+            37.160676
+        ],
+        "type": "Point"
     },
+    "location_address": "800 BARKER DRIVE",
+    "location_city": "OSWEGO",
+    "location_state": "KS",
+    "location_zip": "67356",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6207952921"
-    },
+    "phone_number": "6207952921",
     "provider_id": "171302",
     "raw_ratings": {},
     "state": "KS",

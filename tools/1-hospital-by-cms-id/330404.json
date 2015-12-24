@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"785 MAMARONECK AVENUE\",\"city\":\"WHITE PLAINS\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "41.01563431000005",
-        "longitude": "-73.75604968799996",
-        "needs_recoding": false
+        "coordinates": [
+            -73.755707,
+            41.015002
+        ],
+        "type": "Point"
     },
+    "location_address": "785 MAMARONECK AVENUE",
+    "location_city": "WHITE PLAINS",
+    "location_state": "NY",
+    "location_zip": "10605",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9145972232"
-    },
+    "phone_number": "9145972232",
     "provider_id": "330404",
     "raw_ratings": {},
     "state": "NY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5601 DE SOTO\",\"city\":\"WOODLAND HILLS\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.17225104700003",
-        "longitude": "-118.58815250799995",
-        "needs_recoding": false
+        "coordinates": [
+            -118.588182,
+            34.171005
+        ],
+        "type": "Point"
     },
+    "location_address": "5601 DE SOTO",
+    "location_city": "WOODLAND HILLS",
+    "location_state": "CA",
+    "location_zip": "91367",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8187193800"
-    },
+    "phone_number": "8187193800",
     "provider_id": "050677",
     "raw_ratings": {},
     "state": "CA",

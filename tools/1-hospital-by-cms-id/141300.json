@@ -2,17 +2,22 @@
     "address": "800 SCHOOL ST",
     "city": "CARROLLTON",
     "county_name": "GREENE",
-    "emergency_services": true,
+    "emergency_services": false,
     "global_rank": {},
     "hospital_name": "THOMAS H BOYD MEMORIAL HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 SCHOOL ST\",\"city\":\"CARROLLTON\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "39.29621228000008",
-        "longitude": "-90.41240438699998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.412303,
+            39.29617
+        ],
+        "type": "Point"
     },
+    "location_address": "800 SCHOOL ST",
+    "location_city": "CARROLLTON",
+    "location_state": "IL",
+    "location_zip": "62016",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2179426946"
-    },
+    "phone_number": "2179426946",
     "provider_id": "141300",
     "raw_ratings": {},
     "state": "IL",

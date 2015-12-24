@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1314 19TH AVE\",\"city\":\"MERIDIAN\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.37002593400007",
-        "longitude": "-88.69775282399996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.697785,
+            32.369974
+        ],
+        "type": "Point"
     },
+    "location_address": "1314 19TH AVE",
+    "location_city": "MERIDIAN",
+    "location_state": "MS",
+    "location_zip": "39301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.rushhealthsystems.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6014830011"
-    },
+    "phone_number": "6014830011",
     "provider_id": "250069",
     "raw_ratings": {},
     "state": "MS",

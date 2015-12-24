@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"30 LOCUST STREET\",\"city\":\"NORTHAMPTON\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.33189274100005",
-        "longitude": "-72.65405114699996",
-        "needs_recoding": false
+        "coordinates": [
+            -72.653387,
+            42.331632
+        ],
+        "type": "Point"
     },
+    "location_address": "30 LOCUST STREET",
+    "location_city": "NORTHAMPTON",
+    "location_state": "MA",
+    "location_zip": "01060",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4135822000"
-    },
+    "phone_number": "4135822000",
     "provider_id": "220015",
     "raw_ratings": {},
     "state": "MA",

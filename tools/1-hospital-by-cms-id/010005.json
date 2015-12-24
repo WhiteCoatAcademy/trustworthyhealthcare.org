@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2505 U S HIGHWAY 431 NORTH\",\"city\":\"BOAZ\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "34.221334555000055",
-        "longitude": "-86.15937514699993",
-        "needs_recoding": false
+        "coordinates": [
+            -86.159229,
+            34.221523
+        ],
+        "type": "Point"
     },
+    "location_address": "2505 U S HIGHWAY 431 NORTH",
+    "location_city": "BOAZ",
+    "location_state": "AL",
+    "location_zip": "35957",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2565938310"
-    },
+    "phone_number": "2565938310",
     "provider_id": "010005",
     "raw_ratings": {},
     "state": "AL",

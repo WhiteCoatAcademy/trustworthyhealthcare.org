@@ -4,15 +4,20 @@
     "county_name": "ORANGE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ORLANDO REGIONAL MEDICAL CENTER",
+    "hospital_name": "ORLANDO HEALTH",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1414 KUHL AVE\",\"city\":\"ORLANDO\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.525991798000064",
-        "longitude": "-81.37816228599996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.378093,
+            28.524911
+        ],
+        "type": "Point"
     },
+    "location_address": "1414 KUHL AVE",
+    "location_city": "ORLANDO",
+    "location_state": "FL",
+    "location_zip": "32806",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.orlandohealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3218413768"
-    },
+    "phone_number": "3218438000",
     "provider_id": "100006",
     "raw_ratings": {},
     "state": "FL",

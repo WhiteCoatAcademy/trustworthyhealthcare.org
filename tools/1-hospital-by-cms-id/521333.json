@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"711 W ADAMS ST\",\"city\":\"BLACK RIVER FALLS\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.30239463100003",
-        "longitude": "-90.85485629099998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.855853,
+            44.302401
+        ],
+        "type": "Point"
     },
+    "location_address": "711 W ADAMS ST",
+    "location_city": "BLACK RIVER FALLS",
+    "location_state": "WI",
+    "location_zip": "54615",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7152845361"
-    },
+    "phone_number": "7152845361",
     "provider_id": "521333",
     "raw_ratings": {},
     "state": "WI",

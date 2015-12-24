@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1501 E 3RD STREET\",\"city\":\"DELTA\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "38.743207820000066",
-        "longitude": "-108.04691138299995",
-        "needs_recoding": false
+        "coordinates": [
+            -108.047341,
+            38.743165
+        ],
+        "type": "Point"
     },
+    "location_address": "1501 E 3RD STREET",
+    "location_city": "DELTA",
+    "location_state": "CO",
+    "location_zip": "81416",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9708747681"
-    },
+    "phone_number": "9708747681",
     "provider_id": "060071",
     "raw_ratings": {},
     "state": "CO",

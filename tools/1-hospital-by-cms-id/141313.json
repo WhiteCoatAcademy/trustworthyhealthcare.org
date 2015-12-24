@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"615 NORTH PROMENADE STREET,P O BOX 530\",\"city\":\"HAVANA\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "40.30506524100008",
-        "longitude": "-90.05608443699998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.056112,
+            40.305772
+        ],
+        "type": "Point"
     },
+    "location_address": "615 NORTH PROMENADE STREET,P O BOX 530",
+    "location_city": "HAVANA",
+    "location_state": "IL",
+    "location_zip": "62644",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3095434431"
-    },
+    "phone_number": "3095434431",
     "provider_id": "141313",
     "raw_ratings": {},
     "state": "IL",

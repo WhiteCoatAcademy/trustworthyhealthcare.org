@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 S MAIN STREET\",\"city\":\"EATON RAPIDS\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.495272475000036",
-        "longitude": "-84.65792275699994",
-        "needs_recoding": false
+        "coordinates": [
+            -84.657539,
+            42.496021
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 S MAIN STREET",
+    "location_city": "EATON RAPIDS",
+    "location_state": "MI",
+    "location_zip": "48827",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5176632671"
-    },
+    "phone_number": "5176632671",
     "provider_id": "231324",
     "raw_ratings": {},
     "state": "MI",

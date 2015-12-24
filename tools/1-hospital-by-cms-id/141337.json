@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"530 PARK AVENUE EAST\",\"city\":\"PRINCETON\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.367998268000065",
-        "longitude": "-89.45600784799996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.456479,
+            41.368012
+        ],
+        "type": "Point"
     },
+    "location_address": "530 PARK AVENUE EAST",
+    "location_city": "PRINCETON",
+    "location_state": "IL",
+    "location_zip": "61356",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8158752811"
-    },
+    "phone_number": "8158752811",
     "provider_id": "141337",
     "raw_ratings": {},
     "state": "IL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1225 N STATE ST\",\"city\":\"JACKSON\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.31579829200007",
-        "longitude": "-90.17842311999999",
-        "needs_recoding": false
+        "coordinates": [
+            -90.178364,
+            32.316428
+        ],
+        "type": "Point"
     },
+    "location_address": "1225 N STATE ST",
+    "location_city": "JACKSON",
+    "location_state": "MS",
+    "location_zip": "39202",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6019681000"
-    },
+    "phone_number": "6019681000",
     "provider_id": "250102",
     "raw_ratings": {},
     "state": "MS",

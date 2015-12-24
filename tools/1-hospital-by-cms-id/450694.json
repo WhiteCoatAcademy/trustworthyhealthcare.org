@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"303 SANDY CORNER RD\",\"city\":\"EL CAMPO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.21949896500007",
-        "longitude": "-96.28969002699995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.289577,
+            29.219127
+        ],
+        "type": "Point"
     },
+    "location_address": "303 SANDY CORNER RD",
+    "location_city": "EL CAMPO",
+    "location_state": "TX",
+    "location_zip": "77437",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9795785251"
-    },
+    "phone_number": "9795785251",
     "provider_id": "450694",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3600 JOSEPH SIEWICK DRIVE\",\"city\":\"FAIRFAX\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "38.88590409500006",
-        "longitude": "-77.38071230399999",
-        "needs_recoding": false
+        "coordinates": [
+            -77.379027,
+            38.884731
+        ],
+        "type": "Point"
     },
+    "location_address": "3600 JOSEPH SIEWICK DRIVE",
+    "location_city": "FAIRFAX",
+    "location_state": "VA",
+    "location_zip": "22033",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.inova.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7033914170"
-    },
+    "phone_number": "7033914170",
     "provider_id": "490101",
     "raw_ratings": {},
     "state": "VA",

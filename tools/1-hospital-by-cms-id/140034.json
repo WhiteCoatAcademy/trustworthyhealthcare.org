@@ -4,15 +4,20 @@
     "county_name": "MARION",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ST MARYS HOSPITAL",
+    "hospital_name": "SSM HEALTH ST MARY'S HOSPITAL -CENTRALIA",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 NORTH PLEASANT AVENUE\",\"city\":\"CENTRALIA\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "38.52902434200007",
-        "longitude": "-89.11603942299996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.115999,
+            38.530815
+        ],
+        "type": "Point"
     },
+    "location_address": "400 NORTH PLEASANT AVENUE",
+    "location_city": "CENTRALIA",
+    "location_state": "IL",
+    "location_zip": "62801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ssmhc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6184366519"
-    },
+    "phone_number": "6184366519",
     "provider_id": "140034",
     "raw_ratings": {},
     "state": "IL",

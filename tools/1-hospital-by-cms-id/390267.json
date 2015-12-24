@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2570 HAYMAKER ROAD\",\"city\":\"MONROEVILLE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.42803280700008",
-        "longitude": "-79.75123484999995",
-        "needs_recoding": false
+        "coordinates": [
+            -79.751233,
+            40.428517
+        ],
+        "type": "Point"
     },
+    "location_address": "2570 HAYMAKER ROAD",
+    "location_city": "MONROEVILLE",
+    "location_state": "PA",
+    "location_zip": "15146",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wpahs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4128582000"
-    },
+    "phone_number": "4128582000",
     "provider_id": "390267",
     "raw_ratings": {},
     "state": "PA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 PERRY HOUSE ROAD, BOX 1447\",\"city\":\"FITZGERALD\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "31.697422799000037",
-        "longitude": "-83.26087784799995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.260921,
+            31.696988
+        ],
+        "type": "Point"
     },
+    "location_address": "200 PERRY HOUSE ROAD, BOX 1447",
+    "location_city": "FITZGERALD",
+    "location_state": "GA",
+    "location_zip": "31750",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2294247100"
-    },
+    "phone_number": "2294247100",
     "provider_id": "110073",
     "raw_ratings": {},
     "state": "GA",

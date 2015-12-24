@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1431 SW 1ST AVE\",\"city\":\"OCALA\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "29.17544087500005",
-        "longitude": "-82.13784901099996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.137839,
+            29.174757
+        ],
+        "type": "Point"
     },
+    "location_address": "1431 SW 1ST AVE",
+    "location_city": "OCALA",
+    "location_state": "FL",
+    "location_zip": "34478",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3524011000"
-    },
+    "phone_number": "3524011000",
     "provider_id": "100212",
     "raw_ratings": {},
     "state": "FL",

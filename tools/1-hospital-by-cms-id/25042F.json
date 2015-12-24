@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"400 VETERANS AVENUE\",\"city\":\"BILOXI\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "30.409010914000078",
-        "longitude": "-88.94720982799998",
-        "needs_recoding": false
+        "coordinates": [
+            -88.947254,
+            30.4091
+        ],
+        "type": "Point"
     },
+    "location_address": "400 VETERANS AVENUE",
+    "location_city": "BILOXI",
+    "location_state": "MS",
+    "location_zip": "39531",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2285235000"
-    },
+    "phone_number": "2285235000",
     "provider_id": "25042F",
     "raw_ratings": {},
     "state": "MS",

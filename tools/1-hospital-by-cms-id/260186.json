@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"54 HOSPITAL DRIVE\",\"city\":\"OSAGE BEACH\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.11861126900004",
-        "longitude": "-92.68133080699994",
-        "needs_recoding": false
+        "coordinates": [
+            -92.68336,
+            38.119188
+        ],
+        "type": "Point"
     },
+    "location_address": "54 HOSPITAL DRIVE",
+    "location_city": "OSAGE BEACH",
+    "location_state": "MO",
+    "location_zip": "65065",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5733488000"
-    },
+    "phone_number": "5733488000",
     "provider_id": "260186",
     "raw_ratings": {},
     "state": "MO",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 UPPER CHESAPEAKE DRIVE\",\"city\":\"BEL AIR\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.52044786500005",
-        "longitude": "-76.34575687499995",
-        "needs_recoding": false
+        "coordinates": [
+            -76.348526,
+            39.519568
+        ],
+        "type": "Point"
     },
+    "location_address": "500 UPPER CHESAPEAKE DRIVE",
+    "location_city": "BEL AIR",
+    "location_state": "MD",
+    "location_zip": "21014",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uchs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4436433303"
-    },
+    "phone_number": "4436433303",
     "provider_id": "210049",
     "raw_ratings": {},
     "state": "MD",

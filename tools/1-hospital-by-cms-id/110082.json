@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5665 PEACHTREE DUNWOODY ROAD\",\"city\":\"ATLANTA\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.90823678100003",
-        "longitude": "-84.35184213799994",
-        "needs_recoding": false
+        "coordinates": [
+            -84.351818,
+            33.908474
+        ],
+        "type": "Point"
     },
+    "location_address": "5665 PEACHTREE DUNWOODY ROAD",
+    "location_city": "ATLANTA",
+    "location_state": "GA",
+    "location_zip": "30342",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.che.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6788435720"
-    },
+    "phone_number": "6788435720",
     "provider_id": "110082",
     "raw_ratings": {},
     "state": "GA",

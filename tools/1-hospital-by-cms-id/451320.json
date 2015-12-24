@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 HOSPITAL DRIVE\",\"city\":\"ANAHUAC\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.75211338300005",
-        "longitude": "-94.68514263399999",
-        "needs_recoding": false
+        "coordinates": [
+            -94.686651,
+            29.753054
+        ],
+        "type": "Point"
     },
+    "location_address": "200 HOSPITAL DRIVE",
+    "location_city": "ANAHUAC",
+    "location_state": "TX",
+    "location_zip": "77514",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4092673143"
-    },
+    "phone_number": "4092673143",
     "provider_id": "451320",
     "raw_ratings": {},
     "state": "TX",

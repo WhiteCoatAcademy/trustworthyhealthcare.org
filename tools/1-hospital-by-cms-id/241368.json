@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"425 NORTH ELM STREET\",\"city\":\"SAUK CENTRE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.737779395000075",
-        "longitude": "-94.95196596699998",
-        "needs_recoding": false
+        "coordinates": [
+            -94.954567,
+            45.745877
+        ],
+        "type": "Point"
     },
+    "location_address": "425 NORTH ELM STREET",
+    "location_city": "SAUK CENTRE",
+    "location_state": "MN",
+    "location_zip": "56378",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3203522221"
-    },
+    "phone_number": "3203522221",
     "provider_id": "241368",
     "raw_ratings": {},
     "state": "MN",

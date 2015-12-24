@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2700 DOLBEER ST\",\"city\":\"EUREKA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "40.78451311400005",
-        "longitude": "-124.14153616899995",
-        "needs_recoding": false
+        "coordinates": [
+            -124.142047,
+            40.782346
+        ],
+        "type": "Point"
     },
+    "location_address": "2700 DOLBEER ST",
+    "location_city": "EUREKA",
+    "location_state": "CA",
+    "location_zip": "95501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.stjhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7074458121"
-    },
+    "phone_number": "7074458121",
     "provider_id": "050006",
     "raw_ratings": {},
     "state": "CA",

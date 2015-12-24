@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"240 HIGHLAND DRIVE\",\"city\":\"MANY\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "31.560514435000073",
-        "longitude": "-93.47098659499994",
-        "needs_recoding": false
+        "coordinates": [
+            -93.471475,
+            31.561209
+        ],
+        "type": "Point"
     },
+    "location_address": "240 HIGHLAND DRIVE",
+    "location_city": "MANY",
+    "location_state": "LA",
+    "location_zip": "71449",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.associatedhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3182561232"
-    },
+    "phone_number": "3182561232",
     "provider_id": "190218",
     "raw_ratings": {},
     "state": "LA",

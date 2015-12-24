@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"361 ALEXANDER SPRING ROAD\",\"city\":\"CARLISLE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.18473844000005",
-        "longitude": "-77.22485833799993",
-        "needs_recoding": false
+        "coordinates": [
+            -77.223007,
+            40.184767
+        ],
+        "type": "Point"
     },
+    "location_address": "361 ALEXANDER SPRING ROAD",
+    "location_city": "CARLISLE",
+    "location_state": "PA",
+    "location_zip": "17015",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7172491212"
-    },
+    "phone_number": "7172491212",
     "provider_id": "390058",
     "raw_ratings": {},
     "state": "PA",

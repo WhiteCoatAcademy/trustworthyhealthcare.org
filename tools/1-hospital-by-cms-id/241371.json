@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 NORTH KNISS AVENUE P O BOX 1019\",\"city\":\"LUVERNE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "43.67081492900007",
-        "longitude": "-96.21251845299997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.212523,
+            43.671605
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 NORTH KNISS AVENUE P O BOX 1019",
+    "location_city": "LUVERNE",
+    "location_state": "MN",
+    "location_zip": "56156",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sanfordhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5072832321"
-    },
+    "phone_number": "5072832321",
     "provider_id": "241371",
     "raw_ratings": {},
     "state": "MN",

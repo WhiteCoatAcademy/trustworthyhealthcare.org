@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"199 REEDSDALE ROAD\",\"city\":\"MILTON\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.25224708300004",
-        "longitude": "-71.07515073499997",
-        "needs_recoding": false
+        "coordinates": [
+            -71.075277,
+            42.25241
+        ],
+        "type": "Point"
     },
+    "location_address": "199 REEDSDALE ROAD",
+    "location_city": "MILTON",
+    "location_state": "MA",
+    "location_zip": "02186",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6176964600"
-    },
+    "phone_number": "6176964600",
     "provider_id": "220108",
     "raw_ratings": {},
     "state": "MA",

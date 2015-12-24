@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"11301 WILSHIRE BLVD.\",\"city\":\"WEST LOS ANGELES\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.052390960000025",
-        "longitude": "-118.45844544199997",
-        "needs_recoding": false
+        "coordinates": [
+            -118.457869,
+            34.053366
+        ],
+        "type": "Point"
     },
+    "location_address": "11301 WILSHIRE BLVD.",
+    "location_city": "WEST LOS ANGELES",
+    "location_state": "CA",
+    "location_zip": "90073",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "3104783711"
-    },
+    "phone_number": "3104783711",
     "provider_id": "05128F",
     "raw_ratings": {},
     "state": "CA",

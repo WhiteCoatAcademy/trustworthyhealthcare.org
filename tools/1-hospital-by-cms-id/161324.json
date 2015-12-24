@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2959 US HIGHWAY 275\",\"city\":\"HAMBURG\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "40.61931158900006",
-        "longitude": "-95.64947676699995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.64938,
+            40.623195
+        ],
+        "type": "Point"
     },
+    "location_address": "2959 US HIGHWAY 275",
+    "location_city": "HAMBURG",
+    "location_state": "IA",
+    "location_zip": "51640",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7123821515"
-    },
+    "phone_number": "7123821515",
     "provider_id": "161324",
     "raw_ratings": {},
     "state": "IA",

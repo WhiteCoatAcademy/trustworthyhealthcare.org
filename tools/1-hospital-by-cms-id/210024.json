@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"201 EAST UNIVERSITY PARKWAY\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.33065784200005",
-        "longitude": "-76.61495695699995",
-        "needs_recoding": false
+        "coordinates": [
+            -76.613776,
+            39.329994
+        ],
+        "type": "Point"
     },
+    "location_address": "201 EAST UNIVERSITY PARKWAY",
+    "location_city": "BALTIMORE",
+    "location_state": "MD",
+    "location_zip": "21218",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.medstarhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4105542227"
-    },
+    "phone_number": "4105542227",
     "provider_id": "210024",
     "raw_ratings": {},
     "state": "MD",

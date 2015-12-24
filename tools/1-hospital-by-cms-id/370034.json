@@ -2,9 +2,9 @@
     "address": "ONE CLARK BASS BOULEVARD",
     "city": "MCALESTER",
     "county_name": "PITTSBURG",
-    "emergency_services": false,
+    "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MCALESTER REGIONAL HEALTH CENTER",
+    "hospital_name": "MCALESTER REGIONAL HEALTH CENTER AUTHORITY",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
@@ -13,6 +13,10 @@
         "longitude": "-95.75031183099998",
         "needs_recoding": false
     },
+    "location_address": "ONE CLARK BASS BOULEVARD",
+    "location_city": "MCALESTER",
+    "location_state": "OK",
+    "location_zip": "74501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +30,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9184261800"
-    },
+    "phone_number": "9184261800",
     "provider_id": "370034",
     "raw_ratings": {},
     "state": "OK",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"342 FAIRVIEW STREET\",\"city\":\"SILVERTON\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "45.003559530000075",
-        "longitude": "-122.79070058599996",
-        "needs_recoding": false
+        "coordinates": [
+            -122.790752,
+            45.003752
+        ],
+        "type": "Point"
     },
+    "location_address": "342 FAIRVIEW STREET",
+    "location_city": "SILVERTON",
+    "location_state": "OR",
+    "location_zip": "97381",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5038731500"
-    },
+    "phone_number": "5038731500",
     "provider_id": "380029",
     "raw_ratings": {},
     "state": "OR",

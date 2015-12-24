@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"1310 24TH AVENUE SOUTH\",\"city\":\"NASHVILLE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.142336073000024",
-        "longitude": "-86.80476666099997",
-        "needs_recoding": false
+        "coordinates": [
+            -86.804782,
+            36.14243
+        ],
+        "type": "Point"
     },
+    "location_address": "1310 24TH AVENUE SOUTH",
+    "location_city": "NASHVILLE",
+    "location_state": "TN",
+    "location_zip": "37212",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "6153275332"
-    },
+    "phone_number": "6153275332",
     "provider_id": "44018F",
     "raw_ratings": {},
     "state": "TN",

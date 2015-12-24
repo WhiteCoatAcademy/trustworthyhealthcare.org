@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"924 HOWE ST\",\"city\":\"SOUTHPORT\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "33.92904929500003",
-        "longitude": "-78.02217952499996",
-        "needs_recoding": false
+        "coordinates": [
+            -78.022194,
+            33.929038
+        ],
+        "type": "Point"
     },
+    "location_address": "924 HOWE ST",
+    "location_city": "SOUTHPORT",
+    "location_state": "NC",
+    "location_zip": "28461",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9104573800"
-    },
+    "phone_number": "9104573800",
     "provider_id": "341327",
     "raw_ratings": {},
     "state": "NC",

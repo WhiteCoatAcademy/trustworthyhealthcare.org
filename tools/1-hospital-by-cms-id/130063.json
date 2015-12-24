@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8800 WEST EMERALD STREET\",\"city\":\"BOISE\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "43.61128622000007",
-        "longitude": "-116.29151542399995",
-        "needs_recoding": false
+        "coordinates": [
+            -116.291414,
+            43.611259
+        ],
+        "type": "Point"
     },
+    "location_address": "8800 WEST EMERALD STREET",
+    "location_city": "BOISE",
+    "location_state": "ID",
+    "location_zip": "83704",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2083735000"
-    },
+    "phone_number": "2083735000",
     "provider_id": "130063",
     "raw_ratings": {},
     "state": "ID",

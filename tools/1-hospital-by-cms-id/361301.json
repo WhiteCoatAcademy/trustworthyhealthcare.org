@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"208 N COLUMBUS ST\",\"city\":\"HICKSVILLE\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.297148280000044",
-        "longitude": "-84.75360132499998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.755974,
+            41.30031
+        ],
+        "type": "Point"
     },
+    "location_address": "208 N COLUMBUS ST",
+    "location_city": "HICKSVILLE",
+    "location_state": "OH",
+    "location_zip": "43526",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4195426692"
-    },
+    "phone_number": "4195426692",
     "provider_id": "361301",
     "raw_ratings": {},
     "state": "OH",

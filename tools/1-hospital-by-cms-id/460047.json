@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "ST MARKS HOSPITAL",
-    "hospital_ownership": "Proprietary",
+    "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 EAST 3900 SOUTH\",\"city\":\"SALT LAKE CITY\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "40.68704076400007",
-        "longitude": "-111.85675983399994",
-        "needs_recoding": false
+        "coordinates": [
+            -111.85757,
+            40.687061
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 EAST 3900 SOUTH",
+    "location_city": "SALT LAKE CITY",
+    "location_state": "UT",
+    "location_zip": "84124",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8012687700"
-    },
+    "phone_number": "8012687700",
     "provider_id": "460047",
     "raw_ratings": {},
     "state": "UT",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"16874 HIGHWAY 43\",\"city\":\"GREENSBURG\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.83387949100006",
-        "longitude": "-90.66631601099994",
-        "needs_recoding": false
+        "coordinates": [
+            -90.666701,
+            30.832041
+        ],
+        "type": "Point"
     },
+    "location_address": "16874 HIGHWAY 43",
+    "location_city": "GREENSBURG",
+    "location_state": "LA",
+    "location_zip": "70441",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2252226111"
-    },
+    "phone_number": "2252226111",
     "provider_id": "191300",
     "raw_ratings": {},
     "state": "LA",

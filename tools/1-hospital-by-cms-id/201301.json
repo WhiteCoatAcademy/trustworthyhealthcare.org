@@ -2,7 +2,7 @@
     "address": "PRITHAM AVENUE PO BOX 1129",
     "city": "GREENVILLE",
     "county_name": "PISCATAQUIS",
-    "emergency_services": true,
+    "emergency_services": false,
     "global_rank": {},
     "hospital_name": "CHARLES A DEAN MEMORIAL HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
@@ -13,6 +13,10 @@
         "longitude": "-69.59036732999994",
         "needs_recoding": false
     },
+    "location_address": "PRITHAM AVENUE PO BOX 1129",
+    "location_city": "GREENVILLE",
+    "location_state": "ME",
+    "location_zip": "04441",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +32,7 @@
             "www.emh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2076955200"
-    },
+    "phone_number": "2076955200",
     "provider_id": "201301",
     "raw_ratings": {},
     "state": "ME",

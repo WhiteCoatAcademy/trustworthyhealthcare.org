@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4315 DIPLOMACY DR\",\"city\":\"ANCHORAGE\",\"state\":\"AK\",\"zip\":\"\"}",
-        "latitude": "61.18186699900008",
-        "longitude": "-149.80259690399998",
-        "needs_recoding": false
+        "coordinates": [
+            -149.800711,
+            61.181884
+        ],
+        "type": "Point"
     },
+    "location_address": "4315 DIPLOMACY DR",
+    "location_city": "ANCHORAGE",
+    "location_state": "AK",
+    "location_zip": "99508",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9075632662"
-    },
+    "phone_number": "9075632662",
     "provider_id": "020026",
     "raw_ratings": {},
     "state": "AK",

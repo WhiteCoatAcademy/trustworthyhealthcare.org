@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8600 OLD GEORGETOWN ROAD\",\"city\":\"BETHESDA\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "38.996647782000025",
-        "longitude": "-77.10914683999994",
-        "needs_recoding": false
+        "coordinates": [
+            -77.109231,
+            38.997325
+        ],
+        "type": "Point"
     },
+    "location_address": "8600 OLD GEORGETOWN ROAD",
+    "location_city": "BETHESDA",
+    "location_state": "MD",
+    "location_zip": "20814",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3018962576"
-    },
+    "phone_number": "3018962576",
     "provider_id": "210022",
     "raw_ratings": {},
     "state": "MD",

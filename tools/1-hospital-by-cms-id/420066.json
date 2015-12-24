@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"258 N RON MCNAIR BLVD\",\"city\":\"LAKE CITY\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "33.880308901000035",
-        "longitude": "-79.75907956299994",
-        "needs_recoding": false
+        "coordinates": [
+            -79.758701,
+            33.881532
+        ],
+        "type": "Point"
     },
+    "location_address": "258 N RON MCNAIR BLVD",
+    "location_city": "LAKE CITY",
+    "location_state": "SC",
+    "location_zip": "29560",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8433742036"
-    },
+    "phone_number": "8433742036",
     "provider_id": "420066",
     "raw_ratings": {},
     "state": "SC",

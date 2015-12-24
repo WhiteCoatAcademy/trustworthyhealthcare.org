@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2201 S CLEAR CREEK ROAD\",\"city\":\"KILLEEN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.11246232700006",
-        "longitude": "-97.79992961799996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.799705,
+            31.112873
+        ],
+        "type": "Point"
     },
+    "location_address": "2201 S CLEAR CREEK ROAD",
+    "location_city": "KILLEEN",
+    "location_state": "TX",
+    "location_zip": "76542",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2545267523"
-    },
+    "phone_number": "2545267523",
     "provider_id": "450152",
     "raw_ratings": {},
     "state": "TX",

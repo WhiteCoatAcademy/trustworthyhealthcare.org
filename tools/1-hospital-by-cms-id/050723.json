@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1011 BALDWIN PARK BLVD\",\"city\":\"BALDWIN PARK\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.06338115600005",
-        "longitude": "-117.98588130499996",
-        "needs_recoding": false
+        "coordinates": [
+            -117.984957,
+            34.064322
+        ],
+        "type": "Point"
     },
+    "location_address": "1011 BALDWIN PARK BLVD",
+    "location_city": "BALDWIN PARK",
+    "location_state": "CA",
+    "location_zip": "91706",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6268511011"
-    },
+    "phone_number": "6268511011",
     "provider_id": "050723",
     "raw_ratings": {},
     "state": "CA",

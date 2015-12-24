@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"555 E VALLEY PARKWAY\",\"city\":\"ESCONDIDO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.12586453000006",
-        "longitude": "-117.07628217199999",
-        "needs_recoding": false
+        "coordinates": [
+            -117.076075,
+            33.12607
+        ],
+        "type": "Point"
     },
+    "location_address": "555 E VALLEY PARKWAY",
+    "location_city": "ESCONDIDO",
+    "location_state": "CA",
+    "location_zip": "92025",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.pphs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7607393000"
-    },
+    "phone_number": "7607393000",
     "provider_id": "050115",
     "raw_ratings": {},
     "state": "CA",

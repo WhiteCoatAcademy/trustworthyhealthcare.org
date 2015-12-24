@@ -4,15 +4,20 @@
     "county_name": "CULPEPER",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "CULPEPER REGIONAL HOSPITAL",
+    "hospital_name": "CULPEPER COMMUNITY HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"501 SUNSET LANE\",\"city\":\"CULPEPER\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "38.45556716700003",
-        "longitude": "-78.01196108999994",
-        "needs_recoding": false
+        "coordinates": [
+            -78.012415,
+            38.456379
+        ],
+        "type": "Point"
     },
+    "location_address": "501 SUNSET LANE",
+    "location_city": "CULPEPER",
+    "location_state": "VA",
+    "location_zip": "22701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5408294100"
-    },
+    "phone_number": "5408294100",
     "provider_id": "490019",
     "raw_ratings": {},
     "state": "VA",

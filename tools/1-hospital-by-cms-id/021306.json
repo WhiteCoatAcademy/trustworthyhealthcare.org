@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1915 EAST REZANOF DRIVE\",\"city\":\"KODIAK\",\"state\":\"AK\",\"zip\":\"\"}",
-        "latitude": "57.800350448000074",
-        "longitude": "-152.37476799199996",
-        "needs_recoding": false
+        "coordinates": [
+            -152.373917,
+            57.800854
+        ],
+        "type": "Point"
     },
+    "location_address": "1915 EAST REZANOF DRIVE",
+    "location_city": "KODIAK",
+    "location_state": "AK",
+    "location_zip": "99615",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.providence.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9074869592"
-    },
+    "phone_number": "9074869592",
     "provider_id": "021306",
     "raw_ratings": {},
     "state": "AK",

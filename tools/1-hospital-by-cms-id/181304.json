@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"254 MAIN STREET\",\"city\":\"CADIZ\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "36.86716929700003",
-        "longitude": "-87.82166148599998",
-        "needs_recoding": false
+        "coordinates": [
+            -87.821361,
+            36.867258
+        ],
+        "type": "Point"
     },
+    "location_address": "254 MAIN STREET",
+    "location_city": "CADIZ",
+    "location_state": "KY",
+    "location_zip": "42211",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2705223215"
-    },
+    "phone_number": "2705223215",
     "provider_id": "181304",
     "raw_ratings": {},
     "state": "KY",

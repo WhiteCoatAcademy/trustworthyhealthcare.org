@@ -4,15 +4,20 @@
     "county_name": "ALAMEDA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ALAMEDA COUNTY MEDICAL CENTER",
+    "hospital_name": "HIGHLAND HOSPITAL",
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1411 E 31ST STREET\",\"city\":\"OAKLAND\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.79925394800006",
-        "longitude": "-122.23138414499999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.231183,
+            37.799231
+        ],
+        "type": "Point"
     },
+    "location_address": "1411 E 31ST STREET",
+    "location_city": "OAKLAND",
+    "location_state": "CA",
+    "location_zip": "94602",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.acmedctr.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5104374800"
-    },
+    "phone_number": "5104374800",
     "provider_id": "050320",
     "raw_ratings": {},
     "state": "CA",

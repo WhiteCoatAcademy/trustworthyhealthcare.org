@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 NELSON BOULEVARD\",\"city\":\"KINGSTREE\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "33.66089779500004",
-        "longitude": "-79.81929484599993",
-        "needs_recoding": false
+        "coordinates": [
+            -79.820267,
+            33.660657
+        ],
+        "type": "Point"
     },
+    "location_address": "500 NELSON BOULEVARD",
+    "location_city": "KINGSTREE",
+    "location_state": "SC",
+    "location_zip": "29556",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8433558888"
-    },
+    "phone_number": "8433558888",
     "provider_id": "421303",
     "raw_ratings": {},
     "state": "SC",

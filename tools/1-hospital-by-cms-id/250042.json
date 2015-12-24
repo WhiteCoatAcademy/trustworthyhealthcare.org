@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1970 HOSPITAL DRIVE\",\"city\":\"CLARKSDALE\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "34.19711043700005",
-        "longitude": "-90.55186951499996",
-        "needs_recoding": false
+        "coordinates": [
+            -90.552762,
+            34.197133
+        ],
+        "type": "Point"
     },
+    "location_address": "1970 HOSPITAL DRIVE",
+    "location_city": "CLARKSDALE",
+    "location_state": "MS",
+    "location_zip": "38614",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6626273211"
-    },
+    "phone_number": "6626273211",
     "provider_id": "250042",
     "raw_ratings": {},
     "state": "MS",

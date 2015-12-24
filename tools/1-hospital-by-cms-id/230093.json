@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"605 OAK STREET\",\"city\":\"BIG RAPIDS\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.69313098300006",
-        "longitude": "-85.47569734999996",
-        "needs_recoding": false
+        "coordinates": [
+            -85.476068,
+            43.69312
+        ],
+        "type": "Point"
     },
+    "location_address": "605 OAK STREET",
+    "location_city": "BIG RAPIDS",
+    "location_state": "MI",
+    "location_zip": "49307",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2317968691"
-    },
+    "phone_number": "2317968691",
     "provider_id": "230093",
     "raw_ratings": {},
     "state": "MI",

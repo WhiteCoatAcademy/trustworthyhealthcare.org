@@ -4,15 +4,20 @@
     "county_name": "ROCKCASTLE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ROCKCASTLE COUNTY HOSPITAL, INC",
+    "hospital_name": "ROCKCASTLE REGIONAL HOSPITAL & RESPIRATORY CARE CT",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"145 NEWCOMB AVENUE\",\"city\":\"MOUNT VERNON\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.35776703100004",
-        "longitude": "-84.33649061299997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.336988,
+            37.358001
+        ],
+        "type": "Point"
     },
+    "location_address": "145 NEWCOMB AVENUE",
+    "location_city": "MOUNT VERNON",
+    "location_state": "KY",
+    "location_zip": "40456",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6062562195"
-    },
+    "phone_number": "6062562195",
     "provider_id": "180115",
     "raw_ratings": {},
     "state": "KY",

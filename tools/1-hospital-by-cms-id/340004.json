@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"601 N ELM ST\",\"city\":\"HIGH POINT\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.96341205700003",
-        "longitude": "-80.01242487299999",
-        "needs_recoding": false
+        "coordinates": [
+            -80.012021,
+            35.962403
+        ],
+        "type": "Point"
     },
+    "location_address": "601 N ELM ST",
+    "location_city": "HIGH POINT",
+    "location_state": "NC",
+    "location_zip": "27261",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3368786000"
-    },
+    "phone_number": "3368786000",
     "provider_id": "340004",
     "raw_ratings": {},
     "state": "NC",

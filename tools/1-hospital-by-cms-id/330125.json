@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1425 PORTLAND AVENUE\",\"city\":\"ROCHESTER\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.19192708000003",
-        "longitude": "-77.58441844499998",
-        "needs_recoding": false
+        "coordinates": [
+            -77.584424,
+            43.192542
+        ],
+        "type": "Point"
     },
+    "location_address": "1425 PORTLAND AVENUE",
+    "location_city": "ROCHESTER",
+    "location_state": "NY",
+    "location_zip": "14621",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.viahealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5859224000"
-    },
+    "phone_number": "5859224000",
     "provider_id": "330125",
     "raw_ratings": {},
     "state": "NY",

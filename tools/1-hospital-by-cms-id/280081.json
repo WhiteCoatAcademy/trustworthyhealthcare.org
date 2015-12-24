@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6901 NORTH 72ND ST\",\"city\":\"OMAHA\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.32149231100004",
-        "longitude": "-96.02375726199995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.023838,
+            41.322582
+        ],
+        "type": "Point"
     },
+    "location_address": "6901 NORTH 72ND ST",
+    "location_city": "OMAHA",
+    "location_state": "NE",
+    "location_zip": "68122",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.alegent.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4025722121"
-    },
+    "phone_number": "4025722121",
     "provider_id": "280081",
     "raw_ratings": {},
     "state": "NE",

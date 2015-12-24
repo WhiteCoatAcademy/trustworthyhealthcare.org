@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 LEE BLVD\",\"city\":\"LEHIGH ACRES\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.614338977000045",
-        "longitude": "-81.65851837499997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.659485,
+            26.614294
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 LEE BLVD",
+    "location_city": "LEHIGH ACRES",
+    "location_state": "FL",
+    "location_zip": "33936",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2393692101"
-    },
+    "phone_number": "2393692101",
     "provider_id": "100107",
     "raw_ratings": {},
     "state": "FL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"14700 LAKESHORE DRIVE\",\"city\":\"CHARLEVOIX\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "45.31471364500004",
-        "longitude": "-85.27356503699997",
-        "needs_recoding": false
+        "coordinates": [
+            -85.273653,
+            45.314844
+        ],
+        "type": "Point"
     },
+    "location_address": "14700 LAKESHORE DRIVE",
+    "location_city": "CHARLEVOIX",
+    "location_state": "MI",
+    "location_zip": "49720",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2315474024"
-    },
+    "phone_number": "2315474024",
     "provider_id": "231322",
     "raw_ratings": {},
     "state": "MI",

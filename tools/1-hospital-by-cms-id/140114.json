@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5145 N CALIFORNIA AVE\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.97488654700004",
-        "longitude": "-87.69887185099998",
-        "needs_recoding": false
+        "coordinates": [
+            -87.698925,
+            41.975405
+        ],
+        "type": "Point"
     },
+    "location_address": "5145 N CALIFORNIA AVE",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60625",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7738788200"
-    },
+    "phone_number": "7738788200",
     "provider_id": "140114",
     "raw_ratings": {},
     "state": "IL",

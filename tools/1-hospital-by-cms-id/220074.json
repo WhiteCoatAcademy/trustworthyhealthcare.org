@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"363 HIGHLAND AVENUE\",\"city\":\"FALL RIVER\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "41.71031505700006",
-        "longitude": "-71.14695756299994",
-        "needs_recoding": false
+        "coordinates": [
+            -71.146064,
+            41.710611
+        ],
+        "type": "Point"
     },
+    "location_address": "363 HIGHLAND AVENUE",
+    "location_city": "FALL RIVER",
+    "location_state": "MA",
+    "location_zip": "02720",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.southcoast.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5086793131"
-    },
+    "phone_number": "5086793131",
     "provider_id": "220074",
     "raw_ratings": {},
     "state": "MA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 N SPRING ST, BOX 1010-C-ADM BLDG\",\"city\":\"CALIENTE\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "37.62220584700003",
-        "longitude": "-114.511854186",
-        "needs_recoding": false
+        "coordinates": [
+            -114.511824,
+            37.622281
+        ],
+        "type": "Point"
     },
+    "location_address": "700 N SPRING ST, BOX 1010-C-ADM BLDG",
+    "location_city": "CALIENTE",
+    "location_state": "NV",
+    "location_zip": "89008",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7757263171"
-    },
+    "phone_number": "7757263171",
     "provider_id": "291312",
     "raw_ratings": {},
     "state": "NV",

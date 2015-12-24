@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"921 GESSNER\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.780034284000067",
-        "longitude": "-95.54460080099994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.544324,
+            29.781416
+        ],
+        "type": "Point"
     },
+    "location_address": "921 GESSNER",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77024",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.memorialhermann.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7132423000"
-    },
+    "phone_number": "7132423000",
     "provider_id": "450610",
     "raw_ratings": {},
     "state": "TX",

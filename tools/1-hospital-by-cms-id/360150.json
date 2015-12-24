@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1900 23RD STREET\",\"city\":\"CUYAHOGA FALLS\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.13190645900005",
-        "longitude": "-81.51039008099997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.509843,
+            41.133087
+        ],
+        "type": "Point"
     },
+    "location_address": "1900 23RD STREET",
+    "location_city": "CUYAHOGA FALLS",
+    "location_state": "OH",
+    "location_zip": "44223",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.summahealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3309717000"
-    },
+    "phone_number": "3309717000",
     "provider_id": "360150",
     "raw_ratings": {},
     "state": "OH",

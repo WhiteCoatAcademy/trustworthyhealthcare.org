@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"255 LAFAYETTE AVENUE\",\"city\":\"SUFFERN\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "41.11222318100005",
-        "longitude": "-74.13385869699994",
-        "needs_recoding": false
+        "coordinates": [
+            -74.133051,
+            41.112304
+        ],
+        "type": "Point"
     },
+    "location_address": "255 LAFAYETTE AVENUE",
+    "location_city": "SUFFERN",
+    "location_state": "NY",
+    "location_zip": "10901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bshsi.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9143685000"
-    },
+    "phone_number": "9143685000",
     "provider_id": "330158",
     "raw_ratings": {},
     "state": "NY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"615 NEW BALLAS ROAD\",\"city\":\"SAINT LOUIS\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.66700972800004",
-        "longitude": "-90.44334538499999",
-        "needs_recoding": false
+        "coordinates": [
+            -90.443303,
+            38.666813
+        ],
+        "type": "Point"
     },
+    "location_address": "615 NEW BALLAS ROAD",
+    "location_city": "SAINT LOUIS",
+    "location_state": "MO",
+    "location_zip": "63141",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mercy.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "3145696000"
-    },
+    "phone_number": "3145696000",
     "provider_id": "260020",
     "raw_ratings": {},
     "state": "MO",

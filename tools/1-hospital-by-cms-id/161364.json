@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2000 S MAIN\",\"city\":\"FAIRFIELD\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "40.98867181700007",
-        "longitude": "-91.96315207699996",
-        "needs_recoding": false
+        "coordinates": [
+            -91.963083,
+            40.989349
+        ],
+        "type": "Point"
     },
+    "location_address": "2000 S MAIN",
+    "location_city": "FAIRFIELD",
+    "location_state": "IA",
+    "location_zip": "52556",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6414724111"
-    },
+    "phone_number": "6414724111",
     "provider_id": "161364",
     "raw_ratings": {},
     "state": "IA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"13001 SOUTHERN BLVD\",\"city\":\"LOXAHATCHEE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.681997514000045",
-        "longitude": "-80.25279892599997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.251439,
+            26.681928
+        ],
+        "type": "Point"
     },
+    "location_address": "13001 SOUTHERN BLVD",
+    "location_city": "LOXAHATCHEE",
+    "location_state": "FL",
+    "location_zip": "33470",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5617534245"
-    },
+    "phone_number": "5617534245",
     "provider_id": "100269",
     "raw_ratings": {},
     "state": "FL",

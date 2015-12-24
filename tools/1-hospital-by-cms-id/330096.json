@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"191 NORTH MAIN STREET\",\"city\":\"WELLSVILLE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.12292412900007",
-        "longitude": "-77.94995565299996",
-        "needs_recoding": false
+        "coordinates": [
+            -77.949868,
+            42.122929
+        ],
+        "type": "Point"
     },
+    "location_address": "191 NORTH MAIN STREET",
+    "location_city": "WELLSVILLE",
+    "location_state": "NY",
+    "location_zip": "14895",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5855931100"
-    },
+    "phone_number": "5855931100",
     "provider_id": "330096",
     "raw_ratings": {},
     "state": "NY",

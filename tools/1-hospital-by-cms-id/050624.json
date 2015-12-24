@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"23845 MCBEAN PKWY\",\"city\":\"VALENCIA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.395446882000044",
-        "longitude": "-118.55476053299998",
-        "needs_recoding": false
+        "coordinates": [
+            -118.553041,
+            34.396424
+        ],
+        "type": "Point"
     },
+    "location_address": "23845 MCBEAN PKWY",
+    "location_city": "VALENCIA",
+    "location_state": "CA",
+    "location_zip": "91355",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6612538000"
-    },
+    "phone_number": "6612538000",
     "provider_id": "050624",
     "raw_ratings": {},
     "state": "CA",

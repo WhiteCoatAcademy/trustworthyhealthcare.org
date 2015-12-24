@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"203 SOUTH WESTERN\",\"city\":\"TONASKET\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "48.70685029400005",
-        "longitude": "-119.43943597499998",
-        "needs_recoding": false
+        "coordinates": [
+            -119.439479,
+            48.706958
+        ],
+        "type": "Point"
     },
+    "location_address": "203 SOUTH WESTERN",
+    "location_city": "TONASKET",
+    "location_state": "WA",
+    "location_zip": "98855",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5094862151"
-    },
+    "phone_number": "5094862151",
     "provider_id": "501321",
     "raw_ratings": {},
     "state": "WA",

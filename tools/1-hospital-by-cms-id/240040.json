@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"750 EAST 34TH ST\",\"city\":\"HIBBING\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "47.411133618000065",
-        "longitude": "-92.93161301699996",
-        "needs_recoding": false
+        "coordinates": [
+            -92.931762,
+            47.411202
+        ],
+        "type": "Point"
     },
+    "location_address": "750 EAST 34TH ST",
+    "location_city": "HIBBING",
+    "location_state": "MN",
+    "location_zip": "55746",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.fairview.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2183626659"
-    },
+    "phone_number": "2183626659",
     "provider_id": "240040",
     "raw_ratings": {},
     "state": "MN",

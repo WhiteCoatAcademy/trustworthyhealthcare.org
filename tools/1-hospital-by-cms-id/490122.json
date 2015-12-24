@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2501 PARKERS LANE\",\"city\":\"ALEXANDRIA\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "38.74064168800004",
-        "longitude": "-77.07515712599997",
-        "needs_recoding": false
+        "coordinates": [
+            -77.074397,
+            38.739647
+        ],
+        "type": "Point"
     },
+    "location_address": "2501 PARKERS LANE",
+    "location_city": "ALEXANDRIA",
+    "location_state": "VA",
+    "location_zip": "22306",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.inova.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7036647000"
-    },
+    "phone_number": "7036647000",
     "provider_id": "490122",
     "raw_ratings": {},
     "state": "VA",

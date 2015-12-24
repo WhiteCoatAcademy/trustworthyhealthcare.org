@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9733 HEALTHWAY DRIVE\",\"city\":\"BERLIN\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "38.33872054100004",
-        "longitude": "-75.21040658899994",
-        "needs_recoding": false
+        "coordinates": [
+            -75.209897,
+            38.337265
+        ],
+        "type": "Point"
     },
+    "location_address": "9733 HEALTHWAY DRIVE",
+    "location_city": "BERLIN",
+    "location_state": "MD",
+    "location_zip": "21811",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4106419601"
-    },
+    "phone_number": "4106419601",
     "provider_id": "210061",
     "raw_ratings": {},
     "state": "MD",

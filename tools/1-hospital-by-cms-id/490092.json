@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 FAIRVIEW DRIVE - PO BOX 817\",\"city\":\"FRANKLIN\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "36.69096747000003",
-        "longitude": "-76.93617613099997",
-        "needs_recoding": false
+        "coordinates": [
+            -76.934942,
+            36.691171
+        ],
+        "type": "Point"
     },
+    "location_address": "100 FAIRVIEW DRIVE - PO BOX 817",
+    "location_city": "FRANKLIN",
+    "location_state": "VA",
+    "location_zip": "23851",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "7575696100"
-    },
+    "phone_number": "7575696100",
     "provider_id": "490092",
     "raw_ratings": {},
     "state": "VA",

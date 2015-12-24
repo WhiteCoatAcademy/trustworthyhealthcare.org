@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9449 SAN FERNANDO RD\",\"city\":\"SUN VALLEY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.24086827700006",
-        "longitude": "-118.39541954699996",
-        "needs_recoding": false
+        "coordinates": [
+            -118.395131,
+            34.240621
+        ],
+        "type": "Point"
     },
+    "location_address": "9449 SAN FERNANDO RD",
+    "location_city": "SUN VALLEY",
+    "location_state": "CA",
+    "location_zip": "91352",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.envisionhospital.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8187673310"
-    },
+    "phone_number": "8187673310",
     "provider_id": "050378",
     "raw_ratings": {},
     "state": "CA",

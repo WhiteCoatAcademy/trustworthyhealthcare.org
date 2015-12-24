@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1941 VIRGINIA AVE\",\"city\":\"CONNERSVILLE\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.656260950000046",
-        "longitude": "-85.13198647499996",
-        "needs_recoding": false
+        "coordinates": [
+            -85.131981,
+            39.656025
+        ],
+        "type": "Point"
     },
+    "location_address": "1941 VIRGINIA AVE",
+    "location_city": "CONNERSVILLE",
+    "location_state": "IN",
+    "location_zip": "47331",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7658255131"
-    },
+    "phone_number": "7658255131",
     "provider_id": "150064",
     "raw_ratings": {},
     "state": "IN",

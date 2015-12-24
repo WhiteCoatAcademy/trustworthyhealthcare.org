@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 LAWRENCE EXPRESSWAY\",\"city\":\"SANTA CLARA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.33540973400005",
-        "longitude": "-121.99579565999994",
-        "needs_recoding": false
+        "coordinates": [
+            -121.995672,
+            37.332022
+        ],
+        "type": "Point"
     },
+    "location_address": "700 LAWRENCE EXPRESSWAY",
+    "location_city": "SANTA CLARA",
+    "location_state": "CA",
+    "location_zip": "95051",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4082366400"
-    },
+    "phone_number": "4082366400",
     "provider_id": "050071",
     "raw_ratings": {},
     "state": "CA",

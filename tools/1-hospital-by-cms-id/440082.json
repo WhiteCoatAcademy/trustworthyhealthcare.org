@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4220 HARDING RD, PO BOX 380\",\"city\":\"NASHVILLE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.12761567300004",
-        "longitude": "-86.84385321199994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.842905,
+            36.128055
+        ],
+        "type": "Point"
     },
+    "location_address": "4220 HARDING RD, PO BOX 380",
+    "location_city": "NASHVILLE",
+    "location_state": "TN",
+    "location_zip": "37205",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6152222111"
-    },
+    "phone_number": "6152222111",
     "provider_id": "440082",
     "raw_ratings": {},
     "state": "TN",

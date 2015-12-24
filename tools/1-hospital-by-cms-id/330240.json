@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"506 LENOX AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.81431489200003",
-        "longitude": "-73.94056328799996",
-        "needs_recoding": false
+        "coordinates": [
+            -73.940579,
+            40.814367
+        ],
+        "type": "Point"
     },
+    "location_address": "506 LENOX AVENUE",
+    "location_city": "NEW YORK",
+    "location_state": "NY",
+    "location_zip": "10037",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nyc.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "2124918400"
-    },
+    "phone_number": "2124918400",
     "provider_id": "330240",
     "raw_ratings": {},
     "state": "NY",

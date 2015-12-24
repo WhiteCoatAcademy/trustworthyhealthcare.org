@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5126 HOSPITAL DRIVE NE\",\"city\":\"COVINGTON\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.602141182000025",
-        "longitude": "-83.84856116199995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.84857,
+            33.602079
+        ],
+        "type": "Point"
     },
+    "location_address": "5126 HOSPITAL DRIVE NE",
+    "location_city": "COVINGTON",
+    "location_state": "GA",
+    "location_zip": "30014",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7707867053"
-    },
+    "phone_number": "7707867053",
     "provider_id": "110018",
     "raw_ratings": {},
     "state": "GA",

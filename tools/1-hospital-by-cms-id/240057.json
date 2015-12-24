@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 EAST 28TH STREET\",\"city\":\"MINNEAPOLIS\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.95197890900005",
-        "longitude": "-93.26249977299994",
-        "needs_recoding": false
+        "coordinates": [
+            -93.262646,
+            44.951948
+        ],
+        "type": "Point"
     },
+    "location_address": "800 EAST 28TH STREET",
+    "location_city": "MINNEAPOLIS",
+    "location_state": "MN",
+    "location_zip": "55407",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.allina.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6128634509"
-    },
+    "phone_number": "6128634509",
     "provider_id": "240057",
     "raw_ratings": {},
     "state": "MN",

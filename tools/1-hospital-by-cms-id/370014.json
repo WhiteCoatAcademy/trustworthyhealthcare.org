@@ -4,15 +4,20 @@
     "county_name": "BRYAN",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MEDICAL CENTER OF SOUTHEASTERN OKLAHOMA",
+    "hospital_name": "ALLIANCEHEALTH DURANT",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1800 UNIVERSITY BOULEVARD\",\"city\":\"DURANT\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "34.00493204900005",
-        "longitude": "-96.39414911699998",
-        "needs_recoding": false
+        "coordinates": [
+            -96.39518,
+            34.004904
+        ],
+        "type": "Point"
     },
+    "location_address": "1800 UNIVERSITY BOULEVARD",
+    "location_city": "DURANT",
+    "location_state": "OK",
+    "location_zip": "74702",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4059243080"
-    },
+    "phone_number": "4059243080",
     "provider_id": "370014",
     "raw_ratings": {},
     "state": "OK",

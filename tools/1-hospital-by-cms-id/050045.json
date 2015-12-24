@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1415 ROSS AVENUE\",\"city\":\"EL CENTRO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "32.781463028000076",
-        "longitude": "-115.56940921799998",
-        "needs_recoding": false
+        "coordinates": [
+            -115.56862,
+            32.781498
+        ],
+        "type": "Point"
     },
+    "location_address": "1415 ROSS AVENUE",
+    "location_city": "EL CENTRO",
+    "location_state": "CA",
+    "location_zip": "92243",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7603397100"
-    },
+    "phone_number": "7603397100",
     "provider_id": "050045",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 SOUTH SANTA FE AVENUE\",\"city\":\"SALINA\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.83329090700005",
-        "longitude": "-97.60921545499997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.609162,
+            38.834346
+        ],
+        "type": "Point"
     },
+    "location_address": "400 SOUTH SANTA FE AVENUE",
+    "location_city": "SALINA",
+    "location_state": "KS",
+    "location_zip": "67401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7854527000"
-    },
+    "phone_number": "7854527000",
     "provider_id": "170012",
     "raw_ratings": {},
     "state": "KS",

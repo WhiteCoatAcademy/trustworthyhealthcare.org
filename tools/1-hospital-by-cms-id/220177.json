@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"57 PROSPECT STREET\",\"city\":\"NANTUCKET\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "41.275154677000046",
-        "longitude": "-70.09979380899995",
-        "needs_recoding": false
+        "coordinates": [
+            -70.100016,
+            41.275319
+        ],
+        "type": "Point"
     },
+    "location_address": "57 PROSPECT STREET",
+    "location_city": "NANTUCKET",
+    "location_state": "MA",
+    "location_zip": "02554",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5082281200"
-    },
+    "phone_number": "5082281200",
     "provider_id": "220177",
     "raw_ratings": {},
     "state": "MA",

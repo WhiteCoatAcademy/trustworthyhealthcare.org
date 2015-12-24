@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"630 WEST THIRD STREET\",\"city\":\"MILAN\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "40.20198306100008",
-        "longitude": "-93.13356186499999",
-        "needs_recoding": false
+        "coordinates": [
+            -93.133162,
+            40.202025
+        ],
+        "type": "Point"
     },
+    "location_address": "630 WEST THIRD STREET",
+    "location_city": "MILAN",
+    "location_state": "MO",
+    "location_zip": "63556",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6602654212"
-    },
+    "phone_number": "6602654212",
     "provider_id": "261306",
     "raw_ratings": {},
     "state": "MO",

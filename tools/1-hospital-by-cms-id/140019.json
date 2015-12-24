@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 S CEDAR ST\",\"city\":\"SHELBYVILLE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "39.40569267300003",
-        "longitude": "-88.80717052099999",
-        "needs_recoding": false
+        "coordinates": [
+            -88.807113,
+            39.405801
+        ],
+        "type": "Point"
     },
+    "location_address": "200 S CEDAR ST",
+    "location_city": "SHELBYVILLE",
+    "location_state": "IL",
+    "location_zip": "62565",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2177743961"
-    },
+    "phone_number": "2177743961",
     "provider_id": "140019",
     "raw_ratings": {},
     "state": "IL",

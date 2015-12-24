@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"869 CHERRY AVENUE\",\"city\":\"TULARE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.226425403000064",
-        "longitude": "-119.33699735799996",
-        "needs_recoding": false
+        "coordinates": [
+            -119.337669,
+            36.219846
+        ],
+        "type": "Point"
     },
+    "location_address": "869 CHERRY AVENUE",
+    "location_city": "TULARE",
+    "location_state": "CA",
+    "location_zip": "93274",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5596880821"
-    },
+    "phone_number": "5596880821",
     "provider_id": "050359",
     "raw_ratings": {},
     "state": "CA",

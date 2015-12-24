@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1420 TUSCULUM BLVD\",\"city\":\"GREENEVILLE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.17488743200005",
-        "longitude": "-82.79138762199995",
-        "needs_recoding": false
+        "coordinates": [
+            -82.792743,
+            36.173873
+        ],
+        "type": "Point"
     },
+    "location_address": "1420 TUSCULUM BLVD",
+    "location_city": "GREENEVILLE",
+    "location_state": "TN",
+    "location_zip": "37745",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4237875000"
-    },
+    "phone_number": "4237875000",
     "provider_id": "440025",
     "raw_ratings": {},
     "state": "TN",

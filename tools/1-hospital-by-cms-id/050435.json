@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"624 E ELDER ST\",\"city\":\"FALLBROOK\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.38019787700006",
-        "longitude": "-117.244459399",
-        "needs_recoding": false
+        "coordinates": [
+            -117.24443,
+            33.380175
+        ],
+        "type": "Point"
     },
+    "location_address": "624 E ELDER ST",
+    "location_city": "FALLBROOK",
+    "location_state": "CA",
+    "location_zip": "92028",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "7607281191"
-    },
+    "phone_number": "7607281191",
     "provider_id": "050435",
     "raw_ratings": {},
     "state": "CA",

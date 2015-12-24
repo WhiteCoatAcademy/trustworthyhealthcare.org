@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"39400 PASEO PADRE PKWY\",\"city\":\"FREMONT\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.55184851200005",
-        "longitude": "-121.97775499299996",
-        "needs_recoding": false
+        "coordinates": [
+            -121.975769,
+            37.550913
+        ],
+        "type": "Point"
     },
+    "location_address": "39400 PASEO PADRE PKWY",
+    "location_city": "FREMONT",
+    "location_state": "CA",
+    "location_zip": "94538",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5107844000"
-    },
+    "phone_number": "5107844000",
     "provider_id": "050512",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"430 RANKIN DRIVE P O BOX 730\",\"city\":\"MARION\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.66325939800004",
-        "longitude": "-82.02697315999995",
-        "needs_recoding": false
+        "coordinates": [
+            -82.027691,
+            35.66409
+        ],
+        "type": "Point"
     },
+    "location_address": "430 RANKIN DRIVE P O BOX 730",
+    "location_city": "MARION",
+    "location_state": "NC",
+    "location_zip": "28752",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.missionhospitals.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8286595000"
-    },
+    "phone_number": "8286595000",
     "provider_id": "340087",
     "raw_ratings": {},
     "state": "NC",

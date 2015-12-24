@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3404 SYLVANIA AVENUE\",\"city\":\"TOLEDO\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.691760815000066",
-        "longitude": "-83.62599662899999",
-        "needs_recoding": false
+        "coordinates": [
+            -83.625176,
+            41.691745
+        ],
+        "type": "Point"
     },
+    "location_address": "3404 SYLVANIA AVENUE",
+    "location_city": "TOLEDO",
+    "location_state": "OH",
+    "location_zip": "43623",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health-partners.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4194072663"
-    },
+    "phone_number": "4194072663",
     "provider_id": "360262",
     "raw_ratings": {},
     "state": "OH",

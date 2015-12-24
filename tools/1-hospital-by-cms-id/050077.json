@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4077 5TH AVE\",\"city\":\"SAN DIEGO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "32.75167325000007",
-        "longitude": "-117.160812008",
-        "needs_recoding": false
+        "coordinates": [
+            -117.160922,
+            32.751172
+        ],
+        "type": "Point"
     },
+    "location_address": "4077 5TH AVE",
+    "location_city": "SAN DIEGO",
+    "location_state": "CA",
+    "location_zip": "92103",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.scripps.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6192948111"
-    },
+    "phone_number": "6192948111",
     "provider_id": "050077",
     "raw_ratings": {},
     "state": "CA",

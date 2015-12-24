@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 HIGHLAND AVE\",\"city\":\"HANOVER\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.80812823600007",
-        "longitude": "-76.98296305799994",
-        "needs_recoding": false
+        "coordinates": [
+            -76.983731,
+            39.807981
+        ],
+        "type": "Point"
     },
+    "location_address": "300 HIGHLAND AVE",
+    "location_city": "HANOVER",
+    "location_state": "PA",
+    "location_zip": "17331",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7176373711"
-    },
+    "phone_number": "7176373711",
     "provider_id": "390233",
     "raw_ratings": {},
     "state": "PA",

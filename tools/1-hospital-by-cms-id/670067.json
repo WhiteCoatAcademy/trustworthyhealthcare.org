@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"707 HIGHLANDER BLVD\",\"city\":\"ARLINGTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.68262067300003",
-        "longitude": "-97.11529828599998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.115508,
+            32.682606
+        ],
+        "type": "Point"
     },
+    "location_address": "707 HIGHLANDER BLVD",
+    "location_city": "ARLINGTON",
+    "location_state": "TX",
+    "location_zip": "76015",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8175492364"
-    },
+    "phone_number": "8175492364",
     "provider_id": "670067",
     "raw_ratings": {},
     "state": "TX",

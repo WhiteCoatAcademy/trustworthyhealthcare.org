@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10 KRUGER RD\",\"city\":\"PLAINS\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "47.46954836400005",
-        "longitude": "-114.8921858",
-        "needs_recoding": false
+        "coordinates": [
+            -114.892304,
+            47.469541
+        ],
+        "type": "Point"
     },
+    "location_address": "10 KRUGER RD",
+    "location_city": "PLAINS",
+    "location_state": "MT",
+    "location_zip": "59859",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4068264800"
-    },
+    "phone_number": "4068264800",
     "provider_id": "271323",
     "raw_ratings": {},
     "state": "MT",

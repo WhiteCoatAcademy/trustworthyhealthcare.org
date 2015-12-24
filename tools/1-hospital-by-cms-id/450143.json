@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 EAST HIGHWAY 71\",\"city\":\"SMITHVILLE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.04968443200005",
-        "longitude": "-97.19046936799998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.105872,
+            29.974448
+        ],
+        "type": "Point"
     },
+    "location_address": "800 EAST HIGHWAY 71",
+    "location_city": "SMITHVILLE",
+    "location_state": "TX",
+    "location_zip": "78957",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5122373214"
-    },
+    "phone_number": "5122373214",
     "provider_id": "450143",
     "raw_ratings": {},
     "state": "TX",

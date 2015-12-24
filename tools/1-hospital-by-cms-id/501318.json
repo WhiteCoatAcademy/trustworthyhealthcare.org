@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"315 NORTH 14TH AVENUE\",\"city\":\"OTHELLO\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "46.83026864800007",
-        "longitude": "-119.15440627899994",
-        "needs_recoding": false
+        "coordinates": [
+            -119.154365,
+            46.831175
+        ],
+        "type": "Point"
     },
+    "location_address": "315 NORTH 14TH AVENUE",
+    "location_city": "OTHELLO",
+    "location_state": "WA",
+    "location_zip": "99344",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5094882636"
-    },
+    "phone_number": "5094882636",
     "provider_id": "501318",
     "raw_ratings": {},
     "state": "WA",

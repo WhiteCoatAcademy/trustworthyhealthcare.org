@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 CALDWELL\",\"city\":\"STAUNTON\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "39.01164360300004",
-        "longitude": "-89.79137687199994",
-        "needs_recoding": false
+        "coordinates": [
+            -89.789896,
+            39.01509
+        ],
+        "type": "Point"
     },
+    "location_address": "400 CALDWELL",
+    "location_city": "STAUNTON",
+    "location_state": "IL",
+    "location_zip": "62088",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6186352200"
-    },
+    "phone_number": "6186352200",
     "provider_id": "141306",
     "raw_ratings": {},
     "state": "IL",

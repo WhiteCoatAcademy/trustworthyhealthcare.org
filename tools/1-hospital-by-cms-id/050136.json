@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 N MCDOWELL BLVD\",\"city\":\"PETALUMA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.25322532800004",
-        "longitude": "-122.63301542899995",
-        "needs_recoding": false
+        "coordinates": [
+            -122.632081,
+            38.252762
+        ],
+        "type": "Point"
     },
+    "location_address": "400 N MCDOWELL BLVD",
+    "location_city": "PETALUMA",
+    "location_state": "CA",
+    "location_zip": "94954",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.stjhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7077781111"
-    },
+    "phone_number": "7077781111",
     "provider_id": "050136",
     "raw_ratings": {},
     "state": "CA",

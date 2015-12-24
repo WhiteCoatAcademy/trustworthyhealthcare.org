@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2124 14 ST\",\"city\":\"MERIDIAN\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.370811307000054",
-        "longitude": "-88.69964448499996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.700035,
+            32.370777
+        ],
+        "type": "Point"
     },
+    "location_address": "2124 14 ST",
+    "location_city": "MERIDIAN",
+    "location_state": "MS",
+    "location_zip": "39301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6015536000"
-    },
+    "phone_number": "6015536000",
     "provider_id": "250104",
     "raw_ratings": {},
     "state": "MS",

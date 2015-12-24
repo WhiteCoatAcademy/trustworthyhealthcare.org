@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2650 RIDGE AVE\",\"city\":\"EVANSTON\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "42.065393689000075",
-        "longitude": "-87.68328443799999",
-        "needs_recoding": false
+        "coordinates": [
+            -87.683168,
+            42.065977
+        ],
+        "type": "Point"
     },
+    "location_address": "2650 RIDGE AVE",
+    "location_city": "EVANSTON",
+    "location_state": "IL",
+    "location_zip": "60201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.enh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8474328000"
-    },
+    "phone_number": "8474328000",
     "provider_id": "140010",
     "raw_ratings": {},
     "state": "IL",

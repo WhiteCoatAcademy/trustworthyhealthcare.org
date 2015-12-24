@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"30 PROSPECT AVE\",\"city\":\"HACKENSACK\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.88432937300007",
-        "longitude": "-74.05778420499996",
-        "needs_recoding": false
+        "coordinates": [
+            -74.057987,
+            40.88397
+        ],
+        "type": "Point"
     },
+    "location_address": "30 PROSPECT AVE",
+    "location_city": "HACKENSACK",
+    "location_state": "NJ",
+    "location_zip": "07601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2019962000"
-    },
+    "phone_number": "2019962000",
     "provider_id": "310001",
     "raw_ratings": {},
     "state": "NJ",

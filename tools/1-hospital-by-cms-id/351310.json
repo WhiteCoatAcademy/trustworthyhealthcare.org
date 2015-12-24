@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"510 8TH AVENUE NE\",\"city\":\"HAZEN\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "47.29828656800004",
-        "longitude": "-101.61147910399995",
-        "needs_recoding": false
+        "coordinates": [
+            -101.611562,
+            47.298196
+        ],
+        "type": "Point"
     },
+    "location_address": "510 8TH AVENUE NE",
+    "location_city": "HAZEN",
+    "location_state": "ND",
+    "location_zip": "58545",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7017482225"
-    },
+    "phone_number": "7017482225",
     "provider_id": "351310",
     "raw_ratings": {},
     "state": "ND",

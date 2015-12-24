@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"24 STEVENS STREET\",\"city\":\"NORWALK\",\"state\":\"CT\",\"zip\":\"\"}",
-        "latitude": "41.110432855000056",
-        "longitude": "-73.42136788699997",
-        "needs_recoding": false
+        "coordinates": [
+            -73.421017,
+            41.110437
+        ],
+        "type": "Point"
     },
+    "location_address": "24 STEVENS STREET",
+    "location_city": "NORWALK",
+    "location_state": "CT",
+    "location_zip": "06856",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2038522000"
-    },
+    "phone_number": "2038522000",
     "provider_id": "070034",
     "raw_ratings": {},
     "state": "CT",

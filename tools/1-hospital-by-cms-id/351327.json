@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"325 E BREWSTER ST\",\"city\":\"HARVEY\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "47.76765063400006",
-        "longitude": "-99.93315944599999",
-        "needs_recoding": false
+        "coordinates": [
+            -99.92972,
+            47.767694
+        ],
+        "type": "Point"
     },
+    "location_address": "325 E BREWSTER ST",
+    "location_city": "HARVEY",
+    "location_state": "ND",
+    "location_zip": "58341",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.smphs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7013244651"
-    },
+    "phone_number": "7013244651",
     "provider_id": "351327",
     "raw_ratings": {},
     "state": "ND",

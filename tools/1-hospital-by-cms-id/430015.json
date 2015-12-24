@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 E SIOUX\",\"city\":\"PIERRE\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "44.36121750500007",
-        "longitude": "-100.34213028299996",
-        "needs_recoding": false
+        "coordinates": [
+            -100.343282,
+            44.361479
+        ],
+        "type": "Point"
     },
+    "location_address": "801 E SIOUX",
+    "location_city": "PIERRE",
+    "location_state": "SD",
+    "location_zip": "57501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6052243100"
-    },
+    "phone_number": "6052243100",
     "provider_id": "430015",
     "raw_ratings": {},
     "state": "SD",

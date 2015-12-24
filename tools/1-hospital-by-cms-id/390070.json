@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"501 BATH ROAD\",\"city\":\"BRISTOL\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.104728109000064",
-        "longitude": "-74.86482049699998",
-        "needs_recoding": false
+        "coordinates": [
+            -74.864448,
+            40.103681
+        ],
+        "type": "Point"
     },
+    "location_address": "501 BATH ROAD",
+    "location_city": "BRISTOL",
+    "location_state": "PA",
+    "location_zip": "19007",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2157859200"
-    },
+    "phone_number": "2157859200",
     "provider_id": "390070",
     "raw_ratings": {},
     "state": "PA",

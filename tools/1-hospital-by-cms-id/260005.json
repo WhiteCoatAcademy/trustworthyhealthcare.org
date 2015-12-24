@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 1ST CAPITOL DR\",\"city\":\"SAINT CHARLES\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.78040693300005",
-        "longitude": "-90.48452217499994",
-        "needs_recoding": false
+        "coordinates": [
+            -90.484017,
+            38.780224
+        ],
+        "type": "Point"
     },
+    "location_address": "300 1ST CAPITOL DR",
+    "location_city": "SAINT CHARLES",
+    "location_state": "MO",
+    "location_zip": "63301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ssmhc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6369475000"
-    },
+    "phone_number": "6369475000",
     "provider_id": "260005",
     "raw_ratings": {},
     "state": "MO",

@@ -4,15 +4,20 @@
     "county_name": "CUSTER",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "INTEGRIS CLINTON REGIONAL HOSPITAL",
+    "hospital_name": "ALLIANCEHEALTH CLINTON",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 NORTH 30TH STREET\",\"city\":\"CLINTON\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.51457221000004",
-        "longitude": "-98.99690808399998",
-        "needs_recoding": false
+        "coordinates": [
+            -98.996879,
+            35.51455
+        ],
+        "type": "Point"
     },
+    "location_address": "100 NORTH 30TH STREET",
+    "location_city": "CLINTON",
+    "location_state": "OK",
+    "location_zip": "73601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.integris-health.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5803232363"
-    },
+    "phone_number": "5803232363",
     "provider_id": "370029",
     "raw_ratings": {},
     "state": "OK",

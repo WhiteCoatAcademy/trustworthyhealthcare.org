@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1185 N 1000 W\",\"city\":\"LINTON\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.03788114900004",
-        "longitude": "-87.12917107499999",
-        "needs_recoding": false
+        "coordinates": [
+            -87.129172,
+            39.040035
+        ],
+        "type": "Point"
     },
+    "location_address": "1185 N 1000 W",
+    "location_city": "LINTON",
+    "location_state": "IN",
+    "location_zip": "47441",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8128472281"
-    },
+    "phone_number": "8128472281",
     "provider_id": "151317",
     "raw_ratings": {},
     "state": "IN",

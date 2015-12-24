@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 17TH AVENUE EAST\",\"city\":\"ALEXANDRIA\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.87266693600003",
-        "longitude": "-95.37760163399997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.37544,
+            45.872683
+        ],
+        "type": "Point"
     },
+    "location_address": "111 17TH AVENUE EAST",
+    "location_city": "ALEXANDRIA",
+    "location_state": "MN",
+    "location_zip": "56308",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3207621511"
-    },
+    "phone_number": "3207621511",
     "provider_id": "240030",
     "raw_ratings": {},
     "state": "MN",

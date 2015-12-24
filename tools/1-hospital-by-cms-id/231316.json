@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4675 HILL STREET\",\"city\":\"CASS CITY\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.60447246700005",
-        "longitude": "-83.18128514899996",
-        "needs_recoding": false
+        "coordinates": [
+            -83.180623,
+            43.602044
+        ],
+        "type": "Point"
     },
+    "location_address": "4675 HILL STREET",
+    "location_city": "CASS CITY",
+    "location_state": "MI",
+    "location_zip": "48726",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9898722121"
-    },
+    "phone_number": "9898722121",
     "provider_id": "231316",
     "raw_ratings": {},
     "state": "MI",

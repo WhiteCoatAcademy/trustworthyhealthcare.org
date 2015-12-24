@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8 DOCTORS PARK ROAD\",\"city\":\"MOUNT VERNON\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "38.311515808000024",
-        "longitude": "-88.93703304799999",
-        "needs_recoding": false
+        "coordinates": [
+            -88.937068,
+            38.311468
+        ],
+        "type": "Point"
     },
+    "location_address": "8 DOCTORS PARK ROAD",
+    "location_city": "MOUNT VERNON",
+    "location_state": "IL",
+    "location_zip": "62864",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "6182445500"
-    },
+    "phone_number": "6182445500",
     "provider_id": "140294",
     "raw_ratings": {},
     "state": "IL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"727 EAST 1ST ST\",\"city\":\"MINDEN\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.49574482000003",
-        "longitude": "-98.94329422299995",
-        "needs_recoding": false
+        "coordinates": [
+            -98.943308,
+            40.495777
+        ],
+        "type": "Point"
     },
+    "location_address": "727 EAST 1ST ST",
+    "location_city": "MINDEN",
+    "location_state": "NE",
+    "location_zip": "68959",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3088323400"
-    },
+    "phone_number": "3088323400",
     "provider_id": "281306",
     "raw_ratings": {},
     "state": "NE",

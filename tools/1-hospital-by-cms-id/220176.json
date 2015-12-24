@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"123 SUMMER STREET\",\"city\":\"WORCESTER\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.26605817400008",
-        "longitude": "-71.79553006899994",
-        "needs_recoding": false
+        "coordinates": [
+            -71.79563,
+            42.266786
+        ],
+        "type": "Point"
     },
+    "location_address": "123 SUMMER STREET",
+    "location_city": "WORCESTER",
+    "location_state": "MA",
+    "location_zip": "01608",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.vanguardhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5083635000"
-    },
+    "phone_number": "5083635000",
     "provider_id": "220176",
     "raw_ratings": {},
     "state": "MA",

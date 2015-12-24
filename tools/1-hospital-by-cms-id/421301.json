@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"420 THOMSON CIRCLE\",\"city\":\"ABBEVILLE\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.15451425600003",
-        "longitude": "-82.37336219199995",
-        "needs_recoding": false
+        "coordinates": [
+            -82.372819,
+            34.154291
+        ],
+        "type": "Point"
     },
+    "location_address": "420 THOMSON CIRCLE",
+    "location_city": "ABBEVILLE",
+    "location_state": "SC",
+    "location_zip": "29620",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8643665011"
-    },
+    "phone_number": "8643665011",
     "provider_id": "421301",
     "raw_ratings": {},
     "state": "SC",

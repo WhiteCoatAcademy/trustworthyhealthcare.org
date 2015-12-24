@@ -4,15 +4,20 @@
     "county_name": "WAYNE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "OAKWOOD HOSPITAL - TAYLOR",
+    "hospital_name": "BEAUMONT HOSPITAL - TAYLOR",
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10000 TELEGRAPH ROAD\",\"city\":\"TAYLOR\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.23323280400007",
-        "longitude": "-83.26967989999997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.269659,
+            42.233315
+        ],
+        "type": "Point"
     },
+    "location_address": "10000 TELEGRAPH ROAD",
+    "location_city": "TAYLOR",
+    "location_state": "MI",
+    "location_zip": "48180",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.oakwood.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3132955253"
-    },
+    "phone_number": "3132955253",
     "provider_id": "230270",
     "raw_ratings": {},
     "state": "MI",

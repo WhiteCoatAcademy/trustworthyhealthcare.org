@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"900 EIGHTH AVENUE\",\"city\":\"FORT WORTH\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.73454400500003",
-        "longitude": "-97.34374819899995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.343709,
+            32.734721
+        ],
+        "type": "Point"
     },
+    "location_address": "900 EIGHTH AVENUE",
+    "location_city": "FORT WORTH",
+    "location_state": "TX",
+    "location_zip": "76104",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8173362100"
-    },
+    "phone_number": "8173362100",
     "provider_id": "450672",
     "raw_ratings": {},
     "state": "TX",

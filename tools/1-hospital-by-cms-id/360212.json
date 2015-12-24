@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"14519 DETROIT AVENUE\",\"city\":\"LAKEWOOD\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.48528363600008",
-        "longitude": "-81.79637951299998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.795856,
+            41.485331
+        ],
+        "type": "Point"
     },
+    "location_address": "14519 DETROIT AVENUE",
+    "location_city": "LAKEWOOD",
+    "location_state": "OH",
+    "location_zip": "44107",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "my.clevelandclinic.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2165214200"
-    },
+    "phone_number": "2165214200",
     "provider_id": "360212",
     "raw_ratings": {},
     "state": "OH",

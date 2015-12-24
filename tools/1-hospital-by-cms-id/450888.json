@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1545 E SOUTHLAKE BLVD\",\"city\":\"SOUTHLAKE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.94094344000007",
-        "longitude": "-97.12898126699997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.127539,
+            32.94097
+        ],
+        "type": "Point"
     },
+    "location_address": "1545 E SOUTHLAKE BLVD",
+    "location_city": "SOUTHLAKE",
+    "location_state": "TX",
+    "location_zip": "76092",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8177488700"
-    },
+    "phone_number": "8177488700",
     "provider_id": "450888",
     "raw_ratings": {},
     "state": "TX",

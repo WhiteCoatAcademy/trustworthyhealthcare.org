@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1915 LAKE AVE\",\"city\":\"PLYMOUTH\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.33556925400006",
-        "longitude": "-86.33057780899998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.333446,
+            41.333327
+        ],
+        "type": "Point"
     },
+    "location_address": "1915 LAKE AVE",
+    "location_city": "PLYMOUTH",
+    "location_state": "IN",
+    "location_zip": "46563",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trinity-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5749484000"
-    },
+    "phone_number": "5749484000",
     "provider_id": "150076",
     "raw_ratings": {},
     "state": "IN",

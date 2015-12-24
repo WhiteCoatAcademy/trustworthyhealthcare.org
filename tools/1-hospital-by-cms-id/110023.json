@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1035 RED BUD ROAD\",\"city\":\"CALHOUN\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "34.51188330700006",
-        "longitude": "-84.92556140899995",
-        "needs_recoding": false
+        "coordinates": [
+            -84.925297,
+            34.5119
+        ],
+        "type": "Point"
     },
+    "location_address": "1035 RED BUD ROAD",
+    "location_city": "CALHOUN",
+    "location_state": "GA",
+    "location_zip": "30701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7066292895"
-    },
+    "phone_number": "7066292895",
     "provider_id": "110023",
     "raw_ratings": {},
     "state": "GA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1008 NORTH MAIN ST\",\"city\":\"SIKESTON\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "36.88942995300005",
-        "longitude": "-89.58491908499997",
-        "needs_recoding": false
+        "coordinates": [
+            -89.584392,
+            36.889074
+        ],
+        "type": "Point"
     },
+    "location_address": "1008 NORTH MAIN ST",
+    "location_city": "SIKESTON",
+    "location_state": "MO",
+    "location_zip": "63801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5734711600"
-    },
+    "phone_number": "5734711600",
     "provider_id": "260113",
     "raw_ratings": {},
     "state": "MO",

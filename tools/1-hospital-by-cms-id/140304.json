@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 REMINGTON BOULEVARD\",\"city\":\"BOLINGBROOK\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.679963275000034",
-        "longitude": "-88.08321011699996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.087329,
+            41.678146
+        ],
+        "type": "Point"
     },
+    "location_address": "500 REMINGTON BOULEVARD",
+    "location_city": "BOLINGBROOK",
+    "location_state": "IL",
+    "location_zip": "60440",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6302268100"
-    },
+    "phone_number": "6302268100",
     "provider_id": "140304",
     "raw_ratings": {},
     "state": "IL",

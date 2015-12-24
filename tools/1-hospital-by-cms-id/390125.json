@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"601 PARK STREET\",\"city\":\"HONESDALE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "41.57580673000007",
-        "longitude": "-75.26058897299998",
-        "needs_recoding": false
+        "coordinates": [
+            -75.259945,
+            41.576188
+        ],
+        "type": "Point"
     },
+    "location_address": "601 PARK STREET",
+    "location_city": "HONESDALE",
+    "location_state": "PA",
+    "location_zip": "18431",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5702538100"
-    },
+    "phone_number": "5702538100",
     "provider_id": "390125",
     "raw_ratings": {},
     "state": "PA",

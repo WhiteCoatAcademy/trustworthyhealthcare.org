@@ -4,15 +4,20 @@
     "county_name": "MARICOPA",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "OASIS HOSPITAL",
+    "hospital_name": "O.A.S.I.S. HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"750 NORTH 40TH STREET\",\"city\":\"PHOENIX\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.45605160400004",
-        "longitude": "-111.99526083899997",
-        "needs_recoding": false
+        "coordinates": [
+            -111.995208,
+            33.456823
+        ],
+        "type": "Point"
     },
+    "location_address": "750 NORTH 40TH STREET",
+    "location_city": "PHOENIX",
+    "location_state": "AZ",
+    "location_zip": "85008",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6027977703"
-    },
+    "phone_number": "6027977700",
     "provider_id": "030131",
     "raw_ratings": {},
     "state": "AZ",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1155 MILL STREET\",\"city\":\"RENO\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "39.52420715000005",
-        "longitude": "-119.79541890599995",
-        "needs_recoding": false
+        "coordinates": [
+            -119.796626,
+            39.524706
+        ],
+        "type": "Point"
     },
+    "location_address": "1155 MILL STREET",
+    "location_city": "RENO",
+    "location_state": "NV",
+    "location_zip": "89502",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.renown.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7759824100"
-    },
+    "phone_number": "7759824100",
     "provider_id": "290001",
     "raw_ratings": {},
     "state": "NV",

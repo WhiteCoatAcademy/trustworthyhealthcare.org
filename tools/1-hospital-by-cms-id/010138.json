@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"751 DERBY DRIVE\",\"city\":\"YORK\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "32.49162270900007",
-        "longitude": "-88.29593628999999",
-        "needs_recoding": false
+        "coordinates": [
+            -88.296177,
+            32.492097
+        ],
+        "type": "Point"
     },
+    "location_address": "751 DERBY DRIVE",
+    "location_city": "YORK",
+    "location_state": "AL",
+    "location_zip": "36925",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2053925263"
-    },
+    "phone_number": "2053925263",
     "provider_id": "010138",
     "raw_ratings": {},
     "state": "AL",

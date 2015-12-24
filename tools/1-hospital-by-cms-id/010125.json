@@ -1,5 +1,5 @@
 {
-    "address": "42024 HIGHWAY 195 E     POST OFFICE BOX 780",
+    "address": "42024 HIGHWAY 195 E",
     "city": "HALEYVILLE",
     "county_name": "WINSTON",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"42024 HIGHWAY 195 E POST OFFICE BOX 780\",\"city\":\"HALEYVILLE\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "34.241099199000075",
-        "longitude": "-87.59093156099999",
-        "needs_recoding": false
+        "coordinates": [
+            -87.590799,
+            34.241156
+        ],
+        "type": "Point"
     },
+    "location_address": "42024 HIGHWAY 195 E",
+    "location_city": "HALEYVILLE",
+    "location_state": "AL",
+    "location_zip": "35565",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2054857117"
-    },
+    "phone_number": "2054857117",
     "provider_id": "010125",
     "raw_ratings": {},
     "state": "AL",

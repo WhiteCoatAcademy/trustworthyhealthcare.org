@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"118 EAST HASKELL STREET\",\"city\":\"WINNEMUCCA\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "40.97165171300003",
-        "longitude": "-117.72833364499996",
-        "needs_recoding": false
+        "coordinates": [
+            -117.728534,
+            40.971581
+        ],
+        "type": "Point"
     },
+    "location_address": "118 EAST HASKELL STREET",
+    "location_city": "WINNEMUCCA",
+    "location_state": "NV",
+    "location_zip": "89445",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7756235222"
-    },
+    "phone_number": "7756235222",
     "provider_id": "291308",
     "raw_ratings": {},
     "state": "NV",

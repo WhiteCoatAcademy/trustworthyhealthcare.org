@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7101 JAHNKE ROAD\",\"city\":\"RICHMOND\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.51580299200003",
-        "longitude": "-77.52534326099999",
-        "needs_recoding": false
+        "coordinates": [
+            -77.52488,
+            37.515832
+        ],
+        "type": "Point"
     },
+    "location_address": "7101 JAHNKE ROAD",
+    "location_city": "RICHMOND",
+    "location_state": "VA",
+    "location_zip": "23235",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8043302001"
-    },
+    "phone_number": "8043302001",
     "provider_id": "490112",
     "raw_ratings": {},
     "state": "VA",

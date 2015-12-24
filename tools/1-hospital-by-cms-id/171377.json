@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"614 SOUTH MAIN STREET\",\"city\":\"SMITH CENTER\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.78376093300005",
-        "longitude": "-98.78572514699994",
-        "needs_recoding": false
+        "coordinates": [
+            -98.785715,
+            39.771659
+        ],
+        "type": "Point"
     },
+    "location_address": "614 SOUTH MAIN STREET",
+    "location_city": "SMITH CENTER",
+    "location_state": "KS",
+    "location_zip": "66967",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7852826845"
-    },
+    "phone_number": "7852826845",
     "provider_id": "171377",
     "raw_ratings": {},
     "state": "KS",

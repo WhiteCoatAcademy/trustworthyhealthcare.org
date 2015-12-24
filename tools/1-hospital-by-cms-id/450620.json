@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"704 HOSPITAL DRIVE\",\"city\":\"CARRIZO SPRINGS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "28.51965004300007",
-        "longitude": "-99.86260131599994",
-        "needs_recoding": false
+        "coordinates": [
+            -99.86209,
+            28.519914
+        ],
+        "type": "Point"
     },
+    "location_address": "704 HOSPITAL DRIVE",
+    "location_city": "CARRIZO SPRINGS",
+    "location_state": "TX",
+    "location_zip": "78834",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8308762424"
-    },
+    "phone_number": "8308762424",
     "provider_id": "450620",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1850 TOWN CENTER PARKWAY\",\"city\":\"RESTON\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "38.96149722200005",
-        "longitude": "-77.36289264099997",
-        "needs_recoding": false
+        "coordinates": [
+            -77.362633,
+            38.961925
+        ],
+        "type": "Point"
     },
+    "location_address": "1850 TOWN CENTER PARKWAY",
+    "location_city": "RESTON",
+    "location_state": "VA",
+    "location_zip": "20190",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7036899000"
-    },
+    "phone_number": "7036899000",
     "provider_id": "490107",
     "raw_ratings": {},
     "state": "VA",

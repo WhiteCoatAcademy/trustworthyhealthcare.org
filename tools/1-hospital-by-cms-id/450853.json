@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5601 WARREN PARKWAY\",\"city\":\"FRISCO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.106683048000036",
-        "longitude": "-96.83757034799999",
-        "needs_recoding": false
+        "coordinates": [
+            -96.838022,
+            33.106709
+        ],
+        "type": "Point"
     },
+    "location_address": "5601 WARREN PARKWAY",
+    "location_city": "FRISCO",
+    "location_state": "TX",
+    "location_zip": "75034",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2146182000"
-    },
+    "phone_number": "2146182000",
     "provider_id": "450853",
     "raw_ratings": {},
     "state": "TX",

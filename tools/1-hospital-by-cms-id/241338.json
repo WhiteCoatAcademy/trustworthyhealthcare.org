@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 WEST GRANT STREET\",\"city\":\"LAKE CITY\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.43723325000008",
-        "longitude": "-92.29337936999997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.288365,
+            44.458335
+        ],
+        "type": "Point"
     },
+    "location_address": "500 WEST GRANT STREET",
+    "location_city": "LAKE CITY",
+    "location_state": "MN",
+    "location_zip": "55041",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mayohealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6513451114"
-    },
+    "phone_number": "6513451114",
     "provider_id": "241338",
     "raw_ratings": {},
     "state": "MN",

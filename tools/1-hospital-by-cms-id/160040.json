@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"515 COLLEGE STREET\",\"city\":\"CEDAR FALLS\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.533918855000024",
-        "longitude": "-92.45601759499999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.455969,
+            42.533426
+        ],
+        "type": "Point"
     },
+    "location_address": "515 COLLEGE STREET",
+    "location_city": "CEDAR FALLS",
+    "location_state": "IA",
+    "location_zip": "50613",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wfs-inc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3192683000"
-    },
+    "phone_number": "3192683000",
     "provider_id": "160040",
     "raw_ratings": {},
     "state": "IA",

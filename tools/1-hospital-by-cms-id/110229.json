@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"745 POPLAR ROAD\",\"city\":\"NEWNAN\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.359402432000024",
-        "longitude": "-84.75474734399995",
-        "needs_recoding": false
+        "coordinates": [
+            -84.754178,
+            33.359375
+        ],
+        "type": "Point"
     },
+    "location_address": "745 POPLAR ROAD",
+    "location_city": "NEWNAN",
+    "location_state": "GA",
+    "location_zip": "30265",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.piedmont.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7704002300"
-    },
+    "phone_number": "7704002300",
     "provider_id": "110229",
     "raw_ratings": {},
     "state": "GA",

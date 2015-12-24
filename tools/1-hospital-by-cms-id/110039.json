@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2260 WRIGHTSBORO RD\",\"city\":\"AUGUSTA\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.467672864000065",
-        "longitude": "-82.01793354399996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.017889,
+            33.467675
+        ],
+        "type": "Point"
     },
+    "location_address": "2260 WRIGHTSBORO RD",
+    "location_city": "AUGUSTA",
+    "location_state": "GA",
+    "location_zip": "30904",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "7064817000"
-    },
+    "phone_number": "7064817000",
     "provider_id": "110039",
     "raw_ratings": {},
     "state": "GA",

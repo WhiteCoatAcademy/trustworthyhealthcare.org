@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"181 CORLISS LANE\",\"city\":\"COLEBROOK\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "44.903514478000034",
-        "longitude": "-71.48253170999993",
-        "needs_recoding": false
+        "coordinates": [
+            -71.482463,
+            44.903571
+        ],
+        "type": "Point"
     },
+    "location_address": "181 CORLISS LANE",
+    "location_city": "COLEBROOK",
+    "location_state": "NH",
+    "location_zip": "03576",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6032374971"
-    },
+    "phone_number": "6032374971",
     "provider_id": "301300",
     "raw_ratings": {},
     "state": "NH",

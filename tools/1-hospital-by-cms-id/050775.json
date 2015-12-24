@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"31700 TEMECULA PKWY\",\"city\":\"TEMECULA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.47956074600006",
-        "longitude": "-117.10482373699995",
-        "needs_recoding": false
+        "coordinates": [
+            -117.104288,
+            33.479662
+        ],
+        "type": "Point"
     },
+    "location_address": "31700 TEMECULA PKWY",
+    "location_city": "TEMECULA",
+    "location_state": "CA",
+    "location_zip": "92592",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9513312200"
-    },
+    "phone_number": "9513312200",
     "provider_id": "050775",
     "raw_ratings": {},
     "state": "CA",

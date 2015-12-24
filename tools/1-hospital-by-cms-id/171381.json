@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"511 NE 10TH ST\",\"city\":\"ABILENE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.924958383000046",
-        "longitude": "-97.20637081799998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.205559,
+            38.924956
+        ],
+        "type": "Point"
     },
+    "location_address": "511 NE 10TH ST",
+    "location_city": "ABILENE",
+    "location_state": "KS",
+    "location_zip": "67410",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7852636610"
-    },
+    "phone_number": "7852636610",
     "provider_id": "171381",
     "raw_ratings": {},
     "state": "KS",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"510 W TIDWELL\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.847247675000062",
-        "longitude": "-95.40785133599996",
-        "needs_recoding": false
+        "coordinates": [
+            -95.407991,
+            29.847222
+        ],
+        "type": "Point"
     },
+    "location_address": "510 W TIDWELL",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77091",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7136911111"
-    },
+    "phone_number": "7136911111",
     "provider_id": "450803",
     "raw_ratings": {},
     "state": "TX",

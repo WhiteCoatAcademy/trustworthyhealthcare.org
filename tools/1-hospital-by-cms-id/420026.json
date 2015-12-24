@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "SISTERS OF CHARITY PROVIDENCE HOSPITALS",
-    "hospital_ownership": "Voluntary non-profit - Private",
+    "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2435 FOREST DR\",\"city\":\"COLUMBIA\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.01296155000006",
-        "longitude": "-81.01448452899996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.012142,
+            34.013278
+        ],
+        "type": "Point"
     },
+    "location_address": "2435 FOREST DR",
+    "location_city": "COLUMBIA",
+    "location_state": "SC",
+    "location_zip": "29204",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sistersofcharityhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8032565300"
-    },
+    "phone_number": "8032565300",
     "provider_id": "420026",
     "raw_ratings": {},
     "state": "SC",

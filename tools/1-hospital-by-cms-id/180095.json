@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"520 WEST GUM STREET\",\"city\":\"MARION\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.329418162000024",
-        "longitude": "-88.09007613699998",
-        "needs_recoding": false
+        "coordinates": [
+            -88.09014,
+            37.329411
+        ],
+        "type": "Point"
     },
+    "location_address": "520 WEST GUM STREET",
+    "location_city": "MARION",
+    "location_state": "KY",
+    "location_zip": "42064",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2709655281"
-    },
+    "phone_number": "2709655281",
     "provider_id": "180095",
     "raw_ratings": {},
     "state": "KY",

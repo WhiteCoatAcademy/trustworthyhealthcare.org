@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"380 SUMMIT AVENUE\",\"city\":\"STEUBENVILLE\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.35615899600003",
-        "longitude": "-80.62505869499995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.625105,
+            40.356232
+        ],
+        "type": "Point"
     },
+    "location_address": "380 SUMMIT AVENUE",
+    "location_city": "STEUBENVILLE",
+    "location_state": "OH",
+    "location_zip": "43952",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trinityhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7402837000"
-    },
+    "phone_number": "7402837000",
     "provider_id": "360211",
     "raw_ratings": {},
     "state": "OH",

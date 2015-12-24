@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1050 LINDEN AVE\",\"city\":\"LONG BEACH\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.78024016400008",
-        "longitude": "-118.18664682299999",
-        "needs_recoding": false
+        "coordinates": [
+            -118.186686,
+            33.7801
+        ],
+        "type": "Point"
     },
+    "location_address": "1050 LINDEN AVE",
+    "location_city": "LONG BEACH",
+    "location_state": "CA",
+    "location_zip": "90813",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5624919000"
-    },
+    "phone_number": "5624919000",
     "provider_id": "050191",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"101 HARRIS ROAD\",\"city\":\"KILMARNOCK\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.70036742700006",
-        "longitude": "-76.38974648599998",
-        "needs_recoding": false
+        "coordinates": [
+            -76.389817,
+            37.700643
+        ],
+        "type": "Point"
     },
+    "location_address": "101 HARRIS ROAD",
+    "location_city": "KILMARNOCK",
+    "location_state": "VA",
+    "location_zip": "22482",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8044358000"
-    },
+    "phone_number": "8044358000",
     "provider_id": "490123",
     "raw_ratings": {},
     "state": "VA",

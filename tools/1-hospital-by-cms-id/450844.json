@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"18220 TOMBALL PARKWAY\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.963627357000064",
-        "longitude": "-95.55016402099994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.550789,
+            29.964059
+        ],
+        "type": "Point"
     },
+    "location_address": "18220 TOMBALL PARKWAY",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77070",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.methodisthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2814771000"
-    },
+    "phone_number": "2814771000",
     "provider_id": "450844",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1102 W MACARTHUR\",\"city\":\"SHAWNEE\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.36177836300004",
-        "longitude": "-96.93666305499994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.937639,
+            35.361768
+        ],
+        "type": "Point"
     },
+    "location_address": "1102 W MACARTHUR",
+    "location_city": "SHAWNEE",
+    "location_state": "OK",
+    "location_zip": "74804",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4052732270"
-    },
+    "phone_number": "4052732270",
     "provider_id": "370149",
     "raw_ratings": {},
     "state": "OK",

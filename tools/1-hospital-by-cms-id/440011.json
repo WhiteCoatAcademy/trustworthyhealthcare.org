@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"907 E LAMAR ALEXANDER PARKWAY\",\"city\":\"MARYVILLE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.755001062000076",
-        "longitude": "-83.95893449199997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.958602,
+            35.754958
+        ],
+        "type": "Point"
     },
+    "location_address": "907 E LAMAR ALEXANDER PARKWAY",
+    "location_city": "MARYVILLE",
+    "location_state": "TN",
+    "location_zip": "37804",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8659837211"
-    },
+    "phone_number": "8659837211",
     "provider_id": "440011",
     "raw_ratings": {},
     "state": "TN",

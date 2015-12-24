@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8045 ROANE MEDICAL CENTER DRIVE\",\"city\":\"HARRIMAN\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.934023624000076",
-        "longitude": "-84.55201807599997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.554418,
+            35.888312
+        ],
+        "type": "Point"
     },
+    "location_address": "8045 ROANE MEDICAL CENTER DRIVE",
+    "location_city": "HARRIMAN",
+    "location_state": "TN",
+    "location_zip": "37748",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.covenanthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8653161000"
-    },
+    "phone_number": "8653161000",
     "provider_id": "440031",
     "raw_ratings": {},
     "state": "TN",

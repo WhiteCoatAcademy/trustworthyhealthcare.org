@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"15107 VANOWEN ST\",\"city\":\"VAN NUYS\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.19395773200006",
-        "longitude": "-118.463199068",
-        "needs_recoding": false
+        "coordinates": [
+            -118.463376,
+            34.193916
+        ],
+        "type": "Point"
     },
+    "location_address": "15107 VANOWEN ST",
+    "location_city": "VAN NUYS",
+    "location_state": "CA",
+    "location_zip": "91406",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8189023906"
-    },
+    "phone_number": "8187826600",
     "provider_id": "050126",
     "raw_ratings": {},
     "state": "CA",

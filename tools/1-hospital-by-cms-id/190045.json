@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1202 S TYLER STREET\",\"city\":\"COVINGTON\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.46891733700005",
-        "longitude": "-90.11393333999996",
-        "needs_recoding": false
+        "coordinates": [
+            -90.113763,
+            30.469181
+        ],
+        "type": "Point"
     },
+    "location_address": "1202 S TYLER STREET",
+    "location_city": "COVINGTON",
+    "location_state": "LA",
+    "location_zip": "70433",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9858984000"
-    },
+    "phone_number": "9858984000",
     "provider_id": "190045",
     "raw_ratings": {},
     "state": "LA",

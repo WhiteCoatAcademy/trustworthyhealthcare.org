@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1380 EAST MEDICAL CENTER DRIVE\",\"city\":\"ST GEORGE\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "37.09982198100005",
-        "longitude": "-113.55333508599995",
-        "needs_recoding": false
+        "coordinates": [
+            -113.55333,
+            37.09985
+        ],
+        "type": "Point"
     },
+    "location_address": "1380 EAST MEDICAL CENTER DRIVE",
+    "location_city": "ST GEORGE",
+    "location_state": "UT",
+    "location_zip": "84790",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "intermountainhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4352512100"
-    },
+    "phone_number": "4352512100",
     "provider_id": "460021",
     "raw_ratings": {},
     "state": "UT",

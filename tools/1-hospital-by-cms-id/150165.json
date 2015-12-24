@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 SUPERIOR AVE\",\"city\":\"MUNSTER\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.537308008000025",
-        "longitude": "-87.51101055599997",
-        "needs_recoding": false
+        "coordinates": [
+            -87.512313,
+            41.537258
+        ],
+        "type": "Point"
     },
+    "location_address": "701 SUPERIOR AVE",
+    "location_city": "MUNSTER",
+    "location_state": "IN",
+    "location_zip": "46321",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2199224200"
-    },
+    "phone_number": "2199224200",
     "provider_id": "150165",
     "raw_ratings": {},
     "state": "IN",

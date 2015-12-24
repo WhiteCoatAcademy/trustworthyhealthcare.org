@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"330 N BROAD STREET\",\"city\":\"FOREST\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.36598980800005",
-        "longitude": "-89.47093093099994",
-        "needs_recoding": false
+        "coordinates": [
+            -89.470953,
+            32.365746
+        ],
+        "type": "Point"
     },
+    "location_address": "330 N BROAD STREET",
+    "location_city": "FOREST",
+    "location_state": "MS",
+    "location_zip": "39074",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6014694151"
-    },
+    "phone_number": "6014694151",
     "provider_id": "251300",
     "raw_ratings": {},
     "state": "MS",

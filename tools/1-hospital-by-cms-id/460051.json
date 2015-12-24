@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3580 WEST 9000 SOUTH\",\"city\":\"WEST JORDAN\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "40.58793342400003",
-        "longitude": "-111.97527612899995",
-        "needs_recoding": false
+        "coordinates": [
+            -111.975037,
+            40.587958
+        ],
+        "type": "Point"
     },
+    "location_address": "3580 WEST 9000 SOUTH",
+    "location_city": "WEST JORDAN",
+    "location_state": "UT",
+    "location_zip": "84088",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.iasishealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8015618888"
-    },
+    "phone_number": "8015618888",
     "provider_id": "460051",
     "raw_ratings": {},
     "state": "UT",

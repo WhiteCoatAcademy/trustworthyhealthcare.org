@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7301 ROGERS AVE\",\"city\":\"FORT SMITH\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "35.35368560400008",
-        "longitude": "-94.35299525699998",
-        "needs_recoding": false
+        "coordinates": [
+            -94.352964,
+            35.353647
+        ],
+        "type": "Point"
     },
+    "location_address": "7301 ROGERS AVE",
+    "location_city": "FORT SMITH",
+    "location_state": "AR",
+    "location_zip": "72917",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mercy.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "4793146000"
-    },
+    "phone_number": "4793146000",
     "provider_id": "040062",
     "raw_ratings": {},
     "state": "AR",

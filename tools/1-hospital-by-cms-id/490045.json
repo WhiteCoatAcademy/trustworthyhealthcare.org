@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8700 SUDLEY RD\",\"city\":\"MANASSAS\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "38.76772607200007",
-        "longitude": "-77.48533603599998",
-        "needs_recoding": false
+        "coordinates": [
+            -77.484936,
+            38.767458
+        ],
+        "type": "Point"
     },
+    "location_address": "8700 SUDLEY RD",
+    "location_city": "MANASSAS",
+    "location_state": "VA",
+    "location_zip": "20110",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7033698000"
-    },
+    "phone_number": "7033698000",
     "provider_id": "490045",
     "raw_ratings": {},
     "state": "VA",

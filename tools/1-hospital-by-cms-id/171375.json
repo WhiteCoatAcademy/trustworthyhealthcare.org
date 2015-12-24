@@ -1,5 +1,5 @@
 {
-    "address": "400 W 8TH STREET P O BOX 399",
+    "address": "400 W 8TH STREET, P O BOX 399",
     "city": "BELOIT",
     "county_name": "MITCHELL",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 W 8TH STREET P O BOX 399\",\"city\":\"BELOIT\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.466533011000024",
-        "longitude": "-98.11436140399996",
-        "needs_recoding": false
+        "coordinates": [
+            -98.11558,
+            39.466548
+        ],
+        "type": "Point"
     },
+    "location_address": "400 W 8TH STREET, P O BOX 399",
+    "location_city": "BELOIT",
+    "location_state": "KS",
+    "location_zip": "67420",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7857382266"
-    },
+    "phone_number": "7857382266",
     "provider_id": "171375",
     "raw_ratings": {},
     "state": "KS",

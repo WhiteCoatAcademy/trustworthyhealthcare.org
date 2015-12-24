@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "OAKLAND MERCY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"601 EAST SECOND ST\",\"city\":\"OAKLAND\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.834498550000035",
-        "longitude": "-96.46083718699998",
-        "needs_recoding": false
+        "coordinates": [
+            -96.461248,
+            41.834548
+        ],
+        "type": "Point"
     },
+    "location_address": "601 EAST SECOND ST",
+    "location_city": "OAKLAND",
+    "location_state": "NE",
+    "location_zip": "68045",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mercyhealthnetwork.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4026855601"
-    },
+    "phone_number": "4026855601",
     "provider_id": "281321",
     "raw_ratings": {},
     "state": "NE",

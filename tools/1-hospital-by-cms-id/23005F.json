@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"325 EAST H STREET\",\"city\":\"IRON MOUNTAIN\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "45.82073698700003",
-        "longitude": "-88.06524988399997",
-        "needs_recoding": false
+        "coordinates": [
+            -88.060923,
+            45.811483
+        ],
+        "type": "Point"
     },
+    "location_address": "325 EAST H STREET",
+    "location_city": "IRON MOUNTAIN",
+    "location_state": "MI",
+    "location_zip": "49801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9067743300"
-    },
+    "phone_number": "9067743300",
     "provider_id": "23005F",
     "raw_ratings": {},
     "state": "MI",

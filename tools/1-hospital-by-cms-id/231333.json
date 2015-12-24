@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"N10561 GRAND VIEW LANE\",\"city\":\"IRONWOOD\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "46.47915617100006",
-        "longitude": "-90.10461826099998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.104439,
+            46.481186
+        ],
+        "type": "Point"
     },
+    "location_address": "N10561 GRAND VIEW LANE",
+    "location_city": "IRONWOOD",
+    "location_state": "MI",
+    "location_zip": "49938",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9069322525"
-    },
+    "phone_number": "9069322525",
     "provider_id": "231333",
     "raw_ratings": {},
     "state": "MI",

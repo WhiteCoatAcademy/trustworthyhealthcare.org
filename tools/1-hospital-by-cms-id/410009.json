@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"455 TOLL GATE RD\",\"city\":\"WARWICK\",\"state\":\"RI\",\"zip\":\"\"}",
-        "latitude": "41.704405604000044",
-        "longitude": "-71.47771535999993",
-        "needs_recoding": false
+        "coordinates": [
+            -71.477902,
+            41.704478
+        ],
+        "type": "Point"
     },
+    "location_address": "455 TOLL GATE RD",
+    "location_city": "WARWICK",
+    "location_state": "RI",
+    "location_zip": "02886",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.carenewengland.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4017377000"
-    },
+    "phone_number": "4017377000",
     "provider_id": "410009",
     "raw_ratings": {},
     "state": "RI",

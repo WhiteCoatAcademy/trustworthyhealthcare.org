@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1503 CEDAR CREST BOULEVARD\",\"city\":\"ALLENTOWN\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.612287570000035",
-        "longitude": "-75.53275301599996",
-        "needs_recoding": false
+        "coordinates": [
+            -75.53275,
+            40.61219
+        ],
+        "type": "Point"
     },
+    "location_address": "1503 CEDAR CREST BOULEVARD",
+    "location_city": "ALLENTOWN",
+    "location_state": "PA",
+    "location_zip": "18104",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6108719110"
-    },
+    "phone_number": "6108719110",
     "provider_id": "390321",
     "raw_ratings": {},
     "state": "PA",

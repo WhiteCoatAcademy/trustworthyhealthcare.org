@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "GUTHRIE COUNTY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"710 NORTH 12TH STREET\",\"city\":\"GUTHRIE CENTER\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.683313800000064",
-        "longitude": "-94.49432472999996",
-        "needs_recoding": false
+        "coordinates": [
+            -94.494516,
+            41.683596
+        ],
+        "type": "Point"
     },
+    "location_address": "710 NORTH 12TH STREET",
+    "location_city": "GUTHRIE CENTER",
+    "location_state": "IA",
+    "location_zip": "50115",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6413322201"
-    },
+    "phone_number": "6413322201",
     "provider_id": "161314",
     "raw_ratings": {},
     "state": "IA",

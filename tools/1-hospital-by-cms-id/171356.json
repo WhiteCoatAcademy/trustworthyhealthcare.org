@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"535 SOUTH FREEBRON\",\"city\":\"MARION\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.34269079300003",
-        "longitude": "-97.01002545399996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.010018,
+            38.342911
+        ],
+        "type": "Point"
     },
+    "location_address": "535 SOUTH FREEBRON",
+    "location_city": "MARION",
+    "location_state": "KS",
+    "location_zip": "66861",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6203822177"
-    },
+    "phone_number": "6203822177",
     "provider_id": "171356",
     "raw_ratings": {},
     "state": "KS",

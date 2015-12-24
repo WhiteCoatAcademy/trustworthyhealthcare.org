@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1455 ST FRANCIS AVENUE\",\"city\":\"SHAKOPEE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.77010723400008",
-        "longitude": "-93.50298085199995",
-        "needs_recoding": false
+        "coordinates": [
+            -93.504151,
+            44.770073
+        ],
+        "type": "Point"
     },
+    "location_address": "1455 ST FRANCIS AVENUE",
+    "location_city": "SHAKOPEE",
+    "location_state": "MN",
+    "location_zip": "55379",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.allina.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9524033000"
-    },
+    "phone_number": "9524033000",
     "provider_id": "240104",
     "raw_ratings": {},
     "state": "MN",

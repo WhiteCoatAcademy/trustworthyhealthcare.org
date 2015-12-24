@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1301 S MAIN STREET\",\"city\":\"OTTAWA\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.59652004000003",
-        "longitude": "-95.26875594199998",
-        "needs_recoding": false
+        "coordinates": [
+            -95.268759,
+            38.597285
+        ],
+        "type": "Point"
     },
+    "location_address": "1301 S MAIN STREET",
+    "location_city": "OTTAWA",
+    "location_state": "KS",
+    "location_zip": "66067",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7852298200"
-    },
+    "phone_number": "7852298200",
     "provider_id": "170014",
     "raw_ratings": {},
     "state": "KS",

@@ -4,15 +4,20 @@
     "county_name": "GREENE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "COX MEDICAL CENTER",
+    "hospital_name": "COX MEDICAL CENTERS",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3801 SOUTH NATIONAL AVENUE\",\"city\":\"SPRINGFIELD\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "37.14570505200004",
-        "longitude": "-93.27862466899995",
-        "needs_recoding": false
+        "coordinates": [
+            -93.27808,
+            37.144966
+        ],
+        "type": "Point"
     },
+    "location_address": "3801 SOUTH NATIONAL AVENUE",
+    "location_city": "SPRINGFIELD",
+    "location_state": "MO",
+    "location_zip": "65807",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.coxhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4172696000"
-    },
+    "phone_number": "4172696000",
     "provider_id": "260040",
     "raw_ratings": {},
     "state": "MO",

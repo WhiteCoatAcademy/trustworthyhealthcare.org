@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1505 W SHERMAN AVE\",\"city\":\"VINELAND\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "39.44750320600008",
-        "longitude": "-75.05916173599996",
-        "needs_recoding": false
+        "coordinates": [
+            -75.058638,
+            39.447505
+        ],
+        "type": "Point"
     },
+    "location_address": "1505 W SHERMAN AVE",
+    "location_city": "VINELAND",
+    "location_state": "NJ",
+    "location_zip": "08360",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sjhs.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8566416610"
-    },
+    "phone_number": "8566416610",
     "provider_id": "310032",
     "raw_ratings": {},
     "state": "NJ",

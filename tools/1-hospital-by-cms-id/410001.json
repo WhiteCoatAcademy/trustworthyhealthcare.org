@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 BREWSTER STREET\",\"city\":\"PAWTUCKET\",\"state\":\"RI\",\"zip\":\"\"}",
-        "latitude": "41.87072477800007",
-        "longitude": "-71.37491246299999",
-        "needs_recoding": false
+        "coordinates": [
+            -71.374793,
+            41.870519
+        ],
+        "type": "Point"
     },
+    "location_address": "111 BREWSTER STREET",
+    "location_city": "PAWTUCKET",
+    "location_state": "RI",
+    "location_zip": "02860",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4017292000"
-    },
+    "phone_number": "4017292000",
     "provider_id": "410001",
     "raw_ratings": {},
     "state": "RI",

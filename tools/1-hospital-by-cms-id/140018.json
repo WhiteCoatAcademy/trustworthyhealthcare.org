@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"15TH STREET AT CALIFORNIA\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.884252520000075",
-        "longitude": "-87.63244776499994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.695723,
+            41.86016
+        ],
+        "type": "Point"
     },
+    "location_address": "15TH STREET AT CALIFORNIA",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60608",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sinai.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7732576751"
-    },
+    "phone_number": "7732576751",
     "provider_id": "140018",
     "raw_ratings": {},
     "state": "IL",

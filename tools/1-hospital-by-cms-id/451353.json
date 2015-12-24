@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1310 S ALFORD ST\",\"city\":\"CRANE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.390485927000043",
-        "longitude": "-102.34933955299994",
-        "needs_recoding": false
+        "coordinates": [
+            -102.349373,
+            31.390567
+        ],
+        "type": "Point"
     },
+    "location_address": "1310 S ALFORD ST",
+    "location_city": "CRANE",
+    "location_state": "TX",
+    "location_zip": "79731",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4325583555"
-    },
+    "phone_number": "4325583555",
     "provider_id": "451353",
     "raw_ratings": {},
     "state": "TX",

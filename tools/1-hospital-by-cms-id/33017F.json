@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"423 EAST 23RD STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.63969660600003",
-        "longitude": "-73.95603511099995",
-        "needs_recoding": false
+        "coordinates": [
+            -73.97715,
+            40.736301
+        ],
+        "type": "Point"
     },
+    "location_address": "423 EAST 23RD STREET",
+    "location_city": "NEW YORK",
+    "location_state": "NY",
+    "location_zip": "10010",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2126867500"
-    },
+    "phone_number": "2126867500",
     "provider_id": "33017F",
     "raw_ratings": {},
     "state": "NY",

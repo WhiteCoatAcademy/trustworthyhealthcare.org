@@ -1,5 +1,5 @@
 {
-    "address": "601 E 7TH ST",
+    "address": "601 E 7TH ST  POST OFFICE BOX 200",
     "city": "PLATTE",
     "county_name": "CHARLES MIX",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"601 E 7TH ST\",\"city\":\"PLATTE\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "43.38423149600004",
-        "longitude": "-98.83659370399994",
-        "needs_recoding": false
+        "coordinates": [
+            -98.836395,
+            43.384182
+        ],
+        "type": "Point"
     },
+    "location_address": "601 E 7TH ST POST OFFICE BOX 200",
+    "location_city": "PLATTE",
+    "location_state": "SD",
+    "location_zip": "57369",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6053373364"
-    },
+    "phone_number": "6053373364",
     "provider_id": "431306",
     "raw_ratings": {},
     "state": "SD",

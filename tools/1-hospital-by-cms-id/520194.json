@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"475 W RIVER WOODS PKWY\",\"city\":\"GLENDALE\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.097842118000074",
-        "longitude": "-87.91240216499995",
-        "needs_recoding": false
+        "coordinates": [
+            -87.91389,
+            43.098477
+        ],
+        "type": "Point"
     },
+    "location_address": "475 W RIVER WOODS PKWY",
+    "location_city": "GLENDALE",
+    "location_state": "WI",
+    "location_zip": "53212",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4149616800"
-    },
+    "phone_number": "4149616800",
     "provider_id": "520194",
     "raw_ratings": {},
     "state": "WI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1102 ST MARY'S ROAD\",\"city\":\"JUNCTION CITY\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.01344901700003",
-        "longitude": "-96.85020627099999",
-        "needs_recoding": false
+        "coordinates": [
+            -96.849802,
+            39.013972
+        ],
+        "type": "Point"
     },
+    "location_address": "1102 ST MARY'S ROAD",
+    "location_city": "JUNCTION CITY",
+    "location_state": "KS",
+    "location_zip": "66441",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7852103301"
-    },
+    "phone_number": "7852103301",
     "provider_id": "170074",
     "raw_ratings": {},
     "state": "KS",

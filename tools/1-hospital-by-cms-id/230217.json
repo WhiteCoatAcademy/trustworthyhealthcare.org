@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 N MADISON\",\"city\":\"MARSHALL\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.273360281000066",
-        "longitude": "-84.95773380999998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.95779,
+            42.273048
+        ],
+        "type": "Point"
     },
+    "location_address": "200 N MADISON",
+    "location_city": "MARSHALL",
+    "location_state": "MI",
+    "location_zip": "49068",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2697814271"
-    },
+    "phone_number": "2697814271",
     "provider_id": "230217",
     "raw_ratings": {},
     "state": "MI",

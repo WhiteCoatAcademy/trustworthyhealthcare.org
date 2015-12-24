@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"640 S STATE STREET\",\"city\":\"DOVER\",\"state\":\"DE\",\"zip\":\"\"}",
-        "latitude": "39.151232537000055",
-        "longitude": "-75.52229680399995",
-        "needs_recoding": false
+        "coordinates": [
+            -75.522324,
+            39.150749
+        ],
+        "type": "Point"
     },
+    "location_address": "640 S STATE STREET",
+    "location_city": "DOVER",
+    "location_state": "DE",
+    "location_zip": "19901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bayhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3027447001"
-    },
+    "phone_number": "3027447001",
     "provider_id": "080004",
     "raw_ratings": {},
     "state": "DE",

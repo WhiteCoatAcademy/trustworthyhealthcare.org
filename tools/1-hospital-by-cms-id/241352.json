@@ -1,5 +1,5 @@
 {
-    "address": "625 NORTH JACKSON STREET",
+    "address": "625 JACKSON AVENUE NORTH",
     "city": "SPRINGFIELD",
     "county_name": "BROWN",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"625 NORTH JACKSON STREET\",\"city\":\"SPRINGFIELD\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.246982813000045",
-        "longitude": "-94.97135891899995",
-        "needs_recoding": false
+        "coordinates": [
+            -94.971608,
+            44.245907
+        ],
+        "type": "Point"
     },
+    "location_address": "625 JACKSON AVENUE NORTH",
+    "location_city": "SPRINGFIELD",
+    "location_state": "MN",
+    "location_zip": "56087",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mayohealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5077236201"
-    },
+    "phone_number": "5077236201",
     "provider_id": "241352",
     "raw_ratings": {},
     "state": "MN",

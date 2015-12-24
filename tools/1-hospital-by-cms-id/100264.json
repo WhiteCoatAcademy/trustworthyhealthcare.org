@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11375 CORTEZ BLVD\",\"city\":\"BROOKSVILLE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.533397513000068",
-        "longitude": "-82.53394357999997",
-        "needs_recoding": false
+        "coordinates": [
+            -82.534496,
+            28.533305
+        ],
+        "type": "Point"
     },
+    "location_address": "11375 CORTEZ BLVD",
+    "location_city": "BROOKSVILLE",
+    "location_state": "FL",
+    "location_zip": "34613",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3525966632"
-    },
+    "phone_number": "3525966632",
     "provider_id": "100264",
     "raw_ratings": {},
     "state": "FL",

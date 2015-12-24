@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"615 FAIRHURST ST\",\"city\":\"STERLING\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "40.613643514000046",
-        "longitude": "-103.22061011299996",
-        "needs_recoding": false
+        "coordinates": [
+            -103.220685,
+            40.613681
+        ],
+        "type": "Point"
     },
+    "location_address": "615 FAIRHURST ST",
+    "location_city": "STERLING",
+    "location_state": "CO",
+    "location_zip": "80751",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bannerhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9705220122"
-    },
+    "phone_number": "9705220122",
     "provider_id": "060076",
     "raw_ratings": {},
     "state": "CO",

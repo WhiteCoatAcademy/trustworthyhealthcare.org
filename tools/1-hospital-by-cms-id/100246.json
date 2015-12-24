@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1700 S 23RD ST\",\"city\":\"FORT PIERCE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.43177000700007",
-        "longitude": "-80.34731945099998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.347357,
+            27.432023
+        ],
+        "type": "Point"
     },
+    "location_address": "1700 S 23RD ST",
+    "location_city": "FORT PIERCE",
+    "location_state": "FL",
+    "location_zip": "34950",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7724614000"
-    },
+    "phone_number": "7724614000",
     "provider_id": "100246",
     "raw_ratings": {},
     "state": "FL",

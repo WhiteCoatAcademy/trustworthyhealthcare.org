@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2300 WESTERN AVE\",\"city\":\"MANITOWOC\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.09445969700005",
-        "longitude": "-87.67692232399997",
-        "needs_recoding": false
+        "coordinates": [
+            -87.676865,
+            44.09441
+        ],
+        "type": "Point"
     },
+    "location_address": "2300 WESTERN AVE",
+    "location_city": "MANITOWOC",
+    "location_state": "WI",
+    "location_zip": "54221",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.fhcm.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9203202011"
-    },
+    "phone_number": "9203202011",
     "provider_id": "520107",
     "raw_ratings": {},
     "state": "WI",

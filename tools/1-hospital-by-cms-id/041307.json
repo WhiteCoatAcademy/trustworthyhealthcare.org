@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "CROSSRIDGE COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
+    "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"310 SOUTH FALLS BOULEVARD\",\"city\":\"WYNNE\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "35.221052695000026",
-        "longitude": "-90.78737228699998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.787405,
+            35.221107
+        ],
+        "type": "Point"
     },
+    "location_address": "310 SOUTH FALLS BOULEVARD",
+    "location_city": "WYNNE",
+    "location_state": "AR",
+    "location_zip": "72396",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8702383300"
-    },
+    "phone_number": "8702383300",
     "provider_id": "041307",
     "raw_ratings": {},
     "state": "AR",

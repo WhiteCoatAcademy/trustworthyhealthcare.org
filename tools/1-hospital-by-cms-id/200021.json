@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"123 MEDICAL CENTER DRIVE\",\"city\":\"BRUNSWICK\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "43.90503656800007",
-        "longitude": "-69.89174187499998",
-        "needs_recoding": false
+        "coordinates": [
+            -69.892004,
+            43.905666
+        ],
+        "type": "Point"
     },
+    "location_address": "123 MEDICAL CENTER DRIVE",
+    "location_city": "BRUNSWICK",
+    "location_state": "ME",
+    "location_zip": "04011",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2077290181"
-    },
+    "phone_number": "2077290181",
     "provider_id": "200021",
     "raw_ratings": {},
     "state": "ME",

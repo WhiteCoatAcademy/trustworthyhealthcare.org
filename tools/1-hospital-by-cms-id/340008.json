@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 LAUCHWOOD DR\",\"city\":\"LAURINBURG\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "34.75172550600007",
-        "longitude": "-79.47040763999996",
-        "needs_recoding": false
+        "coordinates": [
+            -79.47042,
+            34.7517
+        ],
+        "type": "Point"
     },
+    "location_address": "500 LAUCHWOOD DR",
+    "location_city": "LAURINBURG",
+    "location_state": "NC",
+    "location_zip": "28352",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9102917000"
-    },
+    "phone_number": "9102917000",
     "provider_id": "340008",
     "raw_ratings": {},
     "state": "NC",

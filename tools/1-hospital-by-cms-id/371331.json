@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"610 WEST BYPASS\",\"city\":\"DRUMRIGHT\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.98850177700007",
-        "longitude": "-96.60070588099995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.647563,
+            36.775185
+        ],
+        "type": "Point"
     },
+    "location_address": "610 WEST BYPASS",
+    "location_city": "DRUMRIGHT",
+    "location_state": "OK",
+    "location_zip": "74030",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9183822300"
-    },
+    "phone_number": "9183822300",
     "provider_id": "371331",
     "raw_ratings": {},
     "state": "OK",

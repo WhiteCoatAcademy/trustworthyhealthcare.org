@@ -7,11 +7,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"310 BENNETT STREET PO BOX 1081\",\"city\":\"WRANGELL\",\"state\":\"AK\",\"zip\":\"\"}",
-        "latitude": "56.47273921000004",
-        "longitude": "-132.375515335",
-        "needs_recoding": false
+        "coordinates": [
+            -132.376615,
+            56.471388
+        ],
+        "type": "Point"
     },
+    "location_address": "310 BENNETT STREET PO BOX 1081",
+    "location_city": "WRANGELL",
+    "location_state": "AK",
+    "location_zip": "99929",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -25,9 +30,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9078747000"
-    },
+    "phone_number": "9078747000",
     "provider_id": "021305",
     "raw_ratings": {},
     "state": "AK",

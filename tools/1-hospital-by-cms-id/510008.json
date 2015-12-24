@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2500 HOSPITAL DRIVE\",\"city\":\"MARTINSBURG\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "39.47634524100005",
-        "longitude": "-77.98088875999997",
-        "needs_recoding": false
+        "coordinates": [
+            -77.980868,
+            39.476612
+        ],
+        "type": "Point"
     },
+    "location_address": "2500 HOSPITAL DRIVE",
+    "location_city": "MARTINSBURG",
+    "location_state": "WV",
+    "location_zip": "25401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wvunitedhealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3042641000"
-    },
+    "phone_number": "3042641000",
     "provider_id": "510008",
     "raw_ratings": {},
     "state": "WV",

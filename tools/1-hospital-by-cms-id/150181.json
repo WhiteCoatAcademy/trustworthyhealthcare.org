@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"13861 OLIO ROAD\",\"city\":\"FISHERS\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.99033005600006",
-        "longitude": "-85.91901836199997",
-        "needs_recoding": false
+        "coordinates": [
+            -85.918966,
+            39.989499
+        ],
+        "type": "Point"
     },
+    "location_address": "13861 OLIO ROAD",
+    "location_city": "FISHERS",
+    "location_state": "IN",
+    "location_zip": "46037",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3174159000"
-    },
+    "phone_number": "3174159000",
     "provider_id": "150181",
     "raw_ratings": {},
     "state": "IN",

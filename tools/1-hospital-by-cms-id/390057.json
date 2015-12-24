@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 LAWN AVENUE\",\"city\":\"SELLERSVILLE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.36262006000004",
-        "longitude": "-75.32430201799997",
-        "needs_recoding": false
+        "coordinates": [
+            -75.325342,
+            40.363298
+        ],
+        "type": "Point"
     },
+    "location_address": "700 LAWN AVENUE",
+    "location_city": "SELLERSVILLE",
+    "location_state": "PA",
+    "location_zip": "18960",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2154534615"
-    },
+    "phone_number": "2154534615",
     "provider_id": "390057",
     "raw_ratings": {},
     "state": "PA",

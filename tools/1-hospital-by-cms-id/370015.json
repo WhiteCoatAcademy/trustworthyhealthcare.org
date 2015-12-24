@@ -4,15 +4,20 @@
     "county_name": "MAYES",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "INTEGRIS MAYES COUNTY MEDICAL CENTER",
+    "hospital_name": "ALLIANCEHEALTH PRYOR",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 NORTH BAILEY STREET\",\"city\":\"PRYOR\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.30781985300007",
-        "longitude": "-95.30530641599995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.305387,
+            36.308178
+        ],
+        "type": "Point"
     },
+    "location_address": "111 NORTH BAILEY STREET",
+    "location_city": "PRYOR",
+    "location_state": "OK",
+    "location_zip": "74361",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.integris-health.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9188251600"
-    },
+    "phone_number": "9188251600",
     "provider_id": "370015",
     "raw_ratings": {},
     "state": "OK",

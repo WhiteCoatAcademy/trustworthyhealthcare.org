@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "ST RITA'S MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"730 WEST MARKET STREET\",\"city\":\"LIMA\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.74006841800008",
-        "longitude": "-84.11913075999996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.117393,
+            40.739998
+        ],
+        "type": "Point"
     },
+    "location_address": "730 WEST MARKET STREET",
+    "location_city": "LIMA",
+    "location_state": "OH",
+    "location_zip": "45801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health-partners.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4192273361"
-    },
+    "phone_number": "4192273361",
     "provider_id": "360066",
     "raw_ratings": {},
     "state": "OH",

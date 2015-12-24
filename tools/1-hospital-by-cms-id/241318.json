@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"328 WEST CONAN STREET\",\"city\":\"ELY\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "47.900521611000045",
-        "longitude": "-91.87264035699997",
-        "needs_recoding": false
+        "coordinates": [
+            -91.872323,
+            47.9006
+        ],
+        "type": "Point"
     },
+    "location_address": "328 WEST CONAN STREET",
+    "location_city": "ELY",
+    "location_state": "MN",
+    "location_zip": "55731",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2183653271"
-    },
+    "phone_number": "2183653271",
     "provider_id": "241318",
     "raw_ratings": {},
     "state": "MN",

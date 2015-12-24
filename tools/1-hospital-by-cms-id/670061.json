@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6130 PARKWAY DRIVE\",\"city\":\"CORPUS CHRISTI\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "27.686783800000057",
-        "longitude": "-97.37560299199998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.374867,
+            27.687208
+        ],
+        "type": "Point"
     },
+    "location_address": "6130 PARKWAY DRIVE",
+    "location_city": "CORPUS CHRISTI",
+    "location_state": "TX",
+    "location_zip": "78414",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3619932000"
-    },
+    "phone_number": "3619932000",
     "provider_id": "670061",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"850 ED HALL\",\"city\":\"KAUFMAN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.58973010700004",
-        "longitude": "-96.31091891699998",
-        "needs_recoding": false
+        "coordinates": [
+            -96.315984,
+            32.591119
+        ],
+        "type": "Point"
     },
+    "location_address": "850 ED HALL",
+    "location_city": "KAUFMAN",
+    "location_state": "TX",
+    "location_zip": "75142",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.texashealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9729327200"
-    },
+    "phone_number": "9729327200",
     "provider_id": "450292",
     "raw_ratings": {},
     "state": "TX",

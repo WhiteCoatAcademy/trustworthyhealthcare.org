@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"888 OLD COUNTRY ROAD\",\"city\":\"PLAINVIEW\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.774298102000046",
-        "longitude": "-73.47895587099998",
-        "needs_recoding": false
+        "coordinates": [
+            -73.479424,
+            40.774181
+        ],
+        "type": "Point"
     },
+    "location_address": "888 OLD COUNTRY ROAD",
+    "location_city": "PLAINVIEW",
+    "location_state": "NY",
+    "location_zip": "11803",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.northshorelij.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5167193000"
-    },
+    "phone_number": "5167193000",
     "provider_id": "330331",
     "raw_ratings": {},
     "state": "NY",

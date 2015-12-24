@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6201 N SUNCOAST BLVD\",\"city\":\"CRYSTAL RIVER\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.951414244000034",
-        "longitude": "-82.62610307999995",
-        "needs_recoding": false
+        "coordinates": [
+            -82.625951,
+            28.951071
+        ],
+        "type": "Point"
     },
+    "location_address": "6201 N SUNCOAST BLVD",
+    "location_city": "CRYSTAL RIVER",
+    "location_state": "FL",
+    "location_zip": "34428",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3527956560"
-    },
+    "phone_number": "3527956560",
     "provider_id": "100249",
     "raw_ratings": {},
     "state": "FL",

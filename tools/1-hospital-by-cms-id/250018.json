@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"15 SOUTH 6TH STREET\",\"city\":\"BAY SPRINGS\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "31.983911843000044",
-        "longitude": "-89.29068457699998",
-        "needs_recoding": false
+        "coordinates": [
+            -89.290563,
+            31.977598
+        ],
+        "type": "Point"
     },
+    "location_address": "15 SOUTH 6TH STREET",
+    "location_city": "BAY SPRINGS",
+    "location_state": "MS",
+    "location_zip": "39422",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6017642101"
-    },
+    "phone_number": "6017642101",
     "provider_id": "250018",
     "raw_ratings": {},
     "state": "MS",

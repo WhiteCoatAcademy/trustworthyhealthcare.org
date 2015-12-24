@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"120 WEST 8TH STREET\",\"city\":\"ONAGA\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.495168496000076",
-        "longitude": "-96.17150075899997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.171672,
+            39.495153
+        ],
+        "type": "Point"
     },
+    "location_address": "120 WEST 8TH STREET",
+    "location_city": "ONAGA",
+    "location_state": "KS",
+    "location_zip": "66521",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7858894272"
-    },
+    "phone_number": "7858894272",
     "provider_id": "171354",
     "raw_ratings": {},
     "state": "KS",

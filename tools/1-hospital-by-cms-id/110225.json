@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1266 HIGHWAY 515 SOUTH\",\"city\":\"JASPER\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "34.44710828500007",
-        "longitude": "-84.44623130299999",
-        "needs_recoding": false
+        "coordinates": [
+            -84.445191,
+            34.446548
+        ],
+        "type": "Point"
     },
+    "location_address": "1266 HIGHWAY 515 SOUTH",
+    "location_city": "JASPER",
+    "location_state": "GA",
+    "location_zip": "30143",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.piedmont.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7063015269"
-    },
+    "phone_number": "7063015269",
     "provider_id": "110225",
     "raw_ratings": {},
     "state": "GA",

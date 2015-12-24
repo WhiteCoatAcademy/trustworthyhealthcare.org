@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2500 HIGHWAY 65 SOUTH\",\"city\":\"CLINTON\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "35.559681316000024",
-        "longitude": "-92.45001190199997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.449991,
+            35.559635
+        ],
+        "type": "Point"
     },
+    "location_address": "2500 HIGHWAY 65 SOUTH",
+    "location_city": "CLINTON",
+    "location_state": "AR",
+    "location_zip": "72031",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5017457004"
-    },
+    "phone_number": "5017457004",
     "provider_id": "041313",
     "raw_ratings": {},
     "state": "AR",

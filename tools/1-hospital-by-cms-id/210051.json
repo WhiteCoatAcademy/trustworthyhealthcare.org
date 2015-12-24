@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8118 GOOD LUCK ROAD\",\"city\":\"LANHAM\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "38.980315104000056",
-        "longitude": "-76.86648306499995",
-        "needs_recoding": false
+        "coordinates": [
+            -76.865171,
+            38.980457
+        ],
+        "type": "Point"
     },
+    "location_address": "8118 GOOD LUCK ROAD",
+    "location_city": "LANHAM",
+    "location_state": "MD",
+    "location_zip": "20706",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3015528085"
-    },
+    "phone_number": "3015528085",
     "provider_id": "210051",
     "raw_ratings": {},
     "state": "MD",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1925 WOODWINDS DRIVE\",\"city\":\"WOODBURY\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.922404321000045",
-        "longitude": "-92.97907403099998",
-        "needs_recoding": false
+        "coordinates": [
+            -92.979797,
+            44.921913
+        ],
+        "type": "Point"
     },
+    "location_address": "1925 WOODWINDS DRIVE",
+    "location_city": "WOODBURY",
+    "location_state": "MN",
+    "location_zip": "55125",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.healtheast.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6512326880"
-    },
+    "phone_number": "6512326880",
     "provider_id": "240213",
     "raw_ratings": {},
     "state": "MN",

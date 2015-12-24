@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7777 FOREST LANE\",\"city\":\"DALLAS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.90947794900006",
-        "longitude": "-96.77213011699996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.772089,
+            32.909447
+        ],
+        "type": "Point"
     },
+    "location_address": "7777 FOREST LANE",
+    "location_city": "DALLAS",
+    "location_state": "TX",
+    "location_zip": "75230",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9725666222"
-    },
+    "phone_number": "9725666222",
     "provider_id": "450647",
     "raw_ratings": {},
     "state": "TX",

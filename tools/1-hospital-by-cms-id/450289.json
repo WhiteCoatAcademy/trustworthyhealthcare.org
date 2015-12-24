@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2525 HOLLY HALL\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.68540256700004",
-        "longitude": "-95.39061373999999",
-        "needs_recoding": false
+        "coordinates": [
+            -95.390939,
+            29.685371
+        ],
+        "type": "Point"
     },
+    "location_address": "2525 HOLLY HALL",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77054",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hchdonline.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7135666417"
-    },
+    "phone_number": "7135666417",
     "provider_id": "450289",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"416 E MAUMEE ST\",\"city\":\"ANGOLA\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.63488323200005",
-        "longitude": "-84.99483037099998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.99533,
+            41.634879
+        ],
+        "type": "Point"
     },
+    "location_address": "416 E MAUMEE ST",
+    "location_city": "ANGOLA",
+    "location_state": "IN",
+    "location_zip": "46703",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2606652141"
-    },
+    "phone_number": "2606652141",
     "provider_id": "151315",
     "raw_ratings": {},
     "state": "IN",

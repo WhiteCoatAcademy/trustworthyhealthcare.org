@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"250 WESTMORELAND ROAD\",\"city\":\"GREER\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.86117428500006",
-        "longitude": "-82.21671982299995",
-        "needs_recoding": false
+        "coordinates": [
+            -82.217524,
+            34.863444
+        ],
+        "type": "Point"
     },
+    "location_address": "250 WESTMORELAND ROAD",
+    "location_city": "GREER",
+    "location_state": "SC",
+    "location_zip": "29651",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8645306000"
-    },
+    "phone_number": "8645306000",
     "provider_id": "420103",
     "raw_ratings": {},
     "state": "SC",

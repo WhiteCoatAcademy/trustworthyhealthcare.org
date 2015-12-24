@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3500 W WHEATLAND ROAD\",\"city\":\"DALLAS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.64745265300007",
-        "longitude": "-96.87646101199994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.876265,
+            32.647444
+        ],
+        "type": "Point"
     },
+    "location_address": "3500 W WHEATLAND ROAD",
+    "location_city": "DALLAS",
+    "location_state": "TX",
+    "location_zip": "75237",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.methodisthealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2149477777"
-    },
+    "phone_number": "2149477777",
     "provider_id": "450723",
     "raw_ratings": {},
     "state": "TX",

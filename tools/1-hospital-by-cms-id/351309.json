@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"42 6TH AVENUE SE\",\"city\":\"MAYVILLE\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "47.501118406000046",
-        "longitude": "-97.31737140899997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.317379,
+            47.501114
+        ],
+        "type": "Point"
     },
+    "location_address": "42 6TH AVENUE SE",
+    "location_city": "MAYVILLE",
+    "location_state": "ND",
+    "location_zip": "58257",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7017863800"
-    },
+    "phone_number": "7017863800",
     "provider_id": "351309",
     "raw_ratings": {},
     "state": "ND",

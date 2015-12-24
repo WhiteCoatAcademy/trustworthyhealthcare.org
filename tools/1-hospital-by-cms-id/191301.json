@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"901 JAMES AVE\",\"city\":\"FARMERVILLE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.786457288000065",
-        "longitude": "-92.39299959899995",
-        "needs_recoding": false
+        "coordinates": [
+            -92.393855,
+            32.786408
+        ],
+        "type": "Point"
     },
+    "location_address": "901 JAMES AVE",
+    "location_city": "FARMERVILLE",
+    "location_state": "LA",
+    "location_zip": "71241",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3183689751"
-    },
+    "phone_number": "3183689751",
     "provider_id": "191301",
     "raw_ratings": {},
     "state": "LA",

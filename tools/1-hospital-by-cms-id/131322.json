@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"44 NORTH FIRST EAST\",\"city\":\"PRESTON\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "42.09729968600004",
-        "longitude": "-111.87397345199997",
-        "needs_recoding": false
+        "coordinates": [
+            -111.874037,
+            42.097104
+        ],
+        "type": "Point"
     },
+    "location_address": "44 NORTH FIRST EAST",
+    "location_city": "PRESTON",
+    "location_state": "ID",
+    "location_zip": "83263",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2088520137"
-    },
+    "phone_number": "2088520137",
     "provider_id": "131322",
     "raw_ratings": {},
     "state": "ID",

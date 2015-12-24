@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1221 SOUTH GEAR AVENUE\",\"city\":\"WEST BURLINGTON\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "40.81159679700005",
-        "longitude": "-91.17017125699994",
-        "needs_recoding": false
+        "coordinates": [
+            -91.170306,
+            40.805881
+        ],
+        "type": "Point"
     },
+    "location_address": "1221 SOUTH GEAR AVENUE",
+    "location_city": "WEST BURLINGTON",
+    "location_state": "IA",
+    "location_zip": "52655",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3197681000"
-    },
+    "phone_number": "3197681000",
     "provider_id": "160057",
     "raw_ratings": {},
     "state": "IA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"820 E MOUNTAIN VIEW STREET\",\"city\":\"BARSTOW\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.89352415400003",
-        "longitude": "-117.01687913099994",
-        "needs_recoding": false
+        "coordinates": [
+            -117.017457,
+            34.893356
+        ],
+        "type": "Point"
     },
+    "location_address": "820 E MOUNTAIN VIEW STREET",
+    "location_city": "BARSTOW",
+    "location_state": "CA",
+    "location_zip": "92311",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "7602561761"
-    },
+    "phone_number": "7602561761",
     "provider_id": "050298",
     "raw_ratings": {},
     "state": "CA",

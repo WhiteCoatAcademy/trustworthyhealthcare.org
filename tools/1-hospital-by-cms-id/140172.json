@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"20201 S CRAWFORD AVENUE\",\"city\":\"OLYMPIA FIELDS\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.52247276300005",
-        "longitude": "-87.71321975399997",
-        "needs_recoding": false
+        "coordinates": [
+            -87.713245,
+            41.522582
+        ],
+        "type": "Point"
     },
+    "location_address": "20201 S CRAWFORD AVENUE",
+    "location_city": "OLYMPIA FIELDS",
+    "location_state": "IL",
+    "location_zip": "60461",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ssfhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7087474000"
-    },
+    "phone_number": "7087474000",
     "provider_id": "140172",
     "raw_ratings": {},
     "state": "IL",

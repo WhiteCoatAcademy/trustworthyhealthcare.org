@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2800 10TH AVE N\",\"city\":\"BILLINGS\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "45.79051385200006",
-        "longitude": "-108.51401762399996",
-        "needs_recoding": false
+        "coordinates": [
+            -108.51431,
+            45.790372
+        ],
+        "type": "Point"
     },
+    "location_address": "2800 10TH AVE N",
+    "location_city": "BILLINGS",
+    "location_state": "MT",
+    "location_zip": "59101",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4066574000"
-    },
+    "phone_number": "4066574000",
     "provider_id": "270004",
     "raw_ratings": {},
     "state": "MT",

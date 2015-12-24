@@ -1,5 +1,5 @@
 {
-    "address": "HIGHWAY 14 EAST",
+    "address": "2106 EAST MAIN STREET",
     "city": "MOUNTAIN VIEW",
     "county_name": "STONE",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"HIGHWAY 14 EAST\",\"city\":\"MOUNTAIN VIEW\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "35.86171393200004",
-        "longitude": "-92.09506903799996",
-        "needs_recoding": false
+        "coordinates": [
+            -92.082727,
+            35.855598
+        ],
+        "type": "Point"
     },
+    "location_address": "2106 EAST MAIN STREET",
+    "location_city": "MOUNTAIN VIEW",
+    "location_state": "AR",
+    "location_zip": "72560",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.whiteriverhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8702694361"
-    },
+    "phone_number": "8702694361",
     "provider_id": "041310",
     "raw_ratings": {},
     "state": "AR",

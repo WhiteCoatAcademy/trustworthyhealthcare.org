@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"639 WEST MAIN STREET\",\"city\":\"BARNESVILLE\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.99252030200006",
-        "longitude": "-81.18945855299995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.185446,
+            39.990324
+        ],
+        "type": "Point"
     },
+    "location_address": "639 WEST MAIN STREET",
+    "location_city": "BARNESVILLE",
+    "location_state": "OH",
+    "location_zip": "43713",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7404255101"
-    },
+    "phone_number": "7404255101",
     "provider_id": "361321",
     "raw_ratings": {},
     "state": "OH",

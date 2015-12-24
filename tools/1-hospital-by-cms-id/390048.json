@@ -4,15 +4,20 @@
     "county_name": "MIFFLIN",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "LEWISTOWN HOSPITAL",
+    "hospital_name": "GEISINGER-LEWISTOWN HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 HIGHLAND AVENUE\",\"city\":\"LEWISTOWN\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.61819387500003",
-        "longitude": "-77.56714919699994",
-        "needs_recoding": false
+        "coordinates": [
+            -77.56832,
+            40.617243
+        ],
+        "type": "Point"
     },
+    "location_address": "400 HIGHLAND AVENUE",
+    "location_city": "LEWISTOWN",
+    "location_state": "PA",
+    "location_zip": "17044",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7172485411"
-    },
+    "phone_number": "7172485411",
     "provider_id": "390048",
     "raw_ratings": {},
     "state": "PA",

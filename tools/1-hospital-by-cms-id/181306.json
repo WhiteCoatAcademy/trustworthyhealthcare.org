@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4604 US HIGHWAY 60 WEST\",\"city\":\"MORGANFIELD\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.627873340000065",
-        "longitude": "-87.94305776999994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.943418,
+            37.627034
+        ],
+        "type": "Point"
     },
+    "location_address": "4604 US HIGHWAY 60 WEST",
+    "location_city": "MORGANFIELD",
+    "location_state": "KY",
+    "location_zip": "42437",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2703893030"
-    },
+    "phone_number": "2703893030",
     "provider_id": "181306",
     "raw_ratings": {},
     "state": "KY",

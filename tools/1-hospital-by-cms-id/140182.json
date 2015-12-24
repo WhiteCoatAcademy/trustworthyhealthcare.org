@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"836 WEST WELLINGTON AVENUE\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.93635737100004",
-        "longitude": "-87.65044100799997",
-        "needs_recoding": false
+        "coordinates": [
+            -87.652156,
+            41.936304
+        ],
+        "type": "Point"
     },
+    "location_address": "836 WEST WELLINGTON AVENUE",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60657",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.advocatehealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7739751600"
-    },
+    "phone_number": "7739751600",
     "provider_id": "140182",
     "raw_ratings": {},
     "state": "IL",

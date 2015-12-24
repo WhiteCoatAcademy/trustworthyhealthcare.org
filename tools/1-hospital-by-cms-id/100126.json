@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1501 PASADENA AVE S\",\"city\":\"SAINT PETERSBURG\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.753334989000052",
-        "longitude": "-82.73831689199994",
-        "needs_recoding": false
+        "coordinates": [
+            -82.738176,
+            27.753517
+        ],
+        "type": "Point"
     },
+    "location_address": "1501 PASADENA AVE S",
+    "location_city": "SAINT PETERSBURG",
+    "location_state": "FL",
+    "location_zip": "33707",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.iasishealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7273811000"
-    },
+    "phone_number": "7273811000",
     "provider_id": "100126",
     "raw_ratings": {},
     "state": "FL",

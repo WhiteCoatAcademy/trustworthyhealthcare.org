@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "NORTH METRO MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1400 BRADEN STREET\",\"city\":\"JACKSONVILLE\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "34.87241780800008",
-        "longitude": "-92.12487023699998",
-        "needs_recoding": false
+        "coordinates": [
+            -92.123476,
+            34.872352
+        ],
+        "type": "Point"
     },
+    "location_address": "1400 BRADEN STREET",
+    "location_city": "JACKSONVILLE",
+    "location_state": "AR",
+    "location_zip": "72076",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5019857000"
-    },
+    "phone_number": "5019857000",
     "provider_id": "040074",
     "raw_ratings": {},
     "state": "AR",

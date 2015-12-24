@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1211 24TH STREET\",\"city\":\"ANACORTES\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "48.50286195000007",
-        "longitude": "-122.61585910499997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.616702,
+            48.502816
+        ],
+        "type": "Point"
     },
+    "location_address": "1211 24TH STREET",
+    "location_city": "ANACORTES",
+    "location_state": "WA",
+    "location_zip": "98221",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3602991300"
-    },
+    "phone_number": "3602991300",
     "provider_id": "500007",
     "raw_ratings": {},
     "state": "WA",

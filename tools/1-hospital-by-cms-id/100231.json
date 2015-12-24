@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8383 N DAVIS HWY\",\"city\":\"PENSACOLA\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "30.515089474000035",
-        "longitude": "-87.21706461699995",
-        "needs_recoding": false
+        "coordinates": [
+            -87.216849,
+            30.515253
+        ],
+        "type": "Point"
     },
+    "location_address": "8383 N DAVIS HWY",
+    "location_city": "PENSACOLA",
+    "location_state": "FL",
+    "location_zip": "32514",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8504944000"
-    },
+    "phone_number": "8504944000",
     "provider_id": "100231",
     "raw_ratings": {},
     "state": "FL",

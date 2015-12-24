@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 COLLEGE DRIVE\",\"city\":\"ROCK SPRINGS\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "41.58615323400005",
-        "longitude": "-109.23307719699994",
-        "needs_recoding": false
+        "coordinates": [
+            -109.237176,
+            41.580666
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 COLLEGE DRIVE",
+    "location_city": "ROCK SPRINGS",
+    "location_state": "WY",
+    "location_zip": "82901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3073623711"
-    },
+    "phone_number": "3073623711",
     "provider_id": "530011",
     "raw_ratings": {},
     "state": "WY",

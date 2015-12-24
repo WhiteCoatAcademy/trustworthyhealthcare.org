@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"225 MEMORIAL DRIVE\",\"city\":\"BERLIN\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.97762656800006",
-        "longitude": "-88.94144052599995",
-        "needs_recoding": false
+        "coordinates": [
+            -88.943226,
+            43.977623
+        ],
+        "type": "Point"
     },
+    "location_address": "225 MEMORIAL DRIVE",
+    "location_city": "BERLIN",
+    "location_state": "WI",
+    "location_zip": "54923",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9203611313"
-    },
+    "phone_number": "9203611313",
     "provider_id": "521355",
     "raw_ratings": {},
     "state": "WI",

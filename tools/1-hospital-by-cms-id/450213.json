@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4502 MEDICAL DR\",\"city\":\"SAN ANTONIO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.510073884000064",
-        "longitude": "-98.57945748399999",
-        "needs_recoding": false
+        "coordinates": [
+            -98.577242,
+            29.509532
+        ],
+        "type": "Point"
     },
+    "location_address": "4502 MEDICAL DR",
+    "location_city": "SAN ANTONIO",
+    "location_state": "TX",
+    "location_zip": "78229",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2103584000"
-    },
+    "phone_number": "2103584000",
     "provider_id": "450213",
     "raw_ratings": {},
     "state": "TX",

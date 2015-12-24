@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"421 S MAPLE\",\"city\":\"GARNETT\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.27991102200008",
-        "longitude": "-95.24933538399995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.249287,
+            38.280137
+        ],
+        "type": "Point"
     },
+    "location_address": "421 S MAPLE",
+    "location_city": "GARNETT",
+    "location_state": "KS",
+    "location_zip": "66032",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.saintlukeshealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7852044000"
-    },
+    "phone_number": "7852044000",
     "provider_id": "171316",
     "raw_ratings": {},
     "state": "KS",

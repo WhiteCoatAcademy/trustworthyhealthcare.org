@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"550 OSBORNE ROAD\",\"city\":\"FRIDLEY\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.10790210500005",
-        "longitude": "-93.25689032899999",
-        "needs_recoding": false
+        "coordinates": [
+            -93.257123,
+            45.107851
+        ],
+        "type": "Point"
     },
+    "location_address": "550 OSBORNE ROAD",
+    "location_city": "FRIDLEY",
+    "location_state": "MN",
+    "location_zip": "55432",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.allina.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7632365000"
-    },
+    "phone_number": "7632365000",
     "provider_id": "240132",
     "raw_ratings": {},
     "state": "MN",

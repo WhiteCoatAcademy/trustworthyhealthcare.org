@@ -4,15 +4,20 @@
     "county_name": "RANKIN",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "RIVER OAKS HOSPITAL",
+    "hospital_name": "MERIT HEALTH RIVER OAKS",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1030 RIVER OAKS DRIVE\",\"city\":\"FLOWOOD\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.32610314800007",
-        "longitude": "-90.10639628899997",
-        "needs_recoding": false
+        "coordinates": [
+            -90.106545,
+            32.325982
+        ],
+        "type": "Point"
     },
+    "location_address": "1030 RIVER OAKS DRIVE",
+    "location_city": "FLOWOOD",
+    "location_state": "MS",
+    "location_zip": "39232",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6019321030"
-    },
+    "phone_number": "6019321030",
     "provider_id": "250138",
     "raw_ratings": {},
     "state": "MS",

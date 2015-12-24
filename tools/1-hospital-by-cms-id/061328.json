@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"95 SOUTH PAGOSA BOULEVARD\",\"city\":\"PAGOSA SPRINGS\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "37.25221391700006",
-        "longitude": "-107.07709454599996",
-        "needs_recoding": false
+        "coordinates": [
+            -107.077148,
+            37.25235
+        ],
+        "type": "Point"
     },
+    "location_address": "95 SOUTH PAGOSA BOULEVARD",
+    "location_city": "PAGOSA SPRINGS",
+    "location_state": "CO",
+    "location_zip": "81147",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9707313700"
-    },
+    "phone_number": "9707313700",
     "provider_id": "061328",
     "raw_ratings": {},
     "state": "CO",

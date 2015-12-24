@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5555 WEST LAS POSITAS BOULEVARD\",\"city\":\"PLEASANTON\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.69213285200004",
-        "longitude": "-121.88026046299996",
-        "needs_recoding": false
+        "coordinates": [
+            -121.880012,
+            37.692133
+        ],
+        "type": "Point"
     },
+    "location_address": "5555 WEST LAS POSITAS BOULEVARD",
+    "location_city": "PLEASANTON",
+    "location_state": "CA",
+    "location_zip": "94588",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.valleycare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9254477000"
-    },
+    "phone_number": "9254477000",
     "provider_id": "050283",
     "raw_ratings": {},
     "state": "CA",

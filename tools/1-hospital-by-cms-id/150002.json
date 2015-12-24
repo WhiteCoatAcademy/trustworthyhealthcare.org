@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 GRANT ST\",\"city\":\"GARY\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.59944941400005",
-        "longitude": "-87.35699772099997",
-        "needs_recoding": false
+        "coordinates": [
+            -87.357025,
+            41.599508
+        ],
+        "type": "Point"
     },
+    "location_address": "600 GRANT ST",
+    "location_city": "GARY",
+    "location_state": "IN",
+    "location_zip": "46402",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.methodisthospitals.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2198864642"
-    },
+    "phone_number": "2198864642",
     "provider_id": "150002",
     "raw_ratings": {},
     "state": "IN",

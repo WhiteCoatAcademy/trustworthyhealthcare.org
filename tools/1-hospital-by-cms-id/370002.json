@@ -4,15 +4,20 @@
     "county_name": "WOODWARD",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "WOODWARD REGIONAL HOSPITAL",
+    "hospital_name": "ALLIANCEHEALTH WOODWARD",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"900 17TH STREET\",\"city\":\"WOODWARD\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.43658045300003",
-        "longitude": "-99.40092610399995",
-        "needs_recoding": false
+        "coordinates": [
+            -99.400957,
+            36.437636
+        ],
+        "type": "Point"
     },
+    "location_address": "900 17TH STREET",
+    "location_city": "WOODWARD",
+    "location_state": "OK",
+    "location_zip": "73801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "5802548492"
-    },
+    "phone_number": "5802548492",
     "provider_id": "370002",
     "raw_ratings": {},
     "state": "OK",

@@ -4,15 +4,20 @@
     "county_name": "EFFINGHAM",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "EFFINGHAM COUNTY HOSPITAL",
+    "hospital_name": "EFFINGHAM HOSPITAL",
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"459 GA HIGHWAY 119 SOUTH\",\"city\":\"SPRINGFIELD\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.364702331000046",
-        "longitude": "-81.32170957399995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.32795,
+            32.362288
+        ],
+        "type": "Point"
     },
+    "location_address": "459 GA HIGHWAY 119 SOUTH",
+    "location_city": "SPRINGFIELD",
+    "location_state": "GA",
+    "location_zip": "31329",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9127540160"
-    },
+    "phone_number": "9127540160",
     "provider_id": "111306",
     "raw_ratings": {},
     "state": "GA",

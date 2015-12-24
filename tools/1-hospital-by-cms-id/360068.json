@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2142 NORTH COVE BOULEVARD\",\"city\":\"TOLEDO\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.67062701400005",
-        "longitude": "-83.59541867499996",
-        "needs_recoding": false
+        "coordinates": [
+            -83.594074,
+            41.671343
+        ],
+        "type": "Point"
     },
+    "location_address": "2142 NORTH COVE BOULEVARD",
+    "location_city": "TOLEDO",
+    "location_state": "OH",
+    "location_zip": "43606",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.promedica.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4192917463"
-    },
+    "phone_number": "4192917463",
     "provider_id": "360068",
     "raw_ratings": {},
     "state": "OH",

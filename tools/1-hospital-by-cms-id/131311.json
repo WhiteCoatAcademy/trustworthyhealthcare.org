@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "ST LUKE'S ELMORE MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"895 NORTH 6TH EAST\",\"city\":\"MOUNTAIN HOME\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "43.13881956400007",
-        "longitude": "-115.69251670199998",
-        "needs_recoding": false
+        "coordinates": [
+            -115.692488,
+            43.138087
+        ],
+        "type": "Point"
     },
+    "location_address": "895 NORTH 6TH EAST",
+    "location_city": "MOUNTAIN HOME",
+    "location_state": "ID",
+    "location_zip": "83647",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2085878401"
-    },
+    "phone_number": "2085878401",
     "provider_id": "131311",
     "raw_ratings": {},
     "state": "ID",

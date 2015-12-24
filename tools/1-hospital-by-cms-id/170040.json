@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3901 RAINBOW BLVD\",\"city\":\"KANSAS CITY\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.05726107600003",
-        "longitude": "-94.61177555099994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.611793,
+            39.056189
+        ],
+        "type": "Point"
     },
+    "location_address": "3901 RAINBOW BLVD",
+    "location_city": "KANSAS CITY",
+    "location_state": "KS",
+    "location_zip": "66103",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9135887332"
-    },
+    "phone_number": "9135887332",
     "provider_id": "170040",
     "raw_ratings": {},
     "state": "KS",

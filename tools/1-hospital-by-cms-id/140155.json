@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 W COURT ST\",\"city\":\"KANKAKEE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.121142994000024",
-        "longitude": "-87.87177385999996",
-        "needs_recoding": false
+        "coordinates": [
+            -87.871754,
+            41.121136
+        ],
+        "type": "Point"
     },
+    "location_address": "500 W COURT ST",
+    "location_city": "KANKAKEE",
+    "location_state": "IL",
+    "location_zip": "60901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.provena.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8159372490"
-    },
+    "phone_number": "8159372490",
     "provider_id": "140155",
     "raw_ratings": {},
     "state": "IL",

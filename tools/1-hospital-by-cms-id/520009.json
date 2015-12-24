@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1506 S ONEIDA ST\",\"city\":\"APPLETON\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.24837937800004",
-        "longitude": "-88.40409233799994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.404141,
+            44.247879
+        ],
+        "type": "Point"
     },
+    "location_address": "1506 S ONEIDA ST",
+    "location_city": "APPLETON",
+    "location_state": "WI",
+    "location_zip": "54915",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.affinityhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9207382000"
-    },
+    "phone_number": "9207382000",
     "provider_id": "520009",
     "raw_ratings": {},
     "state": "WI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2250 26TH STREET NORTHWEST\",\"city\":\"OWATONNA\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.10970687100007",
-        "longitude": "-93.25185024799998",
-        "needs_recoding": false
+        "coordinates": [
+            -93.251245,
+            44.109718
+        ],
+        "type": "Point"
     },
+    "location_address": "2250 26TH STREET NORTHWEST",
+    "location_city": "OWATONNA",
+    "location_state": "MN",
+    "location_zip": "55060",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.allina.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5074513850"
-    },
+    "phone_number": "5074513850",
     "provider_id": "240069",
     "raw_ratings": {},
     "state": "MN",

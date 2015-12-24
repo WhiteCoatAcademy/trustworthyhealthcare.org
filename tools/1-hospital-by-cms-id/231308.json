@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 SAND POINT RD\",\"city\":\"MUNISING\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "46.42386111400003",
-        "longitude": "-86.62580992099998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.625749,
+            46.423861
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 SAND POINT RD",
+    "location_city": "MUNISING",
+    "location_state": "MI",
+    "location_zip": "49862",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9063874110"
-    },
+    "phone_number": "9063874110",
     "provider_id": "231308",
     "raw_ratings": {},
     "state": "MI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"301 W BOUNDARY STREET\",\"city\":\"WINNFIELD\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "31.92485120500004",
-        "longitude": "-92.64509231599999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.645139,
+            31.924979
+        ],
+        "type": "Point"
     },
+    "location_address": "301 W BOUNDARY STREET",
+    "location_city": "WINNFIELD",
+    "location_state": "LA",
+    "location_zip": "71483",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3186483000"
-    },
+    "phone_number": "3186483000",
     "provider_id": "190090",
     "raw_ratings": {},
     "state": "LA",

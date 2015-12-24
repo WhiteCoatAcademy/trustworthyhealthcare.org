@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1046 6TH AVENUE SW\",\"city\":\"ALBANY\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "44.63209152700006",
-        "longitude": "-123.11622595999995",
-        "needs_recoding": false
+        "coordinates": [
+            -123.116242,
+            44.632129
+        ],
+        "type": "Point"
     },
+    "location_address": "1046 6TH AVENUE SW",
+    "location_city": "ALBANY",
+    "location_state": "OR",
+    "location_zip": "97321",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.samhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5418124000"
-    },
+    "phone_number": "5418124000",
     "provider_id": "380022",
     "raw_ratings": {},
     "state": "OR",

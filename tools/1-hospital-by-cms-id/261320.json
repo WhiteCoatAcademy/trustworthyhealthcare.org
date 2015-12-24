@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 STATE STREET\",\"city\":\"LEXINGTON\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.18919127100003",
-        "longitude": "-93.87702016899999",
-        "needs_recoding": false
+        "coordinates": [
+            -93.876596,
+            39.189134
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 STATE STREET",
+    "location_city": "LEXINGTON",
+    "location_state": "MO",
+    "location_zip": "64067",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6602592203"
-    },
+    "phone_number": "6602592203",
     "provider_id": "261320",
     "raw_ratings": {},
     "state": "MO",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1099 MEDICAL CENTER CIRCLE\",\"city\":\"MAYFIELD\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "36.75786543000004",
-        "longitude": "-88.65215556699997",
-        "needs_recoding": false
+        "coordinates": [
+            -88.652127,
+            36.75508
+        ],
+        "type": "Point"
     },
+    "location_address": "1099 MEDICAL CENTER CIRCLE",
+    "location_city": "MAYFIELD",
+    "location_state": "KY",
+    "location_zip": "42066",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2702514500"
-    },
+    "phone_number": "2702514585",
     "provider_id": "180116",
     "raw_ratings": {},
     "state": "KY",

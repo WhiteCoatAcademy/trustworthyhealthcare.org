@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 GETWELL DR\",\"city\":\"SENATOBIA\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "34.62524542500006",
-        "longitude": "-89.95426775499999",
-        "needs_recoding": false
+        "coordinates": [
+            -89.956743,
+            34.62471
+        ],
+        "type": "Point"
     },
+    "location_address": "401 GETWELL DR",
+    "location_city": "SENATOBIA",
+    "location_state": "MS",
+    "location_zip": "38668",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6625623100"
-    },
+    "phone_number": "6625623100",
     "provider_id": "250126",
     "raw_ratings": {},
     "state": "MS",

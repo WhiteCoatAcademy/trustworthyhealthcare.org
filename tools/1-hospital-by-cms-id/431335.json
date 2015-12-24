@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"172 FOURTH STREET SE\",\"city\":\"HURON\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "44.36201265900007",
-        "longitude": "-98.21134443999995",
-        "needs_recoding": false
+        "coordinates": [
+            -98.21121,
+            44.36204
+        ],
+        "type": "Point"
     },
+    "location_address": "172 FOURTH STREET SE",
+    "location_city": "HURON",
+    "location_state": "SD",
+    "location_zip": "57350",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6053536200"
-    },
+    "phone_number": "6053536200",
     "provider_id": "431335",
     "raw_ratings": {},
     "state": "SD",

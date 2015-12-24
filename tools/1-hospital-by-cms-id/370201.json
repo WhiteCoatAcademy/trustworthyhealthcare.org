@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 SOUTHEAST 59TH STREET\",\"city\":\"OKLAHOMA CITY\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.40621351100003",
-        "longitude": "-97.50908101299996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.50969,
+            35.406181
+        ],
+        "type": "Point"
     },
+    "location_address": "100 SOUTHEAST 59TH STREET",
+    "location_city": "OKLAHOMA CITY",
+    "location_state": "OK",
+    "location_zip": "73129",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4056349300"
-    },
+    "phone_number": "4056349300",
     "provider_id": "370201",
     "raw_ratings": {},
     "state": "OK",

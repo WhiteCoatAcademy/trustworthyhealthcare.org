@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5025 N PAULINA STREET\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.802331673000026",
-        "longitude": "-87.66719428999994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.671144,
+            41.972925
+        ],
+        "type": "Point"
     },
+    "location_address": "5025 N PAULINA STREET",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60640",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7732719040"
-    },
+    "phone_number": "7732719040",
     "provider_id": "140197",
     "raw_ratings": {},
     "state": "IL",

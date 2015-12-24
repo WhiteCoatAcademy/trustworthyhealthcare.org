@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"710 CENTER ST BOX 951\",\"city\":\"COLUMBUS\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.482284578000076",
-        "longitude": "-84.98003968099994",
-        "needs_recoding": false
+        "coordinates": [
+            -84.981885,
+            32.481668
+        ],
+        "type": "Point"
     },
+    "location_address": "710 CENTER ST BOX 951",
+    "location_city": "COLUMBUS",
+    "location_state": "GA",
+    "location_zip": "31901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.columbusregional.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7065711000"
-    },
+    "phone_number": "7065711000",
     "provider_id": "110064",
     "raw_ratings": {},
     "state": "GA",

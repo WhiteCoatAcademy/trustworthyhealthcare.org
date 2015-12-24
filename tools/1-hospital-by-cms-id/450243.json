@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"632 N W SECOND STREET\",\"city\":\"HAMLIN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.88516645900006",
-        "longitude": "-100.13474049499996",
-        "needs_recoding": false
+        "coordinates": [
+            -100.13466,
+            32.885162
+        ],
+        "type": "Point"
     },
+    "location_address": "632 N W SECOND STREET",
+    "location_city": "HAMLIN",
+    "location_state": "TX",
+    "location_zip": "79520",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3255763646"
-    },
+    "phone_number": "3255763646",
     "provider_id": "450243",
     "raw_ratings": {},
     "state": "TX",

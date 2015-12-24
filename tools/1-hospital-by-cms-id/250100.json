@@ -4,15 +4,20 @@
     "county_name": "LOWNDES",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "BAPTIST MEM HOSP/GOLDEN TRIANGLE INC",
+    "hospital_name": "BAPTIST MEM HOSP/ GOLDEN TRIANGLE INC",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2520 5TH ST N\",\"city\":\"COLUMBUS\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "33.501612660000035",
-        "longitude": "-88.40192028699994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.429071,
+            33.526446
+        ],
+        "type": "Point"
     },
+    "location_address": "2520 5TH ST N",
+    "location_city": "COLUMBUS",
+    "location_state": "MS",
+    "location_zip": "39701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bmhcc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6622441500"
-    },
+    "phone_number": "6622441500",
     "provider_id": "250100",
     "raw_ratings": {},
     "state": "MS",

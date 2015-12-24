@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"25 HIGHLAND AVENUE\",\"city\":\"NEWBURYPORT\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.814798507000035",
-        "longitude": "-70.89052913999996",
-        "needs_recoding": false
+        "coordinates": [
+            -70.889695,
+            42.81433
+        ],
+        "type": "Point"
     },
+    "location_address": "25 HIGHLAND AVENUE",
+    "location_city": "NEWBURYPORT",
+    "location_state": "MA",
+    "location_zip": "01950",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9784631000"
-    },
+    "phone_number": "9784631000",
     "provider_id": "220029",
     "raw_ratings": {},
     "state": "MA",

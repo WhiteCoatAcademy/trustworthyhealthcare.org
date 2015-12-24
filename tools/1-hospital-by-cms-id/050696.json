@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 SAN PABLO ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.06202031200007",
-        "longitude": "-118.20320856899997",
-        "needs_recoding": false
+        "coordinates": [
+            -118.20323,
+            34.062178
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 SAN PABLO ST",
+    "location_city": "LOS ANGELES",
+    "location_state": "CA",
+    "location_zip": "90033",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3234428656"
-    },
+    "phone_number": "3234428656",
     "provider_id": "050696",
     "raw_ratings": {},
     "state": "CA",

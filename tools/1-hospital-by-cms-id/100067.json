@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 SEVENTH AVE N\",\"city\":\"SAINT PETERSBURG\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.77930440700004",
-        "longitude": "-82.65085999999997",
-        "needs_recoding": false
+        "coordinates": [
+            -82.648092,
+            27.779367
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 SEVENTH AVE N",
+    "location_city": "SAINT PETERSBURG",
+    "location_state": "FL",
+    "location_zip": "33705",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baycare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7278251100"
-    },
+    "phone_number": "7278251100",
     "provider_id": "100067",
     "raw_ratings": {},
     "state": "FL",

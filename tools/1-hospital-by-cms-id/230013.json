@@ -2,17 +2,22 @@
     "address": "461 W HURON ST",
     "city": "PONTIAC",
     "county_name": "OAKLAND",
-    "emergency_services": true,
+    "emergency_services": false,
     "global_rank": {},
     "hospital_name": "DOCTORS' HOSPITAL OF MICHIGAN",
-    "hospital_ownership": "Physician",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"461 W HURON ST\",\"city\":\"PONTIAC\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.63570221200007",
-        "longitude": "-83.30956981999998",
-        "needs_recoding": false
+        "coordinates": [
+            -83.309469,
+            42.635679
+        ],
+        "type": "Point"
     },
+    "location_address": "461 W HURON ST",
+    "location_city": "PONTIAC",
+    "location_state": "MI",
+    "location_zip": "48341",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2488577200"
-    },
+    "phone_number": "2488577200",
     "provider_id": "230013",
     "raw_ratings": {},
     "state": "MI",

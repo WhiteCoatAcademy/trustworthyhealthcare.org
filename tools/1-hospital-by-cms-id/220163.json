@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"55 LAKE AVENUE NORTH\",\"city\":\"WORCESTER\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.27863963900006",
-        "longitude": "-71.75905661899998",
-        "needs_recoding": false
+        "coordinates": [
+            -71.759079,
+            42.27851
+        ],
+        "type": "Point"
     },
+    "location_address": "55 LAKE AVENUE NORTH",
+    "location_city": "WORCESTER",
+    "location_state": "MA",
+    "location_zip": "01655",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.umassmemorial.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5083341000"
-    },
+    "phone_number": "5083341000",
     "provider_id": "220163",
     "raw_ratings": {},
     "state": "MA",

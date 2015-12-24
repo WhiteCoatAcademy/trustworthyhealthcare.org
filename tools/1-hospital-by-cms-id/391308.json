@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"965 SHAMROCK LANE\",\"city\":\"CORRY\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "41.935012200000074",
-        "longitude": "-79.61123230799996",
-        "needs_recoding": false
+        "coordinates": [
+            -79.612891,
+            41.935379
+        ],
+        "type": "Point"
     },
+    "location_address": "965 SHAMROCK LANE",
+    "location_city": "CORRY",
+    "location_state": "PA",
+    "location_zip": "16407",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8146644641"
-    },
+    "phone_number": "8146644641",
     "provider_id": "391308",
     "raw_ratings": {},
     "state": "PA",

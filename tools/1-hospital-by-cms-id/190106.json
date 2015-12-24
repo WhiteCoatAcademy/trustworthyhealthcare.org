@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"130 N HOSPITAL DR\",\"city\":\"OAKDALE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.81574163700003",
-        "longitude": "-92.64453243899999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.644791,
+            30.817128
+        ],
+        "type": "Point"
     },
+    "location_address": "130 N HOSPITAL DR",
+    "location_city": "OAKDALE",
+    "location_state": "LA",
+    "location_zip": "71463",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3183353700"
-    },
+    "phone_number": "3183353700",
     "provider_id": "190106",
     "raw_ratings": {},
     "state": "LA",

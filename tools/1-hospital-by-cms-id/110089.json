@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1101 OCILLA ROAD\",\"city\":\"DOUGLAS\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "31.509645789000047",
-        "longitude": "-82.86349945099994",
-        "needs_recoding": false
+        "coordinates": [
+            -82.865369,
+            31.510257
+        ],
+        "type": "Point"
     },
+    "location_address": "1101 OCILLA ROAD",
+    "location_city": "DOUGLAS",
+    "location_state": "GA",
+    "location_zip": "31533",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2293841900"
-    },
+    "phone_number": "2293841900",
     "provider_id": "110089",
     "raw_ratings": {},
     "state": "GA",

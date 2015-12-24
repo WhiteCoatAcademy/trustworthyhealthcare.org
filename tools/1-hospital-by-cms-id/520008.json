@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"725 AMERICAN AVE\",\"city\":\"WAUKESHA\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.01125159600008",
-        "longitude": "-88.24309091399994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.24388,
+            43.01135
+        ],
+        "type": "Point"
     },
+    "location_address": "725 AMERICAN AVE",
+    "location_city": "WAUKESHA",
+    "location_state": "WI",
+    "location_zip": "53188",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.prohealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2629281000"
-    },
+    "phone_number": "2629281000",
     "provider_id": "520008",
     "raw_ratings": {},
     "state": "WI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1301 PENNSYLVANIA AVENUE\",\"city\":\"FORT WORTH\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.738433368000074",
-        "longitude": "-97.33931072399997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.339313,
+            32.73848
+        ],
+        "type": "Point"
     },
+    "location_address": "1301 PENNSYLVANIA AVENUE",
+    "location_city": "FORT WORTH",
+    "location_state": "TX",
+    "location_zip": "76104",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.texashealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8172502100"
-    },
+    "phone_number": "8172502100",
     "provider_id": "450135",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1001 PROVIDENCE DRIVE\",\"city\":\"NEWBERG\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "45.30843947100004",
-        "longitude": "-122.93390847499995",
-        "needs_recoding": false
+        "coordinates": [
+            -122.933955,
+            45.308689
+        ],
+        "type": "Point"
     },
+    "location_address": "1001 PROVIDENCE DRIVE",
+    "location_city": "NEWBERG",
+    "location_state": "OR",
+    "location_zip": "97132",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.providence.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5035371555"
-    },
+    "phone_number": "5035371555",
     "provider_id": "380037",
     "raw_ratings": {},
     "state": "OR",

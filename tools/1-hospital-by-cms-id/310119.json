@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"150 BERGEN ST\",\"city\":\"NEWARK\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.74022252300006",
-        "longitude": "-74.19246416699997",
-        "needs_recoding": false
+        "coordinates": [
+            -74.192468,
+            40.740322
+        ],
+        "type": "Point"
     },
+    "location_address": "150 BERGEN ST",
+    "location_city": "NEWARK",
+    "location_state": "NJ",
+    "location_zip": "07103",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9739725658"
-    },
+    "phone_number": "9739725658",
     "provider_id": "310119",
     "raw_ratings": {},
     "state": "NJ",

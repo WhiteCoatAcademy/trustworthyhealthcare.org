@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"85 HERRICK STREET\",\"city\":\"BEVERLY\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.565407684000036",
-        "longitude": "-70.87714262499998",
-        "needs_recoding": false
+        "coordinates": [
+            -70.8758,
+            42.568341
+        ],
+        "type": "Point"
     },
+    "location_address": "85 HERRICK STREET",
+    "location_city": "BEVERLY",
+    "location_state": "MA",
+    "location_zip": "01915",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nhshealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9789223000"
-    },
+    "phone_number": "9789223000",
     "provider_id": "220033",
     "raw_ratings": {},
     "state": "MA",

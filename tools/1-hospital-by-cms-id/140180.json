@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2233 W DIVISION ST\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.90303900300006",
-        "longitude": "-87.68302222099999",
-        "needs_recoding": false
+        "coordinates": [
+            -87.684105,
+            41.903092
+        ],
+        "type": "Point"
     },
+    "location_address": "2233 W DIVISION ST",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60622",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.reshealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3127702000"
-    },
+    "phone_number": "3127702000",
     "provider_id": "140180",
     "raw_ratings": {},
     "state": "IL",

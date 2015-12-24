@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 STATE AVENUE\",\"city\":\"FARIBAULT\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.28847993800008",
-        "longitude": "-93.25599846299997",
-        "needs_recoding": false
+        "coordinates": [
+            -93.256021,
+            44.288423
+        ],
+        "type": "Point"
     },
+    "location_address": "200 STATE AVENUE",
+    "location_city": "FARIBAULT",
+    "location_state": "MN",
+    "location_zip": "55021",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5073346451"
-    },
+    "phone_number": "5073346451",
     "provider_id": "240071",
     "raw_ratings": {},
     "state": "MN",

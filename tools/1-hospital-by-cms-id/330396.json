@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"760 BROADWAY\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.700335437000035",
-        "longitude": "-73.94129512199999",
-        "needs_recoding": false
+        "coordinates": [
+            -73.94168,
+            40.700582
+        ],
+        "type": "Point"
     },
+    "location_address": "760 BROADWAY",
+    "location_city": "BROOKLYN",
+    "location_state": "NY",
+    "location_zip": "11206",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nyc.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "7189638100"
-    },
+    "phone_number": "7189638100",
     "provider_id": "330396",
     "raw_ratings": {},
     "state": "NY",

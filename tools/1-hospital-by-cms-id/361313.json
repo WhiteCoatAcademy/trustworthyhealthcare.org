@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"651 WEST MARION ROAD\",\"city\":\"MOUNT GILEAD\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.54917334700008",
-        "longitude": "-82.84916525099999",
-        "needs_recoding": false
+        "coordinates": [
+            -82.849158,
+            40.549217
+        ],
+        "type": "Point"
     },
+    "location_address": "651 WEST MARION ROAD",
+    "location_city": "MOUNT GILEAD",
+    "location_state": "OH",
+    "location_zip": "43338",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4199465015"
-    },
+    "phone_number": "4199465015",
     "provider_id": "361313",
     "raw_ratings": {},
     "state": "OH",

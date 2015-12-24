@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"900 23RD ST NW\",\"city\":\"WASHINGTON\",\"state\":\"DC\",\"zip\":\"\"}",
-        "latitude": "38.901040469000066",
-        "longitude": "-77.05015606799998",
-        "needs_recoding": false
+        "coordinates": [
+            -77.050115,
+            38.901697
+        ],
+        "type": "Point"
     },
+    "location_address": "900 23RD ST NW",
+    "location_city": "WASHINGTON",
+    "location_state": "DC",
+    "location_zip": "20037",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhsinc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2027164605"
-    },
+    "phone_number": "2027164605",
     "provider_id": "090001",
     "raw_ratings": {},
     "state": "DC",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1010 SOUTH BIRCH\",\"city\":\"HALLOCK\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "48.76762318200008",
-        "longitude": "-96.94042206499995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.940488,
+            48.767148
+        ],
+        "type": "Point"
     },
+    "location_address": "1010 SOUTH BIRCH",
+    "location_city": "HALLOCK",
+    "location_state": "MN",
+    "location_zip": "56728",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2188433612"
-    },
+    "phone_number": "2188433612",
     "provider_id": "241336",
     "raw_ratings": {},
     "state": "MN",

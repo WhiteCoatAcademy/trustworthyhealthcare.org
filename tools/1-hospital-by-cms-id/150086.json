@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 WILSON CREEK RD\",\"city\":\"LAWRENCEBURG\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.11080285600008",
-        "longitude": "-84.88459909099998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.883951,
+            39.112922
+        ],
+        "type": "Point"
     },
+    "location_address": "600 WILSON CREEK RD",
+    "location_city": "LAWRENCEBURG",
+    "location_state": "IN",
+    "location_zip": "47025",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8125371010"
-    },
+    "phone_number": "8125371010",
     "provider_id": "150086",
     "raw_ratings": {},
     "state": "IN",

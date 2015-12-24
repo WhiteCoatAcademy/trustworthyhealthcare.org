@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"3801 MIRANDA AVENUE\",\"city\":\"PALO ALTO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.40174887100005",
-        "longitude": "-122.13987821799998",
-        "needs_recoding": false
+        "coordinates": [
+            -122.141893,
+            37.402928
+        ],
+        "type": "Point"
     },
+    "location_address": "3801 MIRANDA AVENUE",
+    "location_city": "PALO ALTO",
+    "location_state": "CA",
+    "location_zip": "94304",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "6508583939"
-    },
+    "phone_number": "6508583939",
     "provider_id": "05031F",
     "raw_ratings": {},
     "state": "CA",

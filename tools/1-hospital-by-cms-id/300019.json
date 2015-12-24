@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"580 COURT STREET\",\"city\":\"KEENE\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "42.94920147700003",
-        "longitude": "-72.28984628299997",
-        "needs_recoding": false
+        "coordinates": [
+            -72.2968,
+            42.954514
+        ],
+        "type": "Point"
     },
+    "location_address": "580 COURT STREET",
+    "location_city": "KEENE",
+    "location_state": "NH",
+    "location_zip": "03431",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6033545400"
-    },
+    "phone_number": "6033545400",
     "provider_id": "300019",
     "raw_ratings": {},
     "state": "NH",

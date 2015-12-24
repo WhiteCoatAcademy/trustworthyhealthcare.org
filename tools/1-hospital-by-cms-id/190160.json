@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"503 MCMILLAN ROAD\",\"city\":\"WEST MONROE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.51344557900006",
-        "longitude": "-92.15514011799996",
-        "needs_recoding": false
+        "coordinates": [
+            -92.15607,
+            32.513457
+        ],
+        "type": "Point"
     },
+    "location_address": "503 MCMILLAN ROAD",
+    "location_city": "WEST MONROE",
+    "location_state": "LA",
+    "location_zip": "71291",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.iasishealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3183294600"
-    },
+    "phone_number": "3183294600",
     "provider_id": "190160",
     "raw_ratings": {},
     "state": "LA",

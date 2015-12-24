@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1375 UNIVERSITY AVENUE\",\"city\":\"HEALDSBURG\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.62754088100007",
-        "longitude": "-122.86377545799996",
-        "needs_recoding": false
+        "coordinates": [
+            -122.863746,
+            38.627342
+        ],
+        "type": "Point"
     },
+    "location_address": "1375 UNIVERSITY AVENUE",
+    "location_city": "HEALDSBURG",
+    "location_state": "CA",
+    "location_zip": "95448",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7074316500"
-    },
+    "phone_number": "7074316500",
     "provider_id": "051321",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"20171 CHASEWOOD PARK DRIVE\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.989948474000073",
-        "longitude": "-95.57017237099996",
-        "needs_recoding": false
+        "coordinates": [
+            -95.570248,
+            29.989489
+        ],
+        "type": "Point"
     },
+    "location_address": "20171 CHASEWOOD PARK DRIVE",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77070",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8325345000"
-    },
+    "phone_number": "8325345000",
     "provider_id": "670075",
     "raw_ratings": {},
     "state": "TX",

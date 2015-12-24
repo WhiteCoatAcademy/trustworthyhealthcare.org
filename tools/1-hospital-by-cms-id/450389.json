@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2000 SOUTH PALESTINE\",\"city\":\"ATHENS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.17073996600004",
-        "longitude": "-95.84364004699995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.841391,
+            32.167003
+        ],
+        "type": "Point"
     },
+    "location_address": "2000 SOUTH PALESTINE",
+    "location_city": "ATHENS",
+    "location_state": "TX",
+    "location_zip": "75751",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.etmc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9036761000"
-    },
+    "phone_number": "9036761000",
     "provider_id": "450389",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3625 UNIVERSITY BLVD S\",\"city\":\"JACKSONVILLE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "30.288487494000037",
-        "longitude": "-81.60228916499995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.602345,
+            30.288327
+        ],
+        "type": "Point"
     },
+    "location_address": "3625 UNIVERSITY BLVD S",
+    "location_city": "JACKSONVILLE",
+    "location_state": "FL",
+    "location_zip": "32216",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9043996111"
-    },
+    "phone_number": "9043996111",
     "provider_id": "100179",
     "raw_ratings": {},
     "state": "FL",

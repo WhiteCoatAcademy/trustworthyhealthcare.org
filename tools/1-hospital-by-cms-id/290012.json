@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"102 E LAKE MEAD DR\",\"city\":\"HENDERSON\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "36.038674496000056",
-        "longitude": "-114.98349696099996",
-        "needs_recoding": false
+        "coordinates": [
+            -114.985663,
+            36.037407
+        ],
+        "type": "Point"
     },
+    "location_address": "102 E LAKE MEAD DR",
+    "location_city": "HENDERSON",
+    "location_state": "NV",
+    "location_zip": "89015",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7026165000"
-    },
+    "phone_number": "7026165000",
     "provider_id": "290012",
     "raw_ratings": {},
     "state": "NV",

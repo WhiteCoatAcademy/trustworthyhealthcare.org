@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 MEDICAL PARKWAY\",\"city\":\"CARSON CITY\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "39.20365876100004",
-        "longitude": "-119.78570250099995",
-        "needs_recoding": false
+        "coordinates": [
+            -119.781726,
+            39.201828
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 MEDICAL PARKWAY",
+    "location_city": "CARSON CITY",
+    "location_state": "NV",
+    "location_zip": "89703",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7754458000"
-    },
+    "phone_number": "7754458000",
     "provider_id": "290019",
     "raw_ratings": {},
     "state": "NV",

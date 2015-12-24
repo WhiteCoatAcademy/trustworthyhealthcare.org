@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 STE GENEVIEVE DRIVE, PO BOX 468\",\"city\":\"SAINTE GENEVIEVE\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "37.96816108100006",
-        "longitude": "-90.05162617599996",
-        "needs_recoding": false
+        "coordinates": [
+            -90.051629,
+            37.968178
+        ],
+        "type": "Point"
     },
+    "location_address": "800 STE GENEVIEVE DRIVE, PO BOX 468",
+    "location_city": "SAINTE GENEVIEVE",
+    "location_state": "MO",
+    "location_zip": "63670",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5738832751"
-    },
+    "phone_number": "5738832751",
     "provider_id": "261330",
     "raw_ratings": {},
     "state": "MO",

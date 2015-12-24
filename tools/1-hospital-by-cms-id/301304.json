@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"273 COUNTY ROAD\",\"city\":\"NEW LONDON\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "43.42088249100004",
-        "longitude": "-72.00157167599997",
-        "needs_recoding": false
+        "coordinates": [
+            -72.001155,
+            43.421345
+        ],
+        "type": "Point"
     },
+    "location_address": "273 COUNTY ROAD",
+    "location_city": "NEW LONDON",
+    "location_state": "NH",
+    "location_zip": "03257",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6035262911"
-    },
+    "phone_number": "6035262911",
     "provider_id": "301304",
     "raw_ratings": {},
     "state": "NH",

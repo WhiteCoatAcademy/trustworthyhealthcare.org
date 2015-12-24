@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2450 ASHBY AVE\",\"city\":\"BERKELEY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.85638292800007",
-        "longitude": "-122.25792580499996",
-        "needs_recoding": false
+        "coordinates": [
+            -122.257997,
+            37.856409
+        ],
+        "type": "Point"
     },
+    "location_address": "2450 ASHBY AVE",
+    "location_city": "BERKELEY",
+    "location_state": "CA",
+    "location_zip": "94705",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sutterhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5102044444"
-    },
+    "phone_number": "5102044444",
     "provider_id": "050305",
     "raw_ratings": {},
     "state": "CA",

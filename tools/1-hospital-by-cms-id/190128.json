@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 WOMAN'S WAY\",\"city\":\"BATON ROUGE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.38525035500004",
-        "longitude": "-91.03805616299996",
-        "needs_recoding": false
+        "coordinates": [
+            -91.037784,
+            30.385001
+        ],
+        "type": "Point"
     },
+    "location_address": "100 WOMAN'S WAY",
+    "location_city": "BATON ROUGE",
+    "location_state": "LA",
+    "location_zip": "70817",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2259271300"
-    },
+    "phone_number": "2259271300",
     "provider_id": "190128",
     "raw_ratings": {},
     "state": "LA",

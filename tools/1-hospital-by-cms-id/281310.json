@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "REGIONAL WEST GARDEN COUNTY HOSPITAL",
-    "hospital_ownership": "Government - Local",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1100 WEST 2ND ST\",\"city\":\"OSHKOSH\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.41228612400005",
-        "longitude": "-102.34759411899995",
-        "needs_recoding": false
+        "coordinates": [
+            -102.347582,
+            41.41176
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 WEST 2ND ST",
+    "location_city": "OSHKOSH",
+    "location_state": "NE",
+    "location_zip": "69154",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3087723283"
-    },
+    "phone_number": "3087723283",
     "provider_id": "281310",
     "raw_ratings": {},
     "state": "NE",

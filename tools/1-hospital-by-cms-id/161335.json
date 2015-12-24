@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 FIRST ST EAST\",\"city\":\"INDEPENDENCE\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.468826455000055",
-        "longitude": "-91.87465108899994",
-        "needs_recoding": false
+        "coordinates": [
+            -91.87371,
+            42.468785
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 FIRST ST EAST",
+    "location_city": "INDEPENDENCE",
+    "location_state": "IA",
+    "location_zip": "50644",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3193320999"
-    },
+    "phone_number": "3193320999",
     "provider_id": "161335",
     "raw_ratings": {},
     "state": "IA",

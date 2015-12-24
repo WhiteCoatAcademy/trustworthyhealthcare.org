@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1555 N BARRINGTON RD\",\"city\":\"HOFFMAN ESTATES\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "42.052111797000066",
-        "longitude": "-88.14448079999994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.144445,
+            42.052111
+        ],
+        "type": "Point"
     },
+    "location_address": "1555 N BARRINGTON RD",
+    "location_city": "HOFFMAN ESTATES",
+    "location_state": "IL",
+    "location_zip": "60194",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.alexianhealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8478432000"
-    },
+    "phone_number": "8478432000",
     "provider_id": "140290",
     "raw_ratings": {},
     "state": "IL",

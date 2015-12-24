@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1201 PLEASANT VALLEY ROAD\",\"city\":\"OWENSBORO\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.77757114600007",
-        "longitude": "-87.07015942299995",
-        "needs_recoding": false
+        "coordinates": [
+            -87.069958,
+            37.777296
+        ],
+        "type": "Point"
     },
+    "location_address": "1201 PLEASANT VALLEY ROAD",
+    "location_city": "OWENSBORO",
+    "location_state": "KY",
+    "location_zip": "42303",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2704172000"
-    },
+    "phone_number": "2704172000",
     "provider_id": "180038",
     "raw_ratings": {},
     "state": "KY",

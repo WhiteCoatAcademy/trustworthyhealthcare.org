@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 MICHIGAN ST NE\",\"city\":\"GRAND RAPIDS\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.97046457600004",
-        "longitude": "-85.66640690399998",
-        "needs_recoding": false
+        "coordinates": [
+            -85.664642,
+            42.970468
+        ],
+        "type": "Point"
     },
+    "location_address": "100 MICHIGAN ST NE",
+    "location_city": "GRAND RAPIDS",
+    "location_state": "MI",
+    "location_zip": "49503",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.spectrum-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6163911774"
-    },
+    "phone_number": "6163911774",
     "provider_id": "230038",
     "raw_ratings": {},
     "state": "MI",

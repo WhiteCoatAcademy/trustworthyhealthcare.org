@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"711 MARSHALL STREET\",\"city\":\"LEAVENWORTH\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.30775331500007",
-        "longitude": "-94.91852103599996",
-        "needs_recoding": false
+        "coordinates": [
+            -94.919334,
+            39.307812
+        ],
+        "type": "Point"
     },
+    "location_address": "711 MARSHALL STREET",
+    "location_city": "LEAVENWORTH",
+    "location_state": "KS",
+    "location_zip": "66048",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.saintlukeshealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9136841102"
-    },
+    "phone_number": "9136841102",
     "provider_id": "170133",
     "raw_ratings": {},
     "state": "KS",

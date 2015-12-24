@@ -1,18 +1,23 @@
 {
-    "address": "1835 FRANKLIN ST",
+    "address": "1375 EAST 19TH AVE",
     "city": "DENVER",
     "county_name": "DENVER",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "EXEMPLA SAINT JOSEPH HOSPITAL",
+    "hospital_name": "SAINT JOSEPH HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1835 FRANKLIN ST\",\"city\":\"DENVER\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.744910599000036",
-        "longitude": "-104.96845684999994",
-        "needs_recoding": false
+        "coordinates": [
+            -104.972135,
+            39.745722
+        ],
+        "type": "Point"
     },
+    "location_address": "1375 EAST 19TH AVE",
+    "location_city": "DENVER",
+    "location_state": "CO",
+    "location_zip": "80218",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.exempla.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3038377111"
-    },
+    "phone_number": "3038122000",
     "provider_id": "060028",
     "raw_ratings": {},
     "state": "CO",

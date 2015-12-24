@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"920 CHURCH ST N\",\"city\":\"CONCORD\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.43523488000005",
-        "longitude": "-80.60350165799997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.603114,
+            35.434363
+        ],
+        "type": "Point"
     },
+    "location_address": "920 CHURCH ST N",
+    "location_city": "CONCORD",
+    "location_state": "NC",
+    "location_zip": "28025",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.carolinas.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7047833000"
-    },
+    "phone_number": "7047833000",
     "provider_id": "340001",
     "raw_ratings": {},
     "state": "NC",

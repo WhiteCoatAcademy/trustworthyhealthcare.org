@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2669 NORTH SCENIC DRIVE\",\"city\":\"ALAMOGORDO\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "32.92665975500006",
-        "longitude": "-105.93373139199997",
-        "needs_recoding": false
+        "coordinates": [
+            -105.932653,
+            32.925637
+        ],
+        "type": "Point"
     },
+    "location_address": "2669 NORTH SCENIC DRIVE",
+    "location_city": "ALAMOGORDO",
+    "location_state": "NM",
+    "location_zip": "88310",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5754396100"
-    },
+    "phone_number": "5754396100",
     "provider_id": "320004",
     "raw_ratings": {},
     "state": "NM",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 WEST MAIN STREET\",\"city\":\"SPRINGFIELD\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.92479792300003",
-        "longitude": "-83.81282890299997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.812885,
+            39.92477
+        ],
+        "type": "Point"
     },
+    "location_address": "100 WEST MAIN STREET",
+    "location_city": "SPRINGFIELD",
+    "location_state": "OH",
+    "location_zip": "45502",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9375213900"
-    },
+    "phone_number": "9375213900",
     "provider_id": "360355",
     "raw_ratings": {},
     "state": "OH",

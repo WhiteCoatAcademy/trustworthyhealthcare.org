@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"222 TONGASS DR\",\"city\":\"SITKA\",\"state\":\"AK\",\"zip\":\"\"}",
-        "latitude": "57.04952119600006",
-        "longitude": "-135.354821825",
-        "needs_recoding": false
+        "coordinates": [
+            -135.355702,
+            57.052571
+        ],
+        "type": "Point"
     },
+    "location_address": "222 TONGASS DR",
+    "location_city": "SITKA",
+    "location_state": "AK",
+    "location_zip": "99835",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9079662411"
-    },
+    "phone_number": "9079662411",
     "provider_id": "020027",
     "raw_ratings": {},
     "state": "AK",

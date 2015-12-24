@@ -1,6 +1,6 @@
 {
     "address": "6777 WEST MAPLE ROAD",
-    "city": "W BLOOMFIELD",
+    "city": "WEST BLOOMFIELD",
     "county_name": "OAKLAND",
     "emergency_services": true,
     "global_rank": {},
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6777 WEST MAPLE ROAD\",\"city\":\"W BLOOMFIELD\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.54157231000005",
-        "longitude": "-83.40735936899995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.409433,
+            42.541451
+        ],
+        "type": "Point"
     },
+    "location_address": "6777 WEST MAPLE ROAD",
+    "location_city": "WEST BLOOMFIELD",
+    "location_state": "MI",
+    "location_zip": "48322",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2483251000"
-    },
+    "phone_number": "2483251000",
     "provider_id": "230302",
     "raw_ratings": {},
     "state": "MI",

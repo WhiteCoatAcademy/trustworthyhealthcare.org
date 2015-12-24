@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"723 BURKESVILLE ROAD\",\"city\":\"ALBANY\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "36.69829936000008",
-        "longitude": "-85.14653905199998",
-        "needs_recoding": false
+        "coordinates": [
+            -85.147585,
+            36.698538
+        ],
+        "type": "Point"
     },
+    "location_address": "723 BURKESVILLE ROAD",
+    "location_city": "ALBANY",
+    "location_state": "KY",
+    "location_zip": "42602",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6063876421"
-    },
+    "phone_number": "6063876421",
     "provider_id": "180106",
     "raw_ratings": {},
     "state": "KY",

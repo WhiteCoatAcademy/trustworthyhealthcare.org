@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"24 HOSPITAL AVE\",\"city\":\"DANBURY\",\"state\":\"CT\",\"zip\":\"\"}",
-        "latitude": "41.40366262900005",
-        "longitude": "-73.44757086399994",
-        "needs_recoding": false
+        "coordinates": [
+            -73.446137,
+            41.406208
+        ],
+        "type": "Point"
     },
+    "location_address": "24 HOSPITAL AVE",
+    "location_city": "DANBURY",
+    "location_state": "CT",
+    "location_zip": "06810",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2037977000"
-    },
+    "phone_number": "2037397000",
     "provider_id": "070033",
     "raw_ratings": {},
     "state": "CT",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"110 REHILL AVE\",\"city\":\"SOMERVILLE\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.56838073200004",
-        "longitude": "-74.59578658299995",
-        "needs_recoding": false
+        "coordinates": [
+            -74.595751,
+            40.568692
+        ],
+        "type": "Point"
     },
+    "location_address": "110 REHILL AVE",
+    "location_city": "SOMERVILLE",
+    "location_state": "NJ",
+    "location_zip": "08876",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9086852200"
-    },
+    "phone_number": "9086852200",
     "provider_id": "310048",
     "raw_ratings": {},
     "state": "NJ",

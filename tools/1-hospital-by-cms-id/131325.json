@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"98 POPLAR STREET\",\"city\":\"BLACKFOOT\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "43.19287511600004",
-        "longitude": "-112.34742123999996",
-        "needs_recoding": false
+        "coordinates": [
+            -112.347434,
+            43.193178
+        ],
+        "type": "Point"
     },
+    "location_address": "98 POPLAR STREET",
+    "location_city": "BLACKFOOT",
+    "location_state": "ID",
+    "location_zip": "83221",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.binghammemorial.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2087853804"
-    },
+    "phone_number": "2087854100",
     "provider_id": "131325",
     "raw_ratings": {},
     "state": "ID",

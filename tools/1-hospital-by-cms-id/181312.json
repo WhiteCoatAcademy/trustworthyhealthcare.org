@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"330 ROLAND AVENUE\",\"city\":\"OWENTON\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "38.54211294800007",
-        "longitude": "-84.84085524699998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.841183,
+            38.540262
+        ],
+        "type": "Point"
     },
+    "location_address": "330 ROLAND AVENUE",
+    "location_city": "OWENTON",
+    "location_state": "KY",
+    "location_zip": "40359",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5024844656"
-    },
+    "phone_number": "5024844656",
     "provider_id": "181312",
     "raw_ratings": {},
     "state": "KY",

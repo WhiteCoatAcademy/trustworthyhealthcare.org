@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"651 E 25TH ST\",\"city\":\"HIALEAH\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.844938522000064",
-        "longitude": "-80.26909219099997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.267596,
+            25.845088
+        ],
+        "type": "Point"
     },
+    "location_address": "651 E 25TH ST",
+    "location_city": "HIALEAH",
+    "location_state": "FL",
+    "location_zip": "33013",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3056936100"
-    },
+    "phone_number": "3056936100",
     "provider_id": "100053",
     "raw_ratings": {},
     "state": "FL",

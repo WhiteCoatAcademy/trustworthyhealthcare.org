@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1250 S WASHINGTON STREET\",\"city\":\"VAN WERT\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.85032104700008",
-        "longitude": "-84.58132482299999",
-        "needs_recoding": false
+        "coordinates": [
+            -84.581367,
+            40.850774
+        ],
+        "type": "Point"
     },
+    "location_address": "1250 S WASHINGTON STREET",
+    "location_city": "VAN WERT",
+    "location_state": "OH",
+    "location_zip": "45891",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4192388627"
-    },
+    "phone_number": "4192388627",
     "provider_id": "360071",
     "raw_ratings": {},
     "state": "OH",

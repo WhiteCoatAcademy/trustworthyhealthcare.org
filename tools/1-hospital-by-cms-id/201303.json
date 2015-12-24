@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7 TRANSALPINE ROAD, PO BOX 368\",\"city\":\"LINCOLN\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "45.34870826300005",
-        "longitude": "-68.51631546399994",
-        "needs_recoding": false
+        "coordinates": [
+            -68.516256,
+            45.348731
+        ],
+        "type": "Point"
     },
+    "location_address": "7 TRANSALPINE ROAD, PO BOX 368",
+    "location_city": "LINCOLN",
+    "location_state": "ME",
+    "location_zip": "04457",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2077943321"
-    },
+    "phone_number": "2077943321",
     "provider_id": "201303",
     "raw_ratings": {},
     "state": "ME",

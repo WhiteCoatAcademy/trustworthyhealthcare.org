@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2500 WEST REYNOLDS STREET\",\"city\":\"PONTIAC\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "40.87336322600004",
-        "longitude": "-88.67901986599998",
-        "needs_recoding": false
+        "coordinates": [
+            -88.679588,
+            40.873395
+        ],
+        "type": "Point"
     },
+    "location_address": "2500 WEST REYNOLDS STREET",
+    "location_city": "PONTIAC",
+    "location_state": "IL",
+    "location_zip": "61764",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.osfhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8158422828"
-    },
+    "phone_number": "8158422828",
     "provider_id": "140161",
     "raw_ratings": {},
     "state": "IL",

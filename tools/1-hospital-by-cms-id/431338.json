@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "AVERA GREGORY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 PARK STREET POST OFFICE BOX 408\",\"city\":\"GREGORY\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "43.236956330000055",
-        "longitude": "-99.43527297199995",
-        "needs_recoding": false
+        "coordinates": [
+            -99.435206,
+            43.229437
+        ],
+        "type": "Point"
     },
+    "location_address": "400 PARK STREET POST OFFICE BOX 408",
+    "location_city": "GREGORY",
+    "location_state": "SD",
+    "location_zip": "57533",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6058358394"
-    },
+    "phone_number": "6058358394",
     "provider_id": "431338",
     "raw_ratings": {},
     "state": "SD",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7201 N UNIVERSITY DR\",\"city\":\"TAMARAC\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.21185040200004",
-        "longitude": "-80.25257077399993",
-        "needs_recoding": false
+        "coordinates": [
+            -80.252543,
+            26.211385
+        ],
+        "type": "Point"
     },
+    "location_address": "7201 N UNIVERSITY DR",
+    "location_city": "TAMARAC",
+    "location_state": "FL",
+    "location_zip": "33321",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9547212200"
-    },
+    "phone_number": "9547212200",
     "provider_id": "100224",
     "raw_ratings": {},
     "state": "FL",

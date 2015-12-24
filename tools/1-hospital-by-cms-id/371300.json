@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 WEST LIBERTY ROAD\",\"city\":\"ATOKA\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "34.393951214000026",
-        "longitude": "-96.15057658999996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.143921,
+            34.394243
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 WEST LIBERTY ROAD",
+    "location_city": "ATOKA",
+    "location_state": "OK",
+    "location_zip": "74525",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5808893333"
-    },
+    "phone_number": "5808893333",
     "provider_id": "371300",
     "raw_ratings": {},
     "state": "OK",

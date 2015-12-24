@@ -2,17 +2,22 @@
     "address": "16088 SAN PEDRO",
     "city": "SAN ANTONIO",
     "county_name": "BEXAR",
-    "emergency_services": false,
+    "emergency_services": true,
     "global_rank": {},
     "hospital_name": "BAPTIST EMERGENCY HOSPITAL",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"16088 SAN PEDRO\",\"city\":\"SAN ANTONIO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.587791836000065",
-        "longitude": "-98.47422073799999",
-        "needs_recoding": false
+        "coordinates": [
+            -98.474175,
+            29.588034
+        ],
+        "type": "Point"
     },
+    "location_address": "16088 SAN PEDRO",
+    "location_city": "SAN ANTONIO",
+    "location_state": "TX",
+    "location_zip": "78232",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2104024092"
-    },
+    "phone_number": "2104024092",
     "provider_id": "670078",
     "raw_ratings": {},
     "state": "TX",

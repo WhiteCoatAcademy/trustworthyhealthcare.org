@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"452 OLD STREET ROAD\",\"city\":\"PETERBOROUGH\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "42.87613368400008",
-        "longitude": "-71.95097763599995",
-        "needs_recoding": false
+        "coordinates": [
+            -71.937601,
+            42.894104
+        ],
+        "type": "Point"
     },
+    "location_address": "452 OLD STREET ROAD",
+    "location_city": "PETERBOROUGH",
+    "location_state": "NH",
+    "location_zip": "03458",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6039247191"
-    },
+    "phone_number": "6039247191",
     "provider_id": "301309",
     "raw_ratings": {},
     "state": "NH",

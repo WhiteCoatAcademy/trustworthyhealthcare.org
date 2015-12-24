@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2333 BUCHANAN STREET\",\"city\":\"SAN FRANCISCO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.79148861700003",
-        "longitude": "-122.431015232",
-        "needs_recoding": false
+        "coordinates": [
+            -122.43096,
+            37.791188
+        ],
+        "type": "Point"
     },
+    "location_address": "2333 BUCHANAN STREET",
+    "location_city": "SAN FRANCISCO",
+    "location_state": "CA",
+    "location_zip": "94115",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sutterhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4156006000"
-    },
+    "phone_number": "4156006000",
     "provider_id": "050047",
     "raw_ratings": {},
     "state": "CA",

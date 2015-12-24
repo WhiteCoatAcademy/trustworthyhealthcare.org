@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5301 EAST GRANT ROAD\",\"city\":\"TUCSON\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "32.25077902700008",
-        "longitude": "-110.87971206099996",
-        "needs_recoding": false
+        "coordinates": [
+            -110.881304,
+            32.250766
+        ],
+        "type": "Point"
     },
+    "location_address": "5301 EAST GRANT ROAD",
+    "location_city": "TUCSON",
+    "location_state": "AZ",
+    "location_zip": "85712",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5203275461"
-    },
+    "phone_number": "5203275461",
     "provider_id": "030006",
     "raw_ratings": {},
     "state": "AZ",

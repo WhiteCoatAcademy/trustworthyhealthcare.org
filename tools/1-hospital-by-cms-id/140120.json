@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 SOUTH 13TH STREET\",\"city\":\"PEKIN\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "40.56356995600004",
-        "longitude": "-89.63306426899999",
-        "needs_recoding": false
+        "coordinates": [
+            -89.63321,
+            40.563795
+        ],
+        "type": "Point"
     },
+    "location_address": "600 SOUTH 13TH STREET",
+    "location_city": "PEKIN",
+    "location_state": "IL",
+    "location_zip": "61554",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3093471151"
-    },
+    "phone_number": "3093471151",
     "provider_id": "140120",
     "raw_ratings": {},
     "state": "IL",

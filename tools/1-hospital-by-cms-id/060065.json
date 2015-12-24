@@ -2,17 +2,22 @@
     "address": "9191 GRANT ST",
     "city": "THORNTON",
     "county_name": "ADAMS",
-    "emergency_services": false,
+    "emergency_services": true,
     "global_rank": {},
     "hospital_name": "NORTH SUBURBAN MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9191 GRANT ST\",\"city\":\"THORNTON\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.86331240100003",
-        "longitude": "-104.98312397999996",
-        "needs_recoding": false
+        "coordinates": [
+            -104.984783,
+            39.86438
+        ],
+        "type": "Point"
     },
+    "location_address": "9191 GRANT ST",
+    "location_city": "THORNTON",
+    "location_state": "CO",
+    "location_zip": "80229",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.healthonecares.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3034517800"
-    },
+    "phone_number": "3034517800",
     "provider_id": "060065",
     "raw_ratings": {},
     "state": "CO",

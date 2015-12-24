@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"820 CLARKSVILLE ST\",\"city\":\"PARIS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.66044318500008",
-        "longitude": "-95.54808403299995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.546783,
+            33.660277
+        ],
+        "type": "Point"
     },
+    "location_address": "820 CLARKSVILLE ST",
+    "location_city": "PARIS",
+    "location_state": "TX",
+    "location_zip": "75460",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.essenthealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9037854521"
-    },
+    "phone_number": "9037854521",
     "provider_id": "450196",
     "raw_ratings": {},
     "state": "TX",

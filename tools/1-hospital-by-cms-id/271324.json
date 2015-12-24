@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"805 SUNSET BLVD\",\"city\":\"CONRAD\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "48.17394111500005",
-        "longitude": "-111.95888340699997",
-        "needs_recoding": false
+        "coordinates": [
+            -111.958354,
+            48.173911
+        ],
+        "type": "Point"
     },
+    "location_address": "805 SUNSET BLVD",
+    "location_city": "CONRAD",
+    "location_state": "MT",
+    "location_zip": "59425",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4062713211"
-    },
+    "phone_number": "4062713211",
     "provider_id": "271324",
     "raw_ratings": {},
     "state": "MT",

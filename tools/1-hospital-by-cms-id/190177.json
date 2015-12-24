@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"95 JUDGE TANNER BOULEVARD\",\"city\":\"COVINGTON\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.409865655000033",
-        "longitude": "-90.08127086599995",
-        "needs_recoding": false
+        "coordinates": [
+            -90.081172,
+            30.409916
+        ],
+        "type": "Point"
     },
+    "location_address": "95 JUDGE TANNER BOULEVARD",
+    "location_city": "COVINGTON",
+    "location_state": "LA",
+    "location_zip": "70433",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9858674443"
-    },
+    "phone_number": "9858674443",
     "provider_id": "190177",
     "raw_ratings": {},
     "state": "LA",

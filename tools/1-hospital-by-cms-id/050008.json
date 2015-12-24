@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"601 DUBOCE AVE\",\"city\":\"SAN FRANCISCO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.76910334200005",
-        "longitude": "-122.43464780999994",
-        "needs_recoding": false
+        "coordinates": [
+            -122.434706,
+            37.769114
+        ],
+        "type": "Point"
     },
+    "location_address": "601 DUBOCE AVE",
+    "location_city": "SAN FRANCISCO",
+    "location_state": "CA",
+    "location_zip": "94117",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sutterhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4156006000"
-    },
+    "phone_number": "4156006000",
     "provider_id": "050008",
     "raw_ratings": {},
     "state": "CA",

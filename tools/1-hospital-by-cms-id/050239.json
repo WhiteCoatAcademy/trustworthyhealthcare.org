@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1509 E WILSON TERRACE\",\"city\":\"GLENDALE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.14950615600003",
-        "longitude": "-118.23108802799999",
-        "needs_recoding": false
+        "coordinates": [
+            -118.231078,
+            34.149471
+        ],
+        "type": "Point"
     },
+    "location_address": "1509 E WILSON TERRACE",
+    "location_city": "GLENDALE",
+    "location_state": "CA",
+    "location_zip": "91206",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.adventisthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8184098202"
-    },
+    "phone_number": "8184098202",
     "provider_id": "050239",
     "raw_ratings": {},
     "state": "CA",

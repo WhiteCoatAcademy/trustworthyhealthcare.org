@@ -4,15 +4,20 @@
     "county_name": "CLARK",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MINNEOLA DISTRICT HOSPITAL #2",
+    "hospital_name": "MINNEOLA DISTRICT HOSPITAL NBR 2",
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"212 MAIN\",\"city\":\"MINNEOLA\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.441801991000034",
-        "longitude": "-100.01375848699996",
-        "needs_recoding": false
+        "coordinates": [
+            -99.897347,
+            37.485789
+        ],
+        "type": "Point"
     },
+    "location_address": "212 MAIN",
+    "location_city": "MINNEOLA",
+    "location_state": "KS",
+    "location_zip": "67865",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6208854264"
-    },
+    "phone_number": "6208854264",
     "provider_id": "171368",
     "raw_ratings": {},
     "state": "KS",

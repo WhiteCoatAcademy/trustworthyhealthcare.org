@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"845 JACKSON ST\",\"city\":\"SAN FRANCISCO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.795691919000035",
-        "longitude": "-122.40917637499996",
-        "needs_recoding": false
+        "coordinates": [
+            -122.409014,
+            37.795724
+        ],
+        "type": "Point"
     },
+    "location_address": "845 JACKSON ST",
+    "location_city": "SAN FRANCISCO",
+    "location_state": "CA",
+    "location_zip": "94133",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4159822400"
-    },
+    "phone_number": "4159822400",
     "provider_id": "050407",
     "raw_ratings": {},
     "state": "CA",

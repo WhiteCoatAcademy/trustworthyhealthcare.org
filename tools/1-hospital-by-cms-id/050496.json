@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2540 EAST ST\",\"city\":\"CONCORD\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.98353086700007",
-        "longitude": "-122.03463409599999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.03434,
+            37.983101
+        ],
+        "type": "Point"
     },
+    "location_address": "2540 EAST ST",
+    "location_city": "CONCORD",
+    "location_state": "CA",
+    "location_zip": "94520",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.jmmdhs.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9256742002"
-    },
+    "phone_number": "9256742002",
     "provider_id": "050496",
     "raw_ratings": {},
     "state": "CA",

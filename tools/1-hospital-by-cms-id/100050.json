@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1475 W 49TH ST\",\"city\":\"HIALEAH\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.867578555000023",
-        "longitude": "-80.31221057599998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.312448,
+            25.86666
+        ],
+        "type": "Point"
     },
+    "location_address": "1475 W 49TH ST",
+    "location_city": "HIALEAH",
+    "location_state": "FL",
+    "location_zip": "33012",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3055582500"
-    },
+    "phone_number": "3055582500",
     "provider_id": "100050",
     "raw_ratings": {},
     "state": "FL",

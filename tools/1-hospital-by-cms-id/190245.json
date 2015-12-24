@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2408 BROADMOOR BLVD\",\"city\":\"MONROE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.53617103700003",
-        "longitude": "-92.10164254099999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.102296,
+            32.536874
+        ],
+        "type": "Point"
     },
+    "location_address": "2408 BROADMOOR BLVD",
+    "location_city": "MONROE",
+    "location_state": "LA",
+    "location_zip": "71201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3184100002"
-    },
+    "phone_number": "3184100002",
     "provider_id": "190245",
     "raw_ratings": {},
     "state": "LA",

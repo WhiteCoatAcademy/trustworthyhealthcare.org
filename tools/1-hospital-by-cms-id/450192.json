@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"101 CIRCLE DRIVE\",\"city\":\"HILLSBORO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.012305698000034",
-        "longitude": "-97.09942754299999",
-        "needs_recoding": false
+        "coordinates": [
+            -97.099044,
+            32.011484
+        ],
+        "type": "Point"
     },
+    "location_address": "101 CIRCLE DRIVE",
+    "location_city": "HILLSBORO",
+    "location_state": "TX",
+    "location_zip": "76645",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "2545808500"
-    },
+    "phone_number": "2545808500",
     "provider_id": "450192",
     "raw_ratings": {},
     "state": "TX",

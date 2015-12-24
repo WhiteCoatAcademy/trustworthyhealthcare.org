@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1801 N JACKSON ST BOX 460\",\"city\":\"TULLAHOMA\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.382789926000044",
-        "longitude": "-86.23045327199998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.230148,
+            35.382495
+        ],
+        "type": "Point"
     },
+    "location_address": "1801 N JACKSON ST BOX 460",
+    "location_city": "TULLAHOMA",
+    "location_state": "TN",
+    "location_zip": "37388",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9313933000"
-    },
+    "phone_number": "9313933000",
     "provider_id": "440144",
     "raw_ratings": {},
     "state": "TN",

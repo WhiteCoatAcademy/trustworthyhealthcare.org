@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"707 14TH ST\",\"city\":\"BARABOO\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.48061631000007",
-        "longitude": "-89.73142074099997",
-        "needs_recoding": false
+        "coordinates": [
+            -89.732088,
+            43.48059
+        ],
+        "type": "Point"
     },
+    "location_address": "707 14TH ST",
+    "location_city": "BARABOO",
+    "location_state": "WI",
+    "location_zip": "53913",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ssmhc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6083561400"
-    },
+    "phone_number": "6083561400",
     "provider_id": "520057",
     "raw_ratings": {},
     "state": "WI",

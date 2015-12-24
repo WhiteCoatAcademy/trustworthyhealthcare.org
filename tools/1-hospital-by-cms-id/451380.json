@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"117 WINNSBORO STREET\",\"city\":\"QUITMAN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.79637563700004",
-        "longitude": "-95.44505377599995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.445402,
+            32.795804
+        ],
+        "type": "Point"
     },
+    "location_address": "117 WINNSBORO STREET",
+    "location_city": "QUITMAN",
+    "location_state": "TX",
+    "location_zip": "75783",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9037634500"
-    },
+    "phone_number": "9037634500",
     "provider_id": "451380",
     "raw_ratings": {},
     "state": "TX",

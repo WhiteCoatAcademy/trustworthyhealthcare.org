@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2800 GODWIN BOULEVARD\",\"city\":\"SUFFOLK\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "36.77274138800004",
-        "longitude": "-76.58348769399998",
-        "needs_recoding": false
+        "coordinates": [
+            -76.583413,
+            36.773058
+        ],
+        "type": "Point"
     },
+    "location_address": "2800 GODWIN BOULEVARD",
+    "location_city": "SUFFOLK",
+    "location_state": "VA",
+    "location_zip": "23439",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sentara.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7579344000"
-    },
+    "phone_number": "7579344000",
     "provider_id": "490044",
     "raw_ratings": {},
     "state": "VA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4023 REAS LN\",\"city\":\"NEW ALBANY\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "38.340673147000075",
-        "longitude": "-85.82709587099998",
-        "needs_recoding": false
+        "coordinates": [
+            -85.827061,
+            38.340097
+        ],
+        "type": "Point"
     },
+    "location_address": "4023 REAS LN",
+    "location_city": "NEW ALBANY",
+    "location_state": "IN",
+    "location_zip": "47150",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8122067660"
-    },
+    "phone_number": "8122067660",
     "provider_id": "150172",
     "raw_ratings": {},
     "state": "IN",

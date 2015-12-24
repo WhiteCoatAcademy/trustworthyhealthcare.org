@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"310 SUNNYVIEW LANE\",\"city\":\"KALISPELL\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "48.216227176000075",
-        "longitude": "-114.32323366099996",
-        "needs_recoding": false
+        "coordinates": [
+            -114.322773,
+            48.216148
+        ],
+        "type": "Point"
     },
+    "location_address": "310 SUNNYVIEW LANE",
+    "location_city": "KALISPELL",
+    "location_state": "MT",
+    "location_zip": "59901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4067525111"
-    },
+    "phone_number": "4067525111",
     "provider_id": "270051",
     "raw_ratings": {},
     "state": "MT",

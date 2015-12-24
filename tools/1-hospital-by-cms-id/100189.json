@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2801 N STATE RD 7\",\"city\":\"MARGATE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.262690228000054",
-        "longitude": "-80.20175053699995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.201724,
+            26.260789
+        ],
+        "type": "Point"
     },
+    "location_address": "2801 N STATE RD 7",
+    "location_city": "MARGATE",
+    "location_state": "FL",
+    "location_zip": "33063",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9549740400"
-    },
+    "phone_number": "9549740400",
     "provider_id": "100189",
     "raw_ratings": {},
     "state": "FL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"900 CATON AVENUE\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.27353515400006",
-        "longitude": "-76.67133074599997",
-        "needs_recoding": false
+        "coordinates": [
+            -76.670816,
+            39.272628
+        ],
+        "type": "Point"
     },
+    "location_address": "900 CATON AVENUE",
+    "location_city": "BALTIMORE",
+    "location_state": "MD",
+    "location_zip": "21229",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4103682101"
-    },
+    "phone_number": "4103682101",
     "provider_id": "210011",
     "raw_ratings": {},
     "state": "MD",

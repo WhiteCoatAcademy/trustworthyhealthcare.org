@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4700 WATERS AVENUE\",\"city\":\"SAVANNAH\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.03232083300003",
-        "longitude": "-81.09158057999997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.091827,
+            32.031785
+        ],
+        "type": "Point"
     },
+    "location_address": "4700 WATERS AVENUE",
+    "location_city": "SAVANNAH",
+    "location_state": "GA",
+    "location_zip": "31403",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9123508000"
-    },
+    "phone_number": "9123508000",
     "provider_id": "110036",
     "raw_ratings": {},
     "state": "GA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7501 FANNIN\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.693011298000044",
-        "longitude": "-95.40077862999999",
-        "needs_recoding": false
+        "coordinates": [
+            -95.400999,
+            29.692834
+        ],
+        "type": "Point"
     },
+    "location_address": "7501 FANNIN",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77054",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7136523800"
-    },
+    "phone_number": "7136523800",
     "provider_id": "670019",
     "raw_ratings": {},
     "state": "TX",

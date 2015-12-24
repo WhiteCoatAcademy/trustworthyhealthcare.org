@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"620 HOWARD AVENUE\",\"city\":\"ALTOONA\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.521580484000026",
-        "longitude": "-78.39785422499995",
-        "needs_recoding": false
+        "coordinates": [
+            -78.398301,
+            40.521085
+        ],
+        "type": "Point"
     },
+    "location_address": "620 HOWARD AVENUE",
+    "location_city": "ALTOONA",
+    "location_state": "PA",
+    "location_zip": "16601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bshsi.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8148892011"
-    },
+    "phone_number": "8148892011",
     "provider_id": "390073",
     "raw_ratings": {},
     "state": "PA",

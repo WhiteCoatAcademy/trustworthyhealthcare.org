@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 WASHINGTON STREET\",\"city\":\"BOSTON\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.28343698600003",
-        "longitude": "-71.07144507899994",
-        "needs_recoding": false
+        "coordinates": [
+            -71.063454,
+            42.35005
+        ],
+        "type": "Point"
     },
+    "location_address": "800 WASHINGTON STREET",
+    "location_city": "BOSTON",
+    "location_state": "MA",
+    "location_zip": "02111",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6176365000"
-    },
+    "phone_number": "6176365000",
     "provider_id": "220116",
     "raw_ratings": {},
     "state": "MA",

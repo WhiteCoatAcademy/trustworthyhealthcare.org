@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"231 SOUTH COLLINS ROAD\",\"city\":\"SUNNYVALE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.77841985200007",
-        "longitude": "-96.56715400399997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.565611,
+            32.780308
+        ],
+        "type": "Point"
     },
+    "location_address": "231 SOUTH COLLINS ROAD",
+    "location_city": "SUNNYVALE",
+    "location_state": "TX",
+    "location_zip": "75182",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9728923000"
-    },
+    "phone_number": "9728923000",
     "provider_id": "670060",
     "raw_ratings": {},
     "state": "TX",

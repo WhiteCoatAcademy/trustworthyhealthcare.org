@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2400 SOUTH AVENUE A\",\"city\":\"YUMA\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "32.68318952100003",
-        "longitude": "-114.63326205499999",
-        "needs_recoding": false
+        "coordinates": [
+            -114.633239,
+            32.683963
+        ],
+        "type": "Point"
     },
+    "location_address": "2400 SOUTH AVENUE A",
+    "location_city": "YUMA",
+    "location_state": "AZ",
+    "location_zip": "85364",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9283367275"
-    },
+    "phone_number": "9283367275",
     "provider_id": "030013",
     "raw_ratings": {},
     "state": "AZ",

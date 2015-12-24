@@ -5,7 +5,7 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "LAKEWOOD HEALTH SYSTEM",
-    "hospital_ownership": "Voluntary non-profit - Private",
+    "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
         "human_address": "{\"address\":\"49725 COUNTY ROAD 83\",\"city\":\"STAPLES\",\"state\":\"MN\",\"zip\":\"\"}",
@@ -13,6 +13,10 @@
         "longitude": "-94.74849112999999",
         "needs_recoding": false
     },
+    "location_address": "49725 COUNTY ROAD 83",
+    "location_city": "STAPLES",
+    "location_state": "MN",
+    "location_zip": "56479",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +30,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2188941515"
-    },
+    "phone_number": "2188941515",
     "provider_id": "241329",
     "raw_ratings": {},
     "state": "MN",

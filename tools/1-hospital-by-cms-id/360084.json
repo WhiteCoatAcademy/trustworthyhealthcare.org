@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2600 SIXTH STREET SW\",\"city\":\"CANTON\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.796873607000066",
-        "longitude": "-81.40480188899994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.404579,
+            40.796898
+        ],
+        "type": "Point"
     },
+    "location_address": "2600 SIXTH STREET SW",
+    "location_city": "CANTON",
+    "location_state": "OH",
+    "location_zip": "44710",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3304529911"
-    },
+    "phone_number": "3304529911",
     "provider_id": "360084",
     "raw_ratings": {},
     "state": "OH",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"340 PEAK ONE DRIVE\",\"city\":\"FRISCO\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.56982601300007",
-        "longitude": "-106.07851635199995",
-        "needs_recoding": false
+        "coordinates": [
+            -106.079829,
+            39.569226
+        ],
+        "type": "Point"
     },
+    "location_address": "340 PEAK ONE DRIVE",
+    "location_city": "FRISCO",
+    "location_state": "CO",
+    "location_zip": "80443",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.centura.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9706683300"
-    },
+    "phone_number": "9706683300",
     "provider_id": "060118",
     "raw_ratings": {},
     "state": "CO",

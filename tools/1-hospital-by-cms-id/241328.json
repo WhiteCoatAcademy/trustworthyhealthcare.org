@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"203 4TH STREET NORTHWEST\",\"city\":\"BAGLEY\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "47.52580647900004",
-        "longitude": "-95.40235034299997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.402232,
+            47.525833
+        ],
+        "type": "Point"
     },
+    "location_address": "203 4TH STREET NORTHWEST",
+    "location_city": "BAGLEY",
+    "location_state": "MN",
+    "location_zip": "56621",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2186946501"
-    },
+    "phone_number": "2186946501",
     "provider_id": "241328",
     "raw_ratings": {},
     "state": "MN",

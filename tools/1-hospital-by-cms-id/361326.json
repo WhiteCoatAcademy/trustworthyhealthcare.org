@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"230 MEDICAL CENTER DRIVE\",\"city\":\"SEAMAN\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "38.93412017500003",
-        "longitude": "-83.58578559899996",
-        "needs_recoding": false
+        "coordinates": [
+            -83.585844,
+            38.934115
+        ],
+        "type": "Point"
     },
+    "location_address": "230 MEDICAL CENTER DRIVE",
+    "location_city": "SEAMAN",
+    "location_state": "OH",
+    "location_zip": "45679",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9373863400"
-    },
+    "phone_number": "9373863400",
     "provider_id": "361326",
     "raw_ratings": {},
     "state": "OH",

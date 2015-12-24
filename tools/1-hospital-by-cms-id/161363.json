@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2301 EASTERN AVENUE\",\"city\":\"RED OAK\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.02596112500004",
-        "longitude": "-95.21391231699994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.213919,
+            41.026557
+        ],
+        "type": "Point"
     },
+    "location_address": "2301 EASTERN AVENUE",
+    "location_city": "RED OAK",
+    "location_state": "IA",
+    "location_zip": "51566",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7126237000"
-    },
+    "phone_number": "7126237000",
     "provider_id": "161363",
     "raw_ratings": {},
     "state": "IA",

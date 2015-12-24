@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1978 INDUSTRIAL BLVD\",\"city\":\"HOUMA\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "29.571413302000053",
-        "longitude": "-90.68865465999994",
-        "needs_recoding": false
+        "coordinates": [
+            -90.688112,
+            29.571382
+        ],
+        "type": "Point"
     },
+    "location_address": "1978 INDUSTRIAL BLVD",
+    "location_city": "HOUMA",
+    "location_state": "LA",
+    "location_zip": "70363",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lsuhospitals.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9858731285"
-    },
+    "phone_number": "9858731285",
     "provider_id": "190183",
     "raw_ratings": {},
     "state": "LA",

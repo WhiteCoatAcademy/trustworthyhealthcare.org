@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4700 ALLIANCE BOULEVARD\",\"city\":\"PLANO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.01433342200005",
-        "longitude": "-96.79096054899998",
-        "needs_recoding": false
+        "coordinates": [
+            -96.791437,
+            33.014377
+        ],
+        "type": "Point"
     },
+    "location_address": "4700 ALLIANCE BOULEVARD",
+    "location_city": "PLANO",
+    "location_state": "TX",
+    "location_zip": "75093",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baylorhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4698142000"
-    },
+    "phone_number": "4698142000",
     "provider_id": "450890",
     "raw_ratings": {},
     "state": "TX",

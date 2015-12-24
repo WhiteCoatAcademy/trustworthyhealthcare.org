@@ -4,15 +4,20 @@
     "county_name": "MARICOPA",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "SURGICAL HOSPITAL OF PHOENIX, THE",
+    "hospital_name": "CORE INSTITUTE SPECIALTY HOSPITAL, THE",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6501 NORTH 19TH AVENUE\",\"city\":\"PHOENIX\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.53215043300003",
-        "longitude": "-112.09959714599995",
-        "needs_recoding": false
+        "coordinates": [
+            -112.099637,
+            33.531394
+        ],
+        "type": "Point"
     },
+    "location_address": "6501 NORTH 19TH AVENUE",
+    "location_city": "PHOENIX",
+    "location_state": "AZ",
+    "location_zip": "85015",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6027956020"
-    },
+    "phone_number": "6027956020",
     "provider_id": "030108",
     "raw_ratings": {},
     "state": "AZ",

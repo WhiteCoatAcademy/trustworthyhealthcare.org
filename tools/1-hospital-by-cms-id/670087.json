@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"900 EAST WHITESTONE BLVD\",\"city\":\"CEDAR PARK\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.52393439000008",
-        "longitude": "-97.82014294499999",
-        "needs_recoding": false
+        "coordinates": [
+            -97.82018,
+            30.52395
+        ],
+        "type": "Point"
     },
+    "location_address": "900 EAST WHITESTONE BLVD",
+    "location_city": "CEDAR PARK",
+    "location_state": "TX",
+    "location_zip": "78613",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5126844911"
-    },
+    "phone_number": "5126844911",
     "provider_id": "670087",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9300 WEST SUNSET RD\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "36.070267759000046",
-        "longitude": "-115.29618015399996",
-        "needs_recoding": false
+        "coordinates": [
+            -115.295512,
+            36.070256
+        ],
+        "type": "Point"
     },
+    "location_address": "9300 WEST SUNSET RD",
+    "location_city": "LAS VEGAS",
+    "location_state": "NV",
+    "location_zip": "89148",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7028802100"
-    },
+    "phone_number": "7028802100",
     "provider_id": "290047",
     "raw_ratings": {},
     "state": "NV",

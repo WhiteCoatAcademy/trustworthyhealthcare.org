@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"186 HOSPITAL DRIVE\",\"city\":\"GRANTSVILLE\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "38.92371734900007",
-        "longitude": "-81.09197077099998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.092258,
+            38.922536
+        ],
+        "type": "Point"
     },
+    "location_address": "186 HOSPITAL DRIVE",
+    "location_city": "GRANTSVILLE",
+    "location_state": "WV",
+    "location_zip": "26147",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3043549244"
-    },
+    "phone_number": "3043549244",
     "provider_id": "511303",
     "raw_ratings": {},
     "state": "WV",

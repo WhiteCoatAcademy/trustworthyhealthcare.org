@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1912 ALABAMA HIGHWAY 157\",\"city\":\"CULLMAN\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "34.19859606700004",
-        "longitude": "-86.80404845899994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.805369,
+            34.198579
+        ],
+        "type": "Point"
     },
+    "location_address": "1912 ALABAMA HIGHWAY 157",
+    "location_city": "CULLMAN",
+    "location_state": "AL",
+    "location_zip": "35058",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2567372000"
-    },
+    "phone_number": "2567372000",
     "provider_id": "010035",
     "raw_ratings": {},
     "state": "AL",

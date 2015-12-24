@@ -1,5 +1,5 @@
 {
-    "address": "176 DENISON PARKWAY EAST",
+    "address": "1 GUTHRIE DRIVE",
     "city": "CORNING",
     "county_name": "STEUBEN",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"176 DENISON PARKWAY EAST\",\"city\":\"CORNING\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.14133183100006",
-        "longitude": "-77.04765561599999",
-        "needs_recoding": false
+        "coordinates": [
+            -76.969841,
+            42.136107
+        ],
+        "type": "Point"
     },
+    "location_address": "1 GUTHRIE DRIVE",
+    "location_city": "CORNING",
+    "location_state": "NY",
+    "location_zip": "14830",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.guthrie.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6079377200"
-    },
+    "phone_number": "6079377200",
     "provider_id": "330277",
     "raw_ratings": {},
     "state": "NY",

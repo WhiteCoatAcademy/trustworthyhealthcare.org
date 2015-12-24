@@ -1,5 +1,5 @@
 {
-    "address": "2200 SHOW LOW LAKE ROAD",
+    "address": "2200 EAST SHOW LOW LAKE ROAD",
     "city": "SHOW LOW",
     "county_name": "NAVAJO",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2200 SHOW LOW LAKE ROAD\",\"city\":\"SHOW LOW\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "34.20201926300007",
-        "longitude": "-110.01690832499997",
-        "needs_recoding": false
+        "coordinates": [
+            -110.01839,
+            34.201967
+        ],
+        "type": "Point"
     },
+    "location_address": "2200 EAST SHOW LOW LAKE ROAD",
+    "location_city": "SHOW LOW",
+    "location_state": "AZ",
+    "location_zip": "85901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9285374375"
-    },
+    "phone_number": "9285374375",
     "provider_id": "030062",
     "raw_ratings": {},
     "state": "AZ",

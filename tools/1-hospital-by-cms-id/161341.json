@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 NORTH 7TH STREET\",\"city\":\"CHARITON\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.02818035400003",
-        "longitude": "-93.30335378899997",
-        "needs_recoding": false
+        "coordinates": [
+            -93.303422,
+            41.027761
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 NORTH 7TH STREET",
+    "location_city": "CHARITON",
+    "location_state": "IA",
+    "location_zip": "50049",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6417743000"
-    },
+    "phone_number": "6417743000",
     "provider_id": "161341",
     "raw_ratings": {},
     "state": "IA",

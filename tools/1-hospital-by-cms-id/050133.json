@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"726 4TH ST\",\"city\":\"MARYSVILLE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "39.13880539500008",
-        "longitude": "-121.59360080599998",
-        "needs_recoding": false
+        "coordinates": [
+            -121.594157,
+            39.13879
+        ],
+        "type": "Point"
     },
+    "location_address": "726 4TH ST",
+    "location_city": "MARYSVILLE",
+    "location_state": "CA",
+    "location_zip": "95901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.frhg.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5307494300"
-    },
+    "phone_number": "5307494300",
     "provider_id": "050133",
     "raw_ratings": {},
     "state": "CA",

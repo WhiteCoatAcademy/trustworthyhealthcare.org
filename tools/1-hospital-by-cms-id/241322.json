@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1400 HIGHWAY 71\",\"city\":\"INTERNATIONAL FALLS\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "48.59379542200003",
-        "longitude": "-93.43122365399995",
-        "needs_recoding": false
+        "coordinates": [
+            -93.4307,
+            48.594021
+        ],
+        "type": "Point"
     },
+    "location_address": "1400 HIGHWAY 71",
+    "location_city": "INTERNATIONAL FALLS",
+    "location_state": "MN",
+    "location_zip": "56649",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2182835400"
-    },
+    "phone_number": "2182835400",
     "provider_id": "241322",
     "raw_ratings": {},
     "state": "MN",

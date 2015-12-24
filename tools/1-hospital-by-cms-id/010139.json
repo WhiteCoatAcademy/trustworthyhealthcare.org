@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2010 BROOKWOOD MEDICAL CENTER DRIVE\",\"city\":\"BIRMINGHAM\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "33.46306652900006",
-        "longitude": "-86.77656110699996",
-        "needs_recoding": false
+        "coordinates": [
+            -86.776451,
+            33.463103
+        ],
+        "type": "Point"
     },
+    "location_address": "2010 BROOKWOOD MEDICAL CENTER DRIVE",
+    "location_city": "BIRMINGHAM",
+    "location_state": "AL",
+    "location_zip": "35209",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2058771000"
-    },
+    "phone_number": "2058771000",
     "provider_id": "010139",
     "raw_ratings": {},
     "state": "AL",

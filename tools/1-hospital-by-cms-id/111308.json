@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1050 VALDOSTA HIGHWAY\",\"city\":\"HOMERVILLE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "31.032767988000046",
-        "longitude": "-82.76355855699995",
-        "needs_recoding": false
+        "coordinates": [
+            -82.763854,
+            31.032647
+        ],
+        "type": "Point"
     },
+    "location_address": "1050 VALDOSTA HIGHWAY",
+    "location_city": "HOMERVILLE",
+    "location_state": "GA",
+    "location_zip": "31634",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9124875211"
-    },
+    "phone_number": "9124875211",
     "provider_id": "111308",
     "raw_ratings": {},
     "state": "GA",

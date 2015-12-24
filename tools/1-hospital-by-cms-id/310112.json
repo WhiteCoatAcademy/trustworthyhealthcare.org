@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"727 N BEERS ST\",\"city\":\"HOLMDEL\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.40424510200006",
-        "longitude": "-74.19334409399994",
-        "needs_recoding": false
+        "coordinates": [
+            -74.19418,
+            40.405264
+        ],
+        "type": "Point"
     },
+    "location_address": "727 N BEERS ST",
+    "location_city": "HOLMDEL",
+    "location_state": "NJ",
+    "location_zip": "07733",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.rwjhn.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7327395900"
-    },
+    "phone_number": "7327395900",
     "provider_id": "310112",
     "raw_ratings": {},
     "state": "NJ",

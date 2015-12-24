@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7700 EAST FLORENTINE ROAD\",\"city\":\"PRESCOTT VALLEY\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "34.588348076000045",
-        "longitude": "-112.33220827599996",
-        "needs_recoding": false
+        "coordinates": [
+            -112.330686,
+            34.588171
+        ],
+        "type": "Point"
     },
+    "location_address": "7700 EAST FLORENTINE ROAD",
+    "location_city": "PRESCOTT VALLEY",
+    "location_state": "AZ",
+    "location_zip": "86314",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9287715676"
-    },
+    "phone_number": "9287715676",
     "provider_id": "030118",
     "raw_ratings": {},
     "state": "AZ",

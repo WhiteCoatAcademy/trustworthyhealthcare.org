@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"333 BORTHWICK AVE\",\"city\":\"PORTSMOUTH\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "43.06439368100007",
-        "longitude": "-70.78732925599996",
-        "needs_recoding": false
+        "coordinates": [
+            -70.790628,
+            43.063667
+        ],
+        "type": "Point"
     },
+    "location_address": "333 BORTHWICK AVE",
+    "location_city": "PORTSMOUTH",
+    "location_state": "NH",
+    "location_zip": "03801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6034365110"
-    },
+    "phone_number": "6034365110",
     "provider_id": "300029",
     "raw_ratings": {},
     "state": "NH",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"320 NORTH MAIN\",\"city\":\"LOCKNEY\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "34.12685813500008",
-        "longitude": "-101.44163500499997",
-        "needs_recoding": false
+        "coordinates": [
+            -101.44179,
+            34.126632
+        ],
+        "type": "Point"
     },
+    "location_address": "320 NORTH MAIN",
+    "location_city": "LOCKNEY",
+    "location_state": "TX",
+    "location_zip": "79241",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8066523373"
-    },
+    "phone_number": "8066523373",
     "provider_id": "451337",
     "raw_ratings": {},
     "state": "TX",

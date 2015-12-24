@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"81 HIGHLAND AVENUE\",\"city\":\"SALEM\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.511447055000076",
-        "longitude": "-70.90909778899999",
-        "needs_recoding": false
+        "coordinates": [
+            -70.908699,
+            42.511902
+        ],
+        "type": "Point"
     },
+    "location_address": "81 HIGHLAND AVENUE",
+    "location_city": "SALEM",
+    "location_state": "MA",
+    "location_zip": "01970",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.partners.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9787411215"
-    },
+    "phone_number": "9787411215",
     "provider_id": "220035",
     "raw_ratings": {},
     "state": "MA",

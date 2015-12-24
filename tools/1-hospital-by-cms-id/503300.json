@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Childrens",
     "location": {
-        "human_address": "{\"address\":\"4800 SAND POINT WAY NE, PO BOX C-5371\",\"city\":\"SEATTLE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.664237986000046",
-        "longitude": "-122.283397305",
-        "needs_recoding": false
+        "coordinates": [
+            -122.283227,
+            47.664447
+        ],
+        "type": "Point"
     },
+    "location_address": "4800 SAND POINT WAY NE, PO BOX C-5371",
+    "location_city": "SEATTLE",
+    "location_state": "WA",
+    "location_zip": "98105",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2069872000"
-    },
+    "phone_number": "2069872000",
     "provider_id": "503300",
     "raw_ratings": {},
     "state": "WA",

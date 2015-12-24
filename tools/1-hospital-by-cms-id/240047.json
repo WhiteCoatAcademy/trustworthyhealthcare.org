@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"915 EAST 1ST STREET\",\"city\":\"DULUTH\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "46.79629340500003",
-        "longitude": "-92.08803870199995",
-        "needs_recoding": false
+        "coordinates": [
+            -92.08748,
+            46.796675
+        ],
+        "type": "Point"
     },
+    "location_address": "915 EAST 1ST STREET",
+    "location_city": "DULUTH",
+    "location_state": "MN",
+    "location_zip": "55805",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2182495555"
-    },
+    "phone_number": "2182495555",
     "provider_id": "240047",
     "raw_ratings": {},
     "state": "MN",

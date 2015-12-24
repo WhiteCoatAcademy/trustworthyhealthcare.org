@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2390 WEST CONGRESS\",\"city\":\"LAFAYETTE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.215578511000047",
-        "longitude": "-92.04605325299997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.045675,
+            30.215792
+        ],
+        "type": "Point"
     },
+    "location_address": "2390 WEST CONGRESS",
+    "location_city": "LAFAYETTE",
+    "location_state": "LA",
+    "location_zip": "70506",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lsuhospitals.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3372616000"
-    },
+    "phone_number": "3372616000",
     "provider_id": "190006",
     "raw_ratings": {},
     "state": "LA",

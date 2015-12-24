@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"206 BAY ST\",\"city\":\"RICHTON\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "31.347009926000055",
-        "longitude": "-88.93731315799994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.938927,
+            31.347082
+        ],
+        "type": "Point"
     },
+    "location_address": "206 BAY ST",
+    "location_city": "RICHTON",
+    "location_state": "MS",
+    "location_zip": "39476",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6017886316"
-    },
+    "phone_number": "6017886316",
     "provider_id": "251306",
     "raw_ratings": {},
     "state": "MS",

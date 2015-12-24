@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"27700 MEDICAL CENTER RD\",\"city\":\"MISSION VIEJO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.560831879000034",
-        "longitude": "-117.66685940999997",
-        "needs_recoding": false
+        "coordinates": [
+            -117.667758,
+            33.562742
+        ],
+        "type": "Point"
     },
+    "location_address": "27700 MEDICAL CENTER RD",
+    "location_city": "MISSION VIEJO",
+    "location_state": "CA",
+    "location_zip": "92691",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.stjhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9493641400"
-    },
+    "phone_number": "9493641400",
     "provider_id": "050567",
     "raw_ratings": {},
     "state": "CA",

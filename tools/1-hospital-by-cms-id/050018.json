@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"531 W COLLEGE ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.064686692000066",
-        "longitude": "-118.23937062999994",
-        "needs_recoding": false
+        "coordinates": [
+            -118.239532,
+            34.064729
+        ],
+        "type": "Point"
     },
+    "location_address": "531 W COLLEGE ST",
+    "location_city": "LOS ANGELES",
+    "location_state": "CA",
+    "location_zip": "90012",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2136248411"
-    },
+    "phone_number": "2136248411",
     "provider_id": "050018",
     "raw_ratings": {},
     "state": "CA",

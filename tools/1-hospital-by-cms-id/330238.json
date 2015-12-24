@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 CLARA BARTON STREET\",\"city\":\"DANSVILLE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.55153378700004",
-        "longitude": "-77.70005914299998",
-        "needs_recoding": false
+        "coordinates": [
+            -77.700243,
+            42.551882
+        ],
+        "type": "Point"
     },
+    "location_address": "111 CLARA BARTON STREET",
+    "location_city": "DANSVILLE",
+    "location_state": "NY",
+    "location_zip": "14437",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5853356001"
-    },
+    "phone_number": "5853356001",
     "provider_id": "330238",
     "raw_ratings": {},
     "state": "NY",

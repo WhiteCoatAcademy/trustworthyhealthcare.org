@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "MEMORIAL HERMANN BAPTIST ORANGE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
+    "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"608 STRICKLAND DRIVE\",\"city\":\"ORANGE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.099421094000036",
-        "longitude": "-93.76764846199995",
-        "needs_recoding": false
+        "coordinates": [
+            -93.768661,
+            30.100458
+        ],
+        "type": "Point"
     },
+    "location_address": "608 STRICKLAND DRIVE",
+    "location_city": "ORANGE",
+    "location_state": "TX",
+    "location_zip": "77630",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4098839361"
-    },
+    "phone_number": "4098839361",
     "provider_id": "450005",
     "raw_ratings": {},
     "state": "TX",

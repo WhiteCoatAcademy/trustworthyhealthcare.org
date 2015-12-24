@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"60 MERCY COURT\",\"city\":\"IRVINE\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.70616686100004",
-        "longitude": "-83.97750264999996",
-        "needs_recoding": false
+        "coordinates": [
+            -83.977791,
+            37.70585
+        ],
+        "type": "Point"
     },
+    "location_address": "60 MERCY COURT",
+    "location_city": "IRVINE",
+    "location_state": "KY",
+    "location_zip": "40336",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health-partners.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6067232115"
-    },
+    "phone_number": "6067232115",
     "provider_id": "181301",
     "raw_ratings": {},
     "state": "KY",

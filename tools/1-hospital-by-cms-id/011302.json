@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"211 HOSPITAL ROAD\",\"city\":\"RED BAY\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "34.45749636600004",
-        "longitude": "-88.14712255699999",
-        "needs_recoding": false
+        "coordinates": [
+            -88.14693,
+            34.457424
+        ],
+        "type": "Point"
     },
+    "location_address": "211 HOSPITAL ROAD",
+    "location_city": "RED BAY",
+    "location_state": "AL",
+    "location_zip": "35582",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2563569532"
-    },
+    "phone_number": "2563569532",
     "provider_id": "011302",
     "raw_ratings": {},
     "state": "AL",

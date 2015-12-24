@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"201 E SAMPLE RD\",\"city\":\"POMPANO BEACH\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.275177554000038",
-        "longitude": "-80.12066811099999",
-        "needs_recoding": false
+        "coordinates": [
+            -80.120739,
+            26.275137
+        ],
+        "type": "Point"
     },
+    "location_address": "201 E SAMPLE RD",
+    "location_city": "POMPANO BEACH",
+    "location_state": "FL",
+    "location_zip": "33064",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.browardhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9547866950"
-    },
+    "phone_number": "9547866950",
     "provider_id": "100086",
     "raw_ratings": {},
     "state": "FL",

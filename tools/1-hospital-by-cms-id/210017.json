@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"251 NORTH FOURTH STREET\",\"city\":\"OAKLAND\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.41361569000003",
-        "longitude": "-79.40241222799995",
-        "needs_recoding": false
+        "coordinates": [
+            -79.402147,
+            39.413962
+        ],
+        "type": "Point"
     },
+    "location_address": "251 NORTH FOURTH STREET",
+    "location_city": "OAKLAND",
+    "location_state": "MD",
+    "location_zip": "21550",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3015334173"
-    },
+    "phone_number": "3015334173",
     "provider_id": "210017",
     "raw_ratings": {},
     "state": "MD",

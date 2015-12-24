@@ -4,15 +4,20 @@
     "county_name": "MIAMI-DADE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "BAPTIST HOSPITAL OF MIAMI INC",
+    "hospital_name": "BAPTIST HOSPITAL OF MIAMI",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8900 N KENDALL DR\",\"city\":\"MIAMI\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.687762673000066",
-        "longitude": "-80.33870960099995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.339862,
+            25.687753
+        ],
+        "type": "Point"
     },
+    "location_address": "8900 N KENDALL DR",
+    "location_city": "MIAMI",
+    "location_state": "FL",
+    "location_zip": "33176",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baptisthealth.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "7865961960"
-    },
+    "phone_number": "7865961960",
     "provider_id": "100008",
     "raw_ratings": {},
     "state": "FL",

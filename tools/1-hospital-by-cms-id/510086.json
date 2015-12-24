@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"454 MCDOWELL STREET\",\"city\":\"WELCH\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "37.43879031200004",
-        "longitude": "-81.58926431999998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.589287,
+            37.438831
+        ],
+        "type": "Point"
     },
+    "location_address": "454 MCDOWELL STREET",
+    "location_city": "WELCH",
+    "location_state": "WV",
+    "location_zip": "24801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3044368461"
-    },
+    "phone_number": "3044368461",
     "provider_id": "510086",
     "raw_ratings": {},
     "state": "WV",

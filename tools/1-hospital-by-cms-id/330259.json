@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 NORTH VILLAGE AVENUE\",\"city\":\"ROCKVILLE CENTRE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.68823049100007",
-        "longitude": "-73.63319685799996",
-        "needs_recoding": false
+        "coordinates": [
+            -73.633236,
+            40.688191
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 NORTH VILLAGE AVENUE",
+    "location_city": "ROCKVILLE CENTRE",
+    "location_state": "NY",
+    "location_zip": "11570",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chsli.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5167052525"
-    },
+    "phone_number": "5167052525",
     "provider_id": "330259",
     "raw_ratings": {},
     "state": "NY",

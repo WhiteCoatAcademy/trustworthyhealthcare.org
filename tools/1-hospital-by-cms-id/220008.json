@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"211 PARK STREET\",\"city\":\"ATTLEBORO\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "41.94253960300006",
-        "longitude": "-71.27444545099996",
-        "needs_recoding": false
+        "coordinates": [
+            -71.27478,
+            41.94262
+        ],
+        "type": "Point"
     },
+    "location_address": "211 PARK STREET",
+    "location_city": "ATTLEBORO",
+    "location_state": "MA",
+    "location_zip": "02703",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5082225200"
-    },
+    "phone_number": "5082225200",
     "provider_id": "220008",
     "raw_ratings": {},
     "state": "MA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"949 HARMON STREET\",\"city\":\"STURGIS\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "44.40193585600008",
-        "longitude": "-103.50842398499998",
-        "needs_recoding": false
+        "coordinates": [
+            -103.508392,
+            44.401882
+        ],
+        "type": "Point"
     },
+    "location_address": "949 HARMON STREET",
+    "location_city": "STURGIS",
+    "location_state": "SD",
+    "location_zip": "57785",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.rcrh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6057202400"
-    },
+    "phone_number": "6057202400",
     "provider_id": "431321",
     "raw_ratings": {},
     "state": "SD",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"12851 GRAND RIVER RD\",\"city\":\"BRIGHTON\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.51769620600004",
-        "longitude": "-83.69450774199998",
-        "needs_recoding": false
+        "coordinates": [
+            -83.68972,
+            42.517871
+        ],
+        "type": "Point"
     },
+    "location_address": "12851 GRAND RIVER RD",
+    "location_city": "BRIGHTON",
+    "location_state": "MI",
+    "location_zip": "48116",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8102271211"
-    },
+    "phone_number": "8102271211",
     "provider_id": "230279",
     "raw_ratings": {},
     "state": "MI",

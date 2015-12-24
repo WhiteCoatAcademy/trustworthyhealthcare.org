@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6 GLEN COVE DRIVE\",\"city\":\"ROCKPORT\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "44.145442255000034",
-        "longitude": "-69.08701381299994",
-        "needs_recoding": false
+        "coordinates": [
+            -69.087853,
+            44.145848
+        ],
+        "type": "Point"
     },
+    "location_address": "6 GLEN COVE DRIVE",
+    "location_city": "ROCKPORT",
+    "location_state": "ME",
+    "location_zip": "04856",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2075968000"
-    },
+    "phone_number": "2075968000",
     "provider_id": "200063",
     "raw_ratings": {},
     "state": "ME",

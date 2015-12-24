@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1800 SE TIFFANY AVE\",\"city\":\"PORT SAINT LUCIE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.289230442000076",
-        "longitude": "-80.29542182999995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.295488,
+            27.288962
+        ],
+        "type": "Point"
     },
+    "location_address": "1800 SE TIFFANY AVE",
+    "location_city": "PORT SAINT LUCIE",
+    "location_state": "FL",
+    "location_zip": "34952",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7723354000"
-    },
+    "phone_number": "7723354000",
     "provider_id": "100260",
     "raw_ratings": {},
     "state": "FL",

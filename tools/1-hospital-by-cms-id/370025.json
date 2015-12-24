@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 ROCKEFELLER DRIVE\",\"city\":\"MUSKOGEE\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.75381177400004",
-        "longitude": "-95.40615008599997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.406221,
+            35.753828
+        ],
+        "type": "Point"
     },
+    "location_address": "300 ROCKEFELLER DRIVE",
+    "location_city": "MUSKOGEE",
+    "location_state": "OK",
+    "location_zip": "74401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.capellahealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9186825501"
-    },
+    "phone_number": "9186825501",
     "provider_id": "370025",
     "raw_ratings": {},
     "state": "OK",

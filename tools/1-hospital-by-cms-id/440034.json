@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"990 OAK RIDGE TURNPIKE BOX 529\",\"city\":\"OAK RIDGE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.023481719000074",
-        "longitude": "-84.24386523699997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.2439,
+            36.023397
+        ],
+        "type": "Point"
     },
+    "location_address": "990 OAK RIDGE TURNPIKE BOX 529",
+    "location_city": "OAK RIDGE",
+    "location_state": "TN",
+    "location_zip": "37830",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.covenanthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8658351000"
-    },
+    "phone_number": "8658351000",
     "provider_id": "440034",
     "raw_ratings": {},
     "state": "TN",

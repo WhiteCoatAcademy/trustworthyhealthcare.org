@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "WASHINGTON HOSPITAL, THE",
-    "hospital_ownership": "Government - Local",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"155 WILSON AVENUE\",\"city\":\"WASHINGTON\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.18299146700008",
-        "longitude": "-80.24679937199994",
-        "needs_recoding": false
+        "coordinates": [
+            -80.247501,
+            40.183235
+        ],
+        "type": "Point"
     },
+    "location_address": "155 WILSON AVENUE",
+    "location_city": "WASHINGTON",
+    "location_state": "PA",
+    "location_zip": "15301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7242257000"
-    },
+    "phone_number": "7242257000",
     "provider_id": "390042",
     "raw_ratings": {},
     "state": "PA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"830 ROCKFORD ST\",\"city\":\"MOUNT AIRY\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "36.48845618000007",
-        "longitude": "-80.61119429099995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.61119,
+            36.488367
+        ],
+        "type": "Point"
     },
+    "location_address": "830 ROCKFORD ST",
+    "location_city": "MOUNT AIRY",
+    "location_state": "NC",
+    "location_zip": "27030",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3367197000"
-    },
+    "phone_number": "3367197000",
     "provider_id": "340003",
     "raw_ratings": {},
     "state": "NC",

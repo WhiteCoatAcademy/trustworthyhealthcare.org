@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1711 WEST TEMPLE STREET\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.06877794800005",
-        "longitude": "-118.26336828799998",
-        "needs_recoding": false
+        "coordinates": [
+            -118.263235,
+            34.068688
+        ],
+        "type": "Point"
     },
+    "location_address": "1711 WEST TEMPLE STREET",
+    "location_city": "LOS ANGELES",
+    "location_state": "CA",
+    "location_zip": "90026",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2139896123"
-    },
+    "phone_number": "2139896123",
     "provider_id": "050763",
     "raw_ratings": {},
     "state": "CA",

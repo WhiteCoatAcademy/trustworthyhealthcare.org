@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2001 ERRECART BLVD\",\"city\":\"ELKO\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "40.822500355000045",
-        "longitude": "-115.72908436599994",
-        "needs_recoding": false
+        "coordinates": [
+            -115.728877,
+            40.822684
+        ],
+        "type": "Point"
     },
+    "location_address": "2001 ERRECART BLVD",
+    "location_city": "ELKO",
+    "location_state": "NV",
+    "location_zip": "89801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7757385151"
-    },
+    "phone_number": "7757385151",
     "provider_id": "290008",
     "raw_ratings": {},
     "state": "NV",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5731 BEE RIDGE RD\",\"city\":\"SARASOTA\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.298987964000048",
-        "longitude": "-82.45485095699996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.454848,
+            27.298975
+        ],
+        "type": "Point"
     },
+    "location_address": "5731 BEE RIDGE RD",
+    "location_city": "SARASOTA",
+    "location_state": "FL",
+    "location_zip": "34233",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9413421100"
-    },
+    "phone_number": "9413421100",
     "provider_id": "100166",
     "raw_ratings": {},
     "state": "FL",

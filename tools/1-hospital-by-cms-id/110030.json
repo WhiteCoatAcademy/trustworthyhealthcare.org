@@ -2,17 +2,22 @@
     "address": "960 JOE FRANK HARRIS PARKWAY",
     "city": "CARTERSVILLE",
     "county_name": "BARTOW",
-    "emergency_services": true,
+    "emergency_services": false,
     "global_rank": {},
     "hospital_name": "CARTERSVILLE MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"960 JOE FRANK HARRIS PARKWAY\",\"city\":\"CARTERSVILLE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "34.19930455600007",
-        "longitude": "-84.79394239099997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.796149,
+            34.199951
+        ],
+        "type": "Point"
     },
+    "location_address": "960 JOE FRANK HARRIS PARKWAY",
+    "location_city": "CARTERSVILLE",
+    "location_state": "GA",
+    "location_zip": "30120",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7703878182"
-    },
+    "phone_number": "7703878182",
     "provider_id": "110030",
     "raw_ratings": {},
     "state": "GA",

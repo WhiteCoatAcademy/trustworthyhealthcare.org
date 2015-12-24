@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"55 FRUIT STREET\",\"city\":\"BOSTON\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.36244232000007",
-        "longitude": "-71.06932347499998",
-        "needs_recoding": false
+        "coordinates": [
+            -71.069802,
+            42.362421
+        ],
+        "type": "Point"
     },
+    "location_address": "55 FRUIT STREET",
+    "location_city": "BOSTON",
+    "location_state": "MA",
+    "location_zip": "02114",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.partners.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6177262000"
-    },
+    "phone_number": "6177262000",
     "provider_id": "220071",
     "raw_ratings": {},
     "state": "MA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 NORTH JAMES STREET\",\"city\":\"ROME\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.229600934000075",
-        "longitude": "-75.44375307599995",
-        "needs_recoding": false
+        "coordinates": [
+            -75.443578,
+            43.229898
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 NORTH JAMES STREET",
+    "location_city": "ROME",
+    "location_state": "NY",
+    "location_zip": "13440",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3153387000"
-    },
+    "phone_number": "3153387000",
     "provider_id": "330215",
     "raw_ratings": {},
     "state": "NY",

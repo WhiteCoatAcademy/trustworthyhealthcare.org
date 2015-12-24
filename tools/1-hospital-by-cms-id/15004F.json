@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"1700 E. 38TH STREET\",\"city\":\"MARION\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.52373252800004",
-        "longitude": "-85.63715445699995",
-        "needs_recoding": false
+        "coordinates": [
+            -85.637229,
+            40.523747
+        ],
+        "type": "Point"
     },
+    "location_address": "1700 E. 38TH STREET",
+    "location_city": "MARION",
+    "location_state": "IN",
+    "location_zip": "46953",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7656743321"
-    },
+    "phone_number": "7656743321",
     "provider_id": "15004F",
     "raw_ratings": {},
     "state": "IN",

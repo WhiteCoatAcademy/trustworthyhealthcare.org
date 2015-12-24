@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"747 BROADWAY\",\"city\":\"SEATTLE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.60857949100006",
-        "longitude": "-122.32081043299996",
-        "needs_recoding": false
+        "coordinates": [
+            -122.320765,
+            47.608112
+        ],
+        "type": "Point"
     },
+    "location_address": "747 BROADWAY",
+    "location_city": "SEATTLE",
+    "location_state": "WA",
+    "location_zip": "98122",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.swedish.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2063866000"
-    },
+    "phone_number": "2063866000",
     "provider_id": "500027",
     "raw_ratings": {},
     "state": "WA",

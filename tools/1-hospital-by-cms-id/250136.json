@@ -4,15 +4,20 @@
     "county_name": "RANKIN",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "WOMAN'S HOSPITAL AT RIVER OAKS",
+    "hospital_name": "MERIT HEALTH WOMEN'S HOSPITAL",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1026 RIVER OAKS DRIVE\",\"city\":\"FLOWOOD\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.32548129800006",
-        "longitude": "-90.10686045699998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.106883,
+            32.325539
+        ],
+        "type": "Point"
     },
+    "location_address": "1026 RIVER OAKS DRIVE",
+    "location_city": "FLOWOOD",
+    "location_state": "MS",
+    "location_zip": "39232",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6019321000"
-    },
+    "phone_number": "6019321000",
     "provider_id": "250136",
     "raw_ratings": {},
     "state": "MS",

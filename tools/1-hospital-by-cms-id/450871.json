@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3003 BEE CAVES ROAD\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.271592738000038",
-        "longitude": "-97.79583786499995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.795469,
+            30.271664
+        ],
+        "type": "Point"
     },
+    "location_address": "3003 BEE CAVES ROAD",
+    "location_city": "AUSTIN",
+    "location_state": "TX",
+    "location_zip": "78746",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hospitalpartners.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5123479888"
-    },
+    "phone_number": "5123479888",
     "provider_id": "450871",
     "raw_ratings": {},
     "state": "TX",

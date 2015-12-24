@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"350 PARRISH STREET\",\"city\":\"CANANDAIGUA\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.87562572200005",
-        "longitude": "-77.28821057699997",
-        "needs_recoding": false
+        "coordinates": [
+            -77.290111,
+            42.874854
+        ],
+        "type": "Point"
     },
+    "location_address": "350 PARRISH STREET",
+    "location_city": "CANANDAIGUA",
+    "location_state": "NY",
+    "location_zip": "14424",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5853966000"
-    },
+    "phone_number": "5853966000",
     "provider_id": "330074",
     "raw_ratings": {},
     "state": "NY",

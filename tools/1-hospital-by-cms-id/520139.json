@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8901 W LINCOLN AVE\",\"city\":\"WEST ALLIS\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.00267170600006",
-        "longitude": "-88.02350056799997",
-        "needs_recoding": false
+        "coordinates": [
+            -88.02335,
+            43.0027
+        ],
+        "type": "Point"
     },
+    "location_address": "8901 W LINCOLN AVE",
+    "location_city": "WEST ALLIS",
+    "location_state": "WI",
+    "location_zip": "53227",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.aurorahealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4143286000"
-    },
+    "phone_number": "4143286000",
     "provider_id": "520139",
     "raw_ratings": {},
     "state": "WI",

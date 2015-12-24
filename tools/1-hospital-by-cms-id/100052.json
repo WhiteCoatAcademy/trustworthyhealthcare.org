@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 AVE F NE\",\"city\":\"WINTER HAVEN\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.027663329000063",
-        "longitude": "-81.72599007399998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.726081,
+            28.027614
+        ],
+        "type": "Point"
     },
+    "location_address": "200 AVE F NE",
+    "location_city": "WINTER HAVEN",
+    "location_state": "FL",
+    "location_zip": "33881",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8632931121"
-    },
+    "phone_number": "8632931121",
     "provider_id": "100052",
     "raw_ratings": {},
     "state": "FL",

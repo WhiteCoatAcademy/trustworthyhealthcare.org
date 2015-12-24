@@ -4,15 +4,20 @@
     "county_name": "PUSHMATAHA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "PUSHMATAHA CTY-TN OF ANTLERS HOSP AUTH",
+    "hospital_name": "PUSHMATAHA COUNTY TOWN OF ANTLERS HOSPITAL",
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"510 EAST MAIN STREET\",\"city\":\"ANTLERS\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "34.23169021100006",
-        "longitude": "-95.61547443699999",
-        "needs_recoding": false
+        "coordinates": [
+            -95.615603,
+            34.231717
+        ],
+        "type": "Point"
     },
+    "location_address": "510 EAST MAIN STREET",
+    "location_city": "ANTLERS",
+    "location_state": "OK",
+    "location_zip": "74523",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5802983341"
-    },
+    "phone_number": "5802983341",
     "provider_id": "370083",
     "raw_ratings": {},
     "state": "OK",

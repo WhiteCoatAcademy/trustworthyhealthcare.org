@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11 HOSPITAL DRIVE\",\"city\":\"MACHIAS\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "44.71366549800007",
-        "longitude": "-67.47694533999999",
-        "needs_recoding": false
+        "coordinates": [
+            -67.47715,
+            44.71349
+        ],
+        "type": "Point"
     },
+    "location_address": "11 HOSPITAL DRIVE",
+    "location_city": "MACHIAS",
+    "location_state": "ME",
+    "location_zip": "04654",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2072553356"
-    },
+    "phone_number": "2072553356",
     "provider_id": "201311",
     "raw_ratings": {},
     "state": "ME",

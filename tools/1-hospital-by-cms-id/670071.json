@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"811 WRIGHT STREET\",\"city\":\"ARLINGTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.74822941000008",
-        "longitude": "-97.11580995499997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.115578,
+            32.748209
+        ],
+        "type": "Point"
     },
+    "location_address": "811 WRIGHT STREET",
+    "location_city": "ARLINGTON",
+    "location_state": "TX",
+    "location_zip": "76012",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8179603500"
-    },
+    "phone_number": "8179603500",
     "provider_id": "670071",
     "raw_ratings": {},
     "state": "TX",

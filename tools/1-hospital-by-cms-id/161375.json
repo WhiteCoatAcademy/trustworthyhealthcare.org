@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1525 WEST 5TH STREET\",\"city\":\"STORM LAKE\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.644367371000044",
-        "longitude": "-95.22267042999994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.223384,
+            42.644353
+        ],
+        "type": "Point"
     },
+    "location_address": "1525 WEST 5TH STREET",
+    "location_city": "STORM LAKE",
+    "location_state": "IA",
+    "location_zip": "50588",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7127324030"
-    },
+    "phone_number": "7127324030",
     "provider_id": "161375",
     "raw_ratings": {},
     "state": "IA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"180 FLOYD AVENUE\",\"city\":\"ROCKY MOUNT\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "36.994507519000024",
-        "longitude": "-79.89036393499998",
-        "needs_recoding": false
+        "coordinates": [
+            -79.889771,
+            36.994583
+        ],
+        "type": "Point"
     },
+    "location_address": "180 FLOYD AVENUE",
+    "location_city": "ROCKY MOUNT",
+    "location_state": "VA",
+    "location_zip": "24151",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.carilion.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5404835277"
-    },
+    "phone_number": "5404835277",
     "provider_id": "490089",
     "raw_ratings": {},
     "state": "VA",

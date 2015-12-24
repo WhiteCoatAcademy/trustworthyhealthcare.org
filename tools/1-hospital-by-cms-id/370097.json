@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5602 SOUTHWEST LEE BOULEVARD\",\"city\":\"LAWTON\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "34.59433302800005",
-        "longitude": "-98.46279010199999",
-        "needs_recoding": false
+        "coordinates": [
+            -98.46334,
+            34.594383
+        ],
+        "type": "Point"
     },
+    "location_address": "5602 SOUTHWEST LEE BOULEVARD",
+    "location_city": "LAWTON",
+    "location_state": "OK",
+    "location_zip": "73505",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.capellahealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5805314700"
-    },
+    "phone_number": "5805314700",
     "provider_id": "370097",
     "raw_ratings": {},
     "state": "OK",

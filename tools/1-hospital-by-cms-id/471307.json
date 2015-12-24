@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"115 PORTER DRIVE\",\"city\":\"MIDDLEBURY\",\"state\":\"VT\",\"zip\":\"\"}",
-        "latitude": "43.99945424200007",
-        "longitude": "-73.16843781499995",
-        "needs_recoding": false
+        "coordinates": [
+            -73.169203,
+            43.999275
+        ],
+        "type": "Point"
     },
+    "location_address": "115 PORTER DRIVE",
+    "location_city": "MIDDLEBURY",
+    "location_state": "VT",
+    "location_zip": "05753",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8023884701"
-    },
+    "phone_number": "8023884701",
     "provider_id": "471307",
     "raw_ratings": {},
     "state": "VT",

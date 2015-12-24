@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"706 N PARRISH AVE\",\"city\":\"ADEL\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "31.143328620000034",
-        "longitude": "-83.42454730599997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.424694,
+            31.143688
+        ],
+        "type": "Point"
     },
+    "location_address": "706 N PARRISH AVE",
+    "location_city": "ADEL",
+    "location_state": "GA",
+    "location_zip": "31620",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sunlinkhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2298968077"
-    },
+    "phone_number": "2298968077",
     "provider_id": "110101",
     "raw_ratings": {},
     "state": "GA",

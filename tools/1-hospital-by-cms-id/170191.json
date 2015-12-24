@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"514 CLEVELAND STREET\",\"city\":\"GREAT BEND\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.35621051500004",
-        "longitude": "-98.79152573399995",
-        "needs_recoding": false
+        "coordinates": [
+            -98.791619,
+            38.356199
+        ],
+        "type": "Point"
     },
+    "location_address": "514 CLEVELAND STREET",
+    "location_city": "GREAT BEND",
+    "location_state": "KS",
+    "location_zip": "67530",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6207928833"
-    },
+    "phone_number": "6207928833",
     "provider_id": "170191",
     "raw_ratings": {},
     "state": "KS",

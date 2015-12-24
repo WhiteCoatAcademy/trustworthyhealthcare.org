@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"504 NORTH CLEVELAND STREET\",\"city\":\"MOUNT AYR\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "40.71843860800004",
-        "longitude": "-94.22363974999996",
-        "needs_recoding": false
+        "coordinates": [
+            -94.223599,
+            40.717794
+        ],
+        "type": "Point"
     },
+    "location_address": "504 NORTH CLEVELAND STREET",
+    "location_city": "MOUNT AYR",
+    "location_state": "IA",
+    "location_zip": "50854",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6414643226"
-    },
+    "phone_number": "6414643226",
     "provider_id": "161373",
     "raw_ratings": {},
     "state": "IA",

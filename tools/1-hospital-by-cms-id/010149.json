@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 TAYLOR ROAD\",\"city\":\"MONTGOMERY\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "32.376357615000074",
-        "longitude": "-86.17186895999998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.172095,
+            32.376821
+        ],
+        "type": "Point"
     },
+    "location_address": "400 TAYLOR ROAD",
+    "location_city": "MONTGOMERY",
+    "location_state": "AL",
+    "location_zip": "36117",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baptistfirst.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3342448330"
-    },
+    "phone_number": "3342448330",
     "provider_id": "010149",
     "raw_ratings": {},
     "state": "AL",

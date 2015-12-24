@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"207 WEST LEGION ROAD\",\"city\":\"BRAWLEY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "32.95996733700002",
-        "longitude": "-115.55296270899998",
-        "needs_recoding": false
+        "coordinates": [
+            -115.552723,
+            32.959947
+        ],
+        "type": "Point"
     },
+    "location_address": "207 WEST LEGION ROAD",
+    "location_city": "BRAWLEY",
+    "location_state": "CA",
+    "location_zip": "92227",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7603513333"
-    },
+    "phone_number": "7603513333",
     "provider_id": "050342",
     "raw_ratings": {},
     "state": "CA",

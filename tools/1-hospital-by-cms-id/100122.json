@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"151 REDSTONE AVE SE\",\"city\":\"CRESTVIEW\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "30.737096906000033",
-        "longitude": "-86.56624488499995",
-        "needs_recoding": false
+        "coordinates": [
+            -86.562026,
+            30.736945
+        ],
+        "type": "Point"
     },
+    "location_address": "151 REDSTONE AVE SE",
+    "location_city": "CRESTVIEW",
+    "location_state": "FL",
+    "location_zip": "32539",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "8506898100"
-    },
+    "phone_number": "8506898100",
     "provider_id": "100122",
     "raw_ratings": {},
     "state": "FL",

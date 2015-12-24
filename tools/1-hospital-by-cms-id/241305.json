@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 BUNKER HILL DRIVE\",\"city\":\"AITKIN\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "46.527510249000045",
-        "longitude": "-93.69681112299997",
-        "needs_recoding": false
+        "coordinates": [
+            -93.696835,
+            46.528735
+        ],
+        "type": "Point"
     },
+    "location_address": "200 BUNKER HILL DRIVE",
+    "location_city": "AITKIN",
+    "location_state": "MN",
+    "location_zip": "56431",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2189275501"
-    },
+    "phone_number": "2189275501",
     "provider_id": "241305",
     "raw_ratings": {},
     "state": "MN",

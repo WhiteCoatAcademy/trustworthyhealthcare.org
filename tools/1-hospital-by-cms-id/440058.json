@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"185 HOSPITAL ROAD\",\"city\":\"WINCHESTER\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.17608554800006",
-        "longitude": "-86.09101219299998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.091088,
+            35.176003
+        ],
+        "type": "Point"
     },
+    "location_address": "185 HOSPITAL ROAD",
+    "location_city": "WINCHESTER",
+    "location_state": "TN",
+    "location_zip": "37398",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9319678295"
-    },
+    "phone_number": "9319678295",
     "provider_id": "440058",
     "raw_ratings": {},
     "state": "TN",

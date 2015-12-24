@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4231 HIGHWAY 1192\",\"city\":\"MARKSVILLE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "31.143237423000073",
-        "longitude": "-92.06447651899998",
-        "needs_recoding": false
+        "coordinates": [
+            -92.064433,
+            31.143128
+        ],
+        "type": "Point"
     },
+    "location_address": "4231 HIGHWAY 1192",
+    "location_city": "MARKSVILLE",
+    "location_state": "LA",
+    "location_zip": "71351",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3182538611"
-    },
+    "phone_number": "3182538611",
     "provider_id": "190099",
     "raw_ratings": {},
     "state": "LA",

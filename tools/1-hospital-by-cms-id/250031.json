@@ -4,15 +4,20 @@
     "county_name": "WARREN",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "RIVER REGION HEALTH SYSTEM",
+    "hospital_name": "MERIT HEALTH RIVER REGION",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2100 HWY 61 N\",\"city\":\"VICKSBURG\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.37677935000005",
-        "longitude": "-90.82737786799999",
-        "needs_recoding": false
+        "coordinates": [
+            -90.827518,
+            32.37437
+        ],
+        "type": "Point"
     },
+    "location_address": "2100 HWY 61 N",
+    "location_city": "VICKSBURG",
+    "location_state": "MS",
+    "location_zip": "39183",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "6018835000"
-    },
+    "phone_number": "6018835000",
     "provider_id": "250031",
     "raw_ratings": {},
     "state": "MS",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"818 E BROADWAY\",\"city\":\"SPARTA\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "38.12440735400003",
-        "longitude": "-89.69238208199994",
-        "needs_recoding": false
+        "coordinates": [
+            -89.690065,
+            38.124752
+        ],
+        "type": "Point"
     },
+    "location_address": "818 E BROADWAY",
+    "location_city": "SPARTA",
+    "location_state": "IL",
+    "location_zip": "62286",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6184432177"
-    },
+    "phone_number": "6184432177",
     "provider_id": "141349",
     "raw_ratings": {},
     "state": "IL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10400 75TH ST\",\"city\":\"KENOSHA\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "42.56742721000006",
-        "longitude": "-87.93592945499995",
-        "needs_recoding": false
+        "coordinates": [
+            -87.933877,
+            42.567355
+        ],
+        "type": "Point"
     },
+    "location_address": "10400 75TH ST",
+    "location_city": "KENOSHA",
+    "location_state": "WI",
+    "location_zip": "53142",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.aurorahealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2629485600"
-    },
+    "phone_number": "2629485600",
     "provider_id": "520189",
     "raw_ratings": {},
     "state": "WI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"418 WASHINGTON\",\"city\":\"LAKEVIEW\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.44104761300008",
-        "longitude": "-85.27846101299997",
-        "needs_recoding": false
+        "coordinates": [
+            -85.278692,
+            43.4412
+        ],
+        "type": "Point"
     },
+    "location_address": "418 WASHINGTON",
+    "location_city": "LAKEVIEW",
+    "location_state": "MI",
+    "location_zip": "48850",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.spectrum-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9893527211"
-    },
+    "phone_number": "9893527211",
     "provider_id": "231317",
     "raw_ratings": {},
     "state": "MI",

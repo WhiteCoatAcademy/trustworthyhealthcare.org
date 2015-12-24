@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"405 STAGELINE ROAD\",\"city\":\"HUDSON\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.961882649000074",
-        "longitude": "-92.71911003499997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.718041,
+            44.962871
+        ],
+        "type": "Point"
     },
+    "location_address": "405 STAGELINE ROAD",
+    "location_city": "HUDSON",
+    "location_state": "WI",
+    "location_zip": "54016",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7155316000"
-    },
+    "phone_number": "7155316000",
     "provider_id": "521335",
     "raw_ratings": {},
     "state": "WI",

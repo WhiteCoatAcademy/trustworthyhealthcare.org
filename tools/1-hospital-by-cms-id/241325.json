@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "CHIPPEWA COUNTY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"824 NORTH 11TH STREET\",\"city\":\"MONTEVIDEO\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.95323537000007",
-        "longitude": "-95.71354122499997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.713565,
+            44.952379
+        ],
+        "type": "Point"
     },
+    "location_address": "824 NORTH 11TH STREET",
+    "location_city": "MONTEVIDEO",
+    "location_state": "MN",
+    "location_zip": "56265",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3203218100"
-    },
+    "phone_number": "3203218100",
     "provider_id": "241325",
     "raw_ratings": {},
     "state": "MN",

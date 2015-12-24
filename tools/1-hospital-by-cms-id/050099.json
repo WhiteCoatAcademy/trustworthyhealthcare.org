@@ -4,15 +4,20 @@
     "county_name": "SAN BERNARDINO",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "SAN ANTONIO COMMUNITY HOSPITAL",
+    "hospital_name": "SAN ANTONIO REGIONAL HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"999 SAN BERNARDINO RD\",\"city\":\"UPLAND\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.10108198700004",
-        "longitude": "-117.63687680699996",
-        "needs_recoding": false
+        "coordinates": [
+            -117.637226,
+            34.10092
+        ],
+        "type": "Point"
     },
+    "location_address": "999 SAN BERNARDINO RD",
+    "location_city": "UPLAND",
+    "location_state": "CA",
+    "location_zip": "91786",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7149852811"
-    },
+    "phone_number": "7149852811",
     "provider_id": "050099",
     "raw_ratings": {},
     "state": "CA",

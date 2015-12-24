@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "BELLVILLE GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"44 N CUMMINGS\",\"city\":\"BELLVILLE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.952073492000068",
-        "longitude": "-96.26086939099997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.260414,
+            29.952858
+        ],
+        "type": "Point"
     },
+    "location_address": "44 N CUMMINGS",
+    "location_city": "BELLVILLE",
+    "location_state": "TX",
+    "location_zip": "77418",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9798653141"
-    },
+    "phone_number": "9798653141",
     "provider_id": "450253",
     "raw_ratings": {},
     "state": "TX",

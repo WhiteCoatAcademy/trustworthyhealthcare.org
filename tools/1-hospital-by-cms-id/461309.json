@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"355 NORTH MAIN STREET\",\"city\":\"KANAB\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "37.05415050100004",
-        "longitude": "-112.52862508099997",
-        "needs_recoding": false
+        "coordinates": [
+            -112.528542,
+            37.054093
+        ],
+        "type": "Point"
     },
+    "location_address": "355 NORTH MAIN STREET",
+    "location_city": "KANAB",
+    "location_state": "UT",
+    "location_zip": "84741",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4356445811"
-    },
+    "phone_number": "4356445811",
     "provider_id": "461309",
     "raw_ratings": {},
     "state": "UT",

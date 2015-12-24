@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1493 CAMBRIDGE STREET\",\"city\":\"CAMBRIDGE\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.37423679300008",
-        "longitude": "-71.10447754199998",
-        "needs_recoding": false
+        "coordinates": [
+            -71.104486,
+            42.37419
+        ],
+        "type": "Point"
     },
+    "location_address": "1493 CAMBRIDGE STREET",
+    "location_city": "CAMBRIDGE",
+    "location_state": "MA",
+    "location_zip": "02138",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.challiance.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6176652300"
-    },
+    "phone_number": "6176652300",
     "provider_id": "220011",
     "raw_ratings": {},
     "state": "MA",

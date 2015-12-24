@@ -1,5 +1,5 @@
 {
-    "address": "309 NORTH 14TH",
+    "address": "309 NORTH 14TH STREET",
     "city": "OKEMAH",
     "county_name": "OKFUSKEE",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Tribal",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"309 NORTH 14TH\",\"city\":\"OKEMAH\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.43394109500008",
-        "longitude": "-96.31747597299994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.317453,
+            35.434052
+        ],
+        "type": "Point"
     },
+    "location_address": "309 NORTH 14TH STREET",
+    "location_city": "OKEMAH",
+    "location_state": "OK",
+    "location_zip": "74859",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ihs.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "9186231424"
-    },
+    "phone_number": "9186231424",
     "provider_id": "371333",
     "raw_ratings": {},
     "state": "OK",

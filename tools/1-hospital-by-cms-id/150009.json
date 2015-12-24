@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1220 MISSOURI AVE\",\"city\":\"JEFFERSONVILLE\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "38.28187566300005",
-        "longitude": "-85.74988607599994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.749529,
+            38.280777
+        ],
+        "type": "Point"
     },
+    "location_address": "1220 MISSOURI AVE",
+    "location_city": "JEFFERSONVILLE",
+    "location_state": "IN",
+    "location_zip": "47130",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.jewishhospital.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8122832142"
-    },
+    "phone_number": "8122832142",
     "provider_id": "150009",
     "raw_ratings": {},
     "state": "IN",

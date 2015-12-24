@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4608 HIGHWAY 1\",\"city\":\"RACELAND\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "29.703452859000038",
-        "longitude": "-90.56424195699998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.563348,
+            29.702908
+        ],
+        "type": "Point"
     },
+    "location_address": "4608 HIGHWAY 1",
+    "location_city": "RACELAND",
+    "location_state": "LA",
+    "location_zip": "70394",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ochsner.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9855378377"
-    },
+    "phone_number": "9855378377",
     "provider_id": "191324",
     "raw_ratings": {},
     "state": "LA",

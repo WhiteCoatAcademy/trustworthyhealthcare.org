@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"434 NORTH WEST STREET\",\"city\":\"PERRYVILLE\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "37.73050179000006",
-        "longitude": "-89.86485731899995",
-        "needs_recoding": false
+        "coordinates": [
+            -89.864818,
+            37.730621
+        ],
+        "type": "Point"
     },
+    "location_address": "434 NORTH WEST STREET",
+    "location_city": "PERRYVILLE",
+    "location_state": "MO",
+    "location_zip": "63775",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5735472530"
-    },
+    "phone_number": "5735472530",
     "provider_id": "261311",
     "raw_ratings": {},
     "state": "MO",

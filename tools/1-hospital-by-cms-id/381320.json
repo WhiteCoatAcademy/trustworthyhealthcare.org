@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2111 EXCHANGE STREET\",\"city\":\"ASTORIA\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "46.188467538000054",
-        "longitude": "-123.819001303",
-        "needs_recoding": false
+        "coordinates": [
+            -123.818457,
+            46.188506
+        ],
+        "type": "Point"
     },
+    "location_address": "2111 EXCHANGE STREET",
+    "location_city": "ASTORIA",
+    "location_state": "OR",
+    "location_zip": "97103",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5033254321"
-    },
+    "phone_number": "5033254321",
     "provider_id": "381320",
     "raw_ratings": {},
     "state": "OR",

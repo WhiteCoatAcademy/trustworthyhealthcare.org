@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"940 EAST 5TH STREET\",\"city\":\"COQUILLE\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "43.179027286000064",
-        "longitude": "-124.17921976199995",
-        "needs_recoding": false
+        "coordinates": [
+            -124.178993,
+            43.17898
+        ],
+        "type": "Point"
     },
+    "location_address": "940 EAST 5TH STREET",
+    "location_city": "COQUILLE",
+    "location_state": "OR",
+    "location_zip": "97423",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5413963101"
-    },
+    "phone_number": "5413963101",
     "provider_id": "381312",
     "raw_ratings": {},
     "state": "OR",

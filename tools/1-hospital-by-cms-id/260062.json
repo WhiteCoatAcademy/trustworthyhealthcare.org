@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5830 N W BARRY ROAD\",\"city\":\"KANSAS CITY\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.24693086000008",
-        "longitude": "-94.64759288899995",
-        "needs_recoding": false
+        "coordinates": [
+            -94.647757,
+            39.246884
+        ],
+        "type": "Point"
     },
+    "location_address": "5830 N W BARRY ROAD",
+    "location_city": "KANSAS CITY",
+    "location_state": "MO",
+    "location_zip": "64154",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.saintlukeshealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8168916000"
-    },
+    "phone_number": "8168916000",
     "provider_id": "260062",
     "raw_ratings": {},
     "state": "MO",

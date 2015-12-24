@@ -4,15 +4,20 @@
     "county_name": "UNION",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MEMORIAL HOSPITAL OF UNION COUNTY",
+    "hospital_name": "MEMORIAL HOSPITAL",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 LONDON AVENUE\",\"city\":\"MARYSVILLE\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.23109862700005",
-        "longitude": "-83.36887891799995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.368841,
+            40.231291
+        ],
+        "type": "Point"
     },
+    "location_address": "500 LONDON AVENUE",
+    "location_city": "MARYSVILLE",
+    "location_state": "OH",
+    "location_zip": "43040",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9375782289"
-    },
+    "phone_number": "9375782289",
     "provider_id": "360092",
     "raw_ratings": {},
     "state": "OH",

@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "PHYSICIANS' SPECIALTY HOSPITAL",
-    "hospital_ownership": "Physician",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3873 NORTH PARKVIEW DRIVE\",\"city\":\"FAYETTEVILLE\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "36.121280427000045",
-        "longitude": "-94.13377448599994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.13373,
+            36.121329
+        ],
+        "type": "Point"
     },
+    "location_address": "3873 NORTH PARKVIEW DRIVE",
+    "location_city": "FAYETTEVILLE",
+    "location_state": "AR",
+    "location_zip": "72703",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4795717002"
-    },
+    "phone_number": "4795717002",
     "provider_id": "040152",
     "raw_ratings": {},
     "state": "AR",

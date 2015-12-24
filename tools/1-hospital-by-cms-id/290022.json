@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2075 EAST FLAMINGO ROAD\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "36.114562625000076",
-        "longitude": "-115.12402925099997",
-        "needs_recoding": false
+        "coordinates": [
+            -115.124139,
+            36.114574
+        ],
+        "type": "Point"
     },
+    "location_address": "2075 EAST FLAMINGO ROAD",
+    "location_city": "LAS VEGAS",
+    "location_state": "NV",
+    "location_zip": "89119",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhsinc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7023697600"
-    },
+    "phone_number": "7023697600",
     "provider_id": "290022",
     "raw_ratings": {},
     "state": "NV",

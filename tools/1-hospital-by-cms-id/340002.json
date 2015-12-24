@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"509 BILTMORE AVE\",\"city\":\"ASHEVILLE\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.57840377000008",
-        "longitude": "-82.54900671499996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.54837,
+            35.577942
+        ],
+        "type": "Point"
     },
+    "location_address": "509 BILTMORE AVE",
+    "location_city": "ASHEVILLE",
+    "location_state": "NC",
+    "location_zip": "28801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.missionhospitals.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8282131111"
-    },
+    "phone_number": "8282131111",
     "provider_id": "340002",
     "raw_ratings": {},
     "state": "NC",

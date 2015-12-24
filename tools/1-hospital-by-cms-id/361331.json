@@ -8,9 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1430 COLUMBUS AVENUE\",\"city\":\"WASHINGTON CH\",\"state\":\"OH\",\"zip\":\"\"}",
-        "needs_recoding": false
+        "coordinates": [
+            -83.425285,
+            39.548442
+        ],
+        "type": "Point"
     },
+    "location_address": "1430 COLUMBUS AVENUE",
+    "location_city": "WASHINGTON CH",
+    "location_state": "OH",
+    "location_zip": "43160",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7403331210"
-    },
+    "phone_number": "7403331210",
     "provider_id": "361331",
     "raw_ratings": {},
     "state": "OH",

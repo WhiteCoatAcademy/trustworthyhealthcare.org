@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"20 SOUTH PLUM STREET\",\"city\":\"VERMILLION\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "42.77912988200006",
-        "longitude": "-96.91998018899994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.9199,
+            42.779219
+        ],
+        "type": "Point"
     },
+    "location_address": "20 SOUTH PLUM STREET",
+    "location_city": "VERMILLION",
+    "location_state": "SD",
+    "location_zip": "57069",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sanfordhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6056242611"
-    },
+    "phone_number": "6056242611",
     "provider_id": "431336",
     "raw_ratings": {},
     "state": "SD",

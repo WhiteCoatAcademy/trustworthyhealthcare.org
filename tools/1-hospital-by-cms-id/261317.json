@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"94 MAIN STREET\",\"city\":\"CASSVILLE\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "36.674555945000066",
-        "longitude": "-93.87106304099996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.87227,
+            36.673903
+        ],
+        "type": "Point"
     },
+    "location_address": "94 MAIN STREET",
+    "location_city": "CASSVILLE",
+    "location_state": "MO",
+    "location_zip": "65625",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mercy.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "4178476065"
-    },
+    "phone_number": "4178476065",
     "provider_id": "261317",
     "raw_ratings": {},
     "state": "MO",

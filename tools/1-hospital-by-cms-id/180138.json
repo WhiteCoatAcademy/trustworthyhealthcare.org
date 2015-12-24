@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1025 NEW MOODY LANE\",\"city\":\"LA GRANGE\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "38.39625215600006",
-        "longitude": "-85.37393594899999",
-        "needs_recoding": false
+        "coordinates": [
+            -85.375934,
+            38.396238
+        ],
+        "type": "Point"
     },
+    "location_address": "1025 NEW MOODY LANE",
+    "location_city": "LA GRANGE",
+    "location_state": "KY",
+    "location_zip": "40031",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhsi.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5022225388"
-    },
+    "phone_number": "5022225388",
     "provider_id": "180138",
     "raw_ratings": {},
     "state": "KY",

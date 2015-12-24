@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"323 SOUTH MINNESOTA\",\"city\":\"CROOKSTON\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "47.774063338000076",
-        "longitude": "-96.61800343499999",
-        "needs_recoding": false
+        "coordinates": [
+            -96.618061,
+            47.774491
+        ],
+        "type": "Point"
     },
+    "location_address": "323 SOUTH MINNESOTA",
+    "location_city": "CROOKSTON",
+    "location_state": "MN",
+    "location_zip": "56716",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2182819200"
-    },
+    "phone_number": "2182819200",
     "provider_id": "241320",
     "raw_ratings": {},
     "state": "MN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 WEST 8TH AVENUE\",\"city\":\"YUMA\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "40.11847923000005",
-        "longitude": "-102.73621654799996",
-        "needs_recoding": false
+        "coordinates": [
+            -102.736641,
+            40.118445
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 WEST 8TH AVENUE",
+    "location_city": "YUMA",
+    "location_state": "CO",
+    "location_zip": "80759",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9708485405"
-    },
+    "phone_number": "9708485405",
     "provider_id": "061315",
     "raw_ratings": {},
     "state": "CO",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"503 N MAPLE STREET\",\"city\":\"EFFINGHAM\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "39.12584667500005",
-        "longitude": "-88.54925829599995",
-        "needs_recoding": false
+        "coordinates": [
+            -88.549252,
+            39.125791
+        ],
+        "type": "Point"
     },
+    "location_address": "503 N MAPLE STREET",
+    "location_city": "EFFINGHAM",
+    "location_state": "IL",
+    "location_zip": "62401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hshs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2173422121"
-    },
+    "phone_number": "2173422121",
     "provider_id": "140032",
     "raw_ratings": {},
     "state": "IL",

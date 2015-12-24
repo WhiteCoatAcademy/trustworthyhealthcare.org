@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2100 SE BLUE PARKWAY\",\"city\":\"LEES SUMMIT\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.90242256800008",
-        "longitude": "-94.33317278099997",
-        "needs_recoding": false
+        "coordinates": [
+            -94.323381,
+            38.902017
+        ],
+        "type": "Point"
     },
+    "location_address": "2100 SE BLUE PARKWAY",
+    "location_city": "LEES SUMMIT",
+    "location_state": "MO",
+    "location_zip": "64063",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8162825000"
-    },
+    "phone_number": "8162825000",
     "provider_id": "260190",
     "raw_ratings": {},
     "state": "MO",

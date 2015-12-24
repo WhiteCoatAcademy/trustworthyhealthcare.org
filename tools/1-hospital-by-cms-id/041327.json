@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"404 SOUTH BRADLEY STREET\",\"city\":\"WARREN\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "33.61062379200007",
-        "longitude": "-92.05871625399999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.058638,
+            33.610669
+        ],
+        "type": "Point"
     },
+    "location_address": "404 SOUTH BRADLEY STREET",
+    "location_city": "WARREN",
+    "location_state": "AR",
+    "location_zip": "71671",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8702263731"
-    },
+    "phone_number": "8702263731",
     "provider_id": "041327",
     "raw_ratings": {},
     "state": "AR",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4199 GATEWAY BLVD\",\"city\":\"NEWBURGH\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "37.975804467000046",
-        "longitude": "-87.44599714699996",
-        "needs_recoding": false
+        "coordinates": [
+            -87.445907,
+            37.974789
+        ],
+        "type": "Point"
     },
+    "location_address": "4199 GATEWAY BLVD",
+    "location_city": "NEWBURGH",
+    "location_state": "IN",
+    "location_zip": "47630",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.deaconess.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8128424200"
-    },
+    "phone_number": "8128424200",
     "provider_id": "150149",
     "raw_ratings": {},
     "state": "IN",

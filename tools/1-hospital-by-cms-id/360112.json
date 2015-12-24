@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2213 CHERRY STREET\",\"city\":\"TOLEDO\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.66835010500006",
-        "longitude": "-83.54162439799995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.541688,
+            41.668448
+        ],
+        "type": "Point"
     },
+    "location_address": "2213 CHERRY STREET",
+    "location_city": "TOLEDO",
+    "location_state": "OH",
+    "location_zip": "43608",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health-partners.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4192513232"
-    },
+    "phone_number": "4192513232",
     "provider_id": "360112",
     "raw_ratings": {},
     "state": "OH",

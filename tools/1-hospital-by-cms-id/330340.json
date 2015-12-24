@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"240 MEETING HOUSE LANE\",\"city\":\"SOUTHAMPTON\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.88582400200005",
-        "longitude": "-72.38054323099993",
-        "needs_recoding": false
+        "coordinates": [
+            -72.380281,
+            40.885931
+        ],
+        "type": "Point"
     },
+    "location_address": "240 MEETING HOUSE LANE",
+    "location_city": "SOUTHAMPTON",
+    "location_state": "NY",
+    "location_zip": "11968",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nypsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5167268200"
-    },
+    "phone_number": "5167268200",
     "provider_id": "330340",
     "raw_ratings": {},
     "state": "NY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"945 EAST ZERO ST\",\"city\":\"AINSWORTH\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "42.54490739900007",
-        "longitude": "-99.85055276999998",
-        "needs_recoding": false
+        "coordinates": [
+            -99.850791,
+            42.544919
+        ],
+        "type": "Point"
     },
+    "location_address": "945 EAST ZERO ST",
+    "location_city": "AINSWORTH",
+    "location_state": "NE",
+    "location_zip": "69210",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4023872800"
-    },
+    "phone_number": "4023872800",
     "provider_id": "281325",
     "raw_ratings": {},
     "state": "NE",

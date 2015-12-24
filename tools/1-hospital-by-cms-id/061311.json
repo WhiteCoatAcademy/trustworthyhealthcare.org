@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"373 E TENTH AVE\",\"city\":\"SPRINGFIELD\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "37.40418371700008",
-        "longitude": "-102.61245214199994",
-        "needs_recoding": false
+        "coordinates": [
+            -102.612516,
+            37.404163
+        ],
+        "type": "Point"
     },
+    "location_address": "373 E TENTH AVE",
+    "location_city": "SPRINGFIELD",
+    "location_state": "CO",
+    "location_zip": "81073",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7195234501"
-    },
+    "phone_number": "7195234501",
     "provider_id": "061311",
     "raw_ratings": {},
     "state": "CO",

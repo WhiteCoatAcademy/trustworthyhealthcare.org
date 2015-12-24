@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1401 W SEMINOLE BLVD\",\"city\":\"SANFORD\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.816198169000074",
-        "longitude": "-81.28383448699998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.283623,
+            28.816185
+        ],
+        "type": "Point"
     },
+    "location_address": "1401 W SEMINOLE BLVD",
+    "location_city": "SANFORD",
+    "location_state": "FL",
+    "location_zip": "32771",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4073214500"
-    },
+    "phone_number": "4073214500",
     "provider_id": "100161",
     "raw_ratings": {},
     "state": "FL",

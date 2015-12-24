@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1801 16TH STREET\",\"city\":\"GREELEY\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "40.41386780700003",
-        "longitude": "-104.70932019199995",
-        "needs_recoding": false
+        "coordinates": [
+            -104.708507,
+            40.413831
+        ],
+        "type": "Point"
     },
+    "location_address": "1801 16TH STREET",
+    "location_city": "GREELEY",
+    "location_state": "CO",
+    "location_zip": "80631",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bannerhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9703524121"
-    },
+    "phone_number": "9703524121",
     "provider_id": "060001",
     "raw_ratings": {},
     "state": "CO",

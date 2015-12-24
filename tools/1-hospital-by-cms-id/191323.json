@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"407 CINCINNATI STREET\",\"city\":\"DELHI\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.45315217700005",
-        "longitude": "-91.49402389199997",
-        "needs_recoding": false
+        "coordinates": [
+            -91.494064,
+            32.453224
+        ],
+        "type": "Point"
     },
+    "location_address": "407 CINCINNATI STREET",
+    "location_city": "DELHI",
+    "location_state": "LA",
+    "location_zip": "71232",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3188785171"
-    },
+    "phone_number": "3188785171",
     "provider_id": "191323",
     "raw_ratings": {},
     "state": "LA",

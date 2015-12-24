@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2801 ST ANTHONY WAY\",\"city\":\"PENDLETON\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "45.67304612500004",
-        "longitude": "-118.76929837299997",
-        "needs_recoding": false
+        "coordinates": [
+            -118.816194,
+            45.648775
+        ],
+        "type": "Point"
     },
+    "location_address": "2801 ST ANTHONY WAY",
+    "location_city": "PENDLETON",
+    "location_state": "OR",
+    "location_zip": "97801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5412765121"
-    },
+    "phone_number": "5412765121",
     "provider_id": "381319",
     "raw_ratings": {},
     "state": "OR",

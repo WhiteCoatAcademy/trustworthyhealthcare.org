@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1039 MONTGOMERY STREET\",\"city\":\"CUSTER\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "43.77193619800005",
-        "longitude": "-103.59394711599998",
-        "needs_recoding": false
+        "coordinates": [
+            -103.593355,
+            43.772139
+        ],
+        "type": "Point"
     },
+    "location_address": "1039 MONTGOMERY STREET",
+    "location_city": "CUSTER",
+    "location_state": "SD",
+    "location_zip": "57730",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.rcrh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6056739400"
-    },
+    "phone_number": "6056739400",
     "provider_id": "431323",
     "raw_ratings": {},
     "state": "SD",

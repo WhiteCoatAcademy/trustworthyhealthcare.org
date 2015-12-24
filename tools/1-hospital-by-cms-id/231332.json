@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"408 HAZEN STREET\",\"city\":\"PAW PAW\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.22103977300003",
-        "longitude": "-85.89798309599996",
-        "needs_recoding": false
+        "coordinates": [
+            -85.897994,
+            42.221651
+        ],
+        "type": "Point"
     },
+    "location_address": "408 HAZEN STREET",
+    "location_city": "PAW PAW",
+    "location_state": "MI",
+    "location_zip": "49079",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2696571400"
-    },
+    "phone_number": "2696571400",
     "provider_id": "231332",
     "raw_ratings": {},
     "state": "MI",

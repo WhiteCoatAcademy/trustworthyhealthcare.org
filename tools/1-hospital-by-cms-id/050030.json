@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2767 OLIVE HIGHWAY\",\"city\":\"OROVILLE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "39.504563897000025",
-        "longitude": "-121.54211631999999",
-        "needs_recoding": false
+        "coordinates": [
+            -121.542106,
+            39.504535
+        ],
+        "type": "Point"
     },
+    "location_address": "2767 OLIVE HIGHWAY",
+    "location_city": "OROVILLE",
+    "location_state": "CA",
+    "location_zip": "95966",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5305338500"
-    },
+    "phone_number": "5305338500",
     "provider_id": "050030",
     "raw_ratings": {},
     "state": "CA",

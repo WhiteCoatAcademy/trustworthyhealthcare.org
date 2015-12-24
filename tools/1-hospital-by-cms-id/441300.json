@@ -2,17 +2,22 @@
     "address": "135 EAST SWAN STREET",
     "city": "CENTERVILLE",
     "county_name": "HICKMAN",
-    "emergency_services": true,
+    "emergency_services": false,
     "global_rank": {},
     "hospital_name": "SAINT THOMAS HICKMAN HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"135 EAST SWAN STREET\",\"city\":\"CENTERVILLE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.78068666400003",
-        "longitude": "-87.46121239299998",
-        "needs_recoding": false
+        "coordinates": [
+            -87.460254,
+            35.779377
+        ],
+        "type": "Point"
     },
+    "location_address": "135 EAST SWAN STREET",
+    "location_city": "CENTERVILLE",
+    "location_state": "TN",
+    "location_zip": "37033",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9317294271"
-    },
+    "phone_number": "9317294271",
     "provider_id": "441300",
     "raw_ratings": {},
     "state": "TN",

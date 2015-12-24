@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"703 N FLAMINGO RD\",\"city\":\"PEMBROKE PINES\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.01402089800007",
-        "longitude": "-80.31196053099995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.31195,
+            26.012252
+        ],
+        "type": "Point"
     },
+    "location_address": "703 N FLAMINGO RD",
+    "location_city": "PEMBROKE PINES",
+    "location_state": "FL",
+    "location_zip": "33028",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mhs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "9544365000"
-    },
+    "phone_number": "9544365000",
     "provider_id": "100281",
     "raw_ratings": {},
     "state": "FL",

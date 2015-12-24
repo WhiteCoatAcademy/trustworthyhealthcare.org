@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"549 EAST FAIR STREET\",\"city\":\"BLOOMSBURG\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "41.008606851000025",
-        "longitude": "-76.45285108299998",
-        "needs_recoding": false
+        "coordinates": [
+            -76.44893,
+            41.010331
+        ],
+        "type": "Point"
     },
+    "location_address": "549 EAST FAIR STREET",
+    "location_city": "BLOOMSBURG",
+    "location_state": "PA",
+    "location_zip": "17815",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5703872100"
-    },
+    "phone_number": "5703872100",
     "provider_id": "390003",
     "raw_ratings": {},
     "state": "PA",

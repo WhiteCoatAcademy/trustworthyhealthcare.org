@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"305 NORTH MCKINNEY\",\"city\":\"SWEENY\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.04788903900004",
-        "longitude": "-95.69073997899994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.691386,
+            29.048509
+        ],
+        "type": "Point"
     },
+    "location_address": "305 NORTH MCKINNEY",
+    "location_city": "SWEENY",
+    "location_state": "TX",
+    "location_zip": "77480",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9795483311"
-    },
+    "phone_number": "9795483311",
     "provider_id": "451311",
     "raw_ratings": {},
     "state": "TX",

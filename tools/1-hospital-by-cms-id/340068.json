@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 JEFFERSON ST\",\"city\":\"WHITEVILLE\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "34.33866358700004",
-        "longitude": "-78.69379735099994",
-        "needs_recoding": false
+        "coordinates": [
+            -78.693644,
+            34.338657
+        ],
+        "type": "Point"
     },
+    "location_address": "500 JEFFERSON ST",
+    "location_city": "WHITEVILLE",
+    "location_state": "NC",
+    "location_zip": "28472",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9106428011"
-    },
+    "phone_number": "9106428011",
     "provider_id": "340068",
     "raw_ratings": {},
     "state": "NC",

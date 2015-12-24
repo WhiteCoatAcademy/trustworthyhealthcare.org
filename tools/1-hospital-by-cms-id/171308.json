@@ -4,15 +4,20 @@
     "county_name": "CHEROKEE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MERCY  HOSPITAL COLUMBUS",
+    "hospital_name": "MERCY HOSPITAL COLUMBUS",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"220 N PENNSYLVANIA AVENUE\",\"city\":\"COLUMBUS\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.17265001000004",
-        "longitude": "-94.84376560099997",
-        "needs_recoding": false
+        "coordinates": [
+            -94.843805,
+            37.172067
+        ],
+        "type": "Point"
     },
+    "location_address": "220 N PENNSYLVANIA AVENUE",
+    "location_city": "COLUMBUS",
+    "location_state": "KS",
+    "location_zip": "66725",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6204292545"
-    },
+    "phone_number": "6204292545",
     "provider_id": "171308",
     "raw_ratings": {},
     "state": "KS",

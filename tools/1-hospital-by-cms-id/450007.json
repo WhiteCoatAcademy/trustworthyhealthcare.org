@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"551 HILL COUNTRY DRIVE\",\"city\":\"KERRVILLE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.044884487000047",
-        "longitude": "-99.15177216499995",
-        "needs_recoding": false
+        "coordinates": [
+            -99.151596,
+            30.044733
+        ],
+        "type": "Point"
     },
+    "location_address": "551 HILL COUNTRY DRIVE",
+    "location_city": "KERRVILLE",
+    "location_state": "TX",
+    "location_zip": "78028",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8308964200"
-    },
+    "phone_number": "8308964200",
     "provider_id": "450007",
     "raw_ratings": {},
     "state": "TX",

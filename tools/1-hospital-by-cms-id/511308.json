@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 HOYLMAN DRIVE\",\"city\":\"GASSAWAY\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "38.65918891900003",
-        "longitude": "-80.74920986699993",
-        "needs_recoding": false
+        "coordinates": [
+            -80.749091,
+            38.661181
+        ],
+        "type": "Point"
     },
+    "location_address": "100 HOYLMAN DRIVE",
+    "location_city": "GASSAWAY",
+    "location_state": "WV",
+    "location_zip": "26624",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3043645156"
-    },
+    "phone_number": "3043645156",
     "provider_id": "511308",
     "raw_ratings": {},
     "state": "WV",

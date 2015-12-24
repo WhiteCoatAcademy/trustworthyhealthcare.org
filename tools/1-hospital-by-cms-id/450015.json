@@ -1,5 +1,5 @@
 {
-    "address": "5201 HARRY HINES BLVD",
+    "address": "5200 HARRY HINES BLVD",
     "city": "DALLAS",
     "county_name": "DALLAS",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5201 HARRY HINES BLVD\",\"city\":\"DALLAS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.81152721300003",
-        "longitude": "-96.83703914699998",
-        "needs_recoding": false
+        "coordinates": [
+            -96.836982,
+            32.811799
+        ],
+        "type": "Point"
     },
+    "location_address": "5200 HARRY HINES BLVD",
+    "location_city": "DALLAS",
+    "location_state": "TX",
+    "location_zip": "75235",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2145908000"
-    },
+    "phone_number": "2145908000",
     "provider_id": "450015",
     "raw_ratings": {},
     "state": "TX",

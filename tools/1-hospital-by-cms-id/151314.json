@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"911 N SHELBY ST\",\"city\":\"SALEM\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "38.613031086000035",
-        "longitude": "-86.10773525899998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.107803,
+            38.613321
+        ],
+        "type": "Point"
     },
+    "location_address": "911 N SHELBY ST",
+    "location_city": "SALEM",
+    "location_state": "IN",
+    "location_zip": "47167",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8128835881"
-    },
+    "phone_number": "8128835881",
     "provider_id": "151314",
     "raw_ratings": {},
     "state": "IN",

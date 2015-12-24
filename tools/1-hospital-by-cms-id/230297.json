@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4100 JOHN R\",\"city\":\"DETROIT\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.351756927000054",
-        "longitude": "-83.05807163899993",
-        "needs_recoding": false
+        "coordinates": [
+            -83.057974,
+            42.35151
+        ],
+        "type": "Point"
     },
+    "location_address": "4100 JOHN R",
+    "location_city": "DETROIT",
+    "location_state": "MI",
+    "location_zip": "48201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8005766266"
-    },
+    "phone_number": "8005766266",
     "provider_id": "230297",
     "raw_ratings": {},
     "state": "MI",

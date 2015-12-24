@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 GROTON ROAD\",\"city\":\"AYER\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.57615689700003",
-        "longitude": "-71.57319928099997",
-        "needs_recoding": false
+        "coordinates": [
+            -71.573063,
+            42.576384
+        ],
+        "type": "Point"
     },
+    "location_address": "200 GROTON ROAD",
+    "location_city": "AYER",
+    "location_state": "MA",
+    "location_zip": "01432",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.essenthealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9787849000"
-    },
+    "phone_number": "9787849000",
     "provider_id": "220098",
     "raw_ratings": {},
     "state": "MA",

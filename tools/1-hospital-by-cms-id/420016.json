@@ -1,5 +1,5 @@
 {
-    "address": "PO BOX 588  811  REYNOLDS ROAD",
+    "address": "811  REYNOLDS ROAD",
     "city": "BARNWELL",
     "county_name": "BARNWELL",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"PO BOX 588 811 REYNOLDS ROAD\",\"city\":\"BARNWELL\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "33.255272328000046",
-        "longitude": "-81.36059635799995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.360566,
+            33.255265
+        ],
+        "type": "Point"
     },
+    "location_address": "811 REYNOLDS ROAD",
+    "location_city": "BARNWELL",
+    "location_state": "SC",
+    "location_zip": "29812",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8032591000"
-    },
+    "phone_number": "8032591000",
     "provider_id": "420016",
     "raw_ratings": {},
     "state": "SC",

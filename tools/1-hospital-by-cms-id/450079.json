@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1901 N MACARTHUR BLVD\",\"city\":\"IRVING\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.834260581000024",
-        "longitude": "-96.95925361299999",
-        "needs_recoding": false
+        "coordinates": [
+            -96.959215,
+            32.834578
+        ],
+        "type": "Point"
     },
+    "location_address": "1901 N MACARTHUR BLVD",
+    "location_city": "IRVING",
+    "location_state": "TX",
+    "location_zip": "75061",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baylorhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9725798100"
-    },
+    "phone_number": "9725798100",
     "provider_id": "450079",
     "raw_ratings": {},
     "state": "TX",

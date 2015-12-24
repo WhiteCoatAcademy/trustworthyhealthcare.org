@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2620 WEST FAIDLEY AVE\",\"city\":\"GRAND ISLAND\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.924279256000034",
-        "longitude": "-98.37053020999997",
-        "needs_recoding": false
+        "coordinates": [
+            -98.371692,
+            40.92428
+        ],
+        "type": "Point"
     },
+    "location_address": "2620 WEST FAIDLEY AVE",
+    "location_city": "GRAND ISLAND",
+    "location_state": "NE",
+    "location_zip": "68803",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3083844600"
-    },
+    "phone_number": "3083844600",
     "provider_id": "280023",
     "raw_ratings": {},
     "state": "NE",

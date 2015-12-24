@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"840 NORTH OAK AVENUE\",\"city\":\"RULEVILLE\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "33.73406030800004",
-        "longitude": "-90.54679209799997",
-        "needs_recoding": false
+        "coordinates": [
+            -90.546773,
+            33.734832
+        ],
+        "type": "Point"
     },
+    "location_address": "840 NORTH OAK AVENUE",
+    "location_city": "RULEVILLE",
+    "location_state": "MS",
+    "location_zip": "38771",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6627562711"
-    },
+    "phone_number": "6627562711",
     "provider_id": "251318",
     "raw_ratings": {},
     "state": "MS",

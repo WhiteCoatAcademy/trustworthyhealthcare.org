@@ -4,15 +4,20 @@
     "county_name": "ACADIA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "AMERICAN LEGION HOSPITAL",
+    "hospital_name": "ACADIA GENERAL HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1305 CROWLEY RAYNE HIGHWAY\",\"city\":\"CROWLEY\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.230848982000055",
-        "longitude": "-92.35762737999994",
-        "needs_recoding": false
+        "coordinates": [
+            -92.362542,
+            30.226654
+        ],
+        "type": "Point"
     },
+    "location_address": "1305 CROWLEY RAYNE HIGHWAY",
+    "location_city": "CROWLEY",
+    "location_state": "LA",
+    "location_zip": "70526",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3377833222"
-    },
+    "phone_number": "3377833222",
     "provider_id": "190044",
     "raw_ratings": {},
     "state": "LA",

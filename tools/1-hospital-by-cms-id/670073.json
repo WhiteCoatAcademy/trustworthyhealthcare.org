@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"17101 DALLAS PARKWAY\",\"city\":\"ADDISON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.98511155500006",
-        "longitude": "-96.82885333699994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.828773,
+            32.986214
+        ],
+        "type": "Point"
     },
+    "location_address": "17101 DALLAS PARKWAY",
+    "location_city": "ADDISON",
+    "location_state": "TX",
+    "location_zip": "75001",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4692483900"
-    },
+    "phone_number": "4692483900",
     "provider_id": "670073",
     "raw_ratings": {},
     "state": "TX",

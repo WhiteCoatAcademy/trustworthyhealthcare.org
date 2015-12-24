@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1800 N CALIFORNIA ST\",\"city\":\"STOCKTON\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.97081027300004",
-        "longitude": "-121.28925663999996",
-        "needs_recoding": false
+        "coordinates": [
+            -121.289216,
+            37.970726
+        ],
+        "type": "Point"
     },
+    "location_address": "1800 N CALIFORNIA ST",
+    "location_city": "STOCKTON",
+    "location_state": "CA",
+    "location_zip": "95204",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2099432000"
-    },
+    "phone_number": "2099432000",
     "provider_id": "050084",
     "raw_ratings": {},
     "state": "CA",

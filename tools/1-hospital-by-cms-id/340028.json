@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1638 OWEN DRIVE P O BOX 2000\",\"city\":\"FAYETTEVILLE\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.032741172000044",
-        "longitude": "-78.93125984099999",
-        "needs_recoding": false
+        "coordinates": [
+            -78.931309,
+            35.032864
+        ],
+        "type": "Point"
     },
+    "location_address": "1638 OWEN DRIVE P O BOX 2000",
+    "location_city": "FAYETTEVILLE",
+    "location_state": "NC",
+    "location_zip": "28302",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.capefearvalley.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9106094000"
-    },
+    "phone_number": "9106094000",
     "provider_id": "340028",
     "raw_ratings": {},
     "state": "NC",

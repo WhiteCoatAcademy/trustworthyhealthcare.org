@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2351 EAST 22ND STREET\",\"city\":\"CLEVELAND\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.49602866400005",
-        "longitude": "-81.67420768199997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.673984,
+            41.496418
+        ],
+        "type": "Point"
     },
+    "location_address": "2351 EAST 22ND STREET",
+    "location_city": "CLEVELAND",
+    "location_state": "OH",
+    "location_zip": "44115",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2168616200"
-    },
+    "phone_number": "2168616200",
     "provider_id": "360037",
     "raw_ratings": {},
     "state": "OH",

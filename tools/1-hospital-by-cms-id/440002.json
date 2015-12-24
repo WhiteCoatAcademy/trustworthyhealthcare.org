@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"620 SKYLINE DRIVE\",\"city\":\"JACKSON\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.63950333500003",
-        "longitude": "-88.83205210899996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.831973,
+            35.63954
+        ],
+        "type": "Point"
     },
+    "location_address": "620 SKYLINE DRIVE",
+    "location_city": "JACKSON",
+    "location_state": "TN",
+    "location_zip": "38301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wth.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "7315415000"
-    },
+    "phone_number": "7315415000",
     "provider_id": "440002",
     "raw_ratings": {},
     "state": "TN",

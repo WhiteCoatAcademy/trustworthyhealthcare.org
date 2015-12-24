@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1 BOSTON MEDICAL CENTER PLACE\",\"city\":\"BOSTON\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.358745516000056",
-        "longitude": "-71.05787695999999",
-        "needs_recoding": false
+        "coordinates": [
+            -71.075659,
+            42.334518
+        ],
+        "type": "Point"
     },
+    "location_address": "1 BOSTON MEDICAL CENTER PLACE",
+    "location_city": "BOSTON",
+    "location_state": "MA",
+    "location_zip": "02118",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6176388000"
-    },
+    "phone_number": "6176388000",
     "provider_id": "220031",
     "raw_ratings": {},
     "state": "MA",

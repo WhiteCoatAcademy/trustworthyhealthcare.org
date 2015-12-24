@@ -2,17 +2,22 @@
     "address": "9000 FRANKLIN SQUARE DRIVE",
     "city": "BALTIMORE",
     "county_name": "BALTIMORE",
-    "emergency_services": true,
+    "emergency_services": false,
     "global_rank": {},
     "hospital_name": "MEDSTAR FRANKLIN SQUARE MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9000 FRANKLIN SQUARE DRIVE\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.290582950000044",
-        "longitude": "-76.60925984299996",
-        "needs_recoding": false
+        "coordinates": [
+            -76.478683,
+            39.350486
+        ],
+        "type": "Point"
     },
+    "location_address": "9000 FRANKLIN SQUARE DRIVE",
+    "location_city": "BALTIMORE",
+    "location_state": "MD",
+    "location_zip": "21237",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.medstarhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4437777850"
-    },
+    "phone_number": "4437777850",
     "provider_id": "210015",
     "raw_ratings": {},
     "state": "MD",

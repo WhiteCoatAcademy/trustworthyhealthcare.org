@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2555 JIMMY JOHNSON BLVD\",\"city\":\"PORT ARTHUR\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.933636548000038",
-        "longitude": "-93.98927834599999",
-        "needs_recoding": false
+        "coordinates": [
+            -93.984938,
+            29.934985
+        ],
+        "type": "Point"
     },
+    "location_address": "2555 JIMMY JOHNSON BLVD",
+    "location_city": "PORT ARTHUR",
+    "location_state": "TX",
+    "location_zip": "77640",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.iasishealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4098535900"
-    },
+    "phone_number": "4098535900",
     "provider_id": "450518",
     "raw_ratings": {},
     "state": "TX",

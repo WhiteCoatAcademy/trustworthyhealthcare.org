@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"723 MEMORIAL STREET\",\"city\":\"PROSSER\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "46.207669828000064",
-        "longitude": "-119.76358942599995",
-        "needs_recoding": false
+        "coordinates": [
+            -119.763503,
+            46.207952
+        ],
+        "type": "Point"
     },
+    "location_address": "723 MEMORIAL STREET",
+    "location_city": "PROSSER",
+    "location_state": "WA",
+    "location_zip": "99350",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5097862222"
-    },
+    "phone_number": "5097862222",
     "provider_id": "501312",
     "raw_ratings": {},
     "state": "WA",

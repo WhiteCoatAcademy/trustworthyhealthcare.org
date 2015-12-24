@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Childrens",
     "location": {
-        "human_address": "{\"address\":\"4650 SUNSET BLVD\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.09812393300007",
-        "longitude": "-118.29062668499995",
-        "needs_recoding": false
+        "coordinates": [
+            -118.290754,
+            34.098145
+        ],
+        "type": "Point"
     },
+    "location_address": "4650 SUNSET BLVD",
+    "location_city": "LOS ANGELES",
+    "location_state": "CA",
+    "location_zip": "90027",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3236692164"
-    },
+    "phone_number": "3236692164",
     "provider_id": "053302",
     "raw_ratings": {},
     "state": "CA",

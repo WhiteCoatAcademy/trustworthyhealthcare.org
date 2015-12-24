@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1300 ROANOKE AVENUE\",\"city\":\"RIVERHEAD\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.93387069700003",
-        "longitude": "-72.67451567199998",
-        "needs_recoding": false
+        "coordinates": [
+            -72.674317,
+            40.933578
+        ],
+        "type": "Point"
     },
+    "location_address": "1300 ROANOKE AVENUE",
+    "location_city": "RIVERHEAD",
+    "location_state": "NY",
+    "location_zip": "11901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6315486000"
-    },
+    "phone_number": "6315486000",
     "provider_id": "330107",
     "raw_ratings": {},
     "state": "NY",

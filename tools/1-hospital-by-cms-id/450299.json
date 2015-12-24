@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1604 ROCK PRAIRIE ROAD\",\"city\":\"COLLEGE STATION\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.582581923000077",
-        "longitude": "-96.29126007099995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.291014,
+            30.582626
+        ],
+        "type": "Point"
     },
+    "location_address": "1604 ROCK PRAIRIE ROAD",
+    "location_city": "COLLEGE STATION",
+    "location_state": "TX",
+    "location_zip": "77842",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "9797645151"
-    },
+    "phone_number": "9797645151",
     "provider_id": "450299",
     "raw_ratings": {},
     "state": "TX",

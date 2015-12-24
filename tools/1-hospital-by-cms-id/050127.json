@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1325 COTTONWOOD STREET\",\"city\":\"WOODLAND\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.66405066800007",
-        "longitude": "-121.79334421299995",
-        "needs_recoding": false
+        "coordinates": [
+            -121.793404,
+            38.664339
+        ],
+        "type": "Point"
     },
+    "location_address": "1325 COTTONWOOD STREET",
+    "location_city": "WOODLAND",
+    "location_state": "CA",
+    "location_zip": "95695",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5306623961"
-    },
+    "phone_number": "5306623961",
     "provider_id": "050127",
     "raw_ratings": {},
     "state": "CA",

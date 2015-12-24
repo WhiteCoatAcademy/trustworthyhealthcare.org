@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"101 HOSPITAL DRIVE\",\"city\":\"COLUMBUS\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.24044279200007",
-        "longitude": "-82.21258024799994",
-        "needs_recoding": false
+        "coordinates": [
+            -82.212578,
+            35.239079
+        ],
+        "type": "Point"
     },
+    "location_address": "101 HOSPITAL DRIVE",
+    "location_city": "COLUMBUS",
+    "location_state": "NC",
+    "location_zip": "28722",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8288943311"
-    },
+    "phone_number": "8288943311",
     "provider_id": "341322",
     "raw_ratings": {},
     "state": "NC",

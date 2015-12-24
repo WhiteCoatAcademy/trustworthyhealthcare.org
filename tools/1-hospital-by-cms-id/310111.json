@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"901 WEST MAIN STREET\",\"city\":\"FREEHOLD\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.236124880000034",
-        "longitude": "-74.31130663999994",
-        "needs_recoding": false
+        "coordinates": [
+            -74.312025,
+            40.23566
+        ],
+        "type": "Point"
     },
+    "location_address": "901 WEST MAIN STREET",
+    "location_city": "FREEHOLD",
+    "location_state": "NJ",
+    "location_zip": "07728",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.rwjhn.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7324312000"
-    },
+    "phone_number": "7324312000",
     "provider_id": "310111",
     "raw_ratings": {},
     "state": "NJ",

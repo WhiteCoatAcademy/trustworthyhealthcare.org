@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 S MAIN STREET\",\"city\":\"RUSSELL\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.88316512100005",
-        "longitude": "-98.85937554399999",
-        "needs_recoding": false
+        "coordinates": [
+            -98.859839,
+            38.882164
+        ],
+        "type": "Point"
     },
+    "location_address": "200 S MAIN STREET",
+    "location_city": "RUSSELL",
+    "location_state": "KS",
+    "location_zip": "67665",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7854833131"
-    },
+    "phone_number": "7854833131",
     "provider_id": "171350",
     "raw_ratings": {},
     "state": "KS",

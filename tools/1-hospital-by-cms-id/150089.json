@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2401 UNIVERSITY AVE\",\"city\":\"MUNCIE\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.19758335800003",
-        "longitude": "-85.41489009699995",
-        "needs_recoding": false
+        "coordinates": [
+            -85.414495,
+            40.197621
+        ],
+        "type": "Point"
     },
+    "location_address": "2401 UNIVERSITY AVE",
+    "location_city": "MUNCIE",
+    "location_state": "IN",
+    "location_zip": "47303",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "accesschs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7657473111"
-    },
+    "phone_number": "7657473111",
     "provider_id": "150089",
     "raw_ratings": {},
     "state": "IN",

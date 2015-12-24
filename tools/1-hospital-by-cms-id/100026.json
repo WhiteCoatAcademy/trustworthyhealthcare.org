@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"615 N BONITA AVE\",\"city\":\"PANAMA CITY\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "30.159150774000068",
-        "longitude": "-85.64709216699998",
-        "needs_recoding": false
+        "coordinates": [
+            -85.647066,
+            30.159753
+        ],
+        "type": "Point"
     },
+    "location_address": "615 N BONITA AVE",
+    "location_city": "PANAMA CITY",
+    "location_state": "FL",
+    "location_zip": "32401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8507691511"
-    },
+    "phone_number": "8507691511",
     "provider_id": "100026",
     "raw_ratings": {},
     "state": "FL",

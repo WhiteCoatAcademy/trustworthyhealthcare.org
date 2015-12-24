@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"950 WEST WOOSTER STREET\",\"city\":\"BOWLING GREEN\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.374018152000076",
-        "longitude": "-83.66517666399994",
-        "needs_recoding": false
+        "coordinates": [
+            -83.666764,
+            41.373604
+        ],
+        "type": "Point"
     },
+    "location_address": "950 WEST WOOSTER STREET",
+    "location_city": "BOWLING GREEN",
+    "location_state": "OH",
+    "location_zip": "43402",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4193548900"
-    },
+    "phone_number": "4193548900",
     "provider_id": "360029",
     "raw_ratings": {},
     "state": "OH",

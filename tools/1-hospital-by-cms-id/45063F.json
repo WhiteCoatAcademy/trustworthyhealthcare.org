@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"300 VETERANS BLVD.\",\"city\":\"BIG SPRING\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.231845607000025",
-        "longitude": "-101.47114698999997",
-        "needs_recoding": false
+        "coordinates": [
+            -101.471074,
+            32.231824
+        ],
+        "type": "Point"
     },
+    "location_address": "300 VETERANS BLVD.",
+    "location_city": "BIG SPRING",
+    "location_state": "TX",
+    "location_zip": "79720",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "4322637361"
-    },
+    "phone_number": "4322637361",
     "provider_id": "45063F",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1501 ST CHARLES ST\",\"city\":\"FORT BENTON\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "47.82075605500006",
-        "longitude": "-110.67240854399995",
-        "needs_recoding": false
+        "coordinates": [
+            -110.673058,
+            47.8202
+        ],
+        "type": "Point"
     },
+    "location_address": "1501 ST CHARLES ST",
+    "location_city": "FORT BENTON",
+    "location_state": "MT",
+    "location_zip": "59442",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4066223331"
-    },
+    "phone_number": "4066223331",
     "provider_id": "271304",
     "raw_ratings": {},
     "state": "MT",

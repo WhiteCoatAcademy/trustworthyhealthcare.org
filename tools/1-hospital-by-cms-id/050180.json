@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1601 YGNACIO VALLEY RD\",\"city\":\"WALNUT CREEK\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.91427702300007",
-        "longitude": "-122.04204119799999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.042168,
+            37.914211
+        ],
+        "type": "Point"
     },
+    "location_address": "1601 YGNACIO VALLEY RD",
+    "location_city": "WALNUT CREEK",
+    "location_state": "CA",
+    "location_zip": "94598",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.jmmdhs.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9259393000"
-    },
+    "phone_number": "9259393000",
     "provider_id": "050180",
     "raw_ratings": {},
     "state": "CA",

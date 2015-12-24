@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 QUINCY AVENUE\",\"city\":\"SCRANTON\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "41.41027351200006",
-        "longitude": "-75.65125100999995",
-        "needs_recoding": false
+        "coordinates": [
+            -75.650985,
+            41.41052
+        ],
+        "type": "Point"
     },
+    "location_address": "700 QUINCY AVENUE",
+    "location_city": "SCRANTON",
+    "location_state": "PA",
+    "location_zip": "18510",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5703402100"
-    },
+    "phone_number": "5703402100",
     "provider_id": "390119",
     "raw_ratings": {},
     "state": "PA",

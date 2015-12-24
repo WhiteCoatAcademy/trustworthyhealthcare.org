@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"222 W 39TH AVE\",\"city\":\"SAN MATEO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.530546437000055",
-        "longitude": "-122.29841007399995",
-        "needs_recoding": false
+        "coordinates": [
+            -122.298572,
+            37.530457
+        ],
+        "type": "Point"
     },
+    "location_address": "222 W 39TH AVE",
+    "location_city": "SAN MATEO",
+    "location_state": "CA",
+    "location_zip": "94403",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6505732222"
-    },
+    "phone_number": "6505732222",
     "provider_id": "050113",
     "raw_ratings": {},
     "state": "CA",

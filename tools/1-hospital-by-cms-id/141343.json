@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 NORTH ALLEN STREET\",\"city\":\"ROBINSON\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "39.01272294000006",
-        "longitude": "-87.75010367499993",
-        "needs_recoding": false
+        "coordinates": [
+            -87.749248,
+            39.013161
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 NORTH ALLEN STREET",
+    "location_city": "ROBINSON",
+    "location_state": "IL",
+    "location_zip": "62454",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6185462514"
-    },
+    "phone_number": "6185462514",
     "provider_id": "141343",
     "raw_ratings": {},
     "state": "IL",

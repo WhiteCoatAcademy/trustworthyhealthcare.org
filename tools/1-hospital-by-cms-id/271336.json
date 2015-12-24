@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 HOSPITAL WAY\",\"city\":\"WHITEFISH\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "48.38131187100004",
-        "longitude": "-114.33296004599998",
-        "needs_recoding": false
+        "coordinates": [
+            -114.332781,
+            48.381049
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 HOSPITAL WAY",
+    "location_city": "WHITEFISH",
+    "location_state": "MT",
+    "location_zip": "59937",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4068633550"
-    },
+    "phone_number": "4068633550",
     "provider_id": "271336",
     "raw_ratings": {},
     "state": "MT",

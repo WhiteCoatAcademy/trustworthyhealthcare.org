@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Childrens",
     "location": {
-        "human_address": "{\"address\":\"5808 W 110TH STREET\",\"city\":\"OVERLAND PARK\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.929317465000054",
-        "longitude": "-94.65326115299996",
-        "needs_recoding": false
+        "coordinates": [
+            -94.653263,
+            38.929326
+        ],
+        "type": "Point"
     },
+    "location_address": "5808 W 110TH STREET",
+    "location_city": "OVERLAND PARK",
+    "location_state": "KS",
+    "location_zip": "66211",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.childrens-mercy.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9132343000"
-    },
+    "phone_number": "9132343000",
     "provider_id": "173300",
     "raw_ratings": {},
     "state": "KS",

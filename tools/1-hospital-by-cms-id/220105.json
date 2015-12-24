@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"41 HIGHLAND AVENUE\",\"city\":\"WINCHESTER\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.46591842000004",
-        "longitude": "-71.12116862899995",
-        "needs_recoding": false
+        "coordinates": [
+            -71.121408,
+            42.465496
+        ],
+        "type": "Point"
     },
+    "location_address": "41 HIGHLAND AVENUE",
+    "location_city": "WINCHESTER",
+    "location_state": "MA",
+    "location_zip": "01890",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7817299000"
-    },
+    "phone_number": "7817299000",
     "provider_id": "220105",
     "raw_ratings": {},
     "state": "MA",

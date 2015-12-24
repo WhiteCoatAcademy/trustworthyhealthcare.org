@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4000 KRESGE WAY\",\"city\":\"LOUISVILLE\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "38.23826364100006",
-        "longitude": "-85.64116876599996",
-        "needs_recoding": false
+        "coordinates": [
+            -85.639254,
+            38.239207
+        ],
+        "type": "Point"
     },
+    "location_address": "4000 KRESGE WAY",
+    "location_city": "LOUISVILLE",
+    "location_state": "KY",
+    "location_zip": "40207",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhsi.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5028978100"
-    },
+    "phone_number": "5028978100",
     "provider_id": "180130",
     "raw_ratings": {},
     "state": "KY",

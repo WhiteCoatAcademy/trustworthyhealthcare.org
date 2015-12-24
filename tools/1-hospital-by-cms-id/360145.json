@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"630 EAST RIVER STREET\",\"city\":\"ELYRIA\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.36685095900003",
-        "longitude": "-82.09781528399998",
-        "needs_recoding": false
+        "coordinates": [
+            -82.097755,
+            41.36698
+        ],
+        "type": "Point"
     },
+    "location_address": "630 EAST RIVER STREET",
+    "location_city": "ELYRIA",
+    "location_state": "OH",
+    "location_zip": "44035",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.emh-healthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4403297500"
-    },
+    "phone_number": "4403297500",
     "provider_id": "360145",
     "raw_ratings": {},
     "state": "OH",

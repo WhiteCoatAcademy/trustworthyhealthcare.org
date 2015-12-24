@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "NASSAU UNIVERSITY MEDICAL CENTER",
-    "hospital_ownership": "Government - State",
+    "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2201 HEMPSTEAD TURNPIKE\",\"city\":\"EAST MEADOW\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.72533917800007",
-        "longitude": "-73.55429809299994",
-        "needs_recoding": false
+        "coordinates": [
+            -73.554413,
+            40.725298
+        ],
+        "type": "Point"
     },
+    "location_address": "2201 HEMPSTEAD TURNPIKE",
+    "location_city": "EAST MEADOW",
+    "location_state": "NY",
+    "location_zip": "11554",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5165720123"
-    },
+    "phone_number": "5165720123",
     "provider_id": "330027",
     "raw_ratings": {},
     "state": "NY",

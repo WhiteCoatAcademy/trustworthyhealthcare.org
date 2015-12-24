@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1120 N MELVIN STREET\",\"city\":\"GIBSON CITY\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "40.477800355000056",
-        "longitude": "-88.37067259699995",
-        "needs_recoding": false
+        "coordinates": [
+            -88.370724,
+            40.477899
+        ],
+        "type": "Point"
     },
+    "location_address": "1120 N MELVIN STREET",
+    "location_city": "GIBSON CITY",
+    "location_state": "IL",
+    "location_zip": "60936",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2177844251"
-    },
+    "phone_number": "2177844251",
     "provider_id": "141317",
     "raw_ratings": {},
     "state": "IL",

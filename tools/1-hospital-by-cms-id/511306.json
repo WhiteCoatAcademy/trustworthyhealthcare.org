@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 HOSPITAL DRIVE\",\"city\":\"SPENCER\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "38.815986449000036",
-        "longitude": "-81.36784816099998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.367867,
+            38.811881
+        ],
+        "type": "Point"
     },
+    "location_address": "200 HOSPITAL DRIVE",
+    "location_city": "SPENCER",
+    "location_state": "WV",
+    "location_zip": "25276",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3049274444"
-    },
+    "phone_number": "3049274444",
     "provider_id": "511306",
     "raw_ratings": {},
     "state": "WV",

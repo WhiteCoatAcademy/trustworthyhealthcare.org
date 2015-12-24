@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3990 JOHN R STREET\",\"city\":\"DETROIT\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.35006768200003",
-        "longitude": "-83.05697236199995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.05754,
+            42.350837
+        ],
+        "type": "Point"
     },
+    "location_address": "3990 JOHN R STREET",
+    "location_city": "DETROIT",
+    "location_state": "MI",
+    "location_zip": "48201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.dmc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3137456211"
-    },
+    "phone_number": "3137456211",
     "provider_id": "230104",
     "raw_ratings": {},
     "state": "MI",

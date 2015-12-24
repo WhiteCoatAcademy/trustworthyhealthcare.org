@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1201 SOUTH MILLER STREET\",\"city\":\"WENATCHEE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.40769067900004",
-        "longitude": "-120.32451906099999",
-        "needs_recoding": false
+        "coordinates": [
+            -120.324593,
+            47.407963
+        ],
+        "type": "Point"
     },
+    "location_address": "1201 SOUTH MILLER STREET",
+    "location_city": "WENATCHEE",
+    "location_state": "WA",
+    "location_zip": "98807",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5096621511"
-    },
+    "phone_number": "5096621511",
     "provider_id": "500016",
     "raw_ratings": {},
     "state": "WA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"232 WEST 25TH STREET\",\"city\":\"ERIE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "42.11076422100007",
-        "longitude": "-80.07984295299997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.080377,
+            42.110622
+        ],
+        "type": "Point"
     },
+    "location_address": "232 WEST 25TH STREET",
+    "location_city": "ERIE",
+    "location_state": "PA",
+    "location_zip": "16544",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8144525000"
-    },
+    "phone_number": "8144525000",
     "provider_id": "390009",
     "raw_ratings": {},
     "state": "PA",

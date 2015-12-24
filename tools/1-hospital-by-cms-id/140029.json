@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2000 OGDEN AVENUE\",\"city\":\"AURORA\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.727645375000066",
-        "longitude": "-88.26861741299996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.270542,
+            41.726285
+        ],
+        "type": "Point"
     },
+    "location_address": "2000 OGDEN AVENUE",
+    "location_city": "AURORA",
+    "location_state": "IL",
+    "location_zip": "60504",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.rush.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "6309786200"
-    },
+    "phone_number": "6309786200",
     "provider_id": "140029",
     "raw_ratings": {},
     "state": "IL",

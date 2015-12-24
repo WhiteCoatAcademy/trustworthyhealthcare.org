@@ -4,15 +4,20 @@
     "county_name": "PAWNEE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "PAWNEE  VALLEY COMMUNITY HOSPITAL",
+    "hospital_name": "PAWNEE VALLEY COMMUNITY HOSPITAL",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"923 CARROLL AVENUE\",\"city\":\"LARNED\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.18374849600008",
-        "longitude": "-99.10663563299994",
-        "needs_recoding": false
+        "coordinates": [
+            -99.1066,
+            38.184717
+        ],
+        "type": "Point"
     },
+    "location_address": "923 CARROLL AVENUE",
+    "location_city": "LARNED",
+    "location_state": "KS",
+    "location_zip": "67550",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6202853162"
-    },
+    "phone_number": "6202853162",
     "provider_id": "171345",
     "raw_ratings": {},
     "state": "KS",

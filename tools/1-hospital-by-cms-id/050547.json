@@ -1,5 +1,5 @@
 {
-    "address": "P O BOX 1493",
+    "address": "15000 ARNOLD DRIVE   /  P O BOX 1493",
     "city": "ELDRIDGE",
     "county_name": "SONOMA",
     "emergency_services": false,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"P O BOX 1493\",\"city\":\"ELDRIDGE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.34245235800006",
-        "longitude": "-122.51382579799997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.517417,
+            38.349446
+        ],
+        "type": "Point"
     },
+    "location_address": "15000 ARNOLD DRIVE / P O BOX 1493",
+    "location_city": "ELDRIDGE",
+    "location_state": "CA",
+    "location_zip": "95431",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chhs.ca.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "7079386393"
-    },
+    "phone_number": "7079386000",
     "provider_id": "050547",
     "raw_ratings": {},
     "state": "CA",

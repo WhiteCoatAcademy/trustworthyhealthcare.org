@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3500 GASTON AVE\",\"city\":\"DALLAS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.79078414300005",
-        "longitude": "-96.78053905199994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.780663,
+            32.790685
+        ],
+        "type": "Point"
     },
+    "location_address": "3500 GASTON AVE",
+    "location_city": "DALLAS",
+    "location_state": "TX",
+    "location_zip": "75246",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baylorhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2148200111"
-    },
+    "phone_number": "2148200111",
     "provider_id": "450021",
     "raw_ratings": {},
     "state": "TX",

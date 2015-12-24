@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2200 OSPREY BLVD\",\"city\":\"BARTOW\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.917714903000046",
-        "longitude": "-81.84359426099996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.846689,
+            27.918979
+        ],
+        "type": "Point"
     },
+    "location_address": "2200 OSPREY BLVD",
+    "location_city": "BARTOW",
+    "location_state": "FL",
+    "location_zip": "33831",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8635338111"
-    },
+    "phone_number": "8635338111",
     "provider_id": "100121",
     "raw_ratings": {},
     "state": "FL",

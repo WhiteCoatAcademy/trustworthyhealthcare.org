@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"515 5TH AVE WEST\",\"city\":\"GRAND MARAIS\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "47.75591101500004",
-        "longitude": "-90.34017655899999",
-        "needs_recoding": false
+        "coordinates": [
+            -90.340179,
+            47.756744
+        ],
+        "type": "Point"
     },
+    "location_address": "515 5TH AVE WEST",
+    "location_city": "GRAND MARAIS",
+    "location_state": "MN",
+    "location_zip": "55604",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2183873040"
-    },
+    "phone_number": "2183873040",
     "provider_id": "241317",
     "raw_ratings": {},
     "state": "MN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 10TH STREET SE\",\"city\":\"CEDAR RAPIDS\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.97958833700005",
-        "longitude": "-91.65552280899999",
-        "needs_recoding": false
+        "coordinates": [
+            -91.654674,
+            41.978785
+        ],
+        "type": "Point"
     },
+    "location_address": "701 10TH STREET SE",
+    "location_city": "CEDAR RAPIDS",
+    "location_state": "IA",
+    "location_zip": "52403",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3193986011"
-    },
+    "phone_number": "3193986011",
     "provider_id": "160079",
     "raw_ratings": {},
     "state": "IA",

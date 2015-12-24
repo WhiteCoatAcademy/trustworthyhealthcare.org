@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"15200 COMMUNITY ROAD\",\"city\":\"GULFPORT\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "30.44205785300005",
-        "longitude": "-89.09373069999998",
-        "needs_recoding": false
+        "coordinates": [
+            -89.092773,
+            30.44201
+        ],
+        "type": "Point"
     },
+    "location_address": "15200 COMMUNITY ROAD",
+    "location_city": "GULFPORT",
+    "location_state": "MS",
+    "location_zip": "39503",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2285757000"
-    },
+    "phone_number": "2285757000",
     "provider_id": "250123",
     "raw_ratings": {},
     "state": "MS",

@@ -4,15 +4,20 @@
     "county_name": "PIMA",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "UNIVERSITY OF ARIZONA MEDICAL CTR- SOUTH CAM, THE",
+    "hospital_name": "BANNER-UNIVERSITY MEDICAL CENTER SOUTH CAMPUS",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2800 EAST AJO WAY\",\"city\":\"TUCSON\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "32.17784658700003",
-        "longitude": "-110.93074518099996",
-        "needs_recoding": false
+        "coordinates": [
+            -110.930891,
+            32.177882
+        ],
+        "type": "Point"
     },
+    "location_address": "2800 EAST AJO WAY",
+    "location_city": "TUCSON",
+    "location_state": "AZ",
+    "location_zip": "85713",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5202944471"
-    },
+    "phone_number": "5202944471",
     "provider_id": "030111",
     "raw_ratings": {},
     "state": "AZ",

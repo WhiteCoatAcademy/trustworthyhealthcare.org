@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2100 BAPTISTE DRIVE\",\"city\":\"PAOLA\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.56839514500007",
-        "longitude": "-94.85061591699997",
-        "needs_recoding": false
+        "coordinates": [
+            -94.85047,
+            38.568355
+        ],
+        "type": "Point"
     },
+    "location_address": "2100 BAPTISTE DRIVE",
+    "location_city": "PAOLA",
+    "location_state": "KS",
+    "location_zip": "66071",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.omci.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9135574385"
-    },
+    "phone_number": "9135574385",
     "provider_id": "170109",
     "raw_ratings": {},
     "state": "KS",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6411 FANNIN\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.71472607100003",
-        "longitude": "-95.39682140899998",
-        "needs_recoding": false
+        "coordinates": [
+            -95.397547,
+            29.713791
+        ],
+        "type": "Point"
     },
+    "location_address": "6411 FANNIN",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77030",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.memorialhermann.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7137043700"
-    },
+    "phone_number": "7137043700",
     "provider_id": "450068",
     "raw_ratings": {},
     "state": "TX",

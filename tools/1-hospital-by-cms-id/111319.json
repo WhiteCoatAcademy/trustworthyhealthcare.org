@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1050 MCDONOUGH ROAD\",\"city\":\"JACKSON\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.30382374000004",
-        "longitude": "-83.97891380199997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.979153,
+            33.303932
+        ],
+        "type": "Point"
     },
+    "location_address": "1050 MCDONOUGH ROAD",
+    "location_city": "JACKSON",
+    "location_state": "GA",
+    "location_zip": "30233",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7707757861"
-    },
+    "phone_number": "7707757861",
     "provider_id": "111319",
     "raw_ratings": {},
     "state": "GA",

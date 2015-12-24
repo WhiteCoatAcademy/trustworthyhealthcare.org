@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 LINCOLN ST\",\"city\":\"FORT MORGAN\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "40.259449507000056",
-        "longitude": "-103.79614690899996",
-        "needs_recoding": false
+        "coordinates": [
+            -103.796215,
+            40.260397
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 LINCOLN ST",
+    "location_city": "FORT MORGAN",
+    "location_state": "CO",
+    "location_zip": "80701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9708673391"
-    },
+    "phone_number": "9708673391",
     "provider_id": "060044",
     "raw_ratings": {},
     "state": "CO",

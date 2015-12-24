@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6655 ALVARADO ROAD\",\"city\":\"SAN DIEGO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "32.777044027000045",
-        "longitude": "-117.05637474299999",
-        "needs_recoding": false
+        "coordinates": [
+            -117.057301,
+            32.777253
+        ],
+        "type": "Point"
     },
+    "location_address": "6655 ALVARADO ROAD",
+    "location_city": "SAN DIEGO",
+    "location_state": "CA",
+    "location_zip": "92120",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6192293172"
-    },
+    "phone_number": "6192293172",
     "provider_id": "050757",
     "raw_ratings": {},
     "state": "CA",

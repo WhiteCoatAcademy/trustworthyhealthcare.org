@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3015 N BALLAS RD\",\"city\":\"TOWN AND COUNTRY\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.635050697000054",
-        "longitude": "-90.44362092899996",
-        "needs_recoding": false
+        "coordinates": [
+            -90.443637,
+            38.636176
+        ],
+        "type": "Point"
     },
+    "location_address": "3015 N BALLAS RD",
+    "location_city": "TOWN AND COUNTRY",
+    "location_state": "MO",
+    "location_zip": "63131",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bjc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3149965000"
-    },
+    "phone_number": "3149965000",
     "provider_id": "260108",
     "raw_ratings": {},
     "state": "MO",

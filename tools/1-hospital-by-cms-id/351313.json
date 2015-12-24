@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"14 6TH AVE SW\",\"city\":\"BOWMAN\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "46.18189904600007",
-        "longitude": "-103.40378028699996",
-        "needs_recoding": false
+        "coordinates": [
+            -103.403794,
+            46.182059
+        ],
+        "type": "Point"
     },
+    "location_address": "14 6TH AVE SW",
+    "location_city": "BOWMAN",
+    "location_state": "ND",
+    "location_zip": "58623",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7015235265"
-    },
+    "phone_number": "7015235265",
     "provider_id": "351313",
     "raw_ratings": {},
     "state": "ND",

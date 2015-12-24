@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"601 W SECOND ST\",\"city\":\"BLOOMINGTON\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.16137319500007",
-        "longitude": "-86.54004028499998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.540106,
+            39.161398
+        ],
+        "type": "Point"
     },
+    "location_address": "601 W SECOND ST",
+    "location_city": "BLOOMINGTON",
+    "location_state": "IN",
+    "location_zip": "47403",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8123539555"
-    },
+    "phone_number": "8123539555",
     "provider_id": "150051",
     "raw_ratings": {},
     "state": "IN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1501 W CHISHOLM ST\",\"city\":\"ALPENA\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "45.07627312100004",
-        "longitude": "-83.45000992799999",
-        "needs_recoding": false
+        "coordinates": [
+            -83.450608,
+            45.076789
+        ],
+        "type": "Point"
     },
+    "location_address": "1501 W CHISHOLM ST",
+    "location_city": "ALPENA",
+    "location_state": "MI",
+    "location_zip": "49707",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9893567390"
-    },
+    "phone_number": "9893567390",
     "provider_id": "230036",
     "raw_ratings": {},
     "state": "MI",

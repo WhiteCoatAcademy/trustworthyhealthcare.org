@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1095 HIGHWAY 15 SOUTH\",\"city\":\"HUTCHINSON\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.875668923000035",
-        "longitude": "-94.37550131699999",
-        "needs_recoding": false
+        "coordinates": [
+            -94.375533,
+            44.875105
+        ],
+        "type": "Point"
     },
+    "location_address": "1095 HIGHWAY 15 SOUTH",
+    "location_city": "HUTCHINSON",
+    "location_state": "MN",
+    "location_zip": "55350",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3202345000"
-    },
+    "phone_number": "3202345000",
     "provider_id": "240187",
     "raw_ratings": {},
     "state": "MN",

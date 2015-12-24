@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6 NORTH COVINGTON\",\"city\":\"COALGATE\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "34.538971006000054",
-        "longitude": "-96.22430283799997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.224356,
+            34.538865
+        ],
+        "type": "Point"
     },
+    "location_address": "6 NORTH COVINGTON",
+    "location_city": "COALGATE",
+    "location_state": "OK",
+    "location_zip": "74538",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5809272327"
-    },
+    "phone_number": "5809272327",
     "provider_id": "371319",
     "raw_ratings": {},
     "state": "OK",

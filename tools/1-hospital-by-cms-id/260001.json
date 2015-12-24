@@ -1,5 +1,5 @@
 {
-    "address": "2817 ST JOHNS BLVD",
+    "address": "100 MERCY WAY",
     "city": "JOPLIN",
     "county_name": "JASPER",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2817 ST JOHNS BLVD\",\"city\":\"JOPLIN\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "37.05863068200006",
-        "longitude": "-94.52768341199999",
-        "needs_recoding": false
+        "coordinates": [
+            -94.511799,
+            37.034697
+        ],
+        "type": "Point"
     },
+    "location_address": "100 MERCY WAY",
+    "location_city": "JOPLIN",
+    "location_state": "MO",
+    "location_zip": "64804",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4177812727"
-    },
+    "phone_number": "4177812727",
     "provider_id": "260001",
     "raw_ratings": {},
     "state": "MO",

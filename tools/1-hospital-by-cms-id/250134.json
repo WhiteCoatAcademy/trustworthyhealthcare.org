@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3550 HWY 468 W, BLDG 60\",\"city\":\"WHITFIELD\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "31.466303809000067",
-        "longitude": "-89.08770887799994",
-        "needs_recoding": false
+        "coordinates": [
+            -90.073325,
+            32.237919
+        ],
+        "type": "Point"
     },
+    "location_address": "3550 HWY 468 W, BLDG 60",
+    "location_city": "WHITFIELD",
+    "location_state": "MS",
+    "location_zip": "39193",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.dmh.state.ms.us"
         ]
     },
-    "phone_number": {
-        "phone_number": "6013518023"
-    },
+    "phone_number": "6013518023",
     "provider_id": "250134",
     "raw_ratings": {},
     "state": "MS",

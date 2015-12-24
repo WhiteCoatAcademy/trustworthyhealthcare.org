@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"237 SOUTH LOCUST STREET\",\"city\":\"NOWATA\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.69685891700004",
-        "longitude": "-95.63045209299997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.630468,
+            36.697239
+        ],
+        "type": "Point"
     },
+    "location_address": "237 SOUTH LOCUST STREET",
+    "location_city": "NOWATA",
+    "location_state": "OK",
+    "location_zip": "74048",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.marianhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9182733102"
-    },
+    "phone_number": "9182733102",
     "provider_id": "371305",
     "raw_ratings": {},
     "state": "OK",

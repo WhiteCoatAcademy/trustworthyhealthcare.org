@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"424 W NEW HAMPSHIRE STREET\",\"city\":\"OSBORNE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.43672038300008",
-        "longitude": "-98.70163999299996",
-        "needs_recoding": false
+        "coordinates": [
+            -98.700889,
+            39.436681
+        ],
+        "type": "Point"
     },
+    "location_address": "424 W NEW HAMPSHIRE STREET",
+    "location_city": "OSBORNE",
+    "location_state": "KS",
+    "location_zip": "67473",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7853462121"
-    },
+    "phone_number": "7853462121",
     "provider_id": "171364",
     "raw_ratings": {},
     "state": "KS",

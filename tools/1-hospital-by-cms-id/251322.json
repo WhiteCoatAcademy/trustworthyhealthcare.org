@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"25117 HIGHWAY 15\",\"city\":\"UNION\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.57565837200008",
-        "longitude": "-89.10444600499994",
-        "needs_recoding": false
+        "coordinates": [
+            -89.102561,
+            32.559207
+        ],
+        "type": "Point"
     },
+    "location_address": "25117 HIGHWAY 15",
+    "location_city": "UNION",
+    "location_state": "MS",
+    "location_zip": "39365",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.rushhealthsystems.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6017748214"
-    },
+    "phone_number": "6017748214",
     "provider_id": "251322",
     "raw_ratings": {},
     "state": "MS",

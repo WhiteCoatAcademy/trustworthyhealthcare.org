@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 W MOHAWK DR SUITE 100\",\"city\":\"TOMAHAWK\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "45.48894971100003",
-        "longitude": "-89.73323583299998",
-        "needs_recoding": false
+        "coordinates": [
+            -89.734526,
+            45.489085
+        ],
+        "type": "Point"
     },
+    "location_address": "401 W MOHAWK DR SUITE 100",
+    "location_city": "TOMAHAWK",
+    "location_state": "WI",
+    "location_zip": "54487",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.marianhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7154537700"
-    },
+    "phone_number": "7154537700",
     "provider_id": "521313",
     "raw_ratings": {},
     "state": "WI",

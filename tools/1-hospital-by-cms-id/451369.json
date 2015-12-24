@@ -5,7 +5,7 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "GOLDEN PLAINS COMMUNITY HOSPITAL",
-    "hospital_ownership": "Government - Federal",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
         "human_address": "{\"address\":\"100 MEDICAL DRIVE\",\"city\":\"BORGER\",\"state\":\"TX\",\"zip\":\"\"}",
@@ -13,6 +13,10 @@
         "longitude": "-101.40796953899996",
         "needs_recoding": false
     },
+    "location_address": "100 MEDICAL DRIVE",
+    "location_city": "BORGER",
+    "location_state": "TX",
+    "location_zip": "79007",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +30,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8062731100"
-    },
+    "phone_number": "8062731100",
     "provider_id": "451369",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6900 N DURANGO DR\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "36.28602151700005",
-        "longitude": "-115.28780071199998",
-        "needs_recoding": false
+        "coordinates": [
+            -115.28773,
+            36.286014
+        ],
+        "type": "Point"
     },
+    "location_address": "6900 N DURANGO DR",
+    "location_city": "LAS VEGAS",
+    "location_state": "NV",
+    "location_zip": "89149",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7028359700"
-    },
+    "phone_number": "7028359700",
     "provider_id": "290054",
     "raw_ratings": {},
     "state": "NV",

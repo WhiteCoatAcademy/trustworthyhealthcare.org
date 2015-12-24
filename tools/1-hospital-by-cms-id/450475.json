@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 WILSON STREET\",\"city\":\"HENDERSON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.16161194100005",
-        "longitude": "-94.79632731399994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.796035,
+            32.161647
+        ],
+        "type": "Point"
     },
+    "location_address": "300 WILSON STREET",
+    "location_city": "HENDERSON",
+    "location_state": "TX",
+    "location_zip": "75652",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9036577541"
-    },
+    "phone_number": "9036577541",
     "provider_id": "450475",
     "raw_ratings": {},
     "state": "TX",

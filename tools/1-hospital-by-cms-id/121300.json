@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4643 WAIMEA CANYON DRIVE\",\"city\":\"WAIMEA\",\"state\":\"HI\",\"zip\":\"\"}",
-        "latitude": "21.95968967700003",
-        "longitude": "-159.67048025599996",
-        "needs_recoding": false
+        "coordinates": [
+            -159.670046,
+            21.960088
+        ],
+        "type": "Point"
     },
+    "location_address": "4643 WAIMEA CANYON DRIVE",
+    "location_city": "WAIMEA",
+    "location_state": "HI",
+    "location_zip": "96796",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hhsc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8083389248"
-    },
+    "phone_number": "8083389431",
     "provider_id": "121300",
     "raw_ratings": {},
     "state": "HI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"630 EATON AVENUE\",\"city\":\"HAMILTON\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.415281950000065",
-        "longitude": "-84.57384766599995",
-        "needs_recoding": false
+        "coordinates": [
+            -84.573825,
+            39.415162
+        ],
+        "type": "Point"
     },
+    "location_address": "630 EATON AVENUE",
+    "location_city": "HAMILTON",
+    "location_state": "OH",
+    "location_zip": "45013",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health-alliance.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5138672000"
-    },
+    "phone_number": "5138672000",
     "provider_id": "360132",
     "raw_ratings": {},
     "state": "OH",

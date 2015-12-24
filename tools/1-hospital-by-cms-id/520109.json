@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1050 DIVISION ST\",\"city\":\"MAUSTON\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.782909378000056",
-        "longitude": "-90.07677227599999",
-        "needs_recoding": false
+        "coordinates": [
+            -90.076778,
+            43.782614
+        ],
+        "type": "Point"
     },
+    "location_address": "1050 DIVISION ST",
+    "location_city": "MAUSTON",
+    "location_state": "WI",
+    "location_zip": "53948",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6088476161"
-    },
+    "phone_number": "6088476161",
     "provider_id": "520109",
     "raw_ratings": {},
     "state": "WI",

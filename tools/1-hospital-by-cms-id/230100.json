@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 HEMLOCK\",\"city\":\"TAWAS CITY\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "44.27495561100005",
-        "longitude": "-83.51094962599996",
-        "needs_recoding": false
+        "coordinates": [
+            -83.51072,
+            44.274806
+        ],
+        "type": "Point"
     },
+    "location_address": "200 HEMLOCK",
+    "location_city": "TAWAS CITY",
+    "location_state": "MI",
+    "location_zip": "48764",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9893629301"
-    },
+    "phone_number": "9893629301",
     "provider_id": "230100",
     "raw_ratings": {},
     "state": "MI",

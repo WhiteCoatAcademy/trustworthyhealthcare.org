@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"1201 N W 16TH STREET\",\"city\":\"MIAMI\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.79043789600007",
-        "longitude": "-80.21617134399997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.215155,
+            25.790419
+        ],
+        "type": "Point"
     },
+    "location_address": "1201 N W 16TH STREET",
+    "location_city": "MIAMI",
+    "location_state": "FL",
+    "location_zip": "33125",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "3053244455"
-    },
+    "phone_number": "3053244455",
     "provider_id": "10064F",
     "raw_ratings": {},
     "state": "FL",

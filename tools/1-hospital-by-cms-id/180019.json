@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"989 MEDICAL PARK DRIVE\",\"city\":\"MAYSVILLE\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "38.64159154300006",
-        "longitude": "-83.80763441699997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.807877,
+            38.639654
+        ],
+        "type": "Point"
     },
+    "location_address": "989 MEDICAL PARK DRIVE",
+    "location_city": "MAYSVILLE",
+    "location_state": "KY",
+    "location_zip": "41056",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6067595311"
-    },
+    "phone_number": "6067595311",
     "provider_id": "180019",
     "raw_ratings": {},
     "state": "KY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"901 E VIRGIL AVE\",\"city\":\"MILBANK\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "45.22187465300004",
-        "longitude": "-96.62621591299995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.626294,
+            45.22187
+        ],
+        "type": "Point"
     },
+    "location_address": "901 E VIRGIL AVE",
+    "location_city": "MILBANK",
+    "location_state": "SD",
+    "location_zip": "57252",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6054324538"
-    },
+    "phone_number": "6054324538",
     "provider_id": "431326",
     "raw_ratings": {},
     "state": "SD",

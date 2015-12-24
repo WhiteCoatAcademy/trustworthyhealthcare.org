@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"207 OLD LEXINGTON RD BOX 789\",\"city\":\"THOMASVILLE\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.881653054000026",
-        "longitude": "-80.11017524399995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.11138,
+            35.882029
+        ],
+        "type": "Point"
     },
+    "location_address": "207 OLD LEXINGTON RD BOX 789",
+    "location_city": "THOMASVILLE",
+    "location_state": "NC",
+    "location_zip": "27360",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.novanthealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3364722000"
-    },
+    "phone_number": "3364722000",
     "provider_id": "340085",
     "raw_ratings": {},
     "state": "NC",

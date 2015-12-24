@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1153 CENTRE STREET\",\"city\":\"BOSTON\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.300231720000056",
-        "longitude": "-71.12784034899994",
-        "needs_recoding": false
+        "coordinates": [
+            -71.127428,
+            42.300641
+        ],
+        "type": "Point"
     },
+    "location_address": "1153 CENTRE STREET",
+    "location_city": "BOSTON",
+    "location_state": "MA",
+    "location_zip": "02130",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.partners.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6179837000"
-    },
+    "phone_number": "6179837000",
     "provider_id": "220119",
     "raw_ratings": {},
     "state": "MA",

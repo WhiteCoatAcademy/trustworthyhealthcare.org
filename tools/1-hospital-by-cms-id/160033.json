@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1227 EAST RUSHOLME STREET\",\"city\":\"DAVENPORT\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.54281361100004",
-        "longitude": "-90.55719082799999",
-        "needs_recoding": false
+        "coordinates": [
+            -90.556408,
+            41.542832
+        ],
+        "type": "Point"
     },
+    "location_address": "1227 EAST RUSHOLME STREET",
+    "location_city": "DAVENPORT",
+    "location_state": "IA",
+    "location_zip": "52803",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.genesishealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5634211000"
-    },
+    "phone_number": "5634211000",
     "provider_id": "160033",
     "raw_ratings": {},
     "state": "IA",

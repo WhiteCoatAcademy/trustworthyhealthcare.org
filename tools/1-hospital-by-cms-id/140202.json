@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 S MILWAUKEE AVE\",\"city\":\"LIBERTYVILLE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "42.29145225800005",
-        "longitude": "-87.95509651099997",
-        "needs_recoding": false
+        "coordinates": [
+            -87.951664,
+            42.274602
+        ],
+        "type": "Point"
     },
+    "location_address": "801 S MILWAUKEE AVE",
+    "location_city": "LIBERTYVILLE",
+    "location_state": "IL",
+    "location_zip": "60048",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8479905200"
-    },
+    "phone_number": "8479905200",
     "provider_id": "140202",
     "raw_ratings": {},
     "state": "IL",

@@ -4,15 +4,20 @@
     "county_name": "HALIFAX",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "HALIFAX REGIONAL HOSPITAL",
+    "hospital_name": "SENTARA HALIFAX REGIONAL HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2204 WILBORN AVENUE\",\"city\":\"HALIFAX\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "36.76568015600003",
-        "longitude": "-78.92872922999999",
-        "needs_recoding": false
+        "coordinates": [
+            -78.913302,
+            36.713695
+        ],
+        "type": "Point"
     },
+    "location_address": "2204 WILBORN AVENUE",
+    "location_city": "HALIFAX",
+    "location_state": "VA",
+    "location_zip": "24558",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4345173100"
-    },
+    "phone_number": "4345173100",
     "provider_id": "490013",
     "raw_ratings": {},
     "state": "VA",

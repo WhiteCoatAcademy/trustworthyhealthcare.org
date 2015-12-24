@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"450 WEST HIGHWAY 22\",\"city\":\"BARRINGTON\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "42.19291902900005",
-        "longitude": "-88.17158636199997",
-        "needs_recoding": false
+        "coordinates": [
+            -88.177959,
+            42.193415
+        ],
+        "type": "Point"
     },
+    "location_address": "450 WEST HIGHWAY 22",
+    "location_city": "BARRINGTON",
+    "location_state": "IL",
+    "location_zip": "60010",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.advocatehealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8473819600"
-    },
+    "phone_number": "8473819600",
     "provider_id": "140291",
     "raw_ratings": {},
     "state": "IL",

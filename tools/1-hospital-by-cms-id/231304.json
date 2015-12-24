@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"502 W HARRIE ST\",\"city\":\"NEWBERRY\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "46.35274386700007",
-        "longitude": "-85.51721842599994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.515686,
+            46.352761
+        ],
+        "type": "Point"
     },
+    "location_address": "502 W HARRIE ST",
+    "location_city": "NEWBERRY",
+    "location_state": "MI",
+    "location_zip": "49868",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9062939200"
-    },
+    "phone_number": "9062939200",
     "provider_id": "231304",
     "raw_ratings": {},
     "state": "MI",

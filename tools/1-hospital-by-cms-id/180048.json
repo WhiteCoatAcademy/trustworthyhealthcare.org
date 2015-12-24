@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "EPHRAIM MCDOWELL REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"217 SOUTH THIRD STREET\",\"city\":\"DANVILLE\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.644454221000046",
-        "longitude": "-84.77262652599995",
-        "needs_recoding": false
+        "coordinates": [
+            -84.77264,
+            37.643795
+        ],
+        "type": "Point"
     },
+    "location_address": "217 SOUTH THIRD STREET",
+    "location_city": "DANVILLE",
+    "location_state": "KY",
+    "location_zip": "40422",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.emhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8592392409"
-    },
+    "phone_number": "8592392409",
     "provider_id": "180048",
     "raw_ratings": {},
     "state": "KY",

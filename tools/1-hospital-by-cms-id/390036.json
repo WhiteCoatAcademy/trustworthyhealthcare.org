@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 DUTCH RIDGE ROAD\",\"city\":\"BEAVER\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.71035567900003",
-        "longitude": "-80.32434756099997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.324352,
+            40.710345
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 DUTCH RIDGE ROAD",
+    "location_city": "BEAVER",
+    "location_state": "PA",
+    "location_zip": "15009",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.heritagevalley.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4127287000"
-    },
+    "phone_number": "4127287000",
     "provider_id": "390036",
     "raw_ratings": {},
     "state": "PA",

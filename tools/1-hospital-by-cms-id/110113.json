@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"351 LIBERTY STREET\",\"city\":\"WAYNESBORO\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.08363050200006",
-        "longitude": "-82.01172591899996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.011603,
+            33.083439
+        ],
+        "type": "Point"
     },
+    "location_address": "351 LIBERTY STREET",
+    "location_city": "WAYNESBORO",
+    "location_state": "GA",
+    "location_zip": "30830",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7065544435"
-    },
+    "phone_number": "7065544435",
     "provider_id": "110113",
     "raw_ratings": {},
     "state": "GA",

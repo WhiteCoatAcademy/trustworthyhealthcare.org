@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 EAST ACADEMY\",\"city\":\"PARIS\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "35.289969943000074",
-        "longitude": "-93.72557884099996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.725168,
+            35.289985
+        ],
+        "type": "Point"
     },
+    "location_address": "500 EAST ACADEMY",
+    "location_city": "PARIS",
+    "location_state": "AR",
+    "location_zip": "72855",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mercy.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "4799636101"
-    },
+    "phone_number": "4799636101",
     "provider_id": "041300",
     "raw_ratings": {},
     "state": "AR",

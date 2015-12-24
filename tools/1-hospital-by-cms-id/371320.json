@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1401 WEST PAWNEE\",\"city\":\"CLEVELAND\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.30992930700006",
-        "longitude": "-96.48059109499997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.481121,
+            36.309882
+        ],
+        "type": "Point"
     },
+    "location_address": "1401 WEST PAWNEE",
+    "location_city": "CLEVELAND",
+    "location_state": "OK",
+    "location_zip": "74020",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.community-partners.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9183582501"
-    },
+    "phone_number": "9183582501",
     "provider_id": "371320",
     "raw_ratings": {},
     "state": "OK",

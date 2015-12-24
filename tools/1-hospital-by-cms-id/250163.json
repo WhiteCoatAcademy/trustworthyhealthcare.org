@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"347 MAGNOLIA DRIVE\",\"city\":\"RALEIGH\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.00077078500004",
-        "longitude": "-89.52063674399994",
-        "needs_recoding": false
+        "coordinates": [
+            -89.516977,
+            32.015552
+        ],
+        "type": "Point"
     },
+    "location_address": "347 MAGNOLIA DRIVE",
+    "location_city": "RALEIGH",
+    "location_state": "MS",
+    "location_zip": "39153",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6017829997"
-    },
+    "phone_number": "6017829997",
     "provider_id": "250163",
     "raw_ratings": {},
     "state": "MS",

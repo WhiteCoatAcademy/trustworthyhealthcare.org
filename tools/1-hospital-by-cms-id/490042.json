@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2900 LAMB CIRCLE\",\"city\":\"CHRISTIANSBURG\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.08894825900006",
-        "longitude": "-80.50688052299995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.50514,
+            37.088634
+        ],
+        "type": "Point"
     },
+    "location_address": "2900 LAMB CIRCLE",
+    "location_city": "CHRISTIANSBURG",
+    "location_state": "VA",
+    "location_zip": "24073",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.carilion.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5407312000"
-    },
+    "phone_number": "5407312000",
     "provider_id": "490042",
     "raw_ratings": {},
     "state": "VA",

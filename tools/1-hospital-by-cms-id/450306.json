@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1601 COLUMBIA STREET\",\"city\":\"STAMFORD\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.928324572000065",
-        "longitude": "-99.78509949999994",
-        "needs_recoding": false
+        "coordinates": [
+            -99.78501,
+            32.92799
+        ],
+        "type": "Point"
     },
+    "location_address": "1601 COLUMBIA STREET",
+    "location_city": "STAMFORD",
+    "location_state": "TX",
+    "location_zip": "79553",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3257732725"
-    },
+    "phone_number": "3257732725",
     "provider_id": "450306",
     "raw_ratings": {},
     "state": "TX",

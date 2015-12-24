@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"674 SOUTH HIGHWAY 99\",\"city\":\"FILLMORE\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "38.953819775000056",
-        "longitude": "-112.33996106599994",
-        "needs_recoding": false
+        "coordinates": [
+            -112.340232,
+            38.953575
+        ],
+        "type": "Point"
     },
+    "location_address": "674 SOUTH HIGHWAY 99",
+    "location_city": "FILLMORE",
+    "location_state": "UT",
+    "location_zip": "84631",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "intermountainhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4357435591"
-    },
+    "phone_number": "4357435591",
     "provider_id": "461301",
     "raw_ratings": {},
     "state": "UT",

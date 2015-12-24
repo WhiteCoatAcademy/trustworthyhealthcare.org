@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"67252 INDUSTRY LANE\",\"city\":\"COVINGTON\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.407919178000043",
-        "longitude": "-90.08304466399994",
-        "needs_recoding": false
+        "coordinates": [
+            -90.08308,
+            30.407969
+        ],
+        "type": "Point"
     },
+    "location_address": "67252 INDUSTRY LANE",
+    "location_city": "COVINGTON",
+    "location_state": "LA",
+    "location_zip": "70433",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9858013010"
-    },
+    "phone_number": "9858013010",
     "provider_id": "190267",
     "raw_ratings": {},
     "state": "LA",

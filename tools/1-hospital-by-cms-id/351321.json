@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1007 4TH AVE S\",\"city\":\"WISHEK\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "46.25512515600008",
-        "longitude": "-99.55183993299994",
-        "needs_recoding": false
+        "coordinates": [
+            -99.551931,
+            46.255129
+        ],
+        "type": "Point"
     },
+    "location_address": "1007 4TH AVE S",
+    "location_city": "WISHEK",
+    "location_state": "ND",
+    "location_zip": "58495",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7014522326"
-    },
+    "phone_number": "7014522326",
     "provider_id": "351321",
     "raw_ratings": {},
     "state": "ND",

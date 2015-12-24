@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1575 BEAM AVENUE\",\"city\":\"MAPLEWOOD\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.02816650800003",
-        "longitude": "-93.03340987999997",
-        "needs_recoding": false
+        "coordinates": [
+            -93.033544,
+            45.028131
+        ],
+        "type": "Point"
     },
+    "location_address": "1575 BEAM AVENUE",
+    "location_city": "MAPLEWOOD",
+    "location_state": "MN",
+    "location_zip": "55109",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.healtheast.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6512327000"
-    },
+    "phone_number": "6512327000",
     "provider_id": "240210",
     "raw_ratings": {},
     "state": "MN",

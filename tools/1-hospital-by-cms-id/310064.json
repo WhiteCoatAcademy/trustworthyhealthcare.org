@@ -1,5 +1,5 @@
 {
-    "address": "1925 PACIFIC AVE",
+    "address": "1925 PACIFIC AVENUE",
     "city": "ATLANTIC CITY",
     "county_name": "ATLANTIC",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1925 PACIFIC AVE\",\"city\":\"ATLANTIC CITY\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "39.357907511000064",
-        "longitude": "-74.43368505899997",
-        "needs_recoding": false
+        "coordinates": [
+            -74.433732,
+            39.357876
+        ],
+        "type": "Point"
     },
+    "location_address": "1925 PACIFIC AVENUE",
+    "location_city": "ATLANTIC CITY",
+    "location_state": "NJ",
+    "location_zip": "08401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.atlanticare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6094418020"
-    },
+    "phone_number": "6094418020",
     "provider_id": "310064",
     "raw_ratings": {},
     "state": "NJ",

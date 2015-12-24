@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"706 ROSS STREET\",\"city\":\"OAK GROVE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.86800647200005",
-        "longitude": "-91.38317046899994",
-        "needs_recoding": false
+        "coordinates": [
+            -91.383189,
+            32.867445
+        ],
+        "type": "Point"
     },
+    "location_address": "706 ROSS STREET",
+    "location_city": "OAK GROVE",
+    "location_state": "LA",
+    "location_zip": "71263",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3184283237"
-    },
+    "phone_number": "3184283237",
     "provider_id": "190081",
     "raw_ratings": {},
     "state": "LA",

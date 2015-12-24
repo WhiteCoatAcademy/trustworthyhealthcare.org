@@ -4,15 +4,20 @@
     "county_name": "MARICOPA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "JOHN C LINCOLN NORTH MOUNTAIN HOSPITAL",
+    "hospital_name": "JOHN C LINCOLN MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"250 EAST DUNLAP AVENUE\",\"city\":\"PHOENIX\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.56779857500004",
-        "longitude": "-112.07020128399995",
-        "needs_recoding": false
+        "coordinates": [
+            -112.069882,
+            33.567758
+        ],
+        "type": "Point"
     },
+    "location_address": "250 EAST DUNLAP AVENUE",
+    "location_city": "PHOENIX",
+    "location_state": "AZ",
+    "location_zip": "85020",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.jcl.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6029432381"
-    },
+    "phone_number": "6028706010",
     "provider_id": "030014",
     "raw_ratings": {},
     "state": "AZ",

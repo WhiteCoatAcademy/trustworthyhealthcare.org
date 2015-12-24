@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"147 N BRENT ST\",\"city\":\"VENTURA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.27465318000003",
-        "longitude": "-119.25734132399998",
-        "needs_recoding": false
+        "coordinates": [
+            -119.257355,
+            34.274708
+        ],
+        "type": "Point"
     },
+    "location_address": "147 N BRENT ST",
+    "location_city": "VENTURA",
+    "location_state": "CA",
+    "location_zip": "93003",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.cmhshealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8056525011"
-    },
+    "phone_number": "8056525011",
     "provider_id": "050394",
     "raw_ratings": {},
     "state": "CA",

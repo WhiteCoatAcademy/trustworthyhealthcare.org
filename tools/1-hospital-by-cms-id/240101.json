@@ -4,15 +4,20 @@
     "county_name": "BECKER",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ESSENTIA HEALTH ST MARYS",
+    "hospital_name": "ESSENTIA HEALTH ST MARYS - DETROIT LAKES",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1027 WASHINGTON AVE\",\"city\":\"DETROIT LAKES\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "46.81515741000004",
-        "longitude": "-95.84540039599995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.845435,
+            46.815678
+        ],
+        "type": "Point"
     },
+    "location_address": "1027 WASHINGTON AVE",
+    "location_city": "DETROIT LAKES",
+    "location_state": "MN",
+    "location_zip": "56501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhshealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2188470852"
-    },
+    "phone_number": "2188470852",
     "provider_id": "240101",
     "raw_ratings": {},
     "state": "MN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5409 N KNOXVILLE AVE\",\"city\":\"PEORIA\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "40.752305257000046",
-        "longitude": "-89.59329130199995",
-        "needs_recoding": false
+        "coordinates": [
+            -89.593254,
+            40.752502
+        ],
+        "type": "Point"
     },
+    "location_address": "5409 N KNOXVILLE AVE",
+    "location_city": "PEORIA",
+    "location_state": "IL",
+    "location_zip": "61614",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3096911000"
-    },
+    "phone_number": "3096911000",
     "provider_id": "140013",
     "raw_ratings": {},
     "state": "IL",

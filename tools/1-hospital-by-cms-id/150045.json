@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1316 E SEVENTH ST\",\"city\":\"AUBURN\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.367655211000056",
-        "longitude": "-85.03704473999994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.036482,
+            41.367648
+        ],
+        "type": "Point"
     },
+    "location_address": "1316 E SEVENTH ST",
+    "location_city": "AUBURN",
+    "location_state": "IN",
+    "location_zip": "46706",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2609254600"
-    },
+    "phone_number": "2609254600",
     "provider_id": "150045",
     "raw_ratings": {},
     "state": "IN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1015 BOWLES\",\"city\":\"FENTON\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.529161102000046",
-        "longitude": "-90.47366537599999",
-        "needs_recoding": false
+        "coordinates": [
+            -90.473623,
+            38.527021
+        ],
+        "type": "Point"
     },
+    "location_address": "1015 BOWLES",
+    "location_city": "FENTON",
+    "location_state": "MO",
+    "location_zip": "63026",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ssmhc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6364962000"
-    },
+    "phone_number": "6364962000",
     "provider_id": "260081",
     "raw_ratings": {},
     "state": "MO",

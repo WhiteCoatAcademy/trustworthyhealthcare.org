@@ -4,15 +4,20 @@
     "county_name": "WASHINGTON",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "JANE PHILLIPS MEDICAL CENTER",
+    "hospital_name": "JANE PHILLIPS MEMORIAL MEDICAL CENTER, INC",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3500 EAST FRANK PHILLIPS BOULEVARD\",\"city\":\"BARTLESVILLE\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.75069423000008",
-        "longitude": "-95.93826811199995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.939698,
+            36.750674
+        ],
+        "type": "Point"
     },
+    "location_address": "3500 EAST FRANK PHILLIPS BOULEVARD",
+    "location_city": "BARTLESVILLE",
+    "location_state": "OK",
+    "location_zip": "74006",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.marianhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9183337200"
-    },
+    "phone_number": "9183337200",
     "provider_id": "370018",
     "raw_ratings": {},
     "state": "OK",

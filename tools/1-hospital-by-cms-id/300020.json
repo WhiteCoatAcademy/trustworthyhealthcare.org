@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8 PROSPECT STREET\",\"city\":\"NASHUA\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "42.75608461500008",
-        "longitude": "-71.46127868299999",
-        "needs_recoding": false
+        "coordinates": [
+            -71.461023,
+            42.756109
+        ],
+        "type": "Point"
     },
+    "location_address": "8 PROSPECT STREET",
+    "location_city": "NASHUA",
+    "location_state": "NH",
+    "location_zip": "03060",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6035772000"
-    },
+    "phone_number": "6035772000",
     "provider_id": "300020",
     "raw_ratings": {},
     "state": "NH",

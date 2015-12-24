@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1317 LAKE POINTE PARKWAY\",\"city\":\"SUGAR LAND\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.604892850000056",
-        "longitude": "-95.62127927899996",
-        "needs_recoding": false
+        "coordinates": [
+            -95.621302,
+            29.604655
+        ],
+        "type": "Point"
     },
+    "location_address": "1317 LAKE POINTE PARKWAY",
+    "location_city": "SUGAR LAND",
+    "location_state": "TX",
+    "location_zip": "77478",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2816377000"
-    },
+    "phone_number": "2816377000",
     "provider_id": "670053",
     "raw_ratings": {},
     "state": "TX",

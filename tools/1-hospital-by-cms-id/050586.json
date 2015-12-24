@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5451 WALNUT AVE\",\"city\":\"CHINO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.02627307300003",
-        "longitude": "-117.68557937999998",
-        "needs_recoding": false
+        "coordinates": [
+            -117.684726,
+            34.026344
+        ],
+        "type": "Point"
     },
+    "location_address": "5451 WALNUT AVE",
+    "location_city": "CHINO",
+    "location_state": "CA",
+    "location_zip": "91710",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.primehealthcareservices.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9096276111"
-    },
+    "phone_number": "9096276111",
     "provider_id": "050586",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"515 PACIFIC STREET\",\"city\":\"AUDUBON\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.71616421500005",
-        "longitude": "-94.93712637599998",
-        "needs_recoding": false
+        "coordinates": [
+            -94.937034,
+            41.715107
+        ],
+        "type": "Point"
     },
+    "location_address": "515 PACIFIC STREET",
+    "location_city": "AUDUBON",
+    "location_state": "IA",
+    "location_zip": "50025",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7125632611"
-    },
+    "phone_number": "7125632611",
     "provider_id": "161330",
     "raw_ratings": {},
     "state": "IA",

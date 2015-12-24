@@ -1,5 +1,5 @@
 {
-    "address": "520 E WASHINGTON STREET",
+    "address": "3565 S STATE ROAD",
     "city": "IONIA",
     "county_name": "IONIA",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"520 E WASHINGTON STREET\",\"city\":\"IONIA\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.98464502000007",
-        "longitude": "-85.05204255599995",
-        "needs_recoding": false
+        "coordinates": [
+            -85.074781,
+            42.934881
+        ],
+        "type": "Point"
     },
+    "location_address": "3565 S STATE ROAD",
+    "location_city": "IONIA",
+    "location_state": "MI",
+    "location_zip": "48846",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6165274200"
-    },
+    "phone_number": "6165274200",
     "provider_id": "231331",
     "raw_ratings": {},
     "state": "MI",

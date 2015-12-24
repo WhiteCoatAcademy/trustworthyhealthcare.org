@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"515 SOUTH MOORE STREET, PO BOX 160\",\"city\":\"BLUE EARTH\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "43.63426943700006",
-        "longitude": "-94.10084699899994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.100884,
+            43.634293
+        ],
+        "type": "Point"
     },
+    "location_address": "515 SOUTH MOORE STREET, PO BOX 160",
+    "location_city": "BLUE EARTH",
+    "location_state": "MN",
+    "location_zip": "56013",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5075263273"
-    },
+    "phone_number": "5075263273",
     "provider_id": "241369",
     "raw_ratings": {},
     "state": "MN",

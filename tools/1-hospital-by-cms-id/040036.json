@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "BAPTIST HEALTH MEDICAL CENTER NORTH LITTLE ROCK",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3333 SPRINGHILL DRIVE\",\"city\":\"NORTH LITTLE ROCK\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "34.78341792800006",
-        "longitude": "-92.21825285899996",
-        "needs_recoding": false
+        "coordinates": [
+            -92.219506,
+            34.785114
+        ],
+        "type": "Point"
     },
+    "location_address": "3333 SPRINGHILL DRIVE",
+    "location_city": "NORTH LITTLE ROCK",
+    "location_state": "AR",
+    "location_zip": "72117",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baptist-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5012023000"
-    },
+    "phone_number": "5012023000",
     "provider_id": "040036",
     "raw_ratings": {},
     "state": "AR",

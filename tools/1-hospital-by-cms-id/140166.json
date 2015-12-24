@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1800 E LAKE SHORE DR\",\"city\":\"DECATUR\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "39.82637961100005",
-        "longitude": "-88.93185682599994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.93191,
+            39.82635
+        ],
+        "type": "Point"
     },
+    "location_address": "1800 E LAKE SHORE DR",
+    "location_city": "DECATUR",
+    "location_state": "IL",
+    "location_zip": "62521",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hshs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2174647000"
-    },
+    "phone_number": "2174647000",
     "provider_id": "140166",
     "raw_ratings": {},
     "state": "IL",

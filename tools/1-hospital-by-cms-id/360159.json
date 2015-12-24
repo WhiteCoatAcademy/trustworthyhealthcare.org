@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"272 HOSPITAL ROAD\",\"city\":\"CHILLICOTHE\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.395352083000034",
-        "longitude": "-82.97051780999999",
-        "needs_recoding": false
+        "coordinates": [
+            -82.968485,
+            39.39365
+        ],
+        "type": "Point"
     },
+    "location_address": "272 HOSPITAL ROAD",
+    "location_city": "CHILLICOTHE",
+    "location_state": "OH",
+    "location_zip": "45601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.adena.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7407797500"
-    },
+    "phone_number": "7407797500",
     "provider_id": "360159",
     "raw_ratings": {},
     "state": "OH",

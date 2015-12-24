@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2901 N FOURTH ST\",\"city\":\"LONGVIEW\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.53252521700006",
-        "longitude": "-94.72880244399994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.728825,
+            32.532039
+        ],
+        "type": "Point"
     },
+    "location_address": "2901 N FOURTH ST",
+    "location_city": "LONGVIEW",
+    "location_state": "TX",
+    "location_zip": "75605",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "9037581818"
-    },
+    "phone_number": "9037581818",
     "provider_id": "450702",
     "raw_ratings": {},
     "state": "TX",

@@ -4,15 +4,20 @@
     "county_name": "PIMA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "UNIVERSITY OF ARIZONA MEDICAL CTR-UNIVERSITY, THE",
+    "hospital_name": "BANNER-UNIVERSITY MEDICAL CENTER TUCSON CAMPUS",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1501 NORTH CAMPBELL AVENUE\",\"city\":\"TUCSON\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "32.24073190000007",
-        "longitude": "-110.94412878899999",
-        "needs_recoding": false
+        "coordinates": [
+            -110.948304,
+            32.23864
+        ],
+        "type": "Point"
     },
+    "location_address": "1501 NORTH CAMPBELL AVENUE",
+    "location_city": "TUCSON",
+    "location_state": "AZ",
+    "location_zip": "85724",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5206940111"
-    },
+    "phone_number": "5208744189",
     "provider_id": "030064",
     "raw_ratings": {},
     "state": "AZ",

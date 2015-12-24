@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "ST MARGARETS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 E 1ST ST\",\"city\":\"SPRING VALLEY\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.32869663100007",
-        "longitude": "-89.19408710499994",
-        "needs_recoding": false
+        "coordinates": [
+            -89.192611,
+            41.328409
+        ],
+        "type": "Point"
     },
+    "location_address": "600 E 1ST ST",
+    "location_city": "SPRING VALLEY",
+    "location_state": "IL",
+    "location_zip": "61362",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.smphs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8156641176"
-    },
+    "phone_number": "8156641176",
     "provider_id": "140143",
     "raw_ratings": {},
     "state": "IL",

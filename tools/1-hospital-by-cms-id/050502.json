@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2131 W 3RD ST\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.06315761400003",
-        "longitude": "-118.27338253199997",
-        "needs_recoding": false
+        "coordinates": [
+            -118.273755,
+            34.063226
+        ],
+        "type": "Point"
     },
+    "location_address": "2131 W 3RD ST",
+    "location_city": "LOS ANGELES",
+    "location_state": "CA",
+    "location_zip": "90057",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.dochs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2134847111"
-    },
+    "phone_number": "2134847111",
     "provider_id": "050502",
     "raw_ratings": {},
     "state": "CA",

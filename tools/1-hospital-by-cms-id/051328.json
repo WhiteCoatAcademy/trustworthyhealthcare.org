@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10121 PINE AVE\",\"city\":\"TRUCKEE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "39.32453577800004",
-        "longitude": "-120.20151501099997",
-        "needs_recoding": false
+        "coordinates": [
+            -120.201295,
+            39.324884
+        ],
+        "type": "Point"
     },
+    "location_address": "10121 PINE AVE",
+    "location_city": "TRUCKEE",
+    "location_state": "CA",
+    "location_zip": "96161",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5305876011"
-    },
+    "phone_number": "5305876011",
     "provider_id": "051328",
     "raw_ratings": {},
     "state": "CA",

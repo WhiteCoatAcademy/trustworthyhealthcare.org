@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"107 TREMONT STREET\",\"city\":\"HOPEDALE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "40.41796801700008",
-        "longitude": "-89.41766489199995",
-        "needs_recoding": false
+        "coordinates": [
+            -89.417736,
+            40.41855
+        ],
+        "type": "Point"
     },
+    "location_address": "107 TREMONT STREET",
+    "location_city": "HOPEDALE",
+    "location_state": "IL",
+    "location_zip": "61747",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3094493321"
-    },
+    "phone_number": "3094493321",
     "provider_id": "141330",
     "raw_ratings": {},
     "state": "IL",

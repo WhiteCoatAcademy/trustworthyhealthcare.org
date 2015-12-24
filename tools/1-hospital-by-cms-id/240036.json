@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1406 6TH AVE NORTH\",\"city\":\"SAINT CLOUD\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.57483089400006",
-        "longitude": "-94.17015547899996",
-        "needs_recoding": false
+        "coordinates": [
+            -94.17,
+            45.574304
+        ],
+        "type": "Point"
     },
+    "location_address": "1406 6TH AVE NORTH",
+    "location_city": "SAINT CLOUD",
+    "location_state": "MN",
+    "location_zip": "56303",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.centracare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3202512700"
-    },
+    "phone_number": "3202512700",
     "provider_id": "240036",
     "raw_ratings": {},
     "state": "MN",

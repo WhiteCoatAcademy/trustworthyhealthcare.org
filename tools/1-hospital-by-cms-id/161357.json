@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "PALO ALTO COUNTY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3201 1ST STREET\",\"city\":\"EMMETSBURG\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "43.11920711000005",
-        "longitude": "-94.69146268099996",
-        "needs_recoding": false
+        "coordinates": [
+            -94.693118,
+            43.119198
+        ],
+        "type": "Point"
     },
+    "location_address": "3201 1ST STREET",
+    "location_city": "EMMETSBURG",
+    "location_state": "IA",
+    "location_zip": "50536",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7128525500"
-    },
+    "phone_number": "7128525500",
     "provider_id": "161357",
     "raw_ratings": {},
     "state": "IA",

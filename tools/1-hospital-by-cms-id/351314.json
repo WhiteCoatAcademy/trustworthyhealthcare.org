@@ -4,15 +4,20 @@
     "county_name": "GRANT",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "JACOBSON MEMORIAL HOSPITAL  CARE CENTER",
+    "hospital_name": "JACOBSON MEMORIAL HOSPITAL CARE CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"601 EAST ST N\",\"city\":\"ELGIN\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "46.40710696100007",
-        "longitude": "-101.84204895199997",
-        "needs_recoding": false
+        "coordinates": [
+            -101.842151,
+            46.407017
+        ],
+        "type": "Point"
     },
+    "location_address": "601 EAST ST N",
+    "location_city": "ELGIN",
+    "location_state": "ND",
+    "location_zip": "58533",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7015842792"
-    },
+    "phone_number": "7015842792",
     "provider_id": "351314",
     "raw_ratings": {},
     "state": "ND",

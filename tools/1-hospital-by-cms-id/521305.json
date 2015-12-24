@@ -4,15 +4,20 @@
     "county_name": "MONROE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MAYO CLINIC HLTH SYSTM  FRANCISCAN HLTHCARE SPARTA",
+    "hospital_name": "MAYO CLINIC HLTH SYSTM FRANCISCAN HLTHCARE SPARTA",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"310 W MAIN ST\",\"city\":\"SPARTA\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.94440743500007",
-        "longitude": "-90.81464054499997",
-        "needs_recoding": false
+        "coordinates": [
+            -90.81443,
+            43.94465
+        ],
+        "type": "Point"
     },
+    "location_address": "310 W MAIN ST",
+    "location_city": "SPARTA",
+    "location_state": "WI",
+    "location_zip": "54656",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mayohealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6082692132"
-    },
+    "phone_number": "6082692132",
     "provider_id": "521305",
     "raw_ratings": {},
     "state": "WI",

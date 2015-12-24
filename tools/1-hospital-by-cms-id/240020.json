@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 SOUTH DELLWOOD AVENUE\",\"city\":\"CAMBRIDGE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.56638697300008",
-        "longitude": "-93.22933005299996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.229319,
+            45.56657
+        ],
+        "type": "Point"
     },
+    "location_address": "701 SOUTH DELLWOOD AVENUE",
+    "location_city": "CAMBRIDGE",
+    "location_state": "MN",
+    "location_zip": "55008",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.allina.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7636897700"
-    },
+    "phone_number": "7636897700",
     "provider_id": "240020",
     "raw_ratings": {},
     "state": "MN",

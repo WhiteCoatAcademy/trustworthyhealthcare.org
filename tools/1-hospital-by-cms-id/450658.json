@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"125 NEWMAN ST\",\"city\":\"FAIRFIELD\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.72560069900004",
-        "longitude": "-96.16965249899994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.169619,
+            31.725902
+        ],
+        "type": "Point"
     },
+    "location_address": "125 NEWMAN ST",
+    "location_city": "FAIRFIELD",
+    "location_state": "TX",
+    "location_zip": "75840",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.etmc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9033891612"
-    },
+    "phone_number": "9033891612",
     "provider_id": "450658",
     "raw_ratings": {},
     "state": "TX",

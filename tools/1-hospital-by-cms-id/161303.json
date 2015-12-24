@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"201 EAST J AVENUE\",\"city\":\"GRUNDY CENTER\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.358697120000045",
-        "longitude": "-92.76493052199999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.761719,
+            42.35876
+        ],
+        "type": "Point"
     },
+    "location_address": "201 EAST J AVENUE",
+    "location_city": "GRUNDY CENTER",
+    "location_state": "IA",
+    "location_zip": "50638",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3198245421"
-    },
+    "phone_number": "3198245421",
     "provider_id": "161303",
     "raw_ratings": {},
     "state": "IA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8110 GATEHOUSE ROAD, 400 WEST\",\"city\":\"FALLS CHURCH\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "38.86885723800003",
-        "longitude": "-77.22468988999998",
-        "needs_recoding": false
+        "coordinates": [
+            -77.22442,
+            38.86893
+        ],
+        "type": "Point"
     },
+    "location_address": "8110 GATEHOUSE ROAD, 400 WEST",
+    "location_city": "FALLS CHURCH",
+    "location_state": "VA",
+    "location_zip": "22042",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.inova.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7037763332"
-    },
+    "phone_number": "7037763332",
     "provider_id": "490063",
     "raw_ratings": {},
     "state": "VA",

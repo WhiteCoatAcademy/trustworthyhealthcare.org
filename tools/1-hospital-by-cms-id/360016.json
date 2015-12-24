@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4777 EAST GALBRAITH ROAD\",\"city\":\"CINCINNATI\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.206745355000066",
-        "longitude": "-84.38026227899996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.381797,
+            39.206913
+        ],
+        "type": "Point"
     },
+    "location_address": "4777 EAST GALBRAITH ROAD",
+    "location_city": "CINCINNATI",
+    "location_state": "OH",
+    "location_zip": "45236",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health-alliance.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5136863003"
-    },
+    "phone_number": "5136863003",
     "provider_id": "360016",
     "raw_ratings": {},
     "state": "OH",

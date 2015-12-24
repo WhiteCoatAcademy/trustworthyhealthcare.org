@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3330 MASONIC DRIVE\",\"city\":\"ALEXANDRIA\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "31.282458981000048",
-        "longitude": "-92.46082690399999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.460734,
+            31.282529
+        ],
+        "type": "Point"
     },
+    "location_address": "3330 MASONIC DRIVE",
+    "location_city": "ALEXANDRIA",
+    "location_state": "LA",
+    "location_zip": "71301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.christushealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3184871122"
-    },
+    "phone_number": "3184871122",
     "provider_id": "190019",
     "raw_ratings": {},
     "state": "LA",

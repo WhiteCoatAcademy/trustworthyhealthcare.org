@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"27100 CHARDON ROAD\",\"city\":\"RICHMOND HEIGHTS\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.581605178000075",
-        "longitude": "-81.48921690199995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.489628,
+            41.581402
+        ],
+        "type": "Point"
     },
+    "location_address": "27100 CHARDON ROAD",
+    "location_city": "RICHMOND HEIGHTS",
+    "location_state": "OH",
+    "location_zip": "44143",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhhospitals.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4405856170"
-    },
+    "phone_number": "4405856170",
     "provider_id": "360075",
     "raw_ratings": {},
     "state": "OH",

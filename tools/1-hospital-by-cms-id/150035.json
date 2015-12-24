@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"85 EAST US HWY 6\",\"city\":\"VALPARAISO\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.55008610800007",
-        "longitude": "-87.05062035299994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.051316,
+            41.55007
+        ],
+        "type": "Point"
     },
+    "location_address": "85 EAST US HWY 6",
+    "location_city": "VALPARAISO",
+    "location_state": "IN",
+    "location_zip": "46383",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "2199838300"
-    },
+    "phone_number": "2199838300",
     "provider_id": "150035",
     "raw_ratings": {},
     "state": "IN",

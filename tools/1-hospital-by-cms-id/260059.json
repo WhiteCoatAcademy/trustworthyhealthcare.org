@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 HOSPITAL DRIVE\",\"city\":\"LEBANON\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "37.68136934200004",
-        "longitude": "-92.63584003799997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.635875,
+            37.681437
+        ],
+        "type": "Point"
     },
+    "location_address": "100 HOSPITAL DRIVE",
+    "location_city": "LEBANON",
+    "location_state": "MO",
+    "location_zip": "65536",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mercy.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "4175336100"
-    },
+    "phone_number": "4175336100",
     "provider_id": "260059",
     "raw_ratings": {},
     "state": "MO",

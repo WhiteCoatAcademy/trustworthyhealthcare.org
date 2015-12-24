@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7601 SOUTHCREST PARKWAY\",\"city\":\"SOUTHAVEN\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "34.971083090000036",
-        "longitude": "-89.99674399899999",
-        "needs_recoding": false
+        "coordinates": [
+            -89.996752,
+            34.970993
+        ],
+        "type": "Point"
     },
+    "location_address": "7601 SOUTHCREST PARKWAY",
+    "location_city": "SOUTHAVEN",
+    "location_state": "MS",
+    "location_zip": "38671",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bmhcc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6627724000"
-    },
+    "phone_number": "6627724000",
     "provider_id": "250141",
     "raw_ratings": {},
     "state": "MS",

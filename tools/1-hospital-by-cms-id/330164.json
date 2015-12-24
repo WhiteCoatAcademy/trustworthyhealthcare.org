@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 SOUTH AVENUE\",\"city\":\"ROCHESTER\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.13558165200004",
-        "longitude": "-77.60762424799998",
-        "needs_recoding": false
+        "coordinates": [
+            -77.607745,
+            43.135184
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 SOUTH AVENUE",
+    "location_city": "ROCHESTER",
+    "location_state": "NY",
+    "location_zip": "14620",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.urmc.rochester.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "5854732200"
-    },
+    "phone_number": "5854732200",
     "provider_id": "330164",
     "raw_ratings": {},
     "state": "NY",

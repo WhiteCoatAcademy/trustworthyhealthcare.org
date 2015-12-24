@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"36500 AURORA DRIVE\",\"city\":\"SUMMIT\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.06396618500003",
-        "longitude": "-88.46907527099995",
-        "needs_recoding": false
+        "coordinates": [
+            -88.469521,
+            43.064083
+        ],
+        "type": "Point"
     },
+    "location_address": "36500 AURORA DRIVE",
+    "location_city": "SUMMIT",
+    "location_state": "WI",
+    "location_zip": "53066",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2624341000"
-    },
+    "phone_number": "2624341000",
     "provider_id": "520206",
     "raw_ratings": {},
     "state": "WI",

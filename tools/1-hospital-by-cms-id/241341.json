@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"30 SOUTH BEHL STREET\",\"city\":\"APPLETON\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.19955477600007",
-        "longitude": "-96.00916006399996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.009222,
+            45.199748
+        ],
+        "type": "Point"
     },
+    "location_address": "30 SOUTH BEHL STREET",
+    "location_city": "APPLETON",
+    "location_state": "MN",
+    "location_zip": "56208",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3202891580"
-    },
+    "phone_number": "3202891580",
     "provider_id": "241341",
     "raw_ratings": {},
     "state": "MN",

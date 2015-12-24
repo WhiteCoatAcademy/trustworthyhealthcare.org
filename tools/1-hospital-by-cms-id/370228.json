@@ -4,15 +4,20 @@
     "county_name": "TULSA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "BAILEY MEDICAL CENTER, L L C",
+    "hospital_name": "BAILEY MEDICAL CENTER, LLC",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10502 NORTH 110TH EAST AVENUE\",\"city\":\"OWASSO\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.30437603900003",
-        "longitude": "-95.85186000599998",
-        "needs_recoding": false
+        "coordinates": [
+            -95.851822,
+            36.304304
+        ],
+        "type": "Point"
     },
+    "location_address": "10502 NORTH 110TH EAST AVENUE",
+    "location_city": "OWASSO",
+    "location_state": "OK",
+    "location_zip": "74055",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ardenthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9183768000"
-    },
+    "phone_number": "9183768000",
     "provider_id": "370228",
     "raw_ratings": {},
     "state": "OK",

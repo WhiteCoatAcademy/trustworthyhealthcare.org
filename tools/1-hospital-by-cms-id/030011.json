@@ -4,15 +4,20 @@
     "county_name": "PIMA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "CARONDELET ST JOSEPH'S HOSPITAL",
+    "hospital_name": "ST JOSEPH'S HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"350 NORTH WILMOT ROAD\",\"city\":\"TUCSON\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "32.226042660000076",
-        "longitude": "-110.85782597899998",
-        "needs_recoding": false
+        "coordinates": [
+            -110.857841,
+            32.227194
+        ],
+        "type": "Point"
     },
+    "location_address": "350 NORTH WILMOT ROAD",
+    "location_city": "TUCSON",
+    "location_state": "AZ",
+    "location_zip": "85711",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5208733000"
-    },
+    "phone_number": "5208733000",
     "provider_id": "030011",
     "raw_ratings": {},
     "state": "AZ",

@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "HUMBOLDT COUNTY MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
+    "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 NORTH 15TH STREET\",\"city\":\"HUMBOLDT\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.73191984300007",
-        "longitude": "-94.23021925999996",
-        "needs_recoding": false
+        "coordinates": [
+            -94.230157,
+            42.730768
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 NORTH 15TH STREET",
+    "location_city": "HUMBOLDT",
+    "location_state": "IA",
+    "location_zip": "50548",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5153324200"
-    },
+    "phone_number": "5153324200",
     "provider_id": "161334",
     "raw_ratings": {},
     "state": "IA",

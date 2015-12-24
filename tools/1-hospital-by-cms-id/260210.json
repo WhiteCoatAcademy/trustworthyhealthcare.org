@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3933 S BROADWAY\",\"city\":\"SAINT LOUIS\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.583545521000076",
-        "longitude": "-90.22751416599993",
-        "needs_recoding": false
+        "coordinates": [
+            -90.227557,
+            38.583359
+        ],
+        "type": "Point"
     },
+    "location_address": "3933 S BROADWAY",
+    "location_city": "SAINT LOUIS",
+    "location_state": "MO",
+    "location_zip": "63118",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.envisionhospital.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3148657000"
-    },
+    "phone_number": "3148657000",
     "provider_id": "260210",
     "raw_ratings": {},
     "state": "MO",

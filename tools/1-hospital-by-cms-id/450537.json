@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2831 E PRESIDENT GEORGE BUSH HIGHWAY\",\"city\":\"RICHARDSON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.99611718700004",
-        "longitude": "-96.66908742599998",
-        "needs_recoding": false
+        "coordinates": [
+            -96.669064,
+            32.995987
+        ],
+        "type": "Point"
     },
+    "location_address": "2831 E PRESIDENT GEORGE BUSH HIGHWAY",
+    "location_city": "RICHARDSON",
+    "location_state": "TX",
+    "location_zip": "75082",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4692041000"
-    },
+    "phone_number": "4692041000",
     "provider_id": "450537",
     "raw_ratings": {},
     "state": "TX",

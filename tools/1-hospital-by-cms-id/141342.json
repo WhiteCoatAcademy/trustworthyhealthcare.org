@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"517 NORTH MAIN STREET\",\"city\":\"ANNA\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "37.46511419400008",
-        "longitude": "-89.24504026799997",
-        "needs_recoding": false
+        "coordinates": [
+            -89.245024,
+            37.465462
+        ],
+        "type": "Point"
     },
+    "location_address": "517 NORTH MAIN STREET",
+    "location_city": "ANNA",
+    "location_state": "IL",
+    "location_zip": "62906",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "6188334511"
-    },
+    "phone_number": "6188334511",
     "provider_id": "141342",
     "raw_ratings": {},
     "state": "IL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6101 PINE RIDGE ROAD\",\"city\":\"NAPLES\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.211797201000024",
-        "longitude": "-81.73084692399993",
-        "needs_recoding": false
+        "coordinates": [
+            -81.730707,
+            26.211764
+        ],
+        "type": "Point"
     },
+    "location_address": "6101 PINE RIDGE ROAD",
+    "location_city": "NAPLES",
+    "location_state": "FL",
+    "location_zip": "34119",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2393484000"
-    },
+    "phone_number": "2393484000",
     "provider_id": "100286",
     "raw_ratings": {},
     "state": "FL",

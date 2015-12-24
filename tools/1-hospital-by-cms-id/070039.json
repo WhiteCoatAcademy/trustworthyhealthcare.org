@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"22 MASONIC AVE\",\"city\":\"WALLINGFORD\",\"state\":\"CT\",\"zip\":\"\"}",
-        "latitude": "41.45945670800006",
-        "longitude": "-72.83742714999994",
-        "needs_recoding": false
+        "coordinates": [
+            -72.836082,
+            41.461412
+        ],
+        "type": "Point"
     },
+    "location_address": "22 MASONIC AVE",
+    "location_city": "WALLINGFORD",
+    "location_state": "CT",
+    "location_zip": "06492",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2036795900"
-    },
+    "phone_number": "2036795900",
     "provider_id": "070039",
     "raw_ratings": {},
     "state": "CT",

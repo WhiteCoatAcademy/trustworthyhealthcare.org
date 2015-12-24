@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "LAWRENCE HOSPITAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"55 PALMER AVENUE\",\"city\":\"BRONXVILLE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.94160369600007",
-        "longitude": "-73.83662092099996",
-        "needs_recoding": false
+        "coordinates": [
+            -73.836245,
+            40.941636
+        ],
+        "type": "Point"
     },
+    "location_address": "55 PALMER AVENUE",
+    "location_city": "BRONXVILLE",
+    "location_state": "NY",
+    "location_zip": "10708",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nypsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9147871000"
-    },
+    "phone_number": "9147871000",
     "provider_id": "330061",
     "raw_ratings": {},
     "state": "NY",

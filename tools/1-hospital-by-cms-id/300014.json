@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11 WHITEHALL ROAD\",\"city\":\"ROCHESTER\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "43.29814862400008",
-        "longitude": "-70.96113323699996",
-        "needs_recoding": false
+        "coordinates": [
+            -70.960915,
+            43.298198
+        ],
+        "type": "Point"
     },
+    "location_address": "11 WHITEHALL ROAD",
+    "location_city": "ROCHESTER",
+    "location_state": "NH",
+    "location_zip": "03867",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6033325211"
-    },
+    "phone_number": "6033325211",
     "provider_id": "300014",
     "raw_ratings": {},
     "state": "NH",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2400 E 17TH ST\",\"city\":\"COLUMBUS\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.21588305200004",
-        "longitude": "-85.89675492599997",
-        "needs_recoding": false
+        "coordinates": [
+            -85.896854,
+            39.215872
+        ],
+        "type": "Point"
     },
+    "location_address": "2400 E 17TH ST",
+    "location_city": "COLUMBUS",
+    "location_state": "IN",
+    "location_zip": "47201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8123794441"
-    },
+    "phone_number": "8123794441",
     "provider_id": "150112",
     "raw_ratings": {},
     "state": "IN",

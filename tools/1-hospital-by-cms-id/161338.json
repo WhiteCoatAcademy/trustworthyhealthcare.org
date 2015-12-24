@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "MERCY HOSPITAL OF FRANCISCAN SISTERS-OELWEIN",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"201 EIGHTH AVENUE SE\",\"city\":\"OELWEIN\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.674909753000065",
-        "longitude": "-91.90258355299994",
-        "needs_recoding": false
+        "coordinates": [
+            -91.902617,
+            42.675168
+        ],
+        "type": "Point"
     },
+    "location_address": "201 EIGHTH AVENUE SE",
+    "location_city": "OELWEIN",
+    "location_state": "IA",
+    "location_zip": "50662",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wfs-inc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3192836000"
-    },
+    "phone_number": "3192836000",
     "provider_id": "161338",
     "raw_ratings": {},
     "state": "IA",

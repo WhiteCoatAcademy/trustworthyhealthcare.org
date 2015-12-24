@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 WEST MARKET STREET\",\"city\":\"ATHENS\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "34.80357778700005",
-        "longitude": "-86.97837640099993",
-        "needs_recoding": false
+        "coordinates": [
+            -86.977803,
+            34.803499
+        ],
+        "type": "Point"
     },
+    "location_address": "700 WEST MARKET STREET",
+    "location_city": "ATHENS",
+    "location_state": "AL",
+    "location_zip": "35611",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2562339292"
-    },
+    "phone_number": "2562339292",
     "provider_id": "010079",
     "raw_ratings": {},
     "state": "AL",

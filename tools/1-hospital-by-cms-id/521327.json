@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"620 W BROWN ST\",\"city\":\"WAUPUN\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.63099715200008",
-        "longitude": "-88.74584068799999",
-        "needs_recoding": false
+        "coordinates": [
+            -88.745846,
+            43.630968
+        ],
+        "type": "Point"
     },
+    "location_address": "620 W BROWN ST",
+    "location_city": "WAUPUN",
+    "location_state": "WI",
+    "location_zip": "53963",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.agnesian.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9203246530"
-    },
+    "phone_number": "9203246530",
     "provider_id": "521327",
     "raw_ratings": {},
     "state": "WI",

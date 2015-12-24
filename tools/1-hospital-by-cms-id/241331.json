@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 THIRD AVENUE\",\"city\":\"ALBANY\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.63972771300007",
-        "longitude": "-94.56622978199994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.566269,
+            45.639797
+        ],
+        "type": "Point"
     },
+    "location_address": "300 THIRD AVENUE",
+    "location_city": "ALBANY",
+    "location_state": "MN",
+    "location_zip": "56307",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3208452121"
-    },
+    "phone_number": "3208452121",
     "provider_id": "241331",
     "raw_ratings": {},
     "state": "MN",

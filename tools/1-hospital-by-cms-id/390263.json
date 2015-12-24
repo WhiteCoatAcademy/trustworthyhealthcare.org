@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2545 SCHOENERSVILLE ROAD\",\"city\":\"BETHLEHEM\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.650625227000035",
-        "longitude": "-75.41144222999998",
-        "needs_recoding": false
+        "coordinates": [
+            -75.406613,
+            40.646085
+        ],
+        "type": "Point"
     },
+    "location_address": "2545 SCHOENERSVILLE ROAD",
+    "location_city": "BETHLEHEM",
+    "location_state": "PA",
+    "location_zip": "18017",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lvh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6104022273"
-    },
+    "phone_number": "6104022273",
     "provider_id": "390263",
     "raw_ratings": {},
     "state": "PA",

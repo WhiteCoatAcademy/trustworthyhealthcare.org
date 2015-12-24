@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"21214 NORTHWEST FREEWAY\",\"city\":\"CYPRESS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.97579238700007",
-        "longitude": "-95.67791603299997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.632487,
+            29.92482
+        ],
+        "type": "Point"
     },
+    "location_address": "21214 NORTHWEST FREEWAY",
+    "location_city": "CYPRESS",
+    "location_state": "TX",
+    "location_zip": "77429",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2818900203"
-    },
+    "phone_number": "2818900203",
     "provider_id": "670024",
     "raw_ratings": {},
     "state": "TX",

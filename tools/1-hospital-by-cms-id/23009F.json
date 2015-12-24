@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"1500 WEISS STREET\",\"city\":\"SAGINAW\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.44368683000005",
-        "longitude": "-83.96196067199998",
-        "needs_recoding": false
+        "coordinates": [
+            -83.961968,
+            43.443657
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 WEISS STREET",
+    "location_city": "SAGINAW",
+    "location_state": "MI",
+    "location_zip": "48602",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "9894972500"
-    },
+    "phone_number": "9894972500",
     "provider_id": "23009F",
     "raw_ratings": {},
     "state": "MI",

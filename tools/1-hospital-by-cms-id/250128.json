@@ -4,15 +4,20 @@
     "county_name": "PANOLA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "TRI LAKES MEDICAL CENTER",
+    "hospital_name": "MERIT HEALTH BATESVILLE",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"303 MEDICAL CENTER DRIVE\",\"city\":\"BATESVILLE\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "34.307061831000055",
-        "longitude": "-89.91553828599996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.916833,
+            34.305668
+        ],
+        "type": "Point"
     },
+    "location_address": "303 MEDICAL CENTER DRIVE",
+    "location_city": "BATESVILLE",
+    "location_state": "MS",
+    "location_zip": "38606",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6625635611"
-    },
+    "phone_number": "6625635611",
     "provider_id": "250128",
     "raw_ratings": {},
     "state": "MS",

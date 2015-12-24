@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"12866 TROXLER AVENUE\",\"city\":\"HIGHLAND\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "38.75705363800006",
-        "longitude": "-89.66801988999998",
-        "needs_recoding": false
+        "coordinates": [
+            -89.667426,
+            38.757077
+        ],
+        "type": "Point"
     },
+    "location_address": "12866 TROXLER AVENUE",
+    "location_city": "HIGHLAND",
+    "location_state": "IL",
+    "location_zip": "62249",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hshs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6186512600"
-    },
+    "phone_number": "6186512600",
     "provider_id": "141336",
     "raw_ratings": {},
     "state": "IL",

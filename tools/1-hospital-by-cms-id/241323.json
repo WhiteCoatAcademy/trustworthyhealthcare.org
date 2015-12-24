@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"121 DREW AVENUE SOUTHEAST\",\"city\":\"MADELIA\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.049585637000064",
-        "longitude": "-94.40937675499998",
-        "needs_recoding": false
+        "coordinates": [
+            -94.409365,
+            44.04955
+        ],
+        "type": "Point"
     },
+    "location_address": "121 DREW AVENUE SOUTHEAST",
+    "location_city": "MADELIA",
+    "location_state": "MN",
+    "location_zip": "56062",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5076423255"
-    },
+    "phone_number": "5076423255",
     "provider_id": "241323",
     "raw_ratings": {},
     "state": "MN",

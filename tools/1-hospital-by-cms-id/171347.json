@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"826 18TH STREET\",\"city\":\"HOXIE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.35420218300004",
-        "longitude": "-100.43266756399998",
-        "needs_recoding": false
+        "coordinates": [
+            -100.432735,
+            39.354186
+        ],
+        "type": "Point"
     },
+    "location_address": "826 18TH STREET",
+    "location_city": "HOXIE",
+    "location_state": "KS",
+    "location_zip": "67740",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7856753281"
-    },
+    "phone_number": "7856753281",
     "provider_id": "171347",
     "raw_ratings": {},
     "state": "KS",

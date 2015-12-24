@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"604 STONE AVENUE\",\"city\":\"TALLADEGA\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "33.43980936100007",
-        "longitude": "-86.09087857499998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.091984,
+            33.439798
+        ],
+        "type": "Point"
     },
+    "location_address": "604 STONE AVENUE",
+    "location_city": "TALLADEGA",
+    "location_state": "AL",
+    "location_zip": "35161",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhsala.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2567614542"
-    },
+    "phone_number": "2567614542",
     "provider_id": "010101",
     "raw_ratings": {},
     "state": "AL",

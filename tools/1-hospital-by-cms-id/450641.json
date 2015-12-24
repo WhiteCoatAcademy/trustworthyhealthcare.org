@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 PARK ROAD\",\"city\":\"NOCONA\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.77832109700006",
-        "longitude": "-97.73159561099999",
-        "needs_recoding": false
+        "coordinates": [
+            -97.731568,
+            33.777813
+        ],
+        "type": "Point"
     },
+    "location_address": "100 PARK ROAD",
+    "location_city": "NOCONA",
+    "location_state": "TX",
+    "location_zip": "76255",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9408253235"
-    },
+    "phone_number": "9408253235",
     "provider_id": "450641",
     "raw_ratings": {},
     "state": "TX",

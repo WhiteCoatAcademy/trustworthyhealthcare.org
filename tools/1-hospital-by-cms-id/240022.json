@@ -4,15 +4,20 @@
     "county_name": "NOBLES",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "SANFORD  WORTHINGTON MEDICAL CENTER",
+    "hospital_name": "SANFORD WORTHINGTON MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1018 SIXTH AVENUE PO BOX 997\",\"city\":\"WORTHINGTON\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "43.622075034000034",
-        "longitude": "-95.59880402199997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.59918,
+            43.621858
+        ],
+        "type": "Point"
     },
+    "location_address": "1018 SIXTH AVENUE PO BOX 997",
+    "location_city": "WORTHINGTON",
+    "location_state": "MN",
+    "location_zip": "56187",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sanfordhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5073722941"
-    },
+    "phone_number": "5073723380",
     "provider_id": "240022",
     "raw_ratings": {},
     "state": "MN",

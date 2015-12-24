@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 EAST 8TH ST\",\"city\":\"GORDON\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "42.81187044700005",
-        "longitude": "-102.20026592499994",
-        "needs_recoding": false
+        "coordinates": [
+            -102.200385,
+            42.811836
+        ],
+        "type": "Point"
     },
+    "location_address": "300 EAST 8TH ST",
+    "location_city": "GORDON",
+    "location_state": "NE",
+    "location_zip": "69343",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3082820401"
-    },
+    "phone_number": "3082820401",
     "provider_id": "281358",
     "raw_ratings": {},
     "state": "NE",

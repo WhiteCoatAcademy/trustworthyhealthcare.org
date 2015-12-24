@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"506 SIXTH STREET\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.665720891000035",
-        "longitude": "-73.98591492999998",
-        "needs_recoding": false
+        "coordinates": [
+            -73.97831,
+            40.667862
+        ],
+        "type": "Point"
     },
+    "location_address": "506 SIXTH STREET",
+    "location_city": "BROOKLYN",
+    "location_state": "NY",
+    "location_zip": "11215",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nypsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7187803000"
-    },
+    "phone_number": "7187803000",
     "provider_id": "330236",
     "raw_ratings": {},
     "state": "NY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 W BROADWAY\",\"city\":\"MISSOULA\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "46.87409662500005",
-        "longitude": "-114.00053258799994",
-        "needs_recoding": false
+        "coordinates": [
+            -113.999891,
+            46.873905
+        ],
+        "type": "Point"
     },
+    "location_address": "500 W BROADWAY",
+    "location_city": "MISSOULA",
+    "location_state": "MT",
+    "location_zip": "59806",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.providence.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4065437271"
-    },
+    "phone_number": "4065437271",
     "provider_id": "270014",
     "raw_ratings": {},
     "state": "MT",

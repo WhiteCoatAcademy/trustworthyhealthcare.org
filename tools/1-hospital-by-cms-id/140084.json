@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1324 NORTH SHERIDAN ROAD\",\"city\":\"WAUKEGAN\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "42.37892888400006",
-        "longitude": "-87.83118473299999",
-        "needs_recoding": false
+        "coordinates": [
+            -87.831153,
+            42.378921
+        ],
+        "type": "Point"
     },
+    "location_address": "1324 NORTH SHERIDAN ROAD",
+    "location_city": "WAUKEGAN",
+    "location_state": "IL",
+    "location_zip": "60085",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "8473604000"
-    },
+    "phone_number": "8473604000",
     "provider_id": "140084",
     "raw_ratings": {},
     "state": "IL",

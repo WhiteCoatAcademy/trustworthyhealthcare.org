@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "WIREGRASS MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 W MAPLE AVENUE\",\"city\":\"GENEVA\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "31.04804746900004",
-        "longitude": "-85.89112586699997",
-        "needs_recoding": false
+        "coordinates": [
+            -85.892518,
+            31.047753
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 W MAPLE AVENUE",
+    "location_city": "GENEVA",
+    "location_state": "AL",
+    "location_zip": "36340",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3346843655"
-    },
+    "phone_number": "3346843655",
     "provider_id": "010062",
     "raw_ratings": {},
     "state": "AL",

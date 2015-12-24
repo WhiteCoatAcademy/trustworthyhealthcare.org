@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 EAST UNIVERSITY AVENUE\",\"city\":\"DES MOINES\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.60040811300007",
-        "longitude": "-93.61018108599995",
-        "needs_recoding": false
+        "coordinates": [
+            -93.610853,
+            41.600395
+        ],
+        "type": "Point"
     },
+    "location_address": "700 EAST UNIVERSITY AVENUE",
+    "location_city": "DES MOINES",
+    "location_state": "IA",
+    "location_zip": "50316",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ihs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5152635612"
-    },
+    "phone_number": "5152635612",
     "provider_id": "160024",
     "raw_ratings": {},
     "state": "IA",

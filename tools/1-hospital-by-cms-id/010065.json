@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3316 HIGHWAY 280\",\"city\":\"ALEXANDER CITY\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "32.931334950000064",
-        "longitude": "-85.96878845399993",
-        "needs_recoding": false
+        "coordinates": [
+            -85.965371,
+            32.928407
+        ],
+        "type": "Point"
     },
+    "location_address": "3316 HIGHWAY 280",
+    "location_city": "ALEXANDER CITY",
+    "location_state": "AL",
+    "location_zip": "35010",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2563297100"
-    },
+    "phone_number": "2563297100",
     "provider_id": "010065",
     "raw_ratings": {},
     "state": "AL",

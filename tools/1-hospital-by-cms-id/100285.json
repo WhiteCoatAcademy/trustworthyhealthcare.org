@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1901 SW 172ND AVE\",\"city\":\"MIRAMAR\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.991004849000035",
-        "longitude": "-80.37599439099995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.375996,
+            25.990744
+        ],
+        "type": "Point"
     },
+    "location_address": "1901 SW 172ND AVE",
+    "location_city": "MIRAMAR",
+    "location_state": "FL",
+    "location_zip": "33029",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mhs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "9545384810"
-    },
+    "phone_number": "9545384810",
     "provider_id": "100285",
     "raw_ratings": {},
     "state": "FL",

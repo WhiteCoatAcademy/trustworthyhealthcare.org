@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2525 COURT DR\",\"city\":\"GASTONIA\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.27425074000007",
-        "longitude": "-81.13745407099998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.139078,
+            35.275208
+        ],
+        "type": "Point"
     },
+    "location_address": "2525 COURT DR",
+    "location_city": "GASTONIA",
+    "location_state": "NC",
+    "location_zip": "28052",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7048344891"
-    },
+    "phone_number": "7048344891",
     "provider_id": "340032",
     "raw_ratings": {},
     "state": "NC",

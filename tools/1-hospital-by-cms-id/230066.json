@@ -4,15 +4,20 @@
     "county_name": "MUSKEGON",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MERCY HEALTH HACKLEY CAMPUS",
+    "hospital_name": "MERCY HEALTH MUSKEGON",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1700 CLINTON STREET\",\"city\":\"MUSKEGON\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.22070025800008",
-        "longitude": "-86.24305071899994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.243088,
+            43.22174
+        ],
+        "type": "Point"
     },
+    "location_address": "1700 CLINTON STREET",
+    "location_city": "MUSKEGON",
+    "location_state": "MI",
+    "location_zip": "49442",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hackley.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2317263511"
-    },
+    "phone_number": "2317263511",
     "provider_id": "230066",
     "raw_ratings": {},
     "state": "MI",

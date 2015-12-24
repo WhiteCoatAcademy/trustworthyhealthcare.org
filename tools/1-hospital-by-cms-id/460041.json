@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 WEST ANTELOPE DRIVE\",\"city\":\"LAYTON\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "41.08921787400004",
-        "longitude": "-111.99543086899996",
-        "needs_recoding": false
+        "coordinates": [
+            -111.995094,
+            41.089245
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 WEST ANTELOPE DRIVE",
+    "location_city": "LAYTON",
+    "location_state": "UT",
+    "location_zip": "84041",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.iasishealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8018071000"
-    },
+    "phone_number": "8018077001",
     "provider_id": "460041",
     "raw_ratings": {},
     "state": "UT",

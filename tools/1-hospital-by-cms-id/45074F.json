@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"2002 HOLCOMBE BLVD.\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.706023060000064",
-        "longitude": "-95.38992511699996",
-        "needs_recoding": false
+        "coordinates": [
+            -95.388768,
+            29.706509
+        ],
+        "type": "Point"
     },
+    "location_address": "2002 HOLCOMBE BLVD.",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77030",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "7137947100"
-    },
+    "phone_number": "7137947100",
     "provider_id": "45074F",
     "raw_ratings": {},
     "state": "TX",

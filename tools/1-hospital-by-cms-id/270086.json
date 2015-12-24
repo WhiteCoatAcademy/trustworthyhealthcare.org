@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1411 9TH ST S\",\"city\":\"GREAT FALLS\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "47.48963865700006",
-        "longitude": "-111.29218982099997",
-        "needs_recoding": false
+        "coordinates": [
+            -111.292244,
+            47.489711
+        ],
+        "type": "Point"
     },
+    "location_address": "1411 9TH ST S",
+    "location_city": "GREAT FALLS",
+    "location_state": "MT",
+    "location_zip": "59405",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4062168000"
-    },
+    "phone_number": "4062168000",
     "provider_id": "270086",
     "raw_ratings": {},
     "state": "MT",

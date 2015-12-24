@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 HIGHWAY 70 EAST\",\"city\":\"DICKSON\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.07213884500004",
-        "longitude": "-87.37488263799997",
-        "needs_recoding": false
+        "coordinates": [
+            -87.374809,
+            36.072121
+        ],
+        "type": "Point"
     },
+    "location_address": "111 HIGHWAY 70 EAST",
+    "location_city": "DICKSON",
+    "location_state": "TN",
+    "location_zip": "37055",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6154460446"
-    },
+    "phone_number": "6154460446",
     "provider_id": "440046",
     "raw_ratings": {},
     "state": "TN",

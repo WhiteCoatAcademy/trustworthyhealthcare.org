@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 E DIXIE AVE\",\"city\":\"LEESBURG\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.806618511000067",
-        "longitude": "-81.86926018599996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.869269,
+            28.806581
+        ],
+        "type": "Point"
     },
+    "location_address": "600 E DIXIE AVE",
+    "location_city": "LEESBURG",
+    "location_state": "FL",
+    "location_zip": "34748",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3523235762"
-    },
+    "phone_number": "3523235762",
     "provider_id": "100084",
     "raw_ratings": {},
     "state": "FL",

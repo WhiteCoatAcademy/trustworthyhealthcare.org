@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"825 CHALKSTONE AVENUE\",\"city\":\"PROVIDENCE\",\"state\":\"RI\",\"zip\":\"\"}",
-        "latitude": "41.83403472100008",
-        "longitude": "-71.43459589699995",
-        "needs_recoding": false
+        "coordinates": [
+            -71.435305,
+            41.833786
+        ],
+        "type": "Point"
     },
+    "location_address": "825 CHALKSTONE AVENUE",
+    "location_city": "PROVIDENCE",
+    "location_state": "RI",
+    "location_zip": "02908",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4014562000"
-    },
+    "phone_number": "4014562000",
     "provider_id": "410004",
     "raw_ratings": {},
     "state": "RI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"230 HOSPITAL PLAZA\",\"city\":\"WESTON\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "39.04780717800003",
-        "longitude": "-80.49272348099998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.492767,
+            39.047801
+        ],
+        "type": "Point"
     },
+    "location_address": "230 HOSPITAL PLAZA",
+    "location_city": "WESTON",
+    "location_state": "WV",
+    "location_zip": "26452",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3042698080"
-    },
+    "phone_number": "3042698080",
     "provider_id": "510038",
     "raw_ratings": {},
     "state": "WV",

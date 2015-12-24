@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1465 E PARKDALE AVE\",\"city\":\"MANISTEE\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "44.272132516000056",
-        "longitude": "-86.27447619899993",
-        "needs_recoding": false
+        "coordinates": [
+            -86.273369,
+            44.272366
+        ],
+        "type": "Point"
     },
+    "location_address": "1465 E PARKDALE AVE",
+    "location_city": "MANISTEE",
+    "location_state": "MI",
+    "location_zip": "49660",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2313981000"
-    },
+    "phone_number": "2313981000",
     "provider_id": "230303",
     "raw_ratings": {},
     "state": "MI",

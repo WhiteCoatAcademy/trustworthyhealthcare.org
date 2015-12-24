@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"655 W 8TH ST\",\"city\":\"JACKSONVILLE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "30.346841313000027",
-        "longitude": "-81.66455759399997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.664567,
+            30.346868
+        ],
+        "type": "Point"
     },
+    "location_address": "655 W 8TH ST",
+    "location_city": "JACKSONVILLE",
+    "location_state": "FL",
+    "location_zip": "32209",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.shands.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9042440411"
-    },
+    "phone_number": "9042440411",
     "provider_id": "100001",
     "raw_ratings": {},
     "state": "FL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 STATE STREET\",\"city\":\"MC CALL\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "44.90953364100005",
-        "longitude": "-116.10972480099997",
-        "needs_recoding": false
+        "coordinates": [
+            -116.109715,
+            44.909057
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 STATE STREET",
+    "location_city": "MC CALL",
+    "location_state": "ID",
+    "location_zip": "83638",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2086342221"
-    },
+    "phone_number": "2084932306",
     "provider_id": "131312",
     "raw_ratings": {},
     "state": "ID",

@@ -2,17 +2,22 @@
     "address": "509 WILSON AVENUE",
     "city": "EUTAW",
     "county_name": "GREENE",
-    "emergency_services": true,
+    "emergency_services": false,
     "global_rank": {},
     "hospital_name": "GREENE COUNTY HOSPITAL",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"509 WILSON AVENUE\",\"city\":\"EUTAW\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "32.84235320400006",
-        "longitude": "-87.89002235799995",
-        "needs_recoding": false
+        "coordinates": [
+            -87.889307,
+            32.844744
+        ],
+        "type": "Point"
     },
+    "location_address": "509 WILSON AVENUE",
+    "location_city": "EUTAW",
+    "location_state": "AL",
+    "location_zip": "35462",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2053723388"
-    },
+    "phone_number": "2053723388",
     "provider_id": "010051",
     "raw_ratings": {},
     "state": "AL",

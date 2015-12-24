@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 E MEDICAL CENTER DRIVE, SPC 5474\",\"city\":\"ANN ARBOR\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.28472328700008",
-        "longitude": "-83.72763302299995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.730657,
+            42.281446
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 E MEDICAL CENTER DRIVE, SPC 5474",
+    "location_city": "ANN ARBOR",
+    "location_state": "MI",
+    "location_zip": "48109",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.med.umich.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "7347641505"
-    },
+    "phone_number": "7347641505",
     "provider_id": "230046",
     "raw_ratings": {},
     "state": "MI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1025 MARSH STREET\",\"city\":\"MANKATO\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.16463128500004",
-        "longitude": "-93.98503226399998",
-        "needs_recoding": false
+        "coordinates": [
+            -93.983708,
+            44.16505
+        ],
+        "type": "Point"
     },
+    "location_address": "1025 MARSH STREET",
+    "location_city": "MANKATO",
+    "location_state": "MN",
+    "location_zip": "56001",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mayohealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5076254031"
-    },
+    "phone_number": "5076254031",
     "provider_id": "240093",
     "raw_ratings": {},
     "state": "MN",

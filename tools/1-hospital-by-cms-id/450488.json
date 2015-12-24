@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1612 SOUTH HENDERSON BLVD\",\"city\":\"KILGORE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.37453009600006",
-        "longitude": "-94.86916765399997",
-        "needs_recoding": false
+        "coordinates": [
+            -94.869194,
+            32.37387
+        ],
+        "type": "Point"
     },
+    "location_address": "1612 SOUTH HENDERSON BLVD",
+    "location_city": "KILGORE",
+    "location_state": "TX",
+    "location_zip": "75662",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9039843505"
-    },
+    "phone_number": "9039843505",
     "provider_id": "450488",
     "raw_ratings": {},
     "state": "TX",

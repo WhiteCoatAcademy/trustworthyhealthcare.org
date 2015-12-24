@@ -2,17 +2,22 @@
     "address": "4401 GARTH ROAD",
     "city": "BAYTOWN",
     "county_name": "HARRIS",
-    "emergency_services": false,
+    "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "SAN JACINTO METHODIST HOSPITAL",
+    "hospital_name": "HOUSTON METHODIST SAN JACINTO HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4401 GARTH ROAD\",\"city\":\"BAYTOWN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.76918980100004",
-        "longitude": "-94.97760198199995",
-        "needs_recoding": false
+        "coordinates": [
+            -94.977543,
+            29.768499
+        ],
+        "type": "Point"
     },
+    "location_address": "4401 GARTH ROAD",
+    "location_city": "BAYTOWN",
+    "location_state": "TX",
+    "location_zip": "77521",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.methodisthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2814208600"
-    },
+    "phone_number": "2814208600",
     "provider_id": "450424",
     "raw_ratings": {},
     "state": "TX",

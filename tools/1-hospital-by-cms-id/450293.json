@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 S IH 35\",\"city\":\"PEARSALL\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "28.891982119000033",
-        "longitude": "-99.09464851099995",
-        "needs_recoding": false
+        "coordinates": [
+            -99.116212,
+            28.896252
+        ],
+        "type": "Point"
     },
+    "location_address": "200 S IH 35",
+    "location_city": "PEARSALL",
+    "location_state": "TX",
+    "location_zip": "78061",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8303343617"
-    },
+    "phone_number": "8303343617",
     "provider_id": "450293",
     "raw_ratings": {},
     "state": "TX",

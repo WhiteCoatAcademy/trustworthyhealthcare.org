@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2222 N NEVADA AVE\",\"city\":\"COLORADO SPRINGS\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "38.86553175200004",
-        "longitude": "-104.82016624599999",
-        "needs_recoding": false
+        "coordinates": [
+            -104.820123,
+            38.865568
+        ],
+        "type": "Point"
     },
+    "location_address": "2222 N NEVADA AVE",
+    "location_city": "COLORADO SPRINGS",
+    "location_state": "CO",
+    "location_zip": "80907",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.centura.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7197765000"
-    },
+    "phone_number": "7197765000",
     "provider_id": "060031",
     "raw_ratings": {},
     "state": "CO",

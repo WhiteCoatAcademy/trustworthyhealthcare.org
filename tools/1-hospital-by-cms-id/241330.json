@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"525 WEST MAIN STREET\",\"city\":\"MELROSE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.674918356000035",
-        "longitude": "-94.82293417599999",
-        "needs_recoding": false
+        "coordinates": [
+            -94.82349,
+            45.674916
+        ],
+        "type": "Point"
     },
+    "location_address": "525 WEST MAIN STREET",
+    "location_city": "MELROSE",
+    "location_state": "MN",
+    "location_zip": "56352",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.centracare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3202564231"
-    },
+    "phone_number": "3202564231",
     "provider_id": "241330",
     "raw_ratings": {},
     "state": "MN",

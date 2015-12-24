@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1800 EAST FLORENCE BOULEVARD\",\"city\":\"CASA GRANDE\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "32.87964292200007",
-        "longitude": "-111.70959654299998",
-        "needs_recoding": false
+        "coordinates": [
+            -111.709253,
+            32.879608
+        ],
+        "type": "Point"
     },
+    "location_address": "1800 EAST FLORENCE BOULEVARD",
+    "location_city": "CASA GRANDE",
+    "location_state": "AZ",
+    "location_zip": "85222",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5203816453"
-    },
+    "phone_number": "5203816300",
     "provider_id": "030016",
     "raw_ratings": {},
     "state": "AZ",

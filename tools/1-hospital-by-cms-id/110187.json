@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"227 MOUNTAIN DR\",\"city\":\"DAHLONEGA\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "34.52287992300006",
-        "longitude": "-83.97610908799999",
-        "needs_recoding": false
+        "coordinates": [
+            -83.976425,
+            34.522759
+        ],
+        "type": "Point"
     },
+    "location_address": "227 MOUNTAIN DR",
+    "location_city": "DAHLONEGA",
+    "location_state": "GA",
+    "location_zip": "30533",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sunlinkhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7068646136"
-    },
+    "phone_number": "7068646136",
     "provider_id": "110187",
     "raw_ratings": {},
     "state": "GA",

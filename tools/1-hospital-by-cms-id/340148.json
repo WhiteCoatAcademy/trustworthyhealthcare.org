@@ -4,15 +4,20 @@
     "county_name": "FORSYTH",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "NOVANT HEALTH PARK HOSPITAL",
+    "hospital_name": "NOVANT HEALTH MEDICAL PARK HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1950 S HAWTHORNE RD\",\"city\":\"WINSTON-SALEM\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "36.07819776300005",
-        "longitude": "-80.29569952999998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.295714,
+            36.078159
+        ],
+        "type": "Point"
     },
+    "location_address": "1950 S HAWTHORNE RD",
+    "location_city": "WINSTON-SALEM",
+    "location_state": "NC",
+    "location_zip": "27103",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.novanthealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3367180600"
-    },
+    "phone_number": "3367180600",
     "provider_id": "340148",
     "raw_ratings": {},
     "state": "NC",

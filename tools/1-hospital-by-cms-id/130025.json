@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"255 N 3RD E\",\"city\":\"REXBURG\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "43.83170966500006",
-        "longitude": "-111.77521829199998",
-        "needs_recoding": false
+        "coordinates": [
+            -111.775167,
+            43.831736
+        ],
+        "type": "Point"
     },
+    "location_address": "255 N 3RD E",
+    "location_city": "REXBURG",
+    "location_state": "ID",
+    "location_zip": "83440",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2083596900"
-    },
+    "phone_number": "2083596900",
     "provider_id": "130025",
     "raw_ratings": {},
     "state": "ID",

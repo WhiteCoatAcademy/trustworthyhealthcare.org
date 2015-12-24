@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6001 KYLE PKWY\",\"city\":\"KYLE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.007586717000038",
-        "longitude": "-97.85517981299995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.85528,
+            30.007734
+        ],
+        "type": "Point"
     },
+    "location_address": "6001 KYLE PKWY",
+    "location_city": "KYLE",
+    "location_state": "TX",
+    "location_zip": "78640",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5123245000"
-    },
+    "phone_number": "5123245000",
     "provider_id": "670056",
     "raw_ratings": {},
     "state": "TX",

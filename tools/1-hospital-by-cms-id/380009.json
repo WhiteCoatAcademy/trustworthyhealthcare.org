@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3181 SW SAM JACKSON PARK ROAD\",\"city\":\"PORTLAND\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "45.49975206100004",
-        "longitude": "-122.68509480899996",
-        "needs_recoding": false
+        "coordinates": [
+            -122.689227,
+            45.499103
+        ],
+        "type": "Point"
     },
+    "location_address": "3181 SW SAM JACKSON PARK ROAD",
+    "location_city": "PORTLAND",
+    "location_state": "OR",
+    "location_zip": "97239",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5034944036"
-    },
+    "phone_number": "5034944036",
     "provider_id": "380009",
     "raw_ratings": {},
     "state": "OR",

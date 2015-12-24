@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2425 SAMARITAN DRIVE\",\"city\":\"SAN JOSE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.251118097000074",
-        "longitude": "-121.94790899199995",
-        "needs_recoding": false
+        "coordinates": [
+            -121.947049,
+            37.251108
+        ],
+        "type": "Point"
     },
+    "location_address": "2425 SAMARITAN DRIVE",
+    "location_city": "SAN JOSE",
+    "location_state": "CA",
+    "location_zip": "95124",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4085592011"
-    },
+    "phone_number": "4085592011",
     "provider_id": "050380",
     "raw_ratings": {},
     "state": "CA",

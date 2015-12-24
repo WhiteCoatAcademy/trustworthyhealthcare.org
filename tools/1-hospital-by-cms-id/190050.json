@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 S PINE STREET\",\"city\":\"DERIDDER\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.841862243000037",
-        "longitude": "-93.28900819099994",
-        "needs_recoding": false
+        "coordinates": [
+            -93.289056,
+            30.84195
+        ],
+        "type": "Point"
     },
+    "location_address": "600 S PINE STREET",
+    "location_city": "DERIDDER",
+    "location_state": "LA",
+    "location_zip": "70634",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3374627100"
-    },
+    "phone_number": "3374627100",
     "provider_id": "190050",
     "raw_ratings": {},
     "state": "LA",

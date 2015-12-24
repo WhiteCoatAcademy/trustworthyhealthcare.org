@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"642 W HOSPITAL RD\",\"city\":\"PAOLI\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "38.56825687200006",
-        "longitude": "-86.47386934899998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.474551,
+            38.567715
+        ],
+        "type": "Point"
     },
+    "location_address": "642 W HOSPITAL RD",
+    "location_city": "PAOLI",
+    "location_state": "IN",
+    "location_zip": "47454",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8127232811"
-    },
+    "phone_number": "8127232811",
     "provider_id": "151306",
     "raw_ratings": {},
     "state": "IN",

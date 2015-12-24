@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"232 S WOODS MILL RD\",\"city\":\"CHESTERFIELD\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.65247830200008",
-        "longitude": "-90.50680500099998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.50592,
+            38.653066
+        ],
+        "type": "Point"
     },
+    "location_address": "232 S WOODS MILL RD",
+    "location_city": "CHESTERFIELD",
+    "location_state": "MO",
+    "location_zip": "63017",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3144341500"
-    },
+    "phone_number": "3144341500",
     "provider_id": "260179",
     "raw_ratings": {},
     "state": "MO",

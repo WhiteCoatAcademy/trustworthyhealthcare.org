@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1201 S MAIN ST\",\"city\":\"CROWN POINT\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.431069929000046",
-        "longitude": "-87.36465693799994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.364436,
+            41.396497
+        ],
+        "type": "Point"
     },
+    "location_address": "1201 S MAIN ST",
+    "location_city": "CROWN POINT",
+    "location_state": "IN",
+    "location_zip": "46307",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ssfhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2197576100"
-    },
+    "phone_number": "2197382100",
     "provider_id": "150126",
     "raw_ratings": {},
     "state": "IN",

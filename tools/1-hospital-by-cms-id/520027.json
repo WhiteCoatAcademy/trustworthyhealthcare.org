@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"13111 N PORT WASHINGTON RD\",\"city\":\"MEQUON\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.257449285000064",
-        "longitude": "-87.92418653399994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.924149,
+            43.25606
+        ],
+        "type": "Point"
     },
+    "location_address": "13111 N PORT WASHINGTON RD",
+    "location_city": "MEQUON",
+    "location_state": "WI",
+    "location_zip": "53097",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2622437300"
-    },
+    "phone_number": "2622437300",
     "provider_id": "520027",
     "raw_ratings": {},
     "state": "WI",

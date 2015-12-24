@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"865 STONE ST\",\"city\":\"RAHWAY\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.612047604000054",
-        "longitude": "-74.29029708499996",
-        "needs_recoding": false
+        "coordinates": [
+            -74.291721,
+            40.612243
+        ],
+        "type": "Point"
     },
+    "location_address": "865 STONE ST",
+    "location_city": "RAHWAY",
+    "location_state": "NJ",
+    "location_zip": "07065",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.rwjhn.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7323814200"
-    },
+    "phone_number": "7323814200",
     "provider_id": "310024",
     "raw_ratings": {},
     "state": "NJ",

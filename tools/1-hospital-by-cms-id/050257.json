@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"901 OLIVE DRIVE\",\"city\":\"BAKERSFIELD\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "35.41224340100007",
-        "longitude": "-119.03920976699999",
-        "needs_recoding": false
+        "coordinates": [
+            -119.03994,
+            35.41226
+        ],
+        "type": "Point"
     },
+    "location_address": "901 OLIVE DRIVE",
+    "location_city": "BAKERSFIELD",
+    "location_state": "CA",
+    "location_zip": "93308",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6613994461"
-    },
+    "phone_number": "6613994461",
     "provider_id": "050257",
     "raw_ratings": {},
     "state": "CA",

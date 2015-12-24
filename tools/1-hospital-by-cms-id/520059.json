@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"252 MCHENRY ST\",\"city\":\"BURLINGTON\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "42.673426766000034",
-        "longitude": "-88.28261763699999",
-        "needs_recoding": false
+        "coordinates": [
+            -88.282817,
+            42.673014
+        ],
+        "type": "Point"
     },
+    "location_address": "252 MCHENRY ST",
+    "location_city": "BURLINGTON",
+    "location_state": "WI",
+    "location_zip": "53105",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.aurorahealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2627676000"
-    },
+    "phone_number": "2627676545",
     "provider_id": "520059",
     "raw_ratings": {},
     "state": "WI",

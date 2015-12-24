@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"425 WEST 5TH STREET\",\"city\":\"EAST LIVERPOOL\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.621446767000066",
-        "longitude": "-80.58626121699996",
-        "needs_recoding": false
+        "coordinates": [
+            -80.586218,
+            40.621409
+        ],
+        "type": "Point"
     },
+    "location_address": "425 WEST 5TH STREET",
+    "location_city": "EAST LIVERPOOL",
+    "location_state": "OH",
+    "location_zip": "43920",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3303857200"
-    },
+    "phone_number": "3303857200",
     "provider_id": "360096",
     "raw_ratings": {},
     "state": "OH",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1216 SECOND STREET SOUTHWEST\",\"city\":\"ROCHESTER\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.02161146900005",
-        "longitude": "-92.48209027499996",
-        "needs_recoding": false
+        "coordinates": [
+            -92.481355,
+            44.021643
+        ],
+        "type": "Point"
     },
+    "location_address": "1216 SECOND STREET SOUTHWEST",
+    "location_city": "ROCHESTER",
+    "location_state": "MN",
+    "location_zip": "55902",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mayohealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5072555123"
-    },
+    "phone_number": "5072555123",
     "provider_id": "240010",
     "raw_ratings": {},
     "state": "MN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"316 CALHOUN ST\",\"city\":\"CHARLESTON\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "32.78233761000007",
-        "longitude": "-79.94893760199994",
-        "needs_recoding": false
+        "coordinates": [
+            -79.948734,
+            32.782372
+        ],
+        "type": "Point"
     },
+    "location_address": "316 CALHOUN ST",
+    "location_city": "CHARLESTON",
+    "location_state": "SC",
+    "location_zip": "29401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bshsi.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8437242800"
-    },
+    "phone_number": "8437242800",
     "provider_id": "420087",
     "raw_ratings": {},
     "state": "SC",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"67 1125 MAMALAHOA HIGHWAY\",\"city\":\"KAMUELA\",\"state\":\"HI\",\"zip\":\"\"}",
-        "latitude": "20.02031224800004",
-        "longitude": "-155.66902793999998",
-        "needs_recoding": false
+        "coordinates": [
+            -155.665685,
+            20.023076
+        ],
+        "type": "Point"
     },
+    "location_address": "67 1125 MAMALAHOA HIGHWAY",
+    "location_city": "KAMUELA",
+    "location_state": "HI",
+    "location_zip": "96743",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.adventisthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8088854444"
-    },
+    "phone_number": "8088854444",
     "provider_id": "120028",
     "raw_ratings": {},
     "state": "HI",

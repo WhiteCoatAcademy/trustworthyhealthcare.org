@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"64 EAST 100 NORTH\",\"city\":\"GUNNISON\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "39.15662908000007",
-        "longitude": "-111.81637890399998",
-        "needs_recoding": false
+        "coordinates": [
+            -111.816289,
+            39.153646
+        ],
+        "type": "Point"
     },
+    "location_address": "64 EAST 100 NORTH",
+    "location_city": "GUNNISON",
+    "location_state": "UT",
+    "location_zip": "84634",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4355287246"
-    },
+    "phone_number": "4355287246",
     "provider_id": "461306",
     "raw_ratings": {},
     "state": "UT",

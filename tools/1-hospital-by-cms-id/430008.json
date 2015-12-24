@@ -4,15 +4,20 @@
     "county_name": "BROOKINGS",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "BROOKINGS HOSPITAL",
+    "hospital_name": "BROOKINGS HEALTH SYSTEM",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 22ND AVE\",\"city\":\"BROOKINGS\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "44.307884125000044",
-        "longitude": "-96.76817827399998",
-        "needs_recoding": false
+        "coordinates": [
+            -96.768153,
+            44.307751
+        ],
+        "type": "Point"
     },
+    "location_address": "300 22ND AVE",
+    "location_city": "BROOKINGS",
+    "location_state": "SD",
+    "location_zip": "57006",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6056967701"
-    },
+    "phone_number": "6056969000",
     "provider_id": "430008",
     "raw_ratings": {},
     "state": "SD",

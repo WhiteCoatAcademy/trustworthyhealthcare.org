@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"24451 HEALTH CENTER DRIVE\",\"city\":\"LAGUNA HILLS\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.60802273400003",
-        "longitude": "-117.70825152199996",
-        "needs_recoding": false
+        "coordinates": [
+            -117.708217,
+            33.607975
+        ],
+        "type": "Point"
     },
+    "location_address": "24451 HEALTH CENTER DRIVE",
+    "location_city": "LAGUNA HILLS",
+    "location_state": "CA",
+    "location_zip": "92653",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.memorialcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9498374500"
-    },
+    "phone_number": "9498374500",
     "provider_id": "050603",
     "raw_ratings": {},
     "state": "CA",

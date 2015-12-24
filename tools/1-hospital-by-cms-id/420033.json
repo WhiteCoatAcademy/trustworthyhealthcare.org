@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "GHS GREER MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
+    "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"830 SOUTH BUNCOMBE ROAD\",\"city\":\"GREER\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.91881673900008",
-        "longitude": "-82.24184935899996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.242003,
+            34.919241
+        ],
+        "type": "Point"
     },
+    "location_address": "830 SOUTH BUNCOMBE ROAD",
+    "location_city": "GREER",
+    "location_state": "SC",
+    "location_zip": "29650",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8648488200"
-    },
+    "phone_number": "8648488200",
     "provider_id": "420033",
     "raw_ratings": {},
     "state": "SC",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"420 FRANKLIN STREET\",\"city\":\"RUMFORD\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "44.55157454700003",
-        "longitude": "-70.55699648999996",
-        "needs_recoding": false
+        "coordinates": [
+            -70.557148,
+            44.551703
+        ],
+        "type": "Point"
     },
+    "location_address": "420 FRANKLIN STREET",
+    "location_city": "RUMFORD",
+    "location_state": "ME",
+    "location_zip": "04276",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2073691000"
-    },
+    "phone_number": "2073691000",
     "provider_id": "201306",
     "raw_ratings": {},
     "state": "ME",

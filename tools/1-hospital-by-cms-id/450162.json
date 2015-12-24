@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2412 50TH ST\",\"city\":\"LUBBOCK\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.54880781900005",
-        "longitude": "-101.87010010499995",
-        "needs_recoding": false
+        "coordinates": [
+            -101.869732,
+            33.548786
+        ],
+        "type": "Point"
     },
+    "location_address": "2412 50TH ST",
+    "location_city": "LUBBOCK",
+    "location_state": "TX",
+    "location_zip": "79412",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8067884100"
-    },
+    "phone_number": "8067884100",
     "provider_id": "450162",
     "raw_ratings": {},
     "state": "TX",

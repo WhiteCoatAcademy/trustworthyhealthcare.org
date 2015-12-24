@@ -5,14 +5,19 @@
     "emergency_services": false,
     "global_rank": {},
     "hospital_name": "ADCARE HOSPITAL OF WORCESTER INC",
-    "hospital_ownership": "Voluntary non-profit - Church",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"107 LINCOLN STREET\",\"city\":\"WORCESTER\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.27656132000004",
-        "longitude": "-71.79526357599997",
-        "needs_recoding": false
+        "coordinates": [
+            -71.795311,
+            42.27658
+        ],
+        "type": "Point"
     },
+    "location_address": "107 LINCOLN STREET",
+    "location_city": "WORCESTER",
+    "location_state": "MA",
+    "location_zip": "01605",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5087999000"
-    },
+    "phone_number": "5087999000",
     "provider_id": "220062",
     "raw_ratings": {},
     "state": "MA",

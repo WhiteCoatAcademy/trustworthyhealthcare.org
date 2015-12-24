@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"13652 CANTARA ST\",\"city\":\"PANORAMA CITY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.21980341300008",
-        "longitude": "-118.431029664",
-        "needs_recoding": false
+        "coordinates": [
+            -118.430299,
+            34.219847
+        ],
+        "type": "Point"
     },
+    "location_address": "13652 CANTARA ST",
+    "location_city": "PANORAMA CITY",
+    "location_state": "CA",
+    "location_zip": "91402",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8183753333"
-    },
+    "phone_number": "8183753333",
     "provider_id": "050137",
     "raw_ratings": {},
     "state": "CA",

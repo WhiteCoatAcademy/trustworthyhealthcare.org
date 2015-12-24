@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"407 3RD AVE SE\",\"city\":\"GARRISON\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "47.64837318700006",
-        "longitude": "-101.41089252499995",
-        "needs_recoding": false
+        "coordinates": [
+            -101.411299,
+            47.648342
+        ],
+        "type": "Point"
     },
+    "location_address": "407 3RD AVE SE",
+    "location_city": "GARRISON",
+    "location_state": "ND",
+    "location_zip": "58540",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7014632275"
-    },
+    "phone_number": "7014632275",
     "provider_id": "351303",
     "raw_ratings": {},
     "state": "ND",

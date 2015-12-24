@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4100 RIVER RD\",\"city\":\"EAST CHINA\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.78500912800007",
-        "longitude": "-82.47777560299994",
-        "needs_recoding": false
+        "coordinates": [
+            -82.478023,
+            42.785866
+        ],
+        "type": "Point"
     },
+    "location_address": "4100 RIVER RD",
+    "location_city": "EAST CHINA",
+    "location_state": "MI",
+    "location_zip": "48054",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8103297111"
-    },
+    "phone_number": "8103297111",
     "provider_id": "230241",
     "raw_ratings": {},
     "state": "MI",

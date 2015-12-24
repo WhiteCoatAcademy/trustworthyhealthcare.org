@@ -1,18 +1,23 @@
 {
-    "address": "10105 PARK ROW CIRCLE",
+    "address": "10105 PARK ROW CIRCLE, SUITE 250",
     "city": "BATON ROUGE",
     "county_name": "EAST BATON ROUGE",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "THE NEUROMEDICAL CENTER HOSPITAL",
+    "hospital_name": "THE SPINE HOSPITAL OF LOUISIANA",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10105 PARK ROW CIRCLE\",\"city\":\"BATON ROUGE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.44334244500004",
-        "longitude": "-91.18698943099997",
-        "needs_recoding": false
+        "coordinates": [
+            -91.095887,
+            30.380555
+        ],
+        "type": "Point"
     },
+    "location_address": "10105 PARK ROW CIRCLE, SUITE 250",
+    "location_city": "BATON ROUGE",
+    "location_state": "LA",
+    "location_zip": "70810",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.theneuromedicalcenter.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2257639900"
-    },
+    "phone_number": "2257639900",
     "provider_id": "190266",
     "raw_ratings": {},
     "state": "LA",

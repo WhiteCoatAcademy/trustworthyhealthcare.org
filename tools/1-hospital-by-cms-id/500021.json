@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11315 BRIDGEPORT WAY S W\",\"city\":\"LAKEWOOD\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.15478113200004",
-        "longitude": "-122.50442856399997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.504488,
+            47.153766
+        ],
+        "type": "Point"
     },
+    "location_address": "11315 BRIDGEPORT WAY S W",
+    "location_city": "LAKEWOOD",
+    "location_state": "WA",
+    "location_zip": "98499",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2535881711"
-    },
+    "phone_number": "2535881711",
     "provider_id": "500021",
     "raw_ratings": {},
     "state": "WA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"169 MARTIN AVENUE\",\"city\":\"EPHRATA\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.186532975000034",
-        "longitude": "-76.18410912099995",
-        "needs_recoding": false
+        "coordinates": [
+            -76.184268,
+            40.186866
+        ],
+        "type": "Point"
     },
+    "location_address": "169 MARTIN AVENUE",
+    "location_city": "EPHRATA",
+    "location_state": "PA",
+    "location_zip": "17522",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7177330311"
-    },
+    "phone_number": "7177330311",
     "provider_id": "390225",
     "raw_ratings": {},
     "state": "PA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6644 EAST BAYWOOD AVENUE\",\"city\":\"MESA\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.41045795000008",
-        "longitude": "-111.68797096999998",
-        "needs_recoding": false
+        "coordinates": [
+            -111.687145,
+            33.41047
+        ],
+        "type": "Point"
     },
+    "location_address": "6644 EAST BAYWOOD AVENUE",
+    "location_city": "MESA",
+    "location_state": "AZ",
+    "location_zip": "85206",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bannerhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4803212000"
-    },
+    "phone_number": "4803212000",
     "provider_id": "030088",
     "raw_ratings": {},
     "state": "AZ",

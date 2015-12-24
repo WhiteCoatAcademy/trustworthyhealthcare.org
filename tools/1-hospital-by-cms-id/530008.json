@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2100 W SUNSET DR\",\"city\":\"RIVERTON\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "43.03370726400004",
-        "longitude": "-108.41883107999996",
-        "needs_recoding": false
+        "coordinates": [
+            -108.418854,
+            43.033669
+        ],
+        "type": "Point"
     },
+    "location_address": "2100 W SUNSET DR",
+    "location_city": "RIVERTON",
+    "location_state": "WY",
+    "location_zip": "82501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3078564161"
-    },
+    "phone_number": "3078564161",
     "provider_id": "530008",
     "raw_ratings": {},
     "state": "WY",

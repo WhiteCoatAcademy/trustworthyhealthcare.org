@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "PEARL RIVER COUNTY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"305 WEST MOODY STREET\",\"city\":\"POPLARVILLE\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "30.85710250900007",
-        "longitude": "-89.54240485699995",
-        "needs_recoding": false
+        "coordinates": [
+            -89.541022,
+            30.857118
+        ],
+        "type": "Point"
     },
+    "location_address": "305 WEST MOODY STREET",
+    "location_city": "POPLARVILLE",
+    "location_state": "MS",
+    "location_zip": "39470",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6017954543"
-    },
+    "phone_number": "6017954543",
     "provider_id": "251333",
     "raw_ratings": {},
     "state": "MS",

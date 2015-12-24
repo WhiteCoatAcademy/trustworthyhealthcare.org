@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "ED FRASER MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
+    "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"159 N 3RD ST\",\"city\":\"MACCLENNY\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "30.285028344000068",
-        "longitude": "-82.11938945599996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.119433,
+            30.285031
+        ],
+        "type": "Point"
     },
+    "location_address": "159 N 3RD ST",
+    "location_city": "MACCLENNY",
+    "location_state": "FL",
+    "location_zip": "32063",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9042593151"
-    },
+    "phone_number": "9042593151",
     "provider_id": "100134",
     "raw_ratings": {},
     "state": "FL",

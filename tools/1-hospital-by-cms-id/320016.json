@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1313 E 32ND ST\",\"city\":\"SILVER CITY\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "32.79560734000006",
-        "longitude": "-108.26188196399994",
-        "needs_recoding": false
+        "coordinates": [
+            -108.262432,
+            32.795578
+        ],
+        "type": "Point"
     },
+    "location_address": "1313 E 32ND ST",
+    "location_city": "SILVER CITY",
+    "location_state": "NM",
+    "location_zip": "88061",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5755384000"
-    },
+    "phone_number": "5755384000",
     "provider_id": "320016",
     "raw_ratings": {},
     "state": "NM",

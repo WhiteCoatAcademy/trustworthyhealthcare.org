@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1124 WASHINGTON BOULEVARD\",\"city\":\"NEWCASTLE\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "43.848822202000065",
-        "longitude": "-104.18884025799997",
-        "needs_recoding": false
+        "coordinates": [
+            -104.189089,
+            43.848742
+        ],
+        "type": "Point"
     },
+    "location_address": "1124 WASHINGTON BOULEVARD",
+    "location_city": "NEWCASTLE",
+    "location_state": "WY",
+    "location_zip": "82701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.rcrh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3077464491"
-    },
+    "phone_number": "3077464491",
     "provider_id": "531303",
     "raw_ratings": {},
     "state": "WY",

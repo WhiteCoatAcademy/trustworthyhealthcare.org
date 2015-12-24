@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1229 C AVENUE EAST\",\"city\":\"OSKALOOSA\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.29856917700005",
-        "longitude": "-92.63021638899994",
-        "needs_recoding": false
+        "coordinates": [
+            -92.630634,
+            41.298559
+        ],
+        "type": "Point"
     },
+    "location_address": "1229 C AVENUE EAST",
+    "location_city": "OSKALOOSA",
+    "location_state": "IA",
+    "location_zip": "52577",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6416723100"
-    },
+    "phone_number": "6416723100",
     "provider_id": "161379",
     "raw_ratings": {},
     "state": "IA",

@@ -4,15 +4,20 @@
     "county_name": "BUCKS",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "BUCKS COUNTY SPECIALTY HOSPITAL",
+    "hospital_name": "Rothman Orthopaedic Specialty Hospital, LLC",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3300 TILLMAN DRIVE\",\"city\":\"BENSALEM\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.11694106200008",
-        "longitude": "-74.96132686499999",
-        "needs_recoding": false
+        "coordinates": [
+            -74.961728,
+            40.113303
+        ],
+        "type": "Point"
     },
+    "location_address": "3300 TILLMAN DRIVE",
+    "location_city": "BENSALEM",
+    "location_state": "PA",
+    "location_zip": "19020",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2152447400"
-    },
+    "phone_number": "2152447400",
     "provider_id": "390322",
     "raw_ratings": {},
     "state": "PA",

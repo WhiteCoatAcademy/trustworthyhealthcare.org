@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 CLAY ST\",\"city\":\"DARLINGTON\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "42.68379326400003",
-        "longitude": "-90.11047276299996",
-        "needs_recoding": false
+        "coordinates": [
+            -90.110418,
+            42.683988
+        ],
+        "type": "Point"
     },
+    "location_address": "800 CLAY ST",
+    "location_city": "DARLINGTON",
+    "location_state": "WI",
+    "location_zip": "53530",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6087764466"
-    },
+    "phone_number": "6087764466",
     "provider_id": "521312",
     "raw_ratings": {},
     "state": "WI",

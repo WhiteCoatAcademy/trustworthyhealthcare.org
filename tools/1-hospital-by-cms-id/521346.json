@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"309 N BARTLETTE ST\",\"city\":\"SHAWANO\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.784048692000056",
-        "longitude": "-88.61581951299996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.615516,
+            44.784053
+        ],
+        "type": "Point"
     },
+    "location_address": "309 N BARTLETTE ST",
+    "location_city": "SHAWANO",
+    "location_state": "WI",
+    "location_zip": "54166",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7155262111"
-    },
+    "phone_number": "7155262111",
     "provider_id": "521346",
     "raw_ratings": {},
     "state": "WI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"420 N CENTER ST\",\"city\":\"HICKORY\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.737530253000045",
-        "longitude": "-81.33771719399994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.337766,
+            35.737611
+        ],
+        "type": "Point"
     },
+    "location_address": "420 N CENTER ST",
+    "location_city": "HICKORY",
+    "location_state": "NC",
+    "location_zip": "28601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8283226070"
-    },
+    "phone_number": "8283226070",
     "provider_id": "340116",
     "raw_ratings": {},
     "state": "NC",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"807 SOUTH ISABELLA STREET\",\"city\":\"SYLVESTER\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "31.537582875000055",
-        "longitude": "-83.83709250099997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.838262,
+            31.517934
+        ],
+        "type": "Point"
     },
+    "location_address": "807 SOUTH ISABELLA STREET",
+    "location_city": "SYLVESTER",
+    "location_state": "GA",
+    "location_zip": "31791",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.phoebeputney.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2297773851"
-    },
+    "phone_number": "2297773851",
     "provider_id": "111328",
     "raw_ratings": {},
     "state": "GA",

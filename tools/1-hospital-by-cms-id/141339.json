@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"201 EAST PLEASANT STREET\",\"city\":\"TAYLORVILLE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "39.55378852800004",
-        "longitude": "-89.29306047399996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.293744,
+            39.553759
+        ],
+        "type": "Point"
     },
+    "location_address": "201 EAST PLEASANT STREET",
+    "location_city": "TAYLORVILLE",
+    "location_state": "IL",
+    "location_zip": "62568",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2178243331"
-    },
+    "phone_number": "2178243331",
     "provider_id": "141339",
     "raw_ratings": {},
     "state": "IL",

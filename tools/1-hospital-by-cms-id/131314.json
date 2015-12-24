@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"25 JACOBS GULCH ROAD\",\"city\":\"KELLOGG\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "47.54768848500004",
-        "longitude": "-116.13081410099994",
-        "needs_recoding": false
+        "coordinates": [
+            -116.126658,
+            47.556212
+        ],
+        "type": "Point"
     },
+    "location_address": "25 JACOBS GULCH ROAD",
+    "location_city": "KELLOGG",
+    "location_state": "ID",
+    "location_zip": "83837",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2087841221"
-    },
+    "phone_number": "2087841221",
     "provider_id": "131314",
     "raw_ratings": {},
     "state": "ID",

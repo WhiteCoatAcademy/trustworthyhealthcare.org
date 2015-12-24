@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"805 NORTH MAIN\",\"city\":\"BIG LAKE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.197585720000063",
-        "longitude": "-101.46171618399995",
-        "needs_recoding": false
+        "coordinates": [
+            -101.461701,
+            31.197961
+        ],
+        "type": "Point"
     },
+    "location_address": "805 NORTH MAIN",
+    "location_city": "BIG LAKE",
+    "location_state": "TX",
+    "location_zip": "76932",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3258442561"
-    },
+    "phone_number": "3258442561",
     "provider_id": "451301",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"320 POMFRET STREET\",\"city\":\"PUTNAM\",\"state\":\"CT\",\"zip\":\"\"}",
-        "latitude": "41.907582726000044",
-        "longitude": "-71.91479855199998",
-        "needs_recoding": false
+        "coordinates": [
+            -71.915585,
+            41.907274
+        ],
+        "type": "Point"
     },
+    "location_address": "320 POMFRET STREET",
+    "location_city": "PUTNAM",
+    "location_state": "CT",
+    "location_zip": "06260",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8609286541"
-    },
+    "phone_number": "8609286541",
     "provider_id": "070003",
     "raw_ratings": {},
     "state": "CT",

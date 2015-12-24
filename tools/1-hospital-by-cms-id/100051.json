@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1900 DON WICKHAM DR\",\"city\":\"CLERMONT\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.55028730600003",
-        "longitude": "-81.71751395799998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.722939,
+            28.551172
+        ],
+        "type": "Point"
     },
+    "location_address": "1900 DON WICKHAM DR",
+    "location_city": "CLERMONT",
+    "location_state": "FL",
+    "location_zip": "34711",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3523944071"
-    },
+    "phone_number": "3523944071",
     "provider_id": "100051",
     "raw_ratings": {},
     "state": "FL",

@@ -2,17 +2,22 @@
     "address": "4901 COLLEGE BLVD",
     "city": "LEAWOOD",
     "county_name": "JOHNSON",
-    "emergency_services": true,
+    "emergency_services": false,
     "global_rank": {},
     "hospital_name": "DOCTORS HOSPITAL LLC",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4901 COLLEGE BLVD\",\"city\":\"LEAWOOD\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.927403525000045",
-        "longitude": "-94.64369029999995",
-        "needs_recoding": false
+        "coordinates": [
+            -94.6435,
+            38.927412
+        ],
+        "type": "Point"
     },
+    "location_address": "4901 COLLEGE BLVD",
+    "location_city": "LEAWOOD",
+    "location_state": "KS",
+    "location_zip": "66211",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9135291801"
-    },
+    "phone_number": "9135291801",
     "provider_id": "170194",
     "raw_ratings": {},
     "state": "KS",

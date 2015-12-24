@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 EAST MURPHY AVENUE\",\"city\":\"CONNELLSVILLE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.023362957000074",
-        "longitude": "-79.58596767799997",
-        "needs_recoding": false
+        "coordinates": [
+            -79.586222,
+            40.023372
+        ],
+        "type": "Point"
     },
+    "location_address": "401 EAST MURPHY AVENUE",
+    "location_city": "CONNELLSVILLE",
+    "location_state": "PA",
+    "location_zip": "15425",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7246281500"
-    },
+    "phone_number": "7246281500",
     "provider_id": "390184",
     "raw_ratings": {},
     "state": "PA",

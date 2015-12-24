@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2300 PATTERSON STREET\",\"city\":\"NASHVILLE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.15285640600007",
-        "longitude": "-86.80778218299997",
-        "needs_recoding": false
+        "coordinates": [
+            -86.808599,
+            36.152463
+        ],
+        "type": "Point"
     },
+    "location_address": "2300 PATTERSON STREET",
+    "location_city": "NASHVILLE",
+    "location_state": "TN",
+    "location_zip": "37203",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6153421000"
-    },
+    "phone_number": "6153421000",
     "provider_id": "440161",
     "raw_ratings": {},
     "state": "TN",

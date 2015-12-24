@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"210 NORTH MAIN STREET\",\"city\":\"LONDON\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.892264398000066",
-        "longitude": "-83.45543256599996",
-        "needs_recoding": false
+        "coordinates": [
+            -83.454296,
+            39.891314
+        ],
+        "type": "Point"
     },
+    "location_address": "210 NORTH MAIN STREET",
+    "location_city": "LONDON",
+    "location_state": "OH",
+    "location_zip": "43140",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7408457000"
-    },
+    "phone_number": "7408457000",
     "provider_id": "360189",
     "raw_ratings": {},
     "state": "OH",

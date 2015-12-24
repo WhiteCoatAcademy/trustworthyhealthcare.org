@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"55 MEADOWLANDS PKWY\",\"city\":\"SECAUCUS\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.791971800000056",
-        "longitude": "-74.07184404199995",
-        "needs_recoding": false
+        "coordinates": [
+            -74.072165,
+            40.791736
+        ],
+        "type": "Point"
     },
+    "location_address": "55 MEADOWLANDS PKWY",
+    "location_city": "SECAUCUS",
+    "location_state": "NJ",
+    "location_zip": "07094",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.libertyhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2013923200"
-    },
+    "phone_number": "2013923200",
     "provider_id": "310118",
     "raw_ratings": {},
     "state": "NJ",

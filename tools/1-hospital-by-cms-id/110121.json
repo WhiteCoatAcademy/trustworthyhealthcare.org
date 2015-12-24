@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1155 5TH STREET, SE\",\"city\":\"CAIRO\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "30.863139084000068",
-        "longitude": "-84.20007463299999",
-        "needs_recoding": false
+        "coordinates": [
+            -84.193736,
+            30.851659
+        ],
+        "type": "Point"
     },
+    "location_address": "1155 5TH STREET, SE",
+    "location_city": "CAIRO",
+    "location_state": "GA",
+    "location_zip": "39828",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.archbold.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2293770251"
-    },
+    "phone_number": "2293770251",
     "provider_id": "110121",
     "raw_ratings": {},
     "state": "GA",

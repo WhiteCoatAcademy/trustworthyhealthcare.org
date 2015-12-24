@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5255 LOUGHBORO RD NW\",\"city\":\"WASHINGTON\",\"state\":\"DC\",\"zip\":\"\"}",
-        "latitude": "38.935767938000026",
-        "longitude": "-77.11010007199997",
-        "needs_recoding": false
+        "coordinates": [
+            -77.109889,
+            38.935747
+        ],
+        "type": "Point"
     },
+    "location_address": "5255 LOUGHBORO RD NW",
+    "location_city": "WASHINGTON",
+    "location_state": "DC",
+    "location_zip": "20016",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2025374680"
-    },
+    "phone_number": "2025374680",
     "provider_id": "090005",
     "raw_ratings": {},
     "state": "DC",

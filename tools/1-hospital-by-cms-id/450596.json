@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1310 PALUXY RD\",\"city\":\"GRANBURY\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.43155306600005",
-        "longitude": "-97.80308917499997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.802844,
+            32.431753
+        ],
+        "type": "Point"
     },
+    "location_address": "1310 PALUXY RD",
+    "location_city": "GRANBURY",
+    "location_state": "TX",
+    "location_zip": "76048",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "8175732683"
-    },
+    "phone_number": "8175732683",
     "provider_id": "450596",
     "raw_ratings": {},
     "state": "TX",

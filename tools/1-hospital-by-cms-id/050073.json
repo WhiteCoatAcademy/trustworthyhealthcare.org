@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"975 SERENO DR\",\"city\":\"VALLEJO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.12839097800003",
-        "longitude": "-122.24761114299997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.247584,
+            38.128437
+        ],
+        "type": "Point"
     },
+    "location_address": "975 SERENO DR",
+    "location_city": "VALLEJO",
+    "location_state": "CA",
+    "location_zip": "94589",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7076511000"
-    },
+    "phone_number": "7076511000",
     "provider_id": "050073",
     "raw_ratings": {},
     "state": "CA",

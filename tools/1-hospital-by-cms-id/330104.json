@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"160 NORTH MIDLAND AVENUE\",\"city\":\"NYACK\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "41.09537451600005",
-        "longitude": "-73.92524268399995",
-        "needs_recoding": false
+        "coordinates": [
+            -73.925273,
+            41.0952
+        ],
+        "type": "Point"
     },
+    "location_address": "160 NORTH MIDLAND AVENUE",
+    "location_city": "NYACK",
+    "location_state": "NY",
+    "location_zip": "10960",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nypsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8453482000"
-    },
+    "phone_number": "8453482000",
     "provider_id": "330104",
     "raw_ratings": {},
     "state": "NY",

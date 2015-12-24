@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 SOUTH STREET\",\"city\":\"SOUTHBRIDGE\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.07448148100008",
-        "longitude": "-72.03258816799996",
-        "needs_recoding": false
+        "coordinates": [
+            -72.043002,
+            42.077044
+        ],
+        "type": "Point"
     },
+    "location_address": "100 SOUTH STREET",
+    "location_city": "SOUTHBRIDGE",
+    "location_state": "MA",
+    "location_zip": "01550",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5087659771"
-    },
+    "phone_number": "5087659771",
     "provider_id": "220019",
     "raw_ratings": {},
     "state": "MA",

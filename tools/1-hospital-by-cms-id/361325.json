@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"269 PORTLAND WAY SOUTH\",\"city\":\"GALION\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.73113016800005",
-        "longitude": "-82.80327677999998",
-        "needs_recoding": false
+        "coordinates": [
+            -82.803598,
+            40.730156
+        ],
+        "type": "Point"
     },
+    "location_address": "269 PORTLAND WAY SOUTH",
+    "location_city": "GALION",
+    "location_state": "OH",
+    "location_zip": "44833",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4194684841"
-    },
+    "phone_number": "4194684841",
     "provider_id": "361325",
     "raw_ratings": {},
     "state": "OH",

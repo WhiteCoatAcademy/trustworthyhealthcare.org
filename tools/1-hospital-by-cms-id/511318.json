@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 SIXTH AVENUE, FAYETTE COUNTY\",\"city\":\"MONTGOMERY\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "38.182854587000065",
-        "longitude": "-81.32400326799996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.325594,
+            38.182763
+        ],
+        "type": "Point"
     },
+    "location_address": "401 SIXTH AVENUE, FAYETTE COUNTY",
+    "location_city": "MONTGOMERY",
+    "location_state": "WV",
+    "location_zip": "25136",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3044425151"
-    },
+    "phone_number": "3044425151",
     "provider_id": "511318",
     "raw_ratings": {},
     "state": "WV",

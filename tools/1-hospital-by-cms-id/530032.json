@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"190 ARROWHEAD DR\",\"city\":\"EVANSTON\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "41.24223083900006",
-        "longitude": "-110.99162710599995",
-        "needs_recoding": false
+        "coordinates": [
+            -110.990352,
+            41.242224
+        ],
+        "type": "Point"
     },
+    "location_address": "190 ARROWHEAD DR",
+    "location_city": "EVANSTON",
+    "location_state": "WY",
+    "location_zip": "82930",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "3077893636"
-    },
+    "phone_number": "3077893636",
     "provider_id": "530032",
     "raw_ratings": {},
     "state": "WY",

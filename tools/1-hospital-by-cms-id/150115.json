@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 W 9TH ST\",\"city\":\"JASPER\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "38.39377028600006",
-        "longitude": "-86.94223275599995",
-        "needs_recoding": false
+        "coordinates": [
+            -86.942695,
+            38.393754
+        ],
+        "type": "Point"
     },
+    "location_address": "800 W 9TH ST",
+    "location_city": "JASPER",
+    "location_state": "IN",
+    "location_zip": "47546",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8129962345"
-    },
+    "phone_number": "8129962345",
     "provider_id": "150115",
     "raw_ratings": {},
     "state": "IN",

@@ -4,15 +4,20 @@
     "county_name": "RENO",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "SUMMIT SURGICAL LLC",
+    "hospital_name": "SUMMIT SURGICAL, LLC",
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1818 EAST 23RD AVENUE\",\"city\":\"HUTCHINSON\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.07955802200007",
-        "longitude": "-97.88774040599998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.888595,
+            38.07953
+        ],
+        "type": "Point"
     },
+    "location_address": "1818 EAST 23RD AVENUE",
+    "location_city": "HUTCHINSON",
+    "location_state": "KS",
+    "location_zip": "67502",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6206626000"
-    },
+    "phone_number": "6206626000",
     "provider_id": "170198",
     "raw_ratings": {},
     "state": "KS",

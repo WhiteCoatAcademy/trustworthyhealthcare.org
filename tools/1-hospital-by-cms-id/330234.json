@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 WOODS RD\",\"city\":\"VALHALLA\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "41.087761654000076",
-        "longitude": "-73.80395452599998",
-        "needs_recoding": false
+        "coordinates": [
+            -73.803897,
+            41.08768
+        ],
+        "type": "Point"
     },
+    "location_address": "100 WOODS RD",
+    "location_city": "VALHALLA",
+    "location_state": "NY",
+    "location_zip": "10595",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9142857017"
-    },
+    "phone_number": "9142857017",
     "provider_id": "330234",
     "raw_ratings": {},
     "state": "NY",

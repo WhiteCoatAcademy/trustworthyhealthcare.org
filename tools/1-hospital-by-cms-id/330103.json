@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"515 MAIN STREET\",\"city\":\"OLEAN\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.08982368200003",
-        "longitude": "-78.42681250199996",
-        "needs_recoding": false
+        "coordinates": [
+            -78.426977,
+            42.089448
+        ],
+        "type": "Point"
     },
+    "location_address": "515 MAIN STREET",
+    "location_city": "OLEAN",
+    "location_state": "NY",
+    "location_zip": "14760",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7163732600"
-    },
+    "phone_number": "7163732600",
     "provider_id": "330103",
     "raw_ratings": {},
     "state": "NY",

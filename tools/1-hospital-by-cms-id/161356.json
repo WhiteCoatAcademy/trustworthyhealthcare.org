@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"407 S WHITE ST\",\"city\":\"MOUNT PLEASANT\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "40.97084165900003",
-        "longitude": "-91.55683678499997",
-        "needs_recoding": false
+        "coordinates": [
+            -91.557921,
+            40.96368
+        ],
+        "type": "Point"
     },
+    "location_address": "407 S WHITE ST",
+    "location_city": "MOUNT PLEASANT",
+    "location_state": "IA",
+    "location_zip": "52641",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3193853141"
-    },
+    "phone_number": "3193853141",
     "provider_id": "161356",
     "raw_ratings": {},
     "state": "IA",

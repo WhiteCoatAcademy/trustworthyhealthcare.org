@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"333 MERCY AVENUE\",\"city\":\"MERCED\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.338748321000025",
-        "longitude": "-120.46671867899994",
-        "needs_recoding": false
+        "coordinates": [
+            -120.465214,
+            37.340118
+        ],
+        "type": "Point"
     },
+    "location_address": "333 MERCY AVENUE",
+    "location_city": "MERCED",
+    "location_state": "CA",
+    "location_zip": "95340",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2095645000"
-    },
+    "phone_number": "2095645000",
     "provider_id": "050444",
     "raw_ratings": {},
     "state": "CA",

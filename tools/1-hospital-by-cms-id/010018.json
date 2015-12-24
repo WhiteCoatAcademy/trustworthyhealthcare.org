@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1720 UNIVERSITY BLVD\",\"city\":\"BIRMINGHAM\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "33.503140150000036",
-        "longitude": "-86.80242858299994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.802298,
+            33.503187
+        ],
+        "type": "Point"
     },
+    "location_address": "1720 UNIVERSITY BLVD",
+    "location_city": "BIRMINGHAM",
+    "location_state": "AL",
+    "location_zip": "35233",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health.uab.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "2053258100"
-    },
+    "phone_number": "2053258100",
     "provider_id": "010018",
     "raw_ratings": {},
     "state": "AL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 MINERAL POINT AVE\",\"city\":\"JANESVILLE\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "42.68679641500006",
-        "longitude": "-89.03244140699996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.0331,
+            42.686742
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 MINERAL POINT AVE",
+    "location_city": "JANESVILLE",
+    "location_state": "WI",
+    "location_zip": "53548",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mercyhealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6087566080"
-    },
+    "phone_number": "6087566080",
     "provider_id": "520066",
     "raw_ratings": {},
     "state": "WI",

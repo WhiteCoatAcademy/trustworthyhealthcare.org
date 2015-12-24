@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"26520 CACTUS AVENUE\",\"city\":\"MORENO VALLEY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.91013804600004",
-        "longitude": "-117.19400904399998",
-        "needs_recoding": false
+        "coordinates": [
+            -117.200443,
+            33.910031
+        ],
+        "type": "Point"
     },
+    "location_address": "26520 CACTUS AVENUE",
+    "location_city": "MORENO VALLEY",
+    "location_state": "CA",
+    "location_zip": "92555",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9514864000"
-    },
+    "phone_number": "9514864000",
     "provider_id": "050292",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 SOUTH 20TH AVENUE\",\"city\":\"SAFFORD\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "32.82177302400004",
-        "longitude": "-109.73300058699999",
-        "needs_recoding": false
+        "coordinates": [
+            -109.732991,
+            32.822621
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 SOUTH 20TH AVENUE",
+    "location_city": "SAFFORD",
+    "location_state": "AZ",
+    "location_zip": "85546",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9283484000"
-    },
+    "phone_number": "9283484000",
     "provider_id": "030068",
     "raw_ratings": {},
     "state": "AZ",

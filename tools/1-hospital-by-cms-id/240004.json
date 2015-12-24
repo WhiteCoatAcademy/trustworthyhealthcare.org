@@ -4,15 +4,20 @@
     "county_name": "HENNEPIN",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "HENNEPIN COUNTY MEDICAL CENTER",
+    "hospital_name": "HENNEPIN COUNTY MEDICAL CENTER 1",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 PARK AVENUE\",\"city\":\"MINNEAPOLIS\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.97262767700005",
-        "longitude": "-93.26280614399997",
-        "needs_recoding": false
+        "coordinates": [
+            -93.262707,
+            44.97285
+        ],
+        "type": "Point"
     },
+    "location_address": "701 PARK AVENUE",
+    "location_city": "MINNEAPOLIS",
+    "location_state": "MN",
+    "location_zip": "55415",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6128733000"
-    },
+    "phone_number": "6128732338",
     "provider_id": "240004",
     "raw_ratings": {},
     "state": "MN",

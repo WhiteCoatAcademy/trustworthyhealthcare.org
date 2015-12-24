@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"130 MEDICAL CIRCLE\",\"city\":\"NASHVILLE\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "33.95005630600008",
-        "longitude": "-93.87839403599997",
-        "needs_recoding": false
+        "coordinates": [
+            -93.879939,
+            33.949818
+        ],
+        "type": "Point"
     },
+    "location_address": "130 MEDICAL CIRCLE",
+    "location_city": "NASHVILLE",
+    "location_state": "AR",
+    "location_zip": "71852",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8708454400"
-    },
+    "phone_number": "8708454400",
     "provider_id": "041311",
     "raw_ratings": {},
     "state": "AR",

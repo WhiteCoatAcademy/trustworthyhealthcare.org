@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3360 BURNS RD\",\"city\":\"PALM BEACH GARDENS\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.830593472000032",
-        "longitude": "-80.08789817999997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.085472,
+            26.830693
+        ],
+        "type": "Point"
     },
+    "location_address": "3360 BURNS RD",
+    "location_city": "PALM BEACH GARDENS",
+    "location_state": "FL",
+    "location_zip": "33410",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5616221411"
-    },
+    "phone_number": "5616221411",
     "provider_id": "100176",
     "raw_ratings": {},
     "state": "FL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5000 SAN BERNARDINO ST\",\"city\":\"MONTCLAIR\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.077687887000025",
-        "longitude": "-117.69553970399994",
-        "needs_recoding": false
+        "coordinates": [
+            -117.695812,
+            34.077663
+        ],
+        "type": "Point"
     },
+    "location_address": "5000 SAN BERNARDINO ST",
+    "location_city": "MONTCLAIR",
+    "location_state": "CA",
+    "location_zip": "91763",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.primehealthcareservices.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9096258300"
-    },
+    "phone_number": "9096258300",
     "provider_id": "050758",
     "raw_ratings": {},
     "state": "CA",

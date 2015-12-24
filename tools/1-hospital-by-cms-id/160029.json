@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 E MARKET STREET\",\"city\":\"IOWA CITY\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.66360846600003",
-        "longitude": "-91.52924885399995",
-        "needs_recoding": false
+        "coordinates": [
+            -91.528684,
+            41.663541
+        ],
+        "type": "Point"
     },
+    "location_address": "500 E MARKET STREET",
+    "location_city": "IOWA CITY",
+    "location_state": "IA",
+    "location_zip": "52245",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3193390300"
-    },
+    "phone_number": "3193390300",
     "provider_id": "160029",
     "raw_ratings": {},
     "state": "IA",

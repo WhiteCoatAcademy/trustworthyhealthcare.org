@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 SPRING STREET\",\"city\":\"STREATOR\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.11428870300006",
-        "longitude": "-88.83521794899997",
-        "needs_recoding": false
+        "coordinates": [
+            -88.835332,
+            41.114308
+        ],
+        "type": "Point"
     },
+    "location_address": "111 SPRING STREET",
+    "location_city": "STREATOR",
+    "location_state": "IL",
+    "location_zip": "61364",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hshs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8156732311"
-    },
+    "phone_number": "8156732311",
     "provider_id": "140026",
     "raw_ratings": {},
     "state": "IL",

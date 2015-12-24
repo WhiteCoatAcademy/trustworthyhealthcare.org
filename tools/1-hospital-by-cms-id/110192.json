@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1700 MEDICAL WAY\",\"city\":\"SNELLVILLE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.87745528200003",
-        "longitude": "-84.01959756599996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.019732,
+            33.877487
+        ],
+        "type": "Point"
     },
+    "location_address": "1700 MEDICAL WAY",
+    "location_city": "SNELLVILLE",
+    "location_state": "GA",
+    "location_zip": "30078",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7707362498"
-    },
+    "phone_number": "7707362498",
     "provider_id": "110192",
     "raw_ratings": {},
     "state": "GA",

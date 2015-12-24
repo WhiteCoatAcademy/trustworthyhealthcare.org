@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"17 BELMONT AVE\",\"city\":\"BRATTLEBORO\",\"state\":\"VT\",\"zip\":\"\"}",
-        "latitude": "42.84213695600005",
-        "longitude": "-72.56480461599995",
-        "needs_recoding": false
+        "coordinates": [
+            -72.565723,
+            42.842272
+        ],
+        "type": "Point"
     },
+    "location_address": "17 BELMONT AVE",
+    "location_city": "BRATTLEBORO",
+    "location_state": "VT",
+    "location_zip": "05301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8022570341"
-    },
+    "phone_number": "8022570341",
     "provider_id": "470011",
     "raw_ratings": {},
     "state": "VT",

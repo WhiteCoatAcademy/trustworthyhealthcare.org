@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2105 FOREST AVENUE\",\"city\":\"SAN JOSE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.327077667000026",
-        "longitude": "-121.93774932299999",
-        "needs_recoding": false
+        "coordinates": [
+            -121.937186,
+            37.327054
+        ],
+        "type": "Point"
     },
+    "location_address": "2105 FOREST AVENUE",
+    "location_city": "SAN JOSE",
+    "location_state": "CA",
+    "location_zip": "95128",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.dochs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4089472500"
-    },
+    "phone_number": "4089472500",
     "provider_id": "050153",
     "raw_ratings": {},
     "state": "CA",

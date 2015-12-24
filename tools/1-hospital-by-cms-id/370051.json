@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"319 EAST JOSEPHINE\",\"city\":\"FREDERICK\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "34.40330774900008",
-        "longitude": "-99.01392073299996",
-        "needs_recoding": false
+        "coordinates": [
+            -99.013425,
+            34.403304
+        ],
+        "type": "Point"
     },
+    "location_address": "319 EAST JOSEPHINE",
+    "location_city": "FREDERICK",
+    "location_state": "OK",
+    "location_zip": "73542",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5803357565"
-    },
+    "phone_number": "5803357565",
     "provider_id": "370051",
     "raw_ratings": {},
     "state": "OK",

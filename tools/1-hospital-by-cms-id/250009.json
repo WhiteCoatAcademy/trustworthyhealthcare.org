@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"611 ALCORN DRIVE\",\"city\":\"CORINTH\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "34.93569708000007",
-        "longitude": "-88.55869614699998",
-        "needs_recoding": false
+        "coordinates": [
+            -88.558582,
+            34.93621
+        ],
+        "type": "Point"
     },
+    "location_address": "611 ALCORN DRIVE",
+    "location_city": "CORINTH",
+    "location_state": "MS",
+    "location_zip": "38834",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6622931000"
-    },
+    "phone_number": "6622931000",
     "provider_id": "250009",
     "raw_ratings": {},
     "state": "MS",

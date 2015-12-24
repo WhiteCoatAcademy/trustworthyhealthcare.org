@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 NORTH WOLFE STREET\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.29745882900005",
-        "longitude": "-76.59085538399995",
-        "needs_recoding": false
+        "coordinates": [
+            -76.590781,
+            39.296892
+        ],
+        "type": "Point"
     },
+    "location_address": "600 NORTH WOLFE STREET",
+    "location_city": "BALTIMORE",
+    "location_state": "MD",
+    "location_zip": "21287",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hopkinshospital.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4109559540"
-    },
+    "phone_number": "4109559540",
     "provider_id": "210009",
     "raw_ratings": {},
     "state": "MD",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"350 HOSPITAL DRIVE\",\"city\":\"MACON\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.84579837900003",
-        "longitude": "-83.61879732099999",
-        "needs_recoding": false
+        "coordinates": [
+            -83.617823,
+            32.845999
+        ],
+        "type": "Point"
     },
+    "location_address": "350 HOSPITAL DRIVE",
+    "location_city": "MACON",
+    "location_state": "GA",
+    "location_zip": "31217",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4787654100"
-    },
+    "phone_number": "4787657000",
     "provider_id": "110164",
     "raw_ratings": {},
     "state": "GA",

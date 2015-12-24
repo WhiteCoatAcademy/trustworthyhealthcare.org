@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 E EVERGREEN\",\"city\":\"CAMERON\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.73159442800005",
-        "longitude": "-94.22186003799999",
-        "needs_recoding": false
+        "coordinates": [
+            -94.221756,
+            39.731633
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 E EVERGREEN",
+    "location_city": "CAMERON",
+    "location_state": "MO",
+    "location_zip": "64429",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8166322101"
-    },
+    "phone_number": "8166322101",
     "provider_id": "260057",
     "raw_ratings": {},
     "state": "MO",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"4100 WEST THIRD STREET\",\"city\":\"DAYTON\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.74939518000008",
-        "longitude": "-84.25324424499996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.253134,
+            39.749383
+        ],
+        "type": "Point"
     },
+    "location_address": "4100 WEST THIRD STREET",
+    "location_city": "DAYTON",
+    "location_state": "OH",
+    "location_zip": "45428",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "9372686511"
-    },
+    "phone_number": "9372686511",
     "provider_id": "36007F",
     "raw_ratings": {},
     "state": "OH",

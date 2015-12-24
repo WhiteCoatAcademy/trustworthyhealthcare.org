@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 NE MOTHER JOSEPH PLACE\",\"city\":\"VANCOUVER\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "45.623218562000034",
-        "longitude": "-122.58034501599997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.580644,
+            45.623443
+        ],
+        "type": "Point"
     },
+    "location_address": "400 NE MOTHER JOSEPH PLACE",
+    "location_city": "VANCOUVER",
+    "location_state": "WA",
+    "location_zip": "98668",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3602562000"
-    },
+    "phone_number": "3602562000",
     "provider_id": "500050",
     "raw_ratings": {},
     "state": "WA",

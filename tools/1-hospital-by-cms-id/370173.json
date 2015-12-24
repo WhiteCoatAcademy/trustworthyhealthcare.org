@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "CLAREMORE INDIAN HOSPITAL",
-    "hospital_ownership": "Government - Federal",
+    "hospital_ownership": "Tribal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"101 SOUTH MOORE AVE\",\"city\":\"CLAREMORE\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.31576140000004",
-        "longitude": "-95.62828515199999",
-        "needs_recoding": false
+        "coordinates": [
+            -95.628254,
+            36.316696
+        ],
+        "type": "Point"
     },
+    "location_address": "101 SOUTH MOORE AVE",
+    "location_city": "CLAREMORE",
+    "location_state": "OK",
+    "location_zip": "74017",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ihs.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "9183418430"
-    },
+    "phone_number": "9183418430",
     "provider_id": "370173",
     "raw_ratings": {},
     "state": "OK",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1111 N STATE ST\",\"city\":\"MONTICELLO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "40.03378756400008",
-        "longitude": "-88.57052604999996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.570533,
+            40.034004
+        ],
+        "type": "Point"
     },
+    "location_address": "1111 N STATE ST",
+    "location_city": "MONTICELLO",
+    "location_state": "IL",
+    "location_zip": "61856",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2177622115"
-    },
+    "phone_number": "2177622115",
     "provider_id": "141301",
     "raw_ratings": {},
     "state": "IL",

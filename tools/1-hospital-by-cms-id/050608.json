@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1401 GARCES HIGHWAY\",\"city\":\"DELANO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "35.76144755000007",
-        "longitude": "-119.23886328199995",
-        "needs_recoding": false
+        "coordinates": [
+            -119.238924,
+            35.761418
+        ],
+        "type": "Point"
     },
+    "location_address": "1401 GARCES HIGHWAY",
+    "location_city": "DELANO",
+    "location_state": "CA",
+    "location_zip": "93215",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6617254800"
-    },
+    "phone_number": "6617254800",
     "provider_id": "050608",
     "raw_ratings": {},
     "state": "CA",

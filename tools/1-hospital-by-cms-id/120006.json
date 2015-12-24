@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"640 ULUKAHIKI ST\",\"city\":\"KAILUA\",\"state\":\"HI\",\"zip\":\"\"}",
-        "latitude": "21.381406678000076",
-        "longitude": "-157.75710362699996",
-        "needs_recoding": false
+        "coordinates": [
+            -157.757099,
+            21.381429
+        ],
+        "type": "Point"
     },
+    "location_address": "640 ULUKAHIKI ST",
+    "location_city": "KAILUA",
+    "location_state": "HI",
+    "location_zip": "96734",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.adventisthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8082635500"
-    },
+    "phone_number": "8082635500",
     "provider_id": "120006",
     "raw_ratings": {},
     "state": "HI",

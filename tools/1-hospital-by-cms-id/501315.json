@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"211 SKYLINE DRIVE\",\"city\":\"WHITE SALMON\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "45.72306856700004",
-        "longitude": "-121.47040275599994",
-        "needs_recoding": false
+        "coordinates": [
+            -121.471118,
+            45.723105
+        ],
+        "type": "Point"
     },
+    "location_address": "211 SKYLINE DRIVE",
+    "location_city": "WHITE SALMON",
+    "location_state": "WA",
+    "location_zip": "98672",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5094911101"
-    },
+    "phone_number": "5094911101",
     "provider_id": "501315",
     "raw_ratings": {},
     "state": "WA",

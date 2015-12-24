@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"520 MEDICAL DRIVE\",\"city\":\"GUYMON\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.690716251000026",
-        "longitude": "-101.47600059599995",
-        "needs_recoding": false
+        "coordinates": [
+            -101.475105,
+            36.690725
+        ],
+        "type": "Point"
     },
+    "location_address": "520 MEDICAL DRIVE",
+    "location_city": "GUYMON",
+    "location_state": "OK",
+    "location_zip": "73942",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5803386515"
-    },
+    "phone_number": "5803386515",
     "provider_id": "370138",
     "raw_ratings": {},
     "state": "OK",

@@ -4,15 +4,20 @@
     "county_name": "MALHEUR",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ST ALPHONSUS MEDICAL CENTER - ONTARIO, INC",
+    "hospital_name": "SAINT ALPHONSUS MEDICAL CENTER - ONTARIO, INC",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"351 SW 9TH STREET\",\"city\":\"ONTARIO\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "44.02515473600005",
-        "longitude": "-116.97566085899996",
-        "needs_recoding": false
+        "coordinates": [
+            -116.975115,
+            44.025488
+        ],
+        "type": "Point"
     },
+    "location_address": "351 SW 9TH STREET",
+    "location_city": "ONTARIO",
+    "location_state": "OR",
+    "location_zip": "97914",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5418817000"
-    },
+    "phone_number": "5418817000",
     "provider_id": "380052",
     "raw_ratings": {},
     "state": "OR",

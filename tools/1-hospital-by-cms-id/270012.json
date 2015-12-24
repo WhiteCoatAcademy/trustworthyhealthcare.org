@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1101 26TH ST S\",\"city\":\"GREAT FALLS\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "47.492278535000025",
-        "longitude": "-111.26259000599998",
-        "needs_recoding": false
+        "coordinates": [
+            -111.262606,
+            47.493154
+        ],
+        "type": "Point"
     },
+    "location_address": "1101 26TH ST S",
+    "location_city": "GREAT FALLS",
+    "location_state": "MT",
+    "location_zip": "59405",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.benefis.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4064555000"
-    },
+    "phone_number": "4064555000",
     "provider_id": "270012",
     "raw_ratings": {},
     "state": "MT",

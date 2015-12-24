@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"611 ST JOSEPH AVE\",\"city\":\"MARSHFIELD\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.67601432300006",
-        "longitude": "-90.17999787699995",
-        "needs_recoding": false
+        "coordinates": [
+            -90.180027,
+            44.676008
+        ],
+        "type": "Point"
     },
+    "location_address": "611 ST JOSEPH AVE",
+    "location_city": "MARSHFIELD",
+    "location_state": "WI",
+    "location_zip": "54449",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.marianhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7153877850"
-    },
+    "phone_number": "7153877850",
     "provider_id": "520037",
     "raw_ratings": {},
     "state": "WI",

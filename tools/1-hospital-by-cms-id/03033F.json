@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"500 HIGHWAY 89 NORTH\",\"city\":\"PRESCOTT\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "34.55164444400003",
-        "longitude": "-112.45015353799994",
-        "needs_recoding": false
+        "coordinates": [
+            -112.450736,
+            34.55076
+        ],
+        "type": "Point"
     },
+    "location_address": "500 HIGHWAY 89 NORTH",
+    "location_city": "PRESCOTT",
+    "location_state": "AZ",
+    "location_zip": "86313",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "9284454860"
-    },
+    "phone_number": "9284454860",
     "provider_id": "03033F",
     "raw_ratings": {},
     "state": "AZ",

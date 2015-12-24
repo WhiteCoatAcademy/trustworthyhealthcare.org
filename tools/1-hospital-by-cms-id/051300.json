@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 FIRST AVENUE\",\"city\":\"PORTOLA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "39.80520473400003",
-        "longitude": "-120.47088071799999",
-        "needs_recoding": false
+        "coordinates": [
+            -120.46232,
+            39.805746
+        ],
+        "type": "Point"
     },
+    "location_address": "500 FIRST AVENUE",
+    "location_city": "PORTOLA",
+    "location_state": "CA",
+    "location_zip": "96122",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5308324277"
-    },
+    "phone_number": "5308324277",
     "provider_id": "051300",
     "raw_ratings": {},
     "state": "CA",

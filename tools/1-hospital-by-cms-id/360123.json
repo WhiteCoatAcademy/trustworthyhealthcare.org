@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"29000 CENTER RIDGE ROAD\",\"city\":\"WESTLAKE\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.43548201600004",
-        "longitude": "-81.94111417499994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.941705,
+            41.43475
+        ],
+        "type": "Point"
     },
+    "location_address": "29000 CENTER RIDGE ROAD",
+    "location_city": "WESTLAKE",
+    "location_state": "OH",
+    "location_zip": "44145",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sistersofcharityhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4408358000"
-    },
+    "phone_number": "4408358000",
     "provider_id": "360123",
     "raw_ratings": {},
     "state": "OH",

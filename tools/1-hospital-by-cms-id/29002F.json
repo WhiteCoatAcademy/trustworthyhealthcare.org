@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"1000 LOCUST STREET\",\"city\":\"RENO\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "39.516330151000034",
-        "longitude": "-119.80051429699995",
-        "needs_recoding": false
+        "coordinates": [
+            -119.800535,
+            39.516344
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 LOCUST STREET",
+    "location_city": "RENO",
+    "location_state": "NV",
+    "location_zip": "89502",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "7753281263"
-    },
+    "phone_number": "7753281263",
     "provider_id": "29002F",
     "raw_ratings": {},
     "state": "NV",

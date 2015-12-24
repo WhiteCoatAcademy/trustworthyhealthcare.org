@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 EAST WEBSTER\",\"city\":\"CHEWELAH\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "48.278173507000076",
-        "longitude": "-117.71145234299996",
-        "needs_recoding": false
+        "coordinates": [
+            -117.710823,
+            48.278213
+        ],
+        "type": "Point"
     },
+    "location_address": "500 EAST WEBSTER",
+    "location_city": "CHEWELAH",
+    "location_state": "WA",
+    "location_zip": "99109",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.providence.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5099358211"
-    },
+    "phone_number": "5099358211",
     "provider_id": "501309",
     "raw_ratings": {},
     "state": "WA",

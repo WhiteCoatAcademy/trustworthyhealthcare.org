@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2900 1ST AVENUE\",\"city\":\"HUNTINGTON\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "38.43194769400003",
-        "longitude": "-82.40143923799997",
-        "needs_recoding": false
+        "coordinates": [
+            -82.401465,
+            38.431845
+        ],
+        "type": "Point"
     },
+    "location_address": "2900 1ST AVENUE",
+    "location_city": "HUNTINGTON",
+    "location_state": "WV",
+    "location_zip": "25702",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,11 +31,9 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3045261234"
-    },
+    "phone_number": "3045261234",
     "provider_id": "510007",
     "raw_ratings": {},
     "state": "WV",
-    "zip_code": "25701"
+    "zip_code": "25702"
 }

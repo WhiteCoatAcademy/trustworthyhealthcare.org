@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"730 10TH AVE\",\"city\":\"BALDWIN\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.97075982800004",
-        "longitude": "-92.37489234599997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.374917,
+            44.970739
+        ],
+        "type": "Point"
     },
+    "location_address": "730 10TH AVE",
+    "location_city": "BALDWIN",
+    "location_state": "WI",
+    "location_zip": "54002",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7156843311"
-    },
+    "phone_number": "7156843311",
     "provider_id": "521347",
     "raw_ratings": {},
     "state": "WI",

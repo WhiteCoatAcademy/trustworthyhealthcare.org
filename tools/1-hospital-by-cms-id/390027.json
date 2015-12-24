@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3401 NORTH BROAD STREET\",\"city\":\"PHILADELPHIA\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.00476605400007",
-        "longitude": "-75.15218240199994",
-        "needs_recoding": false
+        "coordinates": [
+            -75.1522,
+            40.004667
+        ],
+        "type": "Point"
     },
+    "location_address": "3401 NORTH BROAD STREET",
+    "location_city": "PHILADELPHIA",
+    "location_state": "PA",
+    "location_zip": "19140",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health.temple.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "2157072000"
-    },
+    "phone_number": "2157072000",
     "provider_id": "390027",
     "raw_ratings": {},
     "state": "PA",

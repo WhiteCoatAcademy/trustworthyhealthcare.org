@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1515 UNION AVE\",\"city\":\"MOBERLY\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.423888342000055",
-        "longitude": "-92.41518994499995",
-        "needs_recoding": false
+        "coordinates": [
+            -92.413341,
+            39.423855
+        ],
+        "type": "Point"
     },
+    "location_address": "1515 UNION AVE",
+    "location_city": "MOBERLY",
+    "location_state": "MO",
+    "location_zip": "65270",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "6602638400"
-    },
+    "phone_number": "6602638400",
     "provider_id": "260074",
     "raw_ratings": {},
     "state": "MO",

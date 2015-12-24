@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 NORTH AVENUE\",\"city\":\"BATTLE CREEK\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.330581444000074",
-        "longitude": "-85.18035350399998",
-        "needs_recoding": false
+        "coordinates": [
+            -85.180415,
+            42.330192
+        ],
+        "type": "Point"
     },
+    "location_address": "300 NORTH AVENUE",
+    "location_city": "BATTLE CREEK",
+    "location_state": "MI",
+    "location_zip": "49017",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trinity-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2699668000"
-    },
+    "phone_number": "2699668000",
     "provider_id": "230075",
     "raw_ratings": {},
     "state": "MI",

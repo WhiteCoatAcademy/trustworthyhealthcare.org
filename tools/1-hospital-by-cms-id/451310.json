@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"608 AVENUE B\",\"city\":\"BALLINGER\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.749648575000037",
-        "longitude": "-99.96244035099994",
-        "needs_recoding": false
+        "coordinates": [
+            -99.962044,
+            31.750195
+        ],
+        "type": "Point"
     },
+    "location_address": "608 AVENUE B",
+    "location_city": "BALLINGER",
+    "location_state": "TX",
+    "location_zip": "76821",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3253652531"
-    },
+    "phone_number": "3253652531",
     "provider_id": "451310",
     "raw_ratings": {},
     "state": "TX",

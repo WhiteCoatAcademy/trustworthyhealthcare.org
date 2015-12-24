@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1815 HAND AVENUE\",\"city\":\"BAY MINETTE\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "30.90193608800007",
-        "longitude": "-87.78311330099996",
-        "needs_recoding": false
+        "coordinates": [
+            -87.783058,
+            30.901934
+        ],
+        "type": "Point"
     },
+    "location_address": "1815 HAND AVENUE",
+    "location_city": "BAY MINETTE",
+    "location_state": "AL",
+    "location_zip": "36507",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.theinfirmary.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2519375521"
-    },
+    "phone_number": "2519375521",
     "provider_id": "010129",
     "raw_ratings": {},
     "state": "AL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1124 WEST 21ST STREET\",\"city\":\"ANDOVER\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.72327824600006",
-        "longitude": "-97.14737975099996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.14648,
+            37.72324
+        ],
+        "type": "Point"
     },
+    "location_address": "1124 WEST 21ST STREET",
+    "location_city": "ANDOVER",
+    "location_state": "KS",
+    "location_zip": "67002",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3163004000"
-    },
+    "phone_number": "3163004000",
     "provider_id": "170197",
     "raw_ratings": {},
     "state": "KS",

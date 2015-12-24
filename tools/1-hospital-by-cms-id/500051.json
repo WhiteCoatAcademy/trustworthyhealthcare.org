@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1035-116TH AVE NE\",\"city\":\"BELLEVUE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.62009885200007",
-        "longitude": "-122.18570999899998",
-        "needs_recoding": false
+        "coordinates": [
+            -122.185641,
+            47.619961
+        ],
+        "type": "Point"
     },
+    "location_address": "1035-116TH AVE NE",
+    "location_city": "BELLEVUE",
+    "location_state": "WA",
+    "location_zip": "98004",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4256885000"
-    },
+    "phone_number": "4256885000",
     "provider_id": "500051",
     "raw_ratings": {},
     "state": "WA",

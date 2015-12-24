@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6818 AUSTIN CTR BLVD SUITE 100\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.350770631000046",
-        "longitude": "-97.75120998999995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.751109,
+            30.350571
+        ],
+        "type": "Point"
     },
+    "location_address": "6818 AUSTIN CTR BLVD SUITE 100",
+    "location_city": "AUSTIN",
+    "location_state": "TX",
+    "location_zip": "78731",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5123461994"
-    },
+    "phone_number": "5123461994",
     "provider_id": "450808",
     "raw_ratings": {},
     "state": "TX",

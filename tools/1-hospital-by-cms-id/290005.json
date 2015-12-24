@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1409 EAST LAKE MEAD BLVD\",\"city\":\"NORTH LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "36.19578351300004",
-        "longitude": "-115.12347845999994",
-        "needs_recoding": false
+        "coordinates": [
+            -115.122865,
+            36.19574
+        ],
+        "type": "Point"
     },
+    "location_address": "1409 EAST LAKE MEAD BLVD",
+    "location_city": "NORTH LAS VEGAS",
+    "location_state": "NV",
+    "location_zip": "89030",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.iasishealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7026575504"
-    },
+    "phone_number": "7026575504",
     "provider_id": "290005",
     "raw_ratings": {},
     "state": "NV",

@@ -4,15 +4,20 @@
     "county_name": "WEXFORD",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MERCY HOSPITAL - CADILLAC",
+    "hospital_name": "MUNSON HEALTHCARE CADILLAC HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 HOBART ST\",\"city\":\"CADILLAC\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "44.24619065700006",
-        "longitude": "-85.39045398699994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.39051,
+            44.246214
+        ],
+        "type": "Point"
     },
+    "location_address": "400 HOBART ST",
+    "location_city": "CADILLAC",
+    "location_state": "MI",
+    "location_zip": "49601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trinity-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2318767200"
-    },
+    "phone_number": "2318767200",
     "provider_id": "230081",
     "raw_ratings": {},
     "state": "MI",

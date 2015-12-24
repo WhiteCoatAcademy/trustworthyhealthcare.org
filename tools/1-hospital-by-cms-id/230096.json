@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"916 MYRTLE AVE\",\"city\":\"STURGIS\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "41.79424841600007",
-        "longitude": "-85.40744059499997",
-        "needs_recoding": false
+        "coordinates": [
+            -85.408731,
+            41.794198
+        ],
+        "type": "Point"
     },
+    "location_address": "916 MYRTLE AVE",
+    "location_city": "STURGIS",
+    "location_state": "MI",
+    "location_zip": "49091",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2696517824"
-    },
+    "phone_number": "2696517824",
     "provider_id": "230096",
     "raw_ratings": {},
     "state": "MI",

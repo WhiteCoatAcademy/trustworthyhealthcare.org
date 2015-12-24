@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3001 BROADMOOR BLVD NE\",\"city\":\"RIO RANCHO\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "35.30723271100004",
-        "longitude": "-106.67700121299998",
-        "needs_recoding": false
+        "coordinates": [
+            -106.676997,
+            35.307062
+        ],
+        "type": "Point"
     },
+    "location_address": "3001 BROADMOOR BLVD NE",
+    "location_city": "RIO RANCHO",
+    "location_state": "NM",
+    "location_zip": "87144",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5052728087"
-    },
+    "phone_number": "5052728087",
     "provider_id": "320089",
     "raw_ratings": {},
     "state": "NM",

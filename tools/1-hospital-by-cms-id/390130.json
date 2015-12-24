@@ -4,15 +4,20 @@
     "county_name": "CAMBRIA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MINERS MEDICAL CENTER",
+    "hospital_name": "CONEMAUGH MINERS MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"290 HAIDA AVENUE\",\"city\":\"HASTINGS\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.65889362100006",
-        "longitude": "-78.70597466499999",
-        "needs_recoding": false
+        "coordinates": [
+            -78.705497,
+            40.658872
+        ],
+        "type": "Point"
     },
+    "location_address": "290 HAIDA AVENUE",
+    "location_city": "HASTINGS",
+    "location_state": "PA",
+    "location_zip": "16646",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.conemaugh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8142473100"
-    },
+    "phone_number": "8142473100",
     "provider_id": "390130",
     "raw_ratings": {},
     "state": "PA",

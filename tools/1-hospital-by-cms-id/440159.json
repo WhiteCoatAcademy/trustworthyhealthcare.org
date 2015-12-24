@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3000 GETWELL RD\",\"city\":\"MEMPHIS\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.06783097600004",
-        "longitude": "-89.93219662899998",
-        "needs_recoding": false
+        "coordinates": [
+            -89.932243,
+            35.066399
+        ],
+        "type": "Point"
     },
+    "location_address": "3000 GETWELL RD",
+    "location_city": "MEMPHIS",
+    "location_state": "TN",
+    "location_zip": "38118",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9013698100"
-    },
+    "phone_number": "9013698100",
     "provider_id": "440159",
     "raw_ratings": {},
     "state": "TN",

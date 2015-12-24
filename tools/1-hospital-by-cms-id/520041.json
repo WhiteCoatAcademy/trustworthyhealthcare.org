@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2817 NEW PINERY ROAD\",\"city\":\"PORTAGE\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.56757810200003",
-        "longitude": "-89.46940447399999",
-        "needs_recoding": false
+        "coordinates": [
+            -89.469441,
+            43.566374
+        ],
+        "type": "Point"
     },
+    "location_address": "2817 NEW PINERY ROAD",
+    "location_city": "PORTAGE",
+    "location_state": "WI",
+    "location_zip": "53901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6087424131"
-    },
+    "phone_number": "6087424131",
     "provider_id": "520041",
     "raw_ratings": {},
     "state": "WI",

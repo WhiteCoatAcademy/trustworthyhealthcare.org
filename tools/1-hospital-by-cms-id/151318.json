@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"275 W 12TH ST\",\"city\":\"PERU\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.75721437200008",
-        "longitude": "-86.08333914899998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.084096,
+            40.756437
+        ],
+        "type": "Point"
     },
+    "location_address": "275 W 12TH ST",
+    "location_city": "PERU",
+    "location_state": "IN",
+    "location_zip": "46970",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "7654728000"
-    },
+    "phone_number": "7654728000",
     "provider_id": "151318",
     "raw_ratings": {},
     "state": "IN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2000 HOSPITAL DR\",\"city\":\"MOUNT PLEASANT\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "32.82099126700007",
-        "longitude": "-79.84955451099995",
-        "needs_recoding": false
+        "coordinates": [
+            -79.8496,
+            32.820879
+        ],
+        "type": "Point"
     },
+    "location_address": "2000 HOSPITAL DR",
+    "location_city": "MOUNT PLEASANT",
+    "location_state": "SC",
+    "location_zip": "29464",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8438810100"
-    },
+    "phone_number": "8438810100",
     "provider_id": "420089",
     "raw_ratings": {},
     "state": "SC",

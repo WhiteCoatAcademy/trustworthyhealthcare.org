@@ -1,5 +1,5 @@
 {
-    "address": "13681 DOCTOR'S WAY",
+    "address": "13681 DOCTORS WAY",
     "city": "FORT MYERS",
     "county_name": "LEE",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"13681 DOCTOR'S WAY\",\"city\":\"FORT MYERS\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.54458334000003",
-        "longitude": "-81.85163755199994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.848561,
+            26.544025
+        ],
+        "type": "Point"
     },
+    "location_address": "13681 DOCTORS WAY",
+    "location_city": "FORT MYERS",
+    "location_state": "FL",
+    "location_zip": "33912",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.leememorial.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2397685000"
-    },
+    "phone_number": "2397685000",
     "provider_id": "100220",
     "raw_ratings": {},
     "state": "FL",

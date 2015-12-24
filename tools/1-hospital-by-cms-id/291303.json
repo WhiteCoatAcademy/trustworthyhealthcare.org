@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"535 SOUTH HUMBOLDT STREET\",\"city\":\"BATTE MTN\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "40.64055810600007",
-        "longitude": "-116.93891369399995",
-        "needs_recoding": false
+        "coordinates": [
+            -116.938824,
+            40.64065
+        ],
+        "type": "Point"
     },
+    "location_address": "535 SOUTH HUMBOLDT STREET",
+    "location_city": "BATTE MTN",
+    "location_state": "NV",
+    "location_zip": "89820",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7756352550"
-    },
+    "phone_number": "7756352550",
     "provider_id": "291303",
     "raw_ratings": {},
     "state": "NV",

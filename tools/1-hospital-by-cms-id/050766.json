@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"455 PLUMAS BLVD\",\"city\":\"YUBA CITY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "39.13216054600008",
-        "longitude": "-121.61353639799995",
-        "needs_recoding": false
+        "coordinates": [
+            -121.613662,
+            39.131804
+        ],
+        "type": "Point"
     },
+    "location_address": "455 PLUMAS BLVD",
+    "location_city": "YUBA CITY",
+    "location_state": "CA",
+    "location_zip": "95991",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5307495700"
-    },
+    "phone_number": "5307495700",
     "provider_id": "050766",
     "raw_ratings": {},
     "state": "CA",

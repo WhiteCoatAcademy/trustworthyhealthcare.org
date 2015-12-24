@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"464 LINDEN AVENUE\",\"city\":\"HARRODSBURG\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.757376014000045",
-        "longitude": "-84.84793323599996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.848134,
+            37.756295
+        ],
+        "type": "Point"
     },
+    "location_address": "464 LINDEN AVENUE",
+    "location_city": "HARRODSBURG",
+    "location_state": "KY",
+    "location_zip": "40330",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8597345441"
-    },
+    "phone_number": "8597345441",
     "provider_id": "181302",
     "raw_ratings": {},
     "state": "KY",

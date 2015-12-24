@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 COMMONWEALTH AVENUE\",\"city\":\"WILLIAMSBURG\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.27560260400003",
-        "longitude": "-76.70971588599997",
-        "needs_recoding": false
+        "coordinates": [
+            -76.666875,
+            37.251622
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 COMMONWEALTH AVENUE",
+    "location_city": "WILLIAMSBURG",
+    "location_state": "VA",
+    "location_zip": "23185",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7573453000"
-    },
+    "phone_number": "7573453000",
     "provider_id": "490143",
     "raw_ratings": {},
     "state": "VA",

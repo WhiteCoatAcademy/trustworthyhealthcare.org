@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1150 NORTH INDIAN CANYON DRIVE\",\"city\":\"PALM SPRINGS\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.838400437000075",
-        "longitude": "-116.54556591",
-        "needs_recoding": false
+        "coordinates": [
+            -116.545598,
+            33.838887
+        ],
+        "type": "Point"
     },
+    "location_address": "1150 NORTH INDIAN CANYON DRIVE",
+    "location_city": "PALM SPRINGS",
+    "location_state": "CA",
+    "location_zip": "92262",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7603236511"
-    },
+    "phone_number": "7603236511",
     "provider_id": "050243",
     "raw_ratings": {},
     "state": "CA",

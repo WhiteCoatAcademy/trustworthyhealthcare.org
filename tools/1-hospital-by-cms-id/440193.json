@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1411 BADDOUR PARKWAY\",\"city\":\"LEBANON\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.21931656400005",
-        "longitude": "-86.32862192199997",
-        "needs_recoding": false
+        "coordinates": [
+            -86.328101,
+            36.219101
+        ],
+        "type": "Point"
     },
+    "location_address": "1411 BADDOUR PARKWAY",
+    "location_city": "LEBANON",
+    "location_state": "TN",
+    "location_zip": "37087",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6154448262"
-    },
+    "phone_number": "6154448262",
     "provider_id": "440193",
     "raw_ratings": {},
     "state": "TN",

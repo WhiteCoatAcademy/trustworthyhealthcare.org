@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 HOSPITAL AVE\",\"city\":\"JEFFERSON\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "36.42303795000004",
-        "longitude": "-81.45966612099994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.459633,
+            36.423128
+        ],
+        "type": "Point"
     },
+    "location_address": "200 HOSPITAL AVE",
+    "location_city": "JEFFERSON",
+    "location_state": "NC",
+    "location_zip": "28640",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3362467101"
-    },
+    "phone_number": "3362467101",
     "provider_id": "341325",
     "raw_ratings": {},
     "state": "NC",

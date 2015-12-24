@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "ADAIR COUNTY MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"609 SE KENT\",\"city\":\"GREENFIELD\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.30321901700006",
-        "longitude": "-94.45305350699994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.451868,
+            41.303091
+        ],
+        "type": "Point"
     },
+    "location_address": "609 SE KENT",
+    "location_city": "GREENFIELD",
+    "location_state": "IA",
+    "location_zip": "50849",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6417432123"
-    },
+    "phone_number": "6417432123",
     "provider_id": "161310",
     "raw_ratings": {},
     "state": "IA",

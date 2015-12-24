@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"523 NORTH 3RD STREET\",\"city\":\"BRAINERD\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "46.36165155200007",
-        "longitude": "-94.20516986699994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.205146,
+            46.361701
+        ],
+        "type": "Point"
     },
+    "location_address": "523 NORTH 3RD STREET",
+    "location_city": "BRAINERD",
+    "location_state": "MN",
+    "location_zip": "56401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhshealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2188292861"
-    },
+    "phone_number": "2188292861",
     "provider_id": "240075",
     "raw_ratings": {},
     "state": "MN",

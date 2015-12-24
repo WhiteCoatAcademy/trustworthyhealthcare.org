@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 COMMODORE ST\",\"city\":\"PRATT\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.64543839800007",
-        "longitude": "-98.72933355099997",
-        "needs_recoding": false
+        "coordinates": [
+            -98.72912,
+            37.644873
+        ],
+        "type": "Point"
     },
+    "location_address": "200 COMMODORE ST",
+    "location_city": "PRATT",
+    "location_state": "KS",
+    "location_zip": "67124",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6204501160"
-    },
+    "phone_number": "6204501160",
     "provider_id": "170027",
     "raw_ratings": {},
     "state": "KS",

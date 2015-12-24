@@ -1,5 +1,5 @@
 {
-    "address": "30 WEST 7TH ST",
+    "address": "2500 FAIRWAY STREET",
     "city": "DICKINSON",
     "county_name": "STARK",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"30 WEST 7TH ST\",\"city\":\"DICKINSON\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "46.87902868300006",
-        "longitude": "-102.79058707999997",
-        "needs_recoding": false
+        "coordinates": [
+            -102.820598,
+            46.887267
+        ],
+        "type": "Point"
     },
+    "location_address": "2500 FAIRWAY STREET",
+    "location_city": "DICKINSON",
+    "location_state": "ND",
+    "location_zip": "58601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7014564000"
-    },
+    "phone_number": "7014564000",
     "provider_id": "351336",
     "raw_ratings": {},
     "state": "ND",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1301 LINCOLN ROAD\",\"city\":\"IDABEL\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "33.880957661000025",
-        "longitude": "-94.81141067999994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.810985,
+            33.880912
+        ],
+        "type": "Point"
     },
+    "location_address": "1301 LINCOLN ROAD",
+    "location_city": "IDABEL",
+    "location_state": "OK",
+    "location_zip": "74745",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5802867623"
-    },
+    "phone_number": "5802867623",
     "provider_id": "370048",
     "raw_ratings": {},
     "state": "OK",

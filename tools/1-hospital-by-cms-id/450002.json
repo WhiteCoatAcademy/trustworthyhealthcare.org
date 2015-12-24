@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2001 N OREGON ST\",\"city\":\"EL PASO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.77169081900007",
-        "longitude": "-106.49985320899998",
-        "needs_recoding": false
+        "coordinates": [
+            -106.499907,
+            31.771813
+        ],
+        "type": "Point"
     },
+    "location_address": "2001 N OREGON ST",
+    "location_city": "EL PASO",
+    "location_state": "TX",
+    "location_zip": "79902",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9155776011"
-    },
+    "phone_number": "9155776011",
     "provider_id": "450002",
     "raw_ratings": {},
     "state": "TX",

@@ -1,5 +1,5 @@
 {
-    "address": "1200 EVERETT DRIVE",
+    "address": "700 NE 13TH STREET",
     "city": "OKLAHOMA CITY",
     "county_name": "OKLAHOMA",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 EVERETT DRIVE\",\"city\":\"OKLAHOMA CITY\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.480273573000034",
-        "longitude": "-97.49619268399994",
-        "needs_recoding": false
+        "coordinates": [
+            -97.501002,
+            35.482317
+        ],
+        "type": "Point"
     },
+    "location_address": "700 NE 13TH STREET",
+    "location_city": "OKLAHOMA CITY",
+    "location_state": "OK",
+    "location_zip": "73104",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4052715911"
-    },
+    "phone_number": "4052715911",
     "provider_id": "370093",
     "raw_ratings": {},
     "state": "OK",

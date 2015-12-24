@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 HOSPITAL DRIVE\",\"city\":\"HENDERSONVILLE\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.38987415500003",
-        "longitude": "-82.48689360899994",
-        "needs_recoding": false
+        "coordinates": [
+            -82.487077,
+            35.390724
+        ],
+        "type": "Point"
     },
+    "location_address": "100 HOSPITAL DRIVE",
+    "location_city": "HENDERSONVILLE",
+    "location_state": "NC",
+    "location_zip": "28792",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8286848501"
-    },
+    "phone_number": "8286848501",
     "provider_id": "340023",
     "raw_ratings": {},
     "state": "NC",

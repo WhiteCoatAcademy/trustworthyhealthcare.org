@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"235 STATE STREET\",\"city\":\"SAINT CROIX FALLS\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "45.40939078500003",
-        "longitude": "-92.64286702799996",
-        "needs_recoding": false
+        "coordinates": [
+            -92.643477,
+            45.409614
+        ],
+        "type": "Point"
     },
+    "location_address": "235 STATE STREET",
+    "location_city": "SAINT CROIX FALLS",
+    "location_state": "WI",
+    "location_zip": "54024",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7154833261"
-    },
+    "phone_number": "7154833261",
     "provider_id": "521337",
     "raw_ratings": {},
     "state": "WI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6125 NORTH FRESNO ST\",\"city\":\"FRESNO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.82501119600005",
-        "longitude": "-119.78144403199997",
-        "needs_recoding": false
+        "coordinates": [
+            -119.781419,
+            36.825107
+        ],
+        "type": "Point"
     },
+    "location_address": "6125 NORTH FRESNO ST",
+    "location_city": "FRESNO",
+    "location_state": "CA",
+    "location_zip": "93710",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5594318000"
-    },
+    "phone_number": "5594318000",
     "provider_id": "050708",
     "raw_ratings": {},
     "state": "CA",

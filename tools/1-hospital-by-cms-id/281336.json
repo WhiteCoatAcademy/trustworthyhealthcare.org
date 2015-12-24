@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2222 LINCOLN AVE\",\"city\":\"YORK\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.88246243900005",
-        "longitude": "-97.59298104299995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.598134,
+            40.842074
+        ],
+        "type": "Point"
     },
+    "location_address": "2222 LINCOLN AVE",
+    "location_city": "YORK",
+    "location_state": "NE",
+    "location_zip": "68467",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4023626671"
-    },
+    "phone_number": "4023626671",
     "provider_id": "281336",
     "raw_ratings": {},
     "state": "NE",

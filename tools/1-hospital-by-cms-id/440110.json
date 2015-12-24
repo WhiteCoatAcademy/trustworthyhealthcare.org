@@ -1,18 +1,23 @@
 {
-    "address": "550 FORT LOUDOUN MEDICAL CENTER DR",
+    "address": "550 FORT LOUDON MEDICAL CENTER DR",
     "city": "LENOIR CITY",
     "county_name": "LOUDON",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "FORT LOUDOUN MEDICAL CENTER",
+    "hospital_name": "FORT LOUDON MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"550 FORT LOUDOUN MEDICAL CENTER DR\",\"city\":\"LENOIR CITY\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.82610336600004",
-        "longitude": "-84.27061038899996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.27085,
+            35.825854
+        ],
+        "type": "Point"
     },
+    "location_address": "550 FORT LOUDON MEDICAL CENTER DR",
+    "location_city": "LENOIR CITY",
+    "location_state": "TN",
+    "location_zip": "37772",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.covenanthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8652716000"
-    },
+    "phone_number": "8652716000",
     "provider_id": "440110",
     "raw_ratings": {},
     "state": "TN",

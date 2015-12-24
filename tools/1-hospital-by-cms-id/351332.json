@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 S MAIN AVE\",\"city\":\"RUGBY\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "48.36295007900003",
-        "longitude": "-99.99614255299997",
-        "needs_recoding": false
+        "coordinates": [
+            -99.996111,
+            48.36351
+        ],
+        "type": "Point"
     },
+    "location_address": "800 S MAIN AVE",
+    "location_city": "RUGBY",
+    "location_state": "ND",
+    "location_zip": "58368",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7017765261"
-    },
+    "phone_number": "7017765261",
     "provider_id": "351332",
     "raw_ratings": {},
     "state": "ND",

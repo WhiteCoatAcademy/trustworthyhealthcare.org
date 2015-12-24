@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 WEST HAMLET AVENUE\",\"city\":\"HAMLET\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "34.90229211800005",
-        "longitude": "-79.71130239499996",
-        "needs_recoding": false
+        "coordinates": [
+            -79.709624,
+            34.900776
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 WEST HAMLET AVENUE",
+    "location_city": "HAMLET",
+    "location_state": "NC",
+    "location_zip": "28345",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9109582361"
-    },
+    "phone_number": "9109582361",
     "provider_id": "340106",
     "raw_ratings": {},
     "state": "NC",

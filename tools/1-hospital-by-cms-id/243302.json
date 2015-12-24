@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Childrens",
     "location": {
-        "human_address": "{\"address\":\"2525 CHICAGO AVENUE SOUTH\",\"city\":\"MINNEAPOLIS\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.95663861400004",
-        "longitude": "-93.26255148999996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.262588,
+            44.956009
+        ],
+        "type": "Point"
     },
+    "location_address": "2525 CHICAGO AVENUE SOUTH",
+    "location_city": "MINNEAPOLIS",
+    "location_state": "MN",
+    "location_zip": "55404",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.childrensmn.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6128136112"
-    },
+    "phone_number": "6128136112",
     "provider_id": "243302",
     "raw_ratings": {},
     "state": "MN",

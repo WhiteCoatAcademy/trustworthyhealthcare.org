@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 RIVERSIDE DRIVE\",\"city\":\"WAUPACA\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.34541418200007",
-        "longitude": "-89.07616531599996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.076208,
+            44.345489
+        ],
+        "type": "Point"
     },
+    "location_address": "800 RIVERSIDE DRIVE",
+    "location_city": "WAUPACA",
+    "location_state": "WI",
+    "location_zip": "54981",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7152581000"
-    },
+    "phone_number": "7152581000",
     "provider_id": "521334",
     "raw_ratings": {},
     "state": "WI",

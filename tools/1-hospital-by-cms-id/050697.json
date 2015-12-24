@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2900 EUREKA WAY\",\"city\":\"REDDING\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "40.58549787900006",
-        "longitude": "-122.41668143199996",
-        "needs_recoding": false
+        "coordinates": [
+            -122.416635,
+            40.585461
+        ],
+        "type": "Point"
     },
+    "location_address": "2900 EUREKA WAY",
+    "location_city": "REDDING",
+    "location_state": "CA",
+    "location_zip": "96001",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5302258700"
-    },
+    "phone_number": "5302258700",
     "provider_id": "050697",
     "raw_ratings": {},
     "state": "CA",

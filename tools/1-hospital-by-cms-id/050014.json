@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 MISSION BLVD\",\"city\":\"JACKSON\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.350920389000066",
-        "longitude": "-120.76646522799996",
-        "needs_recoding": false
+        "coordinates": [
+            -120.765903,
+            38.349554
+        ],
+        "type": "Point"
     },
+    "location_address": "200 MISSION BLVD",
+    "location_city": "JACKSON",
+    "location_state": "CA",
+    "location_zip": "95642",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sutterhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2092237500"
-    },
+    "phone_number": "2092237500",
     "provider_id": "050014",
     "raw_ratings": {},
     "state": "CA",

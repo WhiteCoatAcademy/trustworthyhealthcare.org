@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3333 SILAS CREEK PARKWAY\",\"city\":\"WINSTON-SALEM\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "36.07265643900007",
-        "longitude": "-80.29670777699994",
-        "needs_recoding": false
+        "coordinates": [
+            -80.298547,
+            36.073922
+        ],
+        "type": "Point"
     },
+    "location_address": "3333 SILAS CREEK PARKWAY",
+    "location_city": "WINSTON-SALEM",
+    "location_state": "NC",
+    "location_zip": "27103",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.novanthealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3367185000"
-    },
+    "phone_number": "3367185000",
     "provider_id": "340014",
     "raw_ratings": {},
     "state": "NC",

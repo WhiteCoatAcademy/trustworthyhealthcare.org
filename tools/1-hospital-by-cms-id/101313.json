@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"91500 OVERSEAS HIGHWAY\",\"city\":\"TAVERNIER\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.00540097100003",
-        "longitude": "-80.52134050799998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.522027,
+            25.004627
+        ],
+        "type": "Point"
     },
+    "location_address": "91500 OVERSEAS HIGHWAY",
+    "location_city": "TAVERNIER",
+    "location_state": "FL",
+    "location_zip": "33070",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3054343000"
-    },
+    "phone_number": "3054343000",
     "provider_id": "101313",
     "raw_ratings": {},
     "state": "FL",

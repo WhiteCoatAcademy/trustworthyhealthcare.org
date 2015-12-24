@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"126 SOUTH WHITE SAGE AVENUE\",\"city\":\"DELTA\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "39.34974253100006",
-        "longitude": "-112.56026558899998",
-        "needs_recoding": false
+        "coordinates": [
+            -112.559935,
+            39.350567
+        ],
+        "type": "Point"
     },
+    "location_address": "126 SOUTH WHITE SAGE AVENUE",
+    "location_city": "DELTA",
+    "location_state": "UT",
+    "location_zip": "84624",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "intermountainhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4358645591"
-    },
+    "phone_number": "4358645591",
     "provider_id": "461300",
     "raw_ratings": {},
     "state": "UT",

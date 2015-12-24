@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"405 W COUNTRY CLUB ROAD\",\"city\":\"ROSWELL\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "33.42332778600007",
-        "longitude": "-104.52847071399998",
-        "needs_recoding": false
+        "coordinates": [
+            -104.529495,
+            33.423324
+        ],
+        "type": "Point"
     },
+    "location_address": "405 W COUNTRY CLUB ROAD",
+    "location_city": "ROSWELL",
+    "location_state": "NM",
+    "location_zip": "88201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "5756248722"
-    },
+    "phone_number": "5756228170",
     "provider_id": "320006",
     "raw_ratings": {},
     "state": "NM",

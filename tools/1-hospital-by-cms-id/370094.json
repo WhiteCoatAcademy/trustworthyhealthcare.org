@@ -4,15 +4,20 @@
     "county_name": "OKLAHOMA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MIDWEST REGIONAL MEDICAL CENTER",
+    "hospital_name": "ALLIANCEHEALTH MIDWEST",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2825 PARKLAWN DRIVE\",\"city\":\"MIDWEST CITY\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.46722568000007",
-        "longitude": "-97.39221428599996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.392925,
+            35.466527
+        ],
+        "type": "Point"
     },
+    "location_address": "2825 PARKLAWN DRIVE",
+    "location_city": "MIDWEST CITY",
+    "location_state": "OK",
+    "location_zip": "73110",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4056108530"
-    },
+    "phone_number": "4056108585",
     "provider_id": "370094",
     "raw_ratings": {},
     "state": "OK",

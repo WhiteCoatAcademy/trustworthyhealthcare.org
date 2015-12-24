@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2015 JACKSON ST\",\"city\":\"ANDERSON\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.09596132000007",
-        "longitude": "-85.68050603499995",
-        "needs_recoding": false
+        "coordinates": [
+            -85.680467,
+            40.095941
+        ],
+        "type": "Point"
     },
+    "location_address": "2015 JACKSON ST",
+    "location_city": "ANDERSON",
+    "location_state": "IN",
+    "location_zip": "46016",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7656468373"
-    },
+    "phone_number": "7656468373",
     "provider_id": "150088",
     "raw_ratings": {},
     "state": "IN",

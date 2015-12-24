@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"214 PEACH ORCHARD ROAD\",\"city\":\"MCCONNELLSBURG\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.937853276000055",
-        "longitude": "-78.00899511599994",
-        "needs_recoding": false
+        "coordinates": [
+            -78.009022,
+            39.937278
+        ],
+        "type": "Point"
     },
+    "location_address": "214 PEACH ORCHARD ROAD",
+    "location_city": "MCCONNELLSBURG",
+    "location_state": "PA",
+    "location_zip": "17233",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7174853155"
-    },
+    "phone_number": "7174853155",
     "provider_id": "391303",
     "raw_ratings": {},
     "state": "PA",

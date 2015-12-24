@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"17500 W GRAND PARKWAY SOUTH\",\"city\":\"SUGAR LAND\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.563647539000044",
-        "longitude": "-95.68809768599999",
-        "needs_recoding": false
+        "coordinates": [
+            -95.68791,
+            29.56408
+        ],
+        "type": "Point"
     },
+    "location_address": "17500 W GRAND PARKWAY SOUTH",
+    "location_city": "SUGAR LAND",
+    "location_state": "TX",
+    "location_zip": "77479",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.memorialhermann.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2814994800"
-    },
+    "phone_number": "2814994800",
     "provider_id": "450848",
     "raw_ratings": {},
     "state": "TX",

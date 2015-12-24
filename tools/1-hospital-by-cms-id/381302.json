@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3043 NE 28TH STREET\",\"city\":\"LINCOLN CITY\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "44.98519630900006",
-        "longitude": "-123.99632331699996",
-        "needs_recoding": false
+        "coordinates": [
+            -123.996061,
+            44.985172
+        ],
+        "type": "Point"
     },
+    "location_address": "3043 NE 28TH STREET",
+    "location_city": "LINCOLN CITY",
+    "location_state": "OR",
+    "location_zip": "97367",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.samhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5419943661"
-    },
+    "phone_number": "5419943661",
     "provider_id": "381302",
     "raw_ratings": {},
     "state": "OR",

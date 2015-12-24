@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"17800 S KEDZIE AVE\",\"city\":\"HAZEL CREST\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.56561431800003",
-        "longitude": "-87.69434307399996",
-        "needs_recoding": false
+        "coordinates": [
+            -87.694411,
+            41.566923
+        ],
+        "type": "Point"
     },
+    "location_address": "17800 S KEDZIE AVE",
+    "location_city": "HAZEL CREST",
+    "location_state": "IL",
+    "location_zip": "60429",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.advocatehealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7087998000"
-    },
+    "phone_number": "7087998000",
     "provider_id": "140250",
     "raw_ratings": {},
     "state": "IL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 SOUTH 48TH ST\",\"city\":\"LINCOLN\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.79619952200005",
-        "longitude": "-96.65363390699997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.653662,
+            40.796516
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 SOUTH 48TH ST",
+    "location_city": "LINCOLN",
+    "location_state": "NE",
+    "location_zip": "68506",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4024811111"
-    },
+    "phone_number": "4024811111",
     "provider_id": "280003",
     "raw_ratings": {},
     "state": "NE",

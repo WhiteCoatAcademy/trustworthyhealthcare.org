@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"172 KINSLEY ST\",\"city\":\"NASHUA\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "42.74987807200006",
-        "longitude": "-71.48138236699998",
-        "needs_recoding": false
+        "coordinates": [
+            -71.481492,
+            42.749854
+        ],
+        "type": "Point"
     },
+    "location_address": "172 KINSLEY ST",
+    "location_city": "NASHUA",
+    "location_state": "NH",
+    "location_zip": "03060",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.covenanths.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6038823000"
-    },
+    "phone_number": "6038823000",
     "provider_id": "300011",
     "raw_ratings": {},
     "state": "NH",

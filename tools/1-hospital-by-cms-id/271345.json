@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"408 WENDELL AVE\",\"city\":\"LEWISTOWN\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "47.05879933400007",
-        "longitude": "-109.44227050399996",
-        "needs_recoding": false
+        "coordinates": [
+            -109.442171,
+            47.058503
+        ],
+        "type": "Point"
     },
+    "location_address": "408 WENDELL AVE",
+    "location_city": "LEWISTOWN",
+    "location_state": "MT",
+    "location_zip": "59457",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4065357711"
-    },
+    "phone_number": "4065357711",
     "provider_id": "271345",
     "raw_ratings": {},
     "state": "MT",

@@ -4,15 +4,20 @@
     "county_name": "MCINTOSH",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "EPIC MEDICAL CENTER",
+    "hospital_name": "JEAY MEDICAL SERVICES, LLC",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1 HOSPITAL DRIVE\",\"city\":\"EUFAULA\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.31022742300007",
-        "longitude": "-95.59165850899996",
-        "needs_recoding": false
+        "coordinates": [
+            -95.595568,
+            35.292843
+        ],
+        "type": "Point"
     },
+    "location_address": "1 HOSPITAL DRIVE",
+    "location_city": "EUFAULA",
+    "location_state": "OK",
+    "location_zip": "74432",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9186892535"
-    },
+    "phone_number": "9186892535",
     "provider_id": "370169",
     "raw_ratings": {},
     "state": "OK",

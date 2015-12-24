@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9 LINVILLE DRIVE\",\"city\":\"PARIS\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "38.22183042000006",
-        "longitude": "-84.23885258399997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.238963,
+            38.221805
+        ],
+        "type": "Point"
     },
+    "location_address": "9 LINVILLE DRIVE",
+    "location_city": "PARIS",
+    "location_state": "KY",
+    "location_zip": "40361",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8599873600"
-    },
+    "phone_number": "8599873600",
     "provider_id": "180046",
     "raw_ratings": {},
     "state": "KY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3001 AVENUE A\",\"city\":\"DODGE CITY\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.78473063400003",
-        "longitude": "-100.01497256199997",
-        "needs_recoding": false
+        "coordinates": [
+            -100.014975,
+            37.785487
+        ],
+        "type": "Point"
     },
+    "location_address": "3001 AVENUE A",
+    "location_city": "DODGE CITY",
+    "location_state": "KS",
+    "location_zip": "67801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6202258400"
-    },
+    "phone_number": "6202258400",
     "provider_id": "170175",
     "raw_ratings": {},
     "state": "KS",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 S BYRON\",\"city\":\"CHAMBERLAIN\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "43.785334926000075",
-        "longitude": "-99.32460032299997",
-        "needs_recoding": false
+        "coordinates": [
+            -99.326214,
+            43.785385
+        ],
+        "type": "Point"
     },
+    "location_address": "300 S BYRON",
+    "location_city": "CHAMBERLAIN",
+    "location_state": "SD",
+    "location_zip": "57325",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sanfordhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6052345511"
-    },
+    "phone_number": "6052345511",
     "provider_id": "431329",
     "raw_ratings": {},
     "state": "SD",

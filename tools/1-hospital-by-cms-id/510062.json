@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"306 STANAFORD ROAD\",\"city\":\"BECKLEY\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "37.79881398200007",
-        "longitude": "-81.16941436699994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.169059,
+            37.799237
+        ],
+        "type": "Point"
     },
+    "location_address": "306 STANAFORD ROAD",
+    "location_city": "BECKLEY",
+    "location_state": "WV",
+    "location_zip": "25801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.arh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3042553456"
-    },
+    "phone_number": "3042553456",
     "provider_id": "510062",
     "raw_ratings": {},
     "state": "WV",

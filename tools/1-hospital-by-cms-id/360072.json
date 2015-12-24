@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 NORTH EWING STREET\",\"city\":\"LANCASTER\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.71820992500005",
-        "longitude": "-82.57643397199996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.576684,
+            39.717053
+        ],
+        "type": "Point"
     },
+    "location_address": "401 NORTH EWING STREET",
+    "location_city": "LANCASTER",
+    "location_state": "OH",
+    "location_zip": "43130",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7406878009"
-    },
+    "phone_number": "7406878009",
     "provider_id": "360072",
     "raw_ratings": {},
     "state": "OH",

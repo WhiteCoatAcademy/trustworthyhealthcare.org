@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9048 SUGAR ESTATE\",\"city\":\"ST THOMAS\",\"state\":\"VI\",\"zip\":\"\"}",
-        "latitude": "18.348989998000036",
-        "longitude": "-64.93041999199994",
-        "needs_recoding": false
+        "coordinates": [
+            -64.917484,
+            18.33604
+        ],
+        "type": "Point"
     },
+    "location_address": "9048 SUGAR ESTATE",
+    "location_city": "ST THOMAS",
+    "location_state": "VI",
+    "location_zip": "00801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8097768311"
-    },
+    "phone_number": "8097768311",
     "provider_id": "480001",
     "raw_ratings": {},
     "state": "VI",

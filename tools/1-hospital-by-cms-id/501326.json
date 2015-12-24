@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"982 EAST COLUMBIA\",\"city\":\"COLVILLE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "48.54125333500008",
-        "longitude": "-117.89305887999996",
-        "needs_recoding": false
+        "coordinates": [
+            -117.8934,
+            48.541304
+        ],
+        "type": "Point"
     },
+    "location_address": "982 EAST COLUMBIA",
+    "location_city": "COLVILLE",
+    "location_state": "WA",
+    "location_zip": "99114",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.providence.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5096842561"
-    },
+    "phone_number": "5096842561",
     "provider_id": "501326",
     "raw_ratings": {},
     "state": "WA",

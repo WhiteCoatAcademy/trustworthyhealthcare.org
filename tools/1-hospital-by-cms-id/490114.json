@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1990 HOLTON AVENUE EAST\",\"city\":\"BIG STONE GAP\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "36.87734322700004",
-        "longitude": "-82.75511600899995",
-        "needs_recoding": false
+        "coordinates": [
+            -82.757355,
+            36.876448
+        ],
+        "type": "Point"
     },
+    "location_address": "1990 HOLTON AVENUE EAST",
+    "location_city": "BIG STONE GAP",
+    "location_state": "VA",
+    "location_zip": "24219",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wellmont.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2765233111"
-    },
+    "phone_number": "2765233111",
     "provider_id": "490114",
     "raw_ratings": {},
     "state": "VA",

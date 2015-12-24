@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1120 MORNINGSIDE DR\",\"city\":\"PERRY\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.46011006600003",
-        "longitude": "-83.71119764699995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.711243,
+            32.458888
+        ],
+        "type": "Point"
     },
+    "location_address": "1120 MORNINGSIDE DR",
+    "location_city": "PERRY",
+    "location_state": "GA",
+    "location_zip": "31069",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hhc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4789873600"
-    },
+    "phone_number": "4789873600",
     "provider_id": "110153",
     "raw_ratings": {},
     "state": "GA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1191 PHELPS AVENUE\",\"city\":\"COALINGA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.151522976000024",
-        "longitude": "-120.34035268799994",
-        "needs_recoding": false
+        "coordinates": [
+            -120.337673,
+            36.150975
+        ],
+        "type": "Point"
     },
+    "location_address": "1191 PHELPS AVENUE",
+    "location_city": "COALINGA",
+    "location_state": "CA",
+    "location_zip": "93210",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5599356400"
-    },
+    "phone_number": "5599356400",
     "provider_id": "050397",
     "raw_ratings": {},
     "state": "CA",

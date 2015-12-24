@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 SAINT CHRISTOPHER DRIVE\",\"city\":\"ASHLAND\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "38.48068389100007",
-        "longitude": "-82.64357999699996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.693059,
+            38.509301
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 SAINT CHRISTOPHER DRIVE",
+    "location_city": "ASHLAND",
+    "location_state": "KY",
+    "location_zip": "41101",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bshsi.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6068333600"
-    },
+    "phone_number": "6068333600",
     "provider_id": "180036",
     "raw_ratings": {},
     "state": "KY",

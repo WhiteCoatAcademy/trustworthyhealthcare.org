@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2701 DEKALB PIKE\",\"city\":\"NORRISTOWN\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.13906293400004",
-        "longitude": "-75.31521696699997",
-        "needs_recoding": false
+        "coordinates": [
+            -75.31561,
+            40.138631
+        ],
+        "type": "Point"
     },
+    "location_address": "2701 DEKALB PIKE",
+    "location_city": "NORRISTOWN",
+    "location_state": "PA",
+    "location_zip": "19401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.che.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2152782000"
-    },
+    "phone_number": "2152782000",
     "provider_id": "390116",
     "raw_ratings": {},
     "state": "PA",

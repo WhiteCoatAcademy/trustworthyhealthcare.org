@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1303 NORTH MAIN STREET\",\"city\":\"CEDAR CITY\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "37.70026348600004",
-        "longitude": "-113.06404143699996",
-        "needs_recoding": false
+        "coordinates": [
+            -113.063698,
+            37.702469
+        ],
+        "type": "Point"
     },
+    "location_address": "1303 NORTH MAIN STREET",
+    "location_city": "CEDAR CITY",
+    "location_state": "UT",
+    "location_zip": "84721",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "intermountainhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4358685800"
-    },
+    "phone_number": "4358685800",
     "provider_id": "460007",
     "raw_ratings": {},
     "state": "UT",

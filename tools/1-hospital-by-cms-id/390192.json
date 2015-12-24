@@ -5,7 +5,7 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "TYLER MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
         "human_address": "{\"address\":\"5950 STATE ROUTE 6 WEST\",\"city\":\"TUNKHANNOCK\",\"state\":\"PA\",\"zip\":\"\"}",
@@ -13,6 +13,10 @@
         "longitude": "-75.96888710499996",
         "needs_recoding": false
     },
+    "location_address": "5950 STATE ROUTE 6 WEST",
+    "location_city": "TUNKHANNOCK",
+    "location_state": "PA",
+    "location_zip": "18657",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +30,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5708362161"
-    },
+    "phone_number": "5708362161",
     "provider_id": "390192",
     "raw_ratings": {},
     "state": "PA",

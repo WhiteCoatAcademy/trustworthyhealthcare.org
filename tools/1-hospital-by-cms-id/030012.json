@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1003 WILLOW CREEK ROAD\",\"city\":\"PRESCOTT\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "34.56016830800007",
-        "longitude": "-112.48212708199998",
-        "needs_recoding": false
+        "coordinates": [
+            -112.482086,
+            34.560004
+        ],
+        "type": "Point"
     },
+    "location_address": "1003 WILLOW CREEK ROAD",
+    "location_city": "PRESCOTT",
+    "location_state": "AZ",
+    "location_zip": "86301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9287715676"
-    },
+    "phone_number": "9287715676",
     "provider_id": "030012",
     "raw_ratings": {},
     "state": "AZ",

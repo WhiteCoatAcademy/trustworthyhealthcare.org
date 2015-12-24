@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4050 WEST MEMORIAL ROAD\",\"city\":\"OKLAHOMA CITY\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.60901280600007",
-        "longitude": "-97.59630067999996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.596027,
+            35.609037
+        ],
+        "type": "Point"
     },
+    "location_address": "4050 WEST MEMORIAL ROAD",
+    "location_city": "OKLAHOMA CITY",
+    "location_state": "OK",
+    "location_zip": "73120",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4056083200"
-    },
+    "phone_number": "4056083200",
     "provider_id": "370215",
     "raw_ratings": {},
     "state": "OK",

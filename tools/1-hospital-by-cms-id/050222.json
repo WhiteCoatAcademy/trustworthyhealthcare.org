@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"751 MEDICAL CENTER COURT\",\"city\":\"CHULA VISTA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "32.618714745000034",
-        "longitude": "-117.02428484699999",
-        "needs_recoding": false
+        "coordinates": [
+            -117.023568,
+            32.618201
+        ],
+        "type": "Point"
     },
+    "location_address": "751 MEDICAL CENTER COURT",
+    "location_city": "CHULA VISTA",
+    "location_state": "CA",
+    "location_zip": "91911",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sharp.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6195025800"
-    },
+    "phone_number": "6195025800",
     "provider_id": "050222",
     "raw_ratings": {},
     "state": "CA",

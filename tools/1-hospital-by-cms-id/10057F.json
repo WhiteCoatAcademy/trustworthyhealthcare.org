@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"1601 S W ARCHER ROAD\",\"city\":\"GAINESVILLE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "29.63838392100007",
-        "longitude": "-82.34528163099998",
-        "needs_recoding": false
+        "coordinates": [
+            -82.346001,
+            29.638172
+        ],
+        "type": "Point"
     },
+    "location_address": "1601 S W ARCHER ROAD",
+    "location_city": "GAINESVILLE",
+    "location_state": "FL",
+    "location_zip": "32608",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "3523761611"
-    },
+    "phone_number": "3523761611",
     "provider_id": "10057F",
     "raw_ratings": {},
     "state": "FL",

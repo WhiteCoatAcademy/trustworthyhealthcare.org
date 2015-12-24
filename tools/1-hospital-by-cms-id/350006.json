@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"407 3RD ST SE\",\"city\":\"MINOT\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "48.23238914500007",
-        "longitude": "-101.28843976699994",
-        "needs_recoding": false
+        "coordinates": [
+            -101.288452,
+            48.232479
+        ],
+        "type": "Point"
     },
+    "location_address": "407 3RD ST SE",
+    "location_city": "MINOT",
+    "location_state": "ND",
+    "location_zip": "58701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7018575000"
-    },
+    "phone_number": "7018575000",
     "provider_id": "350006",
     "raw_ratings": {},
     "state": "ND",

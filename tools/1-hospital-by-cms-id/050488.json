@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"20103 LAKE CHABOT ROAD\",\"city\":\"CASTRO VALLEY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.69708918500004",
-        "longitude": "-122.08701129999997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.087178,
+            37.697919
+        ],
+        "type": "Point"
     },
+    "location_address": "20103 LAKE CHABOT ROAD",
+    "location_city": "CASTRO VALLEY",
+    "location_state": "CA",
+    "location_zip": "94546",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sutterhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5105371234"
-    },
+    "phone_number": "5105371234",
     "provider_id": "050488",
     "raw_ratings": {},
     "state": "CA",

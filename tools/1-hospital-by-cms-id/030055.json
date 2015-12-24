@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3269 STOCKTON HILL ROAD\",\"city\":\"KINGMAN\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "35.220057774000054",
-        "longitude": "-114.03579356399996",
-        "needs_recoding": false
+        "coordinates": [
+            -114.035835,
+            35.220135
+        ],
+        "type": "Point"
     },
+    "location_address": "3269 STOCKTON HILL ROAD",
+    "location_city": "KINGMAN",
+    "location_state": "AZ",
+    "location_zip": "86409",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9287572101"
-    },
+    "phone_number": "9287572101",
     "provider_id": "030055",
     "raw_ratings": {},
     "state": "AZ",

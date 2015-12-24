@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 NORTHERN BOULEVARD\",\"city\":\"ALBANY\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.674575591000064",
-        "longitude": "-73.74902192099995",
-        "needs_recoding": false
+        "coordinates": [
+            -73.749301,
+            42.674326
+        ],
+        "type": "Point"
     },
+    "location_address": "600 NORTHERN BOULEVARD",
+    "location_city": "ALBANY",
+    "location_state": "NY",
+    "location_zip": "12204",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nehealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5184713221"
-    },
+    "phone_number": "5184713221",
     "provider_id": "330003",
     "raw_ratings": {},
     "state": "NY",

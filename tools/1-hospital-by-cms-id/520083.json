@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "ST MARYS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 SOUTH PARK ST\",\"city\":\"MADISON\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.059516073000054",
-        "longitude": "-89.40084837199998",
-        "needs_recoding": false
+        "coordinates": [
+            -89.400805,
+            43.059474
+        ],
+        "type": "Point"
     },
+    "location_address": "700 SOUTH PARK ST",
+    "location_city": "MADISON",
+    "location_state": "WI",
+    "location_zip": "53715",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ssmhc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6082516100"
-    },
+    "phone_number": "6082516100",
     "provider_id": "520083",
     "raw_ratings": {},
     "state": "WI",

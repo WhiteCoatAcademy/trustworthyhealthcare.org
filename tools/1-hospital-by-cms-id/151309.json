@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1206 E NATIONAL AVE\",\"city\":\"BRAZIL\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.52689095100004",
-        "longitude": "-87.11145630599998",
-        "needs_recoding": false
+        "coordinates": [
+            -87.111409,
+            39.526912
+        ],
+        "type": "Point"
     },
+    "location_address": "1206 E NATIONAL AVE",
+    "location_city": "BRAZIL",
+    "location_state": "IN",
+    "location_zip": "47834",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8124422500"
-    },
+    "phone_number": "8124422500",
     "provider_id": "151309",
     "raw_ratings": {},
     "state": "IN",

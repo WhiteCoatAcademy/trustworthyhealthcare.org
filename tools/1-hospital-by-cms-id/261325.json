@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"29 NW 1ST LANE\",\"city\":\"LAMAR\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "37.50517787100006",
-        "longitude": "-94.29950334299997",
-        "needs_recoding": false
+        "coordinates": [
+            -94.300034,
+            37.502011
+        ],
+        "type": "Point"
     },
+    "location_address": "29 NW 1ST LANE",
+    "location_city": "LAMAR",
+    "location_state": "MO",
+    "location_zip": "64759",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4176826081"
-    },
+    "phone_number": "4176826081",
     "provider_id": "261325",
     "raw_ratings": {},
     "state": "MO",

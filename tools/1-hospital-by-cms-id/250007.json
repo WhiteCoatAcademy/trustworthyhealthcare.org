@@ -4,15 +4,20 @@
     "county_name": "HARRISON",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "BILOXI REGIONAL MEDICAL CENTER",
+    "hospital_name": "MERIT HEALTH BILOXI",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"150 REYNOIR STREET\",\"city\":\"BILOXI\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "30.395951601000036",
-        "longitude": "-88.89038867999994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.890551,
+            30.396059
+        ],
+        "type": "Point"
     },
+    "location_address": "150 REYNOIR STREET",
+    "location_city": "BILOXI",
+    "location_state": "MS",
+    "location_zip": "39530",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2284321571"
-    },
+    "phone_number": "2284361104",
     "provider_id": "250007",
     "raw_ratings": {},
     "state": "MS",

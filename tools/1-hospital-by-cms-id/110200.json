@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 FRIST COURT\",\"city\":\"COLUMBUS\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.53510402400008",
-        "longitude": "-84.95157025399999",
-        "needs_recoding": false
+        "coordinates": [
+            -84.951322,
+            32.535232
+        ],
+        "type": "Point"
     },
+    "location_address": "100 FRIST COURT",
+    "location_city": "COLUMBUS",
+    "location_state": "GA",
+    "location_zip": "31909",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.columbusregional.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7064942100"
-    },
+    "phone_number": "7064942100",
     "provider_id": "110200",
     "raw_ratings": {},
     "state": "GA",

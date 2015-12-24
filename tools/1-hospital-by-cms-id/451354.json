@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"901 WEST HAMILTON\",\"city\":\"OLNEY\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.369628238000075",
-        "longitude": "-98.76384470899995",
-        "needs_recoding": false
+        "coordinates": [
+            -98.764985,
+            33.369214
+        ],
+        "type": "Point"
     },
+    "location_address": "901 WEST HAMILTON",
+    "location_city": "OLNEY",
+    "location_state": "TX",
+    "location_zip": "76374",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9405645521"
-    },
+    "phone_number": "9405645521",
     "provider_id": "451354",
     "raw_ratings": {},
     "state": "TX",

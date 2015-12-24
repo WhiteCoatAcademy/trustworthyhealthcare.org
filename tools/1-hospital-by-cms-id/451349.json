@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "SWISHER MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"539 SOUTHEAST 2ND\",\"city\":\"TULIA\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "34.53562772600003",
-        "longitude": "-101.75585020999995",
-        "needs_recoding": false
+        "coordinates": [
+            -101.756231,
+            34.53557
+        ],
+        "type": "Point"
     },
+    "location_address": "539 SOUTHEAST 2ND",
+    "location_city": "TULIA",
+    "location_state": "TX",
+    "location_zip": "79088",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8069953581"
-    },
+    "phone_number": "8069953581",
     "provider_id": "451349",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 AVENUE H\",\"city\":\"ELY\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "39.25594862300005",
-        "longitude": "-114.86031995599996",
-        "needs_recoding": false
+        "coordinates": [
+            -114.860086,
+            39.256065
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 AVENUE H",
+    "location_city": "ELY",
+    "location_state": "NV",
+    "location_zip": "89301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7752893001"
-    },
+    "phone_number": "7752893001",
     "provider_id": "291302",
     "raw_ratings": {},
     "state": "NV",

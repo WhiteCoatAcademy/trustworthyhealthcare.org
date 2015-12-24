@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"616 E 13TH ST\",\"city\":\"WINAMAC\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.057330765000074",
-        "longitude": "-86.59598408199997",
-        "needs_recoding": false
+        "coordinates": [
+            -86.595328,
+            41.057397
+        ],
+        "type": "Point"
     },
+    "location_address": "616 E 13TH ST",
+    "location_city": "WINAMAC",
+    "location_state": "IN",
+    "location_zip": "46996",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5749462100"
-    },
+    "phone_number": "5749462100",
     "provider_id": "151305",
     "raw_ratings": {},
     "state": "IN",

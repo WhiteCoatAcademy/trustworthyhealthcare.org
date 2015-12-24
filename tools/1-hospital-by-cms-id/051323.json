@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1401 BAILEY AVE\",\"city\":\"NEEDLES\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.832994547000055",
-        "longitude": "-114.61828289199997",
-        "needs_recoding": false
+        "coordinates": [
+            -114.618317,
+            34.832788
+        ],
+        "type": "Point"
     },
+    "location_address": "1401 BAILEY AVE",
+    "location_city": "NEEDLES",
+    "location_state": "CA",
+    "location_zip": "92363",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7603264531"
-    },
+    "phone_number": "7603264531",
     "provider_id": "051323",
     "raw_ratings": {},
     "state": "CA",

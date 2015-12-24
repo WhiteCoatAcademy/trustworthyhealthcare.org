@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"310 SANSOME ST\",\"city\":\"PHILIPSBURG\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "46.330217781000044",
-        "longitude": "-113.29494551499994",
-        "needs_recoding": false
+        "coordinates": [
+            -113.294207,
+            46.332755
+        ],
+        "type": "Point"
     },
+    "location_address": "310 SANSOME ST",
+    "location_city": "PHILIPSBURG",
+    "location_state": "MT",
+    "location_zip": "59858",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4068593271"
-    },
+    "phone_number": "4068593271",
     "provider_id": "271303",
     "raw_ratings": {},
     "state": "MT",

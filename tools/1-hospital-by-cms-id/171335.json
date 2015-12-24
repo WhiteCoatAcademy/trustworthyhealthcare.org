@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1006 S JACKSON\",\"city\":\"HUGOTON\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.171626520000075",
-        "longitude": "-101.34973519999994",
-        "needs_recoding": false
+        "coordinates": [
+            -101.349796,
+            37.171675
+        ],
+        "type": "Point"
     },
+    "location_address": "1006 S JACKSON",
+    "location_city": "HUGOTON",
+    "location_state": "KS",
+    "location_zip": "67951",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6205446178"
-    },
+    "phone_number": "6205446178",
     "provider_id": "171335",
     "raw_ratings": {},
     "state": "KS",

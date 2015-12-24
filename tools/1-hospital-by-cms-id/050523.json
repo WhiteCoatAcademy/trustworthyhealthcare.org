@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3901 LONE TREE WAY\",\"city\":\"ANTIOCH\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.982383792000064",
-        "longitude": "-121.80552498499998",
-        "needs_recoding": false
+        "coordinates": [
+            -121.805547,
+            37.982378
+        ],
+        "type": "Point"
     },
+    "location_address": "3901 LONE TREE WAY",
+    "location_city": "ANTIOCH",
+    "location_state": "CA",
+    "location_zip": "94509",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sutterhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9257797200"
-    },
+    "phone_number": "9257797200",
     "provider_id": "050523",
     "raw_ratings": {},
     "state": "CA",

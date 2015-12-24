@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2600 HIGHWAY 118 NORTH\",\"city\":\"ALPINE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.38352646800007",
-        "longitude": "-103.67193339599999",
-        "needs_recoding": false
+        "coordinates": [
+            -103.672137,
+            30.383807
+        ],
+        "type": "Point"
     },
+    "location_address": "2600 HIGHWAY 118 NORTH",
+    "location_city": "ALPINE",
+    "location_state": "TX",
+    "location_zip": "79830",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4328373447"
-    },
+    "phone_number": "4328373447",
     "provider_id": "451378",
     "raw_ratings": {},
     "state": "TX",

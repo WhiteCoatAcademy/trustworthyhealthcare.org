@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1080 NORTH ELLINGTON PARKWAY\",\"city\":\"LEWISBURG\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.46483611700006",
-        "longitude": "-86.78714057899998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.784954,
+            35.46312
+        ],
+        "type": "Point"
     },
+    "location_address": "1080 NORTH ELLINGTON PARKWAY",
+    "location_city": "LEWISBURG",
+    "location_state": "TN",
+    "location_zip": "37091",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mauryregional.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9313596276"
-    },
+    "phone_number": "9313596276",
     "provider_id": "441309",
     "raw_ratings": {},
     "state": "TN",

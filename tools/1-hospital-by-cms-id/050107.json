@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1400 E CHURCH ST\",\"city\":\"SANTA MARIA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.95203356700006",
-        "longitude": "-120.41321941099994",
-        "needs_recoding": false
+        "coordinates": [
+            -120.414052,
+            34.952165
+        ],
+        "type": "Point"
     },
+    "location_address": "1400 E CHURCH ST",
+    "location_city": "SANTA MARIA",
+    "location_state": "CA",
+    "location_zip": "93454",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8057393000"
-    },
+    "phone_number": "8057393000",
     "provider_id": "050107",
     "raw_ratings": {},
     "state": "CA",

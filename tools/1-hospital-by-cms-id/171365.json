@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"205 S HANOVER STREET\",\"city\":\"HANOVER\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.89143379200004",
-        "longitude": "-96.87492136999998",
-        "needs_recoding": false
+        "coordinates": [
+            -96.874767,
+            39.891513
+        ],
+        "type": "Point"
     },
+    "location_address": "205 S HANOVER STREET",
+    "location_city": "HANOVER",
+    "location_state": "KS",
+    "location_zip": "66945",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7853372214"
-    },
+    "phone_number": "7853372214",
     "provider_id": "171365",
     "raw_ratings": {},
     "state": "KS",

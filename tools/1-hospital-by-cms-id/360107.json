@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1400 WEST MAIN STREET\",\"city\":\"BELLEVUE\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.284907590000046",
-        "longitude": "-82.88178289199999",
-        "needs_recoding": false
+        "coordinates": [
+            -82.883552,
+            41.285355
+        ],
+        "type": "Point"
     },
+    "location_address": "1400 WEST MAIN STREET",
+    "location_city": "BELLEVUE",
+    "location_state": "OH",
+    "location_zip": "44811",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4194834040"
-    },
+    "phone_number": "4194834040",
     "provider_id": "360107",
     "raw_ratings": {},
     "state": "OH",

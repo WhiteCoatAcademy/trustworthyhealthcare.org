@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1306 WEST COLLIN RAYE DRIVE\",\"city\":\"DE QUEEN\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "34.045594943000026",
-        "longitude": "-94.36377166499994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.356155,
+            34.046277
+        ],
+        "type": "Point"
     },
+    "location_address": "1306 WEST COLLIN RAYE DRIVE",
+    "location_city": "DE QUEEN",
+    "location_state": "AR",
+    "location_zip": "71832",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8705844111"
-    },
+    "phone_number": "8705844111",
     "provider_id": "041319",
     "raw_ratings": {},
     "state": "AR",

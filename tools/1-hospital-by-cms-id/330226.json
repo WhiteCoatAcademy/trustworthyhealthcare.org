@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1555 LONG POND ROAD\",\"city\":\"ROCHESTER\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.192040004000035",
-        "longitude": "-77.70148797299998",
-        "needs_recoding": false
+        "coordinates": [
+            -77.701464,
+            43.191527
+        ],
+        "type": "Point"
     },
+    "location_address": "1555 LONG POND ROAD",
+    "location_city": "ROCHESTER",
+    "location_state": "NY",
+    "location_zip": "14626",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5857237000"
-    },
+    "phone_number": "5857237000",
     "provider_id": "330226",
     "raw_ratings": {},
     "state": "NY",

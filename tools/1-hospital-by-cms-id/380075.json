@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1111 CRATER LAKE AVENUE\",\"city\":\"MEDFORD\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "42.33977198400004",
-        "longitude": "-122.86109104999997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.861004,
+            42.339902
+        ],
+        "type": "Point"
     },
+    "location_address": "1111 CRATER LAKE AVENUE",
+    "location_city": "MEDFORD",
+    "location_state": "OR",
+    "location_zip": "97504",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.providence.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5417325196"
-    },
+    "phone_number": "5417325196",
     "provider_id": "380075",
     "raw_ratings": {},
     "state": "OR",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 GRESHAM DR\",\"city\":\"NORFOLK\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "36.86236471500007",
-        "longitude": "-76.30473113399995",
-        "needs_recoding": false
+        "coordinates": [
+            -76.304268,
+            36.863435
+        ],
+        "type": "Point"
     },
+    "location_address": "600 GRESHAM DR",
+    "location_city": "NORFOLK",
+    "location_state": "VA",
+    "location_zip": "23507",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sentara.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7573883000"
-    },
+    "phone_number": "7573883000",
     "provider_id": "490007",
     "raw_ratings": {},
     "state": "VA",

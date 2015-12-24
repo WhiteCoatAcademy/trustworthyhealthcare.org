@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2233 STATE ROUTE 86\",\"city\":\"SARANAC LAKE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "44.34492100600005",
-        "longitude": "-74.14459220199996",
-        "needs_recoding": false
+        "coordinates": [
+            -74.144441,
+            44.343914
+        ],
+        "type": "Point"
     },
+    "location_address": "2233 STATE ROUTE 86",
+    "location_city": "SARANAC LAKE",
+    "location_state": "NY",
+    "location_zip": "12983",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5188914141"
-    },
+    "phone_number": "5188914141",
     "provider_id": "330079",
     "raw_ratings": {},
     "state": "NY",

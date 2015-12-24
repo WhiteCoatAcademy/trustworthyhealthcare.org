@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"119 OAKFIELD DR\",\"city\":\"BRANDON\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.933986275000052",
-        "longitude": "-82.28825635599998",
-        "needs_recoding": false
+        "coordinates": [
+            -82.288295,
+            27.933973
+        ],
+        "type": "Point"
     },
+    "location_address": "119 OAKFIELD DR",
+    "location_city": "BRANDON",
+    "location_state": "FL",
+    "location_zip": "33511",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8136815551"
-    },
+    "phone_number": "8136815551",
     "provider_id": "100243",
     "raw_ratings": {},
     "state": "FL",

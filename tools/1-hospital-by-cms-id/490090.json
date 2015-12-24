@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 OAK STREET\",\"city\":\"FARMVILLE\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.30371180800006",
-        "longitude": "-78.40371589699998",
-        "needs_recoding": false
+        "coordinates": [
+            -78.402486,
+            37.302996
+        ],
+        "type": "Point"
     },
+    "location_address": "800 OAK STREET",
+    "location_city": "FARMVILLE",
+    "location_state": "VA",
+    "location_zip": "23901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.centrahealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4343928811"
-    },
+    "phone_number": "4343928811",
     "provider_id": "490090",
     "raw_ratings": {},
     "state": "VA",

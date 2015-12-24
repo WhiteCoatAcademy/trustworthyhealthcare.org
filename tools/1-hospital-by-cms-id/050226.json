@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1111 W LA PALMA AVENUE\",\"city\":\"ANAHEIM\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.847188424000024",
-        "longitude": "-117.93230693999999",
-        "needs_recoding": false
+        "coordinates": [
+            -117.932805,
+            33.847148
+        ],
+        "type": "Point"
     },
+    "location_address": "1111 W LA PALMA AVENUE",
+    "location_city": "ANAHEIM",
+    "location_state": "CA",
+    "location_zip": "92801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.memorialcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7147741450"
-    },
+    "phone_number": "7147741450",
     "provider_id": "050226",
     "raw_ratings": {},
     "state": "CA",

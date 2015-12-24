@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"621 3RD ST S\",\"city\":\"GLASGOW\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "48.18976973200006",
-        "longitude": "-106.63628587699998",
-        "needs_recoding": false
+        "coordinates": [
+            -106.636382,
+            48.189871
+        ],
+        "type": "Point"
     },
+    "location_address": "621 3RD ST S",
+    "location_city": "GLASGOW",
+    "location_state": "MT",
+    "location_zip": "59230",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4062283500"
-    },
+    "phone_number": "4062283500",
     "provider_id": "271316",
     "raw_ratings": {},
     "state": "MT",

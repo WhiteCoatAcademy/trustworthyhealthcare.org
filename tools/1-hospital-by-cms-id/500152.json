@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"751 NE BLAKELY DR\",\"city\":\"ISSAQUAH\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.53652154700006",
-        "longitude": "-122.02206984899999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.0221,
+            47.536567
+        ],
+        "type": "Point"
     },
+    "location_address": "751 NE BLAKELY DR",
+    "location_city": "ISSAQUAH",
+    "location_state": "WA",
+    "location_zip": "98029",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4253134000"
-    },
+    "phone_number": "4253134000",
     "provider_id": "500152",
     "raw_ratings": {},
     "state": "WA",

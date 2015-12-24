@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"440 NORTH HIAWATHA DRIVE\",\"city\":\"CANTON\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "43.30284295800004",
-        "longitude": "-96.56025644899995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.554539,
+            43.304786
+        ],
+        "type": "Point"
     },
+    "location_address": "440 NORTH HIAWATHA DRIVE",
+    "location_city": "CANTON",
+    "location_state": "SD",
+    "location_zip": "57013",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sanfordhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6057641400"
-    },
+    "phone_number": "6057641400",
     "provider_id": "431333",
     "raw_ratings": {},
     "state": "SD",

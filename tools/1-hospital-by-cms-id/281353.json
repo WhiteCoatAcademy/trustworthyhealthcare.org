@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2707 L STREET\",\"city\":\"ORD\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.603187579000064",
-        "longitude": "-98.94283565199999",
-        "needs_recoding": false
+        "coordinates": [
+            -98.943024,
+            41.603189
+        ],
+        "type": "Point"
     },
+    "location_address": "2707 L STREET",
+    "location_city": "ORD",
+    "location_state": "NE",
+    "location_zip": "68862",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3087284200"
-    },
+    "phone_number": "3087284200",
     "provider_id": "281353",
     "raw_ratings": {},
     "state": "NE",

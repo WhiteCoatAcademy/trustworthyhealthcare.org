@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"211 4TH STREET\",\"city\":\"ALEXANDRIA\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "31.31438127800004",
-        "longitude": "-92.44965930399997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.449683,
+            31.314363
+        ],
+        "type": "Point"
     },
+    "location_address": "211 4TH STREET",
+    "location_city": "ALEXANDRIA",
+    "location_state": "LA",
+    "location_zip": "71301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3187693000"
-    },
+    "phone_number": "3187693000",
     "provider_id": "190026",
     "raw_ratings": {},
     "state": "LA",

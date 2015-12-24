@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9201 WEST THOMAS ROAD\",\"city\":\"PHOENIX\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.479662844000075",
-        "longitude": "-112.25639850299996",
-        "needs_recoding": false
+        "coordinates": [
+            -112.257657,
+            33.479565
+        ],
+        "type": "Point"
     },
+    "location_address": "9201 WEST THOMAS ROAD",
+    "location_city": "PHOENIX",
+    "location_state": "AZ",
+    "location_zip": "85037",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bannerhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6233274000"
-    },
+    "phone_number": "6233274000",
     "provider_id": "030115",
     "raw_ratings": {},
     "state": "AZ",

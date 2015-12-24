@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"24 JOLIET ST\",\"city\":\"DYER\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.49439357700004",
-        "longitude": "-87.52417537599996",
-        "needs_recoding": false
+        "coordinates": [
+            -87.523722,
+            41.494299
+        ],
+        "type": "Point"
     },
+    "location_address": "24 JOLIET ST",
+    "location_city": "DYER",
+    "location_state": "IN",
+    "location_zip": "46311",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ssfhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2198652141"
-    },
+    "phone_number": "2198652141",
     "provider_id": "150090",
     "raw_ratings": {},
     "state": "IN",

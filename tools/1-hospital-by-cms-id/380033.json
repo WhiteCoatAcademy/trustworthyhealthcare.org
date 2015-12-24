@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1255 HILYARD STREET\",\"city\":\"EUGENE\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "44.04601576300007",
-        "longitude": "-123.08208360999998",
-        "needs_recoding": false
+        "coordinates": [
+            -123.082107,
+            44.045405
+        ],
+        "type": "Point"
     },
+    "location_address": "1255 HILYARD STREET",
+    "location_city": "EUGENE",
+    "location_state": "OR",
+    "location_zip": "97401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.peacehealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5416867300"
-    },
+    "phone_number": "5416867300",
     "provider_id": "380033",
     "raw_ratings": {},
     "state": "OR",

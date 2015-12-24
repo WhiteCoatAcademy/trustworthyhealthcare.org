@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 EAST MAIN STREET\",\"city\":\"MOUNT KISCO\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "41.195474389000026",
-        "longitude": "-73.72496227699997",
-        "needs_recoding": false
+        "coordinates": [
+            -73.724487,
+            41.196569
+        ],
+        "type": "Point"
     },
+    "location_address": "400 EAST MAIN STREET",
+    "location_city": "MOUNT KISCO",
+    "location_state": "NY",
+    "location_zip": "10549",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nypsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9146661200"
-    },
+    "phone_number": "9146661200",
     "provider_id": "330162",
     "raw_ratings": {},
     "state": "NY",

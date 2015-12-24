@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"435 EAST HENRIETTA ROAD\",\"city\":\"ROCHESTER\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.11213733000005",
-        "longitude": "-77.61612211099998",
-        "needs_recoding": false
+        "coordinates": [
+            -77.616078,
+            43.111856
+        ],
+        "type": "Point"
     },
+    "location_address": "435 EAST HENRIETTA ROAD",
+    "location_city": "ROCHESTER",
+    "location_state": "NY",
+    "location_zip": "14620",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5857606500"
-    },
+    "phone_number": "5857606500",
     "provider_id": "330403",
     "raw_ratings": {},
     "state": "NY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"620 WEST EIGHTH STREET\",\"city\":\"KINSLEY\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.92081737500007",
-        "longitude": "-99.40527711999994",
-        "needs_recoding": false
+        "coordinates": [
+            -99.419431,
+            37.920715
+        ],
+        "type": "Point"
     },
+    "location_address": "620 WEST EIGHTH STREET",
+    "location_city": "KINSLEY",
+    "location_state": "KS",
+    "location_zip": "67547",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6206593621"
-    },
+    "phone_number": "6206593621",
     "provider_id": "171317",
     "raw_ratings": {},
     "state": "KS",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 MEDICAL CENTER DRIVE, PO BOX 800\",\"city\":\"FAIRMONT\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "43.63773168000006",
-        "longitude": "-94.45165140099994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.450685,
+            43.640065
+        ],
+        "type": "Point"
     },
+    "location_address": "800 MEDICAL CENTER DRIVE, PO BOX 800",
+    "location_city": "FAIRMONT",
+    "location_state": "MN",
+    "location_zip": "56031",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mayohealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5072388101"
-    },
+    "phone_number": "5072388101",
     "provider_id": "240166",
     "raw_ratings": {},
     "state": "MN",

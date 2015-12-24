@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1900 TEBEAU STREET\",\"city\":\"WAYCROSS\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "31.226013540000054",
-        "longitude": "-82.34916085199995",
-        "needs_recoding": false
+        "coordinates": [
+            -82.348837,
+            31.226326
+        ],
+        "type": "Point"
     },
+    "location_address": "1900 TEBEAU STREET",
+    "location_city": "WAYCROSS",
+    "location_state": "GA",
+    "location_zip": "31501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9122872500"
-    },
+    "phone_number": "9122872500",
     "provider_id": "110003",
     "raw_ratings": {},
     "state": "GA",

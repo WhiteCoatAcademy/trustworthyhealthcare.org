@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"1400 BLACK HORSE HILL ROAD\",\"city\":\"COATESVILLE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.999606363000055",
-        "longitude": "-75.79882525999994",
-        "needs_recoding": false
+        "coordinates": [
+            -75.798969,
+            39.99957
+        ],
+        "type": "Point"
     },
+    "location_address": "1400 BLACK HORSE HILL ROAD",
+    "location_city": "COATESVILLE",
+    "location_state": "PA",
+    "location_zip": "19320",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "6103847711"
-    },
+    "phone_number": "6103847711",
     "provider_id": "39004F",
     "raw_ratings": {},
     "state": "PA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 UNIVERSITY DRIVE\",\"city\":\"HERSHEY\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.26564604600003",
-        "longitude": "-76.67419387199999",
-        "needs_recoding": false
+        "coordinates": [
+            -76.674557,
+            40.265932
+        ],
+        "type": "Point"
     },
+    "location_address": "500 UNIVERSITY DRIVE",
+    "location_city": "HERSHEY",
+    "location_state": "PA",
+    "location_zip": "17033",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7175318521"
-    },
+    "phone_number": "7175318521",
     "provider_id": "390256",
     "raw_ratings": {},
     "state": "PA",

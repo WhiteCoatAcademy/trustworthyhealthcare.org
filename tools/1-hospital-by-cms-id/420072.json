@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"595 WEST CAROLINA AVENUE\",\"city\":\"VARNVILLE\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "32.85562734300004",
-        "longitude": "-81.08831731799995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.087473,
+            32.855107
+        ],
+        "type": "Point"
     },
+    "location_address": "595 WEST CAROLINA AVENUE",
+    "location_city": "VARNVILLE",
+    "location_state": "SC",
+    "location_zip": "29944",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8039432771"
-    },
+    "phone_number": "8039432771",
     "provider_id": "420072",
     "raw_ratings": {},
     "state": "SC",

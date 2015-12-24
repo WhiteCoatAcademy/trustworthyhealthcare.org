@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"820 S DAMEN STREET\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.871142503000044",
-        "longitude": "-87.67638435699996",
-        "needs_recoding": false
+        "coordinates": [
+            -87.676448,
+            41.871256
+        ],
+        "type": "Point"
     },
+    "location_address": "820 S DAMEN STREET",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60612",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "3125698387"
-    },
+    "phone_number": "3125698387",
     "provider_id": "14003F",
     "raw_ratings": {},
     "state": "IL",

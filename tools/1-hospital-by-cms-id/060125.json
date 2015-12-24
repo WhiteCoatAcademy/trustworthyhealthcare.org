@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2350 MEADOWS BLVD\",\"city\":\"CASTLE ROCK\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.388545555000064",
-        "longitude": "-104.84611447999998",
-        "needs_recoding": false
+        "coordinates": [
+            -104.886146,
+            39.404113
+        ],
+        "type": "Point"
     },
+    "location_address": "2350 MEADOWS BLVD",
+    "location_city": "CASTLE ROCK",
+    "location_state": "CO",
+    "location_zip": "80109",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7204552500"
-    },
+    "phone_number": "7204552500",
     "provider_id": "060125",
     "raw_ratings": {},
     "state": "CO",

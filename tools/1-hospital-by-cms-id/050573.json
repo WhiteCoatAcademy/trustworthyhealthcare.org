@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"39-000 BOB HOPE DRIVE\",\"city\":\"RANCHO MIRAGE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.76418081300005",
-        "longitude": "-116.40807679599999",
-        "needs_recoding": false
+        "coordinates": [
+            -116.408082,
+            33.763402
+        ],
+        "type": "Point"
     },
+    "location_address": "39-000 BOB HOPE DRIVE",
+    "location_city": "RANCHO MIRAGE",
+    "location_state": "CA",
+    "location_zip": "92270",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7603403911"
-    },
+    "phone_number": "7603403911",
     "provider_id": "050573",
     "raw_ratings": {},
     "state": "CA",

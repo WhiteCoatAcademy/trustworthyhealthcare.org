@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"105 5TH AVE E\",\"city\":\"SCOBEY\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "48.78863245000008",
-        "longitude": "-105.41829499499994",
-        "needs_recoding": false
+        "coordinates": [
+            -105.417789,
+            48.788779
+        ],
+        "type": "Point"
     },
+    "location_address": "105 5TH AVE E",
+    "location_city": "SCOBEY",
+    "location_state": "MT",
+    "location_zip": "59263",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4064872296"
-    },
+    "phone_number": "4064872296",
     "provider_id": "271342",
     "raw_ratings": {},
     "state": "MT",

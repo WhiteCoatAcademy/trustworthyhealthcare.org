@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2601 DIMMITT RD\",\"city\":\"PLAINVIEW\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "34.20771712900006",
-        "longitude": "-101.73222843299999",
-        "needs_recoding": false
+        "coordinates": [
+            -101.731639,
+            34.207225
+        ],
+        "type": "Point"
     },
+    "location_address": "2601 DIMMITT RD",
+    "location_city": "PLAINVIEW",
+    "location_state": "TX",
+    "location_zip": "79072",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.stjhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8062965531"
-    },
+    "phone_number": "8062965531",
     "provider_id": "450539",
     "raw_ratings": {},
     "state": "TX",

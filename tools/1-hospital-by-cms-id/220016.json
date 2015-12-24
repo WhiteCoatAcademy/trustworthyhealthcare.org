@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"164 HIGH STREET\",\"city\":\"GREENFIELD\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.59504970900008",
-        "longitude": "-72.59183599499994",
-        "needs_recoding": false
+        "coordinates": [
+            -72.591287,
+            42.595606
+        ],
+        "type": "Point"
     },
+    "location_address": "164 HIGH STREET",
+    "location_city": "GREENFIELD",
+    "location_state": "MA",
+    "location_zip": "01301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baystatehealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4137730211"
-    },
+    "phone_number": "4137730211",
     "provider_id": "220016",
     "raw_ratings": {},
     "state": "MA",

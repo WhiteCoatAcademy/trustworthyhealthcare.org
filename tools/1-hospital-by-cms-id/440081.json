@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"742 MIDDLECREEK ROAD\",\"city\":\"SEVIERVILLE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.85447409900007",
-        "longitude": "-83.53755909999995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.536841,
+            35.853732
+        ],
+        "type": "Point"
     },
+    "location_address": "742 MIDDLECREEK ROAD",
+    "location_city": "SEVIERVILLE",
+    "location_state": "TN",
+    "location_zip": "37862",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.covenanthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8654467500"
-    },
+    "phone_number": "8654467500",
     "provider_id": "440081",
     "raw_ratings": {},
     "state": "TN",

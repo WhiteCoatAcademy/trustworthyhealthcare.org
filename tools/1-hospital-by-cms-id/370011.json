@@ -1,18 +1,23 @@
 {
-    "address": "2115 PARK VIEW DRIVE",
+    "address": "2115 PARKVIEW DRIVE",
     "city": "EL RENO",
     "county_name": "CANADIAN",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MERCY HOSPITAL EL RENO",
+    "hospital_name": "MERCY HOSPITAL EL RENO, INC",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2115 PARK VIEW DRIVE\",\"city\":\"EL RENO\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.53066413600004",
-        "longitude": "-97.98031721499996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.978628,
+            35.530876
+        ],
+        "type": "Point"
     },
+    "location_address": "2115 PARKVIEW DRIVE",
+    "location_city": "EL RENO",
+    "location_state": "OK",
+    "location_zip": "73036",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4052622640"
-    },
+    "phone_number": "4052622640",
     "provider_id": "370011",
     "raw_ratings": {},
     "state": "OK",

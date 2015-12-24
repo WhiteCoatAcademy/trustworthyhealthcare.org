@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "GOOD SAMARITAN REGIONAL HLTH CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1 GOOD SAMARITAN WAY\",\"city\":\"MOUNT VERNON\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "38.29862811300006",
-        "longitude": "-88.94147213799994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.93,
+            38.3149
+        ],
+        "type": "Point"
     },
+    "location_address": "1 GOOD SAMARITAN WAY",
+    "location_city": "MOUNT VERNON",
+    "location_state": "IL",
+    "location_zip": "62864",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ssmhc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6188991469"
-    },
+    "phone_number": "6188991469",
     "provider_id": "140046",
     "raw_ratings": {},
     "state": "IL",

@@ -2,17 +2,22 @@
     "address": "6200 W PARKER RD",
     "city": "PLANO",
     "county_name": "COLLIN",
-    "emergency_services": false,
+    "emergency_services": true,
     "global_rank": {},
     "hospital_name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL PLANO",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6200 W PARKER RD\",\"city\":\"PLANO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.045123544000035",
-        "longitude": "-96.83633855899996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.838515,
+            33.045127
+        ],
+        "type": "Point"
     },
+    "location_address": "6200 W PARKER RD",
+    "location_city": "PLANO",
+    "location_state": "TX",
+    "location_zip": "75093",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.texashealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9729818000"
-    },
+    "phone_number": "9729818000",
     "provider_id": "450771",
     "raw_ratings": {},
     "state": "TX",

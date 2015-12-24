@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1499 FAIR ROAD\",\"city\":\"STATESBORO\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.415213710000046",
-        "longitude": "-81.76871553199999",
-        "needs_recoding": false
+        "coordinates": [
+            -81.76869,
+            32.415229
+        ],
+        "type": "Point"
     },
+    "location_address": "1499 FAIR ROAD",
+    "location_city": "STATESBORO",
+    "location_state": "GA",
+    "location_zip": "30458",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9124861500"
-    },
+    "phone_number": "9124861500",
     "provider_id": "110075",
     "raw_ratings": {},
     "state": "GA",

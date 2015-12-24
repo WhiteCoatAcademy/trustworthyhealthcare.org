@@ -1,5 +1,5 @@
 {
-    "address": "PO BOX 390",
+    "address": "711 ONYX STREET",
     "city": "KEMMERER",
     "county_name": "LINCOLN",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"PO BOX 390\",\"city\":\"KEMMERER\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "41.79792060700004",
-        "longitude": "-110.54043556699997",
-        "needs_recoding": false
+        "coordinates": [
+            -110.540494,
+            41.789572
+        ],
+        "type": "Point"
     },
+    "location_address": "711 ONYX STREET",
+    "location_city": "KEMMERER",
+    "location_state": "WY",
+    "location_zip": "83101",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3078774401"
-    },
+    "phone_number": "3078774401",
     "provider_id": "531315",
     "raw_ratings": {},
     "state": "WY",

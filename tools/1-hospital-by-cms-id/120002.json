@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"221 MAHALANI STREET\",\"city\":\"WAILUKU\",\"state\":\"HI\",\"zip\":\"\"}",
-        "latitude": "20.884142918000066",
-        "longitude": "-156.48867641399997",
-        "needs_recoding": false
+        "coordinates": [
+            -156.488693,
+            20.884006
+        ],
+        "type": "Point"
     },
+    "location_address": "221 MAHALANI STREET",
+    "location_city": "WAILUKU",
+    "location_state": "HI",
+    "location_zip": "96793",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hhsc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8084425101"
-    },
+    "phone_number": "8084425101",
     "provider_id": "120002",
     "raw_ratings": {},
     "state": "HI",

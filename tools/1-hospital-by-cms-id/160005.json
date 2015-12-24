@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"311 SOUTH CLARK STREET\",\"city\":\"CARROLL\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.057287237000025",
-        "longitude": "-94.86781678199998",
-        "needs_recoding": false
+        "coordinates": [
+            -94.867956,
+            42.057042
+        ],
+        "type": "Point"
     },
+    "location_address": "311 SOUTH CLARK STREET",
+    "location_city": "CARROLL",
+    "location_state": "IA",
+    "location_zip": "51401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7127923581"
-    },
+    "phone_number": "7127923581",
     "provider_id": "160005",
     "raw_ratings": {},
     "state": "IA",

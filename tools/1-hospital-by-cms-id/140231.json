@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 SOUTH WASHINGTON\",\"city\":\"NAPERVILLE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.76100739100008",
-        "longitude": "-88.14903360599999",
-        "needs_recoding": false
+        "coordinates": [
+            -88.14896,
+            41.760787
+        ],
+        "type": "Point"
     },
+    "location_address": "801 SOUTH WASHINGTON",
+    "location_city": "NAPERVILLE",
+    "location_state": "IL",
+    "location_zip": "60540",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.edward.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6305273000"
-    },
+    "phone_number": "6305273000",
     "provider_id": "140231",
     "raw_ratings": {},
     "state": "IL",

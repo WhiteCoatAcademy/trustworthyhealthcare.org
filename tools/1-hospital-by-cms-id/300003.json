@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1 MEDICAL CENTER DRIVE\",\"city\":\"LEBANON\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "43.68386003400008",
-        "longitude": "-72.27225972799994",
-        "needs_recoding": false
+        "coordinates": [
+            -72.27415,
+            43.677276
+        ],
+        "type": "Point"
     },
+    "location_address": "1 MEDICAL CENTER DRIVE",
+    "location_city": "LEBANON",
+    "location_state": "NH",
+    "location_zip": "03756",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6036505000"
-    },
+    "phone_number": "6036505000",
     "provider_id": "300003",
     "raw_ratings": {},
     "state": "NH",

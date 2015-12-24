@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4311 EAST LOHMAN AVENUE\",\"city\":\"LAS CRUCES\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "32.321900776000064",
-        "longitude": "-106.72904321399994",
-        "needs_recoding": false
+        "coordinates": [
+            -106.728297,
+            32.322639
+        ],
+        "type": "Point"
     },
+    "location_address": "4311 EAST LOHMAN AVENUE",
+    "location_city": "LAS CRUCES",
+    "location_state": "NM",
+    "location_zip": "88011",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "5755567600"
-    },
+    "phone_number": "5755567600",
     "provider_id": "320085",
     "raw_ratings": {},
     "state": "NM",

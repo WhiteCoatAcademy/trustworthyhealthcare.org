@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3865 JACKSON STREET\",\"city\":\"RIVERSIDE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.92581023100007",
-        "longitude": "-117.44010648099999",
-        "needs_recoding": false
+        "coordinates": [
+            -117.440003,
+            33.925637
+        ],
+        "type": "Point"
     },
+    "location_address": "3865 JACKSON STREET",
+    "location_city": "RIVERSIDE",
+    "location_state": "CA",
+    "location_zip": "92503",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9516882211"
-    },
+    "phone_number": "9516882211",
     "provider_id": "050102",
     "raw_ratings": {},
     "state": "CA",

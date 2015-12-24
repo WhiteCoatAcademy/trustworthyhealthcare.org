@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"409 SOUTH SECOND STREET\",\"city\":\"HARRISBURG\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.25623565500007",
-        "longitude": "-76.87528693199994",
-        "needs_recoding": false
+        "coordinates": [
+            -76.83211,
+            40.229944
+        ],
+        "type": "Point"
     },
+    "location_address": "409 SOUTH SECOND STREET",
+    "location_city": "HARRISBURG",
+    "location_state": "PA",
+    "location_zip": "17105",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.pinnaclehealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7177825181"
-    },
+    "phone_number": "7177825181",
     "provider_id": "390067",
     "raw_ratings": {},
     "state": "PA",

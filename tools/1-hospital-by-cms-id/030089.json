@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5555 WEST THUNDERBIRD ROAD\",\"city\":\"GLENDALE\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.610723377000056",
-        "longitude": "-112.17962081299999",
-        "needs_recoding": false
+        "coordinates": [
+            -112.181344,
+            33.61069
+        ],
+        "type": "Point"
     },
+    "location_address": "5555 WEST THUNDERBIRD ROAD",
+    "location_city": "GLENDALE",
+    "location_state": "AZ",
+    "location_zip": "85306",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bannerhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6025885555"
-    },
+    "phone_number": "6028655555",
     "provider_id": "030089",
     "raw_ratings": {},
     "state": "AZ",

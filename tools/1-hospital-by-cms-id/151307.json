@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"412 N MONROE ST\",\"city\":\"WILLIAMSPORT\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.290193619000036",
-        "longitude": "-87.29556078499996",
-        "needs_recoding": false
+        "coordinates": [
+            -87.294798,
+            40.289129
+        ],
+        "type": "Point"
     },
+    "location_address": "412 N MONROE ST",
+    "location_city": "WILLIAMSPORT",
+    "location_state": "IN",
+    "location_zip": "47993",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7657624000"
-    },
+    "phone_number": "7657624000",
     "provider_id": "151307",
     "raw_ratings": {},
     "state": "IN",

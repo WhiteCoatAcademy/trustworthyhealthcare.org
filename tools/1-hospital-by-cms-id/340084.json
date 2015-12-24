@@ -1,18 +1,23 @@
 {
-    "address": "500 MORVEN ROAD",
+    "address": "2301 US HIGHWAY 74 WEST",
     "city": "WADESBORO",
     "county_name": "ANSON",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ANSON COMMUNITY HOSPITAL",
+    "hospital_name": "CAROLINAS HEALTH CARE SYSTEM ANSON",
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 MORVEN ROAD\",\"city\":\"WADESBORO\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "34.96090613700005",
-        "longitude": "-80.07549962799999",
-        "needs_recoding": false
+        "coordinates": [
+            -80.034057,
+            34.963397
+        ],
+        "type": "Point"
     },
+    "location_address": "2301 US HIGHWAY 74 WEST",
+    "location_city": "WADESBORO",
+    "location_state": "NC",
+    "location_zip": "28170",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.carolinas.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7046945131"
-    },
+    "phone_number": "7046945131",
     "provider_id": "340084",
     "raw_ratings": {},
     "state": "NC",

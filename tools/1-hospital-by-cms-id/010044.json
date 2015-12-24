@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1256 MILITARY STREET SOUTH\",\"city\":\"HAMILTON\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "34.12668982400004",
-        "longitude": "-87.98987352799998",
-        "needs_recoding": false
+        "coordinates": [
+            -87.989811,
+            34.12602
+        ],
+        "type": "Point"
     },
+    "location_address": "1256 MILITARY STREET SOUTH",
+    "location_city": "HAMILTON",
+    "location_state": "AL",
+    "location_zip": "35570",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nmhs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "2059216200"
-    },
+    "phone_number": "2059216200",
     "provider_id": "010044",
     "raw_ratings": {},
     "state": "AL",

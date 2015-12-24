@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"743 SPRING STREET\",\"city\":\"GAINESVILLE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "34.30236786200004",
-        "longitude": "-83.81873665199998",
-        "needs_recoding": false
+        "coordinates": [
+            -83.81737,
+            34.30335
+        ],
+        "type": "Point"
     },
+    "location_address": "743 SPRING STREET",
+    "location_city": "GAINESVILLE",
+    "location_state": "GA",
+    "location_zip": "30501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nghs.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7705353553"
-    },
+    "phone_number": "7705353553",
     "provider_id": "110029",
     "raw_ratings": {},
     "state": "GA",

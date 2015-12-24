@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 S RAYMOND AVE\",\"city\":\"ALHAMBRA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.09005071900003",
-        "longitude": "-118.14496648499994",
-        "needs_recoding": false
+        "coordinates": [
+            -118.145019,
+            34.09048
+        ],
+        "type": "Point"
     },
+    "location_address": "100 S RAYMOND AVE",
+    "location_city": "ALHAMBRA",
+    "location_state": "CA",
+    "location_zip": "91801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.alhambrahospital.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6265701606"
-    },
+    "phone_number": "6265701606",
     "provider_id": "050281",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11100 EUCLID AVENUE\",\"city\":\"CLEVELAND\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.50736711700006",
-        "longitude": "-81.60720249399998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.607166,
+            41.507368
+        ],
+        "type": "Point"
     },
+    "location_address": "11100 EUCLID AVENUE",
+    "location_city": "CLEVELAND",
+    "location_state": "OH",
+    "location_zip": "44106",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhhospitals.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2168441000"
-    },
+    "phone_number": "2168441000",
     "provider_id": "360137",
     "raw_ratings": {},
     "state": "OH",

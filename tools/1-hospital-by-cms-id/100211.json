@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"13100 FT KING RD\",\"city\":\"DADE CITY\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.348361795000073",
-        "longitude": "-82.20165892099999",
-        "needs_recoding": false
+        "coordinates": [
+            -82.201686,
+            28.348624
+        ],
+        "type": "Point"
     },
+    "location_address": "13100 FT KING RD",
+    "location_city": "DADE CITY",
+    "location_state": "FL",
+    "location_zip": "33525",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3525683174"
-    },
+    "phone_number": "3525683174",
     "provider_id": "100211",
     "raw_ratings": {},
     "state": "FL",

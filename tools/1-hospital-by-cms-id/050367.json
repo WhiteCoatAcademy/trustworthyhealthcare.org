@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 B GALE WILSON BLVD\",\"city\":\"FAIRFIELD\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.26109771700004",
-        "longitude": "-122.04752951599994",
-        "needs_recoding": false
+        "coordinates": [
+            -122.047589,
+            38.261104
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 B GALE WILSON BLVD",
+    "location_city": "FAIRFIELD",
+    "location_state": "CA",
+    "location_zip": "94533",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.northbay.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7076465000"
-    },
+    "phone_number": "7076465000",
     "provider_id": "050367",
     "raw_ratings": {},
     "state": "CA",

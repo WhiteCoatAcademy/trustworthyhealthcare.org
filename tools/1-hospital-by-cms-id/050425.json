@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2025 MORSE AVENUE\",\"city\":\"SACRAMENTO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.60286104700003",
-        "longitude": "-121.39223491399997",
-        "needs_recoding": false
+        "coordinates": [
+            -121.392237,
+            38.600954
+        ],
+        "type": "Point"
     },
+    "location_address": "2025 MORSE AVENUE",
+    "location_city": "SACRAMENTO",
+    "location_state": "CA",
+    "location_zip": "95825",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9169735000"
-    },
+    "phone_number": "9169735000",
     "provider_id": "050425",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"16251 SYLVESTER ROAD SW\",\"city\":\"BURIEN\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.45647714100005",
-        "longitude": "-122.34177402099999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.341623,
+            47.456585
+        ],
+        "type": "Point"
     },
+    "location_address": "16251 SYLVESTER ROAD SW",
+    "location_city": "BURIEN",
+    "location_state": "WA",
+    "location_zip": "98166",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2062449970"
-    },
+    "phone_number": "2062449970",
     "provider_id": "500011",
     "raw_ratings": {},
     "state": "WA",

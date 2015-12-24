@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1044 SW 44TH, SUITE 350\",\"city\":\"OKLAHOMA CITY\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.42073341400004",
-        "longitude": "-97.53401062999995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.53362,
+            35.42073
+        ],
+        "type": "Point"
     },
+    "location_address": "1044 SW 44TH, SUITE 350",
+    "location_city": "OKLAHOMA CITY",
+    "location_state": "OK",
+    "location_zip": "73109",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4056313085"
-    },
+    "phone_number": "4056313085",
     "provider_id": "370220",
     "raw_ratings": {},
     "state": "OK",

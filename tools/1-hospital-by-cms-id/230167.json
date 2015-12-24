@@ -4,15 +4,20 @@
     "county_name": "INGHAM",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MCLAREN - GREATER LANSING",
+    "hospital_name": "MCLAREN GREATER LANSING",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 W GREENLAWN AVE\",\"city\":\"LANSING\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.70485179600007",
-        "longitude": "-84.55470711299995",
-        "needs_recoding": false
+        "coordinates": [
+            -84.555517,
+            42.704805
+        ],
+        "type": "Point"
     },
+    "location_address": "401 W GREENLAWN AVE",
+    "location_city": "LANSING",
+    "location_state": "MI",
+    "location_zip": "48910",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mclarenhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5179756000"
-    },
+    "phone_number": "5179756000",
     "provider_id": "230167",
     "raw_ratings": {},
     "state": "MI",

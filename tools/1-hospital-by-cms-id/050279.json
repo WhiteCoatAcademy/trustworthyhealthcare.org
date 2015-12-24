@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6601 WHITE FEATHER ROAD\",\"city\":\"JOSHUA TREE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.13261946600005",
-        "longitude": "-116.27666596899996",
-        "needs_recoding": false
+        "coordinates": [
+            -116.276736,
+            34.129664
+        ],
+        "type": "Point"
     },
+    "location_address": "6601 WHITE FEATHER ROAD",
+    "location_city": "JOSHUA TREE",
+    "location_state": "CA",
+    "location_zip": "92252",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7603663711"
-    },
+    "phone_number": "7603663711",
     "provider_id": "050279",
     "raw_ratings": {},
     "state": "CA",

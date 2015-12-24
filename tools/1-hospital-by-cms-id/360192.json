@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"13207 RAVENNA RD\",\"city\":\"CHARDON\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.50938015400004",
-        "longitude": "-81.19359439399994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.193619,
+            41.50887
+        ],
+        "type": "Point"
     },
+    "location_address": "13207 RAVENNA RD",
+    "location_city": "CHARDON",
+    "location_state": "OH",
+    "location_zip": "44024",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhhospitals.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4402696000"
-    },
+    "phone_number": "4402696000",
     "provider_id": "360192",
     "raw_ratings": {},
     "state": "OH",

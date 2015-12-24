@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"502 NORTH 9TH AVENUE\",\"city\":\"VINTON\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.17447913900003",
-        "longitude": "-92.01330965599999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.013322,
+            42.175848
+        ],
+        "type": "Point"
     },
+    "location_address": "502 NORTH 9TH AVENUE",
+    "location_city": "VINTON",
+    "location_state": "IA",
+    "location_zip": "52349",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3194726200"
-    },
+    "phone_number": "3194726200",
     "provider_id": "161349",
     "raw_ratings": {},
     "state": "IA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"915 HIGHLAND BLVD\",\"city\":\"BOZEMAN\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "45.67073157400006",
-        "longitude": "-111.01724495499997",
-        "needs_recoding": false
+        "coordinates": [
+            -111.019875,
+            45.66787
+        ],
+        "type": "Point"
     },
+    "location_address": "915 HIGHLAND BLVD",
+    "location_city": "BOZEMAN",
+    "location_state": "MT",
+    "location_zip": "59715",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4065855000"
-    },
+    "phone_number": "4065855000",
     "provider_id": "270057",
     "raw_ratings": {},
     "state": "MT",

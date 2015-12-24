@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4455 EDISON LAKES PKWY\",\"city\":\"MISHAWAKA\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.70082505100004",
-        "longitude": "-86.17687428099998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.176781,
+            41.700723
+        ],
+        "type": "Point"
     },
+    "location_address": "4455 EDISON LAKES PKWY",
+    "location_city": "MISHAWAKA",
+    "location_state": "IN",
+    "location_zip": "46545",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5742316800"
-    },
+    "phone_number": "5742316800",
     "provider_id": "150177",
     "raw_ratings": {},
     "state": "IN",

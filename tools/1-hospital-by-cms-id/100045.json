@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 W PLYMOUTH AVE\",\"city\":\"DELAND\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "29.042648462000045",
-        "longitude": "-81.31693118199996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.31786,
+            29.042607
+        ],
+        "type": "Point"
     },
+    "location_address": "701 W PLYMOUTH AVE",
+    "location_city": "DELAND",
+    "location_state": "FL",
+    "location_zip": "32720",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3869434772"
-    },
+    "phone_number": "3869434772",
     "provider_id": "100045",
     "raw_ratings": {},
     "state": "FL",

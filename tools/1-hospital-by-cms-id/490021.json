@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1920 ATHERHOLT ROAD\",\"city\":\"LYNCHBURG\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.413782264000076",
-        "longitude": "-79.16975542099993",
-        "needs_recoding": false
+        "coordinates": [
+            -79.169688,
+            37.413946
+        ],
+        "type": "Point"
     },
+    "location_address": "1920 ATHERHOLT ROAD",
+    "location_city": "LYNCHBURG",
+    "location_state": "VA",
+    "location_zip": "24501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.centrahealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4342004789"
-    },
+    "phone_number": "4342004789",
     "provider_id": "490021",
     "raw_ratings": {},
     "state": "VA",

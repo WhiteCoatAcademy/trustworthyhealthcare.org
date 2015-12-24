@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1420 S CENTRAL AVE\",\"city\":\"GLENDALE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.12838663200006",
-        "longitude": "-118.25777212599996",
-        "needs_recoding": false
+        "coordinates": [
+            -118.257795,
+            34.127789
+        ],
+        "type": "Point"
     },
+    "location_address": "1420 S CENTRAL AVE",
+    "location_city": "GLENDALE",
+    "location_state": "CA",
+    "location_zip": "91204",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8185021900"
-    },
+    "phone_number": "8185021900",
     "provider_id": "050058",
     "raw_ratings": {},
     "state": "CA",

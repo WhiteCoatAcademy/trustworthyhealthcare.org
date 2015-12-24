@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1013 15TH ST\",\"city\":\"WELLINGTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "34.849180079000064",
-        "longitude": "-100.21241949299997",
-        "needs_recoding": false
+        "coordinates": [
+            -100.212939,
+            34.849109
+        ],
+        "type": "Point"
     },
+    "location_address": "1013 15TH ST",
+    "location_city": "WELLINGTON",
+    "location_state": "TX",
+    "location_zip": "79095",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8064472521"
-    },
+    "phone_number": "8064472521",
     "provider_id": "451355",
     "raw_ratings": {},
     "state": "TX",

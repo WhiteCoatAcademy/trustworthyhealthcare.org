@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1955 WEST FRYE ROAD\",\"city\":\"CHANDLER\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.298672999000075",
-        "longitude": "-111.87516587299996",
-        "needs_recoding": false
+        "coordinates": [
+            -111.87603,
+            33.29861
+        ],
+        "type": "Point"
     },
+    "location_address": "1955 WEST FRYE ROAD",
+    "location_city": "CHANDLER",
+    "location_state": "AZ",
+    "location_zip": "85224",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4809634561"
-    },
+    "phone_number": "4809634561",
     "provider_id": "030036",
     "raw_ratings": {},
     "state": "AZ",

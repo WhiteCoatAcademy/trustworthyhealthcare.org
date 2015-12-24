@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 BOWER HILL ROAD\",\"city\":\"PITTSBURGH\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.37646557000005",
-        "longitude": "-80.06753320999997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.06568,
+            40.377593
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 BOWER HILL ROAD",
+    "location_city": "PITTSBURGH",
+    "location_state": "PA",
+    "location_zip": "15243",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4129426209"
-    },
+    "phone_number": "4129426209",
     "provider_id": "390228",
     "raw_ratings": {},
     "state": "PA",

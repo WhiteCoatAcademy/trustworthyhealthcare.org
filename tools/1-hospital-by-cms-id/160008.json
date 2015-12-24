@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 MORGAN STREET\",\"city\":\"KEOKUK\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "40.40703516100007",
-        "longitude": "-91.38822771299994",
-        "needs_recoding": false
+        "coordinates": [
+            -91.388116,
+            40.406952
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 MORGAN STREET",
+    "location_city": "KEOKUK",
+    "location_state": "IA",
+    "location_zip": "52632",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3195247150"
-    },
+    "phone_number": "3195247150",
     "provider_id": "160008",
     "raw_ratings": {},
     "state": "IA",

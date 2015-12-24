@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"120 NORTH OAK ST\",\"city\":\"HINSDALE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.805488926000066",
-        "longitude": "-87.92010747299997",
-        "needs_recoding": false
+        "coordinates": [
+            -87.920059,
+            41.805269
+        ],
+        "type": "Point"
     },
+    "location_address": "120 NORTH OAK ST",
+    "location_city": "HINSDALE",
+    "location_state": "IL",
+    "location_zip": "60521",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6308569000"
-    },
+    "phone_number": "6308569000",
     "provider_id": "140122",
     "raw_ratings": {},
     "state": "IL",

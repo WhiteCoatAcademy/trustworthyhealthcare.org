@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"805 S OAKLAND\",\"city\":\"SAINT JOHNS\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.99326793400007",
-        "longitude": "-84.55578334399996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.555793,
+            42.99406
+        ],
+        "type": "Point"
     },
+    "location_address": "805 S OAKLAND",
+    "location_city": "SAINT JOHNS",
+    "location_state": "MI",
+    "location_zip": "48879",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sparrow.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9892246881"
-    },
+    "phone_number": "9892246881",
     "provider_id": "231326",
     "raw_ratings": {},
     "state": "MI",

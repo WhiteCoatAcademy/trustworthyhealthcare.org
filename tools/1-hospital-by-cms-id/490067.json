@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 MEDICAL PARK BOULEVARD\",\"city\":\"PETERSBURG\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.18371115000008",
-        "longitude": "-77.36137863899995",
-        "needs_recoding": false
+        "coordinates": [
+            -77.361466,
+            37.183654
+        ],
+        "type": "Point"
     },
+    "location_address": "200 MEDICAL PARK BOULEVARD",
+    "location_city": "PETERSBURG",
+    "location_state": "VA",
+    "location_zip": "23805",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "8047655000"
-    },
+    "phone_number": "8047655000",
     "provider_id": "490067",
     "raw_ratings": {},
     "state": "VA",

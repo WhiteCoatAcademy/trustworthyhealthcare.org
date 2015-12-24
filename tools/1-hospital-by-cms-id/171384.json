@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1201 WEST 12TH AVENUE\",\"city\":\"EMPORIA\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.41228468500003",
-        "longitude": "-96.19489300599997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.195257,
+            38.412235
+        ],
+        "type": "Point"
     },
+    "location_address": "1201 WEST 12TH AVENUE",
+    "location_city": "EMPORIA",
+    "location_state": "KS",
+    "location_zip": "66801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6203436800"
-    },
+    "phone_number": "6203436800",
     "provider_id": "171384",
     "raw_ratings": {},
     "state": "KS",

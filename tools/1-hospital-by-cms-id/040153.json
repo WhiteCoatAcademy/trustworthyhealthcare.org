@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2001 SOUTH MAIN\",\"city\":\"HOPE\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "33.64899251600008",
-        "longitude": "-93.58704804599995",
-        "needs_recoding": false
+        "coordinates": [
+            -93.587047,
+            33.648271
+        ],
+        "type": "Point"
     },
+    "location_address": "2001 SOUTH MAIN",
+    "location_city": "HOPE",
+    "location_state": "AR",
+    "location_zip": "71801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8707223800"
-    },
+    "phone_number": "8707223800",
     "provider_id": "040153",
     "raw_ratings": {},
     "state": "AR",

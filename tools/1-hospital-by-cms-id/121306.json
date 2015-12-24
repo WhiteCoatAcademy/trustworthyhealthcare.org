@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4800 KAWAIHAU ROAD\",\"city\":\"KAPAA\",\"state\":\"HI\",\"zip\":\"\"}",
-        "latitude": "22.087705165000045",
-        "longitude": "-159.31413488799998",
-        "needs_recoding": false
+        "coordinates": [
+            -159.314147,
+            22.087604
+        ],
+        "type": "Point"
     },
+    "location_address": "4800 KAWAIHAU ROAD",
+    "location_city": "KAPAA",
+    "location_state": "HI",
+    "location_zip": "96746",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hhsc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8088224961"
-    },
+    "phone_number": "8088224961",
     "provider_id": "121306",
     "raw_ratings": {},
     "state": "HI",

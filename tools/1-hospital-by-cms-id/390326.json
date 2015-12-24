@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1872 RIVERSIDE CIRCLE\",\"city\":\"EASTON\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.69120141700006",
-        "longitude": "-75.20982838999998",
-        "needs_recoding": false
+        "coordinates": [
+            -75.290063,
+            40.648978
+        ],
+        "type": "Point"
     },
+    "location_address": "1872 RIVERSIDE CIRCLE",
+    "location_city": "EASTON",
+    "location_state": "PA",
+    "location_zip": "18045",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6109543850"
-    },
+    "phone_number": "6109543850",
     "provider_id": "390326",
     "raw_ratings": {},
     "state": "PA",

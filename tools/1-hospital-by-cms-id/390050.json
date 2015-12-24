@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"320 EAST NORTH AVENUE\",\"city\":\"PITTSBURGH\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.45610815400005",
-        "longitude": "-80.00338637499993",
-        "needs_recoding": false
+        "coordinates": [
+            -80.003285,
+            40.456142
+        ],
+        "type": "Point"
     },
+    "location_address": "320 EAST NORTH AVENUE",
+    "location_city": "PITTSBURGH",
+    "location_state": "PA",
+    "location_zip": "15212",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wpahs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4123593131"
-    },
+    "phone_number": "4123593131",
     "provider_id": "390050",
     "raw_ratings": {},
     "state": "PA",

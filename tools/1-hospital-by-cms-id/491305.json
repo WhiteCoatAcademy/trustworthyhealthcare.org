@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"759 SOUTH MAIN STREET\",\"city\":\"WOODSTOCK\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "38.87152978800003",
-        "longitude": "-78.51395260399994",
-        "needs_recoding": false
+        "coordinates": [
+            -78.514166,
+            38.871341
+        ],
+        "type": "Point"
     },
+    "location_address": "759 SOUTH MAIN STREET",
+    "location_city": "WOODSTOCK",
+    "location_state": "VA",
+    "location_zip": "22664",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.valleyhealthlink.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5404591100"
-    },
+    "phone_number": "5404591100",
     "provider_id": "491305",
     "raw_ratings": {},
     "state": "VA",

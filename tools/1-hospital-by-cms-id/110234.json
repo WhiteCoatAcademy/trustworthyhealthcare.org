@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1221 E MCPHERSON AVENUE\",\"city\":\"NASHVILLE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "31.203633168000067",
-        "longitude": "-83.23841757099996",
-        "needs_recoding": false
+        "coordinates": [
+            -83.239122,
+            31.203849
+        ],
+        "type": "Point"
     },
+    "location_address": "1221 E MCPHERSON AVENUE",
+    "location_city": "NASHVILLE",
+    "location_state": "GA",
+    "location_zip": "31639",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2295437100"
-    },
+    "phone_number": "2295437100",
     "provider_id": "110234",
     "raw_ratings": {},
     "state": "GA",

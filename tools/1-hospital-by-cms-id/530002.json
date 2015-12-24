@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"501 SOUTH BURMA AVENUE\",\"city\":\"GILLETTE\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "44.291547413000046",
-        "longitude": "-105.51952125199995",
-        "needs_recoding": false
+        "coordinates": [
+            -105.519557,
+            44.289804
+        ],
+        "type": "Point"
     },
+    "location_address": "501 SOUTH BURMA AVENUE",
+    "location_city": "GILLETTE",
+    "location_state": "WY",
+    "location_zip": "82716",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3076881551"
-    },
+    "phone_number": "3076881551",
     "provider_id": "530002",
     "raw_ratings": {},
     "state": "WY",

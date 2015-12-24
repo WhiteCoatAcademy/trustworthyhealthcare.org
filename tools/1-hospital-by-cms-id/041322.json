@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"679 NORTH MAIN STREET\",\"city\":\"SALEM\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "36.38364637300003",
-        "longitude": "-91.81055128699995",
-        "needs_recoding": false
+        "coordinates": [
+            -91.812149,
+            36.383085
+        ],
+        "type": "Point"
     },
+    "location_address": "679 NORTH MAIN STREET",
+    "location_city": "SALEM",
+    "location_state": "AR",
+    "location_zip": "72576",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8708952691"
-    },
+    "phone_number": "8708952691",
     "provider_id": "041322",
     "raw_ratings": {},
     "state": "AR",

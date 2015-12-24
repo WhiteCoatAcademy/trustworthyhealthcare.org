@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"976 NORTH BROADWAY\",\"city\":\"YONKERS\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.967578013000036",
-        "longitude": "-73.88512579999997",
-        "needs_recoding": false
+        "coordinates": [
+            -73.885078,
+            40.967894
+        ],
+        "type": "Point"
     },
+    "location_address": "976 NORTH BROADWAY",
+    "location_city": "YONKERS",
+    "location_state": "NY",
+    "location_zip": "10701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.riversidehealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9149644444"
-    },
+    "phone_number": "9149644444",
     "provider_id": "330208",
     "raw_ratings": {},
     "state": "NY",

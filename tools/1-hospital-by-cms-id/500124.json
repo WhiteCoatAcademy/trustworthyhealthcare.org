@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"12040 NE 128TH STREET\",\"city\":\"KIRKLAND\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.71491666600008",
-        "longitude": "-122.18071946599997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.178607,
+            47.714917
+        ],
+        "type": "Point"
     },
+    "location_address": "12040 NE 128TH STREET",
+    "location_city": "KIRKLAND",
+    "location_state": "WA",
+    "location_zip": "98034",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4258991000"
-    },
+    "phone_number": "4258991000",
     "provider_id": "500124",
     "raw_ratings": {},
     "state": "WA",

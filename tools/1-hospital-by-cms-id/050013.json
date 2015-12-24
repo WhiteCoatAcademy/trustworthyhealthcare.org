@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10 WOODLAND ROAD\",\"city\":\"SAINT HELENA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.54204403800003",
-        "longitude": "-122.47535602899995",
-        "needs_recoding": false
+        "coordinates": [
+            -122.475271,
+            38.542024
+        ],
+        "type": "Point"
     },
+    "location_address": "10 WOODLAND ROAD",
+    "location_city": "SAINT HELENA",
+    "location_state": "CA",
+    "location_zip": "94574",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.adventisthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7079633611"
-    },
+    "phone_number": "7079633611",
     "provider_id": "050013",
     "raw_ratings": {},
     "state": "CA",

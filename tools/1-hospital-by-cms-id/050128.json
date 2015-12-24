@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4002 VISTA WAY\",\"city\":\"OCEANSIDE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.18366814800004",
-        "longitude": "-117.29174097899994",
-        "needs_recoding": false
+        "coordinates": [
+            -117.292335,
+            33.183699
+        ],
+        "type": "Point"
     },
+    "location_address": "4002 VISTA WAY",
+    "location_city": "OCEANSIDE",
+    "location_state": "CA",
+    "location_zip": "92056",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7607248411"
-    },
+    "phone_number": "7607248411",
     "provider_id": "050128",
     "raw_ratings": {},
     "state": "CA",

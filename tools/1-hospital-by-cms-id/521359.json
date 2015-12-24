@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1615 MAPLE LANE\",\"city\":\"ASHLAND\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "46.56690476400007",
-        "longitude": "-90.88810631899997",
-        "needs_recoding": false
+        "coordinates": [
+            -90.887908,
+            46.566879
+        ],
+        "type": "Point"
     },
+    "location_address": "1615 MAPLE LANE",
+    "location_city": "ASHLAND",
+    "location_state": "WI",
+    "location_zip": "54806",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7156855500"
-    },
+    "phone_number": "7156855500",
     "provider_id": "521359",
     "raw_ratings": {},
     "state": "WI",

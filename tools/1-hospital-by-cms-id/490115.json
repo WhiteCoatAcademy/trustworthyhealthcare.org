@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 HOSPITAL DRIVE\",\"city\":\"GALAX\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "36.67174301700004",
-        "longitude": "-80.92377995099997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.921363,
+            36.672471
+        ],
+        "type": "Point"
     },
+    "location_address": "200 HOSPITAL DRIVE",
+    "location_city": "GALAX",
+    "location_state": "VA",
+    "location_zip": "24333",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2762368181"
-    },
+    "phone_number": "2762368181",
     "provider_id": "490115",
     "raw_ratings": {},
     "state": "VA",

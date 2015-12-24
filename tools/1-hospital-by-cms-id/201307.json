@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 SOMERSET STREET\",\"city\":\"MILLINOCKET\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "45.65282045200007",
-        "longitude": "-68.71509612599993",
-        "needs_recoding": false
+        "coordinates": [
+            -68.71425,
+            45.651649
+        ],
+        "type": "Point"
     },
+    "location_address": "200 SOMERSET STREET",
+    "location_city": "MILLINOCKET",
+    "location_state": "ME",
+    "location_zip": "04462",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2077235161"
-    },
+    "phone_number": "2077235161",
     "provider_id": "201307",
     "raw_ratings": {},
     "state": "ME",

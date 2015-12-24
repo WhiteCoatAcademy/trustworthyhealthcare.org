@@ -4,15 +4,20 @@
     "county_name": "SANTA CRUZ",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "CARONDELET HOLY CROSS HOSPITAL",
+    "hospital_name": "HOLY CROSS HOSPITAL",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1171 WEST TARGET RANGE ROAD\",\"city\":\"NOGALES\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "31.341063516000077",
-        "longitude": "-110.95918152899998",
-        "needs_recoding": false
+        "coordinates": [
+            -110.958787,
+            31.341113
+        ],
+        "type": "Point"
     },
+    "location_address": "1171 WEST TARGET RANGE ROAD",
+    "location_city": "NOGALES",
+    "location_state": "AZ",
+    "location_zip": "85621",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5202853000"
-    },
+    "phone_number": "5202853000",
     "provider_id": "031313",
     "raw_ratings": {},
     "state": "AZ",

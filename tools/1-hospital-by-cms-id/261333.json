@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2305 WEST GEORGIA STREET\",\"city\":\"LOUISIANA\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.440539114000046",
-        "longitude": "-91.06363479799995",
-        "needs_recoding": false
+        "coordinates": [
+            -91.063563,
+            39.440565
+        ],
+        "type": "Point"
     },
+    "location_address": "2305 WEST GEORGIA STREET",
+    "location_city": "LOUISIANA",
+    "location_state": "MO",
+    "location_zip": "63353",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5737545531"
-    },
+    "phone_number": "5737545531",
     "provider_id": "261333",
     "raw_ratings": {},
     "state": "MO",

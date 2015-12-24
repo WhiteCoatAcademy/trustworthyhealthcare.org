@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"820 ARBUTUS AVE\",\"city\":\"OCONTO\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.89620028100006",
-        "longitude": "-87.86717164699996",
-        "needs_recoding": false
+        "coordinates": [
+            -87.867172,
+            44.89625
+        ],
+        "type": "Point"
     },
+    "location_address": "820 ARBUTUS AVE",
+    "location_city": "OCONTO",
+    "location_state": "WI",
+    "location_zip": "54153",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9208351100"
-    },
+    "phone_number": "9208351100",
     "provider_id": "521356",
     "raw_ratings": {},
     "state": "WI",

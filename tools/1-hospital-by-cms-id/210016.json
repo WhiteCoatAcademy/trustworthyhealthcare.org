@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7600 CARROLL AVENUE\",\"city\":\"TAKOMA PARK\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "38.983899902000076",
-        "longitude": "-76.99994538799996",
-        "needs_recoding": false
+        "coordinates": [
+            -76.99977,
+            38.983989
+        ],
+        "type": "Point"
     },
+    "location_address": "7600 CARROLL AVENUE",
+    "location_city": "TAKOMA PARK",
+    "location_state": "MD",
+    "location_zip": "20912",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.adventisthealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3018915651"
-    },
+    "phone_number": "3018915651",
     "provider_id": "210016",
     "raw_ratings": {},
     "state": "MD",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"3701 LOOP ROAD\",\"city\":\"TUSCALOOSA\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "33.19321286600007",
-        "longitude": "-87.48836588499995",
-        "needs_recoding": false
+        "coordinates": [
+            -87.488205,
+            33.193393
+        ],
+        "type": "Point"
     },
+    "location_address": "3701 LOOP ROAD",
+    "location_city": "TUSCALOOSA",
+    "location_state": "AL",
+    "location_zip": "35404",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "2055542000"
-    },
+    "phone_number": "2055542000",
     "provider_id": "01021F",
     "raw_ratings": {},
     "state": "AL",

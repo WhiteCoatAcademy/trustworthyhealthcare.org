@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 WEST GLYNN DRIVE\",\"city\":\"PARKSTON\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "43.39895640200007",
-        "longitude": "-97.99147111899998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.990061,
+            43.398945
+        ],
+        "type": "Point"
     },
+    "location_address": "401 WEST GLYNN DRIVE",
+    "location_city": "PARKSTON",
+    "location_state": "SD",
+    "location_zip": "57366",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6059283311"
-    },
+    "phone_number": "6059283311",
     "provider_id": "431330",
     "raw_ratings": {},
     "state": "SD",

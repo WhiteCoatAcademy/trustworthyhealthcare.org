@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"629 NORTH SANDUSKY AVENUE\",\"city\":\"BUCYRUS\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.81536196900004",
-        "longitude": "-82.97568694599994",
-        "needs_recoding": false
+        "coordinates": [
+            -82.975667,
+            40.815178
+        ],
+        "type": "Point"
     },
+    "location_address": "629 NORTH SANDUSKY AVENUE",
+    "location_city": "BUCYRUS",
+    "location_state": "OH",
+    "location_zip": "44820",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4195624677"
-    },
+    "phone_number": "4195624677",
     "provider_id": "361316",
     "raw_ratings": {},
     "state": "OH",

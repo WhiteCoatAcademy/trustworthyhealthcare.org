@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2775 MOSSIDE BOULEVARD\",\"city\":\"MONROEVILLE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.436954925000066",
-        "longitude": "-79.75847463699995",
-        "needs_recoding": false
+        "coordinates": [
+            -79.757977,
+            40.436729
+        ],
+        "type": "Point"
     },
+    "location_address": "2775 MOSSIDE BOULEVARD",
+    "location_city": "MONROEVILLE",
+    "location_state": "PA",
+    "location_zip": "15146",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4123573000"
-    },
+    "phone_number": "4123573000",
     "provider_id": "390328",
     "raw_ratings": {},
     "state": "PA",

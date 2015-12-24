@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"434 HOSPITAL DRIVE\",\"city\":\"LINVILLE\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "36.071143721000055",
-        "longitude": "-81.87111855299997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.888299,
+            36.061938
+        ],
+        "type": "Point"
     },
+    "location_address": "434 HOSPITAL DRIVE",
+    "location_city": "LINVILLE",
+    "location_state": "NC",
+    "location_zip": "28646",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.apprhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8287377000"
-    },
+    "phone_number": "8287377000",
     "provider_id": "341323",
     "raw_ratings": {},
     "state": "NC",

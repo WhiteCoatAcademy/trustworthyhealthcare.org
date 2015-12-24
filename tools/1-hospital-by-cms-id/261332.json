@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1502 NORTH JEFFERSON\",\"city\":\"CARROLLTON\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.37654346900007",
-        "longitude": "-93.49421151299998",
-        "needs_recoding": false
+        "coordinates": [
+            -93.494147,
+            39.37345
+        ],
+        "type": "Point"
     },
+    "location_address": "1502 NORTH JEFFERSON",
+    "location_city": "CARROLLTON",
+    "location_state": "MO",
+    "location_zip": "64633",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6605421695"
-    },
+    "phone_number": "6605421695",
     "provider_id": "261332",
     "raw_ratings": {},
     "state": "MO",

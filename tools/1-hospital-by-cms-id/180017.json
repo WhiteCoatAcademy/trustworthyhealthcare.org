@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1301 NORTH RACE STREET\",\"city\":\"GLASGOW\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.01082355200003",
-        "longitude": "-85.90343684599998",
-        "needs_recoding": false
+        "coordinates": [
+            -85.903236,
+            37.01068
+        ],
+        "type": "Point"
     },
+    "location_address": "1301 NORTH RACE STREET",
+    "location_city": "GLASGOW",
+    "location_state": "KY",
+    "location_zip": "42141",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2706514159"
-    },
+    "phone_number": "2706514159",
     "provider_id": "180017",
     "raw_ratings": {},
     "state": "KY",

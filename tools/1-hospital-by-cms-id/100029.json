@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1100 NW 95TH ST\",\"city\":\"MIAMI\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.861666403000072",
-        "longitude": "-80.21422995199998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.215632,
+            25.861622
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 NW 95TH ST",
+    "location_city": "MIAMI",
+    "location_state": "FL",
+    "location_zip": "33150",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3058356000"
-    },
+    "phone_number": "3058356000",
     "provider_id": "100029",
     "raw_ratings": {},
     "state": "FL",

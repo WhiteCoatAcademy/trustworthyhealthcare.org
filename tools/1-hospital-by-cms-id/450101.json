@@ -2,17 +2,22 @@
     "address": "100 HILLCREST MEDICAL BLVD",
     "city": "WACO",
     "county_name": "MCLENNAN",
-    "emergency_services": true,
+    "emergency_services": false,
     "global_rank": {},
     "hospital_name": "HILLCREST BAPTIST MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 HILLCREST MEDICAL BLVD\",\"city\":\"WACO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.48915129100004",
-        "longitude": "-97.15696089499994",
-        "needs_recoding": false
+        "coordinates": [
+            -97.156788,
+            31.489272
+        ],
+        "type": "Point"
     },
+    "location_address": "100 HILLCREST MEDICAL BLVD",
+    "location_city": "WACO",
+    "location_state": "TX",
+    "location_zip": "76712",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2542022000"
-    },
+    "phone_number": "2542022000",
     "provider_id": "450101",
     "raw_ratings": {},
     "state": "TX",

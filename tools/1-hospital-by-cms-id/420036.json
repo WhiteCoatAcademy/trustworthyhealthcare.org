@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 W MEETING ST\",\"city\":\"LANCASTER\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.71686782900008",
-        "longitude": "-80.78736320099995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.786842,
+            34.716906
+        ],
+        "type": "Point"
     },
+    "location_address": "800 W MEETING ST",
+    "location_city": "LANCASTER",
+    "location_state": "SC",
+    "location_zip": "29720",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "8032861481"
-    },
+    "phone_number": "8032861481",
     "provider_id": "420036",
     "raw_ratings": {},
     "state": "SC",

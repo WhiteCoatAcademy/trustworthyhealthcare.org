@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"354 SANTA FE DRIVE\",\"city\":\"ENCINITAS\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.03624751700005",
-        "longitude": "-117.28340998099998",
-        "needs_recoding": false
+        "coordinates": [
+            -117.283218,
+            33.036274
+        ],
+        "type": "Point"
     },
+    "location_address": "354 SANTA FE DRIVE",
+    "location_city": "ENCINITAS",
+    "location_state": "CA",
+    "location_zip": "92024",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.scripps.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7607536501"
-    },
+    "phone_number": "7607536501",
     "provider_id": "050503",
     "raw_ratings": {},
     "state": "CA",

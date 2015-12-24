@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"714 LINCOLN ST NE\",\"city\":\"LE MARS\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.79686287200008",
-        "longitude": "-96.15679628299995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.152831,
+            42.798689
+        ],
+        "type": "Point"
     },
+    "location_address": "714 LINCOLN ST NE",
+    "location_city": "LE MARS",
+    "location_state": "IA",
+    "location_zip": "51031",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7125467871"
-    },
+    "phone_number": "7125467871",
     "provider_id": "161368",
     "raw_ratings": {},
     "state": "IA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1050 EAST SOUTH TEMPLE\",\"city\":\"SALT LAKE CITY\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "40.76933693600006",
-        "longitude": "-111.86093088199999",
-        "needs_recoding": false
+        "coordinates": [
+            -111.861309,
+            40.769348
+        ],
+        "type": "Point"
     },
+    "location_address": "1050 EAST SOUTH TEMPLE",
+    "location_city": "SALT LAKE CITY",
+    "location_state": "UT",
+    "location_zip": "84102",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.iasishealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8013504111"
-    },
+    "phone_number": "8013504111",
     "provider_id": "460003",
     "raw_ratings": {},
     "state": "UT",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6500 EXCELSIOR BLVD\",\"city\":\"SAINT LOUIS PARK\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.927066454000055",
-        "longitude": "-93.36191851199999",
-        "needs_recoding": false
+        "coordinates": [
+            -93.363512,
+            44.927087
+        ],
+        "type": "Point"
     },
+    "location_address": "6500 EXCELSIOR BLVD",
+    "location_city": "SAINT LOUIS PARK",
+    "location_state": "MN",
+    "location_zip": "55426",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9529935000"
-    },
+    "phone_number": "9529935000",
     "provider_id": "240053",
     "raw_ratings": {},
     "state": "MN",

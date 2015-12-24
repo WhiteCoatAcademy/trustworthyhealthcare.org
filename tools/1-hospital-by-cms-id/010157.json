@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"201 WEST AVALON AVENUE\",\"city\":\"MUSCLE SHOALS\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "34.744994844000075",
-        "longitude": "-87.67642553599995",
-        "needs_recoding": false
+        "coordinates": [
+            -87.676511,
+            34.744941
+        ],
+        "type": "Point"
     },
+    "location_address": "201 WEST AVALON AVENUE",
+    "location_city": "MUSCLE SHOALS",
+    "location_state": "AL",
+    "location_zip": "35661",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chgroup.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2563861601"
-    },
+    "phone_number": "2563861601",
     "provider_id": "010157",
     "raw_ratings": {},
     "state": "AL",

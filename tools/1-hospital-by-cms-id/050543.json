@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"301 VICTORIA STREET\",\"city\":\"COSTA MESA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.65259268900007",
-        "longitude": "-117.91186909199996",
-        "needs_recoding": false
+        "coordinates": [
+            -117.911941,
+            33.652605
+        ],
+        "type": "Point"
     },
+    "location_address": "301 VICTORIA STREET",
+    "location_city": "COSTA MESA",
+    "location_state": "CA",
+    "location_zip": "92627",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.collegehealthent.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9496422734"
-    },
+    "phone_number": "9496422734",
     "provider_id": "050543",
     "raw_ratings": {},
     "state": "CA",

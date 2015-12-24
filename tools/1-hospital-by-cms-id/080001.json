@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4755 OGLETOWN-STANTON ROAD\",\"city\":\"NEWARK\",\"state\":\"DE\",\"zip\":\"\"}",
-        "latitude": "39.69081541800006",
-        "longitude": "-75.67167612399999",
-        "needs_recoding": false
+        "coordinates": [
+            -75.673642,
+            39.689677
+        ],
+        "type": "Point"
     },
+    "location_address": "4755 OGLETOWN-STANTON ROAD",
+    "location_city": "NEWARK",
+    "location_state": "DE",
+    "location_zip": "19718",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.christianacare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3027331000"
-    },
+    "phone_number": "3027331000",
     "provider_id": "080001",
     "raw_ratings": {},
     "state": "DE",

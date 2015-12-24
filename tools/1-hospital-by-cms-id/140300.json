@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 E 51ST ST\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.80216891500004",
-        "longitude": "-87.61398657599995",
-        "needs_recoding": false
+        "coordinates": [
+            -87.613526,
+            41.802153
+        ],
+        "type": "Point"
     },
+    "location_address": "500 E 51ST ST",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60615",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ccbhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3125722000"
-    },
+    "phone_number": "3125722000",
     "provider_id": "140300",
     "raw_ratings": {},
     "state": "IL",

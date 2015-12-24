@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 MEDICAL CENTER BLVD\",\"city\":\"WEBSTER\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.54037313500004",
-        "longitude": "-95.12728915099996",
-        "needs_recoding": false
+        "coordinates": [
+            -95.127349,
+            29.540283
+        ],
+        "type": "Point"
     },
+    "location_address": "500 MEDICAL CENTER BLVD",
+    "location_city": "WEBSTER",
+    "location_state": "TX",
+    "location_zip": "77598",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2813322511"
-    },
+    "phone_number": "2813322511",
     "provider_id": "450617",
     "raw_ratings": {},
     "state": "TX",

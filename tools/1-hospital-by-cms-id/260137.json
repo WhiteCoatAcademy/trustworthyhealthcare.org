@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1102 WEST 32ND STREET\",\"city\":\"JOPLIN\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "37.05466133200008",
-        "longitude": "-94.52590670999996",
-        "needs_recoding": false
+        "coordinates": [
+            -94.526884,
+            37.054408
+        ],
+        "type": "Point"
     },
+    "location_address": "1102 WEST 32ND STREET",
+    "location_city": "JOPLIN",
+    "location_state": "MO",
+    "location_zip": "64804",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.freemanhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4173471111"
-    },
+    "phone_number": "4173471111",
     "provider_id": "260137",
     "raw_ratings": {},
     "state": "MO",

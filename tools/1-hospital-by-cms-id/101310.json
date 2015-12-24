@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"922 E CALL ST\",\"city\":\"STARKE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "29.942236067000067",
-        "longitude": "-82.10296402599994",
-        "needs_recoding": false
+        "coordinates": [
+            -82.101931,
+            29.941979
+        ],
+        "type": "Point"
     },
+    "location_address": "922 E CALL ST",
+    "location_city": "STARKE",
+    "location_state": "FL",
+    "location_zip": "32091",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.shands.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9043682300"
-    },
+    "phone_number": "9043682300",
     "provider_id": "101310",
     "raw_ratings": {},
     "state": "FL",

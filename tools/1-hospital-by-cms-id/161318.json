@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"40 1ST STREET SE\",\"city\":\"WAUKON\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "43.268764575000034",
-        "longitude": "-91.47440579399995",
-        "needs_recoding": false
+        "coordinates": [
+            -91.473382,
+            43.267893
+        ],
+        "type": "Point"
     },
+    "location_address": "40 1ST STREET SE",
+    "location_city": "WAUKON",
+    "location_state": "IA",
+    "location_zip": "52172",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5635683411"
-    },
+    "phone_number": "5635683411",
     "provider_id": "161318",
     "raw_ratings": {},
     "state": "IA",

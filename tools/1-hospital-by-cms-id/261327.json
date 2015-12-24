@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"904 WOLLARD BOULEVARD\",\"city\":\"RICHMOND\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.26427195800005",
-        "longitude": "-93.95614670499998",
-        "needs_recoding": false
+        "coordinates": [
+            -93.955821,
+            39.263928
+        ],
+        "type": "Point"
     },
+    "location_address": "904 WOLLARD BOULEVARD",
+    "location_city": "RICHMOND",
+    "location_state": "MO",
+    "location_zip": "64085",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8164705432"
-    },
+    "phone_number": "8164705432",
     "provider_id": "261327",
     "raw_ratings": {},
     "state": "MO",

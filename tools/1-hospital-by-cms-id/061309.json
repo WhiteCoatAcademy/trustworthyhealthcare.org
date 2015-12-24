@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1017 W 7TH ST\",\"city\":\"WRAY\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "40.07544822400007",
-        "longitude": "-102.23444926899998",
-        "needs_recoding": false
+        "coordinates": [
+            -102.234859,
+            40.075336
+        ],
+        "type": "Point"
     },
+    "location_address": "1017 W 7TH ST",
+    "location_city": "WRAY",
+    "location_state": "CO",
+    "location_zip": "80758",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9703324811"
-    },
+    "phone_number": "9703324811",
     "provider_id": "061309",
     "raw_ratings": {},
     "state": "CO",

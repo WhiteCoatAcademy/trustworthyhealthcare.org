@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1233 EAST 2ND ST\",\"city\":\"CASPER\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "42.84868191700008",
-        "longitude": "-106.30883023399997",
-        "needs_recoding": false
+        "coordinates": [
+            -106.308505,
+            42.848717
+        ],
+        "type": "Point"
     },
+    "location_address": "1233 EAST 2ND ST",
+    "location_city": "CASPER",
+    "location_state": "WY",
+    "location_zip": "82601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3075777201"
-    },
+    "phone_number": "3075777201",
     "provider_id": "530012",
     "raw_ratings": {},
     "state": "WY",

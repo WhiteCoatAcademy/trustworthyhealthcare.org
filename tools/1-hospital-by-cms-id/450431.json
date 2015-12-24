@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"919 E 32ND ST\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.290795514000024",
-        "longitude": "-97.72667214899997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.725128,
+            30.290095
+        ],
+        "type": "Point"
     },
+    "location_address": "919 E 32ND ST",
+    "location_city": "AUSTIN",
+    "location_state": "TX",
+    "location_zip": "78705",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.stdavids.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5124767111"
-    },
+    "phone_number": "5124767111",
     "provider_id": "450431",
     "raw_ratings": {},
     "state": "TX",

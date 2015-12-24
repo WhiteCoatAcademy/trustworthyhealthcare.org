@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10 HOSPITAL DR\",\"city\":\"SAINT PETERS\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.79288614500007",
-        "longitude": "-90.57911298999994",
-        "needs_recoding": false
+        "coordinates": [
+            -90.579154,
+            38.792852
+        ],
+        "type": "Point"
     },
+    "location_address": "10 HOSPITAL DR",
+    "location_city": "SAINT PETERS",
+    "location_state": "MO",
+    "location_zip": "63376",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bjc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6369169000"
-    },
+    "phone_number": "6369169000",
     "provider_id": "260191",
     "raw_ratings": {},
     "state": "MO",

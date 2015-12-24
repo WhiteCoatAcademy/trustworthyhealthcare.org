@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"555 E CHEVES ST BOX 8700\",\"city\":\"FLORENCE\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.195857844000045",
-        "longitude": "-79.76079187499994",
-        "needs_recoding": false
+        "coordinates": [
+            -79.758496,
+            34.19595
+        ],
+        "type": "Point"
     },
+    "location_address": "555 E CHEVES ST BOX 8700",
+    "location_city": "FLORENCE",
+    "location_state": "SC",
+    "location_zip": "29506",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mcleodhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8437772900"
-    },
+    "phone_number": "8437772900",
     "provider_id": "420051",
     "raw_ratings": {},
     "state": "SC",

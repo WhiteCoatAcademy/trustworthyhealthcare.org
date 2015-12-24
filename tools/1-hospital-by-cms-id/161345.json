@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 9TH AVENUE NORTH\",\"city\":\"SIBLEY\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "43.41014271700004",
-        "longitude": "-95.74177673499997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.741727,
+            43.41008
+        ],
+        "type": "Point"
     },
+    "location_address": "600 9TH AVENUE NORTH",
+    "location_city": "SIBLEY",
+    "location_state": "IA",
+    "location_zip": "51249",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7127542574"
-    },
+    "phone_number": "7127542574",
     "provider_id": "161345",
     "raw_ratings": {},
     "state": "IA",

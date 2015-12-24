@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 S OAKWOOD RD\",\"city\":\"OSHKOSH\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.012853592000056",
-        "longitude": "-88.60305230399996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.603057,
+            44.012636
+        ],
+        "type": "Point"
     },
+    "location_address": "500 S OAKWOOD RD",
+    "location_city": "OSHKOSH",
+    "location_state": "WI",
+    "location_zip": "54904",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.affinityhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9202232000"
-    },
+    "phone_number": "9202232000",
     "provider_id": "520048",
     "raw_ratings": {},
     "state": "WI",

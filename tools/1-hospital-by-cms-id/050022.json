@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4445 MAGNOLIA AVENUE\",\"city\":\"RIVERSIDE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.97596790600005",
-        "longitude": "-117.38013482099996",
-        "needs_recoding": false
+        "coordinates": [
+            -117.380349,
+            33.975701
+        ],
+        "type": "Point"
     },
+    "location_address": "4445 MAGNOLIA AVENUE",
+    "location_city": "RIVERSIDE",
+    "location_state": "CA",
+    "location_zip": "92501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9517883000"
-    },
+    "phone_number": "9517883000",
     "provider_id": "050022",
     "raw_ratings": {},
     "state": "CA",

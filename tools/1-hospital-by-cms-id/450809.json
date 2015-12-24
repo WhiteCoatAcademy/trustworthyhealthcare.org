@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"12221 MOPAC EXPRESSWAY NORTH\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.412257459000045",
-        "longitude": "-97.70799370999998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.708547,
+            30.411705
+        ],
+        "type": "Point"
     },
+    "location_address": "12221 MOPAC EXPRESSWAY NORTH",
+    "location_city": "AUSTIN",
+    "location_state": "TX",
+    "location_zip": "78758",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.stdavids.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5129011000"
-    },
+    "phone_number": "5129011000",
     "provider_id": "450809",
     "raw_ratings": {},
     "state": "TX",

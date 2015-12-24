@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2315 E MAIN STREET\",\"city\":\"NEW IBERIA\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "29.988609732000043",
-        "longitude": "-91.78475188399995",
-        "needs_recoding": false
+        "coordinates": [
+            -91.78537,
+            29.988867
+        ],
+        "type": "Point"
     },
+    "location_address": "2315 E MAIN STREET",
+    "location_city": "NEW IBERIA",
+    "location_state": "LA",
+    "location_zip": "70562",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3373640441"
-    },
+    "phone_number": "3373640441",
     "provider_id": "190054",
     "raw_ratings": {},
     "state": "LA",

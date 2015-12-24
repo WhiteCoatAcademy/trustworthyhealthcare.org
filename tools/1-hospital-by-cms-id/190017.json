@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"539 EAST PRUDHOMME STREET\",\"city\":\"OPELOUSAS\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.543566440000063",
-        "longitude": "-92.07609637699994",
-        "needs_recoding": false
+        "coordinates": [
+            -92.075816,
+            30.543462
+        ],
+        "type": "Point"
     },
+    "location_address": "539 EAST PRUDHOMME STREET",
+    "location_city": "OPELOUSAS",
+    "location_state": "LA",
+    "location_zip": "70570",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3379483011"
-    },
+    "phone_number": "3379483011",
     "provider_id": "190017",
     "raw_ratings": {},
     "state": "LA",

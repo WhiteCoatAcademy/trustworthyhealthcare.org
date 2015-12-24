@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"759 CHESTNUT STREET\",\"city\":\"SPRINGFIELD\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.119855603000076",
-        "longitude": "-72.60479109899995",
-        "needs_recoding": false
+        "coordinates": [
+            -72.605255,
+            42.120751
+        ],
+        "type": "Point"
     },
+    "location_address": "759 CHESTNUT STREET",
+    "location_city": "SPRINGFIELD",
+    "location_state": "MA",
+    "location_zip": "01199",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baystatehealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4137940000"
-    },
+    "phone_number": "4137940000",
     "provider_id": "220077",
     "raw_ratings": {},
     "state": "MA",

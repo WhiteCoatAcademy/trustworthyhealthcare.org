@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"601 GROVE AVE\",\"city\":\"WILD ROSE\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.182975862000035",
-        "longitude": "-89.24625363499996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.245934,
+            44.183056
+        ],
+        "type": "Point"
     },
+    "location_address": "601 GROVE AVE",
+    "location_city": "WILD ROSE",
+    "location_state": "WI",
+    "location_zip": "54984",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9206223257"
-    },
+    "phone_number": "9206223257",
     "provider_id": "521303",
     "raw_ratings": {},
     "state": "WI",

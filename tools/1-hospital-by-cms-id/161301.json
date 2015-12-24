@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"403 FIRST STREET SE\",\"city\":\"BELMOND\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.84503724900003",
-        "longitude": "-93.61264005499999",
-        "needs_recoding": false
+        "coordinates": [
+            -93.612976,
+            42.844996
+        ],
+        "type": "Point"
     },
+    "location_address": "403 FIRST STREET SE",
+    "location_city": "BELMOND",
+    "location_state": "IA",
+    "location_zip": "50421",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6414443223"
-    },
+    "phone_number": "6414443223",
     "provider_id": "161301",
     "raw_ratings": {},
     "state": "IA",

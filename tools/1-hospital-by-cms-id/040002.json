@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1100 EAST POPLAR STREET\",\"city\":\"CLARKSVILLE\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "35.46439977400007",
-        "longitude": "-93.44588866599997",
-        "needs_recoding": false
+        "coordinates": [
+            -93.446201,
+            35.464398
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 EAST POPLAR STREET",
+    "location_city": "CLARKSVILLE",
+    "location_state": "AR",
+    "location_zip": "72830",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4797545454"
-    },
+    "phone_number": "4797545454",
     "provider_id": "040002",
     "raw_ratings": {},
     "state": "AR",

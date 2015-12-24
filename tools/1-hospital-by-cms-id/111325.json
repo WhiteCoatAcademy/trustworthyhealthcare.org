@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"120 GORDON STREET\",\"city\":\"WASHINGTON\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.729053502000056",
-        "longitude": "-82.74100516599998",
-        "needs_recoding": false
+        "coordinates": [
+            -82.743457,
+            33.729478
+        ],
+        "type": "Point"
     },
+    "location_address": "120 GORDON STREET",
+    "location_city": "WASHINGTON",
+    "location_state": "GA",
+    "location_zip": "30673",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7066789212"
-    },
+    "phone_number": "7066789212",
     "provider_id": "111325",
     "raw_ratings": {},
     "state": "GA",

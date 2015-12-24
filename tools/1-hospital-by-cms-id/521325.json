@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"98 SHERRY AVE\",\"city\":\"PARK FALLS\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "45.93123972600006",
-        "longitude": "-90.44186124599997",
-        "needs_recoding": false
+        "coordinates": [
+            -90.441984,
+            45.930915
+        ],
+        "type": "Point"
     },
+    "location_address": "98 SHERRY AVE",
+    "location_city": "PARK FALLS",
+    "location_state": "WI",
+    "location_zip": "54552",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7157627500"
-    },
+    "phone_number": "7157627500",
     "provider_id": "521325",
     "raw_ratings": {},
     "state": "WI",

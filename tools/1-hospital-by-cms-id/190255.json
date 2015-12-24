@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4811 AMBASSADOR CAFFERY PARKWAY\",\"city\":\"LAFAYETTE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.148618493000072",
-        "longitude": "-92.03791762399999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.040101,
+            30.14979
+        ],
+        "type": "Point"
     },
+    "location_address": "4811 AMBASSADOR CAFFERY PARKWAY",
+    "location_city": "LAFAYETTE",
+    "location_state": "LA",
+    "location_zip": "70508",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3372378119"
-    },
+    "phone_number": "3372378119",
     "provider_id": "190255",
     "raw_ratings": {},
     "state": "LA",

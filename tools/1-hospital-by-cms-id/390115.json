@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10800 KNIGHTS ROAD\",\"city\":\"PHILADELPHIA\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.069675467000025",
-        "longitude": "-74.98158551499995",
-        "needs_recoding": false
+        "coordinates": [
+            -74.981446,
+            40.070614
+        ],
+        "type": "Point"
     },
+    "location_address": "10800 KNIGHTS ROAD",
+    "location_city": "PHILADELPHIA",
+    "location_state": "PA",
+    "location_zip": "19114",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.jeffersonhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2156124129"
-    },
+    "phone_number": "2156124129",
     "provider_id": "390115",
     "raw_ratings": {},
     "state": "PA",

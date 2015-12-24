@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1138 CHERAW HIGHWAY\",\"city\":\"BENNETTSVILLE\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.635061172000064",
-        "longitude": "-79.69858971999997",
-        "needs_recoding": false
+        "coordinates": [
+            -79.700229,
+            34.637363
+        ],
+        "type": "Point"
     },
+    "location_address": "1138 CHERAW HIGHWAY",
+    "location_city": "BENNETTSVILLE",
+    "location_state": "SC",
+    "location_zip": "29512",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "8434792881"
-    },
+    "phone_number": "8434792881",
     "provider_id": "420054",
     "raw_ratings": {},
     "state": "SC",

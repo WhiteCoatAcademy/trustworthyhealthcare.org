@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2800 CLAY EDWARDS DRIVE\",\"city\":\"NORTH KANSAS CITY\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.14957037200003",
-        "longitude": "-94.55243534199997",
-        "needs_recoding": false
+        "coordinates": [
+            -94.552465,
+            39.149494
+        ],
+        "type": "Point"
     },
+    "location_address": "2800 CLAY EDWARDS DRIVE",
+    "location_city": "NORTH KANSAS CITY",
+    "location_state": "MO",
+    "location_zip": "64116",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8166912000"
-    },
+    "phone_number": "8166912000",
     "provider_id": "260096",
     "raw_ratings": {},
     "state": "MO",

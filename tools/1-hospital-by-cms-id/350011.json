@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 BROADWAY NORTH\",\"city\":\"FARGO\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "46.884758635000026",
-        "longitude": "-96.78768811299994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.78773,
+            46.88468
+        ],
+        "type": "Point"
     },
+    "location_address": "801 BROADWAY NORTH",
+    "location_city": "FARGO",
+    "location_state": "ND",
+    "location_zip": "58122",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.meritcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7012342000"
-    },
+    "phone_number": "7012342000",
     "provider_id": "350011",
     "raw_ratings": {},
     "state": "ND",

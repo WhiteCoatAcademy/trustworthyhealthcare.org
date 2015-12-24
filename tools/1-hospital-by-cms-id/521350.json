@@ -1,18 +1,23 @@
 {
-    "address": "112 E FIFTH ST",
+    "address": "112 E FIFTH AVE",
     "city": "ANTIGO",
     "county_name": "LANGLADE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "LANGLADE HOSPITAL",
+    "hospital_name": "ASPIRUS LANGLADE HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"112 E FIFTH ST\",\"city\":\"ANTIGO\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "45.14034289300008",
-        "longitude": "-89.14025991699998",
-        "needs_recoding": false
+        "coordinates": [
+            -89.140292,
+            45.140319
+        ],
+        "type": "Point"
     },
+    "location_address": "112 E FIFTH AVE",
+    "location_city": "ANTIGO",
+    "location_state": "WI",
+    "location_zip": "54409",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7156232331"
-    },
+    "phone_number": "7156232331",
     "provider_id": "521350",
     "raw_ratings": {},
     "state": "WI",

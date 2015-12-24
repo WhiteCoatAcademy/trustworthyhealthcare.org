@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1818 ALBION STREET\",\"city\":\"NASHVILLE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.16600739800003",
-        "longitude": "-86.80749411199997",
-        "needs_recoding": false
+        "coordinates": [
+            -86.806373,
+            36.166128
+        ],
+        "type": "Point"
     },
+    "location_address": "1818 ALBION STREET",
+    "location_city": "NASHVILLE",
+    "location_state": "TN",
+    "location_zip": "37208",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6153414490"
-    },
+    "phone_number": "6153414490",
     "provider_id": "440111",
     "raw_ratings": {},
     "state": "TN",

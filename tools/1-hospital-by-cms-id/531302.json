@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 SOUTH 5TH STREET\",\"city\":\"DOUGLAS\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "42.75929033400007",
-        "longitude": "-105.38121144699994",
-        "needs_recoding": false
+        "coordinates": [
+            -105.38127,
+            42.759377
+        ],
+        "type": "Point"
     },
+    "location_address": "111 SOUTH 5TH STREET",
+    "location_city": "DOUGLAS",
+    "location_state": "WY",
+    "location_zip": "82633",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3073582122"
-    },
+    "phone_number": "3073582122",
     "provider_id": "531302",
     "raw_ratings": {},
     "state": "WY",

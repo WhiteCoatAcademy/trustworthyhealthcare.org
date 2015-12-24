@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4501 SAND CREEK ROAD\",\"city\":\"ANTIOCH\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.95259448000007",
-        "longitude": "-121.77805632199994",
-        "needs_recoding": false
+        "coordinates": [
+            -121.774946,
+            37.949475
+        ],
+        "type": "Point"
     },
+    "location_address": "4501 SAND CREEK ROAD",
+    "location_city": "ANTIOCH",
+    "location_state": "CA",
+    "location_zip": "94531",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9258136500"
-    },
+    "phone_number": "9258136500",
     "provider_id": "050760",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7601 OSLER DRIVE\",\"city\":\"TOWSON\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.38821027700004",
-        "longitude": "-76.61323625899996",
-        "needs_recoding": false
+        "coordinates": [
+            -76.613278,
+            39.388123
+        ],
+        "type": "Point"
     },
+    "location_address": "7601 OSLER DRIVE",
+    "location_city": "TOWSON",
+    "location_state": "MD",
+    "location_zip": "21204",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4103371000"
-    },
+    "phone_number": "4103371000",
     "provider_id": "210063",
     "raw_ratings": {},
     "state": "MD",

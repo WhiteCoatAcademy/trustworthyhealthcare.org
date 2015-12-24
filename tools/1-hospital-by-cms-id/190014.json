@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1125 MARGUERITE STREET\",\"city\":\"MORGAN CITY\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "29.70558928400004",
-        "longitude": "-91.20224515299998",
-        "needs_recoding": false
+        "coordinates": [
+            -91.200052,
+            29.708704
+        ],
+        "type": "Point"
     },
+    "location_address": "1125 MARGUERITE STREET",
+    "location_city": "MORGAN CITY",
+    "location_state": "LA",
+    "location_zip": "70380",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9853842200"
-    },
+    "phone_number": "9853842200",
     "provider_id": "190014",
     "raw_ratings": {},
     "state": "LA",

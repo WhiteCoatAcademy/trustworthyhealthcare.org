@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8201 W BROWARD BLVD\",\"city\":\"PLANTATION\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.120918028000062",
-        "longitude": "-80.25840631999995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.260545,
+            26.120888
+        ],
+        "type": "Point"
     },
+    "location_address": "8201 W BROWARD BLVD",
+    "location_city": "PLANTATION",
+    "location_state": "FL",
+    "location_zip": "33324",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9544736600"
-    },
+    "phone_number": "9544736600",
     "provider_id": "100228",
     "raw_ratings": {},
     "state": "FL",

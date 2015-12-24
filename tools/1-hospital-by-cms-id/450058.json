@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 DALLAS STREET\",\"city\":\"SAN ANTONIO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.432885229000078",
-        "longitude": "-98.49282708899995",
-        "needs_recoding": false
+        "coordinates": [
+            -98.492305,
+            29.433174
+        ],
+        "type": "Point"
     },
+    "location_address": "111 DALLAS STREET",
+    "location_city": "SAN ANTONIO",
+    "location_state": "TX",
+    "location_zip": "78205",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.vanguardhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2102971020"
-    },
+    "phone_number": "2102971020",
     "provider_id": "450058",
     "raw_ratings": {},
     "state": "TX",

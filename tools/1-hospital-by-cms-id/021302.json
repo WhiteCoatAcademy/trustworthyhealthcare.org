@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"417 FIRST AVENUE, PO BOX 365\",\"city\":\"SEWARD\",\"state\":\"AK\",\"zip\":\"\"}",
-        "latitude": "60.10544680900006",
-        "longitude": "-149.44553472799998",
-        "needs_recoding": false
+        "coordinates": [
+            -149.445394,
+            60.105338
+        ],
+        "type": "Point"
     },
+    "location_address": "417 FIRST AVENUE, PO BOX 365",
+    "location_city": "SEWARD",
+    "location_state": "AK",
+    "location_zip": "99664",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.providence.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9072245205"
-    },
+    "phone_number": "9072245205",
     "provider_id": "021302",
     "raw_ratings": {},
     "state": "AK",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"707 GRANT ST\",\"city\":\"ATWOOD\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.81329390900004",
-        "longitude": "-101.03796989699998",
-        "needs_recoding": false
+        "coordinates": [
+            -101.03838,
+            39.813266
+        ],
+        "type": "Point"
     },
+    "location_address": "707 GRANT ST",
+    "location_city": "ATWOOD",
+    "location_state": "KS",
+    "location_zip": "67730",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7856263211"
-    },
+    "phone_number": "7856263211",
     "provider_id": "171307",
     "raw_ratings": {},
     "state": "KS",

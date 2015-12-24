@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"207 FOOTE AVENUE\",\"city\":\"JAMESTOWN\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.09149794700005",
-        "longitude": "-79.23295577399995",
-        "needs_recoding": false
+        "coordinates": [
+            -79.232959,
+            42.09128
+        ],
+        "type": "Point"
     },
+    "location_address": "207 FOOTE AVENUE",
+    "location_city": "JAMESTOWN",
+    "location_state": "NY",
+    "location_zip": "14701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7164870141"
-    },
+    "phone_number": "7164870141",
     "provider_id": "330239",
     "raw_ratings": {},
     "state": "NY",

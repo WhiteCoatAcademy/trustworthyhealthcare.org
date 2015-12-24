@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1120 PINE ST\",\"city\":\"STANLEY\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.95528237800005",
-        "longitude": "-90.92110101399999",
-        "needs_recoding": false
+        "coordinates": [
+            -90.920564,
+            44.955311
+        ],
+        "type": "Point"
     },
+    "location_address": "1120 PINE ST",
+    "location_city": "STANLEY",
+    "location_state": "WI",
+    "location_zip": "54768",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.marianhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7156445571"
-    },
+    "phone_number": "7156445571",
     "provider_id": "521311",
     "raw_ratings": {},
     "state": "WI",

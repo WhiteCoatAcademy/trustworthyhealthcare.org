@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 HEALTH CENTER DRIVE P O BOX 372\",\"city\":\"MATTOON\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "39.48805542400004",
-        "longitude": "-88.27576324499995",
-        "needs_recoding": false
+        "coordinates": [
+            -88.27581,
+            39.484476
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 HEALTH CENTER DRIVE P O BOX 372",
+    "location_city": "MATTOON",
+    "location_state": "IL",
+    "location_zip": "61938",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2172582572"
-    },
+    "phone_number": "2172582572",
     "provider_id": "140189",
     "raw_ratings": {},
     "state": "IL",

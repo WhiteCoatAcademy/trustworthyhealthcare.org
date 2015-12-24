@@ -4,15 +4,20 @@
     "county_name": "WAYNE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "OAKWOOD HOSPITAL - WAYNE",
+    "hospital_name": "BEAUMONT HOSPITAL - WAYNE",
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"33155 ANNAPOLIS AVE\",\"city\":\"WAYNE\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.27423000600004",
-        "longitude": "-83.36611134599997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.365705,
+            42.274273
+        ],
+        "type": "Point"
     },
+    "location_address": "33155 ANNAPOLIS AVE",
+    "location_city": "WAYNE",
+    "location_state": "MI",
+    "location_zip": "48184",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.oakwood.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7344674175"
-    },
+    "phone_number": "7344674175",
     "provider_id": "230142",
     "raw_ratings": {},
     "state": "MI",

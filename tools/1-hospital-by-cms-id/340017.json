@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 N JUSTICE ST\",\"city\":\"HENDERSONVILLE\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.31988916600005",
-        "longitude": "-82.46818746599996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.468089,
+            35.321605
+        ],
+        "type": "Point"
     },
+    "location_address": "800 N JUSTICE ST",
+    "location_city": "HENDERSONVILLE",
+    "location_state": "NC",
+    "location_zip": "28791",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8286961000"
-    },
+    "phone_number": "8286961000",
     "provider_id": "340017",
     "raw_ratings": {},
     "state": "NC",

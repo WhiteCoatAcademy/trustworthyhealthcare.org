@@ -4,15 +4,20 @@
     "county_name": "MARICOPA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "SCOTTSDALE HEALTHCARE-SHEA MEDICAL CENTER",
+    "hospital_name": "SCOTTSDALE SHEA MEDICAL CENTER",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9003 EAST SHEA BOULEVARD\",\"city\":\"SCOTTSDALE\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.58243461300003",
-        "longitude": "-111.88597995599997",
-        "needs_recoding": false
+        "coordinates": [
+            -111.885291,
+            33.582463
+        ],
+        "type": "Point"
     },
+    "location_address": "9003 EAST SHEA BOULEVARD",
+    "location_city": "SCOTTSDALE",
+    "location_state": "AZ",
+    "location_zip": "85260",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.shc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4803233009"
-    },
+    "phone_number": "4803233009",
     "provider_id": "030087",
     "raw_ratings": {},
     "state": "AZ",

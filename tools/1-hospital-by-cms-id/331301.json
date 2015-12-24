@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"140 WEST MAIN STREET\",\"city\":\"CUBA\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.21321232300005",
-        "longitude": "-78.28848222299996",
-        "needs_recoding": false
+        "coordinates": [
+            -78.28814,
+            42.213341
+        ],
+        "type": "Point"
     },
+    "location_address": "140 WEST MAIN STREET",
+    "location_city": "CUBA",
+    "location_state": "NY",
+    "location_zip": "14727",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5859612000"
-    },
+    "phone_number": "5859612000",
     "provider_id": "331301",
     "raw_ratings": {},
     "state": "NY",

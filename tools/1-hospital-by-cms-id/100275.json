@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10101 FOREST HILL BLVD\",\"city\":\"WELLINGTON\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.65084788000007",
-        "longitude": "-80.20493890099993",
-        "needs_recoding": false
+        "coordinates": [
+            -80.20477,
+            26.650806
+        ],
+        "type": "Point"
     },
+    "location_address": "10101 FOREST HILL BLVD",
+    "location_city": "WELLINGTON",
+    "location_state": "FL",
+    "location_zip": "33414",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhsinc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5617988500"
-    },
+    "phone_number": "5617988500",
     "provider_id": "100275",
     "raw_ratings": {},
     "state": "FL",

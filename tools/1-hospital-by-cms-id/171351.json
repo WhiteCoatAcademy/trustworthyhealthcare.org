@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"304 E 3RD STREET\",\"city\":\"WASHINGTON\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.81749793700004",
-        "longitude": "-97.04633378899996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.046765,
+            39.817468
+        ],
+        "type": "Point"
     },
+    "location_address": "304 E 3RD STREET",
+    "location_city": "WASHINGTON",
+    "location_state": "KS",
+    "location_zip": "66968",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7853252211"
-    },
+    "phone_number": "7853252211",
     "provider_id": "171351",
     "raw_ratings": {},
     "state": "KS",

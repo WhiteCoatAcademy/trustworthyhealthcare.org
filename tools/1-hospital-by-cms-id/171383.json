@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1300 EAST FIFTH AVENUE\",\"city\":\"WINFIELD\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.24467361600006",
-        "longitude": "-96.98265648399996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.981905,
+            37.244659
+        ],
+        "type": "Point"
     },
+    "location_address": "1300 EAST FIFTH AVENUE",
+    "location_city": "WINFIELD",
+    "location_state": "KS",
+    "location_zip": "67156",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6202212300"
-    },
+    "phone_number": "6202212300",
     "provider_id": "171383",
     "raw_ratings": {},
     "state": "KS",

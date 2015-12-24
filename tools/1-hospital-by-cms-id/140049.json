@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3 ERIE COURT\",\"city\":\"OAK PARK\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.89152459600007",
-        "longitude": "-87.77628058199997",
-        "needs_recoding": false
+        "coordinates": [
+            -87.775004,
+            41.89189
+        ],
+        "type": "Point"
     },
+    "location_address": "3 ERIE COURT",
+    "location_city": "OAK PARK",
+    "location_state": "IL",
+    "location_zip": "60302",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.reshealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7083836200"
-    },
+    "phone_number": "7083836200",
     "provider_id": "140049",
     "raw_ratings": {},
     "state": "IL",

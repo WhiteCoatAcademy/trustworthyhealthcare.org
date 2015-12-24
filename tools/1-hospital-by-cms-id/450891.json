@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6020 W PARKER ROAD\",\"city\":\"PLANO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.045083214000044",
-        "longitude": "-96.83161074699996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.831869,
+            33.045097
+        ],
+        "type": "Point"
     },
+    "location_address": "6020 W PARKER ROAD",
+    "location_city": "PLANO",
+    "location_state": "TX",
+    "location_zip": "75093",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9724032700"
-    },
+    "phone_number": "9724032700",
     "provider_id": "450891",
     "raw_ratings": {},
     "state": "TX",

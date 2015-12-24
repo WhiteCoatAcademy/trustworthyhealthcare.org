@@ -1,5 +1,5 @@
 {
-    "address": "501 WEST FRONT STREET",
+    "address": "501 WEST FRONT STREET, POST OFFICE BOX  1090",
     "city": "ELMER",
     "county_name": "SALEM",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"501 WEST FRONT STREET\",\"city\":\"ELMER\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "39.58811615600007",
-        "longitude": "-75.17948991599997",
-        "needs_recoding": false
+        "coordinates": [
+            -75.179518,
+            39.588012
+        ],
+        "type": "Point"
     },
+    "location_address": "501 WEST FRONT STREET, POST OFFICE BOX 1090",
+    "location_city": "ELMER",
+    "location_state": "NJ",
+    "location_zip": "08318",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sjhs.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8563631000"
-    },
+    "phone_number": "8565754500",
     "provider_id": "310069",
     "raw_ratings": {},
     "state": "NJ",

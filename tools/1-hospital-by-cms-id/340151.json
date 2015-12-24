@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"250 SMITH CHURCH RD\",\"city\":\"ROANOKE RAPIDS\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "36.43432534100003",
-        "longitude": "-77.64850196599997",
-        "needs_recoding": false
+        "coordinates": [
+            -77.647071,
+            36.435306
+        ],
+        "type": "Point"
     },
+    "location_address": "250 SMITH CHURCH RD",
+    "location_city": "ROANOKE RAPIDS",
+    "location_state": "NC",
+    "location_zip": "27870",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2525358005"
-    },
+    "phone_number": "2525358005",
     "provider_id": "340151",
     "raw_ratings": {},
     "state": "NC",

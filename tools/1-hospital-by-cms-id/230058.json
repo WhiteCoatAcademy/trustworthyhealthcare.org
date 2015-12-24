@@ -4,15 +4,20 @@
     "county_name": "CRAWFORD",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MERCY HOSPITAL - GRAYLING",
+    "hospital_name": "MUNSON HEALTHCARE GRAYLING HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1100 E MICHIGAN AVE\",\"city\":\"GRAYLING\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "44.668332511000074",
-        "longitude": "-84.70788100699997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.707843,
+            44.669868
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 E MICHIGAN AVE",
+    "location_city": "GRAYLING",
+    "location_state": "MI",
+    "location_zip": "49738",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trinity-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9893485461"
-    },
+    "phone_number": "9893485461",
     "provider_id": "230058",
     "raw_ratings": {},
     "state": "MI",

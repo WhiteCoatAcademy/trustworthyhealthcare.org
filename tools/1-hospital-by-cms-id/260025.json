@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6000 HOSPITAL DR\",\"city\":\"HANNIBAL\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.710591038000075",
-        "longitude": "-91.44989581399994",
-        "needs_recoding": false
+        "coordinates": [
+            -91.449829,
+            39.710492
+        ],
+        "type": "Point"
     },
+    "location_address": "6000 HOSPITAL DR",
+    "location_city": "HANNIBAL",
+    "location_state": "MO",
+    "location_zip": "63401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5732481300"
-    },
+    "phone_number": "5732481300",
     "provider_id": "260025",
     "raw_ratings": {},
     "state": "MO",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"913 NW GARDEN VALLEY BLVD.\",\"city\":\"ROSEBURG\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "43.22859268800005",
-        "longitude": "-123.36708692999997",
-        "needs_recoding": false
+        "coordinates": [
+            -123.365923,
+            43.228273
+        ],
+        "type": "Point"
     },
+    "location_address": "913 NW GARDEN VALLEY BLVD.",
+    "location_city": "ROSEBURG",
+    "location_state": "OR",
+    "location_zip": "97470",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "5414401000"
-    },
+    "phone_number": "5414401000",
     "provider_id": "38004F",
     "raw_ratings": {},
     "state": "OR",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"30 13TH ST\",\"city\":\"HAVRE\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "48.539329106000025",
-        "longitude": "-109.68448345099995",
-        "needs_recoding": false
+        "coordinates": [
+            -109.686089,
+            48.539326
+        ],
+        "type": "Point"
     },
+    "location_address": "30 13TH ST",
+    "location_city": "HAVRE",
+    "location_state": "MT",
+    "location_zip": "59501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4062652211"
-    },
+    "phone_number": "4062652211",
     "provider_id": "270032",
     "raw_ratings": {},
     "state": "MT",

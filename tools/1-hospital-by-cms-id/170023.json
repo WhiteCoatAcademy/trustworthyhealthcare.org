@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "ST CATHERINE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 EAST SPRUCE\",\"city\":\"GARDEN CITY\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.96897541300007",
-        "longitude": "-100.86900715899998",
-        "needs_recoding": false
+        "coordinates": [
+            -100.868727,
+            37.968892
+        ],
+        "type": "Point"
     },
+    "location_address": "401 EAST SPRUCE",
+    "location_city": "GARDEN CITY",
+    "location_state": "KS",
+    "location_zip": "67846",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6202722561"
-    },
+    "phone_number": "6202722561",
     "provider_id": "170023",
     "raw_ratings": {},
     "state": "KS",

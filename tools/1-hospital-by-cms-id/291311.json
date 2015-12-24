@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"360 SOUTH LOLA LANE\",\"city\":\"PAHRUMP\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "36.21431105200003",
-        "longitude": "-116.02339327299995",
-        "needs_recoding": false
+        "coordinates": [
+            -116.023482,
+            36.214381
+        ],
+        "type": "Point"
     },
+    "location_address": "360 SOUTH LOLA LANE",
+    "location_city": "PAHRUMP",
+    "location_state": "NV",
+    "location_zip": "89048",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7757517500"
-    },
+    "phone_number": "7757517500",
     "provider_id": "291311",
     "raw_ratings": {},
     "state": "NV",

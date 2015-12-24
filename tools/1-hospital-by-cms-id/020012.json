@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1650 COWLES STREET\",\"city\":\"FAIRBANKS\",\"state\":\"AK\",\"zip\":\"\"}",
-        "latitude": "64.83294821500004",
-        "longitude": "-147.73656572899998",
-        "needs_recoding": false
+        "coordinates": [
+            -147.741909,
+            64.832881
+        ],
+        "type": "Point"
     },
+    "location_address": "1650 COWLES STREET",
+    "location_city": "FAIRBANKS",
+    "location_state": "AK",
+    "location_zip": "99701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bannerhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9074528181"
-    },
+    "phone_number": "9074528181",
     "provider_id": "020012",
     "raw_ratings": {},
     "state": "AK",

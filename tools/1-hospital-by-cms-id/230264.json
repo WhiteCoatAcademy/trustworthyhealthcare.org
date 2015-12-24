@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"21230 DEQUINDRE ROAD\",\"city\":\"WARREN\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.45141086700005",
-        "longitude": "-83.08351286899995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.083566,
+            42.451563
+        ],
+        "type": "Point"
     },
+    "location_address": "21230 DEQUINDRE ROAD",
+    "location_city": "WARREN",
+    "location_state": "MI",
+    "location_zip": "48091",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nshinc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5864271000"
-    },
+    "phone_number": "5864271000",
     "provider_id": "230264",
     "raw_ratings": {},
     "state": "MI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1065 BUCKS LAKE ROAD\",\"city\":\"QUINCY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "39.93921757700008",
-        "longitude": "-120.96219412199997",
-        "needs_recoding": false
+        "coordinates": [
+            -120.962222,
+            39.939215
+        ],
+        "type": "Point"
     },
+    "location_address": "1065 BUCKS LAKE ROAD",
+    "location_city": "QUINCY",
+    "location_state": "CA",
+    "location_zip": "95971",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5302832121"
-    },
+    "phone_number": "5302832121",
     "provider_id": "051326",
     "raw_ratings": {},
     "state": "CA",

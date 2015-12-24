@@ -4,15 +4,20 @@
     "county_name": "HAMILTON",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "RIVERVIEW HOSPITAL",
+    "hospital_name": "RIVERVIEW HEALTH",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"395 WESTFIELD RD\",\"city\":\"NOBLESVILLE\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.046992800000055",
-        "longitude": "-86.02192022299994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.024081,
+            40.047026
+        ],
+        "type": "Point"
     },
+    "location_address": "395 WESTFIELD RD",
+    "location_city": "NOBLESVILLE",
+    "location_state": "IN",
+    "location_zip": "46060",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3177767108"
-    },
+    "phone_number": "3177767108",
     "provider_id": "150059",
     "raw_ratings": {},
     "state": "IN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9080 COLIMA RD\",\"city\":\"WHITTIER\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.95062346700007",
-        "longitude": "-118.00516358899995",
-        "needs_recoding": false
+        "coordinates": [
+            -118.005045,
+            33.950867
+        ],
+        "type": "Point"
     },
+    "location_address": "9080 COLIMA RD",
+    "location_city": "WHITTIER",
+    "location_state": "CA",
+    "location_zip": "90605",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.alhambrahospital.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5629453561"
-    },
+    "phone_number": "5629453561",
     "provider_id": "050735",
     "raw_ratings": {},
     "state": "CA",

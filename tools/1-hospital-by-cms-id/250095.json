@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"121 E BAKER ST\",\"city\":\"INDIANOLA\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "33.457277771000065",
-        "longitude": "-90.65027860599997",
-        "needs_recoding": false
+        "coordinates": [
+            -90.650235,
+            33.457234
+        ],
+        "type": "Point"
     },
+    "location_address": "121 E BAKER ST",
+    "location_city": "INDIANOLA",
+    "location_state": "MS",
+    "location_zip": "38751",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6628875235"
-    },
+    "phone_number": "6628875235",
     "provider_id": "250095",
     "raw_ratings": {},
     "state": "MS",

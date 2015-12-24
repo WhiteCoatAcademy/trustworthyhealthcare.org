@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "SISTERSVILLE GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
+    "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"314 SOUTH WELLS STREET\",\"city\":\"SISTERSVILLE\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "39.558623503000035",
-        "longitude": "-81.00378016199994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.003873,
+            39.558529
+        ],
+        "type": "Point"
     },
+    "location_address": "314 SOUTH WELLS STREET",
+    "location_city": "SISTERSVILLE",
+    "location_state": "WV",
+    "location_zip": "26175",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3046522611"
-    },
+    "phone_number": "3046522611",
     "provider_id": "511304",
     "raw_ratings": {},
     "state": "WV",

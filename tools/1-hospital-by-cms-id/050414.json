@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1650 CREEKSIDE DRIVE\",\"city\":\"FOLSOM\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.670914811000046",
-        "longitude": "-121.14624809599997",
-        "needs_recoding": false
+        "coordinates": [
+            -121.146682,
+            38.670751
+        ],
+        "type": "Point"
     },
+    "location_address": "1650 CREEKSIDE DRIVE",
+    "location_city": "FOLSOM",
+    "location_state": "CA",
+    "location_zip": "95630",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9169837400"
-    },
+    "phone_number": "9169837400",
     "provider_id": "050414",
     "raw_ratings": {},
     "state": "CA",

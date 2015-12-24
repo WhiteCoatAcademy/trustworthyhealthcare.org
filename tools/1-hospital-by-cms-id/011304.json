@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 VANITY FAIR LANE, PO BOX 618\",\"city\":\"BUTLER\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "32.100342228000045",
-        "longitude": "-88.21280179099995",
-        "needs_recoding": false
+        "coordinates": [
+            -88.208346,
+            32.092417
+        ],
+        "type": "Point"
     },
+    "location_address": "401 VANITY FAIR LANE, PO BOX 618",
+    "location_city": "BUTLER",
+    "location_state": "AL",
+    "location_zip": "36904",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2054599100"
-    },
+    "phone_number": "2054599100",
     "provider_id": "011304",
     "raw_ratings": {},
     "state": "AL",

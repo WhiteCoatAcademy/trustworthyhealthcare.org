@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"13855 E 14TH STREET\",\"city\":\"SAN LEANDRO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.714586584000074",
-        "longitude": "-122.14186682799999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.14195,
+            37.714618
+        ],
+        "type": "Point"
     },
+    "location_address": "13855 E 14TH STREET",
+    "location_city": "SAN LEANDRO",
+    "location_state": "CA",
+    "location_zip": "94578",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5103576500"
-    },
+    "phone_number": "5103576500",
     "provider_id": "050773",
     "raw_ratings": {},
     "state": "CA",

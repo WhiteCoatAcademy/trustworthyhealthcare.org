@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"65 JAMES STREET\",\"city\":\"EDISON\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.55782386000004",
-        "longitude": "-74.34988725799997",
-        "needs_recoding": false
+        "coordinates": [
+            -74.348038,
+            40.557637
+        ],
+        "type": "Point"
     },
+    "location_address": "65 JAMES STREET",
+    "location_city": "EDISON",
+    "location_state": "NJ",
+    "location_zip": "08818",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.solarishs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7323217000"
-    },
+    "phone_number": "7323217000",
     "provider_id": "310108",
     "raw_ratings": {},
     "state": "NJ",

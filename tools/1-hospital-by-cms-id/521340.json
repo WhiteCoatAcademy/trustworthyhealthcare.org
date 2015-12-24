@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2321 STOUT RD\",\"city\":\"MENOMONIE\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.89764519200003",
-        "longitude": "-91.93064001099998",
-        "needs_recoding": false
+        "coordinates": [
+            -91.900511,
+            44.882555
+        ],
+        "type": "Point"
     },
+    "location_address": "2321 STOUT RD",
+    "location_city": "MENOMONIE",
+    "location_state": "WI",
+    "location_zip": "54751",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mayohealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7152355531"
-    },
+    "phone_number": "7152355531",
     "provider_id": "521340",
     "raw_ratings": {},
     "state": "WI",

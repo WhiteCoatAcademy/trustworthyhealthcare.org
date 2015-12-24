@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"7305 N. MILITARY TRAIL\",\"city\":\"WEST PALM BEACH\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.748911586000077",
-        "longitude": "-80.10938808999998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.107258,
+            26.785629
+        ],
+        "type": "Point"
     },
+    "location_address": "7305 N. MILITARY TRAIL",
+    "location_city": "WEST PALM BEACH",
+    "location_state": "FL",
+    "location_zip": "33410",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "5614228600"
-    },
+    "phone_number": "5614228600",
     "provider_id": "10065F",
     "raw_ratings": {},
     "state": "FL",

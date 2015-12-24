@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"505 SOUTH JOHN REDDITT DRIVE\",\"city\":\"LUFKIN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.327921282000034",
-        "longitude": "-94.75614351899998",
-        "needs_recoding": false
+        "coordinates": [
+            -94.75602,
+            31.327115
+        ],
+        "type": "Point"
     },
+    "location_address": "505 SOUTH JOHN REDDITT DRIVE",
+    "location_city": "LUFKIN",
+    "location_state": "TX",
+    "location_zip": "75904",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "9366348311"
-    },
+    "phone_number": "9366348311",
     "provider_id": "450484",
     "raw_ratings": {},
     "state": "TX",

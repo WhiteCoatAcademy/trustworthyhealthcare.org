@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2000 CAMPBELL DRIVE\",\"city\":\"TORRINGTON\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "42.08183334700004",
-        "longitude": "-104.19153476699995",
-        "needs_recoding": false
+        "coordinates": [
+            -104.191509,
+            42.081734
+        ],
+        "type": "Point"
     },
+    "location_address": "2000 CAMPBELL DRIVE",
+    "location_city": "TORRINGTON",
+    "location_state": "WY",
+    "location_zip": "82240",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bannerhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3075324181"
-    },
+    "phone_number": "3075324181",
     "provider_id": "531307",
     "raw_ratings": {},
     "state": "WY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3050 TWIN RIVERS DRIVE\",\"city\":\"ARKADELPHIA\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "34.12314540500006",
-        "longitude": "-93.08851660599998",
-        "needs_recoding": false
+        "coordinates": [
+            -93.087637,
+            34.12259
+        ],
+        "type": "Point"
     },
+    "location_address": "3050 TWIN RIVERS DRIVE",
+    "location_city": "ARKADELPHIA",
+    "location_state": "AR",
+    "location_zip": "71923",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baptist-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8702452622"
-    },
+    "phone_number": "8702452622",
     "provider_id": "041321",
     "raw_ratings": {},
     "state": "AR",

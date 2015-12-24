@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8954 HOSPITAL DRIVE\",\"city\":\"DOUGLASVILLE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.73847916700004",
-        "longitude": "-84.73317021599996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.732988,
+            33.739428
+        ],
+        "type": "Point"
     },
+    "location_address": "8954 HOSPITAL DRIVE",
+    "location_city": "DOUGLASVILLE",
+    "location_state": "GA",
+    "location_zip": "30134",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wellstar.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7709491500"
-    },
+    "phone_number": "7709491500",
     "provider_id": "110184",
     "raw_ratings": {},
     "state": "GA",

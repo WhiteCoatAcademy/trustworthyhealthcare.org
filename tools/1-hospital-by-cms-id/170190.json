@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1829 COLLEGE AVENUE\",\"city\":\"MANHATTAN\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.202911802000074",
-        "longitude": "-96.59820569499999",
-        "needs_recoding": false
+        "coordinates": [
+            -96.598184,
+            39.202977
+        ],
+        "type": "Point"
     },
+    "location_address": "1829 COLLEGE AVENUE",
+    "location_city": "MANHATTAN",
+    "location_state": "KS",
+    "location_zip": "66502",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7857765100"
-    },
+    "phone_number": "7857765100",
     "provider_id": "170190",
     "raw_ratings": {},
     "state": "KS",

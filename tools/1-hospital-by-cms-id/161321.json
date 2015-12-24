@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 SOUTH GREENE STREET\",\"city\":\"ROCK RAPIDS\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "43.42377079100004",
-        "longitude": "-96.17114816099996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.171015,
+            43.424141
+        ],
+        "type": "Point"
     },
+    "location_address": "801 SOUTH GREENE STREET",
+    "location_city": "ROCK RAPIDS",
+    "location_state": "IA",
+    "location_zip": "51246",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sanfordhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7124722591"
-    },
+    "phone_number": "7124722591",
     "provider_id": "161321",
     "raw_ratings": {},
     "state": "IA",

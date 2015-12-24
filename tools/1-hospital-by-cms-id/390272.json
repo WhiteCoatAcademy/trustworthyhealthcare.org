@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1033 W GERMANTOWN PIKE\",\"city\":\"NORRISTOWN\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.15668772400005",
-        "longitude": "-75.36951271099997",
-        "needs_recoding": false
+        "coordinates": [
+            -75.369528,
+            40.156662
+        ],
+        "type": "Point"
     },
+    "location_address": "1033 W GERMANTOWN PIKE",
+    "location_city": "NORRISTOWN",
+    "location_state": "PA",
+    "location_zip": "19401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2155398500"
-    },
+    "phone_number": "2155398500",
     "provider_id": "390272",
     "raw_ratings": {},
     "state": "PA",

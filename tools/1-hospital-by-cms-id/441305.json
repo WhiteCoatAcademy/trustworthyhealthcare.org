@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"204 MEDICAL DRIVE\",\"city\":\"LAFAYETTE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.51940265700006",
-        "longitude": "-86.02582458599994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.025377,
+            36.51969
+        ],
+        "type": "Point"
     },
+    "location_address": "204 MEDICAL DRIVE",
+    "location_city": "LAFAYETTE",
+    "location_state": "TN",
+    "location_zip": "37083",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6156662147"
-    },
+    "phone_number": "6156662147",
     "provider_id": "441305",
     "raw_ratings": {},
     "state": "TN",

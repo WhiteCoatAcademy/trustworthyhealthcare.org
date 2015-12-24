@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 CHARTER BOULEVARD\",\"city\":\"MACON\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.871784768000055",
-        "longitude": "-83.69584726199997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.693645,
+            32.868749
+        ],
+        "type": "Point"
     },
+    "location_address": "400 CHARTER BOULEVARD",
+    "location_city": "MACON",
+    "location_state": "GA",
+    "location_zip": "31210",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4787575990"
-    },
+    "phone_number": "4787578200",
     "provider_id": "110201",
     "raw_ratings": {},
     "state": "GA",

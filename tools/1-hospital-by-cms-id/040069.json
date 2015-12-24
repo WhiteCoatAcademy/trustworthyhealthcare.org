@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1520 N DIVISION STREET\",\"city\":\"BLYTHEVILLE\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "35.94156277700006",
-        "longitude": "-89.91889327999996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.918929,
+            35.943011
+        ],
+        "type": "Point"
     },
+    "location_address": "1520 N DIVISION STREET",
+    "location_city": "BLYTHEVILLE",
+    "location_state": "AR",
+    "location_zip": "72315",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.amerishealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8708387300"
-    },
+    "phone_number": "8708387300",
     "provider_id": "040069",
     "raw_ratings": {},
     "state": "AR",

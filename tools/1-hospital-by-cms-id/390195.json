@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 LANCASTER AVE\",\"city\":\"WYNNEWOOD\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.98978593100003",
-        "longitude": "-75.25664160099996",
-        "needs_recoding": false
+        "coordinates": [
+            -75.258688,
+            39.990473
+        ],
+        "type": "Point"
     },
+    "location_address": "100 LANCASTER AVE",
+    "location_city": "WYNNEWOOD",
+    "location_state": "PA",
+    "location_zip": "19096",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.jeffersonhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6106452000"
-    },
+    "phone_number": "6106452000",
     "provider_id": "390195",
     "raw_ratings": {},
     "state": "PA",

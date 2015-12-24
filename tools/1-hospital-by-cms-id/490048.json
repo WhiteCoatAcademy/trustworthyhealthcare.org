@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1900 ELECTRIC ROAD\",\"city\":\"SALEM\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.264384318000054",
-        "longitude": "-80.03317631699997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.033316,
+            37.263837
+        ],
+        "type": "Point"
     },
+    "location_address": "1900 ELECTRIC ROAD",
+    "location_city": "SALEM",
+    "location_state": "VA",
+    "location_zip": "24153",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5407764000"
-    },
+    "phone_number": "5407764000",
     "provider_id": "490048",
     "raw_ratings": {},
     "state": "VA",

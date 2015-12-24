@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1 MEDICAL PARK DRIVE\",\"city\":\"CHESTER\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.684221223000065",
-        "longitude": "-81.18307074499995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.184551,
+            34.683429
+        ],
+        "type": "Point"
     },
+    "location_address": "1 MEDICAL PARK DRIVE",
+    "location_city": "CHESTER",
+    "location_state": "SC",
+    "location_zip": "29706",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8035813151"
-    },
+    "phone_number": "8035813151",
     "provider_id": "420019",
     "raw_ratings": {},
     "state": "SC",

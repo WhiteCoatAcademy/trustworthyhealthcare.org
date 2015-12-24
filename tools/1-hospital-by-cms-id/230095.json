@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2463 SOUTH M-30\",\"city\":\"WEST BRANCH\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "44.26279423400007",
-        "longitude": "-84.24625090599994",
-        "needs_recoding": false
+        "coordinates": [
+            -84.246224,
+            44.262155
+        ],
+        "type": "Point"
     },
+    "location_address": "2463 SOUTH M-30",
+    "location_city": "WEST BRANCH",
+    "location_state": "MI",
+    "location_zip": "48661",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9893456366"
-    },
+    "phone_number": "9893456366",
     "provider_id": "230095",
     "raw_ratings": {},
     "state": "MI",

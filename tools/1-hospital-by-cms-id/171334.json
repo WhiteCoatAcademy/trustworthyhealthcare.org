@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"710 N WALNUT STREET\",\"city\":\"MEDICINE LODGE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.28930010800008",
-        "longitude": "-98.57765646799999",
-        "needs_recoding": false
+        "coordinates": [
+            -98.577638,
+            37.288996
+        ],
+        "type": "Point"
     },
+    "location_address": "710 N WALNUT STREET",
+    "location_city": "MEDICINE LODGE",
+    "location_state": "KS",
+    "location_zip": "67104",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6208863771"
-    },
+    "phone_number": "6208863771",
     "provider_id": "171334",
     "raw_ratings": {},
     "state": "KS",

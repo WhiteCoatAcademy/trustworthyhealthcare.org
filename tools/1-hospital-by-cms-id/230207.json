@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"50 NORTH PERRY\",\"city\":\"PONTIAC\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.63868086000008",
-        "longitude": "-83.29111602699999",
-        "needs_recoding": false
+        "coordinates": [
+            -83.290908,
+            42.637879
+        ],
+        "type": "Point"
     },
+    "location_address": "50 NORTH PERRY",
+    "location_city": "PONTIAC",
+    "location_state": "MI",
+    "location_zip": "48342",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mclarenhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2483385000"
-    },
+    "phone_number": "2483385000",
     "provider_id": "230207",
     "raw_ratings": {},
     "state": "MI",

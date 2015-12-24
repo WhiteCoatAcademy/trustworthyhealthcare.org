@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7700 FLOYD CURL DR\",\"city\":\"SAN ANTONIO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.50890547100005",
-        "longitude": "-98.57381936899998",
-        "needs_recoding": false
+        "coordinates": [
+            -98.573474,
+            29.507399
+        ],
+        "type": "Point"
     },
+    "location_address": "7700 FLOYD CURL DR",
+    "location_city": "SAN ANTONIO",
+    "location_state": "TX",
+    "location_zip": "78229",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2105754000"
-    },
+    "phone_number": "2105754000",
     "provider_id": "450388",
     "raw_ratings": {},
     "state": "TX",

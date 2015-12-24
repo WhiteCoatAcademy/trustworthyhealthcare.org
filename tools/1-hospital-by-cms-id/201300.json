@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"57 WATER STREET\",\"city\":\"BLUE HILL\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "44.411594800000046",
-        "longitude": "-68.58636346099996",
-        "needs_recoding": false
+        "coordinates": [
+            -68.587812,
+            44.41293
+        ],
+        "type": "Point"
     },
+    "location_address": "57 WATER STREET",
+    "location_city": "BLUE HILL",
+    "location_state": "ME",
+    "location_zip": "04614",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.emh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2073742836"
-    },
+    "phone_number": "2073742836",
     "provider_id": "201300",
     "raw_ratings": {},
     "state": "ME",

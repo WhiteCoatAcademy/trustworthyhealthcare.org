@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1717 ARLINGTON STREET\",\"city\":\"CALDWELL\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "43.654368884000064",
-        "longitude": "-116.69558147899994",
-        "needs_recoding": false
+        "coordinates": [
+            -116.695615,
+            43.654116
+        ],
+        "type": "Point"
     },
+    "location_address": "1717 ARLINGTON STREET",
+    "location_city": "CALDWELL",
+    "location_state": "ID",
+    "location_zip": "83605",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2084594641"
-    },
+    "phone_number": "2084594641",
     "provider_id": "130014",
     "raw_ratings": {},
     "state": "ID",

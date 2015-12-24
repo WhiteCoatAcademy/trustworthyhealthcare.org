@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4039 HIGHLAND ST\",\"city\":\"MILAN\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.913041114000066",
-        "longitude": "-88.75335259999997",
-        "needs_recoding": false
+        "coordinates": [
+            -88.753495,
+            35.913311
+        ],
+        "type": "Point"
     },
+    "location_address": "4039 HIGHLAND ST",
+    "location_city": "MILAN",
+    "location_state": "TN",
+    "location_zip": "38358",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wth.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "7316861591"
-    },
+    "phone_number": "7316861591",
     "provider_id": "440060",
     "raw_ratings": {},
     "state": "TN",

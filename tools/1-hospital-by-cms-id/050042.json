@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2550 SISTER MARY COLUMBA DRIVE\",\"city\":\"RED BLUFF\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "40.14864193200003",
-        "longitude": "-122.21812651799996",
-        "needs_recoding": false
+        "coordinates": [
+            -122.217395,
+            40.149104
+        ],
+        "type": "Point"
     },
+    "location_address": "2550 SISTER MARY COLUMBA DRIVE",
+    "location_city": "RED BLUFF",
+    "location_state": "CA",
+    "location_zip": "96080",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5305298012"
-    },
+    "phone_number": "5305298012",
     "provider_id": "050042",
     "raw_ratings": {},
     "state": "CA",

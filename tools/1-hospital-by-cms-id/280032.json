@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"715 N ST JOSEPH AVE\",\"city\":\"HASTINGS\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.57634991300006",
-        "longitude": "-98.38756453599996",
-        "needs_recoding": false
+        "coordinates": [
+            -98.388144,
+            40.591713
+        ],
+        "type": "Point"
     },
+    "location_address": "715 N ST JOSEPH AVE",
+    "location_city": "HASTINGS",
+    "location_state": "NE",
+    "location_zip": "68901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4024634521"
-    },
+    "phone_number": "4024634521",
     "provider_id": "280032",
     "raw_ratings": {},
     "state": "NE",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"ONE CAPITAL WAY\",\"city\":\"PENNINGTON\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.29351946200006",
-        "longitude": "-74.80672615799995",
-        "needs_recoding": false
+        "coordinates": [
+            -74.81099,
+            40.29461
+        ],
+        "type": "Point"
     },
+    "location_address": "ONE CAPITAL WAY",
+    "location_city": "PENNINGTON",
+    "location_state": "NJ",
+    "location_zip": "08534",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.capitalhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6093034000"
-    },
+    "phone_number": "6093034000",
     "provider_id": "310044",
     "raw_ratings": {},
     "state": "NJ",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"901 9TH STREET NORTH\",\"city\":\"VIRGINIA\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "47.53071243900007",
-        "longitude": "-92.54768158699994",
-        "needs_recoding": false
+        "coordinates": [
+            -92.554823,
+            47.530585
+        ],
+        "type": "Point"
     },
+    "location_address": "901 9TH STREET NORTH",
+    "location_city": "VIRGINIA",
+    "location_state": "MN",
+    "location_zip": "55792",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2187413340"
-    },
+    "phone_number": "2187413340",
     "provider_id": "240084",
     "raw_ratings": {},
     "state": "MN",

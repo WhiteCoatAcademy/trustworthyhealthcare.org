@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 MEDICAL PARK DR\",\"city\":\"WATERVLIET\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.18542774300005",
-        "longitude": "-86.24995650499994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.250328,
+            42.184464
+        ],
+        "type": "Point"
     },
+    "location_address": "400 MEDICAL PARK DR",
+    "location_city": "WATERVLIET",
+    "location_state": "MI",
+    "location_zip": "49098",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2694633111"
-    },
+    "phone_number": "2694633111",
     "provider_id": "230078",
     "raw_ratings": {},
     "state": "MI",

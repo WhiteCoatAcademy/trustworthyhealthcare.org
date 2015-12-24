@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"336 DEERFIELD ROAD\",\"city\":\"BOONE\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "36.198667674000035",
-        "longitude": "-81.65236617999994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.652298,
+            36.199187
+        ],
+        "type": "Point"
     },
+    "location_address": "336 DEERFIELD ROAD",
+    "location_city": "BOONE",
+    "location_state": "NC",
+    "location_zip": "28607",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.apprhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8282624100"
-    },
+    "phone_number": "8282624100",
     "provider_id": "340051",
     "raw_ratings": {},
     "state": "NC",

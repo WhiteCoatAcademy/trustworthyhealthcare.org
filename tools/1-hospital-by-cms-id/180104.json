@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2501 KENTUCKY AVENUE\",\"city\":\"PADUCAH\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.07338438900007",
-        "longitude": "-88.62623959699994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.628162,
+            37.073279
+        ],
+        "type": "Point"
     },
+    "location_address": "2501 KENTUCKY AVENUE",
+    "location_city": "PADUCAH",
+    "location_state": "KY",
+    "location_zip": "42003",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhsi.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2705752100"
-    },
+    "phone_number": "2705752100",
     "provider_id": "180104",
     "raw_ratings": {},
     "state": "KY",

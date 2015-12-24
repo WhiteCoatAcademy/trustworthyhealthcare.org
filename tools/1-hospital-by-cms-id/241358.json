@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"425 7TH STREET NW\",\"city\":\"CASS LAKE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "47.38410692700006",
-        "longitude": "-94.60886027799995",
-        "needs_recoding": false
+        "coordinates": [
+            -94.607907,
+            47.384088
+        ],
+        "type": "Point"
     },
+    "location_address": "425 7TH STREET NW",
+    "location_city": "CASS LAKE",
+    "location_state": "MN",
+    "location_zip": "56633",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ihs.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "2183353200"
-    },
+    "phone_number": "2183353200",
     "provider_id": "241358",
     "raw_ratings": {},
     "state": "MN",

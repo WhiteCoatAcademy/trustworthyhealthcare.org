@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5655 FRIST BLVD\",\"city\":\"HERMITAGE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.17811327100003",
-        "longitude": "-86.60603376899996",
-        "needs_recoding": false
+        "coordinates": [
+            -86.607163,
+            36.177543
+        ],
+        "type": "Point"
     },
+    "location_address": "5655 FRIST BLVD",
+    "location_city": "HERMITAGE",
+    "location_state": "TN",
+    "location_zip": "37076",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6153163000"
-    },
+    "phone_number": "6153163000",
     "provider_id": "440150",
     "raw_ratings": {},
     "state": "TN",

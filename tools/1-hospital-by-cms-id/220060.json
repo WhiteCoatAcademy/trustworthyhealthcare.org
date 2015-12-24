@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"275 SANDWICH STREET\",\"city\":\"PLYMOUTH\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "41.94469609200007",
-        "longitude": "-70.64544879599998",
-        "needs_recoding": false
+        "coordinates": [
+            -70.643637,
+            41.94367
+        ],
+        "type": "Point"
     },
+    "location_address": "275 SANDWICH STREET",
+    "location_city": "PLYMOUTH",
+    "location_state": "MA",
+    "location_zip": "02360",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5087462000"
-    },
+    "phone_number": "5087462000",
     "provider_id": "220060",
     "raw_ratings": {},
     "state": "MA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 COMMUNITY DR\",\"city\":\"SENECA\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.83791587400003",
-        "longitude": "-96.07788592699995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.077864,
+            39.837834
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 COMMUNITY DR",
+    "location_city": "SENECA",
+    "location_state": "KS",
+    "location_zip": "66538",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7853366181"
-    },
+    "phone_number": "7853366181",
     "provider_id": "171315",
     "raw_ratings": {},
     "state": "KS",

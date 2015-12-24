@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6316 PRECINCT LINE RD\",\"city\":\"HURST\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.86321972700006",
-        "longitude": "-97.18609757199994",
-        "needs_recoding": false
+        "coordinates": [
+            -97.186133,
+            32.863272
+        ],
+        "type": "Point"
     },
+    "location_address": "6316 PRECINCT LINE RD",
+    "location_city": "HURST",
+    "location_state": "TX",
+    "location_zip": "76054",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8176052500"
-    },
+    "phone_number": "8176052500",
     "provider_id": "670045",
     "raw_ratings": {},
     "state": "TX",

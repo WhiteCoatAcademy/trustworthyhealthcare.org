@@ -1,5 +1,5 @@
 {
-    "address": "9575 ETHAN WADE WAY SE",
+    "address": "9801 FRONTIER AVE SE",
     "city": "SNOQUALMIE",
     "county_name": "KING",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9575 ETHAN WADE WAY SE\",\"city\":\"SNOQUALMIE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.51478375100004",
-        "longitude": "-121.82574292099997",
-        "needs_recoding": false
+        "coordinates": [
+            -121.885917,
+            47.512309
+        ],
+        "type": "Point"
     },
+    "location_address": "9801 FRONTIER AVE SE",
+    "location_city": "SNOQUALMIE",
+    "location_state": "WA",
+    "location_zip": "98065",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4258312300"
-    },
+    "phone_number": "4258312300",
     "provider_id": "501338",
     "raw_ratings": {},
     "state": "WA",

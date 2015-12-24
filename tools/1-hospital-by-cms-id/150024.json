@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"720 ESKENAZI AVENUE\",\"city\":\"INDIANAPOLIS\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.766913353000064",
-        "longitude": "-86.14995646699998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.17345,
+            39.78053
+        ],
+        "type": "Point"
     },
+    "location_address": "720 ESKENAZI AVENUE",
+    "location_city": "INDIANAPOLIS",
+    "location_state": "IN",
+    "location_zip": "46202",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,11 +31,9 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3178804818"
-    },
+    "phone_number": "3178804818",
     "provider_id": "150024",
     "raw_ratings": {},
     "state": "IN",
-    "zip_code": "46254"
+    "zip_code": "46202"
 }

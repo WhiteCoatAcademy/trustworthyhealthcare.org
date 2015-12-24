@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2400 NORTH ROCKTON AVENUE\",\"city\":\"ROCKFORD\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "42.29846233200004",
-        "longitude": "-89.09680756999995",
-        "needs_recoding": false
+        "coordinates": [
+            -89.096782,
+            42.298434
+        ],
+        "type": "Point"
     },
+    "location_address": "2400 NORTH ROCKTON AVENUE",
+    "location_city": "ROCKFORD",
+    "location_state": "IL",
+    "location_zip": "61103",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8159686861"
-    },
+    "phone_number": "8159686861",
     "provider_id": "140239",
     "raw_ratings": {},
     "state": "IL",

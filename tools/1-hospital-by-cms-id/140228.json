@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1401 EAST STATE STREET\",\"city\":\"ROCKFORD\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "42.26691211200006",
-        "longitude": "-89.07352082899996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.074288,
+            42.26694
+        ],
+        "type": "Point"
     },
+    "location_address": "1401 EAST STATE STREET",
+    "location_city": "ROCKFORD",
+    "location_state": "IL",
+    "location_zip": "61104",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8159684400"
-    },
+    "phone_number": "8159684400",
     "provider_id": "140228",
     "raw_ratings": {},
     "state": "IL",

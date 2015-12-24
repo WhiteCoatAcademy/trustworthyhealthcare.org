@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1531 ESPLANADE\",\"city\":\"CHICO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "39.74251154900003",
-        "longitude": "-121.84935547999999",
-        "needs_recoding": false
+        "coordinates": [
+            -121.849128,
+            39.742284
+        ],
+        "type": "Point"
     },
+    "location_address": "1531 ESPLANADE",
+    "location_city": "CHICO",
+    "location_state": "CA",
+    "location_zip": "95926",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5303327300"
-    },
+    "phone_number": "5303327300",
     "provider_id": "050039",
     "raw_ratings": {},
     "state": "CA",

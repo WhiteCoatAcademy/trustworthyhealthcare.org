@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"450 STANYAN ST\",\"city\":\"SAN FRANCISCO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.77365715900004",
-        "longitude": "-122.45441520399999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.454498,
+            37.773859
+        ],
+        "type": "Point"
     },
+    "location_address": "450 STANYAN ST",
+    "location_city": "SAN FRANCISCO",
+    "location_state": "CA",
+    "location_zip": "94117",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4156681000"
-    },
+    "phone_number": "4156681000",
     "provider_id": "050457",
     "raw_ratings": {},
     "state": "CA",

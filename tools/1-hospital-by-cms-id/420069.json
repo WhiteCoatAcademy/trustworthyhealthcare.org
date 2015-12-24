@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10 HOSPITAL ST BOX 550\",\"city\":\"MANNING\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "33.68788411100007",
-        "longitude": "-80.21234742199994",
-        "needs_recoding": false
+        "coordinates": [
+            -80.21197,
+            33.687869
+        ],
+        "type": "Point"
     },
+    "location_address": "10 HOSPITAL ST BOX 550",
+    "location_city": "MANNING",
+    "location_state": "SC",
+    "location_zip": "29102",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8034358463"
-    },
+    "phone_number": "8034353386",
     "provider_id": "420069",
     "raw_ratings": {},
     "state": "SC",

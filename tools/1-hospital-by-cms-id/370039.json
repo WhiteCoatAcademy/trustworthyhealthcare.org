@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1202 N MUSKOGEE PLACE\",\"city\":\"CLAREMORE\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.32272003000003",
-        "longitude": "-95.60530634799994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.605333,
+            36.321875
+        ],
+        "type": "Point"
     },
+    "location_address": "1202 N MUSKOGEE PLACE",
+    "location_city": "CLAREMORE",
+    "location_state": "OK",
+    "location_zip": "74017",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "9183412556"
-    },
+    "phone_number": "9183412556",
     "provider_id": "370039",
     "raw_ratings": {},
     "state": "OK",

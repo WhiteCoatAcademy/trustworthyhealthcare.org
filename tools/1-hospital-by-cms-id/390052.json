@@ -4,15 +4,20 @@
     "county_name": "CLEARFIELD",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "PENN HIGHLANDS CLEARFIELD",
+    "hospital_name": "CLEARFIELD HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"809 TURNPIKE AVE\",\"city\":\"CLEARFIELD\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "41.03192541300007",
-        "longitude": "-78.44957430899996",
-        "needs_recoding": false
+        "coordinates": [
+            -78.450279,
+            41.033397
+        ],
+        "type": "Point"
     },
+    "location_address": "809 TURNPIKE AVE",
+    "location_city": "CLEARFIELD",
+    "location_state": "PA",
+    "location_zip": "16830",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8147655341"
-    },
+    "phone_number": "8147682497",
     "provider_id": "390052",
     "raw_ratings": {},
     "state": "PA",

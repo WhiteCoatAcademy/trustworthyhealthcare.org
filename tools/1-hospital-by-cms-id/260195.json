@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 N OAKLAND\",\"city\":\"BOLIVAR\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "37.62670410700008",
-        "longitude": "-93.42092352099996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.421056,
+            37.622444
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 N OAKLAND",
+    "location_city": "BOLIVAR",
+    "location_state": "MO",
+    "location_zip": "65613",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4173266000"
-    },
+    "phone_number": "4173266000",
     "provider_id": "260195",
     "raw_ratings": {},
     "state": "MO",

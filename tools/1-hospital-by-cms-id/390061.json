@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"250 COLLEGE AVENUE\",\"city\":\"LANCASTER\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.04100346700005",
-        "longitude": "-76.32052668399996",
-        "needs_recoding": false
+        "coordinates": [
+            -76.320674,
+            40.040507
+        ],
+        "type": "Point"
     },
+    "location_address": "250 COLLEGE AVENUE",
+    "location_city": "LANCASTER",
+    "location_state": "PA",
+    "location_zip": "17604",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7172918123"
-    },
+    "phone_number": "7172918123",
     "provider_id": "390061",
     "raw_ratings": {},
     "state": "PA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 WEST CHEROKEE STREET\",\"city\":\"WAGONER\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.959917562000044",
-        "longitude": "-95.39249296799994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.392377,
+            35.959911
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 WEST CHEROKEE STREET",
+    "location_city": "WAGONER",
+    "location_state": "OK",
+    "location_zip": "74467",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9184855514"
-    },
+    "phone_number": "9184855514",
     "provider_id": "370166",
     "raw_ratings": {},
     "state": "OK",

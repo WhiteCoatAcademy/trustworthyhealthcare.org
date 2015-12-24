@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6901 MEDICAL PARKWAY\",\"city\":\"WACO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.513227094000058",
-        "longitude": "-97.19854567299996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.197926,
+            31.514649
+        ],
+        "type": "Point"
     },
+    "location_address": "6901 MEDICAL PARKWAY",
+    "location_city": "WACO",
+    "location_state": "TX",
+    "location_zip": "76712",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2547514000"
-    },
+    "phone_number": "2547514000",
     "provider_id": "450042",
     "raw_ratings": {},
     "state": "TX",

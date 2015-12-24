@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"325 MAINE STREET\",\"city\":\"LAWRENCE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.97727082500006",
-        "longitude": "-95.24764613899998",
-        "needs_recoding": false
+        "coordinates": [
+            -95.247648,
+            38.978894
+        ],
+        "type": "Point"
     },
+    "location_address": "325 MAINE STREET",
+    "location_city": "LAWRENCE",
+    "location_state": "KS",
+    "location_zip": "66044",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7855056100"
-    },
+    "phone_number": "7855056100",
     "provider_id": "170137",
     "raw_ratings": {},
     "state": "KS",

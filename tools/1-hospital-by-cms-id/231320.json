@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"72 SOUTH STATE STREET\",\"city\":\"SHELBY\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.60756624600003",
-        "longitude": "-86.36467305999997",
-        "needs_recoding": false
+        "coordinates": [
+            -86.364758,
+            43.607521
+        ],
+        "type": "Point"
     },
+    "location_address": "72 SOUTH STATE STREET",
+    "location_city": "SHELBY",
+    "location_state": "MI",
+    "location_zip": "49455",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hackley.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2318612156"
-    },
+    "phone_number": "2318612156",
     "provider_id": "231320",
     "raw_ratings": {},
     "state": "MI",

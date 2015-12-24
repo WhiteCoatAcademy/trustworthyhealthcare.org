@@ -4,15 +4,20 @@
     "county_name": "KAY",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "PONCA CITY MEDICAL CENTER",
+    "hospital_name": "ALLIANCEHEALTH PONCA CITY",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1900 NORTH 14TH STREET\",\"city\":\"PONCA CITY\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.72518095600003",
-        "longitude": "-97.06725468299999",
-        "needs_recoding": false
+        "coordinates": [
+            -97.067257,
+            36.725143
+        ],
+        "type": "Point"
     },
+    "location_address": "1900 NORTH 14TH STREET",
+    "location_city": "PONCA CITY",
+    "location_state": "OK",
+    "location_zip": "74601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "5807653321"
-    },
+    "phone_number": "5807653301",
     "provider_id": "370006",
     "raw_ratings": {},
     "state": "OK",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1818 N MEADE ST\",\"city\":\"APPLETON\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.27749062600003",
-        "longitude": "-88.39556199599997",
-        "needs_recoding": false
+        "coordinates": [
+            -88.395612,
+            44.278756
+        ],
+        "type": "Point"
     },
+    "location_address": "1818 N MEADE ST",
+    "location_city": "APPLETON",
+    "location_state": "WI",
+    "location_zip": "54911",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.thedacare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9207314101"
-    },
+    "phone_number": "9207314101",
     "provider_id": "520160",
     "raw_ratings": {},
     "state": "WI",

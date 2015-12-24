@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2222 PHILADELPHIA DRIVE\",\"city\":\"DAYTON\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.78958846300003",
-        "longitude": "-84.23501183299999",
-        "needs_recoding": false
+        "coordinates": [
+            -84.234956,
+            39.787958
+        ],
+        "type": "Point"
     },
+    "location_address": "2222 PHILADELPHIA DRIVE",
+    "location_city": "DAYTON",
+    "location_state": "OH",
+    "location_zip": "45406",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.premierhealthpartners.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9372782612"
-    },
+    "phone_number": "9372782612",
     "provider_id": "360052",
     "raw_ratings": {},
     "state": "OH",

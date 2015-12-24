@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "MARENGO MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
+    "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 W MAY ST\",\"city\":\"MARENGO\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.80182397900006",
-        "longitude": "-92.07409438999997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.072684,
+            41.801748
+        ],
+        "type": "Point"
     },
+    "location_address": "300 W MAY ST",
+    "location_city": "MARENGO",
+    "location_state": "IA",
+    "location_zip": "52301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3196425543"
-    },
+    "phone_number": "3196425543",
     "provider_id": "161317",
     "raw_ratings": {},
     "state": "IA",

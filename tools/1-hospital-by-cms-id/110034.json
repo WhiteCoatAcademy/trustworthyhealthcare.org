@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1120 15TH STREET\",\"city\":\"AUGUSTA\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.428822284000034",
-        "longitude": "-82.17254793799998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.991602,
+            33.470738
+        ],
+        "type": "Point"
     },
+    "location_address": "1120 15TH STREET",
+    "location_city": "AUGUSTA",
+    "location_state": "GA",
+    "location_zip": "30912",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7067216569"
-    },
+    "phone_number": "7067216569",
     "provider_id": "110034",
     "raw_ratings": {},
     "state": "GA",

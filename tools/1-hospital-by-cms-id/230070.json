@@ -4,15 +4,20 @@
     "county_name": "SAGINAW",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "COVENANT MEDICAL CENTER, INC",
+    "hospital_name": "COVENANT MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1447 N HARRISON\",\"city\":\"SAGINAW\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.42864033400008",
-        "longitude": "-83.95558855399997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.955546,
+            43.427844
+        ],
+        "type": "Point"
     },
+    "location_address": "1447 N HARRISON",
+    "location_city": "SAGINAW",
+    "location_state": "MI",
+    "location_zip": "48602",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9895834000"
-    },
+    "phone_number": "9895834000",
     "provider_id": "230070",
     "raw_ratings": {},
     "state": "MI",

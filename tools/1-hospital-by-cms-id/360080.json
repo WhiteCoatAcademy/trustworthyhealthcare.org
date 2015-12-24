@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"90 NORTH FOURTH STREET\",\"city\":\"MARTINS FERRY\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.098741208000035",
-        "longitude": "-80.72079695699995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.720802,
+            40.098717
+        ],
+        "type": "Point"
     },
+    "location_address": "90 NORTH FOURTH STREET",
+    "location_city": "MARTINS FERRY",
+    "location_state": "OH",
+    "location_zip": "43935",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7406334151"
-    },
+    "phone_number": "7406334151",
     "provider_id": "360080",
     "raw_ratings": {},
     "state": "OH",

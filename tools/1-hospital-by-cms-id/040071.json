@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 WEST 40TH AVENUE\",\"city\":\"PINE BLUFF\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "34.189114645000075",
-        "longitude": "-92.01825713899996",
-        "needs_recoding": false
+        "coordinates": [
+            -92.021094,
+            34.189117
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 WEST 40TH AVENUE",
+    "location_city": "PINE BLUFF",
+    "location_state": "AR",
+    "location_zip": "71603",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8705417100"
-    },
+    "phone_number": "8705417100",
     "provider_id": "040071",
     "raw_ratings": {},
     "state": "AR",

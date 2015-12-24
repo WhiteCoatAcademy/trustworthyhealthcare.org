@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"657 TOWN CENTER DRIVE\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "36.17946605000003",
-        "longitude": "-115.31612269499999",
-        "needs_recoding": false
+        "coordinates": [
+            -115.315719,
+            36.17967
+        ],
+        "type": "Point"
     },
+    "location_address": "657 TOWN CENTER DRIVE",
+    "location_city": "LAS VEGAS",
+    "location_state": "NV",
+    "location_zip": "89144",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhsinc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7022337500"
-    },
+    "phone_number": "7022337500",
     "provider_id": "290041",
     "raw_ratings": {},
     "state": "NV",

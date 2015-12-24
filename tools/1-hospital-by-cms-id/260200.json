@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 MEDICAL PLAZA\",\"city\":\"LAKE SAINT LOUIS\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.803090936000046",
-        "longitude": "-90.77485475299994",
-        "needs_recoding": false
+        "coordinates": [
+            -90.774729,
+            38.803075
+        ],
+        "type": "Point"
     },
+    "location_address": "100 MEDICAL PLAZA",
+    "location_city": "LAKE SAINT LOUIS",
+    "location_state": "MO",
+    "location_zip": "63367",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ssmhc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6366255200"
-    },
+    "phone_number": "6366255200",
     "provider_id": "260200",
     "raw_ratings": {},
     "state": "MO",

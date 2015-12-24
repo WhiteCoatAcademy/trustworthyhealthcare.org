@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5000 HENNESSY BLVD\",\"city\":\"BATON ROUGE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.403016240000056",
-        "longitude": "-91.10815898699997",
-        "needs_recoding": false
+        "coordinates": [
+            -91.111528,
+            30.401318
+        ],
+        "type": "Point"
     },
+    "location_address": "5000 HENNESSY BLVD",
+    "location_city": "BATON ROUGE",
+    "location_state": "LA",
+    "location_zip": "70808",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.fmolhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2257656565"
-    },
+    "phone_number": "2257656565",
     "provider_id": "190064",
     "raw_ratings": {},
     "state": "LA",

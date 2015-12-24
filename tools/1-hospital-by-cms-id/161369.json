@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 MEDICAL PARKWAY\",\"city\":\"DENISON\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.02444388200007",
-        "longitude": "-95.38001663599994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.377086,
+            42.023257
+        ],
+        "type": "Point"
     },
+    "location_address": "100 MEDICAL PARKWAY",
+    "location_city": "DENISON",
+    "location_state": "IA",
+    "location_zip": "51442",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7122652500"
-    },
+    "phone_number": "7122652500",
     "provider_id": "161369",
     "raw_ratings": {},
     "state": "IA",

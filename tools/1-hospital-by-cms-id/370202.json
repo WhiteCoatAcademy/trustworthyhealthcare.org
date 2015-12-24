@@ -2,17 +2,22 @@
     "address": "8801 SOUTH 101ST EAST AVENUE",
     "city": "TULSA",
     "county_name": "TULSA",
-    "emergency_services": false,
+    "emergency_services": true,
     "global_rank": {},
     "hospital_name": "HILLCREST HOSPITAL SOUTH",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8801 SOUTH 101ST EAST AVENUE\",\"city\":\"TULSA\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.03521189000003",
-        "longitude": "-95.86468037599997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.86464,
+            36.035714
+        ],
+        "type": "Point"
     },
+    "location_address": "8801 SOUTH 101ST EAST AVENUE",
+    "location_city": "TULSA",
+    "location_state": "OK",
+    "location_zip": "74133",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "9182944000"
-    },
+    "phone_number": "9182944000",
     "provider_id": "370202",
     "raw_ratings": {},
     "state": "OK",

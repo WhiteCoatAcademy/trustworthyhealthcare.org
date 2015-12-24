@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"720 BLACKBURN ROAD\",\"city\":\"SEWICKLEY\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.54349490200008",
-        "longitude": "-80.17877634199994",
-        "needs_recoding": false
+        "coordinates": [
+            -80.178702,
+            40.543554
+        ],
+        "type": "Point"
     },
+    "location_address": "720 BLACKBURN ROAD",
+    "location_city": "SEWICKLEY",
+    "location_state": "PA",
+    "location_zip": "15143",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.heritagevalley.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4127416600"
-    },
+    "phone_number": "4127416600",
     "provider_id": "390037",
     "raw_ratings": {},
     "state": "PA",

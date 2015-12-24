@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"99 MONTECILLO RD\",\"city\":\"SAN RAFAEL\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.00489937900005",
-        "longitude": "-122.55420050499998",
-        "needs_recoding": false
+        "coordinates": [
+            -122.555273,
+            38.006049
+        ],
+        "type": "Point"
     },
+    "location_address": "99 MONTECILLO RD",
+    "location_city": "SAN RAFAEL",
+    "location_state": "CA",
+    "location_zip": "94903",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4154442000"
-    },
+    "phone_number": "4154442000",
     "provider_id": "050510",
     "raw_ratings": {},
     "state": "CA",

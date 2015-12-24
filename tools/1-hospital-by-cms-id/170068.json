@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"315 WEST 15TH STREET\",\"city\":\"LIBERAL\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.054249011000024",
-        "longitude": "-100.92596111699999",
-        "needs_recoding": false
+        "coordinates": [
+            -100.926103,
+            37.054208
+        ],
+        "type": "Point"
     },
+    "location_address": "315 WEST 15TH STREET",
+    "location_city": "LIBERAL",
+    "location_state": "KS",
+    "location_zip": "67901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6206296291"
-    },
+    "phone_number": "6206296291",
     "provider_id": "170068",
     "raw_ratings": {},
     "state": "KS",

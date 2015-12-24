@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"515 QUARTER STREET\",\"city\":\"GLADWIN\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.97561163100005",
-        "longitude": "-84.49532466599999",
-        "needs_recoding": false
+        "coordinates": [
+            -84.495355,
+            43.975786
+        ],
+        "type": "Point"
     },
+    "location_address": "515 QUARTER STREET",
+    "location_city": "GLADWIN",
+    "location_state": "MI",
+    "location_zip": "48624",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.midmichigan.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9894269286"
-    },
+    "phone_number": "9894269286",
     "provider_id": "231325",
     "raw_ratings": {},
     "state": "MI",

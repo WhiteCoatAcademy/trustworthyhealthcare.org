@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 HOSPITAL DR BOX 609\",\"city\":\"LOUISBURG\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "36.11233411100005",
-        "longitude": "-78.29406157099999",
-        "needs_recoding": false
+        "coordinates": [
+            -78.292767,
+            36.11255
+        ],
+        "type": "Point"
     },
+    "location_address": "100 HOSPITAL DR BOX 609",
+    "location_city": "LOUISBURG",
+    "location_state": "NC",
+    "location_zip": "27549",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9194965131"
-    },
+    "phone_number": "9194965131",
     "provider_id": "340036",
     "raw_ratings": {},
     "state": "NC",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"214 CARTER STREET\",\"city\":\"BERRYVILLE\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "36.35911714500003",
-        "longitude": "-93.55125151999994",
-        "needs_recoding": false
+        "coordinates": [
+            -93.552029,
+            36.358217
+        ],
+        "type": "Point"
     },
+    "location_address": "214 CARTER STREET",
+    "location_city": "BERRYVILLE",
+    "location_state": "AR",
+    "location_zip": "72616",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mercy.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "8704233355"
-    },
+    "phone_number": "8704233355",
     "provider_id": "041329",
     "raw_ratings": {},
     "state": "AR",

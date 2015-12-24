@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5101 S WILLOW SPRINGS RD\",\"city\":\"LA GRANGE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.796831832000066",
-        "longitude": "-87.88844392099998",
-        "needs_recoding": false
+        "coordinates": [
+            -87.888434,
+            41.798148
+        ],
+        "type": "Point"
     },
+    "location_address": "5101 S WILLOW SPRINGS RD",
+    "location_city": "LA GRANGE",
+    "location_state": "IL",
+    "location_zip": "60525",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7083521200"
-    },
+    "phone_number": "7083521200",
     "provider_id": "140065",
     "raw_ratings": {},
     "state": "IL",

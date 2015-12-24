@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1055 SAXON BLVD\",\"city\":\"ORANGE CITY\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.91132751200007",
-        "longitude": "-81.28309096999999",
-        "needs_recoding": false
+        "coordinates": [
+            -81.283751,
+            28.911303
+        ],
+        "type": "Point"
     },
+    "location_address": "1055 SAXON BLVD",
+    "location_city": "ORANGE CITY",
+    "location_state": "FL",
+    "location_zip": "32763",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3869175000"
-    },
+    "phone_number": "3869175000",
     "provider_id": "100072",
     "raw_ratings": {},
     "state": "FL",

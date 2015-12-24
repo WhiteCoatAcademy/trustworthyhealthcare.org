@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4295 HEMPSTEAD TURNPIKE\",\"city\":\"BETHPAGE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.72583773800005",
-        "longitude": "-73.47848113099997",
-        "needs_recoding": false
+        "coordinates": [
+            -73.478716,
+            40.725797
+        ],
+        "type": "Point"
     },
+    "location_address": "4295 HEMPSTEAD TURNPIKE",
+    "location_city": "BETHPAGE",
+    "location_state": "NY",
+    "location_zip": "11714",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5165796000"
-    },
+    "phone_number": "5165796000",
     "provider_id": "330332",
     "raw_ratings": {},
     "state": "NY",

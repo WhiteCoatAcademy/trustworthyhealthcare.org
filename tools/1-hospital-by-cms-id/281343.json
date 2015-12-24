@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"406 W NEELY ST\",\"city\":\"ATKINSON\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "42.52853580900006",
-        "longitude": "-98.98263150499997",
-        "needs_recoding": false
+        "coordinates": [
+            -98.983006,
+            42.528519
+        ],
+        "type": "Point"
     },
+    "location_address": "406 W NEELY ST",
+    "location_city": "ATKINSON",
+    "location_state": "NE",
+    "location_zip": "68713",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4029252811"
-    },
+    "phone_number": "4029252811",
     "provider_id": "281343",
     "raw_ratings": {},
     "state": "NE",

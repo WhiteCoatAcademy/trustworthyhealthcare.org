@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1 MADRONE STREET\",\"city\":\"WILLITS\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "39.400872665000065",
-        "longitude": "-123.35059892899994",
-        "needs_recoding": false
+        "coordinates": [
+            -123.350619,
+            39.400913
+        ],
+        "type": "Point"
     },
+    "location_address": "1 MADRONE STREET",
+    "location_city": "WILLITS",
+    "location_state": "CA",
+    "location_zip": "95490",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.adventisthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7074596801"
-    },
+    "phone_number": "7074596801",
     "provider_id": "051310",
     "raw_ratings": {},
     "state": "CA",

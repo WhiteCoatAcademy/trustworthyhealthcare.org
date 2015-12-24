@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"105 NASON DRIVE\",\"city\":\"ROARING SPRING\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.33818689800006",
-        "longitude": "-78.38932742099996",
-        "needs_recoding": false
+        "coordinates": [
+            -78.388829,
+            40.338038
+        ],
+        "type": "Point"
     },
+    "location_address": "105 NASON DRIVE",
+    "location_city": "ROARING SPRING",
+    "location_state": "PA",
+    "location_zip": "16673",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8142242141"
-    },
+    "phone_number": "8142242141",
     "provider_id": "390062",
     "raw_ratings": {},
     "state": "PA",

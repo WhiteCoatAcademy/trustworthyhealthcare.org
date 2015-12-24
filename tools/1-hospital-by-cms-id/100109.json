@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4200 SUN N LAKE BLVD\",\"city\":\"SEBRING\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.539032677000023",
-        "longitude": "-81.50593029199996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.506881,
+            27.538455
+        ],
+        "type": "Point"
     },
+    "location_address": "4200 SUN N LAKE BLVD",
+    "location_city": "SEBRING",
+    "location_state": "FL",
+    "location_zip": "33871",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8633144466"
-    },
+    "phone_number": "8633144466",
     "provider_id": "100109",
     "raw_ratings": {},
     "state": "FL",

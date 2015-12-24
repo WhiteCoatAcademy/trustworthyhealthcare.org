@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1109 NORTH 100 WEST\",\"city\":\"BEAVER\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "38.289840242000025",
-        "longitude": "-112.64318848899995",
-        "needs_recoding": false
+        "coordinates": [
+            -112.64312,
+            38.288865
+        ],
+        "type": "Point"
     },
+    "location_address": "1109 NORTH 100 WEST",
+    "location_city": "BEAVER",
+    "location_state": "UT",
+    "location_zip": "84713",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4354387102"
-    },
+    "phone_number": "4354387102",
     "provider_id": "460035",
     "raw_ratings": {},
     "state": "UT",

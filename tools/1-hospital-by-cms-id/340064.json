@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1370 WEST D ST\",\"city\":\"NORTH WILKESBORO\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "36.15854752600006",
-        "longitude": "-81.15688960899996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.156826,
+            36.158526
+        ],
+        "type": "Point"
     },
+    "location_address": "1370 WEST D ST",
+    "location_city": "NORTH WILKESBORO",
+    "location_state": "NC",
+    "location_zip": "28659",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3366518100"
-    },
+    "phone_number": "3366518100",
     "provider_id": "340064",
     "raw_ratings": {},
     "state": "NC",

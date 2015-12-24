@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 NORTH 2ND ST\",\"city\":\"O' NEILL\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "42.46011327300005",
-        "longitude": "-98.65107204499998",
-        "needs_recoding": false
+        "coordinates": [
+            -98.651118,
+            42.460534
+        ],
+        "type": "Point"
     },
+    "location_address": "300 NORTH 2ND ST",
+    "location_city": "O' NEILL",
+    "location_state": "NE",
+    "location_zip": "68763",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4023362611"
-    },
+    "phone_number": "4023362611",
     "provider_id": "281329",
     "raw_ratings": {},
     "state": "NE",

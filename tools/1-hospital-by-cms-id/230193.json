@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1375 N MAIN ST\",\"city\":\"LAPEER\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.06315843500005",
-        "longitude": "-83.31938841399995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.319265,
+            43.061707
+        ],
+        "type": "Point"
     },
+    "location_address": "1375 N MAIN ST",
+    "location_city": "LAPEER",
+    "location_state": "MI",
+    "location_zip": "48446",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mclarenhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8106675500"
-    },
+    "phone_number": "8106675500",
     "provider_id": "230193",
     "raw_ratings": {},
     "state": "MI",

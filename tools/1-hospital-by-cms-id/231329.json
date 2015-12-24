@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 N HOOPER STREET\",\"city\":\"CARO\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.49323151200008",
-        "longitude": "-83.40717802799998",
-        "needs_recoding": false
+        "coordinates": [
+            -83.407121,
+            43.49315
+        ],
+        "type": "Point"
     },
+    "location_address": "401 N HOOPER STREET",
+    "location_city": "CARO",
+    "location_state": "MI",
+    "location_zip": "48723",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9896733141"
-    },
+    "phone_number": "9896733141",
     "provider_id": "231329",
     "raw_ratings": {},
     "state": "MI",

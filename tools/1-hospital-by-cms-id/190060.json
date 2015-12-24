@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1701 OAK PARK BLVD\",\"city\":\"LAKE CHARLES\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.203507862000038",
-        "longitude": "-93.19703044099998",
-        "needs_recoding": false
+        "coordinates": [
+            -93.193293,
+            30.203261
+        ],
+        "type": "Point"
     },
+    "location_address": "1701 OAK PARK BLVD",
+    "location_city": "LAKE CHARLES",
+    "location_state": "LA",
+    "location_zip": "70601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3374943200"
-    },
+    "phone_number": "3374943000",
     "provider_id": "190060",
     "raw_ratings": {},
     "state": "LA",

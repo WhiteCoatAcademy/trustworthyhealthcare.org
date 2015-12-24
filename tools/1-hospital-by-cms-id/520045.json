@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"130 2ND ST\",\"city\":\"NEENAH\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.18840107400007",
-        "longitude": "-88.45393838499996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.453445,
+            44.188186
+        ],
+        "type": "Point"
     },
+    "location_address": "130 2ND ST",
+    "location_city": "NEENAH",
+    "location_state": "WI",
+    "location_zip": "54956",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.thedacare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9207293100"
-    },
+    "phone_number": "9207293100",
     "provider_id": "520045",
     "raw_ratings": {},
     "state": "WI",

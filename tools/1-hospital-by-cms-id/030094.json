@@ -4,15 +4,20 @@
     "county_name": "MARICOPA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ARROWHEAD HOSPITAL",
+    "hospital_name": "ABRAZO ARROWHEAD CAMPUS",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"18701 NORTH 67TH AVENUE\",\"city\":\"GLENDALE\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.65416094500006",
-        "longitude": "-112.20358712199999",
-        "needs_recoding": false
+        "coordinates": [
+            -112.202887,
+            33.653693
+        ],
+        "type": "Point"
     },
+    "location_address": "18701 NORTH 67TH AVENUE",
+    "location_city": "GLENDALE",
+    "location_state": "AZ",
+    "location_zip": "85308",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.vanguardhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6235611000"
-    },
+    "phone_number": "6235611000",
     "provider_id": "030094",
     "raw_ratings": {},
     "state": "AZ",

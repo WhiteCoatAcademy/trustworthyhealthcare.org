@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1777 WEST YOSEMITE AVE\",\"city\":\"MANTECA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.797358444000054",
-        "longitude": "-121.24613940699999",
-        "needs_recoding": false
+        "coordinates": [
+            -121.246189,
+            37.797371
+        ],
+        "type": "Point"
     },
+    "location_address": "1777 WEST YOSEMITE AVE",
+    "location_city": "MANTECA",
+    "location_state": "CA",
+    "location_zip": "95337",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2098253700"
-    },
+    "phone_number": "2098253700",
     "provider_id": "050748",
     "raw_ratings": {},
     "state": "CA",

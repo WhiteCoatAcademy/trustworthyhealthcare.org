@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3015 VETERANS PARKWAY\",\"city\":\"MOULTRIE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "31.130317958000035",
-        "longitude": "-83.77272656099996",
-        "needs_recoding": false
+        "coordinates": [
+            -83.779869,
+            31.121495
+        ],
+        "type": "Point"
     },
+    "location_address": "3015 VETERANS PARKWAY",
+    "location_city": "MOULTRIE",
+    "location_state": "GA",
+    "location_zip": "31788",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhsinc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2299854815"
-    },
+    "phone_number": "2299854815",
     "provider_id": "110209",
     "raw_ratings": {},
     "state": "GA",

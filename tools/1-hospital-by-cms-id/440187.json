@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"315 OAK ST BOX 550\",\"city\":\"LIVINGSTON\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.38451698200004",
-        "longitude": "-85.32798287299994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.328086,
+            36.384664
+        ],
+        "type": "Point"
     },
+    "location_address": "315 OAK ST BOX 550",
+    "location_city": "LIVINGSTON",
+    "location_state": "TN",
+    "location_zip": "38570",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9318235611"
-    },
+    "phone_number": "9318235611",
     "provider_id": "440187",
     "raw_ratings": {},
     "state": "TN",

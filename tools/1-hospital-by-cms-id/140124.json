@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1901 W HARRISON ST\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.87407109900005",
-        "longitude": "-87.67413423499994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.674308,
+            41.874041
+        ],
+        "type": "Point"
     },
+    "location_address": "1901 W HARRISON ST",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60612",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ccbhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3128646000"
-    },
+    "phone_number": "3128646000",
     "provider_id": "140124",
     "raw_ratings": {},
     "state": "IL",

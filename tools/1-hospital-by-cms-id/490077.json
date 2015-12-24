@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 MARTHA JEFFERSON DRIVE\",\"city\":\"CHARLOTTESVILLE\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "38.02454646800004",
-        "longitude": "-78.44364115899998",
-        "needs_recoding": false
+        "coordinates": [
+            -78.442233,
+            38.021772
+        ],
+        "type": "Point"
     },
+    "location_address": "500 MARTHA JEFFERSON DRIVE",
+    "location_city": "CHARLOTTESVILLE",
+    "location_state": "VA",
+    "location_zip": "22911",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4346547000"
-    },
+    "phone_number": "4346547000",
     "provider_id": "490077",
     "raw_ratings": {},
     "state": "VA",

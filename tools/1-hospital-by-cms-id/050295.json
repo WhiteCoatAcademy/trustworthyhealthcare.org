@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2215 TRUXTUN AVENUE\",\"city\":\"BAKERSFIELD\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "35.37327323000005",
-        "longitude": "-119.02759937599996",
-        "needs_recoding": false
+        "coordinates": [
+            -119.027251,
+            35.373324
+        ],
+        "type": "Point"
     },
+    "location_address": "2215 TRUXTUN AVENUE",
+    "location_city": "BAKERSFIELD",
+    "location_state": "CA",
+    "location_zip": "93301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6616325000"
-    },
+    "phone_number": "6616325000",
     "provider_id": "050295",
     "raw_ratings": {},
     "state": "CA",

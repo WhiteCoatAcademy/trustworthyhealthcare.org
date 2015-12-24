@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"13125 N PORT WASHINGTON RD\",\"city\":\"MEQUON\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.25769345500004",
-        "longitude": "-87.92419507099999",
-        "needs_recoding": false
+        "coordinates": [
+            -87.924152,
+            43.256306
+        ],
+        "type": "Point"
     },
+    "location_address": "13125 N PORT WASHINGTON RD",
+    "location_city": "MEQUON",
+    "location_state": "WI",
+    "location_zip": "53097",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2622437408"
-    },
+    "phone_number": "2622437408",
     "provider_id": "520195",
     "raw_ratings": {},
     "state": "WI",

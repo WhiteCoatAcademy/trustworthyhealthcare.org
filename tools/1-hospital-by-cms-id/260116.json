@@ -4,15 +4,20 @@
     "county_name": "SAINT FRANCOIS",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MINERAL AREA REGIONAL MEDICAL CENTER",
+    "hospital_name": "PARKLAND HEALTH CENTER - WEBER ROAD",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1212 WEBER RD\",\"city\":\"FARMINGTON\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "37.80069430000003",
-        "longitude": "-90.44165383499995",
-        "needs_recoding": false
+        "coordinates": [
+            -90.440986,
+            37.800177
+        ],
+        "type": "Point"
     },
+    "location_address": "1212 WEBER RD",
+    "location_city": "FARMINGTON",
+    "location_state": "MO",
+    "location_zip": "63640",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.capellahealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5737564581"
-    },
+    "phone_number": "5737564581",
     "provider_id": "260116",
     "raw_ratings": {},
     "state": "MO",

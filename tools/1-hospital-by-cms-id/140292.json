@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 WINTHROP AVENUE\",\"city\":\"GLENDALE HEIGHTS\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.91485314500005",
-        "longitude": "-88.05916599499994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.058597,
+            41.915166
+        ],
+        "type": "Point"
     },
+    "location_address": "701 WINTHROP AVENUE",
+    "location_city": "GLENDALE HEIGHTS",
+    "location_state": "IL",
+    "location_zip": "60139",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6305456160"
-    },
+    "phone_number": "6305456160",
     "provider_id": "140292",
     "raw_ratings": {},
     "state": "IL",

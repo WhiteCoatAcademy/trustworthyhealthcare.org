@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "SHASTA REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1100 BUTTE ST\",\"city\":\"REDDING\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "40.58534347300008",
-        "longitude": "-122.38689955599995",
-        "needs_recoding": false
+        "coordinates": [
+            -122.388246,
+            40.584999
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 BUTTE ST",
+    "location_city": "REDDING",
+    "location_state": "CA",
+    "location_zip": "96001",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5302445454"
-    },
+    "phone_number": "5302445454",
     "provider_id": "050764",
     "raw_ratings": {},
     "state": "CA",

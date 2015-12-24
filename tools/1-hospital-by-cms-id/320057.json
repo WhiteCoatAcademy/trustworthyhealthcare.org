@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1700 CERRILLOS ROAD\",\"city\":\"SANTA FE\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "35.666832906000025",
-        "longitude": "-105.96971785099998",
-        "needs_recoding": false
+        "coordinates": [
+            -105.969665,
+            35.66695
+        ],
+        "type": "Point"
     },
+    "location_address": "1700 CERRILLOS ROAD",
+    "location_city": "SANTA FE",
+    "location_state": "NM",
+    "location_zip": "87501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5059889821"
-    },
+    "phone_number": "5059889821",
     "provider_id": "320057",
     "raw_ratings": {},
     "state": "NM",

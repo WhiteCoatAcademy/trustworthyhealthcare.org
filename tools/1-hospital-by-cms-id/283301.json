@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Childrens",
     "location": {
-        "human_address": "{\"address\":\"8200 DODGE ST\",\"city\":\"OMAHA\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.259688967000045",
-        "longitude": "-96.04023840599996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.042029,
+            41.259682
+        ],
+        "type": "Point"
     },
+    "location_address": "8200 DODGE ST",
+    "location_city": "OMAHA",
+    "location_state": "NE",
+    "location_zip": "68114",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4029555400"
-    },
+    "phone_number": "4029555400",
     "provider_id": "283301",
     "raw_ratings": {},
     "state": "NE",

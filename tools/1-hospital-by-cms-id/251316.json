@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"605 SOUTH ARCHUSA AVENUE\",\"city\":\"QUITMAN\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.03126377500007",
-        "longitude": "-88.72792761199997",
-        "needs_recoding": false
+        "coordinates": [
+            -88.727928,
+            32.029915
+        ],
+        "type": "Point"
     },
+    "location_address": "605 SOUTH ARCHUSA AVENUE",
+    "location_city": "QUITMAN",
+    "location_state": "MS",
+    "location_zip": "39355",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.rushhealthsystems.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6017766925"
-    },
+    "phone_number": "6017766925",
     "provider_id": "251316",
     "raw_ratings": {},
     "state": "MS",

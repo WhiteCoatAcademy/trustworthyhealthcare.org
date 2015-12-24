@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"101 CRESTVIEW AVENUE\",\"city\":\"EVERGREEN\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "31.43103941800007",
-        "longitude": "-86.94130531699994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.940492,
+            31.431763
+        ],
+        "type": "Point"
     },
+    "location_address": "101 CRESTVIEW AVENUE",
+    "location_city": "EVERGREEN",
+    "location_state": "AL",
+    "location_zip": "36401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2515782480"
-    },
+    "phone_number": "2515782480",
     "provider_id": "010148",
     "raw_ratings": {},
     "state": "AL",

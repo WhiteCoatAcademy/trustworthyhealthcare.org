@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"2215 FULLER ROAD\",\"city\":\"ANN ARBOR\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.28740209800003",
-        "longitude": "-83.71870233699997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.712175,
+            42.287103
+        ],
+        "type": "Point"
     },
+    "location_address": "2215 FULLER ROAD",
+    "location_city": "ANN ARBOR",
+    "location_state": "MI",
+    "location_zip": "48105",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "7347697100"
-    },
+    "phone_number": "7347697100",
     "provider_id": "23011F",
     "raw_ratings": {},
     "state": "MI",

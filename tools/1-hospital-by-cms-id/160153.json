@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 5TH ST\",\"city\":\"SIOUX CITY\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.49532825700004",
-        "longitude": "-96.40067747199998",
-        "needs_recoding": false
+        "coordinates": [
+            -96.400456,
+            42.495276
+        ],
+        "type": "Point"
     },
+    "location_address": "801 5TH ST",
+    "location_city": "SIOUX CITY",
+    "location_state": "IA",
+    "location_zip": "51101",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mercyhealthnetwork.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7122792010"
-    },
+    "phone_number": "7122792010",
     "provider_id": "160153",
     "raw_ratings": {},
     "state": "IA",

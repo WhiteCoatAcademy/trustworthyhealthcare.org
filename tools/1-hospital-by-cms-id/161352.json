@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"220 ESSIE DAVISON DRIVE\",\"city\":\"CLARINDA\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "40.72346843300005",
-        "longitude": "-95.04201385699997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.041406,
+            40.723116
+        ],
+        "type": "Point"
     },
+    "location_address": "220 ESSIE DAVISON DRIVE",
+    "location_city": "CLARINDA",
+    "location_state": "IA",
+    "location_zip": "51632",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7125422176"
-    },
+    "phone_number": "7125422176",
     "provider_id": "161352",
     "raw_ratings": {},
     "state": "IA",

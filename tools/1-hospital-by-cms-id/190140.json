@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2106 LOOP ROAD\",\"city\":\"WINNSBORO\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.15829929200004",
-        "longitude": "-91.70521765199999",
-        "needs_recoding": false
+        "coordinates": [
+            -91.705234,
+            32.15888
+        ],
+        "type": "Point"
     },
+    "location_address": "2106 LOOP ROAD",
+    "location_city": "WINNSBORO",
+    "location_state": "LA",
+    "location_zip": "71295",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3184359411"
-    },
+    "phone_number": "3184359411",
     "provider_id": "190140",
     "raw_ratings": {},
     "state": "LA",

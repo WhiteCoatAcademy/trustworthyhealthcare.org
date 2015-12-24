@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9961 SIERRA AVE\",\"city\":\"FONTANA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.072841390000065",
-        "longitude": "-117.43563677899999",
-        "needs_recoding": false
+        "coordinates": [
+            -117.43562,
+            34.072835
+        ],
+        "type": "Point"
     },
+    "location_address": "9961 SIERRA AVE",
+    "location_city": "FONTANA",
+    "location_state": "CA",
+    "location_zip": "92335",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9094275500"
-    },
+    "phone_number": "9094275500",
     "provider_id": "050140",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"705 EAST GREENWOOD AV\",\"city\":\"BOWIE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.56183734100006",
-        "longitude": "-97.83516252799996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.834045,
+            33.560845
+        ],
+        "type": "Point"
     },
+    "location_address": "705 EAST GREENWOOD AV",
+    "location_city": "BOWIE",
+    "location_state": "TX",
+    "location_zip": "76230",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9408721126"
-    },
+    "phone_number": "9408721126",
     "provider_id": "450497",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6565 FANNIN\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.710291314000074",
-        "longitude": "-95.40029134499997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.399887,
+            29.710842
+        ],
+        "type": "Point"
     },
+    "location_address": "6565 FANNIN",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77030",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.methodisthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7137902221"
-    },
+    "phone_number": "7137902221",
     "provider_id": "450358",
     "raw_ratings": {},
     "state": "TX",

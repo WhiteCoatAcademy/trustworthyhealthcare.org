@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2905 3RD AVE SE\",\"city\":\"ABERDEEN\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "45.462166540000055",
-        "longitude": "-98.44738063799997",
-        "needs_recoding": false
+        "coordinates": [
+            -98.447186,
+            45.46214
+        ],
+        "type": "Point"
     },
+    "location_address": "2905 3RD AVE SE",
+    "location_city": "ABERDEEN",
+    "location_state": "SD",
+    "location_zip": "57402",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6056264200"
-    },
+    "phone_number": "6056264200",
     "provider_id": "430097",
     "raw_ratings": {},
     "state": "SD",

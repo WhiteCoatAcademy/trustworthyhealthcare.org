@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1721 S STEPHENSON AVE\",\"city\":\"IRON MOUNTAIN\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "45.808335311000064",
-        "longitude": "-88.04567061399996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.047635,
+            45.808234
+        ],
+        "type": "Point"
     },
+    "location_address": "1721 S STEPHENSON AVE",
+    "location_city": "IRON MOUNTAIN",
+    "location_state": "MI",
+    "location_zip": "49801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9067741313"
-    },
+    "phone_number": "9067741313",
     "provider_id": "230055",
     "raw_ratings": {},
     "state": "MI",

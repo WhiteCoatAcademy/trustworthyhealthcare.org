@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"575 BEECH STREET\",\"city\":\"HOLYOKE\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.19950708300007",
-        "longitude": "-72.62749565999997",
-        "needs_recoding": false
+        "coordinates": [
+            -72.627955,
+            42.199421
+        ],
+        "type": "Point"
     },
+    "location_address": "575 BEECH STREET",
+    "location_city": "HOLYOKE",
+    "location_state": "MA",
+    "location_zip": "01040",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4135342500"
-    },
+    "phone_number": "4135342500",
     "provider_id": "220024",
     "raw_ratings": {},
     "state": "MA",

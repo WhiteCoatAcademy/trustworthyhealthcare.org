@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Childrens",
     "location": {
-        "human_address": "{\"address\":\"13123 EAST 16TH AVENUE\",\"city\":\"AURORA\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.74114494200006",
-        "longitude": "-104.83660354599999",
-        "needs_recoding": false
+        "coordinates": [
+            -104.835018,
+            39.741635
+        ],
+        "type": "Point"
     },
+    "location_address": "13123 EAST 16TH AVENUE",
+    "location_city": "AURORA",
+    "location_state": "CO",
+    "location_zip": "80045",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7207771234"
-    },
+    "phone_number": "7207771234",
     "provider_id": "063301",
     "raw_ratings": {},
     "state": "CO",

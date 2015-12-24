@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 23RD ST\",\"city\":\"BEDFORD\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "38.85346275300003",
-        "longitude": "-86.49453091399994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.494527,
+            38.853488
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 23RD ST",
+    "location_city": "BEDFORD",
+    "location_state": "IN",
+    "location_zip": "47421",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8122753331"
-    },
+    "phone_number": "8122753331",
     "provider_id": "151335",
     "raw_ratings": {},
     "state": "IN",

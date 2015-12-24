@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11 UPPER RIVERDALE ROAD, SW\",\"city\":\"RIVERDALE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.57779692500003",
-        "longitude": "-84.38957821499997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.393249,
+            33.576612
+        ],
+        "type": "Point"
     },
+    "location_address": "11 UPPER RIVERDALE ROAD, SW",
+    "location_city": "RIVERDALE",
+    "location_state": "GA",
+    "location_zip": "30274",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7709918160"
-    },
+    "phone_number": "7709918160",
     "provider_id": "110165",
     "raw_ratings": {},
     "state": "GA",

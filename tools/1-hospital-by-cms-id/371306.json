@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 WANDA STREET\",\"city\":\"MARIETTA\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "33.94226366300006",
-        "longitude": "-97.13087792299996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.131038,
+            33.942475
+        ],
+        "type": "Point"
     },
+    "location_address": "300 WANDA STREET",
+    "location_city": "MARIETTA",
+    "location_state": "OK",
+    "location_zip": "73448",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5802763347"
-    },
+    "phone_number": "5802763347",
     "provider_id": "371306",
     "raw_ratings": {},
     "state": "OK",

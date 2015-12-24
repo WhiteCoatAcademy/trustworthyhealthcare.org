@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"225 WILLIAMSON STREET\",\"city\":\"ELIZABETH\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.65953942400006",
-        "longitude": "-74.21441777499996",
-        "needs_recoding": false
+        "coordinates": [
+            -74.214418,
+            40.659859
+        ],
+        "type": "Point"
     },
+    "location_address": "225 WILLIAMSON STREET",
+    "location_city": "ELIZABETH",
+    "location_state": "NJ",
+    "location_zip": "07207",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9089945000"
-    },
+    "phone_number": "9089945000",
     "provider_id": "310027",
     "raw_ratings": {},
     "state": "NJ",

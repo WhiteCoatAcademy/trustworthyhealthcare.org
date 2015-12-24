@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"950 CAMPBELL AVENUE\",\"city\":\"WEST HAVEN\",\"state\":\"CT\",\"zip\":\"\"}",
-        "latitude": "41.28435795200005",
-        "longitude": "-72.95731328399995",
-        "needs_recoding": false
+        "coordinates": [
+            -72.95728,
+            41.284283
+        ],
+        "type": "Point"
     },
+    "location_address": "950 CAMPBELL AVENUE",
+    "location_city": "WEST HAVEN",
+    "location_state": "CT",
+    "location_zip": "06516",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "2039325711"
-    },
+    "phone_number": "2039325711",
     "provider_id": "07003F",
     "raw_ratings": {},
     "state": "CT",

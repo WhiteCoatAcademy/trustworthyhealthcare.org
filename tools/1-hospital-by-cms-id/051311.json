@@ -4,15 +4,20 @@
     "county_name": "BUTTE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "BIGGS GRIDLEY MEMORIAL HOSPITAL",
+    "hospital_name": "ORCHARD HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"240 SPRUCE STREET\",\"city\":\"GRIDLEY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "39.36700825500003",
-        "longitude": "-121.68954897199995",
-        "needs_recoding": false
+        "coordinates": [
+            -121.689959,
+            39.366972
+        ],
+        "type": "Point"
     },
+    "location_address": "240 SPRUCE STREET",
+    "location_city": "GRIDLEY",
+    "location_state": "CA",
+    "location_zip": "95948",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.frhg.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5308465671"
-    },
+    "phone_number": "5308465671",
     "provider_id": "051311",
     "raw_ratings": {},
     "state": "CA",

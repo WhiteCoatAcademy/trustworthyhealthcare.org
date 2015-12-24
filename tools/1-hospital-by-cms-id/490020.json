@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"411 WEST RANDOLPH ROAD\",\"city\":\"HOPEWELL\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.30708169700006",
-        "longitude": "-77.29152317899997",
-        "needs_recoding": false
+        "coordinates": [
+            -77.291153,
+            37.306863
+        ],
+        "type": "Point"
     },
+    "location_address": "411 WEST RANDOLPH ROAD",
+    "location_city": "HOPEWELL",
+    "location_state": "VA",
+    "location_zip": "23860",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8045411600"
-    },
+    "phone_number": "8045411600",
     "provider_id": "490020",
     "raw_ratings": {},
     "state": "VA",

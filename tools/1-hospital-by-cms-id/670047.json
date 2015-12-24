@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3280 JOE BATTLE BLVD\",\"city\":\"EL PASO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.790219510000043",
-        "longitude": "-106.26762809399997",
-        "needs_recoding": false
+        "coordinates": [
+            -106.267642,
+            31.790511
+        ],
+        "type": "Point"
     },
+    "location_address": "3280 JOE BATTLE BLVD",
+    "location_city": "EL PASO",
+    "location_state": "TX",
+    "location_zip": "79938",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9158567349"
-    },
+    "phone_number": "9158567349",
     "provider_id": "670047",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"419 S CORAL\",\"city\":\"KALKASKA\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "44.73172229900007",
-        "longitude": "-85.18312578099994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.183091,
+            44.731754
+        ],
+        "type": "Point"
     },
+    "location_address": "419 S CORAL",
+    "location_city": "KALKASKA",
+    "location_state": "MI",
+    "location_zip": "49646",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.munsonhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2312587500"
-    },
+    "phone_number": "2312587500",
     "provider_id": "231301",
     "raw_ratings": {},
     "state": "MI",

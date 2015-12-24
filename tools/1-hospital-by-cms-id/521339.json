@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"601 S CENTER AVE\",\"city\":\"MERRILL\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "45.17586253400003",
-        "longitude": "-89.68296959499997",
-        "needs_recoding": false
+        "coordinates": [
+            -89.683199,
+            45.175497
+        ],
+        "type": "Point"
     },
+    "location_address": "601 S CENTER AVE",
+    "location_city": "MERRILL",
+    "location_state": "WI",
+    "location_zip": "54452",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.marianhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7155365511"
-    },
+    "phone_number": "7155365511",
     "provider_id": "521339",
     "raw_ratings": {},
     "state": "WI",

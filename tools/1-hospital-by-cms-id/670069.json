@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8000 W ELDORADO PKWY\",\"city\":\"MC KINNEY\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.17556645500002",
-        "longitude": "-96.72303123099994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.72431,
+            33.175803
+        ],
+        "type": "Point"
     },
+    "location_address": "8000 W ELDORADO PKWY",
+    "location_city": "MC KINNEY",
+    "location_state": "TX",
+    "location_zip": "75070",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4694246400"
-    },
+    "phone_number": "4694246400",
     "provider_id": "670069",
     "raw_ratings": {},
     "state": "TX",

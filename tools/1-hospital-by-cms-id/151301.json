@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"473 E GREENVILLE AVE\",\"city\":\"WINCHESTER\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.16820616900003",
-        "longitude": "-84.97079692399996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.970587,
+            40.168018
+        ],
+        "type": "Point"
     },
+    "location_address": "473 E GREENVILLE AVE",
+    "location_city": "WINCHESTER",
+    "location_state": "IN",
+    "location_zip": "47394",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7655840004"
-    },
+    "phone_number": "7655840004",
     "provider_id": "151301",
     "raw_ratings": {},
     "state": "IN",

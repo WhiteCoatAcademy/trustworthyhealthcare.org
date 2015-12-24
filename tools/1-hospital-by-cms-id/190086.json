@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 EAST VAUGHN AVENUE\",\"city\":\"RUSTON\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.51546692900007",
-        "longitude": "-92.63334147299997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.632414,
+            32.515766
+        ],
+        "type": "Point"
     },
+    "location_address": "401 EAST VAUGHN AVENUE",
+    "location_city": "RUSTON",
+    "location_state": "LA",
+    "location_zip": "71270",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "3182542100"
-    },
+    "phone_number": "3182542100",
     "provider_id": "190086",
     "raw_ratings": {},
     "state": "LA",

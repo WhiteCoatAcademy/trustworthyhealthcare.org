@@ -4,15 +4,20 @@
     "county_name": "TAYLOR",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MEMORIAL HEALTH CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_name": "ASPIRUS MEDFORD HOSPITAL & CLINICS, INC",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"135 S GIBSON ST\",\"city\":\"MEDFORD\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "45.13492887500007",
-        "longitude": "-90.35410922399996",
-        "needs_recoding": false
+        "coordinates": [
+            -90.353998,
+            45.135642
+        ],
+        "type": "Point"
     },
+    "location_address": "135 S GIBSON ST",
+    "location_city": "MEDFORD",
+    "location_state": "WI",
+    "location_zip": "54451",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "aspirus.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7157488100"
-    },
+    "phone_number": "7157488100",
     "provider_id": "521324",
     "raw_ratings": {},
     "state": "WI",

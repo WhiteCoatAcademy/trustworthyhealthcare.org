@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"4801 8TH STREET N.\",\"city\":\"ST. CLOUD\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.56769286400004",
-        "longitude": "-94.21778427799995",
-        "needs_recoding": false
+        "coordinates": [
+            -94.217727,
+            45.567521
+        ],
+        "type": "Point"
     },
+    "location_address": "4801 8TH STREET N.",
+    "location_city": "ST. CLOUD",
+    "location_state": "MN",
+    "location_zip": "56303",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "3202521670"
-    },
+    "phone_number": "3202521670",
     "provider_id": "24002F",
     "raw_ratings": {},
     "state": "MN",

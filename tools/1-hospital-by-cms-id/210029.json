@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4940 EASTERN AVENUE\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.28740110800004",
-        "longitude": "-76.55023201999995",
-        "needs_recoding": false
+        "coordinates": [
+            -76.554292,
+            39.287155
+        ],
+        "type": "Point"
     },
+    "location_address": "4940 EASTERN AVENUE",
+    "location_city": "BALTIMORE",
+    "location_state": "MD",
+    "location_zip": "21224",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hopkinshospital.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4105500123"
-    },
+    "phone_number": "4105500123",
     "provider_id": "210029",
     "raw_ratings": {},
     "state": "MD",

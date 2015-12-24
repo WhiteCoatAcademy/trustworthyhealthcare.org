@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"333 LAIDLEY ST\",\"city\":\"CHARLESTON\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "38.353317136000044",
-        "longitude": "-81.63288109399997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.632523,
+            38.353391
+        ],
+        "type": "Point"
     },
+    "location_address": "333 LAIDLEY ST",
+    "location_city": "CHARLESTON",
+    "location_state": "WV",
+    "location_zip": "25301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.thomaswv.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3043476500"
-    },
+    "phone_number": "3043476500",
     "provider_id": "510031",
     "raw_ratings": {},
     "state": "WV",

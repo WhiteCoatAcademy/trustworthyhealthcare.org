@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1141 HOSPITAL DR NW\",\"city\":\"CORYDON\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "38.238958773000036",
-        "longitude": "-86.14782135099995",
-        "needs_recoding": false
+        "coordinates": [
+            -86.14774,
+            38.23898
+        ],
+        "type": "Point"
     },
+    "location_address": "1141 HOSPITAL DR NW",
+    "location_city": "CORYDON",
+    "location_state": "IN",
+    "location_zip": "47112",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8127384251"
-    },
+    "phone_number": "8127384251",
     "provider_id": "151331",
     "raw_ratings": {},
     "state": "IN",

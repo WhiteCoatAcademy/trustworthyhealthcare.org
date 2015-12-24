@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Childrens",
     "location": {
-        "human_address": "{\"address\":\"3901 BEAUBIEN\",\"city\":\"DETROIT\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.35183182500003",
-        "longitude": "-83.05380704399994",
-        "needs_recoding": false
+        "coordinates": [
+            -83.05375,
+            42.351816
+        ],
+        "type": "Point"
     },
+    "location_address": "3901 BEAUBIEN",
+    "location_city": "DETROIT",
+    "location_state": "MI",
+    "location_zip": "48201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.dmc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3137455437"
-    },
+    "phone_number": "3137455437",
     "provider_id": "233300",
     "raw_ratings": {},
     "state": "MI",

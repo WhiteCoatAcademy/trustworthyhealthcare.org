@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1101 MICHIGAN AVE\",\"city\":\"LOGANSPORT\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.76333759700003",
-        "longitude": "-86.36074869099997",
-        "needs_recoding": false
+        "coordinates": [
+            -86.360941,
+            40.762965
+        ],
+        "type": "Point"
     },
+    "location_address": "1101 MICHIGAN AVE",
+    "location_city": "LOGANSPORT",
+    "location_state": "IN",
+    "location_zip": "46947",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5747537541"
-    },
+    "phone_number": "5747537541",
     "provider_id": "150072",
     "raw_ratings": {},
     "state": "IN",

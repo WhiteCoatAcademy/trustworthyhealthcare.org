@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"414 NAVARRO, SUITE 600\",\"city\":\"SAN ANTONIO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.425126634000037",
-        "longitude": "-98.48965736099996",
-        "needs_recoding": false
+        "coordinates": [
+            -98.489706,
+            29.425383
+        ],
+        "type": "Point"
     },
+    "location_address": "414 NAVARRO, SUITE 600",
+    "location_city": "SAN ANTONIO",
+    "location_state": "TX",
+    "location_zip": "78205",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.merithealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2102712188"
-    },
+    "phone_number": "2102712188",
     "provider_id": "450130",
     "raw_ratings": {},
     "state": "TX",

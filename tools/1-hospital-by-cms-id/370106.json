@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4401 SOUTH WESTERN AVENUE\",\"city\":\"OKLAHOMA CITY\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.51625066300005",
-        "longitude": "-97.52986471999998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.530211,
+            35.421153
+        ],
+        "type": "Point"
     },
+    "location_address": "4401 SOUTH WESTERN AVENUE",
+    "location_city": "OKLAHOMA CITY",
+    "location_state": "OK",
+    "location_zip": "73109",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.integris-health.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4056367000"
-    },
+    "phone_number": "4056367000",
     "provider_id": "370106",
     "raw_ratings": {},
     "state": "OK",

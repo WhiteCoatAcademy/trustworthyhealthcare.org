@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1100 CARSON AVENUE\",\"city\":\"LA JUNTA\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "37.977581833000045",
-        "longitude": "-103.54878314299998",
-        "needs_recoding": false
+        "coordinates": [
+            -103.548741,
+            37.976639
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 CARSON AVENUE",
+    "location_city": "LA JUNTA",
+    "location_state": "CO",
+    "location_zip": "81050",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7193836000"
-    },
+    "phone_number": "7193836000",
     "provider_id": "060036",
     "raw_ratings": {},
     "state": "CO",

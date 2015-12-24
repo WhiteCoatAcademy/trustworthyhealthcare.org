@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2005 5TH STREET\",\"city\":\"MONROE\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "42.607848784000055",
-        "longitude": "-89.63481316999997",
-        "needs_recoding": false
+        "coordinates": [
+            -89.634313,
+            42.607799
+        ],
+        "type": "Point"
     },
+    "location_address": "2005 5TH STREET",
+    "location_city": "MONROE",
+    "location_state": "WI",
+    "location_zip": "53566",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6083241000"
-    },
+    "phone_number": "6083241000",
     "provider_id": "520028",
     "raw_ratings": {},
     "state": "WI",

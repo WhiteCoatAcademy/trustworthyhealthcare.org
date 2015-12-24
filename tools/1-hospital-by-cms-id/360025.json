@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1111 HAYES AVENUE\",\"city\":\"SANDUSKY\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.446238967000056",
-        "longitude": "-82.70880231899997",
-        "needs_recoding": false
+        "coordinates": [
+            -82.7087,
+            41.446362
+        ],
+        "type": "Point"
     },
+    "location_address": "1111 HAYES AVENUE",
+    "location_city": "SANDUSKY",
+    "location_state": "OH",
+    "location_zip": "44870",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4195577400"
-    },
+    "phone_number": "4195577400",
     "provider_id": "360025",
     "raw_ratings": {},
     "state": "OH",

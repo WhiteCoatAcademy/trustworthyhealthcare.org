@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"12601 GARDEN GROVE BLVD\",\"city\":\"GARDEN GROVE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.77450756200005",
-        "longitude": "-117.91302943999995",
-        "needs_recoding": false
+        "coordinates": [
+            -117.913687,
+            33.774471
+        ],
+        "type": "Point"
     },
+    "location_address": "12601 GARDEN GROVE BLVD",
+    "location_city": "GARDEN GROVE",
+    "location_state": "CA",
+    "location_zip": "92843",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.primehealthcareservices.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7145375160"
-    },
+    "phone_number": "7145375160",
     "provider_id": "050230",
     "raw_ratings": {},
     "state": "CA",

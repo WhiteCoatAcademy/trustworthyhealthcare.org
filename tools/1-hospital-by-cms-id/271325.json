@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"107 6TH AVE SW\",\"city\":\"RONAN\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "47.52841985400005",
-        "longitude": "-114.10629016499996",
-        "needs_recoding": false
+        "coordinates": [
+            -114.106257,
+            47.528202
+        ],
+        "type": "Point"
     },
+    "location_address": "107 6TH AVE SW",
+    "location_city": "RONAN",
+    "location_state": "MT",
+    "location_zip": "59864",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4066764441"
-    },
+    "phone_number": "4066764441",
     "provider_id": "271325",
     "raw_ratings": {},
     "state": "MT",

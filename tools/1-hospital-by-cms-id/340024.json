@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"607 BEAMAN ST\",\"city\":\"CLINTON\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.00590850400005",
-        "longitude": "-78.32296079899999",
-        "needs_recoding": false
+        "coordinates": [
+            -78.323547,
+            35.007552
+        ],
+        "type": "Point"
     },
+    "location_address": "607 BEAMAN ST",
+    "location_city": "CLINTON",
+    "location_state": "NC",
+    "location_zip": "28328",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9105928511"
-    },
+    "phone_number": "9105928511",
     "provider_id": "340024",
     "raw_ratings": {},
     "state": "NC",

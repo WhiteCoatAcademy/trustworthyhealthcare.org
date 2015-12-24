@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9395 CROWN CREST BLVD\",\"city\":\"PARKER\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.54955851700004",
-        "longitude": "-104.76922405699997",
-        "needs_recoding": false
+        "coordinates": [
+            -104.769813,
+            39.549745
+        ],
+        "type": "Point"
     },
+    "location_address": "9395 CROWN CREST BLVD",
+    "location_city": "PARKER",
+    "location_state": "CO",
+    "location_zip": "80138",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.centura.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3032694000"
-    },
+    "phone_number": "3032694000",
     "provider_id": "060114",
     "raw_ratings": {},
     "state": "CO",

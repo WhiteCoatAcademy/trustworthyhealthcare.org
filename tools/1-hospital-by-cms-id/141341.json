@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"101 E NINTH STREET\",\"city\":\"PANA\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "39.380262953000056",
-        "longitude": "-89.08423474499995",
-        "needs_recoding": false
+        "coordinates": [
+            -89.084161,
+            39.380287
+        ],
+        "type": "Point"
     },
+    "location_address": "101 E NINTH STREET",
+    "location_city": "PANA",
+    "location_state": "IL",
+    "location_zip": "62557",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2175622131"
-    },
+    "phone_number": "2175622131",
     "provider_id": "141341",
     "raw_ratings": {},
     "state": "IL",

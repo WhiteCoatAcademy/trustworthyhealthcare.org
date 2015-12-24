@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3300 OAKDALE NORTH\",\"city\":\"ROBBINSDALE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.014592048000054",
-        "longitude": "-93.32241403799998",
-        "needs_recoding": false
+        "coordinates": [
+            -93.321172,
+            45.014214
+        ],
+        "type": "Point"
     },
+    "location_address": "3300 OAKDALE NORTH",
+    "location_city": "ROBBINSDALE",
+    "location_state": "MN",
+    "location_zip": "55422",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7635205200"
-    },
+    "phone_number": "7635205200",
     "provider_id": "240001",
     "raw_ratings": {},
     "state": "MN",

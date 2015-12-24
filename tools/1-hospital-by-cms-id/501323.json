@@ -4,15 +4,20 @@
     "county_name": "JEFFERSON",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "JEFFERSON HEALTHCARE HOSPITAL",
+    "hospital_name": "JEFFERSON HEALTHCARE",
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"834 SHERIDAN STREET\",\"city\":\"PORT TOWNSEND\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "48.10556123400005",
-        "longitude": "-122.79027756899995",
-        "needs_recoding": false
+        "coordinates": [
+            -122.790284,
+            48.105502
+        ],
+        "type": "Point"
     },
+    "location_address": "834 SHERIDAN STREET",
+    "location_city": "PORT TOWNSEND",
+    "location_state": "WA",
+    "location_zip": "98368",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3603852200"
-    },
+    "phone_number": "3603852200",
     "provider_id": "501323",
     "raw_ratings": {},
     "state": "WA",

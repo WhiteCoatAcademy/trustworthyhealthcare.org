@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2500 ROCKY MOUNTAIN AVENUE\",\"city\":\"LOVELAND\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "40.415592805000074",
-        "longitude": "-105.00110459199999",
-        "needs_recoding": false
+        "coordinates": [
+            -105.001661,
+            40.414889
+        ],
+        "type": "Point"
     },
+    "location_address": "2500 ROCKY MOUNTAIN AVENUE",
+    "location_city": "LOVELAND",
+    "location_state": "CO",
+    "location_zip": "80538",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.pvhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9706242500"
-    },
+    "phone_number": "9706242500",
     "provider_id": "060119",
     "raw_ratings": {},
     "state": "CO",

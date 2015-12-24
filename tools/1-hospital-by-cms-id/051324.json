@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"150 PIONEER LANE\",\"city\":\"BISHOP\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.36212892700007",
-        "longitude": "-118.40732492199999",
-        "needs_recoding": false
+        "coordinates": [
+            -118.407362,
+            37.361601
+        ],
+        "type": "Point"
     },
+    "location_address": "150 PIONEER LANE",
+    "location_city": "BISHOP",
+    "location_state": "CA",
+    "location_zip": "93514",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7608735811"
-    },
+    "phone_number": "7608735811",
     "provider_id": "051324",
     "raw_ratings": {},
     "state": "CA",

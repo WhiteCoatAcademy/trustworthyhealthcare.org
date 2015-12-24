@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6511 SPRINGBROOK AVENUE\",\"city\":\"RHINEBECK\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "41.93414478100004",
-        "longitude": "-73.91238661899996",
-        "needs_recoding": false
+        "coordinates": [
+            -73.911571,
+            41.934723
+        ],
+        "type": "Point"
     },
+    "location_address": "6511 SPRINGBROOK AVENUE",
+    "location_city": "RHINEBECK",
+    "location_state": "NY",
+    "location_zip": "12572",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health-quest.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8458713391"
-    },
+    "phone_number": "8458713391",
     "provider_id": "330049",
     "raw_ratings": {},
     "state": "NY",

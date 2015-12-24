@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6071 W OUTER DRIVE\",\"city\":\"DETROIT\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.42005151800004",
-        "longitude": "-83.18307001799997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.182379,
+            42.420085
+        ],
+        "type": "Point"
     },
+    "location_address": "6071 W OUTER DRIVE",
+    "location_city": "DETROIT",
+    "location_state": "MI",
+    "location_zip": "48235",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.dmc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3139663300"
-    },
+    "phone_number": "3139663300",
     "provider_id": "230024",
     "raw_ratings": {},
     "state": "MI",

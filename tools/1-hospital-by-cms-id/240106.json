@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"640 JACKSON STREET\",\"city\":\"SAINT PAUL\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.955021963000036",
-        "longitude": "-93.09590849399996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.09516,
+            44.954193
+        ],
+        "type": "Point"
     },
+    "location_address": "640 JACKSON STREET",
+    "location_city": "SAINT PAUL",
+    "location_state": "MN",
+    "location_zip": "55101",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.healthpartners.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6512540975"
-    },
+    "phone_number": "6512543456",
     "provider_id": "240106",
     "raw_ratings": {},
     "state": "MN",

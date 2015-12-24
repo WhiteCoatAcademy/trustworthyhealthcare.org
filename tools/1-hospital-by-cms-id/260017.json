@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 W 10TH ST\",\"city\":\"ROLLA\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "37.951451002000056",
-        "longitude": "-91.78392372499997",
-        "needs_recoding": false
+        "coordinates": [
+            -91.784993,
+            37.951442
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 W 10TH ST",
+    "location_city": "ROLLA",
+    "location_state": "MO",
+    "location_zip": "65401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5734588899"
-    },
+    "phone_number": "5734588899",
     "provider_id": "260017",
     "raw_ratings": {},
     "state": "MO",

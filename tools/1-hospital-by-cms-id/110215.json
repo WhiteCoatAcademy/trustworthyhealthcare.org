@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1255 HIGHWAY 54 WEST\",\"city\":\"FAYETTEVILLE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.451039507000075",
-        "longitude": "-84.50697213699993",
-        "needs_recoding": false
+        "coordinates": [
+            -84.506963,
+            33.451002
+        ],
+        "type": "Point"
     },
+    "location_address": "1255 HIGHWAY 54 WEST",
+    "location_city": "FAYETTEVILLE",
+    "location_state": "GA",
+    "location_zip": "30214",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.piedmont.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7707197071"
-    },
+    "phone_number": "7707197071",
     "provider_id": "110215",
     "raw_ratings": {},
     "state": "GA",

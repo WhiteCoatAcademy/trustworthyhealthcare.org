@@ -4,15 +4,20 @@
     "county_name": "CADDO",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "PHYSICIANS' HOSPITAL IN ANADARKO",
-    "hospital_ownership": "Proprietary",
+    "hospital_name": "THE PHYSICIANS' HOSPITAL IN ANADARKO",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1002 EAST CENTRAL BOULEVARD\",\"city\":\"ANADARKO\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.072273395000025",
-        "longitude": "-98.23005623199998",
-        "needs_recoding": false
+        "coordinates": [
+            -98.228016,
+            35.07227
+        ],
+        "type": "Point"
     },
+    "location_address": "1002 EAST CENTRAL BOULEVARD",
+    "location_city": "ANADARKO",
+    "location_state": "OK",
+    "location_zip": "73005",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4052472551"
-    },
+    "phone_number": "4052472551",
     "provider_id": "371314",
     "raw_ratings": {},
     "state": "OK",

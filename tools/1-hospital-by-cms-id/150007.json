@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3500 S LAFOUNTAIN ST\",\"city\":\"KOKOMO\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.44688068100004",
-        "longitude": "-86.12707400499994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.127103,
+            40.446835
+        ],
+        "type": "Point"
     },
+    "location_address": "3500 S LAFOUNTAIN ST",
+    "location_city": "KOKOMO",
+    "location_state": "IN",
+    "location_zip": "46902",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7654538371"
-    },
+    "phone_number": "7654538547",
     "provider_id": "150007",
     "raw_ratings": {},
     "state": "IN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1067 PEACHTREE ST\",\"city\":\"LOUISVILLE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.00865704100005",
-        "longitude": "-82.40265572999994",
-        "needs_recoding": false
+        "coordinates": [
+            -82.404349,
+            33.010363
+        ],
+        "type": "Point"
     },
+    "location_address": "1067 PEACHTREE ST",
+    "location_city": "LOUISVILLE",
+    "location_state": "GA",
+    "location_zip": "30434",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4786257000"
-    },
+    "phone_number": "4786257000",
     "provider_id": "110100",
     "raw_ratings": {},
     "state": "GA",

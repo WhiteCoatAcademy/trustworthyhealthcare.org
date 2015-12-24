@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11113 RESEARCH BOULEVARD\",\"city\":\"AUSTIN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.40625760900008",
-        "longitude": "-97.74484939499996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.745018,
+            30.404743
+        ],
+        "type": "Point"
     },
+    "location_address": "11113 RESEARCH BOULEVARD",
+    "location_city": "AUSTIN",
+    "location_state": "TX",
+    "location_zip": "78759",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5123246000"
-    },
+    "phone_number": "5123246000",
     "provider_id": "450867",
     "raw_ratings": {},
     "state": "TX",

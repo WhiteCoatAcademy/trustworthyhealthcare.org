@@ -4,15 +4,20 @@
     "county_name": "MONROE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MERCY MEMORIAL HOSPITAL SYSTEM",
+    "hospital_name": "PROMEDICA MONROE REGIONAL HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"718 N MACOMB ST\",\"city\":\"MONROE\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "41.92516806900005",
-        "longitude": "-83.38892526299998",
-        "needs_recoding": false
+        "coordinates": [
+            -83.388455,
+            41.926279
+        ],
+        "type": "Point"
     },
+    "location_address": "718 N MACOMB ST",
+    "location_city": "MONROE",
+    "location_state": "MI",
+    "location_zip": "48162",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7342408400"
-    },
+    "phone_number": "7342408400",
     "provider_id": "230099",
     "raw_ratings": {},
     "state": "MI",

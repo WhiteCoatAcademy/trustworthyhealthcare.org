@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1133 W SYCAMORE ST\",\"city\":\"WILLOWS\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "39.52048758400008",
-        "longitude": "-122.20811957599994",
-        "needs_recoding": false
+        "coordinates": [
+            -122.20812,
+            39.520467
+        ],
+        "type": "Point"
     },
+    "location_address": "1133 W SYCAMORE ST",
+    "location_city": "WILLOWS",
+    "location_state": "CA",
+    "location_zip": "95988",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5309341818"
-    },
+    "phone_number": "5309341818",
     "provider_id": "051306",
     "raw_ratings": {},
     "state": "CA",

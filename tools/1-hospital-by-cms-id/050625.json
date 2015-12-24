@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8700 BEVERLY BLVD\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.076813306000076",
-        "longitude": "-118.38055971999995",
-        "needs_recoding": false
+        "coordinates": [
+            -118.380053,
+            34.076776
+        ],
+        "type": "Point"
     },
+    "location_address": "8700 BEVERLY BLVD",
+    "location_city": "LOS ANGELES",
+    "location_state": "CA",
+    "location_zip": "90048",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3104235000"
-    },
+    "phone_number": "3104235000",
     "provider_id": "050625",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3615 19TH STREET\",\"city\":\"LUBBOCK\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.57787297500005",
-        "longitude": "-101.89255001099997",
-        "needs_recoding": false
+        "coordinates": [
+            -101.892357,
+            33.577867
+        ],
+        "type": "Point"
     },
+    "location_address": "3615 19TH STREET",
+    "location_city": "LUBBOCK",
+    "location_state": "TX",
+    "location_zip": "79410",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.stjhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8067256000"
-    },
+    "phone_number": "8067256000",
     "provider_id": "450040",
     "raw_ratings": {},
     "state": "TX",

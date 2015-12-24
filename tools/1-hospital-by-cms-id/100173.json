@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3100 E FLETCHER AVE\",\"city\":\"TAMPA\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.06923765700003",
-        "longitude": "-82.42365983999997",
-        "needs_recoding": false
+        "coordinates": [
+            -82.424525,
+            28.069226
+        ],
+        "type": "Point"
     },
+    "location_address": "3100 E FLETCHER AVE",
+    "location_city": "TAMPA",
+    "location_state": "FL",
+    "location_zip": "33613",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uch.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8136157200"
-    },
+    "phone_number": "8136157200",
     "provider_id": "100173",
     "raw_ratings": {},
     "state": "FL",

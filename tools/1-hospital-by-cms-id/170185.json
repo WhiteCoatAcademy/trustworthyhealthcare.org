@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"12300 METCALF AVENUE\",\"city\":\"OVERLAND PARK\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.905000861000076",
-        "longitude": "-94.66791587299997",
-        "needs_recoding": false
+        "coordinates": [
+            -94.667868,
+            38.903916
+        ],
+        "type": "Point"
     },
+    "location_address": "12300 METCALF AVENUE",
+    "location_city": "OVERLAND PARK",
+    "location_state": "KS",
+    "location_zip": "66213",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.saintlukeshealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9133177904"
-    },
+    "phone_number": "9133177904",
     "provider_id": "170185",
     "raw_ratings": {},
     "state": "KS",

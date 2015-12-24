@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "SHARON REGIONAL HEALTH SYSTEM",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"740 EAST STATE STREET\",\"city\":\"SHARON\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "41.232983483000055",
-        "longitude": "-80.49593576999996",
-        "needs_recoding": false
+        "coordinates": [
+            -80.495487,
+            41.233009
+        ],
+        "type": "Point"
     },
+    "location_address": "740 EAST STATE STREET",
+    "location_city": "SHARON",
+    "location_state": "PA",
+    "location_zip": "16146",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7249833800"
-    },
+    "phone_number": "7249833800",
     "provider_id": "390211",
     "raw_ratings": {},
     "state": "PA",

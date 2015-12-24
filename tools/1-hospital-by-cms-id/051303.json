@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"85 SIERRA PARK ROAD PO BOX 660\",\"city\":\"MAMMOTH LAKES\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.64384243200004",
-        "longitude": "-118.963924067",
-        "needs_recoding": false
+        "coordinates": [
+            -118.963926,
+            37.644301
+        ],
+        "type": "Point"
     },
+    "location_address": "85 SIERRA PARK ROAD PO BOX 660",
+    "location_city": "MAMMOTH LAKES",
+    "location_state": "CA",
+    "location_zip": "93546",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7609343311"
-    },
+    "phone_number": "7609343311",
     "provider_id": "051303",
     "raw_ratings": {},
     "state": "CA",

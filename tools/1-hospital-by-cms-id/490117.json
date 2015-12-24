@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"141 BEN BOLT AVENUE\",\"city\":\"TAZEWELL\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.12582690600004",
-        "longitude": "-81.48999065599997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.489825,
+            37.125922
+        ],
+        "type": "Point"
     },
+    "location_address": "141 BEN BOLT AVENUE",
+    "location_city": "TAZEWELL",
+    "location_state": "VA",
+    "location_zip": "24651",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.carilion.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2769888700"
-    },
+    "phone_number": "2769888700",
     "provider_id": "490117",
     "raw_ratings": {},
     "state": "VA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2420 LAKE AVENUE\",\"city\":\"ASHTABULA\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.88040452800004",
-        "longitude": "-80.79603181699997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.796588,
+            41.880817
+        ],
+        "type": "Point"
     },
+    "location_address": "2420 LAKE AVENUE",
+    "location_city": "ASHTABULA",
+    "location_state": "OH",
+    "location_zip": "44004",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "my.clevelandclinic.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4409972262"
-    },
+    "phone_number": "4409972262",
     "provider_id": "360125",
     "raw_ratings": {},
     "state": "OH",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"890 OAK STREET, SE\",\"city\":\"SALEM\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "44.93304449200008",
-        "longitude": "-123.03388735899995",
-        "needs_recoding": false
+        "coordinates": [
+            -123.033478,
+            44.933016
+        ],
+        "type": "Point"
     },
+    "location_address": "890 OAK STREET, SE",
+    "location_city": "SALEM",
+    "location_state": "OR",
+    "location_zip": "97301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.salemhospital.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5035615200"
-    },
+    "phone_number": "5035615200",
     "provider_id": "380051",
     "raw_ratings": {},
     "state": "OR",

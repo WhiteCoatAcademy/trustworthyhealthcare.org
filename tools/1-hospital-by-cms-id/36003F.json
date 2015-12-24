@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"3200 VINE STREET\",\"city\":\"CINCINNATI\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.138136280000026",
-        "longitude": "-84.50948581299997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.509485,
+            39.137762
+        ],
+        "type": "Point"
     },
+    "location_address": "3200 VINE STREET",
+    "location_city": "CINCINNATI",
+    "location_state": "OH",
+    "location_zip": "45220",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "5138613100"
-    },
+    "phone_number": "5138613100",
     "provider_id": "36003F",
     "raw_ratings": {},
     "state": "OH",

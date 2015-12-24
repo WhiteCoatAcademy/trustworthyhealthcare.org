@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 SOUTH CEDAR CREST BOULVARD\",\"city\":\"ALLENTOWN\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.56671957800006",
-        "longitude": "-75.51862766299996",
-        "needs_recoding": false
+        "coordinates": [
+            -75.43604,
+            40.622901
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 SOUTH CEDAR CREST BOULVARD",
+    "location_city": "ALLENTOWN",
+    "location_state": "PA",
+    "location_zip": "18105",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lvh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6104022273"
-    },
+    "phone_number": "6104022273",
     "provider_id": "390133",
     "raw_ratings": {},
     "state": "PA",

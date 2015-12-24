@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"301 MEMORIAL MEDICAL PARKWAY\",\"city\":\"DAYTONA BEACH\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "29.242675044000066",
-        "longitude": "-81.10923813599999",
-        "needs_recoding": false
+        "coordinates": [
+            -81.1093,
+            29.24275
+        ],
+        "type": "Point"
     },
+    "location_address": "301 MEMORIAL MEDICAL PARKWAY",
+    "location_city": "DAYTONA BEACH",
+    "location_state": "FL",
+    "location_zip": "32117",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3866766000"
-    },
+    "phone_number": "3866766000",
     "provider_id": "100068",
     "raw_ratings": {},
     "state": "FL",

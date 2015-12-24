@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4620 EAST BASELINE ROAD\",\"city\":\"MESA\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.379257616000075",
-        "longitude": "-111.73466027599994",
-        "needs_recoding": false
+        "coordinates": [
+            -111.734905,
+            33.379207
+        ],
+        "type": "Point"
     },
+    "location_address": "4620 EAST BASELINE ROAD",
+    "location_city": "MESA",
+    "location_state": "AZ",
+    "location_zip": "85206",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4808324770"
-    },
+    "phone_number": "4808324770",
     "provider_id": "030107",
     "raw_ratings": {},
     "state": "AZ",

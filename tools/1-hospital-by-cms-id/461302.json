@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"450 WEST WILLIAMS WAY\",\"city\":\"MOAB\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "38.57432819300004",
-        "longitude": "-109.56012378099996",
-        "needs_recoding": false
+        "coordinates": [
+            -109.560198,
+            38.574296
+        ],
+        "type": "Point"
     },
+    "location_address": "450 WEST WILLIAMS WAY",
+    "location_city": "MOAB",
+    "location_state": "UT",
+    "location_zip": "84532",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4357193501"
-    },
+    "phone_number": "4357193501",
     "provider_id": "461302",
     "raw_ratings": {},
     "state": "UT",

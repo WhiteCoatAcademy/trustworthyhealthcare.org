@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"201 - 16TH AVENUE EAST\",\"city\":\"SEATTLE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.61985226400003",
-        "longitude": "-122.31144007699999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.311413,
+            47.619731
+        ],
+        "type": "Point"
     },
+    "location_address": "201 - 16TH AVENUE EAST",
+    "location_city": "SEATTLE",
+    "location_state": "WA",
+    "location_zip": "98112",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2063263000"
-    },
+    "phone_number": "2063263000",
     "provider_id": "500052",
     "raw_ratings": {},
     "state": "WA",

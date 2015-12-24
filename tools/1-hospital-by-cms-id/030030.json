@@ -4,15 +4,20 @@
     "county_name": "MARICOPA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "PHOENIX BAPTIST HOSPITAL",
+    "hospital_name": "ABRAZO CENTRAL CAMPUS",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2000 WEST BETHANY HOME ROAD\",\"city\":\"PHOENIX\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.524169474000075",
-        "longitude": "-112.10224547099995",
-        "needs_recoding": false
+        "coordinates": [
+            -112.101934,
+            33.524116
+        ],
+        "type": "Point"
     },
+    "location_address": "2000 WEST BETHANY HOME ROAD",
+    "location_city": "PHOENIX",
+    "location_state": "AZ",
+    "location_zip": "85015",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.vanguardhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6022490212"
-    },
+    "phone_number": "6022490212",
     "provider_id": "030030",
     "raw_ratings": {},
     "state": "AZ",

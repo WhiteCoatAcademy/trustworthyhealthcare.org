@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"15615 POMERADO ROAD\",\"city\":\"POWAY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "32.99582303400007",
-        "longitude": "-117.05791226799994",
-        "needs_recoding": false
+        "coordinates": [
+            -117.057855,
+            32.996719
+        ],
+        "type": "Point"
     },
+    "location_address": "15615 POMERADO ROAD",
+    "location_city": "POWAY",
+    "location_state": "CA",
+    "location_zip": "92064",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.pphs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8584856511"
-    },
+    "phone_number": "8584856511",
     "provider_id": "050636",
     "raw_ratings": {},
     "state": "CA",

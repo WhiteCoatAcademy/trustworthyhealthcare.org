@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1740 WEST TAYLOR ST SUITE 1400\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.86921266400003",
-        "longitude": "-87.67043989099994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.670687,
+            41.869222
+        ],
+        "type": "Point"
     },
+    "location_address": "1740 WEST TAYLOR ST SUITE 1400",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60612",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3129963900"
-    },
+    "phone_number": "3129963900",
     "provider_id": "140150",
     "raw_ratings": {},
     "state": "IL",

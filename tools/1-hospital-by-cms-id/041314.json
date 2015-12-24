@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1641 WHITEHEAD DRIVE\",\"city\":\"DE WITT\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "34.27913497800006",
-        "longitude": "-91.33756226399998",
-        "needs_recoding": false
+        "coordinates": [
+            -91.336798,
+            34.27966
+        ],
+        "type": "Point"
     },
+    "location_address": "1641 WHITEHEAD DRIVE",
+    "location_city": "DE WITT",
+    "location_state": "AR",
+    "location_zip": "72042",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8709463571"
-    },
+    "phone_number": "8709463571",
     "provider_id": "041314",
     "raw_ratings": {},
     "state": "AR",

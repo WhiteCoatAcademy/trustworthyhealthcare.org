@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"330 BROADWAY EAST\",\"city\":\"CUYAHOGA FALLS\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.13354263000008",
-        "longitude": "-81.47756975799996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.477126,
+            41.133594
+        ],
+        "type": "Point"
     },
+    "location_address": "330 BROADWAY EAST",
+    "location_city": "CUYAHOGA FALLS",
+    "location_state": "OH",
+    "location_zip": "44221",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.akrongeneral.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3304360910"
-    },
+    "phone_number": "3304360910",
     "provider_id": "360241",
     "raw_ratings": {},
     "state": "OH",

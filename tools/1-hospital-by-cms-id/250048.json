@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"969 LAKELAND DR\",\"city\":\"JACKSON\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.33367364000003",
-        "longitude": "-90.16482043399998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.165147,
+            32.33369
+        ],
+        "type": "Point"
     },
+    "location_address": "969 LAKELAND DR",
+    "location_city": "JACKSON",
+    "location_state": "MS",
+    "location_zip": "39216",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6012002000"
-    },
+    "phone_number": "6012002000",
     "provider_id": "250048",
     "raw_ratings": {},
     "state": "MS",

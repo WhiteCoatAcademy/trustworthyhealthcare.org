@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7600 RIVER RD\",\"city\":\"NORTH BERGEN\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.79342482800007",
-        "longitude": "-73.99749190599994",
-        "needs_recoding": false
+        "coordinates": [
+            -73.997412,
+            40.793709
+        ],
+        "type": "Point"
     },
+    "location_address": "7600 RIVER RD",
+    "location_city": "NORTH BERGEN",
+    "location_state": "NJ",
+    "location_zip": "07047",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nypsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2018545000"
-    },
+    "phone_number": "2018545000",
     "provider_id": "310003",
     "raw_ratings": {},
     "state": "NJ",

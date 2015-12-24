@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"301 SAINT PAUL PLACE\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.29255356600004",
-        "longitude": "-76.61351500599994",
-        "needs_recoding": false
+        "coordinates": [
+            -76.61355,
+            39.29255
+        ],
+        "type": "Point"
     },
+    "location_address": "301 SAINT PAUL PLACE",
+    "location_city": "BALTIMORE",
+    "location_state": "MD",
+    "location_zip": "21202",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4103329237"
-    },
+    "phone_number": "4103329237",
     "provider_id": "210008",
     "raw_ratings": {},
     "state": "MD",

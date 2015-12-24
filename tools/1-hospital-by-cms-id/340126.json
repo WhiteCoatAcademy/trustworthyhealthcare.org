@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1705 S TARBORO ST\",\"city\":\"WILSON\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.72060496000006",
-        "longitude": "-77.94367024999997",
-        "needs_recoding": false
+        "coordinates": [
+            -77.944098,
+            35.720506
+        ],
+        "type": "Point"
     },
+    "location_address": "1705 S TARBORO ST",
+    "location_city": "WILSON",
+    "location_state": "NC",
+    "location_zip": "27893",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2523998040"
-    },
+    "phone_number": "2523998040",
     "provider_id": "340126",
     "raw_ratings": {},
     "state": "NC",

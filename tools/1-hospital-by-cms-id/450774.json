@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"17080 RED OAK DRIVE\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.017988186000025",
-        "longitude": "-95.44439595399996",
-        "needs_recoding": false
+        "coordinates": [
+            -95.444605,
+            30.018255
+        ],
+        "type": "Point"
     },
+    "location_address": "17080 RED OAK DRIVE",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77090",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2815392900"
-    },
+    "phone_number": "2815392900",
     "provider_id": "450774",
     "raw_ratings": {},
     "state": "TX",

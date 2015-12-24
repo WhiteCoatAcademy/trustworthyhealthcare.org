@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4321 FIR ST\",\"city\":\"EAST CHICAGO\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.63436470500005",
-        "longitude": "-87.44837136399997",
-        "needs_recoding": false
+        "coordinates": [
+            -87.448546,
+            41.633793
+        ],
+        "type": "Point"
     },
+    "location_address": "4321 FIR ST",
+    "location_city": "EAST CHICAGO",
+    "location_state": "IN",
+    "location_zip": "46312",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.comhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2193927004"
-    },
+    "phone_number": "2193927004",
     "provider_id": "150008",
     "raw_ratings": {},
     "state": "IN",

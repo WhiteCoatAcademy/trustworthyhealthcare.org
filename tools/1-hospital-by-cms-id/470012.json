@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 HOSPITAL DRIVE\",\"city\":\"BENNINGTON\",\"state\":\"VT\",\"zip\":\"\"}",
-        "latitude": "42.87354585400004",
-        "longitude": "-73.20756008699993",
-        "needs_recoding": false
+        "coordinates": [
+            -73.206746,
+            42.873404
+        ],
+        "type": "Point"
     },
+    "location_address": "100 HOSPITAL DRIVE",
+    "location_city": "BENNINGTON",
+    "location_state": "VT",
+    "location_zip": "05201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8024426361"
-    },
+    "phone_number": "8024426361",
     "provider_id": "470012",
     "raw_ratings": {},
     "state": "VT",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"135 EAST 38TH STREET\",\"city\":\"ERIE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "42.103362993000076",
-        "longitude": "-80.06366108399999",
-        "needs_recoding": false
+        "coordinates": [
+            -80.064715,
+            42.102954
+        ],
+        "type": "Point"
     },
+    "location_address": "135 EAST 38TH STREET",
+    "location_city": "ERIE",
+    "location_state": "PA",
+    "location_zip": "16504",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "8148602576"
-    },
+    "phone_number": "8148602576",
     "provider_id": "39005F",
     "raw_ratings": {},
     "state": "PA",

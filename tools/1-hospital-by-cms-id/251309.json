@@ -1,5 +1,5 @@
 {
-    "address": "270 WEST MAIN STREET P O BOX 639",
+    "address": "178 HIGHWAY 24",
     "city": "CENTREVILLE",
     "county_name": "WILKINSON",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"270 WEST MAIN STREET P O BOX 639\",\"city\":\"CENTREVILLE\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "31.090062943000078",
-        "longitude": "-91.06818740399996",
-        "needs_recoding": false
+        "coordinates": [
+            -91.064099,
+            31.077727
+        ],
+        "type": "Point"
     },
+    "location_address": "178 HIGHWAY 24",
+    "location_city": "CENTREVILLE",
+    "location_state": "MS",
+    "location_zip": "39631",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6016455221"
-    },
+    "phone_number": "6016455221",
     "provider_id": "251309",
     "raw_ratings": {},
     "state": "MS",

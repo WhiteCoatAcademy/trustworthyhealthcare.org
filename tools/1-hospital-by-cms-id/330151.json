@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"411 CANISTEO STREET\",\"city\":\"HORNELL\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.314246697000044",
-        "longitude": "-77.66012335999994",
-        "needs_recoding": false
+        "coordinates": [
+            -77.659856,
+            42.313509
+        ],
+        "type": "Point"
     },
+    "location_address": "411 CANISTEO STREET",
+    "location_city": "HORNELL",
+    "location_state": "NY",
+    "location_zip": "14843",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.che.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6073248000"
-    },
+    "phone_number": "6073248000",
     "provider_id": "330151",
     "raw_ratings": {},
     "state": "NY",

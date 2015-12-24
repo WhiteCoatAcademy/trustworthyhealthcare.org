@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1068 WEST BALTIMORE PIKE\",\"city\":\"MEDIA\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.91424302100006",
-        "longitude": "-75.43077722999999",
-        "needs_recoding": false
+        "coordinates": [
+            -75.427934,
+            39.914616
+        ],
+        "type": "Point"
     },
+    "location_address": "1068 WEST BALTIMORE PIKE",
+    "location_city": "MEDIA",
+    "location_state": "PA",
+    "location_zip": "19063",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.jeffersonhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6105669400"
-    },
+    "phone_number": "6105669400",
     "provider_id": "390222",
     "raw_ratings": {},
     "state": "PA",

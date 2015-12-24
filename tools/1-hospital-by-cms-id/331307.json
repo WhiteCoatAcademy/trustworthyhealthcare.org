@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1014 OSWEGATCHIE TRAIL\",\"city\":\"STAR LAKE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "44.16248483500004",
-        "longitude": "-75.05541681999995",
-        "needs_recoding": false
+        "coordinates": [
+            -75.055678,
+            44.162697
+        ],
+        "type": "Point"
     },
+    "location_address": "1014 OSWEGATCHIE TRAIL",
+    "location_city": "STAR LAKE",
+    "location_state": "NY",
+    "location_zip": "13690",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3158483351"
-    },
+    "phone_number": "3158483351",
     "provider_id": "331307",
     "raw_ratings": {},
     "state": "NY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3249 SOUTH OAK PARK AVENUE\",\"city\":\"BERWYN\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.83226333300007",
-        "longitude": "-87.79274714399997",
-        "needs_recoding": false
+        "coordinates": [
+            -87.792808,
+            41.832573
+        ],
+        "type": "Point"
     },
+    "location_address": "3249 SOUTH OAK PARK AVENUE",
+    "location_city": "BERWYN",
+    "location_state": "IL",
+    "location_zip": "60402",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.vanguardhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7087839100"
-    },
+    "phone_number": "7087839100",
     "provider_id": "140054",
     "raw_ratings": {},
     "state": "IL",

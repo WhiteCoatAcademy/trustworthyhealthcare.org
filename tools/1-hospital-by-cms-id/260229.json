@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 HWY 21 N\",\"city\":\"ELLINGTON\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "37.20850230900004",
-        "longitude": "-90.95012480699995",
-        "needs_recoding": false
+        "coordinates": [
+            -90.772451,
+            37.765812
+        ],
+        "type": "Point"
     },
+    "location_address": "100 HWY 21 N",
+    "location_city": "ELLINGTON",
+    "location_state": "MO",
+    "location_zip": "63638",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5733344822"
-    },
+    "phone_number": "5733344822",
     "provider_id": "260229",
     "raw_ratings": {},
     "state": "MO",

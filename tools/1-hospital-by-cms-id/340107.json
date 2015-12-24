@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 HOSPITAL DR\",\"city\":\"TARBORO\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.92211312500007",
-        "longitude": "-77.55678442199996",
-        "needs_recoding": false
+        "coordinates": [
+            -77.557159,
+            35.92162
+        ],
+        "type": "Point"
     },
+    "location_address": "111 HOSPITAL DR",
+    "location_city": "TARBORO",
+    "location_state": "NC",
+    "location_zip": "27886",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhseast.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2526417700"
-    },
+    "phone_number": "2526417700",
     "provider_id": "340107",
     "raw_ratings": {},
     "state": "NC",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8111 S EMERSON AVE\",\"city\":\"INDIANAPOLIS\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.64903523800007",
-        "longitude": "-86.08260224799994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.082674,
+            39.648472
+        ],
+        "type": "Point"
     },
+    "location_address": "8111 S EMERSON AVE",
+    "location_city": "INDIANAPOLIS",
+    "location_state": "IN",
+    "location_zip": "46237",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ssfhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3175285000"
-    },
+    "phone_number": "3175285000",
     "provider_id": "150162",
     "raw_ratings": {},
     "state": "IN",

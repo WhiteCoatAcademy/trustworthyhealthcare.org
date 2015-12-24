@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"301 W 7TH AVE\",\"city\":\"BIG TIMBER\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "45.82840433500007",
-        "longitude": "-109.95240525199995",
-        "needs_recoding": false
+        "coordinates": [
+            -109.952479,
+            45.828448
+        ],
+        "type": "Point"
     },
+    "location_address": "301 W 7TH AVE",
+    "location_city": "BIG TIMBER",
+    "location_state": "MT",
+    "location_zip": "59011",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4069324603"
-    },
+    "phone_number": "4069324603",
     "provider_id": "271313",
     "raw_ratings": {},
     "state": "MT",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"101 E RIDGE RD\",\"city\":\"MCALLEN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "26.185627924000073",
-        "longitude": "-98.22161636599998",
-        "needs_recoding": false
+        "coordinates": [
+            -98.221226,
+            26.185574
+        ],
+        "type": "Point"
     },
+    "location_address": "101 E RIDGE RD",
+    "location_city": "MCALLEN",
+    "location_state": "TX",
+    "location_zip": "78503",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9566326000"
-    },
+    "phone_number": "9566326000",
     "provider_id": "450711",
     "raw_ratings": {},
     "state": "TX",

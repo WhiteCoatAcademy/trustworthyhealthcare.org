@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"12303 DEPAUL DRIVE\",\"city\":\"BRIDGETON\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.749107894000076",
-        "longitude": "-90.43440953199996",
-        "needs_recoding": false
+        "coordinates": [
+            -90.43453,
+            38.74912
+        ],
+        "type": "Point"
     },
+    "location_address": "12303 DEPAUL DRIVE",
+    "location_city": "BRIDGETON",
+    "location_state": "MO",
+    "location_zip": "63044",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ssmhc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3143446000"
-    },
+    "phone_number": "3143446000",
     "provider_id": "260104",
     "raw_ratings": {},
     "state": "MO",

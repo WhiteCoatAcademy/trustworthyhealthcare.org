@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2823 FRESNO STREET\",\"city\":\"FRESNO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.74253432000006",
-        "longitude": "-119.783236983",
-        "needs_recoding": false
+        "coordinates": [
+            -119.783024,
+            36.742582
+        ],
+        "type": "Point"
     },
+    "location_address": "2823 FRESNO STREET",
+    "location_city": "FRESNO",
+    "location_state": "CA",
+    "location_zip": "93721",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,11 +33,9 @@
             "www.communitymedical.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5594596000"
-    },
+    "phone_number": "5594596000",
     "provider_id": "050060",
     "raw_ratings": {},
     "state": "CA",
-    "zip_code": "93715"
+    "zip_code": "93721"
 }

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1808 SHERMAN DR\",\"city\":\"PRINCETON\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "38.36025848100007",
-        "longitude": "-87.59005017499999",
-        "needs_recoding": false
+        "coordinates": [
+            -87.58912,
+            38.360232
+        ],
+        "type": "Point"
     },
+    "location_address": "1808 SHERMAN DR",
+    "location_city": "PRINCETON",
+    "location_state": "IN",
+    "location_zip": "47670",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8123853401"
-    },
+    "phone_number": "8123853401",
     "provider_id": "151319",
     "raw_ratings": {},
     "state": "IN",

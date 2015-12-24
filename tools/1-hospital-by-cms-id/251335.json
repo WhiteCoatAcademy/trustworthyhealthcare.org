@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"14365 HIGHWAY 16 WEST\",\"city\":\"DE KALB\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.76165774300006",
-        "longitude": "-88.78207085599996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.679122,
+            32.776819
+        ],
+        "type": "Point"
     },
+    "location_address": "14365 HIGHWAY 16 WEST",
+    "location_city": "DE KALB",
+    "location_state": "MS",
+    "location_zip": "39328",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7694861000"
-    },
+    "phone_number": "7694861000",
     "provider_id": "251335",
     "raw_ratings": {},
     "state": "MS",

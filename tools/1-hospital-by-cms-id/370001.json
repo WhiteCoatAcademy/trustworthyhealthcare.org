@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1120 SOUTH UTICA AVENUE\",\"city\":\"TULSA\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.14755936700004",
-        "longitude": "-95.96719427899995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.967141,
+            36.147164
+        ],
+        "type": "Point"
     },
+    "location_address": "1120 SOUTH UTICA AVENUE",
+    "location_city": "TULSA",
+    "location_state": "OK",
+    "location_zip": "74104",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ardenthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9185791000"
-    },
+    "phone_number": "9185791000",
     "provider_id": "370001",
     "raw_ratings": {},
     "state": "OK",

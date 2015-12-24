@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2701 N DECATUR ROAD\",\"city\":\"DECATUR\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.79197269800005",
-        "longitude": "-84.28361898899999",
-        "needs_recoding": false
+        "coordinates": [
+            -84.283193,
+            33.79203
+        ],
+        "type": "Point"
     },
+    "location_address": "2701 N DECATUR ROAD",
+    "location_city": "DECATUR",
+    "location_state": "GA",
+    "location_zip": "30033",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.dekalbmedicalcenter.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4045011000"
-    },
+    "phone_number": "4045011000",
     "provider_id": "110076",
     "raw_ratings": {},
     "state": "GA",

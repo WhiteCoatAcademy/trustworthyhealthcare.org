@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 POINCIANA AVENUE\",\"city\":\"MAMOU\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.641087913000035",
-        "longitude": "-92.41706166699998",
-        "needs_recoding": false
+        "coordinates": [
+            -92.417605,
+            30.641032
+        ],
+        "type": "Point"
     },
+    "location_address": "801 POINCIANA AVENUE",
+    "location_city": "MAMOU",
+    "location_state": "LA",
+    "location_zip": "70554",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3374685261"
-    },
+    "phone_number": "3374685261",
     "provider_id": "190025",
     "raw_ratings": {},
     "state": "LA",

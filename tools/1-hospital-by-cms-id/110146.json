@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2000 DAN PROCTOR DRIVE\",\"city\":\"SAINT MARYS\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "30.781650330000048",
-        "longitude": "-81.61648752399998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.615607,
+            30.780986
+        ],
+        "type": "Point"
     },
+    "location_address": "2000 DAN PROCTOR DRIVE",
+    "location_city": "SAINT MARYS",
+    "location_state": "GA",
+    "location_zip": "31558",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sghs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9125766401"
-    },
+    "phone_number": "9125766401",
     "provider_id": "110146",
     "raw_ratings": {},
     "state": "GA",

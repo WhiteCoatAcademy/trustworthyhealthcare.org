@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"BROADWAY AT 11TH STREET\",\"city\":\"QUINCY\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "39.93562116000004",
-        "longitude": "-91.39832913999999",
-        "needs_recoding": false
+        "coordinates": [
+            -91.39833,
+            39.935624
+        ],
+        "type": "Point"
     },
+    "location_address": "BROADWAY AT 11TH STREET",
+    "location_city": "QUINCY",
+    "location_state": "IL",
+    "location_zip": "62301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.blessinghospital.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2172235811"
-    },
+    "phone_number": "2172235811",
     "provider_id": "140015",
     "raw_ratings": {},
     "state": "IL",

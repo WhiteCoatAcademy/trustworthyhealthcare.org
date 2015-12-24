@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"322 COLEMAN STREET\",\"city\":\"MARLIN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.30745366700006",
-        "longitude": "-96.89600940099996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.894747,
+            31.307469
+        ],
+        "type": "Point"
     },
+    "location_address": "322 COLEMAN STREET",
+    "location_city": "MARLIN",
+    "location_state": "TX",
+    "location_zip": "76661",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2548033561"
-    },
+    "phone_number": "2548033561",
     "provider_id": "450348",
     "raw_ratings": {},
     "state": "TX",

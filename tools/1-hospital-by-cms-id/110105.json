@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3131 THOMASVILLE HWY BOX 40\",\"city\":\"MOULTRIE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "31.13724853800005",
-        "longitude": "-83.78298849599997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.783856,
+            31.122834
+        ],
+        "type": "Point"
     },
+    "location_address": "3131 THOMASVILLE HWY BOX 40",
+    "location_city": "MOULTRIE",
+    "location_state": "GA",
+    "location_zip": "31768",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2299853420"
-    },
+    "phone_number": "2299853420",
     "provider_id": "110105",
     "raw_ratings": {},
     "state": "GA",

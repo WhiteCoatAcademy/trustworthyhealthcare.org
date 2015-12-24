@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 NORTH BROADWAY\",\"city\":\"SLEEPY HOLLOW\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "41.107639404000054",
-        "longitude": "-73.85967784799993",
-        "needs_recoding": false
+        "coordinates": [
+            -73.859639,
+            41.107555
+        ],
+        "type": "Point"
     },
+    "location_address": "701 NORTH BROADWAY",
+    "location_city": "SLEEPY HOLLOW",
+    "location_state": "NY",
+    "location_zip": "10591",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nypsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9143663000"
-    },
+    "phone_number": "9143663000",
     "provider_id": "330261",
     "raw_ratings": {},
     "state": "NY",

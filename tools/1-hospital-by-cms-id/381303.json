@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"725 S WAHANNA ROAD\",\"city\":\"SEASIDE\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "45.989325817000065",
-        "longitude": "-123.91480087899998",
-        "needs_recoding": false
+        "coordinates": [
+            -123.915044,
+            45.988801
+        ],
+        "type": "Point"
     },
+    "location_address": "725 S WAHANNA ROAD",
+    "location_city": "SEASIDE",
+    "location_state": "OR",
+    "location_zip": "97138",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.providence.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5037177000"
-    },
+    "phone_number": "5037177000",
     "provider_id": "381303",
     "raw_ratings": {},
     "state": "OR",

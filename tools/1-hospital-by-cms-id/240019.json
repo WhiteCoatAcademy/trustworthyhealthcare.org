@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"502 EAST SECOND STREET\",\"city\":\"DULUTH\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "46.792485113000055",
-        "longitude": "-92.09488095099994",
-        "needs_recoding": false
+        "coordinates": [
+            -92.094863,
+            46.792523
+        ],
+        "type": "Point"
     },
+    "location_address": "502 EAST SECOND STREET",
+    "location_city": "DULUTH",
+    "location_state": "MN",
+    "location_zip": "55805",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.smdc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2187862646"
-    },
+    "phone_number": "2187862646",
     "provider_id": "240019",
     "raw_ratings": {},
     "state": "MN",

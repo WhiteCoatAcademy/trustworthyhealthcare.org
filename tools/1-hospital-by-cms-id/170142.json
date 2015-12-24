@@ -4,15 +4,20 @@
     "county_name": "RILEY",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MERCY REGIONAL HEALTH CENTER",
+    "hospital_name": "VIA CHRISTI HOSPITAL MANHATTAN, INC",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1823 COLLEGE AVE\",\"city\":\"MANHATTAN\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.20138041900003",
-        "longitude": "-96.59821606499997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.598179,
+            39.201653
+        ],
+        "type": "Point"
     },
+    "location_address": "1823 COLLEGE AVE",
+    "location_city": "MANHATTAN",
+    "location_state": "KS",
+    "location_zip": "66502",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.via-christi.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7857762831"
-    },
+    "phone_number": "7857762831",
     "provider_id": "170142",
     "raw_ratings": {},
     "state": "KS",

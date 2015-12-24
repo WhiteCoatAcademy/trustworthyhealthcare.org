@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2425 GEARY BLVD\",\"city\":\"SAN FRANCISCO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.78268298300003",
-        "longitude": "-122.44369667899997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.443564,
+            37.782741
+        ],
+        "type": "Point"
     },
+    "location_address": "2425 GEARY BLVD",
+    "location_city": "SAN FRANCISCO",
+    "location_state": "CA",
+    "location_zip": "94115",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4158332646"
-    },
+    "phone_number": "4158332646",
     "provider_id": "050076",
     "raw_ratings": {},
     "state": "CA",

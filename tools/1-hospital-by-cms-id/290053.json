@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8280 W WARM SPRINGS ROAD\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "36.05555773000003",
-        "longitude": "-115.27345946099996",
-        "needs_recoding": false
+        "coordinates": [
+            -115.271876,
+            36.055544
+        ],
+        "type": "Point"
     },
+    "location_address": "8280 W WARM SPRINGS ROAD",
+    "location_city": "LAS VEGAS",
+    "location_state": "NV",
+    "location_zip": "89113",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7024928509"
-    },
+    "phone_number": "7024928509",
     "provider_id": "290053",
     "raw_ratings": {},
     "state": "NV",

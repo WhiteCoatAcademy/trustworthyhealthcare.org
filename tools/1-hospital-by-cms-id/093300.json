@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Childrens",
     "location": {
-        "human_address": "{\"address\":\"111 MICHIGAN AVE, NW\",\"city\":\"WASHINGTON\",\"state\":\"DC\",\"zip\":\"\"}",
-        "latitude": "38.92628811600008",
-        "longitude": "-77.01341095299995",
-        "needs_recoding": false
+        "coordinates": [
+            -77.015141,
+            38.92661
+        ],
+        "type": "Point"
     },
+    "location_address": "111 MICHIGAN AVE, NW",
+    "location_city": "WASHINGTON",
+    "location_state": "DC",
+    "location_zip": "20010",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2024765000"
-    },
+    "phone_number": "2024765000",
     "provider_id": "093300",
     "raw_ratings": {},
     "state": "DC",

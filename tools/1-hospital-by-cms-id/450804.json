@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7401 SOUTH MAIN STREET\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.700561048000054",
-        "longitude": "-95.40950831799995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.409631,
+            29.700371
+        ],
+        "type": "Point"
     },
+    "location_address": "7401 SOUTH MAIN STREET",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77030",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7137998600"
-    },
+    "phone_number": "7137998600",
     "provider_id": "450804",
     "raw_ratings": {},
     "state": "TX",

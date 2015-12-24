@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1740 NICHOLASVILLE ROAD\",\"city\":\"LEXINGTON\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "38.02014982800006",
-        "longitude": "-84.51347846999994",
-        "needs_recoding": false
+        "coordinates": [
+            -84.513956,
+            38.018817
+        ],
+        "type": "Point"
     },
+    "location_address": "1740 NICHOLASVILLE ROAD",
+    "location_city": "LEXINGTON",
+    "location_state": "KY",
+    "location_zip": "40503",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhsi.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8592606104"
-    },
+    "phone_number": "8592606104",
     "provider_id": "180103",
     "raw_ratings": {},
     "state": "KY",

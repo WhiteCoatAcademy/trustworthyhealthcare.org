@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1105 CENTRAL EXPRESSWAY NORTH\",\"city\":\"ALLEN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.11581718600007",
-        "longitude": "-96.67130645299994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.671289,
+            33.115782
+        ],
+        "type": "Point"
     },
+    "location_address": "1105 CENTRAL EXPRESSWAY NORTH",
+    "location_city": "ALLEN",
+    "location_state": "TX",
+    "location_zip": "75013",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.texashealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9727476197"
-    },
+    "phone_number": "9727476197",
     "provider_id": "450840",
     "raw_ratings": {},
     "state": "TX",

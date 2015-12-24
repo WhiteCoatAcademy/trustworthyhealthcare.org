@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "NEWBERRY COUNTY MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - State",
+    "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2669 KINARD ST PO BOX 497\",\"city\":\"NEWBERRY\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.289975371000025",
-        "longitude": "-81.60457694299998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.604714,
+            34.289723
+        ],
+        "type": "Point"
     },
+    "location_address": "2669 KINARD ST PO BOX 497",
+    "location_city": "NEWBERRY",
+    "location_state": "SC",
+    "location_zip": "29108",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8034057145"
-    },
+    "phone_number": "8034057145",
     "provider_id": "420053",
     "raw_ratings": {},
     "state": "SC",

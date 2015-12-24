@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2301 SOUTH LAMAR\",\"city\":\"OXFORD\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "34.34888725900004",
-        "longitude": "-89.52071231599996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.520575,
+            34.349714
+        ],
+        "type": "Point"
     },
+    "location_address": "2301 SOUTH LAMAR",
+    "location_city": "OXFORD",
+    "location_state": "MS",
+    "location_zip": "38655",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bmhcc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6622328100"
-    },
+    "phone_number": "6622328100",
     "provider_id": "250034",
     "raw_ratings": {},
     "state": "MS",

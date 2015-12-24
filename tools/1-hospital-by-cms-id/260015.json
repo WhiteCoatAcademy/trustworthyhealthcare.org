@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1301 FIRST ST\",\"city\":\"KENNETT\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "36.236592726000026",
-        "longitude": "-90.04109993499998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.041068,
+            36.236624
+        ],
+        "type": "Point"
     },
+    "location_address": "1301 FIRST ST",
+    "location_city": "KENNETT",
+    "location_state": "MO",
+    "location_zip": "63857",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5738884522"
-    },
+    "phone_number": "5738884522",
     "provider_id": "260015",
     "raw_ratings": {},
     "state": "MO",

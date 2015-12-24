@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"360 AMSDEN AVENUE\",\"city\":\"VERSAILLES\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "38.05534166700005",
-        "longitude": "-84.72438752399995",
-        "needs_recoding": false
+        "coordinates": [
+            -84.723674,
+            38.055167
+        ],
+        "type": "Point"
     },
+    "location_address": "360 AMSDEN AVENUE",
+    "location_city": "VERSAILLES",
+    "location_state": "KY",
+    "location_zip": "40383",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8598792300"
-    },
+    "phone_number": "8598792300",
     "provider_id": "181308",
     "raw_ratings": {},
     "state": "KY",

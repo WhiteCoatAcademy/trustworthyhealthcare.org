@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"909 WEST FIRST STREET\",\"city\":\"SUMNER\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.84745243200007",
-        "longitude": "-92.08407024299999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.109316,
+            42.847425
+        ],
+        "type": "Point"
     },
+    "location_address": "909 WEST FIRST STREET",
+    "location_city": "SUMNER",
+    "location_state": "IA",
+    "location_zip": "50674",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5635783275"
-    },
+    "phone_number": "5635783275",
     "provider_id": "161320",
     "raw_ratings": {},
     "state": "IA",

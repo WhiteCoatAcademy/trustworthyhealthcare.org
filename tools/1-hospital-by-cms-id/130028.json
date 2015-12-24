@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"777 HOSPITAL WAY\",\"city\":\"POCATELLO\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "42.87459941600008",
-        "longitude": "-112.41893204099995",
-        "needs_recoding": false
+        "coordinates": [
+            -112.41874,
+            42.873418
+        ],
+        "type": "Point"
     },
+    "location_address": "777 HOSPITAL WAY",
+    "location_city": "POCATELLO",
+    "location_state": "ID",
+    "location_zip": "83201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2082391000"
-    },
+    "phone_number": "2082391452",
     "provider_id": "130028",
     "raw_ratings": {},
     "state": "ID",

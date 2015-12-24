@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 3RD AVE SE\",\"city\":\"MAGEE\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "31.87125294300006",
-        "longitude": "-89.72851947899994",
-        "needs_recoding": false
+        "coordinates": [
+            -89.728745,
+            31.8723
+        ],
+        "type": "Point"
     },
+    "location_address": "300 3RD AVE SE",
+    "location_city": "MAGEE",
+    "location_state": "MS",
+    "location_zip": "39111",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6018495070"
-    },
+    "phone_number": "6018495070",
     "provider_id": "250124",
     "raw_ratings": {},
     "state": "MS",

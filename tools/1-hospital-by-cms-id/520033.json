@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"410 DEWEY ST\",\"city\":\"WISCONSIN RAPIDS\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.38215238300006",
-        "longitude": "-89.82947416199994",
-        "needs_recoding": false
+        "coordinates": [
+            -89.829166,
+            44.382149
+        ],
+        "type": "Point"
     },
+    "location_address": "410 DEWEY ST",
+    "location_city": "WISCONSIN RAPIDS",
+    "location_state": "WI",
+    "location_zip": "54495",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7154236060"
-    },
+    "phone_number": "7154236060",
     "provider_id": "520033",
     "raw_ratings": {},
     "state": "WI",

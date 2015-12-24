@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"320 THIRTEENTH ST\",\"city\":\"WA KEENEY\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.027086378000035",
-        "longitude": "-99.87161750099995",
-        "needs_recoding": false
+        "coordinates": [
+            -99.871518,
+            39.02095
+        ],
+        "type": "Point"
     },
+    "location_address": "320 THIRTEENTH ST",
+    "location_city": "WA KEENEY",
+    "location_state": "KS",
+    "location_zip": "67672",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7857432182"
-    },
+    "phone_number": "7857432182",
     "provider_id": "171355",
     "raw_ratings": {},
     "state": "KS",

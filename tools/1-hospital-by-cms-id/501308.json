@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"411 FORTUYN ROAD\",\"city\":\"GRAND COULEE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.94234977100007",
-        "longitude": "-119.00559594299995",
-        "needs_recoding": false
+        "coordinates": [
+            -119.004532,
+            47.942391
+        ],
+        "type": "Point"
     },
+    "location_address": "411 FORTUYN ROAD",
+    "location_city": "GRAND COULEE",
+    "location_state": "WA",
+    "location_zip": "99133",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5096331753"
-    },
+    "phone_number": "5096331753",
     "provider_id": "501308",
     "raw_ratings": {},
     "state": "WA",

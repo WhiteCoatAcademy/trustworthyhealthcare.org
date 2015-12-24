@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1012 SOUTH 3RD STREET\",\"city\":\"DAYTON\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "46.312941299000045",
-        "longitude": "-117.96938522499994",
-        "needs_recoding": false
+        "coordinates": [
+            -117.968743,
+            46.312433
+        ],
+        "type": "Point"
     },
+    "location_address": "1012 SOUTH 3RD STREET",
+    "location_city": "DAYTON",
+    "location_state": "WA",
+    "location_zip": "99328",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5093822531"
-    },
+    "phone_number": "5093822531",
     "provider_id": "501302",
     "raw_ratings": {},
     "state": "WA",

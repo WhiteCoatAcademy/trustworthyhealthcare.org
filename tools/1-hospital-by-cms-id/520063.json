@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3200 PLEASANT VALLEY ROAD\",\"city\":\"WEST BEND\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.353294954000035",
-        "longitude": "-88.19725211399998",
-        "needs_recoding": false
+        "coordinates": [
+            -88.194938,
+            43.353365
+        ],
+        "type": "Point"
     },
+    "location_address": "3200 PLEASANT VALLEY ROAD",
+    "location_city": "WEST BEND",
+    "location_state": "WI",
+    "location_zip": "53095",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2623345533"
-    },
+    "phone_number": "2623345533",
     "provider_id": "520063",
     "raw_ratings": {},
     "state": "WI",

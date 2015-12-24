@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11130 PARKVIEW CIRCLE DR\",\"city\":\"FORT WAYNE\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.18732510700005",
-        "longitude": "-85.10320342099999",
-        "needs_recoding": false
+        "coordinates": [
+            -85.099986,
+            41.182548
+        ],
+        "type": "Point"
     },
+    "location_address": "11130 PARKVIEW CIRCLE DR",
+    "location_city": "FORT WAYNE",
+    "location_state": "IN",
+    "location_zip": "46845",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2606724050"
-    },
+    "phone_number": "2606724050",
     "provider_id": "150167",
     "raw_ratings": {},
     "state": "IN",

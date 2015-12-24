@@ -4,15 +4,20 @@
     "county_name": "DAVIDSON",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "SAINT THOMAS HOSPITAL FOR SPINAL SURGERY",
+    "hospital_name": "SAINT THOMAS HOSPITAL FOR SPECIALTY SURGERY",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2011 MURPHY AVENUE\",\"city\":\"NASHVILLE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.155855796000026",
-        "longitude": "-86.80364779499996",
-        "needs_recoding": false
+        "coordinates": [
+            -86.804042,
+            36.155685
+        ],
+        "type": "Point"
     },
+    "location_address": "2011 MURPHY AVENUE",
+    "location_city": "NASHVILLE",
+    "location_state": "TN",
+    "location_zip": "37203",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6155158200"
-    },
+    "phone_number": "6155158200",
     "provider_id": "440218",
     "raw_ratings": {},
     "state": "TN",

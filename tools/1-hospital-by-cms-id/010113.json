@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5 MOBILE INFIRMARY CIRCLE\",\"city\":\"MOBILE\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "30.69600693800004",
-        "longitude": "-88.08007299599996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.081622,
+            30.696591
+        ],
+        "type": "Point"
     },
+    "location_address": "5 MOBILE INFIRMARY CIRCLE",
+    "location_city": "MOBILE",
+    "location_state": "AL",
+    "location_zip": "36652",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.theinfirmary.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2514354700"
-    },
+    "phone_number": "2514354700",
     "provider_id": "010113",
     "raw_ratings": {},
     "state": "AL",

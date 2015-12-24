@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"201 ALBERT AVENUE\",\"city\":\"SCOTT CITY\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.48300012400006",
-        "longitude": "-100.90691624399994",
-        "needs_recoding": false
+        "coordinates": [
+            -100.9035,
+            38.48487
+        ],
+        "type": "Point"
     },
+    "location_address": "201 ALBERT AVENUE",
+    "location_city": "SCOTT CITY",
+    "location_state": "KS",
+    "location_zip": "67871",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6208725811"
-    },
+    "phone_number": "6208725811",
     "provider_id": "171372",
     "raw_ratings": {},
     "state": "KS",

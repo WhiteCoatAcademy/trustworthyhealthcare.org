@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"112 NORTH SEVENTH STREET\",\"city\":\"CHAMBERSBURG\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.93476652700008",
-        "longitude": "-77.64752904399995",
-        "needs_recoding": false
+        "coordinates": [
+            -77.647451,
+            39.934915
+        ],
+        "type": "Point"
     },
+    "location_address": "112 NORTH SEVENTH STREET",
+    "location_city": "CHAMBERSBURG",
+    "location_state": "PA",
+    "location_zip": "17201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.summithealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7172673000"
-    },
+    "phone_number": "7172673000",
     "provider_id": "390151",
     "raw_ratings": {},
     "state": "PA",

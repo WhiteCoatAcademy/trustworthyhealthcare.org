@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1010 SPRUCE STREET\",\"city\":\"ESPANOLA\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "35.99708426600006",
-        "longitude": "-106.08632369499998",
-        "needs_recoding": false
+        "coordinates": [
+            -106.087096,
+            35.997087
+        ],
+        "type": "Point"
     },
+    "location_address": "1010 SPRUCE STREET",
+    "location_city": "ESPANOLA",
+    "location_state": "NM",
+    "location_zip": "87532",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.phs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5057531502"
-    },
+    "phone_number": "5057531502",
     "provider_id": "320011",
     "raw_ratings": {},
     "state": "NM",

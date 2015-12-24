@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11801 SOUTH FREEWAY\",\"city\":\"BURLESON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.56311343400006",
-        "longitude": "-97.32181897599997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.319104,
+            32.586544
+        ],
+        "type": "Point"
     },
+    "location_address": "11801 SOUTH FREEWAY",
+    "location_city": "BURLESON",
+    "location_state": "TX",
+    "location_zip": "76028",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8175685317"
-    },
+    "phone_number": "8175685317",
     "provider_id": "450677",
     "raw_ratings": {},
     "state": "TX",

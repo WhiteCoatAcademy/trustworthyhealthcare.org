@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10700 MCPHERSON ROAD\",\"city\":\"LAREDO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "27.60870748900004",
-        "longitude": "-99.47676813999999",
-        "needs_recoding": false
+        "coordinates": [
+            -99.477038,
+            27.604217
+        ],
+        "type": "Point"
     },
+    "location_address": "10700 MCPHERSON ROAD",
+    "location_city": "LAREDO",
+    "location_state": "TX",
+    "location_zip": "78041",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhsinc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9565232000"
-    },
+    "phone_number": "9565232000",
     "provider_id": "450643",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Childrens",
     "location": {
-        "human_address": "{\"address\":\"800 MARSHALL STREET SLOT 301\",\"city\":\"LITTLE ROCK\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "34.743440073000045",
-        "longitude": "-92.29149483199996",
-        "needs_recoding": false
+        "coordinates": [
+            -92.291504,
+            34.742504
+        ],
+        "type": "Point"
     },
+    "location_address": "800 MARSHALL STREET SLOT 301",
+    "location_city": "LITTLE ROCK",
+    "location_state": "AR",
+    "location_zip": "72202",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5013641100"
-    },
+    "phone_number": "5013641100",
     "provider_id": "043300",
     "raw_ratings": {},
     "state": "AR",

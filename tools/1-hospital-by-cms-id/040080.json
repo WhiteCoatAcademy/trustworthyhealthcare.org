@@ -4,15 +4,20 @@
     "county_name": "JACKSON",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "HARRIS HOSPITAL",
+    "hospital_name": "UNITY HEALTH HARRIS MEDICAL CENTER",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1205 MCLAIN STREET\",\"city\":\"NEWPORT\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "35.608097894000025",
-        "longitude": "-91.26476906499994",
-        "needs_recoding": false
+        "coordinates": [
+            -91.264796,
+            35.608076
+        ],
+        "type": "Point"
     },
+    "location_address": "1205 MCLAIN STREET",
+    "location_city": "NEWPORT",
+    "location_state": "AR",
+    "location_zip": "72112",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "8705238911"
-    },
+    "phone_number": "8705238911",
     "provider_id": "040080",
     "raw_ratings": {},
     "state": "AR",

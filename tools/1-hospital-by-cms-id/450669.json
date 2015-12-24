@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 WEST MAIN STREET\",\"city\":\"LEWISVILLE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.04625278000003",
-        "longitude": "-97.00475030799998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.004207,
+            33.046306
+        ],
+        "type": "Point"
     },
+    "location_address": "500 WEST MAIN STREET",
+    "location_city": "LEWISVILLE",
+    "location_state": "TX",
+    "location_zip": "75057",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9724201000"
-    },
+    "phone_number": "9724201000",
     "provider_id": "450669",
     "raw_ratings": {},
     "state": "TX",

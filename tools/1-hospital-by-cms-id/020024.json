@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"250 HOSPITAL PLACE\",\"city\":\"SOLDOTNA\",\"state\":\"AK\",\"zip\":\"\"}",
-        "latitude": "60.49373236500003",
-        "longitude": "-151.07808299499996",
-        "needs_recoding": false
+        "coordinates": [
+            -151.077172,
+            60.493862
+        ],
+        "type": "Point"
     },
+    "location_address": "250 HOSPITAL PLACE",
+    "location_city": "SOLDOTNA",
+    "location_state": "AK",
+    "location_zip": "99669",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9072624404"
-    },
+    "phone_number": "9072624404",
     "provider_id": "020024",
     "raw_ratings": {},
     "state": "AK",

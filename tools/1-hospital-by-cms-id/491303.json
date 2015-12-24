@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"312 HOSPITAL DRIVE\",\"city\":\"CLINTWOOD\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.159291248000045",
-        "longitude": "-82.44757777899997",
-        "needs_recoding": false
+        "coordinates": [
+            -82.451973,
+            37.162595
+        ],
+        "type": "Point"
     },
+    "location_address": "312 HOSPITAL DRIVE",
+    "location_city": "CLINTWOOD",
+    "location_state": "VA",
+    "location_zip": "24228",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.msha.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2769260300"
-    },
+    "phone_number": "2769260300",
     "provider_id": "491303",
     "raw_ratings": {},
     "state": "VA",

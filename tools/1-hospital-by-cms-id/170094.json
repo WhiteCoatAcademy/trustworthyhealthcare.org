@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 NORTH 4TH STREET\",\"city\":\"BURLINGTON\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.20216080700004",
-        "longitude": "-95.73853547599998",
-        "needs_recoding": false
+        "coordinates": [
+            -95.738569,
+            38.201744
+        ],
+        "type": "Point"
     },
+    "location_address": "801 NORTH 4TH STREET",
+    "location_city": "BURLINGTON",
+    "location_state": "KS",
+    "location_zip": "66839",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6203642121"
-    },
+    "phone_number": "6203642121",
     "provider_id": "170094",
     "raw_ratings": {},
     "state": "KS",

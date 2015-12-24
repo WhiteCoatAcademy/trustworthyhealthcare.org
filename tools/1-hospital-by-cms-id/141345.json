@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1201 RICKER DRIVE\",\"city\":\"SALEM\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "38.64144262100007",
-        "longitude": "-88.94756725399998",
-        "needs_recoding": false
+        "coordinates": [
+            -88.948285,
+            38.638398
+        ],
+        "type": "Point"
     },
+    "location_address": "1201 RICKER DRIVE",
+    "location_city": "SALEM",
+    "location_state": "IL",
+    "location_zip": "62881",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6185483194"
-    },
+    "phone_number": "6185483194",
     "provider_id": "141345",
     "raw_ratings": {},
     "state": "IL",

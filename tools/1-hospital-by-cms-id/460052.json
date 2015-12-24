@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"750 WEST 800 NORTH\",\"city\":\"OREM\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "40.312087907000034",
-        "longitude": "-111.71475115099997",
-        "needs_recoding": false
+        "coordinates": [
+            -111.713615,
+            40.312071
+        ],
+        "type": "Point"
     },
+    "location_address": "750 WEST 800 NORTH",
+    "location_city": "OREM",
+    "location_state": "UT",
+    "location_zip": "84057",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8017146800"
-    },
+    "phone_number": "8017146800",
     "provider_id": "460052",
     "raw_ratings": {},
     "state": "UT",

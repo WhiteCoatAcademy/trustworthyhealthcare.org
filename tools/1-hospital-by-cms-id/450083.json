@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 SOUTH BECKHAM STREET\",\"city\":\"TYLER\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.33832655400005",
-        "longitude": "-95.29186956199999",
-        "needs_recoding": false
+        "coordinates": [
+            -95.291862,
+            32.338102
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 SOUTH BECKHAM STREET",
+    "location_city": "TYLER",
+    "location_state": "TX",
+    "location_zip": "75701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.etmc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9035970351"
-    },
+    "phone_number": "9035970351",
     "provider_id": "450083",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 MEDICAL CENTER DRIVE\",\"city\":\"NEWTON\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.02292682800004",
-        "longitude": "-97.33560037599995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.33654,
+            38.023034
+        ],
+        "type": "Point"
     },
+    "location_address": "600 MEDICAL CENTER DRIVE",
+    "location_city": "NEWTON",
+    "location_state": "KS",
+    "location_zip": "67114",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3168046001"
-    },
+    "phone_number": "3162832700",
     "provider_id": "170103",
     "raw_ratings": {},
     "state": "KS",

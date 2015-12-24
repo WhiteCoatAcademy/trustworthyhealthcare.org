@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7500 STATE ROAD\",\"city\":\"CINCINNATI\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.084347765000075",
-        "longitude": "-84.34836800899996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.349296,
+            39.08438
+        ],
+        "type": "Point"
     },
+    "location_address": "7500 STATE ROAD",
+    "location_city": "CINCINNATI",
+    "location_state": "OH",
+    "location_zip": "45255",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health-partners.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5136244006"
-    },
+    "phone_number": "5136244006",
     "provider_id": "360001",
     "raw_ratings": {},
     "state": "OH",

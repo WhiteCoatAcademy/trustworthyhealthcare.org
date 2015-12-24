@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"44045 RIVERSIDE PARKWAY\",\"city\":\"LEESBURG\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "39.07534346800003",
-        "longitude": "-77.47549285299993",
-        "needs_recoding": false
+        "coordinates": [
+            -77.475227,
+            39.074609
+        ],
+        "type": "Point"
     },
+    "location_address": "44045 RIVERSIDE PARKWAY",
+    "location_city": "LEESBURG",
+    "location_state": "VA",
+    "location_zip": "20176",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.inova.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7038586600"
-    },
+    "phone_number": "7038586600",
     "provider_id": "490043",
     "raw_ratings": {},
     "state": "VA",

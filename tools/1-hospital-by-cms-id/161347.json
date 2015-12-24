@@ -4,15 +4,20 @@
     "county_name": "FLOYD",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "FLOYD COUNTY MEMORIAL HOSPITAL",
+    "hospital_name": "FLOYD COUNTY MEDICAL CENTER",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 11TH ST\",\"city\":\"CHARLES CITY\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "43.05262502200003",
-        "longitude": "-92.68262268699999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.685044,
+            43.052661
+        ],
+        "type": "Point"
     },
+    "location_address": "800 11TH ST",
+    "location_city": "CHARLES CITY",
+    "location_state": "IA",
+    "location_zip": "50616",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6412286830"
-    },
+    "phone_number": "6412286830",
     "provider_id": "161347",
     "raw_ratings": {},
     "state": "IA",

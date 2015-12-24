@@ -4,15 +4,20 @@
     "county_name": "COCHISE",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "DOUGLAS COMMUNITY HOSPITAL, INC",
+    "hospital_name": "COCHISE REGIONAL HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2174 WEST OAK AVENUE\",\"city\":\"DOUGLAS\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "31.36417828900005",
-        "longitude": "-109.59450075899997",
-        "needs_recoding": false
+        "coordinates": [
+            -109.596409,
+            31.364178
+        ],
+        "type": "Point"
     },
+    "location_address": "2174 WEST OAK AVENUE",
+    "location_city": "DOUGLAS",
+    "location_state": "AZ",
+    "location_zip": "85607",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5203647931"
-    },
+    "phone_number": "5203647931",
     "provider_id": "031303",
     "raw_ratings": {},
     "state": "AZ",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1405 MILL ST\",\"city\":\"NEW LONDON\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.38128010600008",
-        "longitude": "-88.73290747699997",
-        "needs_recoding": false
+        "coordinates": [
+            -88.732762,
+            44.38118
+        ],
+        "type": "Point"
     },
+    "location_address": "1405 MILL ST",
+    "location_city": "NEW LONDON",
+    "location_state": "WI",
+    "location_zip": "54961",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.thedacare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9205312000"
-    },
+    "phone_number": "9205312000",
     "provider_id": "521326",
     "raw_ratings": {},
     "state": "WI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"130 EAST LOCKLING\",\"city\":\"BROOKFIELD\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.77542547000007",
-        "longitude": "-93.06696741599995",
-        "needs_recoding": false
+        "coordinates": [
+            -93.068432,
+            39.77504
+        ],
+        "type": "Point"
     },
+    "location_address": "130 EAST LOCKLING",
+    "location_city": "BROOKFIELD",
+    "location_state": "MO",
+    "location_zip": "64628",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6602582222"
-    },
+    "phone_number": "6602582222",
     "provider_id": "261307",
     "raw_ratings": {},
     "state": "MO",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"951 EAST MARKET STREET\",\"city\":\"CADIZ\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.25684982100006",
-        "longitude": "-80.97826518599999",
-        "needs_recoding": false
+        "coordinates": [
+            -80.978558,
+            40.257183
+        ],
+        "type": "Point"
     },
+    "location_address": "951 EAST MARKET STREET",
+    "location_city": "CADIZ",
+    "location_state": "OH",
+    "location_zip": "43907",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7409424631"
-    },
+    "phone_number": "7409424631",
     "provider_id": "361311",
     "raw_ratings": {},
     "state": "OH",

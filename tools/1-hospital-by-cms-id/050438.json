@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 W CALIFORNIA BLVD\",\"city\":\"PASADENA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.13577326200004",
-        "longitude": "-118.14846942199995",
-        "needs_recoding": false
+        "coordinates": [
+            -118.152486,
+            34.135708
+        ],
+        "type": "Point"
     },
+    "location_address": "100 W CALIFORNIA BLVD",
+    "location_city": "PASADENA",
+    "location_state": "CA",
+    "location_zip": "91109",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6263975000"
-    },
+    "phone_number": "6263975000",
     "provider_id": "050438",
     "raw_ratings": {},
     "state": "CA",

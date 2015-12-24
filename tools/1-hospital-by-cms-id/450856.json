@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"18600 NORTH HARDY OAK BLVD\",\"city\":\"SAN ANTONIO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.61316277700007",
-        "longitude": "-98.47844961199996",
-        "needs_recoding": false
+        "coordinates": [
+            -98.478446,
+            29.613952
+        ],
+        "type": "Point"
     },
+    "location_address": "18600 NORTH HARDY OAK BLVD",
+    "location_city": "SAN ANTONIO",
+    "location_state": "TX",
+    "location_zip": "78258",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nshinc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2104040800"
-    },
+    "phone_number": "2104040800",
     "provider_id": "450856",
     "raw_ratings": {},
     "state": "TX",

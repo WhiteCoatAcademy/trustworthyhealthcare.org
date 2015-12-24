@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 BEDELL AVE\",\"city\":\"DEL RIO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.374993867000057",
-        "longitude": "-100.89362680399995",
-        "needs_recoding": false
+        "coordinates": [
+            -100.89314,
+            29.374519
+        ],
+        "type": "Point"
     },
+    "location_address": "801 BEDELL AVE",
+    "location_city": "DEL RIO",
+    "location_state": "TX",
+    "location_zip": "78840",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8307758566"
-    },
+    "phone_number": "8307758566",
     "provider_id": "450154",
     "raw_ratings": {},
     "state": "TX",

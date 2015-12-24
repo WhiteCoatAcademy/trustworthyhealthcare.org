@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3600 S HIGHLANDS AVE\",\"city\":\"SEBRING\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.466480192000063",
-        "longitude": "-81.43367922299996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.433704,
+            27.466365
+        ],
+        "type": "Point"
     },
+    "location_address": "3600 S HIGHLANDS AVE",
+    "location_city": "SEBRING",
+    "location_state": "FL",
+    "location_zip": "33870",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8633856101"
-    },
+    "phone_number": "8633856101",
     "provider_id": "100049",
     "raw_ratings": {},
     "state": "FL",

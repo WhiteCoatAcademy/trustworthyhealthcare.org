@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"910 EAST 20TH STREET\",\"city\":\"SIOUX FALLS\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "43.53488647800003",
-        "longitude": "-96.71407108799997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.714388,
+            43.534842
+        ],
+        "type": "Point"
     },
+    "location_address": "910 EAST 20TH STREET",
+    "location_city": "SIOUX FALLS",
+    "location_state": "SD",
+    "location_zip": "57105",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.medicalfacilitiescorp.ca"
         ]
     },
-    "phone_number": {
-        "phone_number": "6053346730"
-    },
+    "phone_number": "6053346730",
     "provider_id": "430090",
     "raw_ratings": {},
     "state": "SD",

@@ -4,15 +4,20 @@
     "county_name": "ALLEGHENY",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ALLE KISKI MEDICAL CENTER",
+    "hospital_name": "ALLEGHENY VALLEY HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1301 CARLISLE ST\",\"city\":\"NATRONA\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.617316188000075",
-        "longitude": "-79.73742926899996",
-        "needs_recoding": false
+        "coordinates": [
+            -79.737562,
+            40.617196
+        ],
+        "type": "Point"
     },
+    "location_address": "1301 CARLISLE ST",
+    "location_city": "NATRONA",
+    "location_state": "PA",
+    "location_zip": "15065",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wpahs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4122245100"
-    },
+    "phone_number": "4122245100",
     "provider_id": "390032",
     "raw_ratings": {},
     "state": "PA",

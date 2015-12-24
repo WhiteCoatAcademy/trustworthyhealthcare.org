@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 DIAMOND STREET\",\"city\":\"ONAWA\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.025757965000025",
-        "longitude": "-96.10552110199995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.105586,
+            42.025739
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 DIAMOND STREET",
+    "location_city": "ONAWA",
+    "location_state": "IA",
+    "location_zip": "51040",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7124232311"
-    },
+    "phone_number": "7124232311",
     "provider_id": "161359",
     "raw_ratings": {},
     "state": "IA",

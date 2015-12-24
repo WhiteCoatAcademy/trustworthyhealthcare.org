@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1611 NW 12TH AVE\",\"city\":\"MIAMI\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.790629210000077",
-        "longitude": "-80.21491268299997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.214945,
+            25.790612
+        ],
+        "type": "Point"
     },
+    "location_address": "1611 NW 12TH AVE",
+    "location_city": "MIAMI",
+    "location_state": "FL",
+    "location_zip": "33136",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.jhsmiami.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3055851111"
-    },
+    "phone_number": "3055851111",
     "provider_id": "100022",
     "raw_ratings": {},
     "state": "FL",

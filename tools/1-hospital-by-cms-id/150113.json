@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1515 N MADISON AVE\",\"city\":\"ANDERSON\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.129882192000025",
-        "longitude": "-85.69162670699995",
-        "needs_recoding": false
+        "coordinates": [
+            -85.691578,
+            40.130049
+        ],
+        "type": "Point"
     },
+    "location_address": "1515 N MADISON AVE",
+    "location_city": "ANDERSON",
+    "location_state": "IN",
+    "location_zip": "46011",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ecommunity.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7652984242"
-    },
+    "phone_number": "7652984242",
     "provider_id": "150113",
     "raw_ratings": {},
     "state": "IN",

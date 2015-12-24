@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 W PINHOOK RD SUITE 100\",\"city\":\"LAFAYETTE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.203746385000045",
-        "longitude": "-92.01378681399996",
-        "needs_recoding": false
+        "coordinates": [
+            -92.013719,
+            30.203831
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 W PINHOOK RD SUITE 100",
+    "location_city": "LAFAYETTE",
+    "location_state": "LA",
+    "location_zip": "70503",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3372898095"
-    },
+    "phone_number": "3372898095",
     "provider_id": "190268",
     "raw_ratings": {},
     "state": "LA",

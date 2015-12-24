@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"505 PARNASSUS AVE, BOX 0296\",\"city\":\"SAN FRANCISCO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.76355182300006",
-        "longitude": "-122.45763194399996",
-        "needs_recoding": false
+        "coordinates": [
+            -122.457942,
+            37.763471
+        ],
+        "type": "Point"
     },
+    "location_address": "505 PARNASSUS AVE, BOX 0296",
+    "location_city": "SAN FRANCISCO",
+    "location_state": "CA",
+    "location_zip": "94143",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ucsfhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4153532733"
-    },
+    "phone_number": "4153532733",
     "provider_id": "050454",
     "raw_ratings": {},
     "state": "CA",

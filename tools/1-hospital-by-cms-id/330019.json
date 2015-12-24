@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2525 KINGS HIGHWAY\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.613804834000064",
-        "longitude": "-73.94830675599997",
-        "needs_recoding": false
+        "coordinates": [
+            -73.948947,
+            40.613359
+        ],
+        "type": "Point"
     },
+    "location_address": "2525 KINGS HIGHWAY",
+    "location_city": "BROOKLYN",
+    "location_state": "NY",
+    "location_zip": "11229",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nypsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7186925302"
-    },
+    "phone_number": "7186925302",
     "provider_id": "330019",
     "raw_ratings": {},
     "state": "NY",

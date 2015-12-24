@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2131 S 17TH ST BOX 9000\",\"city\":\"WILMINGTON\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "34.20650309100006",
-        "longitude": "-77.92428307799997",
-        "needs_recoding": false
+        "coordinates": [
+            -77.924176,
+            34.206164
+        ],
+        "type": "Point"
     },
+    "location_address": "2131 S 17TH ST BOX 9000",
+    "location_city": "WILMINGTON",
+    "location_state": "NC",
+    "location_zip": "28402",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nhhn.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9103437000"
-    },
+    "phone_number": "9103437000",
     "provider_id": "340141",
     "raw_ratings": {},
     "state": "NC",

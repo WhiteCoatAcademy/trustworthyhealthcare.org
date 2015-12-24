@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4215 JOE RAMSEY BLVD\",\"city\":\"GREENVILLE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.12343492100007",
-        "longitude": "-96.12338031799999",
-        "needs_recoding": false
+        "coordinates": [
+            -96.123204,
+            33.123657
+        ],
+        "type": "Point"
     },
+    "location_address": "4215 JOE RAMSEY BLVD",
+    "location_city": "GREENVILLE",
+    "location_state": "TX",
+    "location_zip": "75401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hmhd.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9034085000"
-    },
+    "phone_number": "9034085000",
     "provider_id": "450352",
     "raw_ratings": {},
     "state": "TX",

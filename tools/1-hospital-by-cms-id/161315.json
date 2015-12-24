@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"23019 HIGHWAY 149\",\"city\":\"SIGOURNEY\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.32297091500004",
-        "longitude": "-92.20517736599999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.20512,
+            41.322894
+        ],
+        "type": "Point"
     },
+    "location_address": "23019 HIGHWAY 149",
+    "location_city": "SIGOURNEY",
+    "location_state": "IA",
+    "location_zip": "52591",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6416222720"
-    },
+    "phone_number": "6416222720",
     "provider_id": "161315",
     "raw_ratings": {},
     "state": "IA",

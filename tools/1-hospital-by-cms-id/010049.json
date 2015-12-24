@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 N EDWARDS STREET\",\"city\":\"ENTERPRISE\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "31.318719619000035",
-        "longitude": "-85.85572776899994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.855319,
+            31.318144
+        ],
+        "type": "Point"
     },
+    "location_address": "400 N EDWARDS STREET",
+    "location_city": "ENTERPRISE",
+    "location_state": "AL",
+    "location_zip": "36330",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "3343470584"
-    },
+    "phone_number": "3343470584",
     "provider_id": "010049",
     "raw_ratings": {},
     "state": "AL",

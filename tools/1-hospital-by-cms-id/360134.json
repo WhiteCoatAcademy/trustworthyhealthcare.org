@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"375 DIXMYTH AVENUE\",\"city\":\"CINCINNATI\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.14068397500006",
-        "longitude": "-84.52182329499999",
-        "needs_recoding": false
+        "coordinates": [
+            -84.52377,
+            39.14001
+        ],
+        "type": "Point"
     },
+    "location_address": "375 DIXMYTH AVENUE",
+    "location_city": "CINCINNATI",
+    "location_state": "OH",
+    "location_zip": "45220",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trihealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5138622601"
-    },
+    "phone_number": "5138622601",
     "provider_id": "360134",
     "raw_ratings": {},
     "state": "OH",

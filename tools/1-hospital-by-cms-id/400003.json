@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2435 LAS AMERICAS AVE\",\"city\":\"PONCE\",\"state\":\"PR\",\"zip\":\"\"}",
-        "latitude": "18.00330714300003",
-        "longitude": "-66.61081557599994",
-        "needs_recoding": false
+        "coordinates": [
+            -66.616659,
+            18.003632
+        ],
+        "type": "Point"
     },
+    "location_address": "2435 LAS AMERICAS AVE",
+    "location_city": "PONCE",
+    "location_state": "PR",
+    "location_zip": "00733",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7878485600"
-    },
+    "phone_number": "7878485600",
     "provider_id": "400003",
     "raw_ratings": {},
     "state": "PR",

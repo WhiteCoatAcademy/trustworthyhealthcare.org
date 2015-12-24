@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"36 KLONDIKE ROAD\",\"city\":\"REPUBLIC\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "48.65274183300005",
-        "longitude": "-118.73315364899997",
-        "needs_recoding": false
+        "coordinates": [
+            -118.732967,
+            48.652944
+        ],
+        "type": "Point"
     },
+    "location_address": "36 KLONDIKE ROAD",
+    "location_city": "REPUBLIC",
+    "location_state": "WA",
+    "location_zip": "99166",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5097753333"
-    },
+    "phone_number": "5097753333",
     "provider_id": "501322",
     "raw_ratings": {},
     "state": "WA",

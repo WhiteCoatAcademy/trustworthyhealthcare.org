@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 MAR-WALT DR\",\"city\":\"FORT WALTON BEACH\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "30.45462118200004",
-        "longitude": "-86.63209262199996",
-        "needs_recoding": false
+        "coordinates": [
+            -86.633622,
+            30.455535
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 MAR-WALT DR",
+    "location_city": "FORT WALTON BEACH",
+    "location_state": "FL",
+    "location_zip": "32547",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8508621111"
-    },
+    "phone_number": "8508621111",
     "provider_id": "100223",
     "raw_ratings": {},
     "state": "FL",

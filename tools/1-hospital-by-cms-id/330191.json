@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 PARK STREET\",\"city\":\"GLENS FALLS\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.307336830000054",
-        "longitude": "-73.64597246599999",
-        "needs_recoding": false
+        "coordinates": [
+            -73.646274,
+            43.307254
+        ],
+        "type": "Point"
     },
+    "location_address": "100 PARK STREET",
+    "location_city": "GLENS FALLS",
+    "location_state": "NY",
+    "location_zip": "12801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5189261000"
-    },
+    "phone_number": "5189261000",
     "provider_id": "330191",
     "raw_ratings": {},
     "state": "NY",

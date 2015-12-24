@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 N FANT ST\",\"city\":\"ANDERSON\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.51016114600003",
-        "longitude": "-82.64698933999995",
-        "needs_recoding": false
+        "coordinates": [
+            -82.647355,
+            34.511071
+        ],
+        "type": "Point"
     },
+    "location_address": "800 N FANT ST",
+    "location_city": "ANDERSON",
+    "location_state": "SC",
+    "location_zip": "29621",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8642611109"
-    },
+    "phone_number": "8642611109",
     "provider_id": "420027",
     "raw_ratings": {},
     "state": "SC",

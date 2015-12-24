@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"85 NORTH GRAND AVENUE\",\"city\":\"FORT THOMAS\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "39.07942636900003",
-        "longitude": "-84.46635820999995",
-        "needs_recoding": false
+        "coordinates": [
+            -84.464496,
+            39.078134
+        ],
+        "type": "Point"
     },
+    "location_address": "85 NORTH GRAND AVENUE",
+    "location_city": "FORT THOMAS",
+    "location_state": "KY",
+    "location_zip": "41075",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8595723100"
-    },
+    "phone_number": "8595723100",
     "provider_id": "180001",
     "raw_ratings": {},
     "state": "KY",

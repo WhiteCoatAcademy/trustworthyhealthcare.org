@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2033 MAIN STREET\",\"city\":\"ATHOL\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.58599277400003",
-        "longitude": "-72.20803166299999",
-        "needs_recoding": false
+        "coordinates": [
+            -72.208189,
+            42.58607
+        ],
+        "type": "Point"
     },
+    "location_address": "2033 MAIN STREET",
+    "location_city": "ATHOL",
+    "location_state": "MA",
+    "location_zip": "01331",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9782493511"
-    },
+    "phone_number": "9782493511",
     "provider_id": "221303",
     "raw_ratings": {},
     "state": "MA",

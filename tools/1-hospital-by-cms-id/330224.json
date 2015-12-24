@@ -4,15 +4,20 @@
     "county_name": "ULSTER",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "HEALTH ALLIANCE HOSPITAL MARY'S AVENUE CAMPUS",
+    "hospital_name": "HEALTHALLIANCE HOSPITAL MARYS AVENUE CAMPUS",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"105 MARY'S AVENUE\",\"city\":\"KINGSTON\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "41.922257708000075",
-        "longitude": "-73.99916040999994",
-        "needs_recoding": false
+        "coordinates": [
+            -73.999084,
+            41.922224
+        ],
+        "type": "Point"
     },
+    "location_address": "105 MARY'S AVENUE",
+    "location_city": "KINGSTON",
+    "location_state": "NY",
+    "location_zip": "12401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8453382500"
-    },
+    "phone_number": "8453382500",
     "provider_id": "330224",
     "raw_ratings": {},
     "state": "NY",

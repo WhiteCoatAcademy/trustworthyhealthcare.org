@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2420 G STREET\",\"city\":\"BELLEVILLE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.818141565000076",
-        "longitude": "-97.63699466499997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.636982,
+            39.818769
+        ],
+        "type": "Point"
     },
+    "location_address": "2420 G STREET",
+    "location_city": "BELLEVILLE",
+    "location_state": "KS",
+    "location_zip": "66935",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7855272254"
-    },
+    "phone_number": "7855272254",
     "provider_id": "171361",
     "raw_ratings": {},
     "state": "KS",

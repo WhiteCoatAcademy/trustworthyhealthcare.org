@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"280 MAPLE STREET\",\"city\":\"ASHLAND\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "42.20644151500005",
-        "longitude": "-122.72475780199994",
-        "needs_recoding": false
+        "coordinates": [
+            -122.724815,
+            42.206445
+        ],
+        "type": "Point"
     },
+    "location_address": "280 MAPLE STREET",
+    "location_city": "ASHLAND",
+    "location_state": "OR",
+    "location_zip": "97520",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5412014001"
-    },
+    "phone_number": "5412014001",
     "provider_id": "380005",
     "raw_ratings": {},
     "state": "OR",

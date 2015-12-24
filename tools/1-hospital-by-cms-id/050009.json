@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 TRANCAS ST\",\"city\":\"NAPA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.32351797500007",
-        "longitude": "-122.29621497699998",
-        "needs_recoding": false
+        "coordinates": [
+            -122.295968,
+            38.323554
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 TRANCAS ST",
+    "location_city": "NAPA",
+    "location_state": "CA",
+    "location_zip": "94558",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.stjhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7072524411"
-    },
+    "phone_number": "7072524411",
     "provider_id": "050009",
     "raw_ratings": {},
     "state": "CA",

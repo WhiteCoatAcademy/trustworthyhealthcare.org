@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"325 9TH AVENUE\",\"city\":\"SEATTLE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.60408674400003",
-        "longitude": "-122.32346298499999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.322954,
+            47.603598
+        ],
+        "type": "Point"
     },
+    "location_address": "325 9TH AVENUE",
+    "location_city": "SEATTLE",
+    "location_state": "WA",
+    "location_zip": "98104",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uwmedicine.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2067313000"
-    },
+    "phone_number": "2067313000",
     "provider_id": "500064",
     "raw_ratings": {},
     "state": "WA",

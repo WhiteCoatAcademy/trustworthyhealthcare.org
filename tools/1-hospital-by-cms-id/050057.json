@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 W MINERAL KING AVE\",\"city\":\"VISALIA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.32738117400004",
-        "longitude": "-119.29608488199995",
-        "needs_recoding": false
+        "coordinates": [
+            -119.294172,
+            36.327415
+        ],
+        "type": "Point"
     },
+    "location_address": "400 W MINERAL KING AVE",
+    "location_city": "VISALIA",
+    "location_state": "CA",
+    "location_zip": "93291",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5596242000"
-    },
+    "phone_number": "5596242000",
     "provider_id": "050057",
     "raw_ratings": {},
     "state": "CA",

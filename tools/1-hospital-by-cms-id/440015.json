@@ -4,15 +4,20 @@
     "county_name": "KNOX",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "UNIVERSITY OF TN MEMORIAL HOSPITAL",
+    "hospital_name": "THE UNIVERSITY OF TN MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1924 ALCOA HIGHWAY\",\"city\":\"KNOXVILLE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.93928460600006",
-        "longitude": "-83.94884771499994",
-        "needs_recoding": false
+        "coordinates": [
+            -83.948635,
+            35.937282
+        ],
+        "type": "Point"
     },
+    "location_address": "1924 ALCOA HIGHWAY",
+    "location_city": "KNOXVILLE",
+    "location_state": "TN",
+    "location_zip": "37920",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8655449000"
-    },
+    "phone_number": "8655449000",
     "provider_id": "440015",
     "raw_ratings": {},
     "state": "TN",

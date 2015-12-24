@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 W 16TH STREET\",\"city\":\"PUEBLO\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "38.281690695000066",
-        "longitude": "-104.61188574499994",
-        "needs_recoding": false
+        "coordinates": [
+            -104.612123,
+            38.281678
+        ],
+        "type": "Point"
     },
+    "location_address": "400 W 16TH STREET",
+    "location_city": "PUEBLO",
+    "location_state": "CO",
+    "location_zip": "81003",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7195844000"
-    },
+    "phone_number": "7195844000",
     "provider_id": "060020",
     "raw_ratings": {},
     "state": "CO",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9920 TALBERT AVENUE\",\"city\":\"FOUNTAIN VALLEY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.70166035600005",
-        "longitude": "-117.95655206999999",
-        "needs_recoding": false
+        "coordinates": [
+            -117.956192,
+            33.70166
+        ],
+        "type": "Point"
     },
+    "location_address": "9920 TALBERT AVENUE",
+    "location_city": "FOUNTAIN VALLEY",
+    "location_state": "CA",
+    "location_zip": "92708",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.memorialcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7143787406"
-    },
+    "phone_number": "7143787406",
     "provider_id": "050678",
     "raw_ratings": {},
     "state": "CA",

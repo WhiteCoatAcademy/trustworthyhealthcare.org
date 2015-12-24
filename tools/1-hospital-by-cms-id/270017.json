@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 S CLARK ST\",\"city\":\"BUTTE\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "46.00946798100006",
-        "longitude": "-112.54601806299996",
-        "needs_recoding": false
+        "coordinates": [
+            -112.546375,
+            46.008582
+        ],
+        "type": "Point"
     },
+    "location_address": "400 S CLARK ST",
+    "location_city": "BUTTE",
+    "location_state": "MT",
+    "location_zip": "59701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sclhsc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4067232500"
-    },
+    "phone_number": "4067232500",
     "provider_id": "270017",
     "raw_ratings": {},
     "state": "MT",

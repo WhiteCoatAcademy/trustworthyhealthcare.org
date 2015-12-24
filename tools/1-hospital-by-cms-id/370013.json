@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4300 WEST MEMORIAL ROAD\",\"city\":\"OKLAHOMA CITY\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.609007286000065",
-        "longitude": "-97.59970900199994",
-        "needs_recoding": false
+        "coordinates": [
+            -97.599625,
+            35.609026
+        ],
+        "type": "Point"
     },
+    "location_address": "4300 WEST MEMORIAL ROAD",
+    "location_city": "OKLAHOMA CITY",
+    "location_state": "OK",
+    "location_zip": "73120",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mercy.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "4057523754"
-    },
+    "phone_number": "4057523754",
     "provider_id": "370013",
     "raw_ratings": {},
     "state": "OK",

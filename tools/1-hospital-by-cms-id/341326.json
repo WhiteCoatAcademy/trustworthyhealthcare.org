@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"120 RIVERVIEW ST PO BOX 1209\",\"city\":\"FRANKLIN\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.184625109000024",
-        "longitude": "-83.37773305099995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.377558,
+            35.184188
+        ],
+        "type": "Point"
     },
+    "location_address": "120 RIVERVIEW ST PO BOX 1209",
+    "location_city": "FRANKLIN",
+    "location_state": "NC",
+    "location_zip": "28734",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8285248411"
-    },
+    "phone_number": "8285248411",
     "provider_id": "341326",
     "raw_ratings": {},
     "state": "NC",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"116 INTERSTATE PARKWAY\",\"city\":\"BRADFORD\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "41.96121059500007",
-        "longitude": "-78.66028438699993",
-        "needs_recoding": false
+        "coordinates": [
+            -78.660094,
+            41.960825
+        ],
+        "type": "Point"
     },
+    "location_address": "116 INTERSTATE PARKWAY",
+    "location_city": "BRADFORD",
+    "location_state": "PA",
+    "location_zip": "16701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8143684143"
-    },
+    "phone_number": "8143684143",
     "provider_id": "390118",
     "raw_ratings": {},
     "state": "PA",

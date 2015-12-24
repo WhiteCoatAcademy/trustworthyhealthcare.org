@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 SOUTH 11TH STREET\",\"city\":\"PHILADELPHIA\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.949790603000054",
-        "longitude": "-75.15866618099994",
-        "needs_recoding": false
+        "coordinates": [
+            -75.15877,
+            39.949632
+        ],
+        "type": "Point"
     },
+    "location_address": "111 SOUTH 11TH STREET",
+    "location_city": "PHILADELPHIA",
+    "location_state": "PA",
+    "location_zip": "19107",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.jeffersonhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2159556000"
-    },
+    "phone_number": "2159556000",
     "provider_id": "390174",
     "raw_ratings": {},
     "state": "PA",

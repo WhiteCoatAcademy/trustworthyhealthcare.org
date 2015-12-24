@@ -4,15 +4,20 @@
     "county_name": "WESTCHESTER",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "HUDSON VALLEY HOSPITAL CENTER",
+    "hospital_name": "NEW YORK-PRESBYTERIAN/HUDSON VALLEY HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1980 CROMPOND ROAD\",\"city\":\"CORTLANDT MANOR\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "41.291477901000064",
-        "longitude": "-73.89280710299994",
-        "needs_recoding": false
+        "coordinates": [
+            -73.893442,
+            41.29146
+        ],
+        "type": "Point"
     },
+    "location_address": "1980 CROMPOND ROAD",
+    "location_city": "CORTLANDT MANOR",
+    "location_state": "NY",
+    "location_zip": "10567",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9147343611"
-    },
+    "phone_number": "9147343611",
     "provider_id": "330267",
     "raw_ratings": {},
     "state": "NY",

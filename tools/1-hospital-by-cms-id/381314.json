@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"930 SW ABBEY STREET\",\"city\":\"NEWPORT\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "44.62978235500003",
-        "longitude": "-124.05905866199998",
-        "needs_recoding": false
+        "coordinates": [
+            -124.06,
+            44.630139
+        ],
+        "type": "Point"
     },
+    "location_address": "930 SW ABBEY STREET",
+    "location_city": "NEWPORT",
+    "location_state": "OR",
+    "location_zip": "97365",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.samhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5412652244"
-    },
+    "phone_number": "5412652244",
     "provider_id": "381314",
     "raw_ratings": {},
     "state": "OR",

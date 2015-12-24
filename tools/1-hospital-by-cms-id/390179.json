@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 EAST MARSHALL STREET\",\"city\":\"WEST CHESTER\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.972939104000034",
-        "longitude": "-75.60034702199994",
-        "needs_recoding": false
+        "coordinates": [
+            -75.600736,
+            39.972278
+        ],
+        "type": "Point"
     },
+    "location_address": "701 EAST MARSHALL STREET",
+    "location_city": "WEST CHESTER",
+    "location_state": "PA",
+    "location_zip": "19380",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6104315000"
-    },
+    "phone_number": "6104315000",
     "provider_id": "390179",
     "raw_ratings": {},
     "state": "PA",

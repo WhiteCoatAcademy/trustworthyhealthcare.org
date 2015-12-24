@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1101 NOTT STREET\",\"city\":\"SCHENECTADY\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.81970663800007",
-        "longitude": "-73.91833244999998",
-        "needs_recoding": false
+        "coordinates": [
+            -73.91653,
+            42.8191
+        ],
+        "type": "Point"
     },
+    "location_address": "1101 NOTT STREET",
+    "location_city": "SCHENECTADY",
+    "location_state": "NY",
+    "location_zip": "12308",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5182434196"
-    },
+    "phone_number": "5182434196",
     "provider_id": "330153",
     "raw_ratings": {},
     "state": "NY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1460 G STREET\",\"city\":\"SPRINGFIELD\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "44.05243731300004",
-        "longitude": "-123.00384967599996",
-        "needs_recoding": false
+        "coordinates": [
+            -123.003296,
+            44.052402
+        ],
+        "type": "Point"
     },
+    "location_address": "1460 G STREET",
+    "location_city": "SPRINGFIELD",
+    "location_state": "OR",
+    "location_zip": "97477",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "5417264400"
-    },
+    "phone_number": "5417264400",
     "provider_id": "380020",
     "raw_ratings": {},
     "state": "OR",

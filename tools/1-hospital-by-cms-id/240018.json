@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 HEWITT BOULEVARD, PO BOX 95\",\"city\":\"RED WING\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.56658357200007",
-        "longitude": "-92.53434787999998",
-        "needs_recoding": false
+        "coordinates": [
+            -92.575197,
+            44.560274
+        ],
+        "type": "Point"
     },
+    "location_address": "701 HEWITT BOULEVARD, PO BOX 95",
+    "location_city": "RED WING",
+    "location_state": "MN",
+    "location_zip": "55066",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.fairview.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6512675000"
-    },
+    "phone_number": "6512675000",
     "provider_id": "240018",
     "raw_ratings": {},
     "state": "MN",

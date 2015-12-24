@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"413 LILLY ROAD NE\",\"city\":\"OLYMPIA\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.04645724400007",
-        "longitude": "-122.84436926399997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.844374,
+            47.051243
+        ],
+        "type": "Point"
     },
+    "location_address": "413 LILLY ROAD NE",
+    "location_city": "OLYMPIA",
+    "location_state": "WA",
+    "location_zip": "98506",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.providence.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3604919480"
-    },
+    "phone_number": "3604919480",
     "provider_id": "500024",
     "raw_ratings": {},
     "state": "WA",

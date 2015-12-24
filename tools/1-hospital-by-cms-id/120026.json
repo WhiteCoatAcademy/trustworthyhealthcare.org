@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"98-1079 MOANALUA ROAD\",\"city\":\"AIEA\",\"state\":\"HI\",\"zip\":\"\"}",
-        "latitude": "21.384055774000046",
-        "longitude": "-157.93777450199997",
-        "needs_recoding": false
+        "coordinates": [
+            -157.937544,
+            21.383687
+        ],
+        "type": "Point"
     },
+    "location_address": "98-1079 MOANALUA ROAD",
+    "location_city": "AIEA",
+    "location_state": "HI",
+    "location_zip": "96701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hawaiipacifichealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8084866000"
-    },
+    "phone_number": "8084866000",
     "provider_id": "120026",
     "raw_ratings": {},
     "state": "HI",

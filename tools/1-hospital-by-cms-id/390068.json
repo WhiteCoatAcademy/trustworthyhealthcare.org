@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 HIGHLANDS DRIVE\",\"city\":\"LITITZ\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.13415831000003",
-        "longitude": "-76.30949466699997",
-        "needs_recoding": false
+        "coordinates": [
+            -76.310857,
+            40.131086
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 HIGHLANDS DRIVE",
+    "location_city": "LITITZ",
+    "location_state": "PA",
+    "location_zip": "17543",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7176255000"
-    },
+    "phone_number": "7176255000",
     "provider_id": "390068",
     "raw_ratings": {},
     "state": "PA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6800 N MACARTHUR BLVD\",\"city\":\"IRVING\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.90202973100003",
-        "longitude": "-96.95863829399997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.958677,
+            32.902165
+        ],
+        "type": "Point"
     },
+    "location_address": "6800 N MACARTHUR BLVD",
+    "location_city": "IRVING",
+    "location_state": "TX",
+    "location_zip": "75039",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9729692000"
-    },
+    "phone_number": "9729692000",
     "provider_id": "450822",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9888 GENESEE AVENUE\",\"city\":\"LA JOLLA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "32.885658111000055",
-        "longitude": "-117.22317905799997",
-        "needs_recoding": false
+        "coordinates": [
+            -117.222971,
+            32.885475
+        ],
+        "type": "Point"
     },
+    "location_address": "9888 GENESEE AVENUE",
+    "location_city": "LA JOLLA",
+    "location_state": "CA",
+    "location_zip": "92037",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.scripps.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8586264123"
-    },
+    "phone_number": "8586264123",
     "provider_id": "050324",
     "raw_ratings": {},
     "state": "CA",

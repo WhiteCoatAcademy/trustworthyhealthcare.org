@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2095 HENRY TECKLENBURG DRIVE\",\"city\":\"CHARLESTON\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "32.810448965000035",
-        "longitude": "-80.04144832299994",
-        "needs_recoding": false
+        "coordinates": [
+            -80.041516,
+            32.810487
+        ],
+        "type": "Point"
     },
+    "location_address": "2095 HENRY TECKLENBURG DRIVE",
+    "location_city": "CHARLESTON",
+    "location_state": "SC",
+    "location_zip": "29414",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bshsi.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8434021006"
-    },
+    "phone_number": "8434021006",
     "provider_id": "420065",
     "raw_ratings": {},
     "state": "SC",

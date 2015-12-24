@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2001 KINGSLEY AVE\",\"city\":\"ORANGE PARK\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "30.164808478000054",
-        "longitude": "-81.73794154099994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.737887,
+            30.164829
+        ],
+        "type": "Point"
     },
+    "location_address": "2001 KINGSLEY AVE",
+    "location_city": "ORANGE PARK",
+    "location_state": "FL",
+    "location_zip": "32073",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9042768500"
-    },
+    "phone_number": "9042768500",
     "provider_id": "100226",
     "raw_ratings": {},
     "state": "FL",

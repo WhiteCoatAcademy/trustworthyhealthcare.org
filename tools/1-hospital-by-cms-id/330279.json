@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"565 ABBOTT ROAD\",\"city\":\"BUFFALO\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.84835466800007",
-        "longitude": "-78.81253768799996",
-        "needs_recoding": false
+        "coordinates": [
+            -78.812795,
+            42.848556
+        ],
+        "type": "Point"
     },
+    "location_address": "565 ABBOTT ROAD",
+    "location_city": "BUFFALO",
+    "location_state": "NY",
+    "location_zip": "14220",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.che.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7168267000"
-    },
+    "phone_number": "7168267000",
     "provider_id": "330279",
     "raw_ratings": {},
     "state": "NY",

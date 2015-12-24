@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2500 NE NEFF ROAD\",\"city\":\"BEND\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "44.065796868000064",
-        "longitude": "-121.26651981499998",
-        "needs_recoding": false
+        "coordinates": [
+            -121.265718,
+            44.065758
+        ],
+        "type": "Point"
     },
+    "location_address": "2500 NE NEFF ROAD",
+    "location_city": "BEND",
+    "location_state": "OR",
+    "location_zip": "97701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.cascadehealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5413824321"
-    },
+    "phone_number": "5413824321",
     "provider_id": "380047",
     "raw_ratings": {},
     "state": "OR",

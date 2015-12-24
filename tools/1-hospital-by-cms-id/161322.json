@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"610 TENTH STREET\",\"city\":\"PERRY\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.83383160100004",
-        "longitude": "-94.09441369099994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.094468,
+            41.833838
+        ],
+        "type": "Point"
     },
+    "location_address": "610 TENTH STREET",
+    "location_city": "PERRY",
+    "location_state": "IA",
+    "location_zip": "50220",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5154653547"
-    },
+    "phone_number": "5154653547",
     "provider_id": "161322",
     "raw_ratings": {},
     "state": "IA",

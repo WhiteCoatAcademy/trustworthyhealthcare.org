@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"135 HIGHWAY 402\",\"city\":\"NAPOLEONVILLE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "29.958613155000023",
-        "longitude": "-91.07276768499997",
-        "needs_recoding": false
+        "coordinates": [
+            -91.031508,
+            29.955515
+        ],
+        "type": "Point"
     },
+    "location_address": "135 HIGHWAY 402",
+    "location_city": "NAPOLEONVILLE",
+    "location_state": "LA",
+    "location_zip": "70390",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9853693600"
-    },
+    "phone_number": "9853693600",
     "provider_id": "191303",
     "raw_ratings": {},
     "state": "LA",

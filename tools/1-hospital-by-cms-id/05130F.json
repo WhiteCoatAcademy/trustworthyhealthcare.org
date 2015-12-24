@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"4150 CLEMENT STREET\",\"city\":\"SAN FRANCISCO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.781166893000034",
-        "longitude": "-122.50362795099994",
-        "needs_recoding": false
+        "coordinates": [
+            -122.503082,
+            37.781173
+        ],
+        "type": "Point"
     },
+    "location_address": "4150 CLEMENT STREET",
+    "location_city": "SAN FRANCISCO",
+    "location_state": "CA",
+    "location_zip": "94121",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4152214810"
-    },
+    "phone_number": "4152214810",
     "provider_id": "05130F",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 MEDICAL CENTER DRIVE\",\"city\":\"HARDEEVILLE\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "32.315647227000056",
-        "longitude": "-81.05557444299995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.055052,
+            32.31256
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 MEDICAL CENTER DRIVE",
+    "location_city": "HARDEEVILLE",
+    "location_state": "SC",
+    "location_zip": "29927",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8437848000"
-    },
+    "phone_number": "8437848182",
     "provider_id": "420101",
     "raw_ratings": {},
     "state": "SC",

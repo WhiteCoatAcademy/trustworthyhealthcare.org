@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1325 SPRING STREET\",\"city\":\"GREENWOOD\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.175162863000025",
-        "longitude": "-82.15759105499995",
-        "needs_recoding": false
+        "coordinates": [
+            -82.157873,
+            34.175367
+        ],
+        "type": "Point"
     },
+    "location_address": "1325 SPRING STREET",
+    "location_city": "GREENWOOD",
+    "location_state": "SC",
+    "location_zip": "29646",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8642274111"
-    },
+    "phone_number": "8642274111",
     "provider_id": "420071",
     "raw_ratings": {},
     "state": "SC",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1303 E HERNDON AVE\",\"city\":\"FRESNO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.83705864500007",
-        "longitude": "-119.76618209999998",
-        "needs_recoding": false
+        "coordinates": [
+            -119.765685,
+            36.837103
+        ],
+        "type": "Point"
     },
+    "location_address": "1303 E HERNDON AVE",
+    "location_city": "FRESNO",
+    "location_state": "CA",
+    "location_zip": "93710",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trinity-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5594503000"
-    },
+    "phone_number": "5594503000",
     "provider_id": "050093",
     "raw_ratings": {},
     "state": "CA",

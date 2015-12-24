@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 EAST 16TH STREET\",\"city\":\"BERWICK\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "41.07015756800007",
-        "longitude": "-76.23093544399995",
-        "needs_recoding": false
+        "coordinates": [
+            -76.230739,
+            41.070178
+        ],
+        "type": "Point"
     },
+    "location_address": "701 EAST 16TH STREET",
+    "location_city": "BERWICK",
+    "location_state": "PA",
+    "location_zip": "18603",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "5707595000"
-    },
+    "phone_number": "5707595000",
     "provider_id": "390072",
     "raw_ratings": {},
     "state": "PA",

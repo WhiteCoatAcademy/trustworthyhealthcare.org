@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"255 N WELCH AVENUE\",\"city\":\"PRIMGHAR\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "43.08870710600007",
-        "longitude": "-95.62284693599997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.622824,
+            43.08868
+        ],
+        "type": "Point"
     },
+    "location_address": "255 N WELCH AVENUE",
+    "location_city": "PRIMGHAR",
+    "location_state": "IA",
+    "location_zip": "51245",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mercyhealthnetwork.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7129572300"
-    },
+    "phone_number": "7129572300",
     "provider_id": "161300",
     "raw_ratings": {},
     "state": "IA",

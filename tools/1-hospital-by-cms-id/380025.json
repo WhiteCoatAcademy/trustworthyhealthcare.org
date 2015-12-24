@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"24800 SE STARK STREET\",\"city\":\"GRESHAM\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "45.519019350000065",
-        "longitude": "-122.40820045999999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.407395,
+            45.519054
+        ],
+        "type": "Point"
     },
+    "location_address": "24800 SE STARK STREET",
+    "location_city": "GRESHAM",
+    "location_state": "OR",
+    "location_zip": "97030",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.legacyhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5036741122"
-    },
+    "phone_number": "5036741122",
     "provider_id": "380025",
     "raw_ratings": {},
     "state": "OR",

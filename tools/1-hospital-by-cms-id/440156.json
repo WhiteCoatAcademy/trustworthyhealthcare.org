@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2333 MCCALLIE AVE\",\"city\":\"CHATTANOOGA\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.033491095000045",
-        "longitude": "-85.26810209699994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.26886,
+            35.033739
+        ],
+        "type": "Point"
     },
+    "location_address": "2333 MCCALLIE AVE",
+    "location_city": "CHATTANOOGA",
+    "location_state": "TN",
+    "location_zip": "37404",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4238944220"
-    },
+    "phone_number": "4238944220",
     "provider_id": "440156",
     "raw_ratings": {},
     "state": "TN",

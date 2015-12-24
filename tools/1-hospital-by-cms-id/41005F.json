@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"830 CHALKSTONE AVENUE\",\"city\":\"PROVIDENCE\",\"state\":\"RI\",\"zip\":\"\"}",
-        "latitude": "41.83392713400008",
-        "longitude": "-71.43482981399995",
-        "needs_recoding": false
+        "coordinates": [
+            -71.434938,
+            41.833915
+        ],
+        "type": "Point"
     },
+    "location_address": "830 CHALKSTONE AVENUE",
+    "location_city": "PROVIDENCE",
+    "location_state": "RI",
+    "location_zip": "02908",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4014573042"
-    },
+    "phone_number": "4014573042",
     "provider_id": "41005F",
     "raw_ratings": {},
     "state": "RI",

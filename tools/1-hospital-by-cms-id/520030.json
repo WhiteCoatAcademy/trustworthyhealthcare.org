@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"333 PINE RIDGE BLVD\",\"city\":\"WAUSAU\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.965473159000055",
-        "longitude": "-89.67039935199995",
-        "needs_recoding": false
+        "coordinates": [
+            -89.670276,
+            44.965761
+        ],
+        "type": "Point"
     },
+    "location_address": "333 PINE RIDGE BLVD",
+    "location_city": "WAUSAU",
+    "location_state": "WI",
+    "location_zip": "54401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "aspirus.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7158472121"
-    },
+    "phone_number": "7158472121",
     "provider_id": "520030",
     "raw_ratings": {},
     "state": "WI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"927 WEST CHURCHILL STREET\",\"city\":\"STILLWATER\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.04812348200005",
-        "longitude": "-92.81747150299998",
-        "needs_recoding": false
+        "coordinates": [
+            -92.818271,
+            45.048124
+        ],
+        "type": "Point"
     },
+    "location_address": "927 WEST CHURCHILL STREET",
+    "location_city": "STILLWATER",
+    "location_state": "MN",
+    "location_zip": "55082",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6514395330"
-    },
+    "phone_number": "6514305330",
     "provider_id": "240066",
     "raw_ratings": {},
     "state": "MN",

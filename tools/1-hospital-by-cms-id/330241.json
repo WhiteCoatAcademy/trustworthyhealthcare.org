@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"750 EAST ADAMS STREET\",\"city\":\"SYRACUSE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.04266635600004",
-        "longitude": "-76.14038251099998",
-        "needs_recoding": false
+        "coordinates": [
+            -76.138852,
+            43.042677
+        ],
+        "type": "Point"
     },
+    "location_address": "750 EAST ADAMS STREET",
+    "location_city": "SYRACUSE",
+    "location_state": "NY",
+    "location_zip": "13210",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3154734240"
-    },
+    "phone_number": "3154734240",
     "provider_id": "330241",
     "raw_ratings": {},
     "state": "NY",

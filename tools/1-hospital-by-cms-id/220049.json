@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"157 UNION STREET\",\"city\":\"MARLBOROUGH\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.35440602300008",
-        "longitude": "-71.55372110999997",
-        "needs_recoding": false
+        "coordinates": [
+            -71.553996,
+            42.354246
+        ],
+        "type": "Point"
     },
+    "location_address": "157 UNION STREET",
+    "location_city": "MARLBOROUGH",
+    "location_state": "MA",
+    "location_zip": "01752",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.umassmemorial.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5084815000"
-    },
+    "phone_number": "5084815000",
     "provider_id": "220049",
     "raw_ratings": {},
     "state": "MA",

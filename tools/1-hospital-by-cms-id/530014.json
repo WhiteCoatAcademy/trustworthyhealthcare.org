@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"214 EAST 23RD STREET\",\"city\":\"CHEYENNE\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "41.14007728900003",
-        "longitude": "-104.81646050799998",
-        "needs_recoding": false
+        "coordinates": [
+            -104.817035,
+            41.13979
+        ],
+        "type": "Point"
     },
+    "location_address": "214 EAST 23RD STREET",
+    "location_city": "CHEYENNE",
+    "location_state": "WY",
+    "location_zip": "82001",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3076342273"
-    },
+    "phone_number": "3076342273",
     "provider_id": "530014",
     "raw_ratings": {},
     "state": "WY",

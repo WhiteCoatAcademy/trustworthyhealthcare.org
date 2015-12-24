@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2221 WEST ELM STREET\",\"city\":\"RAWLINS\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "41.78670187900008",
-        "longitude": "-107.26091133099999",
-        "needs_recoding": false
+        "coordinates": [
+            -107.261223,
+            41.786586
+        ],
+        "type": "Point"
     },
+    "location_address": "2221 WEST ELM STREET",
+    "location_city": "RAWLINS",
+    "location_state": "WY",
+    "location_zip": "82301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3073242221"
-    },
+    "phone_number": "3073242221",
     "provider_id": "531316",
     "raw_ratings": {},
     "state": "WY",

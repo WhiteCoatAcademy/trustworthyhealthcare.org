@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"301 EAST MAIN STREET\",\"city\":\"BAY SHORE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.72507723200005",
-        "longitude": "-73.23991615999995",
-        "needs_recoding": false
+        "coordinates": [
+            -73.241346,
+            40.724781
+        ],
+        "type": "Point"
     },
+    "location_address": "301 EAST MAIN STREET",
+    "location_city": "BAY SHORE",
+    "location_state": "NY",
+    "location_zip": "11706",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.northshorelij.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6319683000"
-    },
+    "phone_number": "6319683000",
     "provider_id": "330043",
     "raw_ratings": {},
     "state": "NY",

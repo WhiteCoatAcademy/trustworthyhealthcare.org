@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"777 AVENUE H\",\"city\":\"POWELL\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "44.75615394500005",
-        "longitude": "-108.77077761399994",
-        "needs_recoding": false
+        "coordinates": [
+            -108.770443,
+            44.756616
+        ],
+        "type": "Point"
     },
+    "location_address": "777 AVENUE H",
+    "location_city": "POWELL",
+    "location_state": "WY",
+    "location_zip": "82435",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3077542267"
-    },
+    "phone_number": "3077542267",
     "provider_id": "531310",
     "raw_ratings": {},
     "state": "WY",

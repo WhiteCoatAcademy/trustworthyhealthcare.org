@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4201 BELFORT RD\",\"city\":\"JACKSONVILLE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "30.253705867000065",
-        "longitude": "-81.58402895499995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.584126,
+            30.253103
+        ],
+        "type": "Point"
     },
+    "location_address": "4201 BELFORT RD",
+    "location_city": "JACKSONVILLE",
+    "location_state": "FL",
+    "location_zip": "32216",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9042963700"
-    },
+    "phone_number": "9042963700",
     "provider_id": "100307",
     "raw_ratings": {},
     "state": "FL",

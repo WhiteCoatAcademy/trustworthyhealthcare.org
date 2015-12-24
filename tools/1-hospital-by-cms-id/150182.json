@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"12188 B NORTH MERIDIAN STREET\",\"city\":\"CARMEL\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.96621168200005",
-        "longitude": "-86.15841119099997",
-        "needs_recoding": false
+        "coordinates": [
+            -86.158383,
+            39.966155
+        ],
+        "type": "Point"
     },
+    "location_address": "12188 B NORTH MERIDIAN STREET",
+    "location_city": "CARMEL",
+    "location_state": "IN",
+    "location_zip": "46032",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3177054500"
-    },
+    "phone_number": "3177054500",
     "provider_id": "150182",
     "raw_ratings": {},
     "state": "IN",

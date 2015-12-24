@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1460 ORANGE STREET\",\"city\":\"COSHOCTON\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.27049209200004",
-        "longitude": "-81.84804367399994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.847549,
+            40.270441
+        ],
+        "type": "Point"
     },
+    "location_address": "1460 ORANGE STREET",
+    "location_city": "COSHOCTON",
+    "location_state": "OH",
+    "location_zip": "43812",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7406226411"
-    },
+    "phone_number": "7406226411",
     "provider_id": "360109",
     "raw_ratings": {},
     "state": "OH",

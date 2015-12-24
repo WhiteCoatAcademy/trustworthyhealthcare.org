@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2101 E DUBOIS DR\",\"city\":\"WARSAW\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.24642829100003",
-        "longitude": "-85.82832074599997",
-        "needs_recoding": false
+        "coordinates": [
+            -85.82832,
+            41.24643
+        ],
+        "type": "Point"
     },
+    "location_address": "2101 E DUBOIS DR",
+    "location_city": "WARSAW",
+    "location_state": "IN",
+    "location_zip": "46580",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "5742673200"
-    },
+    "phone_number": "5742673200",
     "provider_id": "150133",
     "raw_ratings": {},
     "state": "IN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6308 EIGHTH AVE\",\"city\":\"KENOSHA\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "42.57730917900005",
-        "longitude": "-87.81929779399997",
-        "needs_recoding": false
+        "coordinates": [
+            -87.819278,
+            42.577036
+        ],
+        "type": "Point"
     },
+    "location_address": "6308 EIGHTH AVE",
+    "location_city": "KENOSHA",
+    "location_state": "WI",
+    "location_zip": "53143",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wfs-inc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2626562011"
-    },
+    "phone_number": "2626562011",
     "provider_id": "520021",
     "raw_ratings": {},
     "state": "WI",

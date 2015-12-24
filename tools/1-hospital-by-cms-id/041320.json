@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"451 WEST LOCKE STREET\",\"city\":\"ASHDOWN\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "33.66926275000003",
-        "longitude": "-94.12515080899999",
-        "needs_recoding": false
+        "coordinates": [
+            -94.134808,
+            33.669566
+        ],
+        "type": "Point"
     },
+    "location_address": "451 WEST LOCKE STREET",
+    "location_city": "ASHDOWN",
+    "location_state": "AR",
+    "location_zip": "71822",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8708985011"
-    },
+    "phone_number": "8708985011",
     "provider_id": "041320",
     "raw_ratings": {},
     "state": "AR",

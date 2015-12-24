@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1604 AYLWARD AVENUE\",\"city\":\"ELLSWORTH\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.74200079600007",
-        "longitude": "-98.21893399999999",
-        "needs_recoding": false
+        "coordinates": [
+            -98.218907,
+            38.738704
+        ],
+        "type": "Point"
     },
+    "location_address": "1604 AYLWARD AVENUE",
+    "location_city": "ELLSWORTH",
+    "location_state": "KS",
+    "location_zip": "67439",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7854723111"
-    },
+    "phone_number": "7854723111",
     "provider_id": "171327",
     "raw_ratings": {},
     "state": "KS",

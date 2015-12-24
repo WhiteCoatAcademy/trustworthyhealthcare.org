@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1634 ELTON ROAD\",\"city\":\"JENNINGS\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.238037020000036",
-        "longitude": "-92.66339518799998",
-        "needs_recoding": false
+        "coordinates": [
+            -92.66344,
+            30.23828
+        ],
+        "type": "Point"
     },
+    "location_address": "1634 ELTON ROAD",
+    "location_city": "JENNINGS",
+    "location_state": "LA",
+    "location_zip": "70546",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3376167000"
-    },
+    "phone_number": "3376167000",
     "provider_id": "190053",
     "raw_ratings": {},
     "state": "LA",

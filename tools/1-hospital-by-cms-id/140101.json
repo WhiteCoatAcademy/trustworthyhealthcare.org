@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"150 W HIGH ST\",\"city\":\"MORRIS\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.368965616000025",
-        "longitude": "-88.42611751799996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.426016,
+            41.368907
+        ],
+        "type": "Point"
     },
+    "location_address": "150 W HIGH ST",
+    "location_city": "MORRIS",
+    "location_state": "IL",
+    "location_zip": "60450",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8159422932"
-    },
+    "phone_number": "8159422932",
     "provider_id": "140101",
     "raw_ratings": {},
     "state": "IL",

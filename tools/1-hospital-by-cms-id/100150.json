@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5900 COLLEGE ROAD\",\"city\":\"KEY WEST\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "24.581636658000036",
-        "longitude": "-81.74114603699996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.743226,
+            24.581801
+        ],
+        "type": "Point"
     },
+    "location_address": "5900 COLLEGE ROAD",
+    "location_city": "KEY WEST",
+    "location_state": "FL",
+    "location_zip": "33040",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3052945531"
-    },
+    "phone_number": "3052945531",
     "provider_id": "100150",
     "raw_ratings": {},
     "state": "FL",

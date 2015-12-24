@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"18688 JEB STUART HIGHWAY\",\"city\":\"STUART\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "36.64689883500006",
-        "longitude": "-80.25654606999996",
-        "needs_recoding": false
+        "coordinates": [
+            -80.27834,
+            36.675475
+        ],
+        "type": "Point"
     },
+    "location_address": "18688 JEB STUART HIGHWAY",
+    "location_city": "STUART",
+    "location_state": "VA",
+    "location_zip": "24171",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2766943151"
-    },
+    "phone_number": "2766943151",
     "provider_id": "491306",
     "raw_ratings": {},
     "state": "VA",

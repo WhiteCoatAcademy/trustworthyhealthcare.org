@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"305 LANGDON STREET\",\"city\":\"SOMERSET\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.087082346000045",
-        "longitude": "-84.61823726699998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.617298,
+            37.086395
+        ],
+        "type": "Point"
     },
+    "location_address": "305 LANGDON STREET",
+    "location_city": "SOMERSET",
+    "location_state": "KY",
+    "location_zip": "42502",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6066797441"
-    },
+    "phone_number": "6066797441",
     "provider_id": "180132",
     "raw_ratings": {},
     "state": "KY",

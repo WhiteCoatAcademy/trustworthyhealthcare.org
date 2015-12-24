@@ -1,5 +1,5 @@
 {
-    "address": "705 E TAYLOR ST",
+    "address": "37868 US HWY 18",
     "city": "PRAIRIE DU CHIEN",
     "county_name": "CRAWFORD",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"705 E TAYLOR ST\",\"city\":\"PRAIRIE DU CHIEN\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.04406345600006",
-        "longitude": "-91.13791147599994",
-        "needs_recoding": false
+        "coordinates": [
+            -91.094544,
+            43.01384
+        ],
+        "type": "Point"
     },
+    "location_address": "37868 US HWY 18",
+    "location_city": "PRAIRIE DU CHIEN",
+    "location_state": "WI",
+    "location_zip": "53821",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6083572000"
-    },
+    "phone_number": "6083572000",
     "provider_id": "521330",
     "raw_ratings": {},
     "state": "WI",

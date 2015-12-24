@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1117 EAST DEVONSHIRE\",\"city\":\"HEMET\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.751172703000066",
-        "longitude": "-116.96029978999997",
-        "needs_recoding": false
+        "coordinates": [
+            -116.959841,
+            33.75122
+        ],
+        "type": "Point"
     },
+    "location_address": "1117 EAST DEVONSHIRE",
+    "location_city": "HEMET",
+    "location_state": "CA",
+    "location_zip": "92543",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.valleyhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9516522811"
-    },
+    "phone_number": "9516522811",
     "provider_id": "050390",
     "raw_ratings": {},
     "state": "CA",

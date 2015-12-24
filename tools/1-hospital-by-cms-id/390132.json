@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 WEST GIRARD AVENUE\",\"city\":\"PHILADELPHIA\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.97187324400005",
-        "longitude": "-75.16286479399997",
-        "needs_recoding": false
+        "coordinates": [
+            -75.163506,
+            39.971975
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 WEST GIRARD AVENUE",
+    "location_city": "PHILADELPHIA",
+    "location_state": "PA",
+    "location_zip": "19130",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nphs.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2157872000"
-    },
+    "phone_number": "2157872000",
     "provider_id": "390132",
     "raw_ratings": {},
     "state": "PA",

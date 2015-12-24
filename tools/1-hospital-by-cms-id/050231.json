@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1798 N GAREY AVE\",\"city\":\"POMONA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.07793447600005",
-        "longitude": "-117.75232645699998",
-        "needs_recoding": false
+        "coordinates": [
+            -117.752315,
+            34.07752
+        ],
+        "type": "Point"
     },
+    "location_address": "1798 N GAREY AVE",
+    "location_city": "POMONA",
+    "location_state": "CA",
+    "location_zip": "91767",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9098659500"
-    },
+    "phone_number": "9098659500",
     "provider_id": "050231",
     "raw_ratings": {},
     "state": "CA",

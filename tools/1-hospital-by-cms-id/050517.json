@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"15248 11TH ST\",\"city\":\"VICTORVILLE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.528181681000035",
-        "longitude": "-117.29256255599995",
-        "needs_recoding": false
+        "coordinates": [
+            -117.292535,
+            34.528027
+        ],
+        "type": "Point"
     },
+    "location_address": "15248 11TH ST",
+    "location_city": "VICTORVILLE",
+    "location_state": "CA",
+    "location_zip": "92392",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7602458691"
-    },
+    "phone_number": "7602458691",
     "provider_id": "050517",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1364 CLIFTON ROAD, NE\",\"city\":\"ATLANTA\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.79233912300003",
-        "longitude": "-84.32099324899997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.320977,
+            33.791881
+        ],
+        "type": "Point"
     },
+    "location_address": "1364 CLIFTON ROAD, NE",
+    "location_city": "ATLANTA",
+    "location_state": "GA",
+    "location_zip": "30322",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.emoryhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4046868500"
-    },
+    "phone_number": "4046868500",
     "provider_id": "110010",
     "raw_ratings": {},
     "state": "GA",

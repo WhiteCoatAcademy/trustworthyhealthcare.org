@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"200 SPRINGS ROAD\",\"city\":\"BEDFORD\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.503508071000056",
-        "longitude": "-71.27264839599997",
-        "needs_recoding": false
+        "coordinates": [
+            -71.272955,
+            42.504878
+        ],
+        "type": "Point"
     },
+    "location_address": "200 SPRINGS ROAD",
+    "location_city": "BEDFORD",
+    "location_state": "MA",
+    "location_zip": "01730",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "7812757500"
-    },
+    "phone_number": "7812757500",
     "provider_id": "22001F",
     "raw_ratings": {},
     "state": "MA",

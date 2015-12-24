@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6401 N FEDERAL HWY\",\"city\":\"FORT LAUDERDALE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.20683797600003",
-        "longitude": "-80.10809998499997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.108056,
+            26.206881
+        ],
+        "type": "Point"
     },
+    "location_address": "6401 N FEDERAL HWY",
+    "location_city": "FORT LAUDERDALE",
+    "location_state": "FL",
+    "location_zip": "33308",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.browardhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9547768500"
-    },
+    "phone_number": "9547768500",
     "provider_id": "100200",
     "raw_ratings": {},
     "state": "FL",

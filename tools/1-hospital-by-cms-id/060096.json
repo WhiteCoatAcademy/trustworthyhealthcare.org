@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"181 W MEADOW DRIVE\",\"city\":\"VAIL\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.64283801900007",
-        "longitude": "-106.38126958299995",
-        "needs_recoding": false
+        "coordinates": [
+            -106.381675,
+            39.642818
+        ],
+        "type": "Point"
     },
+    "location_address": "181 W MEADOW DRIVE",
+    "location_city": "VAIL",
+    "location_state": "CO",
+    "location_zip": "81657",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9704762451"
-    },
+    "phone_number": "9704762451",
     "provider_id": "060096",
     "raw_ratings": {},
     "state": "CO",

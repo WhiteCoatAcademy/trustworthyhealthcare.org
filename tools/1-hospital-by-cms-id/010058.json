@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"208 PIERSON AVE\",\"city\":\"CENTREVILLE\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "32.95133452600004",
-        "longitude": "-87.14764515199994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.146934,
+            32.951367
+        ],
+        "type": "Point"
     },
+    "location_address": "208 PIERSON AVE",
+    "location_city": "CENTREVILLE",
+    "location_state": "AL",
+    "location_zip": "35042",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2059264881"
-    },
+    "phone_number": "2059264881",
     "provider_id": "010058",
     "raw_ratings": {},
     "state": "AL",

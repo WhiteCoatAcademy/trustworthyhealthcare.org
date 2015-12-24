@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"530 BOGACHIEL WAY\",\"city\":\"FORKS\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.946189996000044",
-        "longitude": "-124.39317890599995",
-        "needs_recoding": false
+        "coordinates": [
+            -124.393214,
+            47.946446
+        ],
+        "type": "Point"
     },
+    "location_address": "530 BOGACHIEL WAY",
+    "location_city": "FORKS",
+    "location_state": "WA",
+    "location_zip": "98331",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3603746271"
-    },
+    "phone_number": "3603746271",
     "provider_id": "501325",
     "raw_ratings": {},
     "state": "WA",

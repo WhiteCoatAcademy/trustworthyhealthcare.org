@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "LORETTO HOSPITAL",
-    "hospital_ownership": "Proprietary",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"645 SOUTH CENTRAL AVE\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.89244241600005",
-        "longitude": "-87.76526384299996",
-        "needs_recoding": false
+        "coordinates": [
+            -87.764457,
+            41.872369
+        ],
+        "type": "Point"
     },
+    "location_address": "645 SOUTH CENTRAL AVE",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60644",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7736264300"
-    },
+    "phone_number": "7736264300",
     "provider_id": "140083",
     "raw_ratings": {},
     "state": "IL",

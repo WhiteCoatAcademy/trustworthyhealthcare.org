@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"855 MANKATO AVENUE\",\"city\":\"WINONA\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.03318260000003",
-        "longitude": "-91.62220768999998",
-        "needs_recoding": false
+        "coordinates": [
+            -91.622136,
+            44.033016
+        ],
+        "type": "Point"
     },
+    "location_address": "855 MANKATO AVENUE",
+    "location_city": "WINONA",
+    "location_state": "MN",
+    "location_zip": "55987",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5074543650"
-    },
+    "phone_number": "5074543650",
     "provider_id": "240044",
     "raw_ratings": {},
     "state": "MN",

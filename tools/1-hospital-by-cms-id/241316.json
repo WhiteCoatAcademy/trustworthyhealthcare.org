@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"258 PINE TREE DRIVE PO BOX 258\",\"city\":\"BIGFORK\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "47.74734000800004",
-        "longitude": "-93.64427700899995",
-        "needs_recoding": false
+        "coordinates": [
+            -93.646237,
+            47.746879
+        ],
+        "type": "Point"
     },
+    "location_address": "258 PINE TREE DRIVE PO BOX 258",
+    "location_city": "BIGFORK",
+    "location_state": "MN",
+    "location_zip": "56628",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2187433177"
-    },
+    "phone_number": "2187433177",
     "provider_id": "241316",
     "raw_ratings": {},
     "state": "MN",

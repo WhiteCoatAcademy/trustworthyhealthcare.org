@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"110 NORTH POPLAR STREET\",\"city\":\"OXFORD\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.51227066200005",
-        "longitude": "-84.74083634699997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.740817,
+            39.512596
+        ],
+        "type": "Point"
     },
+    "location_address": "110 NORTH POPLAR STREET",
+    "location_city": "OXFORD",
+    "location_state": "OH",
+    "location_zip": "45056",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5135232111"
-    },
+    "phone_number": "5135232111",
     "provider_id": "360046",
     "raw_ratings": {},
     "state": "OH",

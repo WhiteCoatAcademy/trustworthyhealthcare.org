@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "LUBBOCK HEART HOSPITAL LP",
-    "hospital_ownership": "Government - Local",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4810 NORTH LOOP 289\",\"city\":\"LUBBOCK\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.53360691700004",
-        "longitude": "-101.91518313099999",
-        "needs_recoding": false
+        "coordinates": [
+            -101.914918,
+            33.602124
+        ],
+        "type": "Point"
     },
+    "location_address": "4810 NORTH LOOP 289",
+    "location_city": "LUBBOCK",
+    "location_state": "TX",
+    "location_zip": "79416",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8066877777"
-    },
+    "phone_number": "8066877777",
     "provider_id": "450876",
     "raw_ratings": {},
     "state": "TX",

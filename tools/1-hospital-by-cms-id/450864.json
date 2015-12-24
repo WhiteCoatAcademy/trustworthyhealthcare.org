@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1814 ROSELAND BOULEVARD\",\"city\":\"TYLER\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.32936064900008",
-        "longitude": "-95.29942853099999",
-        "needs_recoding": false
+        "coordinates": [
+            -95.299465,
+            32.328962
+        ],
+        "type": "Point"
     },
+    "location_address": "1814 ROSELAND BOULEVARD",
+    "location_city": "TYLER",
+    "location_state": "TX",
+    "location_zip": "75701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9035253300"
-    },
+    "phone_number": "9035253300",
     "provider_id": "450864",
     "raw_ratings": {},
     "state": "TX",

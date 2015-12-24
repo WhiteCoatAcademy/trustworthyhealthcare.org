@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 W GROVE ST\",\"city\":\"MAQUOKETA\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.07373724300004",
-        "longitude": "-90.67329298399994",
-        "needs_recoding": false
+        "coordinates": [
+            -90.673315,
+            42.073715
+        ],
+        "type": "Point"
     },
+    "location_address": "700 W GROVE ST",
+    "location_city": "MAQUOKETA",
+    "location_state": "IA",
+    "location_zip": "52060",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5636522474"
-    },
+    "phone_number": "5636522474",
     "provider_id": "161329",
     "raw_ratings": {},
     "state": "IA",

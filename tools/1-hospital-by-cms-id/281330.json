@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"905 SECOND ST\",\"city\":\"FRIEND\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.65367263200005",
-        "longitude": "-97.28212067299995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.281901,
+            40.653692
+        ],
+        "type": "Point"
     },
+    "location_address": "905 SECOND ST",
+    "location_city": "FRIEND",
+    "location_state": "NE",
+    "location_zip": "68359",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4029472541"
-    },
+    "phone_number": "4029472541",
     "provider_id": "281330",
     "raw_ratings": {},
     "state": "NE",

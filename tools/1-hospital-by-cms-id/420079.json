@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9330 MEDICAL PLAZA DR\",\"city\":\"CHARLESTON\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "32.976084789000026",
-        "longitude": "-80.07509680599998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.07365,
+            32.977461
+        ],
+        "type": "Point"
     },
+    "location_address": "9330 MEDICAL PLAZA DR",
+    "location_city": "CHARLESTON",
+    "location_state": "SC",
+    "location_zip": "29406",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8437978800"
-    },
+    "phone_number": "8437978800",
     "provider_id": "420079",
     "raw_ratings": {},
     "state": "SC",

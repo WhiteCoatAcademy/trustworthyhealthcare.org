@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"18101 PRINCE PHILIP DRIVE\",\"city\":\"OLNEY\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.15232946800006",
-        "longitude": "-77.05669021599994",
-        "needs_recoding": false
+        "coordinates": [
+            -77.056712,
+            39.152975
+        ],
+        "type": "Point"
     },
+    "location_address": "18101 PRINCE PHILIP DRIVE",
+    "location_city": "OLNEY",
+    "location_state": "MD",
+    "location_zip": "20832",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.medstarhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3017748882"
-    },
+    "phone_number": "3017748882",
     "provider_id": "210018",
     "raw_ratings": {},
     "state": "MD",

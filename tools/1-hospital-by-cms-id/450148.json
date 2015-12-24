@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"201 WALLS DRIVE\",\"city\":\"CLEBURNE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.33106659800006",
-        "longitude": "-97.43765403399999",
-        "needs_recoding": false
+        "coordinates": [
+            -97.438798,
+            32.332874
+        ],
+        "type": "Point"
     },
+    "location_address": "201 WALLS DRIVE",
+    "location_city": "CLEBURNE",
+    "location_state": "TX",
+    "location_zip": "76033",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.texashealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8176412551"
-    },
+    "phone_number": "8176412551",
     "provider_id": "450148",
     "raw_ratings": {},
     "state": "TX",

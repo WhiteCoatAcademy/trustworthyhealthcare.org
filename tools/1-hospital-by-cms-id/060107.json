@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1400 JACKSON ST\",\"city\":\"DENVER\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.73937273300004",
-        "longitude": "-104.94278861999999",
-        "needs_recoding": false
+        "coordinates": [
+            -104.942466,
+            39.739169
+        ],
+        "type": "Point"
     },
+    "location_address": "1400 JACKSON ST",
+    "location_city": "DENVER",
+    "location_state": "CO",
+    "location_zip": "80206",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3033884461"
-    },
+    "phone_number": "3033884461",
     "provider_id": "060107",
     "raw_ratings": {},
     "state": "CO",

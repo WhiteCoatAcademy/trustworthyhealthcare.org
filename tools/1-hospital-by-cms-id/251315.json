@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"310 ELLIS STREET\",\"city\":\"CARTHAGE\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.74081988300003",
-        "longitude": "-89.51977337499994",
-        "needs_recoding": false
+        "coordinates": [
+            -89.519804,
+            32.740784
+        ],
+        "type": "Point"
     },
+    "location_address": "310 ELLIS STREET",
+    "location_city": "CARTHAGE",
+    "location_state": "MS",
+    "location_zip": "39051",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6012671454"
-    },
+    "phone_number": "6012671454",
     "provider_id": "251315",
     "raw_ratings": {},
     "state": "MS",

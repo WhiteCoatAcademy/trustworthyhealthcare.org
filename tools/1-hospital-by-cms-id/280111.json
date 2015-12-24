@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4600 38TH ST\",\"city\":\"COLUMBUS\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.453314600000056",
-        "longitude": "-97.38394047299994",
-        "needs_recoding": false
+        "coordinates": [
+            -97.385452,
+            41.453274
+        ],
+        "type": "Point"
     },
+    "location_address": "4600 38TH ST",
+    "location_city": "COLUMBUS",
+    "location_state": "NE",
+    "location_zip": "68601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4025647118"
-    },
+    "phone_number": "4025647118",
     "provider_id": "280111",
     "raw_ratings": {},
     "state": "NE",

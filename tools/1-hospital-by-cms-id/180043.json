@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"210 MARIE LANGDON DRIVE\",\"city\":\"MANCHESTER\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.16230223600007",
-        "longitude": "-83.76126112499998",
-        "needs_recoding": false
+        "coordinates": [
+            -83.76134,
+            37.162181
+        ],
+        "type": "Point"
     },
+    "location_address": "210 MARIE LANGDON DRIVE",
+    "location_city": "MANCHESTER",
+    "location_state": "KY",
+    "location_zip": "40962",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6065985104"
-    },
+    "phone_number": "6065985104",
     "provider_id": "180043",
     "raw_ratings": {},
     "state": "KY",

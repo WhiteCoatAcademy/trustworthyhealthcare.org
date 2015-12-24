@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"810 W COLUMBIA STREET\",\"city\":\"OBERLIN\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.81617453900003",
-        "longitude": "-100.53785649699995",
-        "needs_recoding": false
+        "coordinates": [
+            -100.5377,
+            39.816171
+        ],
+        "type": "Point"
     },
+    "location_address": "810 W COLUMBIA STREET",
+    "location_city": "OBERLIN",
+    "location_state": "KS",
+    "location_zip": "67749",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7854752208"
-    },
+    "phone_number": "7854752208",
     "provider_id": "171352",
     "raw_ratings": {},
     "state": "KS",

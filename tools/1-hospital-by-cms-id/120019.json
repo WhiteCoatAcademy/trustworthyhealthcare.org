@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"79-1019 HAUKAPILA STREET\",\"city\":\"KEALAKEKUA\",\"state\":\"HI\",\"zip\":\"\"}",
-        "latitude": "19.520304449000037",
-        "longitude": "-155.91960107099996",
-        "needs_recoding": false
+        "coordinates": [
+            -155.918451,
+            19.520145
+        ],
+        "type": "Point"
     },
+    "location_address": "79-1019 HAUKAPILA STREET",
+    "location_city": "KEALAKEKUA",
+    "location_state": "HI",
+    "location_zip": "96750",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hhsc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8083229311"
-    },
+    "phone_number": "8083229311",
     "provider_id": "120019",
     "raw_ratings": {},
     "state": "HI",

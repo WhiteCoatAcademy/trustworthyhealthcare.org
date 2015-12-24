@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"310 WOODSTOWN ROAD\",\"city\":\"SALEM\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "39.59382073900008",
-        "longitude": "-75.44552610199997",
-        "needs_recoding": false
+        "coordinates": [
+            -75.317877,
+            39.718816
+        ],
+        "type": "Point"
     },
+    "location_address": "310 WOODSTOWN ROAD",
+    "location_city": "SALEM",
+    "location_state": "NJ",
+    "location_zip": "08079",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "8569351000"
-    },
+    "phone_number": "8569351000",
     "provider_id": "310091",
     "raw_ratings": {},
     "state": "NJ",

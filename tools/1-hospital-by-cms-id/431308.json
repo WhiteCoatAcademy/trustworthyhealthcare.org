@@ -1,5 +1,5 @@
 {
-    "address": "410 9TH ST PO BOX 517",
+    "address": "410 9TH ST POST OFFICE BOX 517",
     "city": "EUREKA",
     "county_name": "MCPHERSON",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"410 9TH ST PO BOX 517\",\"city\":\"EUREKA\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "45.77256437300008",
-        "longitude": "-99.62266313399994",
-        "needs_recoding": false
+        "coordinates": [
+            -99.622616,
+            45.771616
+        ],
+        "type": "Point"
     },
+    "location_address": "410 9TH ST POST OFFICE BOX 517",
+    "location_city": "EUREKA",
+    "location_state": "SD",
+    "location_zip": "57437",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6052842661"
-    },
+    "phone_number": "6052842661",
     "provider_id": "431308",
     "raw_ratings": {},
     "state": "SD",

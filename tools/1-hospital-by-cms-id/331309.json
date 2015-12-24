@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4 FULLER STREET\",\"city\":\"ALEXANDRIA BAY\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "44.33708548900006",
-        "longitude": "-75.92037140299993",
-        "needs_recoding": false
+        "coordinates": [
+            -75.92017,
+            44.33715
+        ],
+        "type": "Point"
     },
+    "location_address": "4 FULLER STREET",
+    "location_city": "ALEXANDRIA BAY",
+    "location_state": "NY",
+    "location_zip": "13607",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3154822511"
-    },
+    "phone_number": "3154822511",
     "provider_id": "331309",
     "raw_ratings": {},
     "state": "NY",

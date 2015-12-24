@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3400 MINISTRY PARKWAY\",\"city\":\"WESTON\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.88831676800004",
-        "longitude": "-89.58231972899995",
-        "needs_recoding": false
+        "coordinates": [
+            -89.582214,
+            44.889675
+        ],
+        "type": "Point"
     },
+    "location_address": "3400 MINISTRY PARKWAY",
+    "location_city": "WESTON",
+    "location_state": "WI",
+    "location_zip": "54476",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.marianhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7153933000"
-    },
+    "phone_number": "7153933000",
     "provider_id": "520202",
     "raw_ratings": {},
     "state": "WI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4815 ALAMEDA AVE\",\"city\":\"EL PASO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.77072022400006",
-        "longitude": "-106.43452133599999",
-        "needs_recoding": false
+        "coordinates": [
+            -106.434452,
+            31.770742
+        ],
+        "type": "Point"
     },
+    "location_address": "4815 ALAMEDA AVE",
+    "location_city": "EL PASO",
+    "location_state": "TX",
+    "location_zip": "79905",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9155217602"
-    },
+    "phone_number": "9155217602",
     "provider_id": "450024",
     "raw_ratings": {},
     "state": "TX",

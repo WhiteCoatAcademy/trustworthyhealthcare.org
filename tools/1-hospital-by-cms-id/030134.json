@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2050 WEST SOUTHERN AVENUE\",\"city\":\"APACHE JUNCTION\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.393377677000046",
-        "longitude": "-111.56717035299994",
-        "needs_recoding": false
+        "coordinates": [
+            -111.566767,
+            33.393364
+        ],
+        "type": "Point"
     },
+    "location_address": "2050 WEST SOUTHERN AVENUE",
+    "location_city": "APACHE JUNCTION",
+    "location_state": "AZ",
+    "location_zip": "85120",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4802373200"
-    },
+    "phone_number": "4807333300",
     "provider_id": "030134",
     "raw_ratings": {},
     "state": "AZ",

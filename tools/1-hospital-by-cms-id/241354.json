@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"415 JEFFERSON STREET NORTH\",\"city\":\"WADENA\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "46.44526380600007",
-        "longitude": "-95.13381139099994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.13274,
+            46.446572
+        ],
+        "type": "Point"
     },
+    "location_address": "415 JEFFERSON STREET NORTH",
+    "location_city": "WADENA",
+    "location_state": "MN",
+    "location_zip": "56482",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2186313510"
-    },
+    "phone_number": "2186313510",
     "provider_id": "241354",
     "raw_ratings": {},
     "state": "MN",

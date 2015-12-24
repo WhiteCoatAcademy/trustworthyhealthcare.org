@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"880 WEST MAIN\",\"city\":\"BOONEVILLE\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "35.140987858000074",
-        "longitude": "-93.93489687799996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.93635,
+            35.141205
+        ],
+        "type": "Point"
     },
+    "location_address": "880 WEST MAIN",
+    "location_city": "BOONEVILLE",
+    "location_state": "AR",
+    "location_zip": "72927",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4796752800"
-    },
+    "phone_number": "4796752800",
     "provider_id": "041318",
     "raw_ratings": {},
     "state": "AR",

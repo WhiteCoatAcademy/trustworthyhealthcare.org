@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"777 BANNOCK ST\",\"city\":\"DENVER\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.72800316800004",
-        "longitude": "-104.99030296099994",
-        "needs_recoding": false
+        "coordinates": [
+            -104.990066,
+            39.72823
+        ],
+        "type": "Point"
     },
+    "location_address": "777 BANNOCK ST",
+    "location_city": "DENVER",
+    "location_state": "CO",
+    "location_zip": "80204",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3034366000"
-    },
+    "phone_number": "3034366000",
     "provider_id": "060011",
     "raw_ratings": {},
     "state": "CO",

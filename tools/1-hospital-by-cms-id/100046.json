@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7050 GALL BLVD\",\"city\":\"ZEPHYRHILLS\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.260784971000078",
-        "longitude": "-82.18801640399994",
-        "needs_recoding": false
+        "coordinates": [
+            -82.188041,
+            28.261042
+        ],
+        "type": "Point"
     },
+    "location_address": "7050 GALL BLVD",
+    "location_city": "ZEPHYRHILLS",
+    "location_state": "FL",
+    "location_zip": "33541",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8137880411"
-    },
+    "phone_number": "8137880411",
     "provider_id": "100046",
     "raw_ratings": {},
     "state": "FL",

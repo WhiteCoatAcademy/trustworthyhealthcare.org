@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1008 MINNEQUA AVE\",\"city\":\"PUEBLO\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "38.23316401900007",
-        "longitude": "-104.62429152299995",
-        "needs_recoding": false
+        "coordinates": [
+            -104.622203,
+            38.233217
+        ],
+        "type": "Point"
     },
+    "location_address": "1008 MINNEQUA AVE",
+    "location_city": "PUEBLO",
+    "location_state": "CO",
+    "location_zip": "81004",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.centura.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7195574000"
-    },
+    "phone_number": "7195574000",
     "provider_id": "060012",
     "raw_ratings": {},
     "state": "CO",

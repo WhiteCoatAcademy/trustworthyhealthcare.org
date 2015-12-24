@@ -4,15 +4,20 @@
     "county_name": "MADISON",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MADISON RIVER OAKS MEDICAL CENTER",
+    "hospital_name": "MERIT HEALTH MADISON",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"161 RIVER OAKS DRIVE\",\"city\":\"CANTON\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.582599526000024",
-        "longitude": "-90.08216617399995",
-        "needs_recoding": false
+        "coordinates": [
+            -90.08225,
+            32.583029
+        ],
+        "type": "Point"
     },
+    "location_address": "161 RIVER OAKS DRIVE",
+    "location_city": "CANTON",
+    "location_state": "MS",
+    "location_zip": "39046",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6018554000"
-    },
+    "phone_number": "6018554000",
     "provider_id": "250038",
     "raw_ratings": {},
     "state": "MS",

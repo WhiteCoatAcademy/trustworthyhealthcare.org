@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"795 MIDDLE STREET\",\"city\":\"FALL RIVER\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "41.69328317900005",
-        "longitude": "-71.16385577599993",
-        "needs_recoding": false
+        "coordinates": [
+            -71.163321,
+            41.693262
+        ],
+        "type": "Point"
     },
+    "location_address": "795 MIDDLE STREET",
+    "location_city": "FALL RIVER",
+    "location_state": "MA",
+    "location_zip": "02721",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.caritaschristi.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5086745600"
-    },
+    "phone_number": "5086745600",
     "provider_id": "220020",
     "raw_ratings": {},
     "state": "MA",

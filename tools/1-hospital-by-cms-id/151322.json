@@ -1,5 +1,5 @@
 {
-    "address": "ONE HOSPITAL RD",
+    "address": "8885 SR 237",
     "city": "TELL CITY",
     "county_name": "PERRY",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"ONE HOSPITAL RD\",\"city\":\"TELL CITY\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "37.92819531600003",
-        "longitude": "-86.75803810199994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.735534,
+            37.971692
+        ],
+        "type": "Point"
     },
+    "location_address": "8885 SR 237",
+    "location_city": "TELL CITY",
+    "location_state": "IN",
+    "location_zip": "47586",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8125477011"
-    },
+    "phone_number": "8125477011",
     "provider_id": "151322",
     "raw_ratings": {},
     "state": "IN",

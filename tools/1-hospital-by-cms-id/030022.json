@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2601 EAST ROOSEVELT STREET\",\"city\":\"PHOENIX\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.458512711000026",
-        "longitude": "-112.02587069799995",
-        "needs_recoding": false
+        "coordinates": [
+            -112.026971,
+            33.458518
+        ],
+        "type": "Point"
     },
+    "location_address": "2601 EAST ROOSEVELT STREET",
+    "location_city": "PHOENIX",
+    "location_state": "AZ",
+    "location_zip": "85008",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6023445011"
-    },
+    "phone_number": "6023445011",
     "provider_id": "030022",
     "raw_ratings": {},
     "state": "AZ",

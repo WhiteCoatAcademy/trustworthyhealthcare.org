@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"243 ELM STREET\",\"city\":\"CLAREMONT\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "43.38560484100003",
-        "longitude": "-72.34215740299999",
-        "needs_recoding": false
+        "coordinates": [
+            -72.34209,
+            43.385729
+        ],
+        "type": "Point"
     },
+    "location_address": "243 ELM STREET",
+    "location_city": "CLAREMONT",
+    "location_state": "NH",
+    "location_zip": "03743",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6035427771"
-    },
+    "phone_number": "6035427771",
     "provider_id": "301308",
     "raw_ratings": {},
     "state": "NH",

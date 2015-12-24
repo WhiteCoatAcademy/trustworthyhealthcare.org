@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5475 SOUTH 500 EAST\",\"city\":\"OGDEN\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "41.16341207600004",
-        "longitude": "-111.96866503299998",
-        "needs_recoding": false
+        "coordinates": [
+            -111.984329,
+            41.165015
+        ],
+        "type": "Point"
     },
+    "location_address": "5475 SOUTH 500 EAST",
+    "location_city": "OGDEN",
+    "location_state": "UT",
+    "location_zip": "84405",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8014792111"
-    },
+    "phone_number": "8014792111",
     "provider_id": "460005",
     "raw_ratings": {},
     "state": "UT",

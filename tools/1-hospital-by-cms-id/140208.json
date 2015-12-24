@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4440 W 95TH STREET\",\"city\":\"OAK LAWN\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.720282258000054",
-        "longitude": "-87.73247792699999",
-        "needs_recoding": false
+        "coordinates": [
+            -87.732862,
+            41.720308
+        ],
+        "type": "Point"
     },
+    "location_address": "4440 W 95TH STREET",
+    "location_city": "OAK LAWN",
+    "location_state": "IL",
+    "location_zip": "60453",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.advocatehealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7086848000"
-    },
+    "phone_number": "7086848000",
     "provider_id": "140208",
     "raw_ratings": {},
     "state": "IL",

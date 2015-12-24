@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"130 BRENTWOOD DRIVE\",\"city\":\"CHESTER\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "40.305421470000056",
-        "longitude": "-121.23391880899999",
-        "needs_recoding": false
+        "coordinates": [
+            -121.234169,
+            40.305125
+        ],
+        "type": "Point"
     },
+    "location_address": "130 BRENTWOOD DRIVE",
+    "location_city": "CHESTER",
+    "location_state": "CA",
+    "location_zip": "96020",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5302582121"
-    },
+    "phone_number": "5302582121",
     "provider_id": "051327",
     "raw_ratings": {},
     "state": "CA",

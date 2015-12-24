@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"916 4TH AVENUE SOUTHWEST\",\"city\":\"PIPESTONE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "43.99140803700004",
-        "longitude": "-96.32211689599995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.322104,
+            43.991292
+        ],
+        "type": "Point"
     },
+    "location_address": "916 4TH AVENUE SOUTHWEST",
+    "location_city": "PIPESTONE",
+    "location_state": "MN",
+    "location_zip": "56164",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5078255811"
-    },
+    "phone_number": "5078255811",
     "provider_id": "241374",
     "raw_ratings": {},
     "state": "MN",

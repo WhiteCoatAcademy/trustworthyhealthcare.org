@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 GROSS CRESCENT\",\"city\":\"FORT OGLETHORPE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "34.947261136000066",
-        "longitude": "-85.26290149399995",
-        "needs_recoding": false
+        "coordinates": [
+            -85.262756,
+            34.94777
+        ],
+        "type": "Point"
     },
+    "location_address": "100 GROSS CRESCENT",
+    "location_city": "FORT OGLETHORPE",
+    "location_state": "GA",
+    "location_zip": "30742",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7068582101"
-    },
+    "phone_number": "7068582101",
     "provider_id": "110004",
     "raw_ratings": {},
     "state": "GA",

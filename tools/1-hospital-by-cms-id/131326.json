@@ -1,5 +1,5 @@
 {
-    "address": "1501 HILAND AVENUE",
+    "address": "1501 HILAND AVENUE SUITE F",
     "city": "BURLEY",
     "county_name": "CASSIA",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1501 HILAND AVENUE\",\"city\":\"BURLEY\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "42.53422075200007",
-        "longitude": "-113.78337355699995",
-        "needs_recoding": false
+        "coordinates": [
+            -113.783419,
+            42.534179
+        ],
+        "type": "Point"
     },
+    "location_address": "1501 HILAND AVENUE SUITE F",
+    "location_city": "BURLEY",
+    "location_state": "ID",
+    "location_zip": "83318",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "intermountainhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2086784444"
-    },
+    "phone_number": "2086784444",
     "provider_id": "131326",
     "raw_ratings": {},
     "state": "ID",

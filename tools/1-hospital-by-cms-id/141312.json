@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"900 N 2ND ST\",\"city\":\"ROCHELLE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.92856660500007",
-        "longitude": "-89.06285209299995",
-        "needs_recoding": false
+        "coordinates": [
+            -89.062803,
+            41.92871
+        ],
+        "type": "Point"
     },
+    "location_address": "900 N 2ND ST",
+    "location_city": "ROCHELLE",
+    "location_state": "IL",
+    "location_zip": "61068",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8155622181"
-    },
+    "phone_number": "8155622181",
     "provider_id": "141312",
     "raw_ratings": {},
     "state": "IL",

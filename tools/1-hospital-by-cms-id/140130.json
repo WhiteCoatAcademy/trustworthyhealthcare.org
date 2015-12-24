@@ -4,15 +4,20 @@
     "county_name": "LAKE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "LAKE FOREST HOSPITAL",
+    "hospital_name": "NORTHWESTERN LAKE FOREST HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"660 N WESTMORELAND ROAD\",\"city\":\"LAKE FOREST\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "42.25089539500004",
-        "longitude": "-87.86285058999994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.862974,
+            42.252748
+        ],
+        "type": "Point"
     },
+    "location_address": "660 N WESTMORELAND ROAD",
+    "location_city": "LAKE FOREST",
+    "location_state": "IL",
+    "location_zip": "60045",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8472345600"
-    },
+    "phone_number": "8472345600",
     "provider_id": "140130",
     "raw_ratings": {},
     "state": "IL",

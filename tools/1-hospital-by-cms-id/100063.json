@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6600 MADISON ST\",\"city\":\"NEW PORT RICHEY\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.253860859000042",
-        "longitude": "-82.71542911899996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.715483,
+            28.254367
+        ],
+        "type": "Point"
     },
+    "location_address": "6600 MADISON ST",
+    "location_city": "NEW PORT RICHEY",
+    "location_state": "FL",
+    "location_zip": "34652",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baycare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7278428468"
-    },
+    "phone_number": "7278428468",
     "provider_id": "100063",
     "raw_ratings": {},
     "state": "FL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 WEST SEVENTH ST\",\"city\":\"FREDERICK\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.423733937000065",
-        "longitude": "-77.41408008099995",
-        "needs_recoding": false
+        "coordinates": [
+            -77.415057,
+            39.424177
+        ],
+        "type": "Point"
     },
+    "location_address": "400 WEST SEVENTH ST",
+    "location_city": "FREDERICK",
+    "location_state": "MD",
+    "location_zip": "21701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2405663300"
-    },
+    "phone_number": "2405663300",
     "provider_id": "210005",
     "raw_ratings": {},
     "state": "MD",

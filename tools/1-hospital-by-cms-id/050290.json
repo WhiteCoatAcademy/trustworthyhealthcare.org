@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2121 SANTA MONICA BLVD\",\"city\":\"SANTA MONICA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.02980353400005",
-        "longitude": "-118.47866736499998",
-        "needs_recoding": false
+        "coordinates": [
+            -118.478727,
+            34.029735
+        ],
+        "type": "Point"
     },
+    "location_address": "2121 SANTA MONICA BLVD",
+    "location_city": "SANTA MONICA",
+    "location_state": "CA",
+    "location_zip": "90404",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sclhsc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3108295511"
-    },
+    "phone_number": "3108295511",
     "provider_id": "050290",
     "raw_ratings": {},
     "state": "CA",

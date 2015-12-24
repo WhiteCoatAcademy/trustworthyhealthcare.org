@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 S BLISS AVENUE\",\"city\":\"TAHLEQUAH\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.91239983200006",
-        "longitude": "-94.94972559299998",
-        "needs_recoding": false
+        "coordinates": [
+            -94.948925,
+            35.915313
+        ],
+        "type": "Point"
     },
+    "location_address": "100 S BLISS AVENUE",
+    "location_city": "TAHLEQUAH",
+    "location_state": "OK",
+    "location_zip": "74464",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ihs.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "9184583100"
-    },
+    "phone_number": "9184583100",
     "provider_id": "370171",
     "raw_ratings": {},
     "state": "OK",

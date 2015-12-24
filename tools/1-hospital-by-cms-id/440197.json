@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"391 WALLACE RD\",\"city\":\"NASHVILLE\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.07772417500007",
-        "longitude": "-86.72420026899994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.723814,
+            36.077872
+        ],
+        "type": "Point"
     },
+    "location_address": "391 WALLACE RD",
+    "location_city": "NASHVILLE",
+    "location_state": "TN",
+    "location_zip": "37211",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6157814000"
-    },
+    "phone_number": "6157814000",
     "provider_id": "440197",
     "raw_ratings": {},
     "state": "TN",

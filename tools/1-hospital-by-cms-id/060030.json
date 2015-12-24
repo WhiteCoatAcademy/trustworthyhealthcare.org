@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2000 BOISE AVE\",\"city\":\"LOVELAND\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "40.413394407000055",
-        "longitude": "-105.05361842999997",
-        "needs_recoding": false
+        "coordinates": [
+            -105.053604,
+            40.413212
+        ],
+        "type": "Point"
     },
+    "location_address": "2000 BOISE AVE",
+    "location_city": "LOVELAND",
+    "location_state": "CO",
+    "location_zip": "80538",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bannerhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9706694640"
-    },
+    "phone_number": "9706694640",
     "provider_id": "060030",
     "raw_ratings": {},
     "state": "CO",

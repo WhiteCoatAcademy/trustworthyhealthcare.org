@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4567 E 9TH AVENUE\",\"city\":\"DENVER\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.73105786700006",
-        "longitude": "-104.93452099799998",
-        "needs_recoding": false
+        "coordinates": [
+            -104.934324,
+            39.731071
+        ],
+        "type": "Point"
     },
+    "location_address": "4567 E 9TH AVENUE",
+    "location_city": "DENVER",
+    "location_state": "CO",
+    "location_zip": "80220",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.healthonecares.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3033202121"
-    },
+    "phone_number": "3033202121",
     "provider_id": "060032",
     "raw_ratings": {},
     "state": "CO",

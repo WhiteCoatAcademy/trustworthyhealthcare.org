@@ -4,15 +4,20 @@
     "county_name": "GEORGE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "GEORGE COUNTY HOSPITAL",
+    "hospital_name": "GEORGE REGIONAL HEALTH SYSTEM",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"859 WINTER STREET\",\"city\":\"LUCEDALE\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "30.92170261800004",
-        "longitude": "-88.59286012399997",
-        "needs_recoding": false
+        "coordinates": [
+            -88.592841,
+            30.921642
+        ],
+        "type": "Point"
     },
+    "location_address": "859 WINTER STREET",
+    "location_city": "LUCEDALE",
+    "location_state": "MS",
+    "location_zip": "39452",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6019473161"
-    },
+    "phone_number": "6019473161",
     "provider_id": "250036",
     "raw_ratings": {},
     "state": "MS",

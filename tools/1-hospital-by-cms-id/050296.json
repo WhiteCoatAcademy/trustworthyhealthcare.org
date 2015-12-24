@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"911 SUNSET DRIVE\",\"city\":\"HOLLISTER\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.83506370200007",
-        "longitude": "-121.38624074399996",
-        "needs_recoding": false
+        "coordinates": [
+            -121.386931,
+            36.835135
+        ],
+        "type": "Point"
     },
+    "location_address": "911 SUNSET DRIVE",
+    "location_city": "HOLLISTER",
+    "location_state": "CA",
+    "location_zip": "95023",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8316375711"
-    },
+    "phone_number": "8316375711",
     "provider_id": "050296",
     "raw_ratings": {},
     "state": "CA",

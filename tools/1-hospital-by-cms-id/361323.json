@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"832 SOUTH MAIN STREET\",\"city\":\"ORRVILLE\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.83243878500008",
-        "longitude": "-81.76454427199997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.764584,
+            40.831918
+        ],
+        "type": "Point"
     },
+    "location_address": "832 SOUTH MAIN STREET",
+    "location_city": "ORRVILLE",
+    "location_state": "OH",
+    "location_zip": "44667",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3306823010"
-    },
+    "phone_number": "3306823010",
     "provider_id": "361323",
     "raw_ratings": {},
     "state": "OH",

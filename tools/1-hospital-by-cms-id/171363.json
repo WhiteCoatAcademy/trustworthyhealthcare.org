@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"708 N 18TH STREET\",\"city\":\"MARYSVILLE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.84729089900003",
-        "longitude": "-96.63590397799999",
-        "needs_recoding": false
+        "coordinates": [
+            -96.635954,
+            39.848289
+        ],
+        "type": "Point"
     },
+    "location_address": "708 N 18TH STREET",
+    "location_city": "MARYSVILLE",
+    "location_state": "KS",
+    "location_zip": "66508",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7855622311"
-    },
+    "phone_number": "7855622311",
     "provider_id": "171363",
     "raw_ratings": {},
     "state": "KS",

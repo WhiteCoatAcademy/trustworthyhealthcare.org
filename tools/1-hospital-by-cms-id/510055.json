@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1340 HAL GREER BOULEVARD\",\"city\":\"HUNTINGTON\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "38.410147675000076",
-        "longitude": "-82.42840608899996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.428233,
+            38.409448
+        ],
+        "type": "Point"
     },
+    "location_address": "1340 HAL GREER BOULEVARD",
+    "location_city": "HUNTINGTON",
+    "location_state": "WV",
+    "location_zip": "25701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3045262000"
-    },
+    "phone_number": "3045262000",
     "provider_id": "510055",
     "raw_ratings": {},
     "state": "WV",

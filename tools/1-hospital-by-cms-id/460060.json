@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11925 S STATE STREET\",\"city\":\"DRAPER\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "40.53459279700007",
-        "longitude": "-111.89148067299999",
-        "needs_recoding": false
+        "coordinates": [
+            -111.891522,
+            40.534522
+        ],
+        "type": "Point"
     },
+    "location_address": "11925 S STATE STREET",
+    "location_city": "DRAPER",
+    "location_state": "UT",
+    "location_zip": "84020",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8015458000"
-    },
+    "phone_number": "8015458000",
     "provider_id": "460060",
     "raw_ratings": {},
     "state": "UT",

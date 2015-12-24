@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2020 59TH ST W\",\"city\":\"BRADENTON\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.482444975000078",
-        "longitude": "-82.62048237899995",
-        "needs_recoding": false
+        "coordinates": [
+            -82.620467,
+            27.4819
+        ],
+        "type": "Point"
     },
+    "location_address": "2020 59TH ST W",
+    "location_city": "BRADENTON",
+    "location_state": "FL",
+    "location_zip": "34209",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9417926611"
-    },
+    "phone_number": "9417926611",
     "provider_id": "100213",
     "raw_ratings": {},
     "state": "FL",

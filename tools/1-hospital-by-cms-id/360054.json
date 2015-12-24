@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 JACKSON PIKE\",\"city\":\"GALLIPOLIS\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "38.84441339600005",
-        "longitude": "-82.23661623499999",
-        "needs_recoding": false
+        "coordinates": [
+            -82.237955,
+            38.844321
+        ],
+        "type": "Point"
     },
+    "location_address": "100 JACKSON PIKE",
+    "location_city": "GALLIPOLIS",
+    "location_state": "OH",
+    "location_zip": "45631",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.holzer.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7404465000"
-    },
+    "phone_number": "7404465000",
     "provider_id": "360054",
     "raw_ratings": {},
     "state": "OH",

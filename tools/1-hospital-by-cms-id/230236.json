@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5900 BYRON CENTER AVENUE, SW\",\"city\":\"WYOMING\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.85731417400007",
-        "longitude": "-85.72288891599999",
-        "needs_recoding": false
+        "coordinates": [
+            -85.722943,
+            42.858248
+        ],
+        "type": "Point"
     },
+    "location_address": "5900 BYRON CENTER AVENUE, SW",
+    "location_city": "WYOMING",
+    "location_state": "MI",
+    "location_zip": "49519",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6162527200"
-    },
+    "phone_number": "6162527200",
     "provider_id": "230236",
     "raw_ratings": {},
     "state": "MI",

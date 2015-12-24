@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 S BALLENGER HIGHWAY\",\"city\":\"FLINT\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.01411616900003",
-        "longitude": "-83.73358302599996",
-        "needs_recoding": false
+        "coordinates": [
+            -83.733557,
+            43.014384
+        ],
+        "type": "Point"
     },
+    "location_address": "401 S BALLENGER HIGHWAY",
+    "location_city": "FLINT",
+    "location_state": "MI",
+    "location_zip": "48532",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mclarenhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8103422000"
-    },
+    "phone_number": "8103422000",
     "provider_id": "230141",
     "raw_ratings": {},
     "state": "MI",

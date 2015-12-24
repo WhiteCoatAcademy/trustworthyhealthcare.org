@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2302 CORNERSTONE BOULEVARD\",\"city\":\"EDINBURG\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "26.263135008000063",
-        "longitude": "-98.19896135399995",
-        "needs_recoding": false
+        "coordinates": [
+            -98.201101,
+            26.262919
+        ],
+        "type": "Point"
     },
+    "location_address": "2302 CORNERSTONE BOULEVARD",
+    "location_city": "EDINBURG",
+    "location_state": "TX",
+    "location_zip": "78539",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhsinc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9566184444"
-    },
+    "phone_number": "9566184444",
     "provider_id": "450825",
     "raw_ratings": {},
     "state": "TX",

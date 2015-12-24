@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 MEDICAL PARK DRIVE\",\"city\":\"ATMORE\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "31.017000387000053",
-        "longitude": "-87.47965811999995",
-        "needs_recoding": false
+        "coordinates": [
+            -87.479655,
+            31.016525
+        ],
+        "type": "Point"
     },
+    "location_address": "401 MEDICAL PARK DRIVE",
+    "location_city": "ATMORE",
+    "location_state": "AL",
+    "location_zip": "36502",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2513682500"
-    },
+    "phone_number": "2513682500",
     "provider_id": "010169",
     "raw_ratings": {},
     "state": "AL",

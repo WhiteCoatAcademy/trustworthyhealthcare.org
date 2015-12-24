@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"251 FIFTH STREET EAST\",\"city\":\"TRACY\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.23193862100004",
-        "longitude": "-95.60679855299998",
-        "needs_recoding": false
+        "coordinates": [
+            -95.606675,
+            44.232244
+        ],
+        "type": "Point"
     },
+    "location_address": "251 FIFTH STREET EAST",
+    "location_city": "TRACY",
+    "location_state": "MN",
+    "location_zip": "56175",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sanfordhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5076293200"
-    },
+    "phone_number": "5076293200",
     "provider_id": "241303",
     "raw_ratings": {},
     "state": "MN",

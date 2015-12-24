@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"17651 B HWY\",\"city\":\"BOONVILLE\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.94449184500007",
-        "longitude": "-92.74204163099995",
-        "needs_recoding": false
+        "coordinates": [
+            -92.74365,
+            38.933254
+        ],
+        "type": "Point"
     },
+    "location_address": "17651 B HWY",
+    "location_city": "BOONVILLE",
+    "location_state": "MO",
+    "location_zip": "65233",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6608827461"
-    },
+    "phone_number": "6608827461",
     "provider_id": "260004",
     "raw_ratings": {},
     "state": "MO",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"130 DIVISION ST\",\"city\":\"DERBY\",\"state\":\"CT\",\"zip\":\"\"}",
-        "latitude": "41.33523876300006",
-        "longitude": "-73.08829562199998",
-        "needs_recoding": false
+        "coordinates": [
+            -73.088689,
+            41.335978
+        ],
+        "type": "Point"
     },
+    "location_address": "130 DIVISION ST",
+    "location_city": "DERBY",
+    "location_state": "CT",
+    "location_zip": "06418",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2037327500"
-    },
+    "phone_number": "2037327500",
     "provider_id": "070031",
     "raw_ratings": {},
     "state": "CT",

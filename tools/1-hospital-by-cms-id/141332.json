@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 E TREMONT STREET\",\"city\":\"HILLSBORO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "39.15354099700005",
-        "longitude": "-89.48111694299996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.481508,
+            39.153672
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 E TREMONT STREET",
+    "location_city": "HILLSBORO",
+    "location_state": "IL",
+    "location_zip": "62049",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2175326111"
-    },
+    "phone_number": "2175326111",
     "provider_id": "141332",
     "raw_ratings": {},
     "state": "IL",

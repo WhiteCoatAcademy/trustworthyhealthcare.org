@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "SISTERS OF CHARITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2157 MAIN STREET\",\"city\":\"BUFFALO\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.92941654200007",
-        "longitude": "-78.84964922799998",
-        "needs_recoding": false
+        "coordinates": [
+            -78.84989,
+            42.929195
+        ],
+        "type": "Point"
     },
+    "location_address": "2157 MAIN STREET",
+    "location_city": "BUFFALO",
+    "location_state": "NY",
+    "location_zip": "14214",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.che.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7168621000"
-    },
+    "phone_number": "7168621000",
     "provider_id": "330078",
     "raw_ratings": {},
     "state": "NY",

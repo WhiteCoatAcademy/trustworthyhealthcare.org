@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"301 N ALEXANDER ST\",\"city\":\"PLANT CITY\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.015960755000037",
-        "longitude": "-82.13796193499996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.137999,
+            28.015806
+        ],
+        "type": "Point"
     },
+    "location_address": "301 N ALEXANDER ST",
+    "location_city": "PLANT CITY",
+    "location_state": "FL",
+    "location_zip": "33563",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baycare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8137571200"
-    },
+    "phone_number": "8137571200",
     "provider_id": "100132",
     "raw_ratings": {},
     "state": "FL",

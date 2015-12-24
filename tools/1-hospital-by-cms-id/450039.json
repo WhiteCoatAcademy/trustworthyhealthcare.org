@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 S MAIN ST\",\"city\":\"FORT WORTH\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.72647153100007",
-        "longitude": "-97.32645356299997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.326407,
+            32.726764
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 S MAIN ST",
+    "location_city": "FORT WORTH",
+    "location_state": "TX",
+    "location_zip": "76104",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.jpshealthnet.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8179213431"
-    },
+    "phone_number": "8179213431",
     "provider_id": "450039",
     "raw_ratings": {},
     "state": "TX",

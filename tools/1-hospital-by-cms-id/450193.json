@@ -4,15 +4,20 @@
     "county_name": "HARRIS",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ST LUKES EPISCOPAL HOSPITAL",
+    "hospital_name": "CHI ST LUKE'S HEALTH BAYLOR COLLEGE OF MEDICINE ME",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6720 BERTNER\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.708415014000025",
-        "longitude": "-95.39916368999997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.399166,
+            29.708468
+        ],
+        "type": "Point"
     },
+    "location_address": "6720 BERTNER",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77030",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sleh.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8323551000"
-    },
+    "phone_number": "8323551000",
     "provider_id": "450193",
     "raw_ratings": {},
     "state": "TX",

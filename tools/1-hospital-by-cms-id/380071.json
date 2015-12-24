@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2700 SE STRATUS AVE.\",\"city\":\"MCMINNVILLE\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "45.200009297000065",
-        "longitude": "-123.166455569",
-        "needs_recoding": false
+        "coordinates": [
+            -123.166263,
+            45.200027
+        ],
+        "type": "Point"
     },
+    "location_address": "2700 SE STRATUS AVE.",
+    "location_city": "MCMINNVILLE",
+    "location_state": "OR",
+    "location_zip": "97128",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.capellahealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5034726131"
-    },
+    "phone_number": "5034726131",
     "provider_id": "380071",
     "raw_ratings": {},
     "state": "OR",

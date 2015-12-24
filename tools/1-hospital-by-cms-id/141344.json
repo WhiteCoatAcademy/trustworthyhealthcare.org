@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2200 W STATE ST\",\"city\":\"LAWRENCEVILLE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "38.730013761000066",
-        "longitude": "-87.69537701799999",
-        "needs_recoding": false
+        "coordinates": [
+            -87.694113,
+            38.729546
+        ],
+        "type": "Point"
     },
+    "location_address": "2200 W STATE ST",
+    "location_city": "LAWRENCEVILLE",
+    "location_state": "IL",
+    "location_zip": "62439",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6189431000"
-    },
+    "phone_number": "6189431000",
     "provider_id": "141344",
     "raw_ratings": {},
     "state": "IL",

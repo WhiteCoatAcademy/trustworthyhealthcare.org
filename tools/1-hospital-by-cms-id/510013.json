@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 WHEELING AVE\",\"city\":\"GLEN DALE\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "39.94636979000006",
-        "longitude": "-80.75421435799996",
-        "needs_recoding": false
+        "coordinates": [
+            -80.754249,
+            39.946226
+        ],
+        "type": "Point"
     },
+    "location_address": "800 WHEELING AVE",
+    "location_city": "GLEN DALE",
+    "location_state": "WV",
+    "location_zip": "26038",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3048433230"
-    },
+    "phone_number": "3048433230",
     "provider_id": "510013",
     "raw_ratings": {},
     "state": "WV",

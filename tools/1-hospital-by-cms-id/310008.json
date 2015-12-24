@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"718 TEANECK RD\",\"city\":\"TEANECK\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.882178182000075",
-        "longitude": "-74.00876928799994",
-        "needs_recoding": false
+        "coordinates": [
+            -74.00865,
+            40.882338
+        ],
+        "type": "Point"
     },
+    "location_address": "718 TEANECK RD",
+    "location_city": "TEANECK",
+    "location_state": "NJ",
+    "location_zip": "07666",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nypsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2018333000"
-    },
+    "phone_number": "2018333000",
     "provider_id": "310008",
     "raw_ratings": {},
     "state": "NJ",

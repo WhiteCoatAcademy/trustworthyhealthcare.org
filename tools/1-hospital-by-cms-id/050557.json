@@ -4,15 +4,20 @@
     "county_name": "STANISLAUS",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MEMORIAL  MEDICAL CENTER",
+    "hospital_name": "MEMORIAL MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1700 COFFEE RD\",\"city\":\"MODESTO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.668660088000024",
-        "longitude": "-120.97566429599999",
-        "needs_recoding": false
+        "coordinates": [
+            -120.975673,
+            37.668749
+        ],
+        "type": "Point"
     },
+    "location_address": "1700 COFFEE RD",
+    "location_city": "MODESTO",
+    "location_state": "CA",
+    "location_zip": "95355",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sutterhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2095264500"
-    },
+    "phone_number": "2095264500",
     "provider_id": "050557",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"645 OSAGE ST\",\"city\":\"SIDNEY\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.138970036000046",
-        "longitude": "-102.97244697199994",
-        "needs_recoding": false
+        "coordinates": [
+            -102.972042,
+            41.138986
+        ],
+        "type": "Point"
     },
+    "location_address": "645 OSAGE ST",
+    "location_city": "SIDNEY",
+    "location_state": "NE",
+    "location_zip": "69162",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3082545825"
-    },
+    "phone_number": "3082545825",
     "provider_id": "281357",
     "raw_ratings": {},
     "state": "NE",

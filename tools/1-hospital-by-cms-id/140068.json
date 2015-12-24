@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"45 W 111TH STREET\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.69252267300004",
-        "longitude": "-87.62536991699994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.625565,
+            41.692554
+        ],
+        "type": "Point"
     },
+    "location_address": "45 W 111TH STREET",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60628",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7739953000"
-    },
+    "phone_number": "7739953000",
     "provider_id": "140068",
     "raw_ratings": {},
     "state": "IL",

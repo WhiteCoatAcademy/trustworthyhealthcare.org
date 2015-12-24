@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 MAIN AVE S\",\"city\":\"BAUDETTE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "48.70825182100003",
-        "longitude": "-94.60004802599997",
-        "needs_recoding": false
+        "coordinates": [
+            -94.5996,
+            48.706706
+        ],
+        "type": "Point"
     },
+    "location_address": "600 MAIN AVE S",
+    "location_city": "BAUDETTE",
+    "location_state": "MN",
+    "location_zip": "56623",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2186342120"
-    },
+    "phone_number": "2186342120",
     "provider_id": "241301",
     "raw_ratings": {},
     "state": "MN",

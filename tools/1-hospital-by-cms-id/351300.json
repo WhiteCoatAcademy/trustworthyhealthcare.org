@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"810 N WELO ST\",\"city\":\"TIOGA\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "48.40186753000006",
-        "longitude": "-102.93473292899995",
-        "needs_recoding": false
+        "coordinates": [
+            -102.934752,
+            48.402815
+        ],
+        "type": "Point"
     },
+    "location_address": "810 N WELO ST",
+    "location_city": "TIOGA",
+    "location_state": "ND",
+    "location_zip": "58852",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7016643305"
-    },
+    "phone_number": "7016643305",
     "provider_id": "351300",
     "raw_ratings": {},
     "state": "ND",

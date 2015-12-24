@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"521 EAST AVENUE\",\"city\":\"LOCKPORT\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.17623530700007",
-        "longitude": "-78.67157098699994",
-        "needs_recoding": false
+        "coordinates": [
+            -78.671075,
+            43.17638
+        ],
+        "type": "Point"
     },
+    "location_address": "521 EAST AVENUE",
+    "location_city": "LOCKPORT",
+    "location_state": "NY",
+    "location_zip": "14094",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7165145700"
-    },
+    "phone_number": "7165145700",
     "provider_id": "330163",
     "raw_ratings": {},
     "state": "NY",

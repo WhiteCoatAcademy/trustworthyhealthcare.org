@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 KENNEDY MEMORIAL DRIVE\",\"city\":\"WATERVILLE\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "44.54266178300003",
-        "longitude": "-69.66133444599996",
-        "needs_recoding": false
+        "coordinates": [
+            -69.661405,
+            44.54269
+        ],
+        "type": "Point"
     },
+    "location_address": "200 KENNEDY MEMORIAL DRIVE",
+    "location_city": "WATERVILLE",
+    "location_state": "ME",
+    "location_zip": "04901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.emh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2078613012"
-    },
+    "phone_number": "2078613012",
     "provider_id": "200041",
     "raw_ratings": {},
     "state": "ME",

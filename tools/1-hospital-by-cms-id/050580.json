@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7901 WALKER STREET\",\"city\":\"LA PALMA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.84754955400007",
-        "longitude": "-118.03730303399999",
-        "needs_recoding": false
+        "coordinates": [
+            -118.037261,
+            33.848275
+        ],
+        "type": "Point"
     },
+    "location_address": "7901 WALKER STREET",
+    "location_city": "LA PALMA",
+    "location_state": "CA",
+    "location_zip": "90623",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.primehealthcareservices.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7146707400"
-    },
+    "phone_number": "7146707400",
     "provider_id": "050580",
     "raw_ratings": {},
     "state": "CA",

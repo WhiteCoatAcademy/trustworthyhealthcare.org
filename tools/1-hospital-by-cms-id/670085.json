@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10864 TEXAS HEALTH TRAIL\",\"city\":\"FORT WORTH\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.93238153900006",
-        "longitude": "-97.30977820299995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.309987,
+            32.931717
+        ],
+        "type": "Point"
     },
+    "location_address": "10864 TEXAS HEALTH TRAIL",
+    "location_city": "FORT WORTH",
+    "location_state": "TX",
+    "location_zip": "76244",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6822122004"
-    },
+    "phone_number": "6822122004",
     "provider_id": "670085",
     "raw_ratings": {},
     "state": "TX",

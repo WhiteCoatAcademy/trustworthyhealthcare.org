@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11567 CANTERWOOD BOULEVARD NW\",\"city\":\"GIG HARBOR\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.36451698400003",
-        "longitude": "-122.61484048799997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.614792,
+            47.363825
+        ],
+        "type": "Point"
     },
+    "location_address": "11567 CANTERWOOD BOULEVARD NW",
+    "location_city": "GIG HARBOR",
+    "location_state": "WA",
+    "location_zip": "98332",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2535302050"
-    },
+    "phone_number": "2535302050",
     "provider_id": "500151",
     "raw_ratings": {},
     "state": "WA",

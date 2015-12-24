@@ -4,15 +4,20 @@
     "county_name": "GREENE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "SOUTHWEST REGIONAL MEDICAL CENTER",
+    "hospital_name": "WASHINGTON HEALTH SYSTEM GREENE",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"350 BONAR AVENUE\",\"city\":\"WAYNESBURG\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.90069435200007",
-        "longitude": "-80.17394245599996",
-        "needs_recoding": false
+        "coordinates": [
+            -80.173929,
+            39.900605
+        ],
+        "type": "Point"
     },
+    "location_address": "350 BONAR AVENUE",
+    "location_city": "WAYNESBURG",
+    "location_state": "PA",
+    "location_zip": "15370",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.essenthealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7246272602"
-    },
+    "phone_number": "7246272602",
     "provider_id": "390150",
     "raw_ratings": {},
     "state": "PA",

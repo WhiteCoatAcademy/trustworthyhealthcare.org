@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"210 S FIRST ST\",\"city\":\"HARBOR BEACH\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.842362510000044",
-        "longitude": "-82.65251222699999",
-        "needs_recoding": false
+        "coordinates": [
+            -82.652546,
+            43.84271
+        ],
+        "type": "Point"
     },
+    "location_address": "210 S FIRST ST",
+    "location_city": "HARBOR BEACH",
+    "location_state": "MI",
+    "location_zip": "48441",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9894793201"
-    },
+    "phone_number": "9894793201",
     "provider_id": "231313",
     "raw_ratings": {},
     "state": "MI",

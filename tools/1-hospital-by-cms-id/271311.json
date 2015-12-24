@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"166 MONTANA AVE E\",\"city\":\"BIG SANDY\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "48.17908458800008",
-        "longitude": "-110.10833663599999",
-        "needs_recoding": false
+        "coordinates": [
+            -110.108301,
+            48.179132
+        ],
+        "type": "Point"
     },
+    "location_address": "166 MONTANA AVE E",
+    "location_city": "BIG SANDY",
+    "location_state": "MT",
+    "location_zip": "59520",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4063782188"
-    },
+    "phone_number": "4063782188",
     "provider_id": "271311",
     "raw_ratings": {},
     "state": "MT",

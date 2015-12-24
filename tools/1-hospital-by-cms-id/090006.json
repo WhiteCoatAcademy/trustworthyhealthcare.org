@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1150 VARNUM ST NE\",\"city\":\"WASHINGTON\",\"state\":\"DC\",\"zip\":\"\"}",
-        "latitude": "38.94289825800007",
-        "longitude": "-76.99034111899994",
-        "needs_recoding": false
+        "coordinates": [
+            -76.991721,
+            38.942876
+        ],
+        "type": "Point"
     },
+    "location_address": "1150 VARNUM ST NE",
+    "location_city": "WASHINGTON",
+    "location_state": "DC",
+    "location_zip": "20017",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2022697000"
-    },
+    "phone_number": "2022697000",
     "provider_id": "090006",
     "raw_ratings": {},
     "state": "DC",

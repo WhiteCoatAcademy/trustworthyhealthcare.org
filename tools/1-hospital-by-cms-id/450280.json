@@ -4,15 +4,20 @@
     "county_name": "DALLAS",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "BAYLOR MEDICAL CENTER AT GARLAND",
+    "hospital_name": "BAYLOR SCOTT & WHITE MEDICAL CENTER GARLAND",
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2300 MARIE CURIE DRIVE\",\"city\":\"GARLAND\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.91860761000004",
-        "longitude": "-96.66228062999994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.661092,
+            32.918601
+        ],
+        "type": "Point"
     },
+    "location_address": "2300 MARIE CURIE DRIVE",
+    "location_city": "GARLAND",
+    "location_state": "TX",
+    "location_zip": "75042",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baylorhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9724875000"
-    },
+    "phone_number": "9724875000",
     "provider_id": "450280",
     "raw_ratings": {},
     "state": "TX",

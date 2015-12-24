@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"205 PARKER ST\",\"city\":\"BOSCOBEL\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.132937165000044",
-        "longitude": "-90.70885070399999",
-        "needs_recoding": false
+        "coordinates": [
+            -90.708192,
+            43.132936
+        ],
+        "type": "Point"
     },
+    "location_address": "205 PARKER ST",
+    "location_city": "BOSCOBEL",
+    "location_state": "WI",
+    "location_zip": "53805",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6083754112"
-    },
+    "phone_number": "6083754112",
     "provider_id": "521344",
     "raw_ratings": {},
     "state": "WI",

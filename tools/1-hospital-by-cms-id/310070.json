@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"254 EASTON AVE\",\"city\":\"NEW BRUNSWICK\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.50181456400003",
-        "longitude": "-74.45909023899998",
-        "needs_recoding": false
+        "coordinates": [
+            -74.458968,
+            40.501782
+        ],
+        "type": "Point"
     },
+    "location_address": "254 EASTON AVE",
+    "location_city": "NEW BRUNSWICK",
+    "location_state": "NJ",
+    "location_zip": "08901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7327458600"
-    },
+    "phone_number": "7327458600",
     "provider_id": "310070",
     "raw_ratings": {},
     "state": "NJ",

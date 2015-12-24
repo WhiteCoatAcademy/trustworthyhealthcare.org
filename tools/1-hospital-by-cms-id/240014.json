@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2000 NORTH AVENUE\",\"city\":\"NORTHFIELD\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.47335102300008",
-        "longitude": "-93.19253467899995",
-        "needs_recoding": false
+        "coordinates": [
+            -93.191166,
+            44.471386
+        ],
+        "type": "Point"
     },
+    "location_address": "2000 NORTH AVENUE",
+    "location_city": "NORTHFIELD",
+    "location_state": "MN",
+    "location_zip": "55057",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5076461001"
-    },
+    "phone_number": "5076461001",
     "provider_id": "240014",
     "raw_ratings": {},
     "state": "MN",

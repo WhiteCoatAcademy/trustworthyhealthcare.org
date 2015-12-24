@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 EAST BROAD STREET\",\"city\":\"HAZLETON\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.97081054700004",
-        "longitude": "-75.99968411199995",
-        "needs_recoding": false
+        "coordinates": [
+            -75.963454,
+            40.950464
+        ],
+        "type": "Point"
     },
+    "location_address": "700 EAST BROAD STREET",
+    "location_city": "HAZLETON",
+    "location_state": "PA",
+    "location_zip": "18201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5705014000"
-    },
+    "phone_number": "5705014000",
     "provider_id": "390185",
     "raw_ratings": {},
     "state": "PA",

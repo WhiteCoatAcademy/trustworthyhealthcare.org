@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 W INTERSTATE 20\",\"city\":\"ARLINGTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.67904837300006",
-        "longitude": "-97.11681723199996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.117732,
+            32.678855
+        ],
+        "type": "Point"
     },
+    "location_address": "801 W INTERSTATE 20",
+    "location_city": "ARLINGTON",
+    "location_state": "TX",
+    "location_zip": "76017",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8174723400"
-    },
+    "phone_number": "8174723400",
     "provider_id": "450872",
     "raw_ratings": {},
     "state": "TX",

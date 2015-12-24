@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3600 FLORIDA STREET\",\"city\":\"BATON ROUGE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.450363500000037",
-        "longitude": "-91.15312908999994",
-        "needs_recoding": false
+        "coordinates": [
+            -91.154638,
+            30.450336
+        ],
+        "type": "Point"
     },
+    "location_address": "3600 FLORIDA STREET",
+    "location_city": "BATON ROUGE",
+    "location_state": "LA",
+    "location_zip": "70806",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.generalhealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2253877767"
-    },
+    "phone_number": "2253877767",
     "provider_id": "190065",
     "raw_ratings": {},
     "state": "LA",

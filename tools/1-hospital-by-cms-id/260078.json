@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1100 KENTUCKY AVE\",\"city\":\"WEST PLAINS\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "36.73792361300008",
-        "longitude": "-91.87551512299996",
-        "needs_recoding": false
+        "coordinates": [
+            -91.875552,
+            36.737988
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 KENTUCKY AVE",
+    "location_city": "WEST PLAINS",
+    "location_state": "MO",
+    "location_zip": "65775",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4172569111"
-    },
+    "phone_number": "4172569111",
     "provider_id": "260078",
     "raw_ratings": {},
     "state": "MO",

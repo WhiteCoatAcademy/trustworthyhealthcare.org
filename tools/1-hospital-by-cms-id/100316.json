@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1425 MALABAR RD, NE\",\"city\":\"PALM BAY\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.998358206000034",
-        "longitude": "-80.61201384099996",
-        "needs_recoding": false
+        "coordinates": [
+            -80.61208,
+            27.99833
+        ],
+        "type": "Point"
     },
+    "location_address": "1425 MALABAR RD, NE",
+    "location_city": "PALM BAY",
+    "location_state": "FL",
+    "location_zip": "32907",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3214348000"
-    },
+    "phone_number": "3214348000",
     "provider_id": "100316",
     "raw_ratings": {},
     "state": "FL",

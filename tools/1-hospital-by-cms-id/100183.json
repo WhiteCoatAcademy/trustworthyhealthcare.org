@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3100 DOUGLAS RD\",\"city\":\"CORAL GABLES\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.74466232800006",
-        "longitude": "-80.25440995299994",
-        "needs_recoding": false
+        "coordinates": [
+            -80.254373,
+            25.744581
+        ],
+        "type": "Point"
     },
+    "location_address": "3100 DOUGLAS RD",
+    "location_city": "CORAL GABLES",
+    "location_state": "FL",
+    "location_zip": "33134",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3054458461"
-    },
+    "phone_number": "3054458461",
     "provider_id": "100183",
     "raw_ratings": {},
     "state": "FL",

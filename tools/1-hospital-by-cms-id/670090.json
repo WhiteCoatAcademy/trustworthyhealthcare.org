@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2600 WEST PLEASANT RUN ROAD\",\"city\":\"LANCASTER\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.604102659000034",
-        "longitude": "-96.81181108799996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.814483,
+            32.604128
+        ],
+        "type": "Point"
     },
+    "location_address": "2600 WEST PLEASANT RUN ROAD",
+    "location_city": "LANCASTER",
+    "location_state": "TX",
+    "location_zip": "75146",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9722308888"
-    },
+    "phone_number": "9722308888",
     "provider_id": "670090",
     "raw_ratings": {},
     "state": "TX",

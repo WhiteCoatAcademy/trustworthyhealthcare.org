@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"475 PROGRESS BLVD\",\"city\":\"SILER CITY\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.72816992400004",
-        "longitude": "-79.42333591999994",
-        "needs_recoding": false
+        "coordinates": [
+            -79.422322,
+            35.723921
+        ],
+        "type": "Point"
     },
+    "location_address": "475 PROGRESS BLVD",
+    "location_city": "SILER CITY",
+    "location_state": "NC",
+    "location_zip": "27344",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9196632113"
-    },
+    "phone_number": "9196632113",
     "provider_id": "341311",
     "raw_ratings": {},
     "state": "NC",

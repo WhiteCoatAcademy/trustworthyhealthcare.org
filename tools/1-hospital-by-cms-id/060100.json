@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1501 S POTOMAC ST\",\"city\":\"AURORA\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.69122002800003",
-        "longitude": "-104.83118666899998",
-        "needs_recoding": false
+        "coordinates": [
+            -104.831154,
+            39.69025
+        ],
+        "type": "Point"
     },
+    "location_address": "1501 S POTOMAC ST",
+    "location_city": "AURORA",
+    "location_state": "CO",
+    "location_zip": "80012",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.healthonecares.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3036952600"
-    },
+    "phone_number": "3036952600",
     "provider_id": "060100",
     "raw_ratings": {},
     "state": "CO",

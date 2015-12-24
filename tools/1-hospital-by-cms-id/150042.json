@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"520 S 7TH ST\",\"city\":\"VINCENNES\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "38.67376800300008",
-        "longitude": "-87.53247228899994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.534084,
+            38.672985
+        ],
+        "type": "Point"
     },
+    "location_address": "520 S 7TH ST",
+    "location_city": "VINCENNES",
+    "location_state": "IN",
+    "location_zip": "47591",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8128825220"
-    },
+    "phone_number": "8128825220",
     "provider_id": "150042",
     "raw_ratings": {},
     "state": "IN",

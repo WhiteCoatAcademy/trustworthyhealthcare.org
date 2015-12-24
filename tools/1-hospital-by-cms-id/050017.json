@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4001 J ST\",\"city\":\"SACRAMENTO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.56945754900005",
-        "longitude": "-121.45268246499995",
-        "needs_recoding": false
+        "coordinates": [
+            -121.452238,
+            38.569319
+        ],
+        "type": "Point"
     },
+    "location_address": "4001 J ST",
+    "location_city": "SACRAMENTO",
+    "location_state": "CA",
+    "location_zip": "95819",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9164534545"
-    },
+    "phone_number": "9164534545",
     "provider_id": "050017",
     "raw_ratings": {},
     "state": "CA",

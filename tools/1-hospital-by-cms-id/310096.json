@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 CENTRAL AVENUE\",\"city\":\"NEWARK\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.74300673700003",
-        "longitude": "-74.17434181399994",
-        "needs_recoding": false
+        "coordinates": [
+            -74.174503,
+            40.743034
+        ],
+        "type": "Point"
     },
+    "location_address": "111 CENTRAL AVENUE",
+    "location_city": "NEWARK",
+    "location_state": "NJ",
+    "location_zip": "07102",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.che.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9738775350"
-    },
+    "phone_number": "9738775350",
     "provider_id": "310096",
     "raw_ratings": {},
     "state": "NJ",

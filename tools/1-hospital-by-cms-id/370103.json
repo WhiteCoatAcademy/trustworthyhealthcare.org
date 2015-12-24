@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"911 HOSPITAL DRIVE\",\"city\":\"SAYRE\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.31300174800003",
-        "longitude": "-99.62475235999995",
-        "needs_recoding": false
+        "coordinates": [
+            -99.623658,
+            35.313047
+        ],
+        "type": "Point"
     },
+    "location_address": "911 HOSPITAL DRIVE",
+    "location_city": "SAYRE",
+    "location_state": "OK",
+    "location_zip": "73662",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5809285541"
-    },
+    "phone_number": "5809285541",
     "provider_id": "370103",
     "raw_ratings": {},
     "state": "OK",

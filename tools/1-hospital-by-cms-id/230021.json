@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1234 NAPIER AVENUE\",\"city\":\"ST JOSEPH\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.08990869500008",
-        "longitude": "-86.47753506499998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.477296,
+            42.089775
+        ],
+        "type": "Point"
     },
+    "location_address": "1234 NAPIER AVENUE",
+    "location_city": "ST JOSEPH",
+    "location_state": "MI",
+    "location_zip": "49085",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lakelandhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2699838300"
-    },
+    "phone_number": "2699838300",
     "provider_id": "230021",
     "raw_ratings": {},
     "state": "MI",

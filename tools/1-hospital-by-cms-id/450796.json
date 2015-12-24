@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3501 SONCY RD SUITE 118\",\"city\":\"AMARILLO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "35.17419119700003",
-        "longitude": "-101.93812736599995",
-        "needs_recoding": false
+        "coordinates": [
+            -101.938155,
+            35.175394
+        ],
+        "type": "Point"
     },
+    "location_address": "3501 SONCY RD SUITE 118",
+    "location_city": "AMARILLO",
+    "location_state": "TX",
+    "location_zip": "79109",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8063597999"
-    },
+    "phone_number": "8063597999",
     "provider_id": "450796",
     "raw_ratings": {},
     "state": "TX",

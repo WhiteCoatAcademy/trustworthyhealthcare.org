@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3333 N FOSTER MALDONADO BLVD\",\"city\":\"EAGLE PASS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "28.709446145000072",
-        "longitude": "-100.45392437099997",
-        "needs_recoding": false
+        "coordinates": [
+            -100.454105,
+            28.711418
+        ],
+        "type": "Point"
     },
+    "location_address": "3333 N FOSTER MALDONADO BLVD",
+    "location_city": "EAGLE PASS",
+    "location_state": "TX",
+    "location_zip": "78852",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhsinc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8307735321"
-    },
+    "phone_number": "8307735321",
     "provider_id": "450092",
     "raw_ratings": {},
     "state": "TX",

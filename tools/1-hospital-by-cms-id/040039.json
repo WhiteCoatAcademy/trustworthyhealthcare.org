@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"900 WEST KINGSHIGHWAY\",\"city\":\"PARAGOULD\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "36.052552579000064",
-        "longitude": "-90.49840947599995",
-        "needs_recoding": false
+        "coordinates": [
+            -90.497709,
+            36.052588
+        ],
+        "type": "Point"
     },
+    "location_address": "900 WEST KINGSHIGHWAY",
+    "location_city": "PARAGOULD",
+    "location_state": "AR",
+    "location_zip": "72450",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8702397000"
-    },
+    "phone_number": "8702397000",
     "provider_id": "040039",
     "raw_ratings": {},
     "state": "AR",

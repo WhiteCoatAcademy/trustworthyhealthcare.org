@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1260 E SR 205\",\"city\":\"COLUMBIA CITY\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.16006701900005",
-        "longitude": "-85.46694871399995",
-        "needs_recoding": false
+        "coordinates": [
+            -85.466858,
+            41.16013
+        ],
+        "type": "Point"
     },
+    "location_address": "1260 E SR 205",
+    "location_city": "COLUMBIA CITY",
+    "location_state": "IN",
+    "location_zip": "46725",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.parkview.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2602489301"
-    },
+    "phone_number": "2602489301",
     "provider_id": "150101",
     "raw_ratings": {},
     "state": "IN",

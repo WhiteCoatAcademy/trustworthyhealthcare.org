@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 FRANKLIN HEALTH COMMONS\",\"city\":\"FARMINGTON\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "44.62529200000006",
-        "longitude": "-70.16216113499996",
-        "needs_recoding": false
+        "coordinates": [
+            -70.161349,
+            44.625239
+        ],
+        "type": "Point"
     },
+    "location_address": "111 FRANKLIN HEALTH COMMONS",
+    "location_city": "FARMINGTON",
+    "location_state": "ME",
+    "location_zip": "04938",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2077786031"
-    },
+    "phone_number": "2077786031",
     "provider_id": "200037",
     "raw_ratings": {},
     "state": "ME",

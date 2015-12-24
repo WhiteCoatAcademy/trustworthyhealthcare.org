@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"601 E 14TH ST\",\"city\":\"SEDALIA\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.69913603500004",
-        "longitude": "-93.22316669699995",
-        "needs_recoding": false
+        "coordinates": [
+            -93.222762,
+            38.699012
+        ],
+        "type": "Point"
     },
+    "location_address": "601 E 14TH ST",
+    "location_city": "SEDALIA",
+    "location_state": "MO",
+    "location_zip": "65302",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6608268833"
-    },
+    "phone_number": "6608268833",
     "provider_id": "260009",
     "raw_ratings": {},
     "state": "MO",

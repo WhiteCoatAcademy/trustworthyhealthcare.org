@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"50 LEROY STREET\",\"city\":\"POTSDAM\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "44.67662952400008",
-        "longitude": "-74.98148872299998",
-        "needs_recoding": false
+        "coordinates": [
+            -74.981451,
+            44.676085
+        ],
+        "type": "Point"
     },
+    "location_address": "50 LEROY STREET",
+    "location_city": "POTSDAM",
+    "location_state": "NY",
+    "location_zip": "13676",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3152653300"
-    },
+    "phone_number": "3152653300",
     "provider_id": "330197",
     "raw_ratings": {},
     "state": "NY",

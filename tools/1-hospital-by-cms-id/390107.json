@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9100 BABCOCK BOULEVARD\",\"city\":\"PITTSBURGH\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.57430922200007",
-        "longitude": "-80.01656732699996",
-        "needs_recoding": false
+        "coordinates": [
+            -80.016508,
+            40.567453
+        ],
+        "type": "Point"
     },
+    "location_address": "9100 BABCOCK BOULEVARD",
+    "location_city": "PITTSBURGH",
+    "location_state": "PA",
+    "location_zip": "15237",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.upmc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4123676700"
-    },
+    "phone_number": "4123676700",
     "provider_id": "390107",
     "raw_ratings": {},
     "state": "PA",

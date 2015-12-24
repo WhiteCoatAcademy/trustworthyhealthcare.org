@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"430 E DIVISON ST\",\"city\":\"FOND DU LAC\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.77867132000006",
-        "longitude": "-88.43037016399995",
-        "needs_recoding": false
+        "coordinates": [
+            -88.431215,
+            43.778692
+        ],
+        "type": "Point"
     },
+    "location_address": "430 E DIVISON ST",
+    "location_city": "FOND DU LAC",
+    "location_state": "WI",
+    "location_zip": "54935",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.agnesian.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9209292300"
-    },
+    "phone_number": "9209292300",
     "provider_id": "520088",
     "raw_ratings": {},
     "state": "WI",

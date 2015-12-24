@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1805 HENNEPIN AVENUE NORTH\",\"city\":\"GLENCOE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.77759115200007",
-        "longitude": "-94.15174243199999",
-        "needs_recoding": false
+        "coordinates": [
+            -94.151714,
+            44.777542
+        ],
+        "type": "Point"
     },
+    "location_address": "1805 HENNEPIN AVENUE NORTH",
+    "location_city": "GLENCOE",
+    "location_state": "MN",
+    "location_zip": "55336",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3208643121"
-    },
+    "phone_number": "3208643121",
     "provider_id": "241355",
     "raw_ratings": {},
     "state": "MN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"35 MEDICAL CENTER PARKWAY\",\"city\":\"AUGUSTA\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "44.318030889000056",
-        "longitude": "-69.77620834199996",
-        "needs_recoding": false
+        "coordinates": [
+            -69.782828,
+            44.360834
+        ],
+        "type": "Point"
     },
+    "location_address": "35 MEDICAL CENTER PARKWAY",
+    "location_city": "AUGUSTA",
+    "location_state": "ME",
+    "location_zip": "04330",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mainegeneral.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2078721000"
-    },
+    "phone_number": "2078721000",
     "provider_id": "200039",
     "raw_ratings": {},
     "state": "ME",

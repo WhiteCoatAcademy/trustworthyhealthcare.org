@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"51 NORTH 39TH STREET\",\"city\":\"PHILADELPHIA\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.95759416800007",
-        "longitude": "-75.19943591499998",
-        "needs_recoding": false
+        "coordinates": [
+            -75.199595,
+            39.956982
+        ],
+        "type": "Point"
     },
+    "location_address": "51 NORTH 39TH STREET",
+    "location_city": "PHILADELPHIA",
+    "location_state": "PA",
+    "location_zip": "19104",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.pennhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2156628000"
-    },
+    "phone_number": "2156628000",
     "provider_id": "390223",
     "raw_ratings": {},
     "state": "PA",

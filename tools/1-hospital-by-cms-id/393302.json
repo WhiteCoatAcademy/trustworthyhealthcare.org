@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Childrens",
     "location": {
-        "human_address": "{\"address\":\"4401 PENN AVENUE\",\"city\":\"PITTSBURGH\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.466088067000044",
-        "longitude": "-79.95288531999995",
-        "needs_recoding": false
+        "coordinates": [
+            -79.953019,
+            40.466013
+        ],
+        "type": "Point"
     },
+    "location_address": "4401 PENN AVENUE",
+    "location_city": "PITTSBURGH",
+    "location_state": "PA",
+    "location_zip": "15224",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.upmc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4126925325"
-    },
+    "phone_number": "4126925325",
     "provider_id": "393302",
     "raw_ratings": {},
     "state": "PA",

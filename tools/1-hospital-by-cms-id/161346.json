@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1101 9TH STREET SE\",\"city\":\"SIOUX CENTER\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "43.06967002500005",
-        "longitude": "-96.15832089399998",
-        "needs_recoding": false
+        "coordinates": [
+            -96.158136,
+            43.069685
+        ],
+        "type": "Point"
     },
+    "location_address": "1101 9TH STREET SE",
+    "location_city": "SIOUX CENTER",
+    "location_state": "IA",
+    "location_zip": "51250",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7127221271"
-    },
+    "phone_number": "7127221271",
     "provider_id": "161346",
     "raw_ratings": {},
     "state": "IA",

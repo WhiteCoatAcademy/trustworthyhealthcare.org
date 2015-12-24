@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"4646 JOHN R.\",\"city\":\"DETROIT\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.355141022000055",
-        "longitude": "-83.06034127999999",
-        "needs_recoding": false
+        "coordinates": [
+            -83.060295,
+            42.355015
+        ],
+        "type": "Point"
     },
+    "location_address": "4646 JOHN R.",
+    "location_city": "DETROIT",
+    "location_state": "MI",
+    "location_zip": "48201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "3135761000"
-    },
+    "phone_number": "3135761000",
     "provider_id": "23037F",
     "raw_ratings": {},
     "state": "MI",

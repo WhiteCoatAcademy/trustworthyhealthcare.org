@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"17000 MEDICAL CENTER DR\",\"city\":\"BATON ROUGE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.44111413400003",
-        "longitude": "-90.99967280699997",
-        "needs_recoding": false
+        "coordinates": [
+            -91.00008,
+            30.441083
+        ],
+        "type": "Point"
     },
+    "location_address": "17000 MEDICAL CENTER DR",
+    "location_city": "BATON ROUGE",
+    "location_state": "LA",
+    "location_zip": "70816",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ochsner.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2257554876"
-    },
+    "phone_number": "2257554876",
     "provider_id": "190202",
     "raw_ratings": {},
     "state": "LA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 GREENLEY ROAD\",\"city\":\"SONORA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.97570561300006",
-        "longitude": "-120.36897806999997",
-        "needs_recoding": false
+        "coordinates": [
+            -120.36933,
+            37.976624
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 GREENLEY ROAD",
+    "location_city": "SONORA",
+    "location_state": "CA",
+    "location_zip": "95370",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.adventisthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2095323161"
-    },
+    "phone_number": "2095323161",
     "provider_id": "050335",
     "raw_ratings": {},
     "state": "CA",

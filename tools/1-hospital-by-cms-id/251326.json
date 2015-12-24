@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1102 ROSE STREET\",\"city\":\"PRENTISS\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "31.594169859000033",
-        "longitude": "-89.87253006499998",
-        "needs_recoding": false
+        "coordinates": [
+            -89.872183,
+            31.593829
+        ],
+        "type": "Point"
     },
+    "location_address": "1102 ROSE STREET",
+    "location_city": "PRENTISS",
+    "location_state": "MS",
+    "location_zip": "39474",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6017924276"
-    },
+    "phone_number": "6017924276",
     "provider_id": "251326",
     "raw_ratings": {},
     "state": "MS",

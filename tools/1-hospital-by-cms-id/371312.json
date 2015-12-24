@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1004 EAST BRYAN\",\"city\":\"SAPULPA\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.99334257800007",
-        "longitude": "-96.10061007699994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.100838,
+            35.993347
+        ],
+        "type": "Point"
     },
+    "location_address": "1004 EAST BRYAN",
+    "location_city": "SAPULPA",
+    "location_state": "OK",
+    "location_zip": "74066",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.marianhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9182244280"
-    },
+    "phone_number": "9182244280",
     "provider_id": "371312",
     "raw_ratings": {},
     "state": "OK",

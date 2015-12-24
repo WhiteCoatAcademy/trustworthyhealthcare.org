@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1400 E BOULDER ST\",\"city\":\"COLORADO SPRINGS\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "38.83884360400003",
-        "longitude": "-104.80032864499998",
-        "needs_recoding": false
+        "coordinates": [
+            -104.800454,
+            38.838828
+        ],
+        "type": "Point"
     },
+    "location_address": "1400 E BOULDER ST",
+    "location_city": "COLORADO SPRINGS",
+    "location_state": "CO",
+    "location_zip": "80909",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.memorialhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7193655000"
-    },
+    "phone_number": "7193655000",
     "provider_id": "060022",
     "raw_ratings": {},
     "state": "CO",

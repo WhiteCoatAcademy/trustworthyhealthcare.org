@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"1670 CLAIRMONT ROAD\",\"city\":\"DECATUR\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.80315444100006",
-        "longitude": "-84.31065267199995",
-        "needs_recoding": false
+        "coordinates": [
+            -84.310482,
+            33.80285
+        ],
+        "type": "Point"
     },
+    "location_address": "1670 CLAIRMONT ROAD",
+    "location_city": "DECATUR",
+    "location_state": "GA",
+    "location_zip": "30033",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4043216111"
-    },
+    "phone_number": "4043216111",
     "provider_id": "11029F",
     "raw_ratings": {},
     "state": "GA",

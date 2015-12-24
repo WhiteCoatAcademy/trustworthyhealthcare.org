@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"102 - 01 66TH ROAD\",\"city\":\"FOREST HILLS\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.722503904000064",
-        "longitude": "-73.84777675599997",
-        "needs_recoding": false
+        "coordinates": [
+            -73.8513,
+            40.72861
+        ],
+        "type": "Point"
     },
+    "location_address": "102 - 01 66TH ROAD",
+    "location_city": "FOREST HILLS",
+    "location_state": "NY",
+    "location_zip": "11375",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.northshorelij.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7188304000"
-    },
+    "phone_number": "7188304000",
     "provider_id": "330353",
     "raw_ratings": {},
     "state": "NY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"18 EAST LAUREL ROAD\",\"city\":\"STRATFORD\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "39.82856165000004",
-        "longitude": "-75.00900521299997",
-        "needs_recoding": false
+        "coordinates": [
+            -75.008886,
+            39.828719
+        ],
+        "type": "Point"
     },
+    "location_address": "18 EAST LAUREL ROAD",
+    "location_city": "STRATFORD",
+    "location_state": "NJ",
+    "location_zip": "08084",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kennedyhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8563466000"
-    },
+    "phone_number": "8563467802",
     "provider_id": "310086",
     "raw_ratings": {},
     "state": "NJ",

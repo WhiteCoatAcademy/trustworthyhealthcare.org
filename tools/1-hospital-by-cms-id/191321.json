@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"52579 HIGHWAY 51 SOUTH\",\"city\":\"INDEPENDENCE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.622616590000064",
-        "longitude": "-90.49714844799996",
-        "needs_recoding": false
+        "coordinates": [
+            -90.496337,
+            30.620168
+        ],
+        "type": "Point"
     },
+    "location_address": "52579 HIGHWAY 51 SOUTH",
+    "location_city": "INDEPENDENCE",
+    "location_state": "LA",
+    "location_zip": "70443",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lsuhospitals.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9858789421"
-    },
+    "phone_number": "9858789421",
     "provider_id": "191321",
     "raw_ratings": {},
     "state": "LA",

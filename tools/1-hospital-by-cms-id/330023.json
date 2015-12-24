@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"45 READE PLACE\",\"city\":\"POUGHKEEPSIE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "41.69448931800008",
-        "longitude": "-73.93500054099997",
-        "needs_recoding": false
+        "coordinates": [
+            -73.935734,
+            41.694574
+        ],
+        "type": "Point"
     },
+    "location_address": "45 READE PLACE",
+    "location_city": "POUGHKEEPSIE",
+    "location_state": "NY",
+    "location_zip": "12601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health-quest.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8454548500"
-    },
+    "phone_number": "8454548500",
     "provider_id": "330023",
     "raw_ratings": {},
     "state": "NY",

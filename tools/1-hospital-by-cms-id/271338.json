@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"17 N MILES\",\"city\":\"HARDIN\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "45.72893015000005",
-        "longitude": "-107.61696162199996",
-        "needs_recoding": false
+        "coordinates": [
+            -107.617005,
+            45.728624
+        ],
+        "type": "Point"
     },
+    "location_address": "17 N MILES",
+    "location_city": "HARDIN",
+    "location_state": "MT",
+    "location_zip": "59034",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4066652310"
-    },
+    "phone_number": "4066652310",
     "provider_id": "271338",
     "raw_ratings": {},
     "state": "MT",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"19600 EAST 39TH STREET\",\"city\":\"INDEPENDENCE\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.047728249000045",
-        "longitude": "-94.34881907899995",
-        "needs_recoding": false
+        "coordinates": [
+            -94.349313,
+            39.047771
+        ],
+        "type": "Point"
     },
+    "location_address": "19600 EAST 39TH STREET",
+    "location_city": "INDEPENDENCE",
+    "location_state": "MO",
+    "location_zip": "64057",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8166987000"
-    },
+    "phone_number": "8166987000",
     "provider_id": "260095",
     "raw_ratings": {},
     "state": "MO",

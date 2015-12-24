@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"12 THIRD STREET SOUTH EAST\",\"city\":\"HILLSBORO\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "47.403080543000044",
-        "longitude": "-97.06588424599994",
-        "needs_recoding": false
+        "coordinates": [
+            -97.056678,
+            47.403607
+        ],
+        "type": "Point"
     },
+    "location_address": "12 THIRD STREET SOUTH EAST",
+    "location_city": "HILLSBORO",
+    "location_state": "ND",
+    "location_zip": "58045",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7016363200"
-    },
+    "phone_number": "7016363200",
     "provider_id": "351329",
     "raw_ratings": {},
     "state": "ND",

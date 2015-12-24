@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"821 N COBB STREET POST OFFICE BOX 690\",\"city\":\"MILLEDGEVILLE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.08936655600007",
-        "longitude": "-83.24804142799996",
-        "needs_recoding": false
+        "coordinates": [
+            -83.244636,
+            33.088002
+        ],
+        "type": "Point"
     },
+    "location_address": "821 N COBB STREET POST OFFICE BOX 690",
+    "location_city": "MILLEDGEVILLE",
+    "location_state": "GA",
+    "location_zip": "31061",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4784543550"
-    },
+    "phone_number": "4784543550",
     "provider_id": "110150",
     "raw_ratings": {},
     "state": "GA",

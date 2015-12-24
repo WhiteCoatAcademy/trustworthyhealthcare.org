@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"506 E SAN ANTONIO ST\",\"city\":\"VICTORIA\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "28.80760601700007",
-        "longitude": "-96.99848074299996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.99946,
+            28.807595
+        ],
+        "type": "Point"
     },
+    "location_address": "506 E SAN ANTONIO ST",
+    "location_city": "VICTORIA",
+    "location_state": "TX",
+    "location_zip": "77902",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "3615757441"
-    },
+    "phone_number": "3615757441",
     "provider_id": "450147",
     "raw_ratings": {},
     "state": "TX",

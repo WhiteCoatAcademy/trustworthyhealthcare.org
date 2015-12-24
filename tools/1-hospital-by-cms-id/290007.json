@@ -4,15 +4,20 @@
     "county_name": "CLARK",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "UMC OF SOUTHERN NEVADA",
+    "hospital_name": "UNIVERSITY MEDICAL CENTER",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1800 W CHARLESTON BLVD\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "36.15897781000007",
-        "longitude": "-115.16748017199996",
-        "needs_recoding": false
+        "coordinates": [
+            -115.165463,
+            36.15894
+        ],
+        "type": "Point"
     },
+    "location_address": "1800 W CHARLESTON BLVD",
+    "location_city": "LAS VEGAS",
+    "location_state": "NV",
+    "location_zip": "89102",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7023832000"
-    },
+    "phone_number": "7023832000",
     "provider_id": "290007",
     "raw_ratings": {},
     "state": "NV",

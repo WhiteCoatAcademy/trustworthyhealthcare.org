@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"725 S ORANGE AVE\",\"city\":\"WEST COVINA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.07080530800005",
-        "longitude": "-117.94439455099996",
-        "needs_recoding": false
+        "coordinates": [
+            -117.945126,
+            34.070227
+        ],
+        "type": "Point"
     },
+    "location_address": "725 S ORANGE AVE",
+    "location_city": "WEST COVINA",
+    "location_state": "CA",
+    "location_zip": "91790",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6263388481"
-    },
+    "phone_number": "6263388481",
     "provider_id": "050096",
     "raw_ratings": {},
     "state": "CA",

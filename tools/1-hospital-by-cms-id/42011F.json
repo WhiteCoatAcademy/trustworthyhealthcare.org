@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"6439 GARNERS FERRY ROAD\",\"city\":\"COLUMBIA\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "33.979977665000035",
-        "longitude": "-80.96186614399994",
-        "needs_recoding": false
+        "coordinates": [
+            -80.962156,
+            33.980212
+        ],
+        "type": "Point"
     },
+    "location_address": "6439 GARNERS FERRY ROAD",
+    "location_city": "COLUMBIA",
+    "location_state": "SC",
+    "location_zip": "29209",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "8036957980"
-    },
+    "phone_number": "8036957980",
     "provider_id": "42011F",
     "raw_ratings": {},
     "state": "SC",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 MIDDLEFORD RD\",\"city\":\"SEAFORD\",\"state\":\"DE\",\"zip\":\"\"}",
-        "latitude": "38.64231617100006",
-        "longitude": "-75.60520875299994",
-        "needs_recoding": false
+        "coordinates": [
+            -75.605325,
+            38.642332
+        ],
+        "type": "Point"
     },
+    "location_address": "801 MIDDLEFORD RD",
+    "location_city": "SEAFORD",
+    "location_state": "DE",
+    "location_zip": "19973",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3026296611"
-    },
+    "phone_number": "3026296611",
     "provider_id": "080006",
     "raw_ratings": {},
     "state": "DE",

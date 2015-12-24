@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 WATERMAN WAY\",\"city\":\"TAVARES\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.824416579000058",
-        "longitude": "-81.70965287499996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.71021,
+            28.822351
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 WATERMAN WAY",
+    "location_city": "TAVARES",
+    "location_state": "FL",
+    "location_zip": "32778",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3522533300"
-    },
+    "phone_number": "3522533300",
     "provider_id": "100057",
     "raw_ratings": {},
     "state": "FL",

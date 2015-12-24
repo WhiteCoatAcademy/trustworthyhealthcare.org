@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2701 17TH ST\",\"city\":\"ROCK ISLAND\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.483400808000056",
-        "longitude": "-90.57277428699996",
-        "needs_recoding": false
+        "coordinates": [
+            -90.572785,
+            41.481971
+        ],
+        "type": "Point"
     },
+    "location_address": "2701 17TH ST",
+    "location_city": "ROCK ISLAND",
+    "location_state": "IL",
+    "location_zip": "61201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trinityqc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3097795000"
-    },
+    "phone_number": "3097795000",
     "provider_id": "140280",
     "raw_ratings": {},
     "state": "IL",

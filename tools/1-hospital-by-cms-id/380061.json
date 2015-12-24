@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4805 NE GLISAN STREET\",\"city\":\"PORTLAND\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "45.526536459000056",
-        "longitude": "-122.61466303599997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.613762,
+            45.526524
+        ],
+        "type": "Point"
     },
+    "location_address": "4805 NE GLISAN STREET",
+    "location_city": "PORTLAND",
+    "location_state": "OR",
+    "location_zip": "97213",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.providence.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5032151111"
-    },
+    "phone_number": "5032151111",
     "provider_id": "380061",
     "raw_ratings": {},
     "state": "OR",

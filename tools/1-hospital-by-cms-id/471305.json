@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"528 WASHINGTON HIGHWAY\",\"city\":\"MORRISVILLE\",\"state\":\"VT\",\"zip\":\"\"}",
-        "latitude": "44.55417192600004",
-        "longitude": "-72.59138314799998",
-        "needs_recoding": false
+        "coordinates": [
+            -72.591365,
+            44.554191
+        ],
+        "type": "Point"
     },
+    "location_address": "528 WASHINGTON HIGHWAY",
+    "location_city": "MORRISVILLE",
+    "location_state": "VT",
+    "location_zip": "05661",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8028884231"
-    },
+    "phone_number": "8028884231",
     "provider_id": "471305",
     "raw_ratings": {},
     "state": "VT",

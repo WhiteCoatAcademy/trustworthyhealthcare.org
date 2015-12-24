@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"12451 EAST 100TH STREET NORTH\",\"city\":\"OWASSO\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.29844623200006",
-        "longitude": "-95.83452916499994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.835025,
+            36.298748
+        ],
+        "type": "Point"
     },
+    "location_address": "12451 EAST 100TH STREET NORTH",
+    "location_city": "OWASSO",
+    "location_state": "OK",
+    "location_zip": "74055",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.marianhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9182745100"
-    },
+    "phone_number": "9182745100",
     "provider_id": "370227",
     "raw_ratings": {},
     "state": "OK",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1425 NORTH RANDALL ROAD\",\"city\":\"ELGIN\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "42.07070963100006",
-        "longitude": "-88.33539329599995",
-        "needs_recoding": false
+        "coordinates": [
+            -88.331468,
+            42.070221
+        ],
+        "type": "Point"
     },
+    "location_address": "1425 NORTH RANDALL ROAD",
+    "location_city": "ELGIN",
+    "location_state": "IL",
+    "location_zip": "60123",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8477429800"
-    },
+    "phone_number": "8477429800",
     "provider_id": "140030",
     "raw_ratings": {},
     "state": "IL",

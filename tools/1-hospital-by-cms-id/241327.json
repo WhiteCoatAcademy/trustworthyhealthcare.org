@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 FOURTH AVENUE NORTHWEST\",\"city\":\"SLEEPY EYE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.293838048000055",
-        "longitude": "-94.71850911099995",
-        "needs_recoding": false
+        "coordinates": [
+            -94.727315,
+            44.299319
+        ],
+        "type": "Point"
     },
+    "location_address": "400 FOURTH AVENUE NORTHWEST",
+    "location_city": "SLEEPY EYE",
+    "location_state": "MN",
+    "location_zip": "56085",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5077948440"
-    },
+    "phone_number": "5077948440",
     "provider_id": "241327",
     "raw_ratings": {},
     "state": "MN",

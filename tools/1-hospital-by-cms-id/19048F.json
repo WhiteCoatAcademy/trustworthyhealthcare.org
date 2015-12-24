@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"510 EAST STONER AVENUE\",\"city\":\"SHREVEPORT\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.500012455000046",
-        "longitude": "-93.72273427999994",
-        "needs_recoding": false
+        "coordinates": [
+            -93.722414,
+            32.499989
+        ],
+        "type": "Point"
     },
+    "location_address": "510 EAST STONER AVENUE",
+    "location_city": "SHREVEPORT",
+    "location_state": "LA",
+    "location_zip": "71101",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "3184246037"
-    },
+    "phone_number": "3184246037",
     "provider_id": "19048F",
     "raw_ratings": {},
     "state": "LA",

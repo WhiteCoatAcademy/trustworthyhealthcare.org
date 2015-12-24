@@ -4,15 +4,20 @@
     "county_name": "PHILLIPS",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "PHILLIPS COUNTY HOSPITAL",
+    "hospital_name": "PHILLIPS COUNTY HEALTH SYSTEMS",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1150 STATE STREET\",\"city\":\"PHILLIPSBURG\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.75584773000003",
-        "longitude": "-99.31102935999996",
-        "needs_recoding": false
+        "coordinates": [
+            -99.313583,
+            39.755862
+        ],
+        "type": "Point"
     },
+    "location_address": "1150 STATE STREET",
+    "location_city": "PHILLIPSBURG",
+    "location_state": "KS",
+    "location_zip": "67661",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7855435226"
-    },
+    "phone_number": "7855435226",
     "provider_id": "171353",
     "raw_ratings": {},
     "state": "KS",

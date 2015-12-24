@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1 HEALTH CIRCLE\",\"city\":\"LEXINGTON\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.78039724700005",
-        "longitude": "-79.44079876299998",
-        "needs_recoding": false
+        "coordinates": [
+            -79.442816,
+            37.779441
+        ],
+        "type": "Point"
     },
+    "location_address": "1 HEALTH CIRCLE",
+    "location_city": "LEXINGTON",
+    "location_state": "VA",
+    "location_zip": "24450",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.carilion.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5404583503"
-    },
+    "phone_number": "5404583503",
     "provider_id": "491304",
     "raw_ratings": {},
     "state": "VA",

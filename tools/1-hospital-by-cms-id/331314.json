@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"418 NORTH MAIN STREET\",\"city\":\"PENN YAN\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.67120171000005",
-        "longitude": "-77.06008873699994",
-        "needs_recoding": false
+        "coordinates": [
+            -77.060259,
+            42.671543
+        ],
+        "type": "Point"
     },
+    "location_address": "418 NORTH MAIN STREET",
+    "location_city": "PENN YAN",
+    "location_state": "NY",
+    "location_zip": "14527",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.flhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3157874175"
-    },
+    "phone_number": "3157874175",
     "provider_id": "331314",
     "raw_ratings": {},
     "state": "NY",

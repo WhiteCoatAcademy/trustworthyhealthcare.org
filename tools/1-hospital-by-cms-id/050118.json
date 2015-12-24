@@ -1,5 +1,5 @@
 {
-    "address": "1205 E NORTH ST",
+    "address": "1205 E NORTH STREET",
     "city": "MANTECA",
     "county_name": "SAN JOAQUIN",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1205 E NORTH ST\",\"city\":\"MANTECA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.80110796900004",
-        "longitude": "-121.19746010899996",
-        "needs_recoding": false
+        "coordinates": [
+            -121.198181,
+            37.801092
+        ],
+        "type": "Point"
     },
+    "location_address": "1205 E NORTH STREET",
+    "location_city": "MANTECA",
+    "location_state": "CA",
+    "location_zip": "95336",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2098233111"
-    },
+    "phone_number": "2098233111",
     "provider_id": "050118",
     "raw_ratings": {},
     "state": "CA",

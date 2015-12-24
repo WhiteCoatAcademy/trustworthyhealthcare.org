@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"255 N 30TH\",\"city\":\"LARAMIE\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "41.312210908000054",
-        "longitude": "-105.55747450599995",
-        "needs_recoding": false
+        "coordinates": [
+            -105.557532,
+            41.312733
+        ],
+        "type": "Point"
     },
+    "location_address": "255 N 30TH",
+    "location_city": "LARAMIE",
+    "location_state": "WY",
+    "location_zip": "82072",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3077422141"
-    },
+    "phone_number": "3077422141",
     "provider_id": "530025",
     "raw_ratings": {},
     "state": "WY",

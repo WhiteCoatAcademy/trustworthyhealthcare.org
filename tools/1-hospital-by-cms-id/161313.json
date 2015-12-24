@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1118 11TH STREET\",\"city\":\"DEWITT\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.825833198000055",
-        "longitude": "-90.54743172899998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.54734,
+            41.825789
+        ],
+        "type": "Point"
     },
+    "location_address": "1118 11TH STREET",
+    "location_city": "DEWITT",
+    "location_state": "IA",
+    "location_zip": "52742",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.genesishealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5636594200"
-    },
+    "phone_number": "5636594200",
     "provider_id": "161313",
     "raw_ratings": {},
     "state": "IA",

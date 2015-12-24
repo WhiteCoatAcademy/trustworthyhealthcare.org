@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1 TITUS PLACE\",\"city\":\"WALTON\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.164455822000036",
-        "longitude": "-75.12854753699997",
-        "needs_recoding": false
+        "coordinates": [
+            -75.128478,
+            42.164675
+        ],
+        "type": "Point"
     },
+    "location_address": "1 TITUS PLACE",
+    "location_city": "WALTON",
+    "location_state": "NY",
+    "location_zip": "13856",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "6078652100"
-    },
+    "phone_number": "6078652100",
     "provider_id": "331312",
     "raw_ratings": {},
     "state": "NY",

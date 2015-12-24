@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1400 W 4TH ST\",\"city\":\"COFFEYVILLE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.04046830600004",
-        "longitude": "-95.63838029299995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.638346,
+            37.040399
+        ],
+        "type": "Point"
     },
+    "location_address": "1400 W 4TH ST",
+    "location_city": "COFFEYVILLE",
+    "location_state": "KS",
+    "location_zip": "67337",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6202511200"
-    },
+    "phone_number": "6202511200",
     "provider_id": "170145",
     "raw_ratings": {},
     "state": "KS",

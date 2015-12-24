@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"179 NORTH BROAD STREET\",\"city\":\"NORWICH\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.54177280700003",
-        "longitude": "-75.52474696399997",
-        "needs_recoding": false
+        "coordinates": [
+            -75.524709,
+            42.541885
+        ],
+        "type": "Point"
     },
+    "location_address": "179 NORTH BROAD STREET",
+    "location_city": "NORWICH",
+    "location_state": "NY",
+    "location_zip": "13815",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "6073354111"
-    },
+    "phone_number": "6073354111",
     "provider_id": "330033",
     "raw_ratings": {},
     "state": "NY",

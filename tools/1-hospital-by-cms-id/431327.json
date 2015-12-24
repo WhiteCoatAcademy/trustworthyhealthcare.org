@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"410 W 16TH AVE\",\"city\":\"TYNDALL\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "42.99125178200006",
-        "longitude": "-97.86707373299998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.867896,
+            42.991253
+        ],
+        "type": "Point"
     },
+    "location_address": "410 W 16TH AVE",
+    "location_city": "TYNDALL",
+    "location_state": "SD",
+    "location_zip": "57066",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6055893341"
-    },
+    "phone_number": "6055893341",
     "provider_id": "431327",
     "raw_ratings": {},
     "state": "SD",

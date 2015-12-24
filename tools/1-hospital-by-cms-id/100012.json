@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2776 CLEVELAND AVE\",\"city\":\"FORT MYERS\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.62673493400007",
-        "longitude": "-81.87233125099993",
-        "needs_recoding": false
+        "coordinates": [
+            -81.872315,
+            26.627344
+        ],
+        "type": "Point"
     },
+    "location_address": "2776 CLEVELAND AVE",
+    "location_city": "FORT MYERS",
+    "location_state": "FL",
+    "location_zip": "33901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.leememorial.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2393321111"
-    },
+    "phone_number": "2393321111",
     "provider_id": "100012",
     "raw_ratings": {},
     "state": "FL",

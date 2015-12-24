@@ -4,15 +4,20 @@
     "county_name": "TRUMBULL",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ST JOSEPH HEALTH CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_name": "ST JOSEPH WARREN HOSPITAL",
+    "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"667 EASTLAND AVE SE\",\"city\":\"WARREN\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.231570770000076",
-        "longitude": "-80.77831433199998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.778341,
+            41.230593
+        ],
+        "type": "Point"
     },
+    "location_address": "667 EASTLAND AVE SE",
+    "location_city": "WARREN",
+    "location_state": "OH",
+    "location_zip": "44481",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health-partners.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3308414000"
-    },
+    "phone_number": "3308414000",
     "provider_id": "360161",
     "raw_ratings": {},
     "state": "OH",

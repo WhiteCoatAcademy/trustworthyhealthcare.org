@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"550 FIRST AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.67006499300004",
-        "longitude": "-73.97423309699997",
-        "needs_recoding": false
+        "coordinates": [
+            -73.974225,
+            40.742871
+        ],
+        "type": "Point"
     },
+    "location_address": "550 FIRST AVENUE",
+    "location_city": "NEW YORK",
+    "location_state": "NY",
+    "location_zip": "10016",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.med.nyu.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "2122637300"
-    },
+    "phone_number": "2122637300",
     "provider_id": "330214",
     "raw_ratings": {},
     "state": "NY",

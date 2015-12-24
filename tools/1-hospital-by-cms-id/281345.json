@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 PROVIDENCE RD\",\"city\":\"WAYNE\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "42.24124301400008",
-        "longitude": "-97.00807390599994",
-        "needs_recoding": false
+        "coordinates": [
+            -97.008069,
+            42.240694
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 PROVIDENCE RD",
+    "location_city": "WAYNE",
+    "location_state": "NE",
+    "location_zip": "68787",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4023753800"
-    },
+    "phone_number": "4023753800",
     "provider_id": "281345",
     "raw_ratings": {},
     "state": "NE",

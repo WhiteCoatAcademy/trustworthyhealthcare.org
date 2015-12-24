@@ -1,5 +1,5 @@
 {
-    "address": "2070 CLINTON AVE",
+    "address": "2070 CLINTON AVENUE",
     "city": "ALAMEDA",
     "county_name": "ALAMEDA",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2070 CLINTON AVE\",\"city\":\"ALAMEDA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.76348481500003",
-        "longitude": "-122.25423043699999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.254228,
+            37.763531
+        ],
+        "type": "Point"
     },
+    "location_address": "2070 CLINTON AVENUE",
+    "location_city": "ALAMEDA",
+    "location_state": "CA",
+    "location_zip": "94501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5105223700"
-    },
+    "phone_number": "5105223700",
     "provider_id": "050211",
     "raw_ratings": {},
     "state": "CA",

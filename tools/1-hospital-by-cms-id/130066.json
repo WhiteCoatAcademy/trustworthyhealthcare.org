@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1593 EAST POLSTON AVENUE\",\"city\":\"POST FALLS\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "47.714726539000026",
-        "longitude": "-116.926254471",
-        "needs_recoding": false
+        "coordinates": [
+            -116.924455,
+            47.71441
+        ],
+        "type": "Point"
     },
+    "location_address": "1593 EAST POLSTON AVENUE",
+    "location_city": "POST FALLS",
+    "location_state": "ID",
+    "location_zip": "83854",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nshinc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2082622300"
-    },
+    "phone_number": "2082622300",
     "provider_id": "130066",
     "raw_ratings": {},
     "state": "ID",

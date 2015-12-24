@@ -4,15 +4,20 @@
     "county_name": "DOUGLAS",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "THE NEBRASKA METHODIST HOSPITAL",
+    "hospital_name": "METHODIST HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8303 DODGE ST\",\"city\":\"OMAHA\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.259642659000065",
-        "longitude": "-96.04160057299998",
-        "needs_recoding": false
+        "coordinates": [
+            -96.0426,
+            41.259682
+        ],
+        "type": "Point"
     },
+    "location_address": "8303 DODGE ST",
+    "location_city": "OMAHA",
+    "location_state": "NE",
+    "location_zip": "68114",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bestcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4023544000"
-    },
+    "phone_number": "4023544000",
     "provider_id": "280040",
     "raw_ratings": {},
     "state": "NE",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1221 HIGHLAND AVENUE\",\"city\":\"CLARKSTON\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "46.403600349000044",
-        "longitude": "-117.05642364099998",
-        "needs_recoding": false
+        "coordinates": [
+            -117.055073,
+            46.403637
+        ],
+        "type": "Point"
     },
+    "location_address": "1221 HIGHLAND AVENUE",
+    "location_city": "CLARKSTON",
+    "location_state": "WA",
+    "location_zip": "99403",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5097585511"
-    },
+    "phone_number": "5097585511",
     "provider_id": "501332",
     "raw_ratings": {},
     "state": "WA",

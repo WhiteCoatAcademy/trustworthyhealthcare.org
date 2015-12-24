@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2801 N GANTENBEIN AVENUE\",\"city\":\"PORTLAND\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "45.544199787000025",
-        "longitude": "-122.66953815299996",
-        "needs_recoding": false
+        "coordinates": [
+            -122.669449,
+            45.544202
+        ],
+        "type": "Point"
     },
+    "location_address": "2801 N GANTENBEIN AVENUE",
+    "location_city": "PORTLAND",
+    "location_state": "OR",
+    "location_zip": "97227",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.legacyhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5034132200"
-    },
+    "phone_number": "5034132200",
     "provider_id": "380007",
     "raw_ratings": {},
     "state": "OR",

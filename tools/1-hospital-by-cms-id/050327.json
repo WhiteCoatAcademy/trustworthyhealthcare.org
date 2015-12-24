@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11234 ANDERSON ST\",\"city\":\"LOMA LINDA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.04915047600008",
-        "longitude": "-117.26115250599997",
-        "needs_recoding": false
+        "coordinates": [
+            -117.261118,
+            34.049616
+        ],
+        "type": "Point"
     },
+    "location_address": "11234 ANDERSON ST",
+    "location_city": "LOMA LINDA",
+    "location_state": "CA",
+    "location_zip": "92354",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9095584000"
-    },
+    "phone_number": "9095584000",
     "provider_id": "050327",
     "raw_ratings": {},
     "state": "CA",

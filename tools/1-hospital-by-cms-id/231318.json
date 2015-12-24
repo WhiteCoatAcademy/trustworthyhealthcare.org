@@ -4,15 +4,20 @@
     "county_name": "IRON",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "NORTHSTAR HEALTH SYSTEM",
+    "hospital_name": "ASPIRUS IRON RIVER HOSPITAL & CLINICS, INC",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1400 W ICE LAKE ROAD\",\"city\":\"IRON RIVER\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "46.09924165500007",
-        "longitude": "-88.62031402599996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.619122,
+            46.098125
+        ],
+        "type": "Point"
     },
+    "location_address": "1400 W ICE LAKE ROAD",
+    "location_city": "IRON RIVER",
+    "location_state": "MI",
+    "location_zip": "49935",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9062656121"
-    },
+    "phone_number": "9062656121",
     "provider_id": "231318",
     "raw_ratings": {},
     "state": "MI",

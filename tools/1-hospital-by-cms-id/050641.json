@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4060 WHITTIER BLVD\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.02390364100006",
-        "longitude": "-118.18415547899997",
-        "needs_recoding": false
+        "coordinates": [
+            -118.184028,
+            34.023932
+        ],
+        "type": "Point"
     },
+    "location_address": "4060 WHITTIER BLVD",
+    "location_city": "LOS ANGELES",
+    "location_state": "CA",
+    "location_zip": "90023",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3232685514"
-    },
+    "phone_number": "3232685514",
     "provider_id": "050641",
     "raw_ratings": {},
     "state": "CA",

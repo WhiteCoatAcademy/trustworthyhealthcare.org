@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"168 S HOWELL STREET\",\"city\":\"HILLSDALE\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "41.912001247000035",
-        "longitude": "-84.63175789399997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.631703,
+            41.911797
+        ],
+        "type": "Point"
     },
+    "location_address": "168 S HOWELL STREET",
+    "location_city": "HILLSDALE",
+    "location_state": "MI",
+    "location_zip": "49242",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5174374451"
-    },
+    "phone_number": "5174374451",
     "provider_id": "230037",
     "raw_ratings": {},
     "state": "MI",

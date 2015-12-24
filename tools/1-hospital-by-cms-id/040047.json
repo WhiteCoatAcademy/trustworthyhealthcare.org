@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "FIVE RIVERS MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2801 MEDICAL CENTER DRIVE\",\"city\":\"POCAHONTAS\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "36.289971028000025",
-        "longitude": "-90.99769664299998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.996181,
+            36.289948
+        ],
+        "type": "Point"
     },
+    "location_address": "2801 MEDICAL CENTER DRIVE",
+    "location_city": "POCAHONTAS",
+    "location_state": "AR",
+    "location_zip": "72455",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8708926000"
-    },
+    "phone_number": "8708926000",
     "provider_id": "040047",
     "raw_ratings": {},
     "state": "AR",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3901 W 15TH ST\",\"city\":\"PLANO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.01937811100004",
-        "longitude": "-96.76572442499997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.765907,
+            33.019359
+        ],
+        "type": "Point"
     },
+    "location_address": "3901 W 15TH ST",
+    "location_city": "PLANO",
+    "location_state": "TX",
+    "location_zip": "75075",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9725966800"
-    },
+    "phone_number": "9725966800",
     "provider_id": "450651",
     "raw_ratings": {},
     "state": "TX",

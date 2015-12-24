@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"217 PHYSICIANS PARK DRIVE\",\"city\":\"POPLAR BLUFF\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "36.76979084900006",
-        "longitude": "-90.45882803699999",
-        "needs_recoding": false
+        "coordinates": [
+            -90.456445,
+            36.770882
+        ],
+        "type": "Point"
     },
+    "location_address": "217 PHYSICIANS PARK DRIVE",
+    "location_city": "POPLAR BLUFF",
+    "location_state": "MO",
+    "location_zip": "63901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5736866001"
-    },
+    "phone_number": "5736866001",
     "provider_id": "260227",
     "raw_ratings": {},
     "state": "MO",

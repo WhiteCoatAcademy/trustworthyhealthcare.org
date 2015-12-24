@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1969 W HART RD\",\"city\":\"BELOIT\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "42.54678557400007",
-        "longitude": "-89.00887128999995",
-        "needs_recoding": false
+        "coordinates": [
+            -89.008424,
+            42.546766
+        ],
+        "type": "Point"
     },
+    "location_address": "1969 W HART RD",
+    "location_city": "BELOIT",
+    "location_state": "WI",
+    "location_zip": "53511",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6083645011"
-    },
+    "phone_number": "6083645011",
     "provider_id": "520100",
     "raw_ratings": {},
     "state": "WI",

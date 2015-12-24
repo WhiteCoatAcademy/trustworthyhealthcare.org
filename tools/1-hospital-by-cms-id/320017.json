@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4701 MONTGOMERY BOULEVARD NE\",\"city\":\"ALBUQUERQUE\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "35.131078573000025",
-        "longitude": "-106.59019095099995",
-        "needs_recoding": false
+        "coordinates": [
+            -106.591057,
+            35.131008
+        ],
+        "type": "Point"
     },
+    "location_address": "4701 MONTGOMERY BOULEVARD NE",
+    "location_city": "ALBUQUERQUE",
+    "location_state": "NM",
+    "location_zip": "87109",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ardenthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5057277805"
-    },
+    "phone_number": "5057277805",
     "provider_id": "320017",
     "raw_ratings": {},
     "state": "NM",

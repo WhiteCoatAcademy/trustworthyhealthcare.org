@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"112 JEFFERSON STREET\",\"city\":\"WEST UNION\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.96770686700006",
-        "longitude": "-91.80942041499998",
-        "needs_recoding": false
+        "coordinates": [
+            -91.808591,
+            42.967682
+        ],
+        "type": "Point"
     },
+    "location_address": "112 JEFFERSON STREET",
+    "location_city": "WEST UNION",
+    "location_state": "IA",
+    "location_zip": "52175",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5634223811"
-    },
+    "phone_number": "5634223811",
     "provider_id": "161316",
     "raw_ratings": {},
     "state": "IA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1230 BAXTER STREET\",\"city\":\"ATHENS\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.945938289000026",
-        "longitude": "-83.40443372499999",
-        "needs_recoding": false
+        "coordinates": [
+            -83.403236,
+            33.946069
+        ],
+        "type": "Point"
     },
+    "location_address": "1230 BAXTER STREET",
+    "location_city": "ATHENS",
+    "location_state": "GA",
+    "location_zip": "30606",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.che.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7063893930"
-    },
+    "phone_number": "7063893930",
     "provider_id": "110006",
     "raw_ratings": {},
     "state": "GA",

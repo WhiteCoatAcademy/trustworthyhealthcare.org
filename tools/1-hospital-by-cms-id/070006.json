@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"30 SHELBURNE ROAD\",\"city\":\"STAMFORD\",\"state\":\"CT\",\"zip\":\"\"}",
-        "latitude": "41.05485106900005",
-        "longitude": "-73.55382422899999",
-        "needs_recoding": false
+        "coordinates": [
+            -73.553929,
+            41.055813
+        ],
+        "type": "Point"
     },
+    "location_address": "30 SHELBURNE ROAD",
+    "location_city": "STAMFORD",
+    "location_state": "CT",
+    "location_zip": "06904",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nypsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2032761000"
-    },
+    "phone_number": "2032761000",
     "provider_id": "070006",
     "raw_ratings": {},
     "state": "CT",

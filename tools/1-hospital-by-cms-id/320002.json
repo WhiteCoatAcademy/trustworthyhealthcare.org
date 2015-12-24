@@ -4,15 +4,20 @@
     "county_name": "SANTA FE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ST VINCENT HOSPITAL",
+    "hospital_name": "CHRISTUS ST VINCENT REGIONAL MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"455 ST MICHAEL'S DRIVE\",\"city\":\"SANTA FE\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "35.65753056600005",
-        "longitude": "-105.94601078899996",
-        "needs_recoding": false
+        "coordinates": [
+            -105.944465,
+            35.656958
+        ],
+        "type": "Point"
     },
+    "location_address": "455 ST MICHAEL'S DRIVE",
+    "location_city": "SANTA FE",
+    "location_state": "NM",
+    "location_zip": "87505",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5059135201"
-    },
+    "phone_number": "5059135201",
     "provider_id": "320002",
     "raw_ratings": {},
     "state": "NM",

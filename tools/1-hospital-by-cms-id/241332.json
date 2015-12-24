@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2150 HOSPITAL DRIVE, PO BOX 339\",\"city\":\"WINDOM\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "43.87762760900006",
-        "longitude": "-95.11484224399999",
-        "needs_recoding": false
+        "coordinates": [
+            -95.114488,
+            43.877022
+        ],
+        "type": "Point"
     },
+    "location_address": "2150 HOSPITAL DRIVE, PO BOX 339",
+    "location_city": "WINDOM",
+    "location_state": "MN",
+    "location_zip": "56101",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sanfordhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5078312400"
-    },
+    "phone_number": "5078312400",
     "provider_id": "241332",
     "raw_ratings": {},
     "state": "MN",

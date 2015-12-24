@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1995 EAST STATE STREET\",\"city\":\"SALEM\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.900902762000044",
-        "longitude": "-80.83223074999995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.832674,
+            40.900944
+        ],
+        "type": "Point"
     },
+    "location_address": "1995 EAST STATE STREET",
+    "location_city": "SALEM",
+    "location_state": "OH",
+    "location_zip": "44460",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3303321551"
-    },
+    "phone_number": "3303321551",
     "provider_id": "360185",
     "raw_ratings": {},
     "state": "OH",

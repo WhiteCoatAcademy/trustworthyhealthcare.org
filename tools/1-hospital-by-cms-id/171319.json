@@ -1,5 +1,5 @@
 {
-    "address": "1110 COLUMBINE DR",
+    "address": "1110 COLUMBINE DRIVE",
     "city": "HOLTON",
     "county_name": "JACKSON",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1110 COLUMBINE DR\",\"city\":\"HOLTON\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.47968758900004",
-        "longitude": "-95.75001911699997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.751725,
+            39.479045
+        ],
+        "type": "Point"
     },
+    "location_address": "1110 COLUMBINE DRIVE",
+    "location_city": "HOLTON",
+    "location_state": "KS",
+    "location_zip": "66436",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7853642116"
-    },
+    "phone_number": "7853642116",
     "provider_id": "171319",
     "raw_ratings": {},
     "state": "KS",

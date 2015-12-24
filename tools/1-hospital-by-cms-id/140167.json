@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 FAIRMAN STREET\",\"city\":\"WATSEKA\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "40.776252955000075",
-        "longitude": "-87.73696721799996",
-        "needs_recoding": false
+        "coordinates": [
+            -87.732666,
+            40.765541
+        ],
+        "type": "Point"
     },
+    "location_address": "200 FAIRMAN STREET",
+    "location_city": "WATSEKA",
+    "location_state": "IL",
+    "location_zip": "60970",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8154325201"
-    },
+    "phone_number": "8154325201",
     "provider_id": "140167",
     "raw_ratings": {},
     "state": "IL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3231 MCMULLEN BOOTH RD\",\"city\":\"SAFETY HARBOR\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.038900382000065",
-        "longitude": "-82.70894983799997",
-        "needs_recoding": false
+        "coordinates": [
+            -82.708971,
+            28.040326
+        ],
+        "type": "Point"
     },
+    "location_address": "3231 MCMULLEN BOOTH RD",
+    "location_city": "SAFETY HARBOR",
+    "location_state": "FL",
+    "location_zip": "34695",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baycare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7277346950"
-    },
+    "phone_number": "7277346950",
     "provider_id": "100265",
     "raw_ratings": {},
     "state": "FL",

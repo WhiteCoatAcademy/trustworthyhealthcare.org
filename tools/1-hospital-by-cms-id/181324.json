@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"456 BURNLEY ROAD\",\"city\":\"SCOTTSVILLE\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "36.761526564000064",
-        "longitude": "-86.21656977499998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.216822,
+            36.761926
+        ],
+        "type": "Point"
     },
+    "location_address": "456 BURNLEY ROAD",
+    "location_city": "SCOTTSVILLE",
+    "location_state": "KY",
+    "location_zip": "42164",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chc.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "2706222800"
-    },
+    "phone_number": "2706222800",
     "provider_id": "181324",
     "raw_ratings": {},
     "state": "KY",

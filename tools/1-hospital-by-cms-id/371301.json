@@ -1,5 +1,5 @@
 {
-    "address": "1322 KLABSUBA AVENUE",
+    "address": "1322 KLABZUBA AVENUE",
     "city": "PRAGUE",
     "county_name": "LINCOLN",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1322 KLABSUBA AVENUE\",\"city\":\"PRAGUE\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.48984002200007",
-        "longitude": "-96.68453604199999",
-        "needs_recoding": false
+        "coordinates": [
+            -96.684553,
+            35.489816
+        ],
+        "type": "Point"
     },
+    "location_address": "1322 KLABZUBA AVENUE",
+    "location_city": "PRAGUE",
+    "location_state": "OK",
+    "location_zip": "74864",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4055674922"
-    },
+    "phone_number": "4055674922",
     "provider_id": "371301",
     "raw_ratings": {},
     "state": "OK",

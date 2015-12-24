@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"601 WEST LEOTA ST\",\"city\":\"NORTH PLATTE\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.120794782000075",
-        "longitude": "-100.77149371299998",
-        "needs_recoding": false
+        "coordinates": [
+            -100.770364,
+            41.120749
+        ],
+        "type": "Point"
     },
+    "location_address": "601 WEST LEOTA ST",
+    "location_city": "NORTH PLATTE",
+    "location_state": "NE",
+    "location_zip": "69101",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3086968000"
-    },
+    "phone_number": "3086968000",
     "provider_id": "280065",
     "raw_ratings": {},
     "state": "NE",

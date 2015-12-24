@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 N WASHINGTON ST\",\"city\":\"COUNCIL GROVE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.66520473500003",
-        "longitude": "-96.50012426699999",
-        "needs_recoding": false
+        "coordinates": [
+            -96.499747,
+            38.664245
+        ],
+        "type": "Point"
     },
+    "location_address": "600 N WASHINGTON ST",
+    "location_city": "COUNCIL GROVE",
+    "location_state": "KS",
+    "location_zip": "66846",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6207676811"
-    },
+    "phone_number": "6207676811",
     "provider_id": "171379",
     "raw_ratings": {},
     "state": "KS",

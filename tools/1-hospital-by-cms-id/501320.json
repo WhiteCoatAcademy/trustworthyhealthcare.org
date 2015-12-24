@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"908 10TH AVENUE SOUTHWEST\",\"city\":\"QUINCY\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.23095715100004",
-        "longitude": "-119.86914881099995",
-        "needs_recoding": false
+        "coordinates": [
+            -119.869181,
+            47.230989
+        ],
+        "type": "Point"
     },
+    "location_address": "908 10TH AVENUE SOUTHWEST",
+    "location_city": "QUINCY",
+    "location_state": "WA",
+    "location_zip": "98848",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5097873531"
-    },
+    "phone_number": "5097873531",
     "provider_id": "501320",
     "raw_ratings": {},
     "state": "WA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5353 REYNOLDS STREET\",\"city\":\"SAVANNAH\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.02767576600007",
-        "longitude": "-81.10166466099997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.101731,
+            32.02736
+        ],
+        "type": "Point"
     },
+    "location_address": "5353 REYNOLDS STREET",
+    "location_city": "SAVANNAH",
+    "location_state": "GA",
+    "location_zip": "31412",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sjchs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9128196000"
-    },
+    "phone_number": "9128196000",
     "provider_id": "110024",
     "raw_ratings": {},
     "state": "GA",

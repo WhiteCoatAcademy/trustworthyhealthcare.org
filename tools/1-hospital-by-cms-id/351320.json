@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"164 W 13TH STREET\",\"city\":\"GRAFTON\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "48.41142920200008",
-        "longitude": "-97.41366260899997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.413731,
+            48.411484
+        ],
+        "type": "Point"
     },
+    "location_address": "164 W 13TH STREET",
+    "location_city": "GRAFTON",
+    "location_state": "ND",
+    "location_zip": "58237",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7013521620"
-    },
+    "phone_number": "7013521620",
     "provider_id": "351320",
     "raw_ratings": {},
     "state": "ND",

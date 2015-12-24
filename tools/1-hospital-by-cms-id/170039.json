@@ -1,5 +1,5 @@
 {
-    "address": "1323 NORTH A ST",
+    "address": "1323 NORTH A STREET",
     "city": "WELLINGTON",
     "county_name": "SUMNER",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1323 NORTH A ST\",\"city\":\"WELLINGTON\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.27843063300003",
-        "longitude": "-97.39422616999997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.394259,
+            37.278353
+        ],
+        "type": "Point"
     },
+    "location_address": "1323 NORTH A STREET",
+    "location_city": "WELLINGTON",
+    "location_state": "KS",
+    "location_zip": "67152",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6203991299"
-    },
+    "phone_number": "6203267451",
     "provider_id": "170039",
     "raw_ratings": {},
     "state": "KS",

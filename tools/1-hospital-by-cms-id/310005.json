@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2100 WESCOTT DRIVE\",\"city\":\"FLEMINGTON\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.53261207500003",
-        "longitude": "-74.86045215699994",
-        "needs_recoding": false
+        "coordinates": [
+            -74.86041,
+            40.532524
+        ],
+        "type": "Point"
     },
+    "location_address": "2100 WESCOTT DRIVE",
+    "location_city": "FLEMINGTON",
+    "location_state": "NJ",
+    "location_zip": "08822",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9087886100"
-    },
+    "phone_number": "9087886100",
     "provider_id": "310005",
     "raw_ratings": {},
     "state": "NJ",

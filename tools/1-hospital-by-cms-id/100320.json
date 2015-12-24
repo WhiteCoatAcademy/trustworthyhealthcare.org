@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"325 CYPRESS PKWY\",\"city\":\"KISSIMMEE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.142717136000044",
-        "longitude": "-81.47294562399998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.472985,
+            28.142723
+        ],
+        "type": "Point"
     },
+    "location_address": "325 CYPRESS PKWY",
+    "location_city": "KISSIMMEE",
+    "location_state": "FL",
+    "location_zip": "34758",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4075302000"
-    },
+    "phone_number": "4075302000",
     "provider_id": "100320",
     "raw_ratings": {},
     "state": "FL",

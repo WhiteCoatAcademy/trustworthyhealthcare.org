@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 VALLEY DRIVE\",\"city\":\"PAULS VALLEY\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "34.72012195900004",
-        "longitude": "-97.21376410799996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.212899,
+            34.720109
+        ],
+        "type": "Point"
     },
+    "location_address": "100 VALLEY DRIVE",
+    "location_city": "PAULS VALLEY",
+    "location_state": "OK",
+    "location_zip": "73075",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4052385501"
-    },
+    "phone_number": "4052385501",
     "provider_id": "370156",
     "raw_ratings": {},
     "state": "OK",

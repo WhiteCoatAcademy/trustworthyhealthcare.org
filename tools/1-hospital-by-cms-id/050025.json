@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 WEST ARBOR DRIVE\",\"city\":\"SAN DIEGO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "32.753805374000024",
-        "longitude": "-117.16508726099994",
-        "needs_recoding": false
+        "coordinates": [
+            -117.165086,
+            32.753782
+        ],
+        "type": "Point"
     },
+    "location_address": "200 WEST ARBOR DRIVE",
+    "location_city": "SAN DIEGO",
+    "location_state": "CA",
+    "location_zip": "92103",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6195436222"
-    },
+    "phone_number": "6195436222",
     "provider_id": "050025",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"610 SPARTA ROAD\",\"city\":\"SANDERSVILLE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.99689824500007",
-        "longitude": "-82.80488190799997",
-        "needs_recoding": false
+        "coordinates": [
+            -82.805042,
+            32.996817
+        ],
+        "type": "Point"
     },
+    "location_address": "610 SPARTA ROAD",
+    "location_city": "SANDERSVILLE",
+    "location_state": "GA",
+    "location_zip": "31082",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4782402100"
-    },
+    "phone_number": "4782402100",
     "provider_id": "110086",
     "raw_ratings": {},
     "state": "GA",

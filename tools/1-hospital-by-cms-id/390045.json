@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 HIGH STREET\",\"city\":\"WILLIAMSPORT\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "41.245517989000064",
-        "longitude": "-77.01451253399995",
-        "needs_recoding": false
+        "coordinates": [
+            -77.01453,
+            41.24542
+        ],
+        "type": "Point"
     },
+    "location_address": "700 HIGH STREET",
+    "location_city": "WILLIAMSPORT",
+    "location_state": "PA",
+    "location_zip": "17701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.shscares.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5703211000"
-    },
+    "phone_number": "5703211000",
     "provider_id": "390045",
     "raw_ratings": {},
     "state": "PA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"410 S 11TH ST\",\"city\":\"LAKE WALES\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.89585035600004",
-        "longitude": "-81.56470173199995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.564665,
+            27.896586
+        ],
+        "type": "Point"
     },
+    "location_address": "410 S 11TH ST",
+    "location_city": "LAKE WALES",
+    "location_state": "FL",
+    "location_zip": "33853",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "8636761433"
-    },
+    "phone_number": "8636761433",
     "provider_id": "100099",
     "raw_ratings": {},
     "state": "FL",

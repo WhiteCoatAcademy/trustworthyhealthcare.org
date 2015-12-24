@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9660 SOUTH 1300 EAST\",\"city\":\"SANDY\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "40.575599778000026",
-        "longitude": "-111.85317706999996",
-        "needs_recoding": false
+        "coordinates": [
+            -111.85319,
+            40.574927
+        ],
+        "type": "Point"
     },
+    "location_address": "9660 SOUTH 1300 EAST",
+    "location_city": "SANDY",
+    "location_state": "UT",
+    "location_zip": "84094",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "intermountainhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8015012600"
-    },
+    "phone_number": "8015012600",
     "provider_id": "460044",
     "raw_ratings": {},
     "state": "UT",

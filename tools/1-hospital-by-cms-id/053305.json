@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Childrens",
     "location": {
-        "human_address": "{\"address\":\"725 WELCH ROAD\",\"city\":\"PALO ALTO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.43730379300007",
-        "longitude": "-122.17476677799999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.174248,
+            37.437193
+        ],
+        "type": "Point"
     },
+    "location_address": "725 WELCH ROAD",
+    "location_city": "PALO ALTO",
+    "location_state": "CA",
+    "location_zip": "94304",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.stanfordhospital.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6504978000"
-    },
+    "phone_number": "6504978000",
     "provider_id": "053305",
     "raw_ratings": {},
     "state": "CA",

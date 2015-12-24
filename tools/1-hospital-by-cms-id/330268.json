@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"178 GRANDVIEW DRIVE\",\"city\":\"COBLESKILL\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.68639800300008",
-        "longitude": "-74.48304272199994",
-        "needs_recoding": false
+        "coordinates": [
+            -74.48327,
+            42.686673
+        ],
+        "type": "Point"
     },
+    "location_address": "178 GRANDVIEW DRIVE",
+    "location_city": "COBLESKILL",
+    "location_state": "NY",
+    "location_zip": "12043",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5182543270"
-    },
+    "phone_number": "5182543270",
     "provider_id": "330268",
     "raw_ratings": {},
     "state": "NY",

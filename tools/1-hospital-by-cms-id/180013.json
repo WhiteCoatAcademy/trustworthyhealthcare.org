@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"250 PARK STREET\",\"city\":\"BOWLING GREEN\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "36.99633591300005",
-        "longitude": "-86.43014486299995",
-        "needs_recoding": false
+        "coordinates": [
+            -86.430074,
+            36.996456
+        ],
+        "type": "Point"
     },
+    "location_address": "250 PARK STREET",
+    "location_city": "BOWLING GREEN",
+    "location_state": "KY",
+    "location_zip": "42101",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chc.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "2707451000"
-    },
+    "phone_number": "2707451000",
     "provider_id": "180013",
     "raw_ratings": {},
     "state": "KY",

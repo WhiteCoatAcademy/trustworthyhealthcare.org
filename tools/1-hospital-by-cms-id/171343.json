@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"404 N CHESTNUT\",\"city\":\"JOHNSON\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.57355798200007",
-        "longitude": "-101.74950842899995",
-        "needs_recoding": false
+        "coordinates": [
+            -101.749454,
+            37.573319
+        ],
+        "type": "Point"
     },
+    "location_address": "404 N CHESTNUT",
+    "location_city": "JOHNSON",
+    "location_state": "KS",
+    "location_zip": "67855",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6204926250"
-    },
+    "phone_number": "6204926250",
     "provider_id": "171343",
     "raw_ratings": {},
     "state": "KS",

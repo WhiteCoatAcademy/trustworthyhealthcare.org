@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2475 BROADWAY\",\"city\":\"HELENA\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "46.58401093800006",
-        "longitude": "-112.01977440399997",
-        "needs_recoding": false
+        "coordinates": [
+            -111.994817,
+            46.584234
+        ],
+        "type": "Point"
     },
+    "location_address": "2475 BROADWAY",
+    "location_city": "HELENA",
+    "location_state": "MT",
+    "location_zip": "59601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4064422480"
-    },
+    "phone_number": "4064422480",
     "provider_id": "270003",
     "raw_ratings": {},
     "state": "MT",

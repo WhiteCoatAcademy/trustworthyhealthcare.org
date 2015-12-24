@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"110 HOSPITAL DRIVE\",\"city\":\"JEFFERSON CITY\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.125781921000055",
-        "longitude": "-83.49002752099994",
-        "needs_recoding": false
+        "coordinates": [
+            -83.51964,
+            36.10686
+        ],
+        "type": "Point"
     },
+    "location_address": "110 HOSPITAL DRIVE",
+    "location_city": "JEFFERSON CITY",
+    "location_state": "TN",
+    "location_zip": "37760",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health-partners.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8654712500"
-    },
+    "phone_number": "8654712500",
     "provider_id": "440056",
     "raw_ratings": {},
     "state": "TN",

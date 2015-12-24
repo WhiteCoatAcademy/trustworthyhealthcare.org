@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2900 STERLING HART DRIVE\",\"city\":\"COMMERCE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.230964707000055",
-        "longitude": "-95.89574704599994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.895565,
+            33.230507
+        ],
+        "type": "Point"
     },
+    "location_address": "2900 STERLING HART DRIVE",
+    "location_city": "COMMERCE",
+    "location_state": "TX",
+    "location_zip": "75428",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hmhd.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9034081881"
-    },
+    "phone_number": "9034081881",
     "provider_id": "451321",
     "raw_ratings": {},
     "state": "TX",

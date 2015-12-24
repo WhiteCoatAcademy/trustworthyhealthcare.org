@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5301 S CONGRESS AVE\",\"city\":\"ATLANTIS\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.597037585000066",
-        "longitude": "-80.09124620799997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.090304,
+            26.598561
+        ],
+        "type": "Point"
     },
+    "location_address": "5301 S CONGRESS AVE",
+    "location_city": "ATLANTIS",
+    "location_state": "FL",
+    "location_zip": "33462",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5619657300"
-    },
+    "phone_number": "5619657300",
     "provider_id": "100080",
     "raw_ratings": {},
     "state": "FL",

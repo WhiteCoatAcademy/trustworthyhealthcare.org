@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"703 N MCEWAN ST\",\"city\":\"CLARE\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.82056070600004",
-        "longitude": "-84.76839621099998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.76835,
+            43.820585
+        ],
+        "type": "Point"
     },
+    "location_address": "703 N MCEWAN ST",
+    "location_city": "CLARE",
+    "location_state": "MI",
+    "location_zip": "48617",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.midmichigan.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9898025000"
-    },
+    "phone_number": "9898025000",
     "provider_id": "230180",
     "raw_ratings": {},
     "state": "MI",

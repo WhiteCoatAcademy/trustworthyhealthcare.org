@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9440 POPPY DR\",\"city\":\"DALLAS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.83528380700005",
-        "longitude": "-96.70554304999996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.705836,
+            32.835231
+        ],
+        "type": "Point"
     },
+    "location_address": "9440 POPPY DR",
+    "location_city": "DALLAS",
+    "location_state": "TX",
+    "location_zip": "75218",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2143246100"
-    },
+    "phone_number": "2143246100",
     "provider_id": "450678",
     "raw_ratings": {},
     "state": "TX",

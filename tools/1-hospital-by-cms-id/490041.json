@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2 BERNARDINE DRIVE\",\"city\":\"NEWPORT NEWS\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.145938398000055",
-        "longitude": "-76.51179740999999",
-        "needs_recoding": false
+        "coordinates": [
+            -76.511657,
+            37.145055
+        ],
+        "type": "Point"
     },
+    "location_address": "2 BERNARDINE DRIVE",
+    "location_city": "NEWPORT NEWS",
+    "location_state": "VA",
+    "location_zip": "23602",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bshsi.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7578866000"
-    },
+    "phone_number": "7578866000",
     "provider_id": "490041",
     "raw_ratings": {},
     "state": "VA",

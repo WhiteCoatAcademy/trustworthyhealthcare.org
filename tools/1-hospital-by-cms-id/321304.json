@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 WILSON STREET\",\"city\":\"CLAYTON\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "36.45513950000003",
-        "longitude": "-103.19337443099994",
-        "needs_recoding": false
+        "coordinates": [
+            -103.19208,
+            36.45564
+        ],
+        "type": "Point"
     },
+    "location_address": "300 WILSON STREET",
+    "location_city": "CLAYTON",
+    "location_state": "NM",
+    "location_zip": "88415",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5753742585"
-    },
+    "phone_number": "5753742585",
     "provider_id": "321304",
     "raw_ratings": {},
     "state": "NM",

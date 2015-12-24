@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3630 GUION RD\",\"city\":\"INDIANAPOLIS\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.82037007800005",
-        "longitude": "-86.22104604399999",
-        "needs_recoding": false
+        "coordinates": [
+            -86.220258,
+            39.813378
+        ],
+        "type": "Point"
     },
+    "location_address": "3630 GUION RD",
+    "location_city": "INDIANAPOLIS",
+    "location_state": "IN",
+    "location_zip": "46222",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3179207288"
-    },
+    "phone_number": "3179207288",
     "provider_id": "150129",
     "raw_ratings": {},
     "state": "IN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"585 SCHENECTADY AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.65897543300008",
-        "longitude": "-73.93403459399997",
-        "needs_recoding": false
+        "coordinates": [
+            -73.934069,
+            40.658893
+        ],
+        "type": "Point"
     },
+    "location_address": "585 SCHENECTADY AVENUE",
+    "location_city": "BROOKLYN",
+    "location_state": "NY",
+    "location_zip": "11203",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7186045789"
-    },
+    "phone_number": "7186045789",
     "provider_id": "330201",
     "raw_ratings": {},
     "state": "NY",

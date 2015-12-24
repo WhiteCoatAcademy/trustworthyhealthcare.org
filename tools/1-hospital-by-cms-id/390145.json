@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"532 WEST PITTSBURGH STREET\",\"city\":\"GREENSBURG\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.301284112000076",
-        "longitude": "-79.55560735699999",
-        "needs_recoding": false
+        "coordinates": [
+            -79.555472,
+            40.301281
+        ],
+        "type": "Point"
     },
+    "location_address": "532 WEST PITTSBURGH STREET",
+    "location_city": "GREENSBURG",
+    "location_state": "PA",
+    "location_zip": "15601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.excelahealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4128325050"
-    },
+    "phone_number": "4128325050",
     "provider_id": "390145",
     "raw_ratings": {},
     "state": "PA",

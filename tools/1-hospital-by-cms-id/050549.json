@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"215 W JANSS RD\",\"city\":\"THOUSAND OAKS\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.20641850700002",
-        "longitude": "-118.88280249099995",
-        "needs_recoding": false
+        "coordinates": [
+            -118.882497,
+            34.206407
+        ],
+        "type": "Point"
     },
+    "location_address": "215 W JANSS RD",
+    "location_city": "THOUSAND OAKS",
+    "location_state": "CA",
+    "location_zip": "91360",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8054972727"
-    },
+    "phone_number": "8054972727",
     "provider_id": "050549",
     "raw_ratings": {},
     "state": "CA",

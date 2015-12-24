@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2300 OPITZ BOULEVARD\",\"city\":\"WOODBRIDGE\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "38.63508691200008",
-        "longitude": "-77.28535406999998",
-        "needs_recoding": false
+        "coordinates": [
+            -77.283105,
+            38.634477
+        ],
+        "type": "Point"
     },
+    "location_address": "2300 OPITZ BOULEVARD",
+    "location_city": "WOODBRIDGE",
+    "location_state": "VA",
+    "location_zip": "22191",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7035231000"
-    },
+    "phone_number": "7035231000",
     "provider_id": "490113",
     "raw_ratings": {},
     "state": "VA",

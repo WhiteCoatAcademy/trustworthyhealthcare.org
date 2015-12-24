@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"320 HOSPITAL DRIVE\",\"city\":\"MARTINSVILLE\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "36.69853213500005",
-        "longitude": "-79.86538910499996",
-        "needs_recoding": false
+        "coordinates": [
+            -79.865988,
+            36.699413
+        ],
+        "type": "Point"
     },
+    "location_address": "320 HOSPITAL DRIVE",
+    "location_city": "MARTINSVILLE",
+    "location_state": "VA",
+    "location_zip": "24115",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2766667200"
-    },
+    "phone_number": "2766667200",
     "provider_id": "490079",
     "raw_ratings": {},
     "state": "VA",

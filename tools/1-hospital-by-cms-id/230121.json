@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"826 WEST KING STREET\",\"city\":\"OWOSSO\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.00506980500006",
-        "longitude": "-84.18036334599998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.183037,
+            43.005092
+        ],
+        "type": "Point"
     },
+    "location_address": "826 WEST KING STREET",
+    "location_city": "OWOSSO",
+    "location_state": "MI",
+    "location_zip": "48867",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9897235211"
-    },
+    "phone_number": "9897235211",
     "provider_id": "230121",
     "raw_ratings": {},
     "state": "MI",

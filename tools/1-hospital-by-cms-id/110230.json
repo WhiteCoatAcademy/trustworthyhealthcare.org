@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6325 HOSPITAL PARKWAY\",\"city\":\"JOHNS CREEK\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "34.067499147000035",
-        "longitude": "-84.17527986699997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.175187,
+            34.067466
+        ],
+        "type": "Point"
     },
+    "location_address": "6325 HOSPITAL PARKWAY",
+    "location_city": "JOHNS CREEK",
+    "location_state": "GA",
+    "location_zip": "30097",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6784747000"
-    },
+    "phone_number": "6784747000",
     "provider_id": "110230",
     "raw_ratings": {},
     "state": "GA",

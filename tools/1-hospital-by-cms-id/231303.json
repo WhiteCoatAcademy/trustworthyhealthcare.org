@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7870W US HIGHWAY 2\",\"city\":\"MANISTIQUE\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "45.94334208200007",
-        "longitude": "-86.27893540999997",
-        "needs_recoding": false
+        "coordinates": [
+            -86.984862,
+            45.925502
+        ],
+        "type": "Point"
     },
+    "location_address": "7870W US HIGHWAY 2",
+    "location_city": "MANISTIQUE",
+    "location_state": "MI",
+    "location_zip": "49854",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9063413200"
-    },
+    "phone_number": "9063413200",
     "provider_id": "231303",
     "raw_ratings": {},
     "state": "MI",

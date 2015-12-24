@@ -4,15 +4,20 @@
     "county_name": "PIMA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "CARONDELET ST  MARYS HOSPITAL",
+    "hospital_name": "ST. MARY'S HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1601 WEST ST MARY'S ROAD\",\"city\":\"TUCSON\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "32.22880538600003",
-        "longitude": "-110.99906526799998",
-        "needs_recoding": false
+        "coordinates": [
+            -110.999567,
+            32.228884
+        ],
+        "type": "Point"
     },
+    "location_address": "1601 WEST ST MARY'S ROAD",
+    "location_city": "TUCSON",
+    "location_state": "AZ",
+    "location_zip": "85745",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5208723000"
-    },
+    "phone_number": "5208723000",
     "provider_id": "030010",
     "raw_ratings": {},
     "state": "AZ",

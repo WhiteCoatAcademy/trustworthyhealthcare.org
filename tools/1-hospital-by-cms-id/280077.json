@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"450 EAST 23RD ST\",\"city\":\"FREMONT\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.45149866200006",
-        "longitude": "-96.49186844299999",
-        "needs_recoding": false
+        "coordinates": [
+            -96.491721,
+            41.451472
+        ],
+        "type": "Point"
     },
+    "location_address": "450 EAST 23RD ST",
+    "location_city": "FREMONT",
+    "location_state": "NE",
+    "location_zip": "68025",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4027211610"
-    },
+    "phone_number": "4027211610",
     "provider_id": "280077",
     "raw_ratings": {},
     "state": "NE",

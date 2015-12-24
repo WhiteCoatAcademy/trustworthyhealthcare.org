@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"507 E FREMONT ST\",\"city\":\"BURGAW\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "34.551373657000056",
-        "longitude": "-77.92000439199995",
-        "needs_recoding": false
+        "coordinates": [
+            -77.920423,
+            34.551263
+        ],
+        "type": "Point"
     },
+    "location_address": "507 E FREMONT ST",
+    "location_city": "BURGAW",
+    "location_state": "NC",
+    "location_zip": "28425",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nhhn.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9102595451"
-    },
+    "phone_number": "9102595451",
     "provider_id": "341307",
     "raw_ratings": {},
     "state": "NC",

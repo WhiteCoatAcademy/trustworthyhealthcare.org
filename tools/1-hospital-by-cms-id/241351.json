@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 FALLWOOD ROAD\",\"city\":\"REDWOOD FALLS\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.537022516000036",
-        "longitude": "-95.10689952399997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.107906,
+            44.536999
+        ],
+        "type": "Point"
     },
+    "location_address": "100 FALLWOOD ROAD",
+    "location_city": "REDWOOD FALLS",
+    "location_state": "MN",
+    "location_zip": "56283",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5076374500"
-    },
+    "phone_number": "5076374500",
     "provider_id": "241351",
     "raw_ratings": {},
     "state": "MN",

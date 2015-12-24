@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 PRAIRIE CENTER PARKWAY\",\"city\":\"BRIGHTON\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.96416908800006",
-        "longitude": "-104.77111821799997",
-        "needs_recoding": false
+        "coordinates": [
+            -104.770928,
+            39.965474
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 PRAIRIE CENTER PARKWAY",
+    "location_city": "BRIGHTON",
+    "location_state": "CO",
+    "location_zip": "80601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3034981601"
-    },
+    "phone_number": "3034981601",
     "provider_id": "060004",
     "raw_ratings": {},
     "state": "CO",

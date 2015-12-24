@@ -4,15 +4,20 @@
     "county_name": "TULSA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "SAINT FRANCIS HOSPITAL SOUTH",
+    "hospital_name": "SAINT FRANCIS HOSPITAL SOUTH, LLC",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10501 EAST 91ST STREET SOUTH\",\"city\":\"TULSA\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.03191751600008",
-        "longitude": "-95.85692090999999",
-        "needs_recoding": false
+        "coordinates": [
+            -95.85692,
+            36.03189
+        ],
+        "type": "Point"
     },
+    "location_address": "10501 EAST 91ST STREET SOUTH",
+    "location_city": "TULSA",
+    "location_state": "OK",
+    "location_zip": "74133",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9183076000"
-    },
+    "phone_number": "9183076000",
     "provider_id": "370218",
     "raw_ratings": {},
     "state": "OK",

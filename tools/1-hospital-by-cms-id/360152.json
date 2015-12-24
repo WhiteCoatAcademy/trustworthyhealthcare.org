@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5100 WEST BROAD STREET\",\"city\":\"COLUMBUS\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.95186847900004",
-        "longitude": "-83.13775192699995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.136709,
+            39.951968
+        ],
+        "type": "Point"
     },
+    "location_address": "5100 WEST BROAD STREET",
+    "location_city": "COLUMBUS",
+    "location_state": "OH",
+    "location_zip": "43228",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ohiohealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6145441000"
-    },
+    "phone_number": "6145441000",
     "provider_id": "360152",
     "raw_ratings": {},
     "state": "OH",

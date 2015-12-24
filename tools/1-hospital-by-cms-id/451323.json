@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"608 NORTH KEY AVENUE\",\"city\":\"LAMPASAS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.072404289000076",
-        "longitude": "-98.18564440199998",
-        "needs_recoding": false
+        "coordinates": [
+            -98.185632,
+            31.072512
+        ],
+        "type": "Point"
     },
+    "location_address": "608 NORTH KEY AVENUE",
+    "location_city": "LAMPASAS",
+    "location_state": "TX",
+    "location_zip": "76550",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5125563682"
-    },
+    "phone_number": "5125563682",
     "provider_id": "451323",
     "raw_ratings": {},
     "state": "TX",

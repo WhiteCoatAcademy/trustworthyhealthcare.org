@@ -5,7 +5,7 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "CARSON VALLEY MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
         "human_address": "{\"address\":\"1107 HIGHWAY 395\",\"city\":\"GARDNERVILLE\",\"state\":\"NV\",\"zip\":\"\"}",
@@ -13,6 +13,10 @@
         "longitude": "-119.72011152799996",
         "needs_recoding": false
     },
+    "location_address": "1107 HIGHWAY 395",
+    "location_city": "GARDNERVILLE",
+    "location_state": "NV",
+    "location_zip": "89410",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +30,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7757821500"
-    },
+    "phone_number": "7757821500",
     "provider_id": "291306",
     "raw_ratings": {},
     "state": "NV",

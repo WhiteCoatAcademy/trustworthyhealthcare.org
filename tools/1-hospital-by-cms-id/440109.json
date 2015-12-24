@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"935 WAYNE ROAD\",\"city\":\"SAVANNAH\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.22706825700004",
-        "longitude": "-88.22969678999993",
-        "needs_recoding": false
+        "coordinates": [
+            -88.230265,
+            35.227115
+        ],
+        "type": "Point"
     },
+    "location_address": "935 WAYNE ROAD",
+    "location_city": "SAVANNAH",
+    "location_state": "TN",
+    "location_zip": "38372",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7319268121"
-    },
+    "phone_number": "7319268121",
     "provider_id": "440109",
     "raw_ratings": {},
     "state": "TN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"20 HOSPITAL DRIVE\",\"city\":\"LOGAN\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "37.84672669400004",
-        "longitude": "-81.99544973499997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.995588,
+            37.846741
+        ],
+        "type": "Point"
     },
+    "location_address": "20 HOSPITAL DRIVE",
+    "location_city": "LOGAN",
+    "location_state": "WV",
+    "location_zip": "25601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3048311350"
-    },
+    "phone_number": "3048311350",
     "provider_id": "510048",
     "raw_ratings": {},
     "state": "WV",

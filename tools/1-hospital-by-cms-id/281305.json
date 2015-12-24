@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"505 SOUTH BURG ST\",\"city\":\"KIMBALL\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.232501813000056",
-        "longitude": "-103.66715388399996",
-        "needs_recoding": false
+        "coordinates": [
+            -103.667153,
+            41.232505
+        ],
+        "type": "Point"
     },
+    "location_address": "505 SOUTH BURG ST",
+    "location_city": "KIMBALL",
+    "location_state": "NE",
+    "location_zip": "69145",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3082351952"
-    },
+    "phone_number": "3082351952",
     "provider_id": "281305",
     "raw_ratings": {},
     "state": "NE",

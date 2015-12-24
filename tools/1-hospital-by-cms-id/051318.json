@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3300 RENNER DRIVE\",\"city\":\"FORTUNA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "40.582412042000044",
-        "longitude": "-124.13599916699997",
-        "needs_recoding": false
+        "coordinates": [
+            -124.135547,
+            40.582575
+        ],
+        "type": "Point"
     },
+    "location_address": "3300 RENNER DRIVE",
+    "location_city": "FORTUNA",
+    "location_state": "CA",
+    "location_zip": "95540",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.stjhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7074458121"
-    },
+    "phone_number": "7074458121",
     "provider_id": "051318",
     "raw_ratings": {},
     "state": "CA",

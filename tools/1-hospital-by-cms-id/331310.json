@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10 HEALTHY WAY\",\"city\":\"ELLENVILLE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "41.73219284600003",
-        "longitude": "-74.38081662699994",
-        "needs_recoding": false
+        "coordinates": [
+            -74.379592,
+            41.733206
+        ],
+        "type": "Point"
     },
+    "location_address": "10 HEALTHY WAY",
+    "location_city": "ELLENVILLE",
+    "location_state": "NY",
+    "location_zip": "12428",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8456476400"
-    },
+    "phone_number": "8456476400",
     "provider_id": "331310",
     "raw_ratings": {},
     "state": "NY",

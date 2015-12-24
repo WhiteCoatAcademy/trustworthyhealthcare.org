@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"25 HOSPITAL CENTER BLVD\",\"city\":\"HILTON HEAD ISLAND\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "32.22343721100003",
-        "longitude": "-80.71418202299998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.714267,
+            32.222744
+        ],
+        "type": "Point"
     },
+    "location_address": "25 HOSPITAL CENTER BLVD",
+    "location_city": "HILTON HEAD ISLAND",
+    "location_state": "SC",
+    "location_zip": "29925",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8436816122"
-    },
+    "phone_number": "8436816122",
     "provider_id": "420080",
     "raw_ratings": {},
     "state": "SC",

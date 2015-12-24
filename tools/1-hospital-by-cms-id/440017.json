@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"130 WEST RAVINE ROAD\",\"city\":\"KINGSPORT\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "36.55301622600007",
-        "longitude": "-82.55416958299998",
-        "needs_recoding": false
+        "coordinates": [
+            -82.55426,
+            36.553005
+        ],
+        "type": "Point"
     },
+    "location_address": "130 WEST RAVINE ROAD",
+    "location_city": "KINGSPORT",
+    "location_state": "TN",
+    "location_zip": "37662",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wellmont.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4232244000"
-    },
+    "phone_number": "4232244000",
     "provider_id": "440017",
     "raw_ratings": {},
     "state": "TN",

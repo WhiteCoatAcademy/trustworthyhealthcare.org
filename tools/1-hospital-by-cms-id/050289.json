@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1900 SULLIVAN AVENUE\",\"city\":\"DALY CITY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.68016562200006",
-        "longitude": "-122.47297385499996",
-        "needs_recoding": false
+        "coordinates": [
+            -122.472996,
+            37.679979
+        ],
+        "type": "Point"
     },
+    "location_address": "1900 SULLIVAN AVENUE",
+    "location_city": "DALY CITY",
+    "location_state": "CA",
+    "location_zip": "94015",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.dochs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6509924000"
-    },
+    "phone_number": "6509924000",
     "provider_id": "050289",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2799 NORTH WASHINGTON STREET\",\"city\":\"CHILLICOTHE\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.82299561900004",
-        "longitude": "-93.55035440499995",
-        "needs_recoding": false
+        "coordinates": [
+            -93.552323,
+            39.818782
+        ],
+        "type": "Point"
     },
+    "location_address": "2799 NORTH WASHINGTON STREET",
+    "location_city": "CHILLICOTHE",
+    "location_state": "MO",
+    "location_zip": "64601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.saintlukeshealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6606461480"
-    },
+    "phone_number": "6606461480",
     "provider_id": "261321",
     "raw_ratings": {},
     "state": "MO",

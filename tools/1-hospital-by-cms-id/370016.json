@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 SOUTH MONROE\",\"city\":\"ENID\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.39033016500008",
-        "longitude": "-97.88652474899999",
-        "needs_recoding": false
+        "coordinates": [
+            -97.886522,
+            36.39087
+        ],
+        "type": "Point"
     },
+    "location_address": "600 SOUTH MONROE",
+    "location_city": "ENID",
+    "location_state": "OK",
+    "location_zip": "73701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.integris-health.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5802332300"
-    },
+    "phone_number": "5802332300",
     "provider_id": "370016",
     "raw_ratings": {},
     "state": "OK",

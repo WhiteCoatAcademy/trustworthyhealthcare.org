@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1016 TACOMA AVENUE\",\"city\":\"SUNNYSIDE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "46.32246590400007",
-        "longitude": "-120.00728665899999",
-        "needs_recoding": false
+        "coordinates": [
+            -120.006966,
+            46.322218
+        ],
+        "type": "Point"
     },
+    "location_address": "1016 TACOMA AVENUE",
+    "location_city": "SUNNYSIDE",
+    "location_state": "WA",
+    "location_zip": "98944",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5098371500"
-    },
+    "phone_number": "5098371500",
     "provider_id": "501330",
     "raw_ratings": {},
     "state": "WA",

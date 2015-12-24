@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 WEST MAIN STREET\",\"city\":\"COLDWATER\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.479808286000036",
-        "longitude": "-84.63937101999994",
-        "needs_recoding": false
+        "coordinates": [
+            -84.639393,
+            40.479776
+        ],
+        "type": "Point"
     },
+    "location_address": "800 WEST MAIN STREET",
+    "location_city": "COLDWATER",
+    "location_state": "OH",
+    "location_zip": "45828",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4196784843"
-    },
+    "phone_number": "4196784843",
     "provider_id": "360058",
     "raw_ratings": {},
     "state": "OH",

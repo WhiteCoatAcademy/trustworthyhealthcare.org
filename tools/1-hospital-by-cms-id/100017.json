@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"303 N CLYDE MORRIS BLVD\",\"city\":\"DAYTONA BEACH\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "29.199394509000058",
-        "longitude": "-81.05473406399994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.055493,
+            29.200838
+        ],
+        "type": "Point"
     },
+    "location_address": "303 N CLYDE MORRIS BLVD",
+    "location_city": "DAYTONA BEACH",
+    "location_state": "FL",
+    "location_zip": "32114",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.halifaxhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3862544000"
-    },
+    "phone_number": "3862544000",
     "provider_id": "100017",
     "raw_ratings": {},
     "state": "FL",

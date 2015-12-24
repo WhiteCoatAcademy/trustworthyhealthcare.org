@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"1011 HONOR HEIGHTS DRIVE\",\"city\":\"MUSKOGEE\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.76325244800006",
-        "longitude": "-95.41314835499998",
-        "needs_recoding": false
+        "coordinates": [
+            -95.413885,
+            35.766823
+        ],
+        "type": "Point"
     },
+    "location_address": "1011 HONOR HEIGHTS DRIVE",
+    "location_city": "MUSKOGEE",
+    "location_state": "OK",
+    "location_zip": "74401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "9185773000"
-    },
+    "phone_number": "9185773000",
     "provider_id": "37012F",
     "raw_ratings": {},
     "state": "OK",

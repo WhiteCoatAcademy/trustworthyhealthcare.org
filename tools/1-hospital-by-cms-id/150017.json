@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7950 W JEFFERSON BLVD\",\"city\":\"FORT WAYNE\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.04056738400004",
-        "longitude": "-85.24786223899997",
-        "needs_recoding": false
+        "coordinates": [
+            -85.245885,
+            41.037374
+        ],
+        "type": "Point"
     },
+    "location_address": "7950 W JEFFERSON BLVD",
+    "location_city": "FORT WAYNE",
+    "location_state": "IN",
+    "location_zip": "46804",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "2604357001"
-    },
+    "phone_number": "2604357001",
     "provider_id": "150017",
     "raw_ratings": {},
     "state": "IN",

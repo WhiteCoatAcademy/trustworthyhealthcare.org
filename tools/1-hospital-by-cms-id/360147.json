@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 MATTHEW STREET\",\"city\":\"MARIETTA\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.43069602300005",
-        "longitude": "-81.46482079199995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.465074,
+            39.430679
+        ],
+        "type": "Point"
     },
+    "location_address": "401 MATTHEW STREET",
+    "location_city": "MARIETTA",
+    "location_state": "OH",
+    "location_zip": "45750",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7403741400"
-    },
+    "phone_number": "7403741400",
     "provider_id": "360147",
     "raw_ratings": {},
     "state": "OH",

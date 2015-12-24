@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 EAST 100 NORTH\",\"city\":\"PAYSON\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "40.04461333800003",
-        "longitude": "-111.71522704399996",
-        "needs_recoding": false
+        "coordinates": [
+            -111.714851,
+            40.044696
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 EAST 100 NORTH",
+    "location_city": "PAYSON",
+    "location_state": "UT",
+    "location_zip": "84651",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8014657100"
-    },
+    "phone_number": "8014657100",
     "provider_id": "460013",
     "raw_ratings": {},
     "state": "UT",

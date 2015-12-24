@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"302 NORTH HOSPITAL DRIVE\",\"city\":\"GIRARD\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.51424034000007",
-        "longitude": "-94.85836454099996",
-        "needs_recoding": false
+        "coordinates": [
+            -94.858464,
+            37.513849
+        ],
+        "type": "Point"
     },
+    "location_address": "302 NORTH HOSPITAL DRIVE",
+    "location_city": "GIRARD",
+    "location_state": "KS",
+    "location_zip": "66743",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6207248291"
-    },
+    "phone_number": "6207248291",
     "provider_id": "171376",
     "raw_ratings": {},
     "state": "KS",

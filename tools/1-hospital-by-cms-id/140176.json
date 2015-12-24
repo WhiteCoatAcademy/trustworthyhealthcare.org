@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3701 DOTY ROAD\",\"city\":\"WOODSTOCK\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "42.27601859600003",
-        "longitude": "-88.39895776999998",
-        "needs_recoding": false
+        "coordinates": [
+            -88.398941,
+            42.275992
+        ],
+        "type": "Point"
     },
+    "location_address": "3701 DOTY ROAD",
+    "location_city": "WOODSTOCK",
+    "location_state": "IL",
+    "location_zip": "60098",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.centegra.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8157885823"
-    },
+    "phone_number": "8157885823",
     "provider_id": "140176",
     "raw_ratings": {},
     "state": "IL",

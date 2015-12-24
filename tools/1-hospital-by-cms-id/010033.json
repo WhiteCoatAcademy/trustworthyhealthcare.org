@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"619 SOUTH 19TH STREET\",\"city\":\"BIRMINGHAM\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "33.51235776000004",
-        "longitude": "-86.89560932699999",
-        "needs_recoding": false
+        "coordinates": [
+            -86.801922,
+            33.506129
+        ],
+        "type": "Point"
     },
+    "location_address": "619 SOUTH 19TH STREET",
+    "location_city": "BIRMINGHAM",
+    "location_state": "AL",
+    "location_zip": "35233",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health.uab.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "2059344011"
-    },
+    "phone_number": "2059344011",
     "provider_id": "010033",
     "raw_ratings": {},
     "state": "AL",

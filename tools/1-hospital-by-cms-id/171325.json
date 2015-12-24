@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"304 WEST PROUT STREET\",\"city\":\"HILL CITY\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.371800836000034",
-        "longitude": "-99.84469767199994",
-        "needs_recoding": false
+        "coordinates": [
+            -99.844552,
+            39.371784
+        ],
+        "type": "Point"
     },
+    "location_address": "304 WEST PROUT STREET",
+    "location_city": "HILL CITY",
+    "location_state": "KS",
+    "location_zip": "67642",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7854212121"
-    },
+    "phone_number": "7854212121",
     "provider_id": "171325",
     "raw_ratings": {},
     "state": "KS",

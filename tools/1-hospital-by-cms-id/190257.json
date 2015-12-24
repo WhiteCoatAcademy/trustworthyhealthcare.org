@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1118 FARMERVILLE STREET\",\"city\":\"RUSTON\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.51778687600006",
-        "longitude": "-92.63087328299997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.63086,
+            32.51753
+        ],
+        "type": "Point"
     },
+    "location_address": "1118 FARMERVILLE STREET",
+    "location_city": "RUSTON",
+    "location_state": "LA",
+    "location_zip": "71270",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3182327700"
-    },
+    "phone_number": "3182327700",
     "provider_id": "190257",
     "raw_ratings": {},
     "state": "LA",

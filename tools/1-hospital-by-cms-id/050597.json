@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"250 S GRAND AVE\",\"city\":\"GLENDORA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.132550329000026",
-        "longitude": "-117.87251636399998",
-        "needs_recoding": false
+        "coordinates": [
+            -117.872533,
+            34.1332
+        ],
+        "type": "Point"
     },
+    "location_address": "250 S GRAND AVE",
+    "location_city": "GLENDORA",
+    "location_state": "CA",
+    "location_zip": "91740",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.cvhp.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6269638411"
-    },
+    "phone_number": "6269638411",
     "provider_id": "050597",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"415 SIXTH STREET\",\"city\":\"LEWISTON\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "46.41639991800008",
-        "longitude": "-117.02496930199999",
-        "needs_recoding": false
+        "coordinates": [
+            -117.024956,
+            46.41649
+        ],
+        "type": "Point"
     },
+    "location_address": "415 SIXTH STREET",
+    "location_city": "LEWISTON",
+    "location_state": "ID",
+    "location_zip": "83501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2087432511"
-    },
+    "phone_number": "2087995300",
     "provider_id": "130003",
     "raw_ratings": {},
     "state": "ID",

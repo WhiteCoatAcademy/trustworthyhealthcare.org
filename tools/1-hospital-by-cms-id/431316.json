@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 W 10TH AVE POST OFFICE BOX 420\",\"city\":\"REDFIELD\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "44.87194244400007",
-        "longitude": "-98.52119120199995",
-        "needs_recoding": false
+        "coordinates": [
+            -98.520206,
+            44.871968
+        ],
+        "type": "Point"
     },
+    "location_address": "111 W 10TH AVE POST OFFICE BOX 420",
+    "location_city": "REDFIELD",
+    "location_state": "SD",
+    "location_zip": "57469",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6054721110"
-    },
+    "phone_number": "6054721110",
     "provider_id": "431316",
     "raw_ratings": {},
     "state": "SD",

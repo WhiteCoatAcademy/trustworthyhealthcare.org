@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1701 NORTH GEORGE MASON DRIVE\",\"city\":\"ARLINGTON\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "38.88945888400008",
-        "longitude": "-77.12871633699996",
-        "needs_recoding": false
+        "coordinates": [
+            -77.128857,
+            38.889961
+        ],
+        "type": "Point"
     },
+    "location_address": "1701 NORTH GEORGE MASON DRIVE",
+    "location_city": "ARLINGTON",
+    "location_state": "VA",
+    "location_zip": "22205",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7035585000"
-    },
+    "phone_number": "7035585000",
     "provider_id": "490050",
     "raw_ratings": {},
     "state": "VA",

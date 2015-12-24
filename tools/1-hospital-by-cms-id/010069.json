@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"820 W WASHINGTON ST\",\"city\":\"EUFAULA\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "31.88801827700007",
-        "longitude": "-85.15606109899994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.155487,
+            31.888006
+        ],
+        "type": "Point"
     },
+    "location_address": "820 W WASHINGTON ST",
+    "location_city": "EUFAULA",
+    "location_state": "AL",
+    "location_zip": "36027",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.attentushealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3346887271"
-    },
+    "phone_number": "3346887271",
     "provider_id": "010069",
     "raw_ratings": {},
     "state": "AL",

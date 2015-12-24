@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2701 HOSPITAL DRIVE\",\"city\":\"VICTORIA\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "28.812807417000045",
-        "longitude": "-96.97676138299994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.976723,
+            28.812866
+        ],
+        "type": "Point"
     },
+    "location_address": "2701 HOSPITAL DRIVE",
+    "location_city": "VICTORIA",
+    "location_state": "TX",
+    "location_zip": "77901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3615725113"
-    },
+    "phone_number": "3615725113",
     "provider_id": "450023",
     "raw_ratings": {},
     "state": "TX",

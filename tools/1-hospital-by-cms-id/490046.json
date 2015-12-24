@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"830 KEMPSVILLE ROAD\",\"city\":\"NORFOLK\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "36.85023925400003",
-        "longitude": "-76.19155862299993",
-        "needs_recoding": false
+        "coordinates": [
+            -76.191654,
+            36.850441
+        ],
+        "type": "Point"
     },
+    "location_address": "830 KEMPSVILLE ROAD",
+    "location_city": "NORFOLK",
+    "location_state": "VA",
+    "location_zip": "23502",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sentara.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7572616601"
-    },
+    "phone_number": "7572616601",
     "provider_id": "490046",
     "raw_ratings": {},
     "state": "VA",

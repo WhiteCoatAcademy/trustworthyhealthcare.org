@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3901 S SEVENTH ST\",\"city\":\"TERRE HAUTE\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.42013418300007",
-        "longitude": "-87.40686230399996",
-        "needs_recoding": false
+        "coordinates": [
+            -87.406841,
+            39.419454
+        ],
+        "type": "Point"
     },
+    "location_address": "3901 S SEVENTH ST",
+    "location_city": "TERRE HAUTE",
+    "location_state": "IN",
+    "location_zip": "47802",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8122320021"
-    },
+    "phone_number": "8122320021",
     "provider_id": "150046",
     "raw_ratings": {},
     "state": "IN",

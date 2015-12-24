@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"25 WELLS STREET\",\"city\":\"WESTERLY\",\"state\":\"RI\",\"zip\":\"\"}",
-        "latitude": "41.362832953000066",
-        "longitude": "-71.82530586699994",
-        "needs_recoding": false
+        "coordinates": [
+            -71.825814,
+            41.362798
+        ],
+        "type": "Point"
     },
+    "location_address": "25 WELLS STREET",
+    "location_city": "WESTERLY",
+    "location_state": "RI",
+    "location_zip": "02891",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4015966000"
-    },
+    "phone_number": "4015966000",
     "provider_id": "410013",
     "raw_ratings": {},
     "state": "RI",

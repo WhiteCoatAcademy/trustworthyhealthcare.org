@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"118 SOUTH MOUNTAIN AVENUE\",\"city\":\"SPRINGERVILLE\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "34.13230489700004",
-        "longitude": "-109.28639711199997",
-        "needs_recoding": false
+        "coordinates": [
+            -109.286623,
+            34.132012
+        ],
+        "type": "Point"
     },
+    "location_address": "118 SOUTH MOUNTAIN AVENUE",
+    "location_city": "SPRINGERVILLE",
+    "location_state": "AZ",
+    "location_zip": "85938",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9283334368"
-    },
+    "phone_number": "9283334368",
     "provider_id": "031315",
     "raw_ratings": {},
     "state": "AZ",

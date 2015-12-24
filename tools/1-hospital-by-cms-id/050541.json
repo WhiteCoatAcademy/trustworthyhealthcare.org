@@ -1,5 +1,5 @@
 {
-    "address": "1150 VETERANS BOULEVARD",
+    "address": "1100 VETERANS BOULEVARD",
     "city": "REDWOOD CITY",
     "county_name": "SAN MATEO",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1150 VETERANS BOULEVARD\",\"city\":\"REDWOOD CITY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.489480204000074",
-        "longitude": "-122.22318254699996",
-        "needs_recoding": false
+        "coordinates": [
+            -122.223374,
+            37.489531
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 VETERANS BOULEVARD",
+    "location_city": "REDWOOD CITY",
+    "location_state": "CA",
+    "location_zip": "94063",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6502992000"
-    },
+    "phone_number": "6502992000",
     "provider_id": "050541",
     "raw_ratings": {},
     "state": "CA",

@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "SAMARITAN MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"830 WASHINGTON STREET\",\"city\":\"WATERTOWN\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.964816651000035",
-        "longitude": "-75.91280782499996",
-        "needs_recoding": false
+        "coordinates": [
+            -75.912719,
+            43.965106
+        ],
+        "type": "Point"
     },
+    "location_address": "830 WASHINGTON STREET",
+    "location_city": "WATERTOWN",
+    "location_state": "NY",
+    "location_zip": "13601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3157854121"
-    },
+    "phone_number": "3157854121",
     "provider_id": "330157",
     "raw_ratings": {},
     "state": "NY",

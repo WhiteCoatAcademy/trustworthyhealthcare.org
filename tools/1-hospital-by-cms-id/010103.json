@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 PRINCETON AVENUE SOUTHWEST\",\"city\":\"BIRMINGHAM\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "33.499166366000054",
-        "longitude": "-86.84589505599996",
-        "needs_recoding": false
+        "coordinates": [
+            -86.846442,
+            33.498977
+        ],
+        "type": "Point"
     },
+    "location_address": "701 PRINCETON AVENUE SOUTHWEST",
+    "location_city": "BIRMINGHAM",
+    "location_state": "AL",
+    "location_zip": "35211",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhsala.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2057833800"
-    },
+    "phone_number": "2057833800",
     "provider_id": "010103",
     "raw_ratings": {},
     "state": "AL",

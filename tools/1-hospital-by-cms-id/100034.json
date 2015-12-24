@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4300 ALTON RD\",\"city\":\"MIAMI BEACH\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.815225783000074",
-        "longitude": "-80.13785535799997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.138001,
+            25.814949
+        ],
+        "type": "Point"
     },
+    "location_address": "4300 ALTON RD",
+    "location_city": "MIAMI BEACH",
+    "location_state": "FL",
+    "location_zip": "33140",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3056742121"
-    },
+    "phone_number": "3056742121",
     "provider_id": "100034",
     "raw_ratings": {},
     "state": "FL",

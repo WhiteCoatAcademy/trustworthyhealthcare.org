@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3916 BEN FRANKLIN BOULEVARD\",\"city\":\"DURHAM\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "36.042715549000036",
-        "longitude": "-78.89745163899994",
-        "needs_recoding": false
+        "coordinates": [
+            -78.897484,
+            36.042726
+        ],
+        "type": "Point"
     },
+    "location_address": "3916 BEN FRANKLIN BOULEVARD",
+    "location_city": "DURHAM",
+    "location_state": "NC",
+    "location_zip": "27704",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nshinc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9199569300"
-    },
+    "phone_number": "9199569300",
     "provider_id": "340049",
     "raw_ratings": {},
     "state": "NC",

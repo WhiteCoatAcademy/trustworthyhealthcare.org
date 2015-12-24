@@ -1,5 +1,5 @@
 {
-    "address": "350 NORTH MERIDIAN STREET",
+    "address": "350 N MERIDIAN STREET",
     "city": "BLACKFOOT",
     "county_name": "BINGHAM",
     "emergency_services": false,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"350 NORTH MERIDIAN STREET\",\"city\":\"BLACKFOOT\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "43.19588819100005",
-        "longitude": "-112.35607540299998",
-        "needs_recoding": false
+        "coordinates": [
+            -112.35613,
+            43.19573
+        ],
+        "type": "Point"
     },
+    "location_address": "350 N MERIDIAN STREET",
+    "location_city": "BLACKFOOT",
+    "location_state": "ID",
+    "location_zip": "83221",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.binghammemorial.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2087822900"
-    },
+    "phone_number": "2087822900",
     "provider_id": "130067",
     "raw_ratings": {},
     "state": "ID",

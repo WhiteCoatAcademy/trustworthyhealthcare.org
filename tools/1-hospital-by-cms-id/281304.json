@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"120 PARK AVE\",\"city\":\"HEBRON\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.160187431000054",
-        "longitude": "-97.59469688499996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.59457,
+            40.160125
+        ],
+        "type": "Point"
     },
+    "location_address": "120 PARK AVE",
+    "location_city": "HEBRON",
+    "location_state": "NE",
+    "location_zip": "68370",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4027686041"
-    },
+    "phone_number": "4027686041",
     "provider_id": "281304",
     "raw_ratings": {},
     "state": "NE",

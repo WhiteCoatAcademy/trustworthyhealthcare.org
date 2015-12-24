@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2041 GEORGIA AVE NW\",\"city\":\"WASHINGTON\",\"state\":\"DC\",\"zip\":\"\"}",
-        "latitude": "38.91688774700003",
-        "longitude": "-77.02185490999994",
-        "needs_recoding": false
+        "coordinates": [
+            -77.021896,
+            38.917011
+        ],
+        "type": "Point"
     },
+    "location_address": "2041 GEORGIA AVE NW",
+    "location_city": "WASHINGTON",
+    "location_state": "DC",
+    "location_zip": "20060",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2027456100"
-    },
+    "phone_number": "2027456100",
     "provider_id": "090003",
     "raw_ratings": {},
     "state": "DC",

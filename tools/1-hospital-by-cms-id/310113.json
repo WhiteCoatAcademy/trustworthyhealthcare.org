@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1140 RT 72 W\",\"city\":\"MANAHAWKIN\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "39.71985999300006",
-        "longitude": "-74.28582507999994",
-        "needs_recoding": false
+        "coordinates": [
+            -74.287799,
+            39.722365
+        ],
+        "type": "Point"
     },
+    "location_address": "1140 RT 72 W",
+    "location_city": "MANAHAWKIN",
+    "location_state": "NJ",
+    "location_zip": "08050",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6095976011"
-    },
+    "phone_number": "6095976011",
     "provider_id": "310113",
     "raw_ratings": {},
     "state": "NJ",

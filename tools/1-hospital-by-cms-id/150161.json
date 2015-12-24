@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11700 N MERIDIAN ST\",\"city\":\"CARMEL\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.958140349000075",
-        "longitude": "-86.15795630999997",
-        "needs_recoding": false
+        "coordinates": [
+            -86.162356,
+            39.959275
+        ],
+        "type": "Point"
     },
+    "location_address": "11700 N MERIDIAN ST",
+    "location_city": "CARMEL",
+    "location_state": "IN",
+    "location_zip": "46032",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.clarian.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3176882000"
-    },
+    "phone_number": "3176882000",
     "provider_id": "150161",
     "raw_ratings": {},
     "state": "IN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"410 WEST 10TH AVENUE\",\"city\":\"COLUMBUS\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.994096056000046",
-        "longitude": "-83.01752030099999",
-        "needs_recoding": false
+        "coordinates": [
+            -83.017713,
+            39.994881
+        ],
+        "type": "Point"
     },
+    "location_address": "410 WEST 10TH AVENUE",
+    "location_city": "COLUMBUS",
+    "location_state": "OH",
+    "location_zip": "43210",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.medicalcenter.osu.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "6142939700"
-    },
+    "phone_number": "6142939700",
     "provider_id": "360085",
     "raw_ratings": {},
     "state": "OH",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"355 RIDGE AVE\",\"city\":\"EVANSTON\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "42.02421590900008",
-        "longitude": "-87.68515009899994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.685159,
+            42.023956
+        ],
+        "type": "Point"
     },
+    "location_address": "355 RIDGE AVE",
+    "location_city": "EVANSTON",
+    "location_state": "IL",
+    "location_zip": "60202",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.reshealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8473164000"
-    },
+    "phone_number": "8473164000",
     "provider_id": "140080",
     "raw_ratings": {},
     "state": "IL",

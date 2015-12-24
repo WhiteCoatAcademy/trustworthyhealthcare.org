@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1002 SOUTH LINCOLN STREET\",\"city\":\"KNOXVILLE\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.31076044000008",
-        "longitude": "-93.10952057699996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.109504,
+            41.310285
+        ],
+        "type": "Point"
     },
+    "location_address": "1002 SOUTH LINCOLN STREET",
+    "location_city": "KNOXVILLE",
+    "location_state": "IA",
+    "location_zip": "50138",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6418422151"
-    },
+    "phone_number": "6418422151",
     "provider_id": "161355",
     "raw_ratings": {},
     "state": "IA",

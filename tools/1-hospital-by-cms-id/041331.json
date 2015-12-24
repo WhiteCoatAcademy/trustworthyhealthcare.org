@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1101 JACKSON STREET SW\",\"city\":\"GRAVETTE\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "36.40827810700006",
-        "longitude": "-94.46055008599996",
-        "needs_recoding": false
+        "coordinates": [
+            -94.460968,
+            36.409402
+        ],
+        "type": "Point"
     },
+    "location_address": "1101 JACKSON STREET SW",
+    "location_city": "GRAVETTE",
+    "location_state": "AR",
+    "location_zip": "72736",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4797875291"
-    },
+    "phone_number": "4797875291",
     "provider_id": "041331",
     "raw_ratings": {},
     "state": "AR",

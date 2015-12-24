@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"66 NORTH SIXTH STREET\",\"city\":\"POMEROY\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "46.47444048600005",
-        "longitude": "-117.60301906699999",
-        "needs_recoding": false
+        "coordinates": [
+            -117.602781,
+            46.474949
+        ],
+        "type": "Point"
     },
+    "location_address": "66 NORTH SIXTH STREET",
+    "location_city": "POMEROY",
+    "location_state": "WA",
+    "location_zip": "99347",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5098431591"
-    },
+    "phone_number": "5098431591",
     "provider_id": "501301",
     "raw_ratings": {},
     "state": "WA",

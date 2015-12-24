@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5501 SOUTH MCCOLL\",\"city\":\"EDINBURG\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "26.253822967000076",
-        "longitude": "-98.20389096799994",
-        "needs_recoding": false
+        "coordinates": [
+            -98.204032,
+            26.252807
+        ],
+        "type": "Point"
     },
+    "location_address": "5501 SOUTH MCCOLL",
+    "location_city": "EDINBURG",
+    "location_state": "TX",
+    "location_zip": "78539",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9563628677"
-    },
+    "phone_number": "9563628677",
     "provider_id": "450869",
     "raw_ratings": {},
     "state": "TX",

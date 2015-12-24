@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"636 DEL PRADO BLVD\",\"city\":\"CAPE CORAL\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.63928934100005",
-        "longitude": "-81.94091137399994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.940951,
+            26.639677
+        ],
+        "type": "Point"
     },
+    "location_address": "636 DEL PRADO BLVD",
+    "location_city": "CAPE CORAL",
+    "location_state": "FL",
+    "location_zip": "33990",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.leememorial.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2395742323"
-    },
+    "phone_number": "2395742323",
     "provider_id": "100244",
     "raw_ratings": {},
     "state": "FL",

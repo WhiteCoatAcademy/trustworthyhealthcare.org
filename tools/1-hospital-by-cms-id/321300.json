@@ -1,5 +1,5 @@
 {
-    "address": "800 E NINTH AVENUE",
+    "address": "800 EAST 9TH STREET",
     "city": "T OR C",
     "county_name": "SIERRA",
     "emergency_services": true,
@@ -8,9 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 E NINTH AVENUE\",\"city\":\"T OR C\",\"state\":\"NM\",\"zip\":\"\"}",
-        "needs_recoding": false
+        "coordinates": [
+            -107.241975,
+            33.139104
+        ],
+        "type": "Point"
     },
+    "location_address": "800 EAST 9TH STREET",
+    "location_city": "T OR C",
+    "location_state": "NM",
+    "location_zip": "87901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -22,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5758942111"
-    },
+    "phone_number": "5758942111",
     "provider_id": "321300",
     "raw_ratings": {},
     "state": "NM",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2301 HOLMES STREET\",\"city\":\"KANSAS CITY\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "39.085052458000064",
-        "longitude": "-94.57574686599997",
-        "needs_recoding": false
+        "coordinates": [
+            -94.575825,
+            39.084207
+        ],
+        "type": "Point"
     },
+    "location_address": "2301 HOLMES STREET",
+    "location_city": "KANSAS CITY",
+    "location_state": "MO",
+    "location_zip": "64108",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trumed.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8164041000"
-    },
+    "phone_number": "8164041000",
     "provider_id": "260048",
     "raw_ratings": {},
     "state": "MO",

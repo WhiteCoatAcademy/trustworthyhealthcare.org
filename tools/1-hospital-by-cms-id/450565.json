@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 SOUTHWEST 25 AVE\",\"city\":\"MINERAL WELLS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.79953452900003",
-        "longitude": "-98.14558180799997",
-        "needs_recoding": false
+        "coordinates": [
+            -98.145343,
+            32.799561
+        ],
+        "type": "Point"
     },
+    "location_address": "400 SOUTHWEST 25 AVE",
+    "location_city": "MINERAL WELLS",
+    "location_state": "TX",
+    "location_zip": "76067",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9403257891"
-    },
+    "phone_number": "9403257891",
     "provider_id": "450565",
     "raw_ratings": {},
     "state": "TX",

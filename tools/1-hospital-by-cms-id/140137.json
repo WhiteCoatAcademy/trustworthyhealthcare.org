@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 HEALTHCARE DR\",\"city\":\"GREENVILLE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "38.90336311400006",
-        "longitude": "-89.40838852199994",
-        "needs_recoding": false
+        "coordinates": [
+            -89.408701,
+            38.901655
+        ],
+        "type": "Point"
     },
+    "location_address": "200 HEALTHCARE DR",
+    "location_city": "GREENVILLE",
+    "location_state": "IL",
+    "location_zip": "62246",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6186641230"
-    },
+    "phone_number": "6186641230",
     "provider_id": "140137",
     "raw_ratings": {},
     "state": "IL",

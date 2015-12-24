@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1801 WEST 3RD STREET\",\"city\":\"ELK CITY\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.41173977900007",
-        "longitude": "-99.42551277899997",
-        "needs_recoding": false
+        "coordinates": [
+            -99.42552,
+            35.411721
+        ],
+        "type": "Point"
     },
+    "location_address": "1801 WEST 3RD STREET",
+    "location_city": "ELK CITY",
+    "location_state": "OK",
+    "location_zip": "73644",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5802252511"
-    },
+    "phone_number": "5802252511",
     "provider_id": "370019",
     "raw_ratings": {},
     "state": "OK",

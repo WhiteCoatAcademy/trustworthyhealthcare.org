@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1100 EAST NORRIS DRIVE\",\"city\":\"OTTAWA\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.356312391000074",
-        "longitude": "-88.82461721299995",
-        "needs_recoding": false
+        "coordinates": [
+            -88.825399,
+            41.356301
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 EAST NORRIS DRIVE",
+    "location_city": "OTTAWA",
+    "location_state": "IL",
+    "location_zip": "61350",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8154333100"
-    },
+    "phone_number": "8154333100",
     "provider_id": "140110",
     "raw_ratings": {},
     "state": "IL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"513 3RD ST SW POST OFFICE BOX 280\",\"city\":\"WAGNER\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "43.07910414200006",
-        "longitude": "-98.30186848799997",
-        "needs_recoding": false
+        "coordinates": [
+            -98.30099,
+            43.079081
+        ],
+        "type": "Point"
     },
+    "location_address": "513 3RD ST SW POST OFFICE BOX 280",
+    "location_city": "WAGNER",
+    "location_state": "SD",
+    "location_zip": "57380",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6053843611"
-    },
+    "phone_number": "6053843611",
     "provider_id": "431315",
     "raw_ratings": {},
     "state": "SD",

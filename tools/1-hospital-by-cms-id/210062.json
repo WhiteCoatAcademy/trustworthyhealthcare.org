@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7503 SURRATTS ROAD\",\"city\":\"CLINTON\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "38.750261634000026",
-        "longitude": "-76.87697268299996",
-        "needs_recoding": false
+        "coordinates": [
+            -76.874997,
+            38.75025
+        ],
+        "type": "Point"
     },
+    "location_address": "7503 SURRATTS ROAD",
+    "location_city": "CLINTON",
+    "location_state": "MD",
+    "location_zip": "20735",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3018688000"
-    },
+    "phone_number": "3018688000",
     "provider_id": "210062",
     "raw_ratings": {},
     "state": "MD",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"909 N IOWA AVE\",\"city\":\"DELL RAPIDS\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "43.828620397000066",
-        "longitude": "-96.71538814599995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.715352,
+            43.828571
+        ],
+        "type": "Point"
     },
+    "location_address": "909 N IOWA AVE",
+    "location_city": "DELL RAPIDS",
+    "location_state": "SD",
+    "location_zip": "57022",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6054285431"
-    },
+    "phone_number": "6054285431",
     "provider_id": "431331",
     "raw_ratings": {},
     "state": "SD",

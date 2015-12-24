@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1007 GOODYEAR AVENUE\",\"city\":\"GADSDEN\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "34.00938024200008",
-        "longitude": "-85.96778839099994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.96752,
+            34.009389
+        ],
+        "type": "Point"
     },
+    "location_address": "1007 GOODYEAR AVENUE",
+    "location_city": "GADSDEN",
+    "location_state": "AL",
+    "location_zip": "35903",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "2564944000"
-    },
+    "phone_number": "2564944000",
     "provider_id": "010040",
     "raw_ratings": {},
     "state": "AL",

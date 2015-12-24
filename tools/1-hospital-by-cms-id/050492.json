@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2755 HERNDON AVE\",\"city\":\"CLOVIS\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.837445579000075",
-        "longitude": "-119.66071551399995",
-        "needs_recoding": false
+        "coordinates": [
+            -119.661562,
+            36.837434
+        ],
+        "type": "Point"
     },
+    "location_address": "2755 HERNDON AVE",
+    "location_city": "CLOVIS",
+    "location_state": "CA",
+    "location_zip": "93611",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.communitymedical.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5593244000"
-    },
+    "phone_number": "5593244000",
     "provider_id": "050492",
     "raw_ratings": {},
     "state": "CA",

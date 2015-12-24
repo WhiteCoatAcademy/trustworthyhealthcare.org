@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"303 CATLIN ST\",\"city\":\"BUFFALO\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.19322675400008",
-        "longitude": "-93.87130931499996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.871025,
+            45.193199
+        ],
+        "type": "Point"
     },
+    "location_address": "303 CATLIN ST",
+    "location_city": "BUFFALO",
+    "location_state": "MN",
+    "location_zip": "55313",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.allina.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7636841212"
-    },
+    "phone_number": "7636841212",
     "provider_id": "240076",
     "raw_ratings": {},
     "state": "MN",

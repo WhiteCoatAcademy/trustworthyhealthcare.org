@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"210 JUDSON ST\",\"city\":\"NAVASOTA\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.39258189700007",
-        "longitude": "-96.07694847699997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.07669,
+            30.392233
+        ],
+        "type": "Point"
     },
+    "location_address": "210 JUDSON ST",
+    "location_city": "NAVASOTA",
+    "location_state": "TX",
+    "location_zip": "77868",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.fscsylvania.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9368256585"
-    },
+    "phone_number": "9368256585",
     "provider_id": "451322",
     "raw_ratings": {},
     "state": "TX",

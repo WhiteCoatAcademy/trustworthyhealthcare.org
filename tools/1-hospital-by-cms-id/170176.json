@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10500 QUIVIRA ROAD\",\"city\":\"OVERLAND PARK\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.938260324000055",
-        "longitude": "-94.72366557199996",
-        "needs_recoding": false
+        "coordinates": [
+            -94.723652,
+            38.937696
+        ],
+        "type": "Point"
     },
+    "location_address": "10500 QUIVIRA ROAD",
+    "location_city": "OVERLAND PARK",
+    "location_state": "KS",
+    "location_zip": "66215",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9135415301"
-    },
+    "phone_number": "9135415000",
     "provider_id": "170176",
     "raw_ratings": {},
     "state": "KS",

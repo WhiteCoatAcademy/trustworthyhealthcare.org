@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"42121 US HIGHWAY 70\",\"city\":\"PORTALES\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "34.17013026600006",
-        "longitude": "-103.36207545699995",
-        "needs_recoding": false
+        "coordinates": [
+            -103.358944,
+            34.172648
+        ],
+        "type": "Point"
     },
+    "location_address": "42121 US HIGHWAY 70",
+    "location_city": "PORTALES",
+    "location_state": "NM",
+    "location_zip": "88130",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5753563412"
-    },
+    "phone_number": "5753563412",
     "provider_id": "320084",
     "raw_ratings": {},
     "state": "NM",

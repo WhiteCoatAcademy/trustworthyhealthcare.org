@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 SOUTH SANTA FE AVENUE\",\"city\":\"SALINA\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.83362046000008",
-        "longitude": "-97.60913479499999",
-        "needs_recoding": false
+        "coordinates": [
+            -97.609169,
+            38.833845
+        ],
+        "type": "Point"
     },
+    "location_address": "401 SOUTH SANTA FE AVENUE",
+    "location_city": "SALINA",
+    "location_state": "KS",
+    "location_zip": "67401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7858270610"
-    },
+    "phone_number": "7858270610",
     "provider_id": "170187",
     "raw_ratings": {},
     "state": "KS",

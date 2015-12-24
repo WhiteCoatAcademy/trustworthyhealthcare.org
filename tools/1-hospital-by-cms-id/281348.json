@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1305 WEST HIGHWAY 6/34\",\"city\":\"CAMBRIDGE\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.28201064800004",
-        "longitude": "-100.16540607299999",
-        "needs_recoding": false
+        "coordinates": [
+            -100.178916,
+            40.280354
+        ],
+        "type": "Point"
     },
+    "location_address": "1305 WEST HIGHWAY 6/34",
+    "location_city": "CAMBRIDGE",
+    "location_state": "NE",
+    "location_zip": "69022",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3086973329"
-    },
+    "phone_number": "3086973329",
     "provider_id": "281348",
     "raw_ratings": {},
     "state": "NE",

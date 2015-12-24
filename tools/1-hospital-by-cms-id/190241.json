@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"218 CORPORATE DRIVE\",\"city\":\"HOUMA\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "29.599964541000077",
-        "longitude": "-90.75019572799994",
-        "needs_recoding": false
+        "coordinates": [
+            -90.750128,
+            29.59995
+        ],
+        "type": "Point"
     },
+    "location_address": "218 CORPORATE DRIVE",
+    "location_city": "HOUMA",
+    "location_state": "LA",
+    "location_zip": "70360",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9858531390"
-    },
+    "phone_number": "9858531390",
     "provider_id": "190241",
     "raw_ratings": {},
     "state": "LA",

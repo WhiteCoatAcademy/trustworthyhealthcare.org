@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1201 HEALTH CENTER PARKWAY\",\"city\":\"YUKON\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.48359730100003",
-        "longitude": "-97.76312688899998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.764138,
+            35.48381
+        ],
+        "type": "Point"
     },
+    "location_address": "1201 HEALTH CENTER PARKWAY",
+    "location_city": "YUKON",
+    "location_state": "OK",
+    "location_zip": "73099",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.integris-health.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4057176800"
-    },
+    "phone_number": "4057176800",
     "provider_id": "370211",
     "raw_ratings": {},
     "state": "OK",

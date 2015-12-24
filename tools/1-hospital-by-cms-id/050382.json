@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"210 W SAN BERNARDINO ROAD\",\"city\":\"COVINA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.09004077000003",
-        "longitude": "-117.89211648299994",
-        "needs_recoding": false
+        "coordinates": [
+            -117.892646,
+            34.090035
+        ],
+        "type": "Point"
     },
+    "location_address": "210 W SAN BERNARDINO ROAD",
+    "location_city": "COVINA",
+    "location_state": "CA",
+    "location_zip": "91723",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.cvhp.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6268142468"
-    },
+    "phone_number": "6268142468",
     "provider_id": "050382",
     "raw_ratings": {},
     "state": "CA",

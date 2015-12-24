@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2500 ALHAMBRA AVE\",\"city\":\"MARTINEZ\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.00635701500005",
-        "longitude": "-122.13095356699995",
-        "needs_recoding": false
+        "coordinates": [
+            -122.130891,
+            38.006467
+        ],
+        "type": "Point"
     },
+    "location_address": "2500 ALHAMBRA AVE",
+    "location_city": "MARTINEZ",
+    "location_state": "CA",
+    "location_zip": "94553",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9253705000"
-    },
+    "phone_number": "9253705000",
     "provider_id": "050276",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"509 N BROAD ST\",\"city\":\"WOODBURY\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "39.84383168900007",
-        "longitude": "-75.14886341799996",
-        "needs_recoding": false
+        "coordinates": [
+            -75.149055,
+            39.843518
+        ],
+        "type": "Point"
     },
+    "location_address": "509 N BROAD ST",
+    "location_city": "WOODBURY",
+    "location_state": "NJ",
+    "location_zip": "08096",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8568450100"
-    },
+    "phone_number": "8566416616",
     "provider_id": "310081",
     "raw_ratings": {},
     "state": "NJ",

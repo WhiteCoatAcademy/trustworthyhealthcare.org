@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 JOHNSON FERRY ROAD, NE\",\"city\":\"ATLANTA\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "33.90790024200004",
-        "longitude": "-84.35480907099998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.354048,
+            33.907899
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 JOHNSON FERRY ROAD, NE",
+    "location_city": "ATLANTA",
+    "location_state": "GA",
+    "location_zip": "30342",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.northside.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4048518000"
-    },
+    "phone_number": "4048518000",
     "provider_id": "110161",
     "raw_ratings": {},
     "state": "GA",

@@ -4,15 +4,20 @@
     "county_name": "RANKIN",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "CROSSGATES RIVER OAKS HOSPITAL",
+    "hospital_name": "MERIT HEALTH RANKIN",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"350 CROSSGATES BLVD\",\"city\":\"BRANDON\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "32.28616045100006",
-        "longitude": "-90.03600800199996",
-        "needs_recoding": false
+        "coordinates": [
+            -90.035958,
+            32.286039
+        ],
+        "type": "Point"
     },
+    "location_address": "350 CROSSGATES BLVD",
+    "location_city": "BRANDON",
+    "location_state": "MS",
+    "location_zip": "39042",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6018252811"
-    },
+    "phone_number": "6018252811",
     "provider_id": "250096",
     "raw_ratings": {},
     "state": "MS",

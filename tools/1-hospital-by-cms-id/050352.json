@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2170 SOUTH AVENUE\",\"city\":\"SOUTH LAKE TAHOE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.91228328300008",
-        "longitude": "-119.99757983699999",
-        "needs_recoding": false
+        "coordinates": [
+            -119.99863,
+            38.912334
+        ],
+        "type": "Point"
     },
+    "location_address": "2170 SOUTH AVENUE",
+    "location_city": "SOUTH LAKE TAHOE",
+    "location_state": "CA",
+    "location_zip": "96150",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5305413420"
-    },
+    "phone_number": "5305413420",
     "provider_id": "050352",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1812 VERDUGO BLVD\",\"city\":\"GLENDALE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.205632699000034",
-        "longitude": "-118.21529913599994",
-        "needs_recoding": false
+        "coordinates": [
+            -118.216172,
+            34.205605
+        ],
+        "type": "Point"
     },
+    "location_address": "1812 VERDUGO BLVD",
+    "location_city": "GLENDALE",
+    "location_state": "CA",
+    "location_zip": "91209",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8187907100"
-    },
+    "phone_number": "8187907100",
     "provider_id": "050124",
     "raw_ratings": {},
     "state": "CA",

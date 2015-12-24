@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1301 MONTGOMERY ROAD\",\"city\":\"GRAHAM\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.089880169000025",
-        "longitude": "-98.58462395299995",
-        "needs_recoding": false
+        "coordinates": [
+            -98.584909,
+            33.089869
+        ],
+        "type": "Point"
     },
+    "location_address": "1301 MONTGOMERY ROAD",
+    "location_city": "GRAHAM",
+    "location_state": "TX",
+    "location_zip": "76450",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9405493400"
-    },
+    "phone_number": "9405493400",
     "provider_id": "450085",
     "raw_ratings": {},
     "state": "TX",

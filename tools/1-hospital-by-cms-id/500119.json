@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"12606 EAST MISSION AVENUE\",\"city\":\"SPOKANE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.67164157000008",
-        "longitude": "-117.23444952699998",
-        "needs_recoding": false
+        "coordinates": [
+            -117.235621,
+            47.671645
+        ],
+        "type": "Point"
     },
+    "location_address": "12606 EAST MISSION AVENUE",
+    "location_city": "SPOKANE",
+    "location_state": "WA",
+    "location_zip": "99216",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "5099246650"
-    },
+    "phone_number": "5099246650",
     "provider_id": "500119",
     "raw_ratings": {},
     "state": "WA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 HAWKINS DRIVE\",\"city\":\"IOWA CITY\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.659019553000064",
-        "longitude": "-91.54987336099998",
-        "needs_recoding": false
+        "coordinates": [
+            -91.550262,
+            41.660238
+        ],
+        "type": "Point"
     },
+    "location_address": "200 HAWKINS DRIVE",
+    "location_city": "IOWA CITY",
+    "location_state": "IA",
+    "location_zip": "52242",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3193561616"
-    },
+    "phone_number": "3193561616",
     "provider_id": "160058",
     "raw_ratings": {},
     "state": "IA",

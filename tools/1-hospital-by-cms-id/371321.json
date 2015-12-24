@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 MCDOUGAL DRIVE\",\"city\":\"HOLDENVILLE\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.08818258900004",
-        "longitude": "-96.37834497299997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.379764,
+            35.089252
+        ],
+        "type": "Point"
     },
+    "location_address": "100 MCDOUGAL DRIVE",
+    "location_city": "HOLDENVILLE",
+    "location_state": "OK",
+    "location_zip": "74848",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4053794200"
-    },
+    "phone_number": "4053794200",
     "provider_id": "371321",
     "raw_ratings": {},
     "state": "OK",

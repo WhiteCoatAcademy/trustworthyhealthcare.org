@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"269 SOUTH CANDY LANE\",\"city\":\"COTTONWOOD\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "34.735296310000024",
-        "longitude": "-112.03155185499998",
-        "needs_recoding": false
+        "coordinates": [
+            -112.031602,
+            34.735216
+        ],
+        "type": "Point"
     },
+    "location_address": "269 SOUTH CANDY LANE",
+    "location_city": "COTTONWOOD",
+    "location_state": "AZ",
+    "location_zip": "86326",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nahealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9286396000"
-    },
+    "phone_number": "9286396058",
     "provider_id": "030007",
     "raw_ratings": {},
     "state": "AZ",

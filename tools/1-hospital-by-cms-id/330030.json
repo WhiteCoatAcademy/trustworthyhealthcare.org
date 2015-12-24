@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"111 DRIVING PARK AVENUE\",\"city\":\"NEWARK\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.05431388800008",
-        "longitude": "-77.10011835699999",
-        "needs_recoding": false
+        "coordinates": [
+            -77.099713,
+            43.060063
+        ],
+        "type": "Point"
     },
+    "location_address": "111 DRIVING PARK AVENUE",
+    "location_city": "NEWARK",
+    "location_state": "NY",
+    "location_zip": "14513",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.viahealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3153322022"
-    },
+    "phone_number": "3153322022",
     "provider_id": "330030",
     "raw_ratings": {},
     "state": "NY",

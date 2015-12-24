@@ -2,7 +2,7 @@
     "address": "5301 E HURON RIVER DR",
     "city": "ANN ARBOR",
     "county_name": "WASHTENAW",
-    "emergency_services": false,
+    "emergency_services": true,
     "global_rank": {},
     "hospital_name": "ST JOSEPH MERCY HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Church",
@@ -13,6 +13,10 @@
         "longitude": "-83.66113408399997",
         "needs_recoding": false
     },
+    "location_address": "5301 E HURON RIVER DR",
+    "location_city": "ANN ARBOR",
+    "location_state": "MI",
+    "location_zip": "48106",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +32,7 @@
             "www.trinity-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7347123791"
-    },
+    "phone_number": "7347123456",
     "provider_id": "230156",
     "raw_ratings": {},
     "state": "MI",

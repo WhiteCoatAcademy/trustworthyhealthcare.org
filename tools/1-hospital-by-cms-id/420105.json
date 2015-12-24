@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3655 MITCHELL STREET\",\"city\":\"LORIS\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.05719570800005",
-        "longitude": "-78.89815798799998",
-        "needs_recoding": false
+        "coordinates": [
+            -78.898443,
+            34.056501
+        ],
+        "type": "Point"
     },
+    "location_address": "3655 MITCHELL STREET",
+    "location_city": "LORIS",
+    "location_state": "SC",
+    "location_zip": "29569",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8437167000"
-    },
+    "phone_number": "8437167000",
     "provider_id": "420105",
     "raw_ratings": {},
     "state": "SC",

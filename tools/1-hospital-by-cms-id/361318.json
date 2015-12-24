@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"501 VAN BUREN STREET\",\"city\":\"FOSTORIA\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.16341675700005",
-        "longitude": "-83.42347402999997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.423625,
+            41.163337
+        ],
+        "type": "Point"
     },
+    "location_address": "501 VAN BUREN STREET",
+    "location_city": "FOSTORIA",
+    "location_state": "OH",
+    "location_zip": "44830",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.promedica.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4194357734"
-    },
+    "phone_number": "4194357734",
     "provider_id": "361318",
     "raw_ratings": {},
     "state": "OH",

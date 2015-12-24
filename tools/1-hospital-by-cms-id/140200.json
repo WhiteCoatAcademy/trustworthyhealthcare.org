@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"155 EAST BRUSH HILL ROAD\",\"city\":\"ELMHURST\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.861478299000055",
-        "longitude": "-87.94135094099994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.935298,
+            41.861652
+        ],
+        "type": "Point"
     },
+    "location_address": "155 EAST BRUSH HILL ROAD",
+    "location_city": "ELMHURST",
+    "location_state": "IL",
+    "location_zip": "60126",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6308331400"
-    },
+    "phone_number": "6308331400",
     "provider_id": "140200",
     "raw_ratings": {},
     "state": "IL",

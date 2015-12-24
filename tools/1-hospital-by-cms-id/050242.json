@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1555 SOQUEL DRIVE\",\"city\":\"SANTA CRUZ\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.98832755400008",
-        "longitude": "-121.98397886899994",
-        "needs_recoding": false
+        "coordinates": [
+            -121.983953,
+            36.988292
+        ],
+        "type": "Point"
     },
+    "location_address": "1555 SOQUEL DRIVE",
+    "location_city": "SANTA CRUZ",
+    "location_state": "CA",
+    "location_zip": "95065",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8314627700"
-    },
+    "phone_number": "8314627700",
     "provider_id": "050242",
     "raw_ratings": {},
     "state": "CA",

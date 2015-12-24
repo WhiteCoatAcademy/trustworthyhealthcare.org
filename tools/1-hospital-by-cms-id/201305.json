@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"24 HOSPITAL LANE\",\"city\":\"CALAIS\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "45.17984431200006",
-        "longitude": "-67.26972963799994",
-        "needs_recoding": false
+        "coordinates": [
+            -67.270465,
+            45.180612
+        ],
+        "type": "Point"
     },
+    "location_address": "24 HOSPITAL LANE",
+    "location_city": "CALAIS",
+    "location_state": "ME",
+    "location_zip": "04619",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2074547521"
-    },
+    "phone_number": "2074547521",
     "provider_id": "201305",
     "raw_ratings": {},
     "state": "ME",

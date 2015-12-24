@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2000 W BALTIMORE STREET\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.288097692000065",
-        "longitude": "-76.64910207699995",
-        "needs_recoding": false
+        "coordinates": [
+            -76.649078,
+            39.288011
+        ],
+        "type": "Point"
     },
+    "location_address": "2000 W BALTIMORE STREET",
+    "location_city": "BALTIMORE",
+    "location_state": "MD",
+    "location_zip": "21223",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bshsi.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4103623000"
-    },
+    "phone_number": "4103623000",
     "provider_id": "210013",
     "raw_ratings": {},
     "state": "MD",

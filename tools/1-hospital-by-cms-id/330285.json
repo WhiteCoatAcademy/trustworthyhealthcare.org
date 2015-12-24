@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"601 ELMWOOD AVE\",\"city\":\"ROCHESTER\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.12437876200005",
-        "longitude": "-77.62359369799998",
-        "needs_recoding": false
+        "coordinates": [
+            -77.623692,
+            43.124394
+        ],
+        "type": "Point"
     },
+    "location_address": "601 ELMWOOD AVE",
+    "location_city": "ROCHESTER",
+    "location_state": "NY",
+    "location_zip": "14642",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.urmc.rochester.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "5852752121"
-    },
+    "phone_number": "5852752121",
     "provider_id": "330285",
     "raw_ratings": {},
     "state": "NY",

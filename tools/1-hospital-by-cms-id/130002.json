@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 POLE LINE ROAD WEST\",\"city\":\"TWIN FALLS\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "42.59158036900004",
-        "longitude": "-114.49691722999995",
-        "needs_recoding": false
+        "coordinates": [
+            -114.495624,
+            42.591808
+        ],
+        "type": "Point"
     },
+    "location_address": "801 POLE LINE ROAD WEST",
+    "location_city": "TWIN FALLS",
+    "location_state": "ID",
+    "location_zip": "83301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.stlukesonline.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2088141000"
-    },
+    "phone_number": "2088141000",
     "provider_id": "130002",
     "raw_ratings": {},
     "state": "ID",

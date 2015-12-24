@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1309 N FLAGLER DR\",\"city\":\"WEST PALM BEACH\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.725019108000026",
-        "longitude": "-80.04997888999998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.050092,
+            26.725431
+        ],
+        "type": "Point"
     },
+    "location_address": "1309 N FLAGLER DR",
+    "location_city": "WEST PALM BEACH",
+    "location_state": "FL",
+    "location_zip": "33401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5616555511"
-    },
+    "phone_number": "5616555511",
     "provider_id": "100287",
     "raw_ratings": {},
     "state": "FL",

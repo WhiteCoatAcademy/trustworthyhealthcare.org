@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2408 EAST 81ST STREET, SUITE 600\",\"city\":\"TULSA\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.046313600000076",
-        "longitude": "-95.95554290499996",
-        "needs_recoding": false
+        "coordinates": [
+            -95.957404,
+            36.046326
+        ],
+        "type": "Point"
     },
+    "location_address": "2408 EAST 81ST STREET, SUITE 600",
+    "location_city": "TULSA",
+    "location_state": "OK",
+    "location_zip": "74137",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9183922780"
-    },
+    "phone_number": "9183922780",
     "provider_id": "370233",
     "raw_ratings": {},
     "state": "OK",

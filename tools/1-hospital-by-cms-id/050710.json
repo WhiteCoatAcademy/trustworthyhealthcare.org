@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7300 NORTH FRESNO ST\",\"city\":\"FRESNO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.84322877100004",
-        "longitude": "-119.78351698699998",
-        "needs_recoding": false
+        "coordinates": [
+            -119.783213,
+            36.842292
+        ],
+        "type": "Point"
     },
+    "location_address": "7300 NORTH FRESNO ST",
+    "location_city": "FRESNO",
+    "location_state": "CA",
+    "location_zip": "93720",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5594484500"
-    },
+    "phone_number": "5594484500",
     "provider_id": "050710",
     "raw_ratings": {},
     "state": "CA",

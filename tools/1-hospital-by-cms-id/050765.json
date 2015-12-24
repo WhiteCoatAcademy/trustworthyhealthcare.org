@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "KAISER FOUNDATION HOSPITAL-MORENO VALLEY",
-    "hospital_ownership": "Government - Hospital District or Authority",
+    "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"27300 IRIS AVENUE\",\"city\":\"MORENO VALLEY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.89552826400006",
-        "longitude": "-117.18676925799997",
-        "needs_recoding": false
+        "coordinates": [
+            -117.187121,
+            33.895697
+        ],
+        "type": "Point"
     },
+    "location_address": "27300 IRIS AVENUE",
+    "location_city": "MORENO VALLEY",
+    "location_state": "CA",
+    "location_zip": "92555",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9512430811"
-    },
+    "phone_number": "9512516000",
     "provider_id": "050765",
     "raw_ratings": {},
     "state": "CA",

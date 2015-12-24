@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7915 FARNAM DRIVE\",\"city\":\"OMAHA\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "41.257973003000075",
-        "longitude": "-96.03650633499996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.036483,
+            41.258007
+        ],
+        "type": "Point"
     },
+    "location_address": "7915 FARNAM DRIVE",
+    "location_city": "OMAHA",
+    "location_state": "NE",
+    "location_zip": "68114",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4023991900"
-    },
+    "phone_number": "4023991900",
     "provider_id": "280131",
     "raw_ratings": {},
     "state": "NE",

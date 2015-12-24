@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1065 EAST BROAD ST\",\"city\":\"MONTICELLO\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "31.55336443300007",
-        "longitude": "-90.09855204599995",
-        "needs_recoding": false
+        "coordinates": [
+            -90.099586,
+            31.553382
+        ],
+        "type": "Point"
     },
+    "location_address": "1065 EAST BROAD ST",
+    "location_city": "MONTICELLO",
+    "location_state": "MS",
+    "location_zip": "39654",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.smrmc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6015874051"
-    },
+    "phone_number": "6015874051",
     "provider_id": "251305",
     "raw_ratings": {},
     "state": "MS",

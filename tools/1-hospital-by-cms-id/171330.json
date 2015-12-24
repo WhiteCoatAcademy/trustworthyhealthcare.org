@@ -2,17 +2,22 @@
     "address": "619 SOUTH CLARK AVENUE",
     "city": "LYONS",
     "county_name": "RICE",
-    "emergency_services": false,
+    "emergency_services": true,
     "global_rank": {},
     "hospital_name": "HOSPITAL DISTRICT #1 OF RICE COUNTY",
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"619 SOUTH CLARK AVENUE\",\"city\":\"LYONS\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.34173094200003",
-        "longitude": "-98.21620525099996",
-        "needs_recoding": false
+        "coordinates": [
+            -98.216146,
+            38.342156
+        ],
+        "type": "Point"
     },
+    "location_address": "619 SOUTH CLARK AVENUE",
+    "location_city": "LYONS",
+    "location_state": "KS",
+    "location_zip": "67554",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6202575173"
-    },
+    "phone_number": "6202575173",
     "provider_id": "171330",
     "raw_ratings": {},
     "state": "KS",

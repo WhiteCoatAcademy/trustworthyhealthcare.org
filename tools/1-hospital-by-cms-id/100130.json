@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"39200 HOOKER HWY\",\"city\":\"BELLE GLADE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "26.725643645000048",
-        "longitude": "-80.67101039299996",
-        "needs_recoding": false
+        "coordinates": [
+            -80.67127,
+            26.725671
+        ],
+        "type": "Point"
     },
+    "location_address": "39200 HOOKER HWY",
+    "location_city": "BELLE GLADE",
+    "location_state": "FL",
+    "location_zip": "33430",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5619966571"
-    },
+    "phone_number": "5619966571",
     "provider_id": "100130",
     "raw_ratings": {},
     "state": "FL",

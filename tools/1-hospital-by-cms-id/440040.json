@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2718 SQUIRREL HOLLOW DRIVE\",\"city\":\"LINDEN\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.59169185400003",
-        "longitude": "-87.86306215899998",
-        "needs_recoding": false
+        "coordinates": [
+            -87.862568,
+            35.593032
+        ],
+        "type": "Point"
     },
+    "location_address": "2718 SQUIRREL HOLLOW DRIVE",
+    "location_city": "LINDEN",
+    "location_state": "TN",
+    "location_zip": "37096",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9315892121"
-    },
+    "phone_number": "9315892121",
     "provider_id": "440040",
     "raw_ratings": {},
     "state": "TN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2000 HOSPITAL DRIVE\",\"city\":\"SEDRO WOOLLEY\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "48.49547697600008",
-        "longitude": "-122.27626897899995",
-        "needs_recoding": false
+        "coordinates": [
+            -122.276027,
+            48.49551
+        ],
+        "type": "Point"
     },
+    "location_address": "2000 HOSPITAL DRIVE",
+    "location_city": "SEDRO WOOLLEY",
+    "location_state": "WA",
+    "location_zip": "98284",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3608566021"
-    },
+    "phone_number": "3608566021",
     "provider_id": "501329",
     "raw_ratings": {},
     "state": "WA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1910 MALVERN AVENUE\",\"city\":\"HOT SPRINGS\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "34.48563367500003",
-        "longitude": "-93.03320592599994",
-        "needs_recoding": false
+        "coordinates": [
+            -93.033917,
+            34.486774
+        ],
+        "type": "Point"
     },
+    "location_address": "1910 MALVERN AVENUE",
+    "location_city": "HOT SPRINGS",
+    "location_state": "AR",
+    "location_zip": "71901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.capellahealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5013211000"
-    },
+    "phone_number": "5013211000",
     "provider_id": "040078",
     "raw_ratings": {},
     "state": "AR",

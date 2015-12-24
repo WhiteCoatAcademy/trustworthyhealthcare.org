@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 OLD YORK ROAD\",\"city\":\"ABINGTON\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.119015551000075",
-        "longitude": "-75.11924569099995",
-        "needs_recoding": false
+        "coordinates": [
+            -75.119351,
+            40.119002
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 OLD YORK ROAD",
+    "location_city": "ABINGTON",
+    "location_state": "PA",
+    "location_zip": "19001",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2154812000"
-    },
+    "phone_number": "2154812000",
     "provider_id": "390231",
     "raw_ratings": {},
     "state": "PA",

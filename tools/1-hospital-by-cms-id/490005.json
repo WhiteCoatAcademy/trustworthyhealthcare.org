@@ -1,5 +1,5 @@
 {
-    "address": "220 CAMPUS BLVD SUITE 210",
+    "address": "1840 AMHERST ST",
     "city": "WINCHESTER",
     "county_name": "WINCHESTER CITY",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"220 CAMPUS BLVD SUITE 210\",\"city\":\"WINCHESTER\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "39.20054227300005",
-        "longitude": "-78.18868245299996",
-        "needs_recoding": false
+        "coordinates": [
+            -78.193138,
+            39.191594
+        ],
+        "type": "Point"
     },
+    "location_address": "1840 AMHERST ST",
+    "location_city": "WINCHESTER",
+    "location_state": "VA",
+    "location_zip": "22601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.valleyhealthlink.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5405368000"
-    },
+    "phone_number": "5405368000",
     "provider_id": "490005",
     "raw_ratings": {},
     "state": "VA",

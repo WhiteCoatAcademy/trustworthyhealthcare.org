@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"267 GRANT STREET\",\"city\":\"BRIDGEPORT\",\"state\":\"CT\",\"zip\":\"\"}",
-        "latitude": "41.18880621300008",
-        "longitude": "-73.16557905799993",
-        "needs_recoding": false
+        "coordinates": [
+            -73.166655,
+            41.188813
+        ],
+        "type": "Point"
     },
+    "location_address": "267 GRANT STREET",
+    "location_city": "BRIDGEPORT",
+    "location_state": "CT",
+    "location_zip": "06610",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "yalenewhavenhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2033843000"
-    },
+    "phone_number": "2033843000",
     "provider_id": "070010",
     "raw_ratings": {},
     "state": "CT",

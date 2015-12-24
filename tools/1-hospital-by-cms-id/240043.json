@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"404 WEST FOUNTAIN STREET\",\"city\":\"ALBERT LEA\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "43.651560568000036",
-        "longitude": "-93.37252912299994",
-        "needs_recoding": false
+        "coordinates": [
+            -93.372616,
+            43.651567
+        ],
+        "type": "Point"
     },
+    "location_address": "404 WEST FOUNTAIN STREET",
+    "location_city": "ALBERT LEA",
+    "location_state": "MN",
+    "location_zip": "56007",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mayohealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5073732384"
-    },
+    "phone_number": "5073732384",
     "provider_id": "240043",
     "raw_ratings": {},
     "state": "MN",

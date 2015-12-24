@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"309 W BEVERLY BLVD\",\"city\":\"MONTEBELLO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.016153734000056",
-        "longitude": "-118.10116479599998",
-        "needs_recoding": false
+        "coordinates": [
+            -118.100382,
+            34.016002
+        ],
+        "type": "Point"
     },
+    "location_address": "309 W BEVERLY BLVD",
+    "location_city": "MONTEBELLO",
+    "location_state": "CA",
+    "location_zip": "90640",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3237261222"
-    },
+    "phone_number": "3237261222",
     "provider_id": "050350",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1615 DELAWARE STREET\",\"city\":\"LONGVIEW\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "46.13101379100004",
-        "longitude": "-122.94136683599999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.941508,
+            46.131054
+        ],
+        "type": "Point"
     },
+    "location_address": "1615 DELAWARE STREET",
+    "location_city": "LONGVIEW",
+    "location_state": "WA",
+    "location_zip": "98632",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.peacehealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3604142000"
-    },
+    "phone_number": "3604142000",
     "provider_id": "500041",
     "raw_ratings": {},
     "state": "WA",

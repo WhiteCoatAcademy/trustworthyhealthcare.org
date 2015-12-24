@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"417 THIRD AVENUE\",\"city\":\"ALBANY\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "31.590247915000077",
-        "longitude": "-84.15607060999997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.157357,
+            31.590227
+        ],
+        "type": "Point"
     },
+    "location_address": "417 THIRD AVENUE",
+    "location_city": "ALBANY",
+    "location_state": "GA",
+    "location_zip": "31703",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.phoebeputney.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2293124068"
-    },
+    "phone_number": "2293124068",
     "provider_id": "110007",
     "raw_ratings": {},
     "state": "GA",

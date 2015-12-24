@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2101 PEASE ST\",\"city\":\"HARLINGEN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "26.17401674200005",
-        "longitude": "-97.67118895999994",
-        "needs_recoding": false
+        "coordinates": [
+            -97.671081,
+            26.173893
+        ],
+        "type": "Point"
     },
+    "location_address": "2101 PEASE ST",
+    "location_city": "HARLINGEN",
+    "location_state": "TX",
+    "location_zip": "78550",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.valleybaptist.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "9563891100"
-    },
+    "phone_number": "9563891100",
     "provider_id": "450033",
     "raw_ratings": {},
     "state": "TX",

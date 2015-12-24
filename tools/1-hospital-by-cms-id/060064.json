@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2525 S DOWNING ST\",\"city\":\"DENVER\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.67121065400005",
-        "longitude": "-104.97351651899999",
-        "needs_recoding": false
+        "coordinates": [
+            -104.973493,
+            39.669574
+        ],
+        "type": "Point"
     },
+    "location_address": "2525 S DOWNING ST",
+    "location_city": "DENVER",
+    "location_state": "CO",
+    "location_zip": "80210",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.centura.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3037781955"
-    },
+    "phone_number": "3037781955",
     "provider_id": "060064",
     "raw_ratings": {},
     "state": "CO",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1201 HADLEY RD\",\"city\":\"MOORESVILLE\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.60921328400008",
-        "longitude": "-86.35792905699998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.355874,
+            39.609332
+        ],
+        "type": "Point"
     },
+    "location_address": "1201 HADLEY RD",
+    "location_city": "MOORESVILLE",
+    "location_state": "IN",
+    "location_zip": "46158",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ssfhs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3178311160"
-    },
+    "phone_number": "3178311160",
     "provider_id": "150057",
     "raw_ratings": {},
     "state": "IN",

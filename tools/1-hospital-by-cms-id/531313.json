@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"901 ADAMS STREET\",\"city\":\"AFTON\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "42.723083787000064",
-        "longitude": "-110.93077558899995",
-        "needs_recoding": false
+        "coordinates": [
+            -110.931009,
+            42.718962
+        ],
+        "type": "Point"
     },
+    "location_address": "901 ADAMS STREET",
+    "location_city": "AFTON",
+    "location_state": "WY",
+    "location_zip": "83110",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3078855800"
-    },
+    "phone_number": "3078855800",
     "provider_id": "531313",
     "raw_ratings": {},
     "state": "WY",

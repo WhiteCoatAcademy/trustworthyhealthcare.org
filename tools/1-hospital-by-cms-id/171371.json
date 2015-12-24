@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"617 LIBERTY\",\"city\":\"CLAY CENTER\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.391728157000045",
-        "longitude": "-97.12357015199996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.124196,
+            39.391681
+        ],
+        "type": "Point"
     },
+    "location_address": "617 LIBERTY",
+    "location_city": "CLAY CENTER",
+    "location_state": "KS",
+    "location_zip": "67432",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7856322144"
-    },
+    "phone_number": "7856322144",
     "provider_id": "171371",
     "raw_ratings": {},
     "state": "KS",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"5500 ARMSTRONG RD.\",\"city\":\"BATTLE CREEK\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.347229612000035",
-        "longitude": "-85.29793349299996",
-        "needs_recoding": false
+        "coordinates": [
+            -85.297885,
+            42.340162
+        ],
+        "type": "Point"
     },
+    "location_address": "5500 ARMSTRONG RD.",
+    "location_city": "BATTLE CREEK",
+    "location_state": "MI",
+    "location_zip": "49015",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "2699665600"
-    },
+    "phone_number": "2699665600",
     "provider_id": "23012F",
     "raw_ratings": {},
     "state": "MI",

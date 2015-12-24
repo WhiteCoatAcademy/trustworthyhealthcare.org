@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"37000 NORTH GANTZEL ROAD\",\"city\":\"SAN TAN VALLEY\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.21469151400004",
-        "longitude": "-111.56347948299998",
-        "needs_recoding": false
+        "coordinates": [
+            -111.56345,
+            33.213954
+        ],
+        "type": "Point"
     },
+    "location_address": "37000 NORTH GANTZEL ROAD",
+    "location_city": "SAN TAN VALLEY",
+    "location_state": "AZ",
+    "location_zip": "85140",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4803944030"
-    },
+    "phone_number": "4803944030",
     "provider_id": "030130",
     "raw_ratings": {},
     "state": "AZ",

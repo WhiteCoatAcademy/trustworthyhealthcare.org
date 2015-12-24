@@ -4,15 +4,20 @@
     "county_name": "OCONTO",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "COMMUNITY MEMORIAL HOSPITAL",
+    "hospital_name": "HSHS ST CLARE MEMORIAL HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"855 S MAIN ST\",\"city\":\"OCONTO FALLS\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.865844569000046",
-        "longitude": "-88.12705613499998",
-        "needs_recoding": false
+        "coordinates": [
+            -88.127595,
+            44.866202
+        ],
+        "type": "Point"
     },
+    "location_address": "855 S MAIN ST",
+    "location_city": "OCONTO FALLS",
+    "location_state": "WI",
+    "location_zip": "54154",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9208463444"
-    },
+    "phone_number": "9208463444",
     "provider_id": "521310",
     "raw_ratings": {},
     "state": "WI",

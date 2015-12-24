@@ -4,15 +4,20 @@
     "county_name": "SOMERSET",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MEYERSDALE COMMUNITY HOSPITAL",
-    "hospital_ownership": "Government - Local",
+    "hospital_name": "MEYERSDALE MEDICAL CENTER",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 HOSPITAL DRIVE\",\"city\":\"MYERSDALE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.80952068500005",
-        "longitude": "-79.02512462899995",
-        "needs_recoding": false
+        "coordinates": [
+            -79.026068,
+            39.80843
+        ],
+        "type": "Point"
     },
+    "location_address": "200 HOSPITAL DRIVE",
+    "location_city": "MYERSDALE",
+    "location_state": "PA",
+    "location_zip": "15552",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.conemaugh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8146345911"
-    },
+    "phone_number": "8146345911",
     "provider_id": "391302",
     "raw_ratings": {},
     "state": "PA",

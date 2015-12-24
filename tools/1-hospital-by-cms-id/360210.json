@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"561 WEST CENTRAL AVENUE\",\"city\":\"DELAWARE\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.30569389500005",
-        "longitude": "-83.08781894599997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.088828,
+            40.306042
+        ],
+        "type": "Point"
     },
+    "location_address": "561 WEST CENTRAL AVENUE",
+    "location_city": "DELAWARE",
+    "location_state": "OH",
+    "location_zip": "43015",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ohiohealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7403685145"
-    },
+    "phone_number": "7403685145",
     "provider_id": "360210",
     "raw_ratings": {},
     "state": "OH",

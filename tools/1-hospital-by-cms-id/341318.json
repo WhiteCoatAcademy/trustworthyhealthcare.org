@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"211 VIRGINIA RD\",\"city\":\"EDENTON\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "36.070996001000026",
-        "longitude": "-76.60927460899995",
-        "needs_recoding": false
+        "coordinates": [
+            -76.60954,
+            36.070999
+        ],
+        "type": "Point"
     },
+    "location_address": "211 VIRGINIA RD",
+    "location_city": "EDENTON",
+    "location_state": "NC",
+    "location_zip": "27932",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhseast.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2524828451"
-    },
+    "phone_number": "2524828451",
     "provider_id": "341318",
     "raw_ratings": {},
     "state": "NC",

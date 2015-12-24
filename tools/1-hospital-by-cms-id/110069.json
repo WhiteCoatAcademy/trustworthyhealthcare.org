@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1601 WATSON BOULEVARD\",\"city\":\"WARNER ROBINS\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.61818354300004",
-        "longitude": "-83.63034087999995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.62941,
+            32.618198
+        ],
+        "type": "Point"
     },
+    "location_address": "1601 WATSON BOULEVARD",
+    "location_city": "WARNER ROBINS",
+    "location_state": "GA",
+    "location_zip": "31093",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hhc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4789224281"
-    },
+    "phone_number": "4789224281",
     "provider_id": "110069",
     "raw_ratings": {},
     "state": "GA",

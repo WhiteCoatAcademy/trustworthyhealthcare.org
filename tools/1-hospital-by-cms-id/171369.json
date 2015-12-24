@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"809 BRAMLEY\",\"city\":\"JETMORE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.08364732900003",
-        "longitude": "-99.90328006899995",
-        "needs_recoding": false
+        "coordinates": [
+            -99.904186,
+            38.083656
+        ],
+        "type": "Point"
     },
+    "location_address": "809 BRAMLEY",
+    "location_city": "JETMORE",
+    "location_state": "KS",
+    "location_zip": "67854",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6203578361"
-    },
+    "phone_number": "6203578361",
     "provider_id": "171369",
     "raw_ratings": {},
     "state": "KS",

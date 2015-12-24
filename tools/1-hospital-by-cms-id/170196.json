@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3333 NORTH WEBB ROAD\",\"city\":\"WICHITA\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.743700137000076",
-        "longitude": "-97.22635484199998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.226325,
+            37.743678
+        ],
+        "type": "Point"
     },
+    "location_address": "3333 NORTH WEBB ROAD",
+    "location_city": "WICHITA",
+    "location_state": "KS",
+    "location_zip": "67226",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3164625326"
-    },
+    "phone_number": "3164625326",
     "provider_id": "170196",
     "raw_ratings": {},
     "state": "KS",

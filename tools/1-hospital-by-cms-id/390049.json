@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 OSTRUM STREET\",\"city\":\"BETHLEHEM\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.60854709700004",
-        "longitude": "-75.39269808399996",
-        "needs_recoding": false
+        "coordinates": [
+            -75.39206,
+            40.60918
+        ],
+        "type": "Point"
     },
+    "location_address": "801 OSTRUM STREET",
+    "location_city": "BETHLEHEM",
+    "location_state": "PA",
+    "location_zip": "18015",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mystlukesonline.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6109544000"
-    },
+    "phone_number": "6109544000",
     "provider_id": "390049",
     "raw_ratings": {},
     "state": "PA",

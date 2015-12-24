@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3535 SOUTHERN BOULEVARD\",\"city\":\"KETTERING\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.697687786000074",
-        "longitude": "-84.19062523699995",
-        "needs_recoding": false
+        "coordinates": [
+            -84.190611,
+            39.697092
+        ],
+        "type": "Point"
     },
+    "location_address": "3535 SOUTHERN BOULEVARD",
+    "location_city": "KETTERING",
+    "location_state": "OH",
+    "location_zip": "45429",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kmcnetwork.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9372984331"
-    },
+    "phone_number": "9372984331",
     "provider_id": "360079",
     "raw_ratings": {},
     "state": "OH",

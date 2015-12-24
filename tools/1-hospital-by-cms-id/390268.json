@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "MOUNT NITTANY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1800 EAST PARK AVE\",\"city\":\"STATE COLLEGE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.81830561400005",
-        "longitude": "-77.85040729599996",
-        "needs_recoding": false
+        "coordinates": [
+            -77.836985,
+            40.834025
+        ],
+        "type": "Point"
     },
+    "location_address": "1800 EAST PARK AVE",
+    "location_city": "STATE COLLEGE",
+    "location_state": "PA",
+    "location_zip": "16803",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8142317000"
-    },
+    "phone_number": "8142317000",
     "provider_id": "390268",
     "raw_ratings": {},
     "state": "PA",

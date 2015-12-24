@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 NORTHWEST H STREET\",\"city\":\"STIGLER\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.25404255700005",
-        "longitude": "-95.12505658399994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.128255,
+            35.260798
+        ],
+        "type": "Point"
     },
+    "location_address": "401 NORTHWEST H STREET",
+    "location_city": "STIGLER",
+    "location_state": "OK",
+    "location_zip": "74462",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9189674682"
-    },
+    "phone_number": "9189674682",
     "provider_id": "371335",
     "raw_ratings": {},
     "state": "OK",

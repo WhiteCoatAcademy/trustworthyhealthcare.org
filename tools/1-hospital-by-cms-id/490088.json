@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1613 OAKWOOD STREET\",\"city\":\"BEDFORD\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.35090685500006",
-        "longitude": "-79.51654385099994",
-        "needs_recoding": false
+        "coordinates": [
+            -79.516427,
+            37.351488
+        ],
+        "type": "Point"
     },
+    "location_address": "1613 OAKWOOD STREET",
+    "location_city": "BEDFORD",
+    "location_state": "VA",
+    "location_zip": "24523",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5405862441"
-    },
+    "phone_number": "4342006366",
     "provider_id": "490088",
     "raw_ratings": {},
     "state": "VA",

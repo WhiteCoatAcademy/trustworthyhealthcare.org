@@ -4,15 +4,20 @@
     "county_name": "BREVARD",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "WUESTHOFF MEDICAL CENTER - MELBOURNE",
+    "hospital_name": "WUESTHOFF MEDICAL CENTER-MELBOURNE",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"250 NORTH WICKHAM ROAD\",\"city\":\"MELBOURNE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.10288082900007",
-        "longitude": "-80.67264202399997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.672608,
+            28.110382
+        ],
+        "type": "Point"
     },
+    "location_address": "250 NORTH WICKHAM ROAD",
+    "location_city": "MELBOURNE",
+    "location_state": "FL",
+    "location_zip": "32935",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wuesthoff.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3217521200"
-    },
+    "phone_number": "3217521200",
     "provider_id": "100291",
     "raw_ratings": {},
     "state": "FL",

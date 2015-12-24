@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1100 CENTRAL AVENUE SE\",\"city\":\"ALBUQUERQUE\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "35.08227367600006",
-        "longitude": "-106.63459413099997",
-        "needs_recoding": false
+        "coordinates": [
+            -106.634908,
+            35.082348
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 CENTRAL AVENUE SE",
+    "location_city": "ALBUQUERQUE",
+    "location_state": "NM",
+    "location_zip": "87106",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.phs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5057248386"
-    },
+    "phone_number": "5057248386",
     "provider_id": "320021",
     "raw_ratings": {},
     "state": "NM",

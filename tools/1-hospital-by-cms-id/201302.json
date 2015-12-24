@@ -1,6 +1,6 @@
 {
-    "address": "6 ST ANDREWS LANE  - PO BOX 417",
-    "city": "BOOTHBAY HARBOR",
+    "address": "35 MILES STREET",
+    "city": "DAMARISCOTTA",
     "county_name": "LINCOLN",
     "emergency_services": true,
     "global_rank": {},
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6 ST ANDREWS LANE - PO BOX 417\",\"city\":\"BOOTHBAY HARBOR\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "43.850798713000074",
-        "longitude": "-69.63989743599996",
-        "needs_recoding": false
+        "coordinates": [
+            -69.528109,
+            44.026133
+        ],
+        "type": "Point"
     },
+    "location_address": "35 MILES STREET",
+    "location_city": "DAMARISCOTTA",
+    "location_state": "ME",
+    "location_zip": "04543",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,11 +33,9 @@
             "www.mainehealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2076332121"
-    },
+    "phone_number": "2075631234",
     "provider_id": "201302",
     "raw_ratings": {},
     "state": "ME",
-    "zip_code": "04538"
+    "zip_code": "04543"
 }

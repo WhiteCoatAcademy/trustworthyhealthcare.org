@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1101 WOODSON DRIVE\",\"city\":\"CALDWELL\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.520691200000044",
-        "longitude": "-96.71727243799995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.71596,
+            30.520951
+        ],
+        "type": "Point"
     },
+    "location_address": "1101 WOODSON DRIVE",
+    "location_city": "CALDWELL",
+    "location_state": "TX",
+    "location_zip": "77836",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.fscsylvania.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9795673245"
-    },
+    "phone_number": "9795673245",
     "provider_id": "451305",
     "raw_ratings": {},
     "state": "TX",

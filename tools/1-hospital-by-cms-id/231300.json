@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"224 PARK AVENUE\",\"city\":\"FRANKFORT\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "44.63732173400007",
-        "longitude": "-86.24296129199996",
-        "needs_recoding": false
+        "coordinates": [
+            -86.242849,
+            44.637353
+        ],
+        "type": "Point"
     },
+    "location_address": "224 PARK AVENUE",
+    "location_city": "FRANKFORT",
+    "location_state": "MI",
+    "location_zip": "49635",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.munsonhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2313522200"
-    },
+    "phone_number": "2313522200",
     "provider_id": "231300",
     "raw_ratings": {},
     "state": "MI",

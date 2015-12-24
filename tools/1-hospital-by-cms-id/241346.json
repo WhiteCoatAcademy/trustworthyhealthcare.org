@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"32021 COUNTY 24 BOULEVARD\",\"city\":\"CANNON FALLS\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.48500682200006",
-        "longitude": "-92.91898939699996",
-        "needs_recoding": false
+        "coordinates": [
+            -92.919128,
+            44.483783
+        ],
+        "type": "Point"
     },
+    "location_address": "32021 COUNTY 24 BOULEVARD",
+    "location_city": "CANNON FALLS",
+    "location_state": "MN",
+    "location_zip": "55009",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5072636000"
-    },
+    "phone_number": "5072636000",
     "provider_id": "241346",
     "raw_ratings": {},
     "state": "MN",

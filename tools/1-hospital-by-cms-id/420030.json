@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"501 ROBERTSON BOULEVARD\",\"city\":\"WALTERBORO\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "32.92184782600003",
-        "longitude": "-80.67054717499997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.67088,
+            32.921855
+        ],
+        "type": "Point"
     },
+    "location_address": "501 ROBERTSON BOULEVARD",
+    "location_city": "WALTERBORO",
+    "location_state": "SC",
+    "location_zip": "29488",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8437822000"
-    },
+    "phone_number": "8437822000",
     "provider_id": "420030",
     "raw_ratings": {},
     "state": "SC",

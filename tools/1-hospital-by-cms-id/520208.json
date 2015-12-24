@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3400 EAST RACINE STREET\",\"city\":\"JANESVILLE\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "42.670952697000075",
-        "longitude": "-88.97601997899994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.975924,
+            42.670977
+        ],
+        "type": "Point"
     },
+    "location_address": "3400 EAST RACINE STREET",
+    "location_city": "JANESVILLE",
+    "location_state": "WI",
+    "location_zip": "53546",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6083738000"
-    },
+    "phone_number": "6083738000",
     "provider_id": "520208",
     "raw_ratings": {},
     "state": "WI",

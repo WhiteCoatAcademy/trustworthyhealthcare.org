@@ -4,15 +4,20 @@
     "county_name": "NEW YORK",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "NY EYE AND EAR INFIRMARY",
+    "hospital_name": "N Y EYE AND EAR INFIRMARY",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"310 EAST 14TH STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.66518508000007",
-        "longitude": "-73.98685288799999",
-        "needs_recoding": false
+        "coordinates": [
+            -73.984761,
+            40.732269
+        ],
+        "type": "Point"
     },
+    "location_address": "310 EAST 14TH STREET",
+    "location_city": "NEW YORK",
+    "location_state": "NY",
+    "location_zip": "10003",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wehealny.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2129794000"
-    },
+    "phone_number": "2129794000",
     "provider_id": "330100",
     "raw_ratings": {},
     "state": "NY",

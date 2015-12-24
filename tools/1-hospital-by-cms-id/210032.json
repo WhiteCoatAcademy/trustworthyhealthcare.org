@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"106 BOW STREET\",\"city\":\"ELKTON\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.608149067000056",
-        "longitude": "-75.83104356999996",
-        "needs_recoding": false
+        "coordinates": [
+            -75.831095,
+            39.608595
+        ],
+        "type": "Point"
     },
+    "location_address": "106 BOW STREET",
+    "location_city": "ELKTON",
+    "location_state": "MD",
+    "location_zip": "21921",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4103927009"
-    },
+    "phone_number": "4103927009",
     "provider_id": "210032",
     "raw_ratings": {},
     "state": "MD",

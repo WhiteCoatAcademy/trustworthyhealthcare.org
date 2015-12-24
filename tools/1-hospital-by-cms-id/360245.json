@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2863 STATE ROUTE 45\",\"city\":\"ROCK CREEK\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.67240152800008",
-        "longitude": "-80.85678472399997",
-        "needs_recoding": false
+        "coordinates": [
+            -80.856822,
+            41.672125
+        ],
+        "type": "Point"
     },
+    "location_address": "2863 STATE ROUTE 45",
+    "location_city": "ROCK CREEK",
+    "location_state": "OH",
+    "location_zip": "44084",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4405633400"
-    },
+    "phone_number": "4405633400",
     "provider_id": "360245",
     "raw_ratings": {},
     "state": "OH",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"880 ALDER STREET\",\"city\":\"INCLINE VILLAGE\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "39.250918167000066",
-        "longitude": "-119.95426902099996",
-        "needs_recoding": false
+        "coordinates": [
+            -119.954734,
+            39.250892
+        ],
+        "type": "Point"
     },
+    "location_address": "880 ALDER STREET",
+    "location_city": "INCLINE VILLAGE",
+    "location_state": "NV",
+    "location_zip": "89451",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tfhd.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7758334100"
-    },
+    "phone_number": "7758334100",
     "provider_id": "291301",
     "raw_ratings": {},
     "state": "NV",

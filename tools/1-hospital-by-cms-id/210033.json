@@ -1,5 +1,5 @@
 {
-    "address": "200 MEMORIAL AVE",
+    "address": "291 STONER AVENUE",
     "city": "WESTMINSTER",
     "county_name": "CARROLL",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 MEMORIAL AVE\",\"city\":\"WESTMINSTER\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.55778579400004",
-        "longitude": "-76.98990555599994",
-        "needs_recoding": false
+        "coordinates": [
+            -76.989339,
+            39.56155
+        ],
+        "type": "Point"
     },
+    "location_address": "291 STONER AVENUE",
+    "location_city": "WESTMINSTER",
+    "location_state": "MD",
+    "location_zip": "21157",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4108483000"
-    },
+    "phone_number": "4108483000",
     "provider_id": "210033",
     "raw_ratings": {},
     "state": "MD",

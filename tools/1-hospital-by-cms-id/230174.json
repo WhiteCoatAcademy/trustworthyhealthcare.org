@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1309 SHELDON RD\",\"city\":\"GRAND HAVEN\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.05094885700004",
-        "longitude": "-86.22796780099998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.227852,
+            43.050837
+        ],
+        "type": "Point"
     },
+    "location_address": "1309 SHELDON RD",
+    "location_city": "GRAND HAVEN",
+    "location_state": "MI",
+    "location_zip": "49417",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6168423600"
-    },
+    "phone_number": "6168423600",
     "provider_id": "230174",
     "raw_ratings": {},
     "state": "MI",

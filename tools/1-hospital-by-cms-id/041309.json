@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1309 WEST MAIN\",\"city\":\"WALNUT RIDGE\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "36.07472110500004",
-        "longitude": "-90.96811734299996",
-        "needs_recoding": false
+        "coordinates": [
+            -90.966982,
+            36.074701
+        ],
+        "type": "Point"
     },
+    "location_address": "1309 WEST MAIN",
+    "location_city": "WALNUT RIDGE",
+    "location_state": "AR",
+    "location_zip": "72476",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8708861200"
-    },
+    "phone_number": "8708861200",
     "provider_id": "041309",
     "raw_ratings": {},
     "state": "AR",

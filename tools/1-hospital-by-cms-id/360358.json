@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7911 DILEY ROAD\",\"city\":\"CANAL WINCHESTER\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.84916444900006",
-        "longitude": "-82.78120597399999",
-        "needs_recoding": false
+        "coordinates": [
+            -82.7811,
+            39.850053
+        ],
+        "type": "Point"
     },
+    "location_address": "7911 DILEY ROAD",
+    "location_city": "CANAL WINCHESTER",
+    "location_state": "OH",
+    "location_zip": "43110",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6148387910"
-    },
+    "phone_number": "6148387910",
     "provider_id": "360358",
     "raw_ratings": {},
     "state": "OH",

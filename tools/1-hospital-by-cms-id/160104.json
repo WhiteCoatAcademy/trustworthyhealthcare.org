@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4500 UTICA RIDGE ROAD\",\"city\":\"BETTENDORF\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.566100074000076",
-        "longitude": "-90.51737718699997",
-        "needs_recoding": false
+        "coordinates": [
+            -90.517364,
+            41.565701
+        ],
+        "type": "Point"
     },
+    "location_address": "4500 UTICA RIDGE ROAD",
+    "location_city": "BETTENDORF",
+    "location_state": "IA",
+    "location_zip": "52722",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trinityqc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5637425000"
-    },
+    "phone_number": "5637425000",
     "provider_id": "160104",
     "raw_ratings": {},
     "state": "IA",

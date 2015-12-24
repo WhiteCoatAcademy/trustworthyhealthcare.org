@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"99 BEAUVOIR AVENUE\",\"city\":\"SUMMIT\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.71234444400005",
-        "longitude": "-74.35404842799994",
-        "needs_recoding": false
+        "coordinates": [
+            -74.354008,
+            40.712418
+        ],
+        "type": "Point"
     },
+    "location_address": "99 BEAUVOIR AVENUE",
+    "location_city": "SUMMIT",
+    "location_state": "NJ",
+    "location_zip": "07902",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.atlantichealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9085222000"
-    },
+    "phone_number": "9085222000",
     "provider_id": "310051",
     "raw_ratings": {},
     "state": "NJ",

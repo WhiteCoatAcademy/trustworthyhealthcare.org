@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1125 MADISON ST\",\"city\":\"JEFFERSON CITY\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.56696862100006",
-        "longitude": "-92.18165929399999",
-        "needs_recoding": false
+        "coordinates": [
+            -92.180876,
+            38.567645
+        ],
+        "type": "Point"
     },
+    "location_address": "1125 MADISON ST",
+    "location_city": "JEFFERSON CITY",
+    "location_state": "MO",
+    "location_zip": "65102",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5736325000"
-    },
+    "phone_number": "5736325000",
     "provider_id": "260047",
     "raw_ratings": {},
     "state": "MO",

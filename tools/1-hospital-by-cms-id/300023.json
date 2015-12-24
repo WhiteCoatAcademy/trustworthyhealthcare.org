@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5 ALUMNI DRIVE\",\"city\":\"EXETER\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "42.98183971000003",
-        "longitude": "-70.93615039799994",
-        "needs_recoding": false
+        "coordinates": [
+            -70.936054,
+            42.981779
+        ],
+        "type": "Point"
     },
+    "location_address": "5 ALUMNI DRIVE",
+    "location_city": "EXETER",
+    "location_state": "NH",
+    "location_zip": "03833",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6037787311"
-    },
+    "phone_number": "6037787311",
     "provider_id": "300023",
     "raw_ratings": {},
     "state": "NH",

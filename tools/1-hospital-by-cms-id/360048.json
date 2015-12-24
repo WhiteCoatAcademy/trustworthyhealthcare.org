@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3000 ARLINGTON AVENUE\",\"city\":\"TOLEDO\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.62118501200007",
-        "longitude": "-83.61618687499998",
-        "needs_recoding": false
+        "coordinates": [
+            -83.615267,
+            41.621355
+        ],
+        "type": "Point"
     },
+    "location_address": "3000 ARLINGTON AVENUE",
+    "location_city": "TOLEDO",
+    "location_state": "OH",
+    "location_zip": "43699",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4193833407"
-    },
+    "phone_number": "4193833407",
     "provider_id": "360048",
     "raw_ratings": {},
     "state": "OH",

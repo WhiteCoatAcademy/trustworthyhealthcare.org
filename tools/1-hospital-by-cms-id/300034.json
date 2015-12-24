@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 MCGREGOR STREET\",\"city\":\"MANCHESTER\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "42.99159726000005",
-        "longitude": "-71.47356883099997",
-        "needs_recoding": false
+        "coordinates": [
+            -71.47341,
+            42.992054
+        ],
+        "type": "Point"
     },
+    "location_address": "100 MCGREGOR STREET",
+    "location_city": "MANCHESTER",
+    "location_state": "NH",
+    "location_zip": "03102",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6036683545"
-    },
+    "phone_number": "6036683545",
     "provider_id": "300034",
     "raw_ratings": {},
     "state": "NH",

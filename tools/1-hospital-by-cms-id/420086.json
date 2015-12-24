@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"TAYLOR AT MARION ST\",\"city\":\"COLUMBIA\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.007634041000074",
-        "longitude": "-81.03274796399995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.032688,
+            34.007556
+        ],
+        "type": "Point"
     },
+    "location_address": "TAYLOR AT MARION ST",
+    "location_city": "COLUMBIA",
+    "location_state": "SC",
+    "location_zip": "29220",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.palmettohealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8032965678"
-    },
+    "phone_number": "8032965678",
     "provider_id": "420086",
     "raw_ratings": {},
     "state": "SC",

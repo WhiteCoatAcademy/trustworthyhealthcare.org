@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"13695 US HWY 1\",\"city\":\"SEBASTIAN\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.843141529000036",
-        "longitude": "-80.48778951799994",
-        "needs_recoding": false
+        "coordinates": [
+            -80.488128,
+            27.844359
+        ],
+        "type": "Point"
     },
+    "location_address": "13695 US HWY 1",
+    "location_city": "SEBASTIAN",
+    "location_state": "FL",
+    "location_zip": "32978",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7725893187"
-    },
+    "phone_number": "7725893187",
     "provider_id": "100217",
     "raw_ratings": {},
     "state": "FL",

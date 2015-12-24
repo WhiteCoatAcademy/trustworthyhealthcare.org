@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"555 SOUTH 70TH ST\",\"city\":\"LINCOLN\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.80877091700006",
-        "longitude": "-96.62517715499996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.625179,
+            40.807658
+        ],
+        "type": "Point"
     },
+    "location_address": "555 SOUTH 70TH ST",
+    "location_city": "LINCOLN",
+    "location_state": "NE",
+    "location_zip": "68510",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4022197700"
-    },
+    "phone_number": "4022197700",
     "provider_id": "280020",
     "raw_ratings": {},
     "state": "NE",

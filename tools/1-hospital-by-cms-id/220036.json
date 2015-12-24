@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"736 CAMBRIDGE STREET\",\"city\":\"BRIGHTON\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.349683596000034",
-        "longitude": "-71.14828982299997",
-        "needs_recoding": false
+        "coordinates": [
+            -71.148469,
+            42.349624
+        ],
+        "type": "Point"
     },
+    "location_address": "736 CAMBRIDGE STREET",
+    "location_city": "BRIGHTON",
+    "location_state": "MA",
+    "location_zip": "02135",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.caritaschristi.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6177893000"
-    },
+    "phone_number": "6177893000",
     "provider_id": "220036",
     "raw_ratings": {},
     "state": "MA",

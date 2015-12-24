@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"101 CITY DRIVE SOUTH\",\"city\":\"ORANGE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.780122808000044",
-        "longitude": "-117.89432157599998",
-        "needs_recoding": false
+        "coordinates": [
+            -117.894303,
+            33.780112
+        ],
+        "type": "Point"
     },
+    "location_address": "101 CITY DRIVE SOUTH",
+    "location_city": "ORANGE",
+    "location_state": "CA",
+    "location_zip": "92868",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7144566112"
-    },
+    "phone_number": "7144566112",
     "provider_id": "050348",
     "raw_ratings": {},
     "state": "CA",

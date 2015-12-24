@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1305 N ELM ST\",\"city\":\"HENDERSON\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.824252702000024",
-        "longitude": "-87.60472102699998",
-        "needs_recoding": false
+        "coordinates": [
+            -87.581257,
+            37.853858
+        ],
+        "type": "Point"
     },
+    "location_address": "1305 N ELM ST",
+    "location_city": "HENDERSON",
+    "location_state": "KY",
+    "location_zip": "42420",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2708277700"
-    },
+    "phone_number": "2708277700",
     "provider_id": "180056",
     "raw_ratings": {},
     "state": "KY",

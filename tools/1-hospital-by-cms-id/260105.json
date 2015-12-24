@@ -4,15 +4,20 @@
     "county_name": "SAINT LOUIS CITY",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "ST LOUIS UNIVERSITY HOSPITAL",
+    "hospital_name": "SSM HEALTH SAINT LOUIS UNIVERSITY HOSPITAL",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3635 VISTA AVE\",\"city\":\"SAINT LOUIS\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.62255815200007",
-        "longitude": "-90.23931545299996",
-        "needs_recoding": false
+        "coordinates": [
+            -90.23945,
+            38.622548
+        ],
+        "type": "Point"
     },
+    "location_address": "3635 VISTA AVE",
+    "location_city": "SAINT LOUIS",
+    "location_state": "MO",
+    "location_zip": "63110",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3145778000"
-    },
+    "phone_number": "3145778000",
     "provider_id": "260105",
     "raw_ratings": {},
     "state": "MO",

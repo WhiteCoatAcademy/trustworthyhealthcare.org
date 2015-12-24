@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"615 S BOWER STREET\",\"city\":\"GREENVILLE\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.17501388800008",
-        "longitude": "-85.26873121499995",
-        "needs_recoding": false
+        "coordinates": [
+            -85.26875,
+            43.175103
+        ],
+        "type": "Point"
     },
+    "location_address": "615 S BOWER STREET",
+    "location_city": "GREENVILLE",
+    "location_state": "MI",
+    "location_zip": "48838",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.spectrum-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6167544691"
-    },
+    "phone_number": "6167544691",
     "provider_id": "230035",
     "raw_ratings": {},
     "state": "MI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2855 OLD HIGHWAY 5 NORTH\",\"city\":\"BLUE RIDGE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "34.91685094700006",
-        "longitude": "-84.37540860599995",
-        "needs_recoding": false
+        "coordinates": [
+            -84.375025,
+            34.916425
+        ],
+        "type": "Point"
     },
+    "location_address": "2855 OLD HIGHWAY 5 NORTH",
+    "location_city": "BLUE RIDGE",
+    "location_state": "GA",
+    "location_zip": "30513",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "7066323711"
-    },
+    "phone_number": "7066323711",
     "provider_id": "110189",
     "raw_ratings": {},
     "state": "GA",

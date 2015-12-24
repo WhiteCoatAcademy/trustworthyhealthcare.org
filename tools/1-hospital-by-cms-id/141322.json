@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 STAHLHUT DRIVE\",\"city\":\"LINCOLN\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "40.15221334600005",
-        "longitude": "-89.38978924199995",
-        "needs_recoding": false
+        "coordinates": [
+            -89.388279,
+            40.152375
+        ],
+        "type": "Point"
     },
+    "location_address": "200 STAHLHUT DRIVE",
+    "location_city": "LINCOLN",
+    "location_state": "IL",
+    "location_zip": "62656",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2177322161"
-    },
+    "phone_number": "2177322161",
     "provider_id": "141322",
     "raw_ratings": {},
     "state": "IL",

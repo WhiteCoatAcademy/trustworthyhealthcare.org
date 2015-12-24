@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"429 WEST ELM STREET\",\"city\":\"HOBART\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.036838052000064",
-        "longitude": "-99.09834035599994",
-        "needs_recoding": false
+        "coordinates": [
+            -99.097454,
+            35.036817
+        ],
+        "type": "Point"
     },
+    "location_address": "429 WEST ELM STREET",
+    "location_city": "HOBART",
+    "location_state": "OK",
+    "location_zip": "73651",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5807263324"
-    },
+    "phone_number": "5807263324",
     "provider_id": "370153",
     "raw_ratings": {},
     "state": "OK",

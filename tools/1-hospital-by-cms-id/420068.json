@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3000 ST MATTHEWS RD BOX 1806\",\"city\":\"ORANGEBURG\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "33.54077756700008",
-        "longitude": "-80.83285182999998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.832814,
+            33.540783
+        ],
+        "type": "Point"
     },
+    "location_address": "3000 ST MATTHEWS RD BOX 1806",
+    "location_city": "ORANGEBURG",
+    "location_state": "SC",
+    "location_zip": "29115",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8035332460"
-    },
+    "phone_number": "8035332460",
     "provider_id": "420068",
     "raw_ratings": {},
     "state": "SC",

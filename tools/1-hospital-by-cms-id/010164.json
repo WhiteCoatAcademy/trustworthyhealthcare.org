@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"315 W HICKORY ST\",\"city\":\"SYLACAUGA\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "33.164645473000064",
-        "longitude": "-86.25412046599996",
-        "needs_recoding": false
+        "coordinates": [
+            -86.25381,
+            33.164663
+        ],
+        "type": "Point"
     },
+    "location_address": "315 W HICKORY ST",
+    "location_city": "SYLACAUGA",
+    "location_state": "AL",
+    "location_zip": "35150",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2562495000"
-    },
+    "phone_number": "2562495000",
     "provider_id": "010164",
     "raw_ratings": {},
     "state": "AL",

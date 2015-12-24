@@ -4,15 +4,20 @@
     "county_name": "HOUSTON",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "EAST TEXAS MEDICAL CENTER CROCKETT",
-    "hospital_ownership": "Voluntary non-profit - Private",
+    "hospital_name": "HOUSTON COUNTY MEDICAL CENTER",
+    "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1100 LOOP 304 EAST\",\"city\":\"CROCKETT\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.323752786000057",
-        "longitude": "-95.43728061399997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.436691,
+            31.317869
+        ],
+        "type": "Point"
     },
+    "location_address": "1100 LOOP 304 EAST",
+    "location_city": "CROCKETT",
+    "location_state": "TX",
+    "location_zip": "75835",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.etmc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9365463862"
-    },
+    "phone_number": "9365463890",
     "provider_id": "450580",
     "raw_ratings": {},
     "state": "TX",

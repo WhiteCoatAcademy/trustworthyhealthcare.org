@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"109 COURT AVE SOUTH\",\"city\":\"SANDSTONE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "46.127530464000074",
-        "longitude": "-92.86617107299998",
-        "needs_recoding": false
+        "coordinates": [
+            -92.866154,
+            46.127486
+        ],
+        "type": "Point"
     },
+    "location_address": "109 COURT AVE SOUTH",
+    "location_city": "SANDSTONE",
+    "location_state": "MN",
+    "location_zip": "55072",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.smdc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3202455601"
-    },
+    "phone_number": "3202455601",
     "provider_id": "241309",
     "raw_ratings": {},
     "state": "MN",

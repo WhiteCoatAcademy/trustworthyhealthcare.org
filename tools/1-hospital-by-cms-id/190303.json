@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"42570 SOUTH AIRPORT RD\",\"city\":\"HAMMOND\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.476678454000023",
-        "longitude": "-90.41426185099994",
-        "needs_recoding": false
+        "coordinates": [
+            -90.414266,
+            30.477189
+        ],
+        "type": "Point"
     },
+    "location_address": "42570 SOUTH AIRPORT RD",
+    "location_city": "HAMMOND",
+    "location_state": "LA",
+    "location_zip": "70403",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9855106200"
-    },
+    "phone_number": "9855106200",
     "provider_id": "190303",
     "raw_ratings": {},
     "state": "LA",

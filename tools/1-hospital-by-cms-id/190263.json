@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1105 KALISTE SALOOM ROAD\",\"city\":\"LAFAYETTE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.17572692500005",
-        "longitude": "-92.02805555599997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.028537,
+            30.174353
+        ],
+        "type": "Point"
     },
+    "location_address": "1105 KALISTE SALOOM ROAD",
+    "location_city": "LAFAYETTE",
+    "location_state": "LA",
+    "location_zip": "70508",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3375211000"
-    },
+    "phone_number": "3375211000",
     "provider_id": "190263",
     "raw_ratings": {},
     "state": "LA",

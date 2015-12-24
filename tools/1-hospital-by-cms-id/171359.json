@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"506 3RD STREET\",\"city\":\"TRIBUNE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.47004210000006",
-        "longitude": "-101.74974567899994",
-        "needs_recoding": false
+        "coordinates": [
+            -101.749768,
+            38.470759
+        ],
+        "type": "Point"
     },
+    "location_address": "506 3RD STREET",
+    "location_city": "TRIBUNE",
+    "location_state": "KS",
+    "location_zip": "67879",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6203764221"
-    },
+    "phone_number": "6203764221",
     "provider_id": "171359",
     "raw_ratings": {},
     "state": "KS",

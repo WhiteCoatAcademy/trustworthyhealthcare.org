@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"415 N MAIN STREET\",\"city\":\"ULYSSES\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.58383871600006",
-        "longitude": "-101.35806210499999",
-        "needs_recoding": false
+        "coordinates": [
+            -101.358015,
+            37.583878
+        ],
+        "type": "Point"
     },
+    "location_address": "415 N MAIN STREET",
+    "location_city": "ULYSSES",
+    "location_state": "KS",
+    "location_zip": "67880",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6203561266"
-    },
+    "phone_number": "6203561266",
     "provider_id": "170110",
     "raw_ratings": {},
     "state": "KS",

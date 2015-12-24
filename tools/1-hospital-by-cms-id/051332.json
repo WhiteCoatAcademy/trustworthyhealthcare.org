@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"768 MOUNTAIN RANCH RD\",\"city\":\"SAN ANDREAS\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.19056539500008",
-        "longitude": "-120.67095028399996",
-        "needs_recoding": false
+        "coordinates": [
+            -120.671186,
+            38.190208
+        ],
+        "type": "Point"
     },
+    "location_address": "768 MOUNTAIN RANCH RD",
+    "location_city": "SAN ANDREAS",
+    "location_state": "CA",
+    "location_zip": "95249",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2097542515"
-    },
+    "phone_number": "2097542515",
     "provider_id": "051332",
     "raw_ratings": {},
     "state": "CA",

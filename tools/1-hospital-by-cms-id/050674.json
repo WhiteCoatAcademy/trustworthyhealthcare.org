@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6600 BRUCEVILLE ROAD\",\"city\":\"SACRAMENTO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.47142457500007",
-        "longitude": "-121.42425612799997",
-        "needs_recoding": false
+        "coordinates": [
+            -121.42385,
+            38.471685
+        ],
+        "type": "Point"
     },
+    "location_address": "6600 BRUCEVILLE ROAD",
+    "location_city": "SACRAMENTO",
+    "location_state": "CA",
+    "location_zip": "95823",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9166882000"
-    },
+    "phone_number": "9166882000",
     "provider_id": "050674",
     "raw_ratings": {},
     "state": "CA",

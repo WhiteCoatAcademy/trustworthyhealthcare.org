@@ -1,5 +1,5 @@
 {
-    "address": "710 KENWOOD AVENUE SOUTH",
+    "address": "4572 COUNTY ROAD 61",
     "city": "MOOSE LAKE",
     "county_name": "CARLTON",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"710 KENWOOD AVENUE SOUTH\",\"city\":\"MOOSE LAKE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "46.443253706000064",
-        "longitude": "-92.77245780199996",
-        "needs_recoding": false
+        "coordinates": [
+            -92.782231,
+            46.437863
+        ],
+        "type": "Point"
     },
+    "location_address": "4572 COUNTY ROAD 61",
+    "location_city": "MOOSE LAKE",
+    "location_state": "MN",
+    "location_zip": "55767",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2184854481"
-    },
+    "phone_number": "2184854481",
     "provider_id": "241350",
     "raw_ratings": {},
     "state": "MN",

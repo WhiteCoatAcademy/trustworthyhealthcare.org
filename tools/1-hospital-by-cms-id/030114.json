@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1551 EAST TANGERINE ROAD\",\"city\":\"ORO VALLEY\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "32.42733801900005",
-        "longitude": "-110.94721047299998",
-        "needs_recoding": false
+        "coordinates": [
+            -110.951521,
+            32.426782
+        ],
+        "type": "Point"
     },
+    "location_address": "1551 EAST TANGERINE ROAD",
+    "location_city": "ORO VALLEY",
+    "location_state": "AZ",
+    "location_zip": "85755",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "5209013500"
-    },
+    "phone_number": "5209013549",
     "provider_id": "030114",
     "raw_ratings": {},
     "state": "AZ",

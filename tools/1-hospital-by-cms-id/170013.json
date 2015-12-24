@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2220 CANTERBURY DRIVE\",\"city\":\"HAYS\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.87884982600008",
-        "longitude": "-99.29923492899997",
-        "needs_recoding": false
+        "coordinates": [
+            -99.299245,
+            38.880328
+        ],
+        "type": "Point"
     },
+    "location_address": "2220 CANTERBURY DRIVE",
+    "location_city": "HAYS",
+    "location_state": "KS",
+    "location_zip": "67601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7856235000"
-    },
+    "phone_number": "7856235000",
     "provider_id": "170013",
     "raw_ratings": {},
     "state": "KS",

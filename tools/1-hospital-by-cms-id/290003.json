@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3186 S MARYLAND PKWY\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "36.131860679000056",
-        "longitude": "-115.13686566999996",
-        "needs_recoding": false
+        "coordinates": [
+            -115.13688,
+            36.131699
+        ],
+        "type": "Point"
     },
+    "location_address": "3186 S MARYLAND PKWY",
+    "location_city": "LAS VEGAS",
+    "location_state": "NV",
+    "location_zip": "89109",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7027318000"
-    },
+    "phone_number": "7027318000",
     "provider_id": "290003",
     "raw_ratings": {},
     "state": "NV",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4200 NELSON ROAD\",\"city\":\"LAKE CHARLES\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.18131952400006",
-        "longitude": "-93.24940280199996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.24934,
+            30.181139
+        ],
+        "type": "Point"
     },
+    "location_address": "4200 NELSON ROAD",
+    "location_city": "LAKE CHARLES",
+    "location_state": "LA",
+    "location_zip": "70605",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "3374746370"
-    },
+    "phone_number": "3374746370",
     "provider_id": "190201",
     "raw_ratings": {},
     "state": "LA",

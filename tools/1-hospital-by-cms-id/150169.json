@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7150 CLEARVISTA DR\",\"city\":\"INDIANAPOLIS\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.900270040000066",
-        "longitude": "-86.04327078999995",
-        "needs_recoding": false
+        "coordinates": [
+            -86.040966,
+            39.899656
+        ],
+        "type": "Point"
     },
+    "location_address": "7150 CLEARVISTA DR",
+    "location_city": "INDIANAPOLIS",
+    "location_state": "IN",
+    "location_zip": "46256",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3176215335"
-    },
+    "phone_number": "3176215335",
     "provider_id": "150169",
     "raw_ratings": {},
     "state": "IN",

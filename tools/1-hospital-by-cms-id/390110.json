@@ -4,15 +4,20 @@
     "county_name": "CAMBRIA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "CONEMAUGH VALLEY MEMORIAL HOSPITAL",
+    "hospital_name": "MEMORIAL MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1086 FRANKLIN STREET\",\"city\":\"JOHNSTOWN\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.30490716300005",
-        "longitude": "-78.91885363499995",
-        "needs_recoding": false
+        "coordinates": [
+            -78.918335,
+            40.305149
+        ],
+        "type": "Point"
     },
+    "location_address": "1086 FRANKLIN STREET",
+    "location_city": "JOHNSTOWN",
+    "location_state": "PA",
+    "location_zip": "15905",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.conemaugh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8145349000"
-    },
+    "phone_number": "8145349000",
     "provider_id": "390110",
     "raw_ratings": {},
     "state": "PA",

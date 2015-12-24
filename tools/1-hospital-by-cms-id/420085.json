@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"809 82ND PARKWAY\",\"city\":\"MYRTLE BEACH\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "33.75454756000005",
-        "longitude": "-78.81706233499995",
-        "needs_recoding": false
+        "coordinates": [
+            -78.816423,
+            33.757825
+        ],
+        "type": "Point"
     },
+    "location_address": "809 82ND PARKWAY",
+    "location_city": "MYRTLE BEACH",
+    "location_state": "SC",
+    "location_zip": "29572",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8436921000"
-    },
+    "phone_number": "8436921000",
     "provider_id": "420085",
     "raw_ratings": {},
     "state": "SC",

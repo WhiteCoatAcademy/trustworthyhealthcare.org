@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "TULSA SPINE & SPECIALTY HOSPITAL",
-    "hospital_ownership": "Physician",
+    "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6901 SOUTH OLYMPIA AVENUE\",\"city\":\"TULSA\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.06480824800008",
-        "longitude": "-96.00421133299994",
-        "needs_recoding": false
+        "coordinates": [
+            -96.004542,
+            36.064258
+        ],
+        "type": "Point"
     },
+    "location_address": "6901 SOUTH OLYMPIA AVENUE",
+    "location_city": "TULSA",
+    "location_state": "OK",
+    "location_zip": "74132",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9183885701"
-    },
+    "phone_number": "9183885701",
     "provider_id": "370216",
     "raw_ratings": {},
     "state": "OK",

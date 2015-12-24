@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1144 N ROAD ST\",\"city\":\"ELIZABETH CITY\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "36.32132558200004",
-        "longitude": "-76.21983855099995",
-        "needs_recoding": false
+        "coordinates": [
+            -76.22002,
+            36.32153
+        ],
+        "type": "Point"
     },
+    "location_address": "1144 N ROAD ST",
+    "location_city": "ELIZABETH CITY",
+    "location_state": "NC",
+    "location_zip": "27909",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2523350531"
-    },
+    "phone_number": "2523350531",
     "provider_id": "340109",
     "raw_ratings": {},
     "state": "NC",

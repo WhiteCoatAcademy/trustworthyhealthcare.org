@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3630 EAST IMPERIAL HIGHWAY\",\"city\":\"LYNWOOD\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.93085492000006",
-        "longitude": "-118.20414767899996",
-        "needs_recoding": false
+        "coordinates": [
+            -118.203856,
+            33.931007
+        ],
+        "type": "Point"
     },
+    "location_address": "3630 EAST IMPERIAL HIGHWAY",
+    "location_city": "LYNWOOD",
+    "location_state": "CA",
+    "location_zip": "90262",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.dochs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3109008900"
-    },
+    "phone_number": "3109008900",
     "provider_id": "050104",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10501 GOLF COURSE ROAD NW\",\"city\":\"ALBUQUERQUE\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "35.20723172500004",
-        "longitude": "-106.67577437799997",
-        "needs_recoding": false
+        "coordinates": [
+            -106.676523,
+            35.208049
+        ],
+        "type": "Point"
     },
+    "location_address": "10501 GOLF COURSE ROAD NW",
+    "location_city": "ALBUQUERQUE",
+    "location_state": "NM",
+    "location_zip": "87114",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ardenthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5057272001"
-    },
+    "phone_number": "5057272001",
     "provider_id": "320074",
     "raw_ratings": {},
     "state": "NM",

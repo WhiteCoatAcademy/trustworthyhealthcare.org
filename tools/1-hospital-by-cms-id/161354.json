@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 E 2ND ST\",\"city\":\"IDA GROVE\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.34507254000005",
-        "longitude": "-95.47438063099997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.460265,
+            42.340656
+        ],
+        "type": "Point"
     },
+    "location_address": "701 E 2ND ST",
+    "location_city": "IDA GROVE",
+    "location_state": "IA",
+    "location_zip": "51445",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7123643311"
-    },
+    "phone_number": "7123643311",
     "provider_id": "161354",
     "raw_ratings": {},
     "state": "IA",

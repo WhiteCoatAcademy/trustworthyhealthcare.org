@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 WOODLAND HILLS BLVD\",\"city\":\"FORT SCOTT\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.80538012900007",
-        "longitude": "-94.70625447899994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.705344,
+            37.808317
+        ],
+        "type": "Point"
     },
+    "location_address": "401 WOODLAND HILLS BLVD",
+    "location_city": "FORT SCOTT",
+    "location_state": "KS",
+    "location_zip": "66701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mercy.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "6202237057"
-    },
+    "phone_number": "6202237057",
     "provider_id": "170058",
     "raw_ratings": {},
     "state": "KS",

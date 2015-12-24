@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2 SOUTH HOSPITAL DRIVE\",\"city\":\"MURPHYSBORO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "37.77317824200003",
-        "longitude": "-89.32548271599995",
-        "needs_recoding": false
+        "coordinates": [
+            -89.32635,
+            37.773205
+        ],
+        "type": "Point"
     },
+    "location_address": "2 SOUTH HOSPITAL DRIVE",
+    "location_city": "MURPHYSBORO",
+    "location_state": "IL",
+    "location_zip": "62966",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sih.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "6186843156"
-    },
+    "phone_number": "6186843156",
     "provider_id": "141334",
     "raw_ratings": {},
     "state": "IL",

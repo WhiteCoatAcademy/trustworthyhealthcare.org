@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3001 SOUTH HANOVER STREET\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.25186073300006",
-        "longitude": "-76.61537594099997",
-        "needs_recoding": false
+        "coordinates": [
+            -76.615045,
+            39.251345
+        ],
+        "type": "Point"
     },
+    "location_address": "3001 SOUTH HANOVER STREET",
+    "location_city": "BALTIMORE",
+    "location_state": "MD",
+    "location_zip": "21225",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.medstarhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4103503201"
-    },
+    "phone_number": "4103503201",
     "provider_id": "210034",
     "raw_ratings": {},
     "state": "MD",

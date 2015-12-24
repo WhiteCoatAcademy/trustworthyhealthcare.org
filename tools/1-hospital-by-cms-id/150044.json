@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1850 STATE ST\",\"city\":\"NEW ALBANY\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "38.30044238000005",
-        "longitude": "-85.83499015399997",
-        "needs_recoding": false
+        "coordinates": [
+            -85.834777,
+            38.300212
+        ],
+        "type": "Point"
     },
+    "location_address": "1850 STATE ST",
+    "location_city": "NEW ALBANY",
+    "location_state": "IN",
+    "location_zip": "47150",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8129495500"
-    },
+    "phone_number": "8129495500",
     "provider_id": "150044",
     "raw_ratings": {},
     "state": "IN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 HOSPITAL ROAD\",\"city\":\"PRINCE FREDERICK\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "38.55905721500005",
-        "longitude": "-76.59657007499999",
-        "needs_recoding": false
+        "coordinates": [
+            -76.595602,
+            38.560214
+        ],
+        "type": "Point"
     },
+    "location_address": "100 HOSPITAL ROAD",
+    "location_city": "PRINCE FREDERICK",
+    "location_state": "MD",
+    "location_zip": "20678",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4105358239"
-    },
+    "phone_number": "4105358239",
     "provider_id": "210039",
     "raw_ratings": {},
     "state": "MD",

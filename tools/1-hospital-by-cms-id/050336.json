@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"975 S FAIRMONT AVENUE\",\"city\":\"LODI\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.12144922700003",
-        "longitude": "-121.28585395199997",
-        "needs_recoding": false
+        "coordinates": [
+            -121.285788,
+            38.121894
+        ],
+        "type": "Point"
     },
+    "location_address": "975 S FAIRMONT AVENUE",
+    "location_city": "LODI",
+    "location_state": "CA",
+    "location_zip": "95240",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2093343411"
-    },
+    "phone_number": "2093343411",
     "provider_id": "050336",
     "raw_ratings": {},
     "state": "CA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"900 CEDAR STREET\",\"city\":\"JULESBURG\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "40.99338000600005",
-        "longitude": "-102.26883071099996",
-        "needs_recoding": false
+        "coordinates": [
+            -102.268793,
+            40.993249
+        ],
+        "type": "Point"
     },
+    "location_address": "900 CEDAR STREET",
+    "location_city": "JULESBURG",
+    "location_state": "CO",
+    "location_zip": "80737",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9704743323"
-    },
+    "phone_number": "9704743323",
     "provider_id": "061310",
     "raw_ratings": {},
     "state": "CO",

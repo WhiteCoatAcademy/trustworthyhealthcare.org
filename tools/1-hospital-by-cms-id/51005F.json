@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"510 BUTLER AVE.\",\"city\":\"MARTINSBURG\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "39.41721220000005",
-        "longitude": "-77.91099657599995",
-        "needs_recoding": false
+        "coordinates": [
+            -77.915712,
+            39.413517
+        ],
+        "type": "Point"
     },
+    "location_address": "510 BUTLER AVE.",
+    "location_city": "MARTINSBURG",
+    "location_state": "WV",
+    "location_zip": "25401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "3042630811"
-    },
+    "phone_number": "3042630811",
     "provider_id": "51005F",
     "raw_ratings": {},
     "state": "WV",

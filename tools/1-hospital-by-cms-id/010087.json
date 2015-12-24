@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2451 FILLINGIM STREET\",\"city\":\"MOBILE\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "30.708153140000036",
-        "longitude": "-88.09899576799995",
-        "needs_recoding": false
+        "coordinates": [
+            -88.098946,
+            30.708197
+        ],
+        "type": "Point"
     },
+    "location_address": "2451 FILLINGIM STREET",
+    "location_city": "MOBILE",
+    "location_state": "AL",
+    "location_zip": "36617",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.usahealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2514717110"
-    },
+    "phone_number": "2514717110",
     "provider_id": "010087",
     "raw_ratings": {},
     "state": "AL",

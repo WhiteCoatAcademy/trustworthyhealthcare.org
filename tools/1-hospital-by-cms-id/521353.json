@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1110 7TH AVENUE\",\"city\":\"CUMBERLAND\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "45.53092319600006",
-        "longitude": "-92.02964221099995",
-        "needs_recoding": false
+        "coordinates": [
+            -92.029673,
+            45.53091
+        ],
+        "type": "Point"
     },
+    "location_address": "1110 7TH AVENUE",
+    "location_city": "CUMBERLAND",
+    "location_state": "WI",
+    "location_zip": "54829",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7158222741"
-    },
+    "phone_number": "7158222741",
     "provider_id": "521353",
     "raw_ratings": {},
     "state": "WI",

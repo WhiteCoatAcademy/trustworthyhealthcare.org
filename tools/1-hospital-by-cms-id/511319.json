@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 SOUTH PRESTON STREET\",\"city\":\"RANSON\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "39.296144076000076",
-        "longitude": "-77.85840916699993",
-        "needs_recoding": false
+        "coordinates": [
+            -77.858102,
+            39.29569
+        ],
+        "type": "Point"
     },
+    "location_address": "300 SOUTH PRESTON STREET",
+    "location_city": "RANSON",
+    "location_state": "WV",
+    "location_zip": "25438",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wvunitedhealthsystem.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3047281600"
-    },
+    "phone_number": "3047281600",
     "provider_id": "511319",
     "raw_ratings": {},
     "state": "WV",

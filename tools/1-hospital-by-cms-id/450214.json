@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10141 US 59 NORTH\",\"city\":\"WHARTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.33087321200003",
-        "longitude": "-96.11852293499999",
-        "needs_recoding": false
+        "coordinates": [
+            -96.120493,
+            29.328013
+        ],
+        "type": "Point"
     },
+    "location_address": "10141 US 59 NORTH",
+    "location_city": "WHARTON",
+    "location_state": "TX",
+    "location_zip": "77488",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.signaturehospital.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9795322500"
-    },
+    "phone_number": "9795322500",
     "provider_id": "450214",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3421 WEST NINTH STREET\",\"city\":\"WATERLOO\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.463908160000074",
-        "longitude": "-92.34566390599997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.346249,
+            42.463521
+        ],
+        "type": "Point"
     },
+    "location_address": "3421 WEST NINTH STREET",
+    "location_city": "WATERLOO",
+    "location_state": "IA",
+    "location_zip": "50702",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wfs-inc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3192728000"
-    },
+    "phone_number": "3192728000",
     "provider_id": "160067",
     "raw_ratings": {},
     "state": "IA",

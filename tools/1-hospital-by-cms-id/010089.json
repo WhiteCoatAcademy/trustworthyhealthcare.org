@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3400 HIGHWAY 78 EAST\",\"city\":\"JASPER\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "33.84104873800004",
-        "longitude": "-87.23655598599998",
-        "needs_recoding": false
+        "coordinates": [
+            -87.236879,
+            33.841142
+        ],
+        "type": "Point"
     },
+    "location_address": "3400 HIGHWAY 78 EAST",
+    "location_city": "JASPER",
+    "location_state": "AL",
+    "location_zip": "35502",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhsala.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2053874000"
-    },
+    "phone_number": "2053874000",
     "provider_id": "010089",
     "raw_ratings": {},
     "state": "AL",

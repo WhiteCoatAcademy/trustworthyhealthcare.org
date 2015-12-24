@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"13000 BRUCE B DOWNS BLVD.\",\"city\":\"TAMPA\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.064160704000074",
-        "longitude": "-82.42617181499998",
-        "needs_recoding": false
+        "coordinates": [
+            -82.426155,
+            28.064029
+        ],
+        "type": "Point"
     },
+    "location_address": "13000 BRUCE B DOWNS BLVD.",
+    "location_city": "TAMPA",
+    "location_state": "FL",
+    "location_zip": "33612",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "8139722000"
-    },
+    "phone_number": "8139722000",
     "provider_id": "10063F",
     "raw_ratings": {},
     "state": "FL",

@@ -4,15 +4,20 @@
     "county_name": "CLAIBORNE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "HOMER MEMORIAL HOSPITAL",
+    "hospital_name": "CLAIBORNE MEMORIAL MEDICAL CENTER",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"620 EAST COLLEGE STREET\",\"city\":\"HOMER\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.79392132100003",
-        "longitude": "-93.06241798199994",
-        "needs_recoding": false
+        "coordinates": [
+            -93.062497,
+            32.794636
+        ],
+        "type": "Point"
     },
+    "location_address": "620 EAST COLLEGE STREET",
+    "location_city": "HOMER",
+    "location_state": "LA",
+    "location_zip": "71040",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3189272024"
-    },
+    "phone_number": "3189272024",
     "provider_id": "190114",
     "raw_ratings": {},
     "state": "LA",

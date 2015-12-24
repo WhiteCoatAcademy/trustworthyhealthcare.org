@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11937 US HIGHWAY 271\",\"city\":\"TYLER\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.42428677700008",
-        "longitude": "-95.20790163399994",
-        "needs_recoding": false
+        "coordinates": [
+            -95.218309,
+            32.419948
+        ],
+        "type": "Point"
     },
+    "location_address": "11937 US HIGHWAY 271",
+    "location_city": "TYLER",
+    "location_state": "TX",
+    "location_zip": "75708",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9038777777"
-    },
+    "phone_number": "9038777777",
     "provider_id": "450690",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1202 HIGHWAY 60 WEST\",\"city\":\"SOCORRO\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "34.037131712000075",
-        "longitude": "-106.91304951799998",
-        "needs_recoding": false
+        "coordinates": [
+            -106.919358,
+            34.027937
+        ],
+        "type": "Point"
     },
+    "location_address": "1202 HIGHWAY 60 WEST",
+    "location_city": "SOCORRO",
+    "location_state": "NM",
+    "location_zip": "87801",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.phs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5758351140"
-    },
+    "phone_number": "5758351140",
     "provider_id": "321301",
     "raw_ratings": {},
     "state": "NM",

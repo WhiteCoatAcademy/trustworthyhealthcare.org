@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6051 US HIGHWAY 49\",\"city\":\"HATTIESBURG\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "31.31794643300003",
-        "longitude": "-89.32782430099996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.328827,
+            31.320677
+        ],
+        "type": "Point"
     },
+    "location_address": "6051 US HIGHWAY 49",
+    "location_city": "HATTIESBURG",
+    "location_state": "MS",
+    "location_zip": "39404",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6012887000"
-    },
+    "phone_number": "6012887000",
     "provider_id": "250078",
     "raw_ratings": {},
     "state": "MS",

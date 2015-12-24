@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4545 NORTH HUNT HIGHWAY\",\"city\":\"FLORENCE\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.073234281000055",
-        "longitude": "-111.48679916399999",
-        "needs_recoding": false
+        "coordinates": [
+            -111.487088,
+            33.075742
+        ],
+        "type": "Point"
     },
+    "location_address": "4545 NORTH HUNT HIGHWAY",
+    "location_city": "FLORENCE",
+    "location_state": "AZ",
+    "location_zip": "85132",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5208683333"
-    },
+    "phone_number": "5204242060",
     "provider_id": "030132",
     "raw_ratings": {},
     "state": "AZ",

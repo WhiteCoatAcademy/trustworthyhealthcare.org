@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2211 NE 139TH STREET\",\"city\":\"VANCOUVER\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "45.721842465000066",
-        "longitude": "-122.64814949799995",
-        "needs_recoding": false
+        "coordinates": [
+            -122.647983,
+            45.721874
+        ],
+        "type": "Point"
     },
+    "location_address": "2211 NE 139TH STREET",
+    "location_city": "VANCOUVER",
+    "location_state": "WA",
+    "location_zip": "98686",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.legacyhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3604871000"
-    },
+    "phone_number": "3604871000",
     "provider_id": "500150",
     "raw_ratings": {},
     "state": "WA",

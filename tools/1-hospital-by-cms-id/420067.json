@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"955 RIBAUT RD\",\"city\":\"BEAUFORT\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "32.417129955000064",
-        "longitude": "-80.68850779199994",
-        "needs_recoding": false
+        "coordinates": [
+            -80.688546,
+            32.416835
+        ],
+        "type": "Point"
     },
+    "location_address": "955 RIBAUT RD",
+    "location_city": "BEAUFORT",
+    "location_state": "SC",
+    "location_zip": "29902",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8435225200"
-    },
+    "phone_number": "8435225200",
     "provider_id": "420067",
     "raw_ratings": {},
     "state": "SC",

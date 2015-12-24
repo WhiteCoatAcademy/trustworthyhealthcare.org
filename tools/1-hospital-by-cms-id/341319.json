@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"90 HOSPITAL DRIVE PO BOX 1116\",\"city\":\"BREVARD\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.25628727000003",
-        "longitude": "-82.71521143499996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.715196,
+            35.256324
+        ],
+        "type": "Point"
     },
+    "location_address": "90 HOSPITAL DRIVE PO BOX 1116",
+    "location_city": "BREVARD",
+    "location_state": "NC",
+    "location_zip": "28712",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8288835302"
-    },
+    "phone_number": "8288835302",
     "provider_id": "341319",
     "raw_ratings": {},
     "state": "NC",

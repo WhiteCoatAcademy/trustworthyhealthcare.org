@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1395 S PINELLAS AVE\",\"city\":\"TARPON SPRINGS\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.132557848000033",
-        "longitude": "-82.75862009799994",
-        "needs_recoding": false
+        "coordinates": [
+            -82.758572,
+            28.133188
+        ],
+        "type": "Point"
     },
+    "location_address": "1395 S PINELLAS AVE",
+    "location_city": "TARPON SPRINGS",
+    "location_state": "FL",
+    "location_zip": "34689",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uch.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7279425000"
-    },
+    "phone_number": "7279425000",
     "provider_id": "100055",
     "raw_ratings": {},
     "state": "FL",

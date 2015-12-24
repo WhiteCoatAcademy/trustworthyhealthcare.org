@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"340 GETWELL DRIVE\",\"city\":\"MARKS\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "34.247444675000054",
-        "longitude": "-90.27715756799995",
-        "needs_recoding": false
+        "coordinates": [
+            -90.291191,
+            34.259648
+        ],
+        "type": "Point"
     },
+    "location_address": "340 GETWELL DRIVE",
+    "location_city": "MARKS",
+    "location_state": "MS",
+    "location_zip": "38646",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6623268031"
-    },
+    "phone_number": "6623268031",
     "provider_id": "251314",
     "raw_ratings": {},
     "state": "MS",

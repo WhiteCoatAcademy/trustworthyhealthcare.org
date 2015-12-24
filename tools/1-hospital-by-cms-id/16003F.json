@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"3600 30TH STREET\",\"city\":\"DES MOINES\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.627919993000035",
-        "longitude": "-93.65883733799996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.658728,
+            41.62738
+        ],
+        "type": "Point"
     },
+    "location_address": "3600 30TH STREET",
+    "location_city": "DES MOINES",
+    "location_state": "IA",
+    "location_zip": "50310",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "5156995999"
-    },
+    "phone_number": "5156995999",
     "provider_id": "16003F",
     "raw_ratings": {},
     "state": "IA",

@@ -1,5 +1,5 @@
 {
-    "address": "1111 AMSTERDAM AVENUE",
+    "address": "1000 TENTH AVENUE",
     "city": "NEW YORK",
     "county_name": "NEW YORK",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1111 AMSTERDAM AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.80584429900006",
-        "longitude": "-73.96172233799996",
-        "needs_recoding": false
+        "coordinates": [
+            -73.987858,
+            40.770114
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 TENTH AVENUE",
+    "location_city": "NEW YORK",
+    "location_state": "NY",
+    "location_zip": "10019",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,11 +33,9 @@
             "www.wehealny.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2125234000"
-    },
+    "phone_number": "2125234000",
     "provider_id": "330046",
     "raw_ratings": {},
     "state": "NY",
-    "zip_code": "10025"
+    "zip_code": "10019"
 }

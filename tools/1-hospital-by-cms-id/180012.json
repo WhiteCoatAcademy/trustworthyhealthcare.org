@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"913 NORTH DIXIE AVENUE\",\"city\":\"ELIZABETHTOWN\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.710407307000025",
-        "longitude": "-85.87524295099996",
-        "needs_recoding": false
+        "coordinates": [
+            -85.875052,
+            37.709923
+        ],
+        "type": "Point"
     },
+    "location_address": "913 NORTH DIXIE AVENUE",
+    "location_city": "ELIZABETHTOWN",
+    "location_state": "KY",
+    "location_zip": "42701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhsi.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2707371212"
-    },
+    "phone_number": "2707371212",
     "provider_id": "180012",
     "raw_ratings": {},
     "state": "KY",

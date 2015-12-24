@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"4815 N. ASSEMBLY STREET\",\"city\":\"SPOKANE\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.70192814500007",
-        "longitude": "-117.47561980599994",
-        "needs_recoding": false
+        "coordinates": [
+            -117.47557,
+            47.702481
+        ],
+        "type": "Point"
     },
+    "location_address": "4815 N. ASSEMBLY STREET",
+    "location_city": "SPOKANE",
+    "location_state": "WA",
+    "location_zip": "99205",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "5094347000"
-    },
+    "phone_number": "5094347000",
     "provider_id": "50011F",
     "raw_ratings": {},
     "state": "WA",

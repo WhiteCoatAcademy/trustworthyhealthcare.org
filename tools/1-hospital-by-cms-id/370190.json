@@ -1,18 +1,23 @@
 {
-    "address": "10109 EAST 79TH STREET SOUTH",
+    "address": "10109 EAST 79TH STREET",
     "city": "TULSA",
     "county_name": "TULSA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "SOUTHWESTERN REGIONAL MEDICAL CENTER",
+    "hospital_name": "SOUTHWESTERN REGIONAL MEDICAL CENTER, INC",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10109 EAST 79TH STREET SOUTH\",\"city\":\"TULSA\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "36.050044686000035",
-        "longitude": "-95.86364612299997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.864211,
+            36.046339
+        ],
+        "type": "Point"
     },
+    "location_address": "10109 EAST 79TH STREET",
+    "location_city": "TULSA",
+    "location_state": "OK",
+    "location_zip": "74133",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.cancercenter.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9184965000"
-    },
+    "phone_number": "9182865000",
     "provider_id": "370190",
     "raw_ratings": {},
     "state": "OK",

@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "ELLWOOD CITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"724 PERSHING STREET\",\"city\":\"ELLWOOD CITY\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.86947679300005",
-        "longitude": "-80.27451653399999",
-        "needs_recoding": false
+        "coordinates": [
+            -80.274487,
+            40.869596
+        ],
+        "type": "Point"
     },
+    "location_address": "724 PERSHING STREET",
+    "location_city": "ELLWOOD CITY",
+    "location_state": "PA",
+    "location_zip": "16117",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7247520081"
-    },
+    "phone_number": "7247520081",
     "provider_id": "390008",
     "raw_ratings": {},
     "state": "PA",

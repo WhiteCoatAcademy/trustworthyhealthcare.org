@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"50 ROUTE 25A\",\"city\":\"SMITHTOWN\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.90001435200003",
-        "longitude": "-73.27056224799998",
-        "needs_recoding": false
+        "coordinates": [
+            -73.18609,
+            40.858303
+        ],
+        "type": "Point"
     },
+    "location_address": "50 ROUTE 25A",
+    "location_city": "SMITHTOWN",
+    "location_state": "NY",
+    "location_zip": "11787",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chsli.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6318623000"
-    },
+    "phone_number": "6318623000",
     "provider_id": "330401",
     "raw_ratings": {},
     "state": "NY",

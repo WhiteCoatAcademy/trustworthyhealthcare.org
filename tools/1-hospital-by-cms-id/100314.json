@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9555 SW 162 AVE\",\"city\":\"MIAMI\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.677226784000027",
-        "longitude": "-80.45732550899999",
-        "needs_recoding": false
+        "coordinates": [
+            -80.457359,
+            25.677111
+        ],
+        "type": "Point"
     },
+    "location_address": "9555 SW 162 AVE",
+    "location_city": "MIAMI",
+    "location_state": "FL",
+    "location_zip": "33196",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7864672011"
-    },
+    "phone_number": "7864672011",
     "provider_id": "100314",
     "raw_ratings": {},
     "state": "FL",

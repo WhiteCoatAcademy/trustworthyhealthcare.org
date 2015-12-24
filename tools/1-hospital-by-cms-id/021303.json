@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"209 MOLLER DRIVE\",\"city\":\"SITKA\",\"state\":\"AK\",\"zip\":\"\"}",
-        "latitude": "57.058676569000056",
-        "longitude": "-135.345220021",
-        "needs_recoding": false
+        "coordinates": [
+            -135.344275,
+            57.058627
+        ],
+        "type": "Point"
     },
+    "location_address": "209 MOLLER DRIVE",
+    "location_city": "SITKA",
+    "location_state": "AK",
+    "location_zip": "99835",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9077473241"
-    },
+    "phone_number": "9077473241",
     "provider_id": "021303",
     "raw_ratings": {},
     "state": "AK",

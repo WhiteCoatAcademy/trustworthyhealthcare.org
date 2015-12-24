@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"127 NORTH STREET\",\"city\":\"BATAVIA\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.99836053700005",
-        "longitude": "-78.18823713399996",
-        "needs_recoding": false
+        "coordinates": [
+            -78.177592,
+            43.003997
+        ],
+        "type": "Point"
     },
+    "location_address": "127 NORTH STREET",
+    "location_city": "BATAVIA",
+    "location_state": "NY",
+    "location_zip": "14020",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5853436030"
-    },
+    "phone_number": "5853436030",
     "provider_id": "330073",
     "raw_ratings": {},
     "state": "NY",

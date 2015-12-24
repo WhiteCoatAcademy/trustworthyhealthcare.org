@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6001 WEBB RD\",\"city\":\"TAMPA\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.00238111400006",
-        "longitude": "-82.57511921899999",
-        "needs_recoding": false
+        "coordinates": [
+            -82.575153,
+            28.002662
+        ],
+        "type": "Point"
     },
+    "location_address": "6001 WEBB RD",
+    "location_city": "TAMPA",
+    "location_state": "FL",
+    "location_zip": "33615",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.iasishealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8138827159"
-    },
+    "phone_number": "8138827159",
     "provider_id": "100255",
     "raw_ratings": {},
     "state": "FL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"47111 MONROE STREET\",\"city\":\"INDIO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.706773361000046",
-        "longitude": "-116.23390938799997",
-        "needs_recoding": false
+        "coordinates": [
+            -116.233881,
+            33.706355
+        ],
+        "type": "Point"
     },
+    "location_address": "47111 MONROE STREET",
+    "location_city": "INDIO",
+    "location_state": "CA",
+    "location_zip": "92201",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7603476191"
-    },
+    "phone_number": "7603476191",
     "provider_id": "050534",
     "raw_ratings": {},
     "state": "CA",

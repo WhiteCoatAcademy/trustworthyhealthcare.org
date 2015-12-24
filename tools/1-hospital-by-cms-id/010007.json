@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"702 N MAIN ST\",\"city\":\"OPP\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "31.292159523000066",
-        "longitude": "-86.25539902199995",
-        "needs_recoding": false
+        "coordinates": [
+            -86.255415,
+            31.291972
+        ],
+        "type": "Point"
     },
+    "location_address": "702 N MAIN ST",
+    "location_city": "OPP",
+    "location_state": "AL",
+    "location_zip": "36467",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3344933541"
-    },
+    "phone_number": "3344933541",
     "provider_id": "010007",
     "raw_ratings": {},
     "state": "AL",

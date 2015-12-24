@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2415 PARKWOOD DRIVE\",\"city\":\"BRUNSWICK\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "31.173855565000054",
-        "longitude": "-81.48490346799997",
-        "needs_recoding": false
+        "coordinates": [
+            -81.484523,
+            31.173786
+        ],
+        "type": "Point"
     },
+    "location_address": "2415 PARKWOOD DRIVE",
+    "location_city": "BRUNSWICK",
+    "location_state": "GA",
+    "location_zip": "31520",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sghs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9124667000"
-    },
+    "phone_number": "9124667000",
     "provider_id": "110025",
     "raw_ratings": {},
     "state": "GA",

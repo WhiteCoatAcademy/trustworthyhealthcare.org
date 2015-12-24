@@ -4,15 +4,20 @@
     "county_name": "DODGE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "BEAVER DAM COM HOSPITAL",
+    "hospital_name": "BEAVER DAM COMMUNITY HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"707 S UNIVERSITY AVE\",\"city\":\"BEAVER DAM\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.44851604300004",
-        "longitude": "-88.82819426899994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.828099,
+            43.448085
+        ],
+        "type": "Point"
     },
+    "location_address": "707 S UNIVERSITY AVE",
+    "location_city": "BEAVER DAM",
+    "location_state": "WI",
+    "location_zip": "53916",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9208877181"
-    },
+    "phone_number": "9208877181",
     "provider_id": "520076",
     "raw_ratings": {},
     "state": "WI",

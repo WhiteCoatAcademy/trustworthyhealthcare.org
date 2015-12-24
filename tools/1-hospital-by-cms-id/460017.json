@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"950 SOUTH MEDICAL DRIVE\",\"city\":\"BRIGHAM CITY\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "41.49152653600004",
-        "longitude": "-112.02418016899998",
-        "needs_recoding": false
+        "coordinates": [
+            -112.024429,
+            41.49109
+        ],
+        "type": "Point"
     },
+    "location_address": "950 SOUTH MEDICAL DRIVE",
+    "location_city": "BRIGHAM CITY",
+    "location_state": "UT",
+    "location_zip": "84302",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4357349471"
-    },
+    "phone_number": "4357349471",
     "provider_id": "460017",
     "raw_ratings": {},
     "state": "UT",

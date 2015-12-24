@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1310 SOUTHERN AVENUE SE\",\"city\":\"WASHINGTON\",\"state\":\"DC\",\"zip\":\"\"}",
-        "latitude": "38.834824594000054",
-        "longitude": "-76.98391829999997",
-        "needs_recoding": false
+        "coordinates": [
+            -76.983834,
+            38.834841
+        ],
+        "type": "Point"
     },
+    "location_address": "1310 SOUTHERN AVENUE SE",
+    "location_city": "WASHINGTON",
+    "location_state": "DC",
+    "location_zip": "20032",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.specialty-hospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2025746611"
-    },
+    "phone_number": "2025746611",
     "provider_id": "090008",
     "raw_ratings": {},
     "state": "DC",

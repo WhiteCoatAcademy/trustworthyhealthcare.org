@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"110 NORTH MAIN STREET\",\"city\":\"GREENVILLE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "41.40195292000004",
-        "longitude": "-80.40002021199996",
-        "needs_recoding": false
+        "coordinates": [
+            -80.371781,
+            41.411218
+        ],
+        "type": "Point"
     },
+    "location_address": "110 NORTH MAIN STREET",
+    "location_city": "GREENVILLE",
+    "location_state": "PA",
+    "location_zip": "16125",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.upmc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7245882100"
-    },
+    "phone_number": "7245882100",
     "provider_id": "390178",
     "raw_ratings": {},
     "state": "PA",

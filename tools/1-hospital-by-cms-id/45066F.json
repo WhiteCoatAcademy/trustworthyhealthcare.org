@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"4500 S. LANCASTER ROAD\",\"city\":\"DALLAS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.694107631000065",
-        "longitude": "-96.79289965699996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.79282,
+            32.693825
+        ],
+        "type": "Point"
     },
+    "location_address": "4500 S. LANCASTER ROAD",
+    "location_city": "DALLAS",
+    "location_state": "TX",
+    "location_zip": "75216",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "2147428387"
-    },
+    "phone_number": "2147428387",
     "provider_id": "45066F",
     "raw_ratings": {},
     "state": "TX",

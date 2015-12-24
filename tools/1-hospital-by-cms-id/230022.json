@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"274 E CHICAGO ST\",\"city\":\"COLDWATER\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "41.938854278000065",
-        "longitude": "-84.98996341099996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.991153,
+            41.939038
+        ],
+        "type": "Point"
     },
+    "location_address": "274 E CHICAGO ST",
+    "location_city": "COLDWATER",
+    "location_state": "MI",
+    "location_zip": "49036",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5172795400"
-    },
+    "phone_number": "5172795400",
     "provider_id": "230022",
     "raw_ratings": {},
     "state": "MI",

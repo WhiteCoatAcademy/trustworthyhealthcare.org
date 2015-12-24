@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1362 SOUTH MAIN STREET\",\"city\":\"ELLIJAY\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "34.678381616000024",
-        "longitude": "-84.49293097999998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.490588,
+            34.688474
+        ],
+        "type": "Point"
     },
+    "location_address": "1362 SOUTH MAIN STREET",
+    "location_city": "ELLIJAY",
+    "location_state": "GA",
+    "location_zip": "30540",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sunlinkhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7062764741"
-    },
+    "phone_number": "7062764741",
     "provider_id": "110205",
     "raw_ratings": {},
     "state": "GA",

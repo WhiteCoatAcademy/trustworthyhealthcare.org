@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 MAIN STREET\",\"city\":\"LEWISTON\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "44.10098480900007",
-        "longitude": "-70.21443534499997",
-        "needs_recoding": false
+        "coordinates": [
+            -70.214705,
+            44.100829
+        ],
+        "type": "Point"
     },
+    "location_address": "300 MAIN STREET",
+    "location_city": "LEWISTON",
+    "location_state": "ME",
+    "location_zip": "04240",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2077950111"
-    },
+    "phone_number": "2077950111",
     "provider_id": "200024",
     "raw_ratings": {},
     "state": "ME",

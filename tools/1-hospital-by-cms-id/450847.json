@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"23900 KATY FREEWAY\",\"city\":\"KATY\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.785939334000034",
-        "longitude": "-95.78579960799999",
-        "needs_recoding": false
+        "coordinates": [
+            -95.785657,
+            29.785918
+        ],
+        "type": "Point"
     },
+    "location_address": "23900 KATY FREEWAY",
+    "location_city": "KATY",
+    "location_state": "TX",
+    "location_zip": "77494",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.memorialhermann.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2813921111"
-    },
+    "phone_number": "2813921111",
     "provider_id": "450847",
     "raw_ratings": {},
     "state": "TX",

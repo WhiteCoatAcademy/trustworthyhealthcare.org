@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"147 GETTYS STREET\",\"city\":\"GETTYSBURG\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "39.82336831600003",
-        "longitude": "-77.23326171399998",
-        "needs_recoding": false
+        "coordinates": [
+            -77.234044,
+            39.823318
+        ],
+        "type": "Point"
     },
+    "location_address": "147 GETTYS STREET",
+    "location_city": "GETTYSBURG",
+    "location_state": "PA",
+    "location_zip": "17325",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wellspan.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7173342121"
-    },
+    "phone_number": "7173342121",
     "provider_id": "390065",
     "raw_ratings": {},
     "state": "PA",

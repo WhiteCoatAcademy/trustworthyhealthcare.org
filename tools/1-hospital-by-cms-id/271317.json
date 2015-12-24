@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"504 S 13TH ST\",\"city\":\"LIVINGSTON\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "45.64945612100007",
-        "longitude": "-110.56867206899994",
-        "needs_recoding": false
+        "coordinates": [
+            -110.568518,
+            45.649368
+        ],
+        "type": "Point"
     },
+    "location_address": "504 S 13TH ST",
+    "location_city": "LIVINGSTON",
+    "location_state": "MT",
+    "location_zip": "59047",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4062223541"
-    },
+    "phone_number": "4062223541",
     "provider_id": "271317",
     "raw_ratings": {},
     "state": "MT",

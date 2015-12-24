@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4401 RIVER CHASE DRIVE\",\"city\":\"PHENIX CITY\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "32.509125106000056",
-        "longitude": "-85.00575018799998",
-        "needs_recoding": false
+        "coordinates": [
+            -85.005696,
+            32.509045
+        ],
+        "type": "Point"
     },
+    "location_address": "4401 RIVER CHASE DRIVE",
+    "location_city": "PHENIX CITY",
+    "location_state": "AL",
+    "location_zip": "36867",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.amerishealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3347323000"
-    },
+    "phone_number": "3347323000",
     "provider_id": "010168",
     "raw_ratings": {},
     "state": "AL",

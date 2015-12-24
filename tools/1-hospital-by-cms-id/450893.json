@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2801 SOUTH MAYHILL ROAD\",\"city\":\"DENTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.17643758000003",
-        "longitude": "-97.08818818599997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.087444,
+            33.177536
+        ],
+        "type": "Point"
     },
+    "location_address": "2801 SOUTH MAYHILL ROAD",
+    "location_city": "DENTON",
+    "location_state": "TX",
+    "location_zip": "76208",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9402200600"
-    },
+    "phone_number": "9402200600",
     "provider_id": "450893",
     "raw_ratings": {},
     "state": "TX",

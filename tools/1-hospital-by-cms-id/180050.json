@@ -4,15 +4,20 @@
     "county_name": "HARLAN",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "HARLAN APPALACHIAN REGIONAL HEALTHCARE HOSPITAL",
+    "hospital_name": "HARLAN ARH HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"81 BALL PARK ROAD\",\"city\":\"HARLAN\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "36.81008898300007",
-        "longitude": "-83.31394276199995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.313123,
+            36.810178
+        ],
+        "type": "Point"
     },
+    "location_address": "81 BALL PARK ROAD",
+    "location_city": "HARLAN",
+    "location_state": "KY",
+    "location_zip": "40831",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.arh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6065738100"
-    },
+    "phone_number": "6065738100",
     "provider_id": "180050",
     "raw_ratings": {},
     "state": "KY",

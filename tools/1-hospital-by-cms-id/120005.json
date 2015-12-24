@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1190 WAIANUENUE AVENUE\",\"city\":\"HILO\",\"state\":\"HI\",\"zip\":\"\"}",
-        "latitude": "19.71754745800007",
-        "longitude": "-155.11275283099997",
-        "needs_recoding": false
+        "coordinates": [
+            -155.113286,
+            19.717493
+        ],
+        "type": "Point"
     },
+    "location_address": "1190 WAIANUENUE AVENUE",
+    "location_city": "HILO",
+    "location_state": "HI",
+    "location_zip": "96720",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hhsc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8089323000"
-    },
+    "phone_number": "8089323000",
     "provider_id": "120005",
     "raw_ratings": {},
     "state": "HI",

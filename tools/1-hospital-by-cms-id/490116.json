@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2400 LEE HIGHWAY\",\"city\":\"PULASKI\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.06992754300006",
-        "longitude": "-80.75704205699998",
-        "needs_recoding": false
+        "coordinates": [
+            -80.758003,
+            37.069306
+        ],
+        "type": "Point"
     },
+    "location_address": "2400 LEE HIGHWAY",
+    "location_city": "PULASKI",
+    "location_state": "VA",
+    "location_zip": "24301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5409948100"
-    },
+    "phone_number": "5409948100",
     "provider_id": "490116",
     "raw_ratings": {},
     "state": "VA",

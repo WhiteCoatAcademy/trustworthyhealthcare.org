@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"939 CAROLINE ST\",\"city\":\"PORT ANGELES\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "48.115096074000064",
-        "longitude": "-123.41519815199996",
-        "needs_recoding": false
+        "coordinates": [
+            -123.414281,
+            48.114711
+        ],
+        "type": "Point"
     },
+    "location_address": "939 CAROLINE ST",
+    "location_city": "PORT ANGELES",
+    "location_state": "WA",
+    "location_zip": "98362",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3604177000"
-    },
+    "phone_number": "3604177000",
     "provider_id": "500072",
     "raw_ratings": {},
     "state": "WA",

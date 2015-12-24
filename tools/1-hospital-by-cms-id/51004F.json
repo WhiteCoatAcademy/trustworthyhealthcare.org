@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"1540 SPRING VALLEY ROAD\",\"city\":\"HUNTINGTON\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "38.384073225000066",
-        "longitude": "-82.51774327499999",
-        "needs_recoding": false
+        "coordinates": [
+            -82.517504,
+            38.384145
+        ],
+        "type": "Point"
     },
+    "location_address": "1540 SPRING VALLEY ROAD",
+    "location_city": "HUNTINGTON",
+    "location_state": "WV",
+    "location_zip": "25704",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "3044290241"
-    },
+    "phone_number": "3044290241",
     "provider_id": "51004F",
     "raw_ratings": {},
     "state": "WV",

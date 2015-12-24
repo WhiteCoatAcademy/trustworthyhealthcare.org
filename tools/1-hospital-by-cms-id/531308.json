@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"497 WEST LOTT\",\"city\":\"BUFFALO\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "44.34958295700005",
-        "longitude": "-106.70499841399999",
-        "needs_recoding": false
+        "coordinates": [
+            -106.705161,
+            44.34964
+        ],
+        "type": "Point"
     },
+    "location_address": "497 WEST LOTT",
+    "location_city": "BUFFALO",
+    "location_state": "WY",
+    "location_zip": "82834",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3076845521"
-    },
+    "phone_number": "3076845521",
     "provider_id": "531308",
     "raw_ratings": {},
     "state": "WY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"215 E 8TH STREET\",\"city\":\"MINNEAPOLIS\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.128798188000076",
-        "longitude": "-97.70376017799998",
-        "needs_recoding": false
+        "coordinates": [
+            -97.704277,
+            39.128796
+        ],
+        "type": "Point"
     },
+    "location_address": "215 E 8TH STREET",
+    "location_city": "MINNEAPOLIS",
+    "location_state": "KS",
+    "location_zip": "67467",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7853922122"
-    },
+    "phone_number": "7853922122",
     "provider_id": "171328",
     "raw_ratings": {},
     "state": "KS",

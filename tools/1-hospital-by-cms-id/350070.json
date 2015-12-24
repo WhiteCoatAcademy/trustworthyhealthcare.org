@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3000 32ND AVE SOUTH\",\"city\":\"FARGO\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "46.832492338000066",
-        "longitude": "-96.82809052599998",
-        "needs_recoding": false
+        "coordinates": [
+            -96.828583,
+            46.832504
+        ],
+        "type": "Point"
     },
+    "location_address": "3000 32ND AVE SOUTH",
+    "location_city": "FARGO",
+    "location_state": "ND",
+    "location_zip": "58104",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhshealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7013648000"
-    },
+    "phone_number": "7013648000",
     "provider_id": "350070",
     "raw_ratings": {},
     "state": "ND",

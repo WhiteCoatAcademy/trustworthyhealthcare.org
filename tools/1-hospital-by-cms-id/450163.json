@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1311 EAST GENERAL CAVAZOS BLVD\",\"city\":\"KINGSVILLE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "27.49144322500007",
-        "longitude": "-97.85040071399999",
-        "needs_recoding": false
+        "coordinates": [
+            -97.850797,
+            27.491403
+        ],
+        "type": "Point"
     },
+    "location_address": "1311 EAST GENERAL CAVAZOS BLVD",
+    "location_city": "KINGSVILLE",
+    "location_state": "TX",
+    "location_zip": "78363",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.christushealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3615951661"
-    },
+    "phone_number": "3615951661",
     "provider_id": "450163",
     "raw_ratings": {},
     "state": "TX",

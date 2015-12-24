@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1225 WARM SPRINGS AVE\",\"city\":\"HUNTINGDON\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.49364953800006",
-        "longitude": "-78.01390161799998",
-        "needs_recoding": false
+        "coordinates": [
+            -78.013981,
+            40.493528
+        ],
+        "type": "Point"
     },
+    "location_address": "1225 WARM SPRINGS AVE",
+    "location_city": "HUNTINGDON",
+    "location_state": "PA",
+    "location_zip": "16652",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8146432290"
-    },
+    "phone_number": "8146432290",
     "provider_id": "390056",
     "raw_ratings": {},
     "state": "PA",

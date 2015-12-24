@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"475 SEAVIEW AVENUE\",\"city\":\"STATEN ISLAND\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.58344819000007",
-        "longitude": "-74.08573276799996",
-        "needs_recoding": false
+        "coordinates": [
+            -74.085416,
+            40.583245
+        ],
+        "type": "Point"
     },
+    "location_address": "475 SEAVIEW AVENUE",
+    "location_city": "STATEN ISLAND",
+    "location_state": "NY",
+    "location_zip": "10305",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.northshorelij.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7182269000"
-    },
+    "phone_number": "7182269000",
     "provider_id": "330160",
     "raw_ratings": {},
     "state": "NY",

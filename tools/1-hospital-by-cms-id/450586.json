@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 STADIUM DRIVE\",\"city\":\"SEYMOUR\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.58939345700003",
-        "longitude": "-99.24756356099994",
-        "needs_recoding": false
+        "coordinates": [
+            -99.247505,
+            33.589277
+        ],
+        "type": "Point"
     },
+    "location_address": "200 STADIUM DRIVE",
+    "location_city": "SEYMOUR",
+    "location_state": "TX",
+    "location_zip": "76380",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9408895572"
-    },
+    "phone_number": "9408895572",
     "provider_id": "450586",
     "raw_ratings": {},
     "state": "TX",

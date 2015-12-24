@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"900 E BROADWAY\",\"city\":\"BISMARCK\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "46.80642259600006",
-        "longitude": "-100.77841564099998",
-        "needs_recoding": false
+        "coordinates": [
+            -100.778534,
+            46.806381
+        ],
+        "type": "Point"
     },
+    "location_address": "900 E BROADWAY",
+    "location_city": "BISMARCK",
+    "location_state": "ND",
+    "location_zip": "58501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7015307000"
-    },
+    "phone_number": "7015307000",
     "provider_id": "350002",
     "raw_ratings": {},
     "state": "ND",

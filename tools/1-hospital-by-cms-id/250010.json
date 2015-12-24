@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1005 CITY AVE NORTH\",\"city\":\"RIPLEY\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "34.739311271000076",
-        "longitude": "-88.94953634899997",
-        "needs_recoding": false
+        "coordinates": [
+            -88.949325,
+            34.73869
+        ],
+        "type": "Point"
     },
+    "location_address": "1005 CITY AVE NORTH",
+    "location_city": "RIPLEY",
+    "location_state": "MS",
+    "location_zip": "38663",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6628379221"
-    },
+    "phone_number": "6628379221",
     "provider_id": "250010",
     "raw_ratings": {},
     "state": "MS",

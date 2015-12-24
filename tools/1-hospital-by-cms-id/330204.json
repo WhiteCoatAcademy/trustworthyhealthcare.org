@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"462 FIRST AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.73941161800008",
-        "longitude": "-73.97665404099996",
-        "needs_recoding": false
+        "coordinates": [
+            -73.976526,
+            40.739696
+        ],
+        "type": "Point"
     },
+    "location_address": "462 FIRST AVENUE",
+    "location_city": "NEW YORK",
+    "location_state": "NY",
+    "location_zip": "10016",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nyc.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "2125614132"
-    },
+    "phone_number": "2125614132",
     "provider_id": "330204",
     "raw_ratings": {},
     "state": "NY",

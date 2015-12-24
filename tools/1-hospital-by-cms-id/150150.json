@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2520 E DUPONT RD\",\"city\":\"FORT WAYNE\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.17274713000006",
-        "longitude": "-85.10782583399998",
-        "needs_recoding": false
+        "coordinates": [
+            -85.109619,
+            41.178706
+        ],
+        "type": "Point"
     },
+    "location_address": "2520 E DUPONT RD",
+    "location_city": "FORT WAYNE",
+    "location_state": "IN",
+    "location_zip": "46825",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "2604163000"
-    },
+    "phone_number": "2604163000",
     "provider_id": "150150",
     "raw_ratings": {},
     "state": "IN",

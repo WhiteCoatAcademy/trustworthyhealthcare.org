@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7031 SW 62ND AVE\",\"city\":\"SOUTH MIAMI\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.705311925000046",
-        "longitude": "-80.29343068699995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.293471,
+            25.705539
+        ],
+        "type": "Point"
     },
+    "location_address": "7031 SW 62ND AVE",
+    "location_city": "SOUTH MIAMI",
+    "location_state": "FL",
+    "location_zip": "33143",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3052847500"
-    },
+    "phone_number": "3052847500",
     "provider_id": "100181",
     "raw_ratings": {},
     "state": "FL",

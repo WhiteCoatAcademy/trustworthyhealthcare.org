@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2042 JUNIPER AVENUE\",\"city\":\"SLAYTON\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "43.99275341900005",
-        "longitude": "-95.75925028899997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.759226,
+            43.992794
+        ],
+        "type": "Point"
     },
+    "location_address": "2042 JUNIPER AVENUE",
+    "location_city": "SLAYTON",
+    "location_state": "MN",
+    "location_zip": "56172",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sanfordhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5078361277"
-    },
+    "phone_number": "5078361277",
     "provider_id": "241319",
     "raw_ratings": {},
     "state": "MN",

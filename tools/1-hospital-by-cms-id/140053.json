@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 E CARPENTER ST\",\"city\":\"SPRINGFIELD\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "39.80721332500008",
-        "longitude": "-89.64365143499998",
-        "needs_recoding": false
+        "coordinates": [
+            -89.644833,
+            39.807289
+        ],
+        "type": "Point"
     },
+    "location_address": "800 E CARPENTER ST",
+    "location_city": "SPRINGFIELD",
+    "location_state": "IL",
+    "location_zip": "62769",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hshs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2175446464"
-    },
+    "phone_number": "2175446464",
     "provider_id": "140053",
     "raw_ratings": {},
     "state": "IL",

@@ -4,15 +4,20 @@
     "county_name": "MIAMI-DADE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "DOCTORS HOSPITAL INC",
+    "hospital_name": "DOCTORS HOSPITAL",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5000 UNIVERSITY DR\",\"city\":\"CORAL GABLES\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "25.72462532000003",
-        "longitude": "-80.27325077599994",
-        "needs_recoding": false
+        "coordinates": [
+            -80.273145,
+            25.724785
+        ],
+        "type": "Point"
     },
+    "location_address": "5000 UNIVERSITY DR",
+    "location_city": "CORAL GABLES",
+    "location_state": "FL",
+    "location_zip": "33146",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baptisthealth.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "3056662111"
-    },
+    "phone_number": "3056662111",
     "provider_id": "100296",
     "raw_ratings": {},
     "state": "FL",

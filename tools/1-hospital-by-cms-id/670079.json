@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 MEDICAL PARKWAY\",\"city\":\"LAKEWAY\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.333951925000065",
-        "longitude": "-97.97042930099997",
-        "needs_recoding": false
+        "coordinates": [
+            -97.970505,
+            30.334275
+        ],
+        "type": "Point"
     },
+    "location_address": "100 MEDICAL PARKWAY",
+    "location_city": "LAKEWAY",
+    "location_state": "TX",
+    "location_zip": "78734",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5122058102"
-    },
+    "phone_number": "5122058102",
     "provider_id": "670079",
     "raw_ratings": {},
     "state": "TX",

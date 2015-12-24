@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3801 SPRING ST\",\"city\":\"RACINE\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "42.73366345000005",
-        "longitude": "-87.82578398899994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.827876,
+            42.734687
+        ],
+        "type": "Point"
     },
+    "location_address": "3801 SPRING ST",
+    "location_city": "RACINE",
+    "location_state": "WI",
+    "location_zip": "53405",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wfs-inc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2626874011"
-    },
+    "phone_number": "2626874011",
     "provider_id": "520096",
     "raw_ratings": {},
     "state": "WI",

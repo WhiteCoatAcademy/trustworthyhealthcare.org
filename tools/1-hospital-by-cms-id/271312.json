@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"311 S 8TH AVE E\",\"city\":\"MALTA\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "48.35720085400004",
-        "longitude": "-107.86030971399998",
-        "needs_recoding": false
+        "coordinates": [
+            -107.860355,
+            48.356658
+        ],
+        "type": "Point"
     },
+    "location_address": "311 S 8TH AVE E",
+    "location_city": "MALTA",
+    "location_state": "MT",
+    "location_zip": "59538",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4066541100"
-    },
+    "phone_number": "4066541100",
     "provider_id": "271312",
     "raw_ratings": {},
     "state": "MT",

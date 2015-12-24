@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1530 U S HIGHWAY 43\",\"city\":\"WINFIELD\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "33.929365020000034",
-        "longitude": "-87.82463746799993",
-        "needs_recoding": false
+        "coordinates": [
+            -87.82373,
+            33.928894
+        ],
+        "type": "Point"
     },
+    "location_address": "1530 U S HIGHWAY 43",
+    "location_city": "WINFIELD",
+    "location_state": "AL",
+    "location_zip": "35594",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2054877736"
-    },
+    "phone_number": "2054877736",
     "provider_id": "010086",
     "raw_ratings": {},
     "state": "AL",

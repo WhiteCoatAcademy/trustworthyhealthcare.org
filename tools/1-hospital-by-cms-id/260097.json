@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"403 BURKARTH ROAD\",\"city\":\"WARRENSBURG\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.76700820000008",
-        "longitude": "-93.72363590599997",
-        "needs_recoding": false
+        "coordinates": [
+            -93.723723,
+            38.765958
+        ],
+        "type": "Point"
     },
+    "location_address": "403 BURKARTH ROAD",
+    "location_city": "WARRENSBURG",
+    "location_state": "MO",
+    "location_zip": "64093",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6607472500"
-    },
+    "phone_number": "6607472500",
     "provider_id": "260097",
     "raw_ratings": {},
     "state": "MO",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"77 N AIRLITE STREET\",\"city\":\"ELGIN\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "42.03479415900006",
-        "longitude": "-88.32884487899997",
-        "needs_recoding": false
+        "coordinates": [
+            -88.327671,
+            42.036899
+        ],
+        "type": "Point"
     },
+    "location_address": "77 N AIRLITE STREET",
+    "location_city": "ELGIN",
+    "location_state": "IL",
+    "location_zip": "60123",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.provena.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8476953200"
-    },
+    "phone_number": "8476953200",
     "provider_id": "140217",
     "raw_ratings": {},
     "state": "IL",

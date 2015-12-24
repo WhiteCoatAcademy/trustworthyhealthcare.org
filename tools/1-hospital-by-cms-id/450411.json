@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"304 S DAUGHERTY\",\"city\":\"EASTLAND\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.400174219000064",
-        "longitude": "-98.82156240899997",
-        "needs_recoding": false
+        "coordinates": [
+            -98.821638,
+            32.399631
+        ],
+        "type": "Point"
     },
+    "location_address": "304 S DAUGHERTY",
+    "location_city": "EASTLAND",
+    "location_state": "TX",
+    "location_zip": "76448",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2546292601"
-    },
+    "phone_number": "2546292601",
     "provider_id": "450411",
     "raw_ratings": {},
     "state": "TX",

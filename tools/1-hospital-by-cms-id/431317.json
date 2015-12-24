@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"600 BILLARS ST\",\"city\":\"SCOTLAND\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "43.14948207700007",
-        "longitude": "-97.72696424199995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.726998,
+            43.14922
+        ],
+        "type": "Point"
     },
+    "location_address": "600 BILLARS ST",
+    "location_city": "SCOTLAND",
+    "location_state": "SD",
+    "location_zip": "57059",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6055832226"
-    },
+    "phone_number": "6055832226",
     "provider_id": "431317",
     "raw_ratings": {},
     "state": "SD",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8000 WEST JUDGE PEREZ DRIVE\",\"city\":\"CHALMETTE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "29.95563059600005",
-        "longitude": "-89.98500724699994",
-        "needs_recoding": false
+        "coordinates": [
+            -89.98908,
+            29.957335
+        ],
+        "type": "Point"
     },
+    "location_address": "8000 WEST JUDGE PEREZ DRIVE",
+    "location_city": "CHALMETTE",
+    "location_state": "LA",
+    "location_zip": "70043",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5048269500"
-    },
+    "phone_number": "5048269500",
     "provider_id": "190308",
     "raw_ratings": {},
     "state": "LA",

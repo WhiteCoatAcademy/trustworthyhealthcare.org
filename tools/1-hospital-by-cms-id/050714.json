@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2900 CHANTICLEER AVENUE\",\"city\":\"SANTA CRUZ\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.98767075400008",
-        "longitude": "-121.97817712999995",
-        "needs_recoding": false
+        "coordinates": [
+            -121.978192,
+            36.987829
+        ],
+        "type": "Point"
     },
+    "location_address": "2900 CHANTICLEER AVENUE",
+    "location_city": "SANTA CRUZ",
+    "location_state": "CA",
+    "location_zip": "95065",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sutterhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8314772200"
-    },
+    "phone_number": "8314772200",
     "provider_id": "050714",
     "raw_ratings": {},
     "state": "CA",

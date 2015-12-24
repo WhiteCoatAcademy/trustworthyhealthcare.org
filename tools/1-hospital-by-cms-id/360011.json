@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 MCKINLEY PARK DRIVE\",\"city\":\"MARION\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.57215099900003",
-        "longitude": "-83.12878717399997",
-        "needs_recoding": false
+        "coordinates": [
+            -83.128048,
+            40.571602
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 MCKINLEY PARK DRIVE",
+    "location_city": "MARION",
+    "location_state": "OH",
+    "location_zip": "43302",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ohiohealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7403838400"
-    },
+    "phone_number": "7403838400",
     "provider_id": "360011",
     "raw_ratings": {},
     "state": "OH",

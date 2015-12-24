@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"210 WEST 1ST STREET\",\"city\":\"ST FRANCIS\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.77109043200005",
-        "longitude": "-101.80289992999997",
-        "needs_recoding": false
+        "coordinates": [
+            -101.802776,
+            39.770878
+        ],
+        "type": "Point"
     },
+    "location_address": "210 WEST 1ST STREET",
+    "location_city": "ST FRANCIS",
+    "location_state": "KS",
+    "location_zip": "67756",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7853322104"
-    },
+    "phone_number": "7853322104",
     "provider_id": "171310",
     "raw_ratings": {},
     "state": "KS",

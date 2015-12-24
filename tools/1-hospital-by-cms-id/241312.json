@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10 SE FIFTH ST\",\"city\":\"COOK\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "47.853349653000066",
-        "longitude": "-92.67998271999994",
-        "needs_recoding": false
+        "coordinates": [
+            -92.679997,
+            47.852964
+        ],
+        "type": "Point"
     },
+    "location_address": "10 SE FIFTH ST",
+    "location_city": "COOK",
+    "location_state": "MN",
+    "location_zip": "55723",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2186665945"
-    },
+    "phone_number": "2186665945",
     "provider_id": "241312",
     "raw_ratings": {},
     "state": "MN",

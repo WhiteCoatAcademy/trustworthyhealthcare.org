@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"196 -198 NORTH STREET\",\"city\":\"GENEVA\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.866424178000045",
-        "longitude": "-76.98208886899994",
-        "needs_recoding": false
+        "coordinates": [
+            -76.988003,
+            42.875702
+        ],
+        "type": "Point"
     },
+    "location_address": "196 -198 NORTH STREET",
+    "location_city": "GENEVA",
+    "location_state": "NY",
+    "location_zip": "14456",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.flhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3157874175"
-    },
+    "phone_number": "3157874175",
     "provider_id": "330058",
     "raw_ratings": {},
     "state": "NY",

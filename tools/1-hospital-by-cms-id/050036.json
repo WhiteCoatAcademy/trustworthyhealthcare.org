@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"420 34TH ST BOX 1888\",\"city\":\"BAKERSFIELD\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "35.39050791000005",
-        "longitude": "-119.006579451",
-        "needs_recoding": false
+        "coordinates": [
+            -119.006671,
+            35.390474
+        ],
+        "type": "Point"
     },
+    "location_address": "420 34TH ST BOX 1888",
+    "location_city": "BAKERSFIELD",
+    "location_state": "CA",
+    "location_zip": "93301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chwhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6613271792"
-    },
+    "phone_number": "6613271792",
     "provider_id": "050036",
     "raw_ratings": {},
     "state": "CA",

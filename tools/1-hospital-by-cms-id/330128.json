@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"79-01 BROADWAY\",\"city\":\"ELMHURST\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.744366429000024",
-        "longitude": "-73.88596946299998",
-        "needs_recoding": false
+        "coordinates": [
+            -73.88598,
+            40.74434
+        ],
+        "type": "Point"
     },
+    "location_address": "79-01 BROADWAY",
+    "location_city": "ELMHURST",
+    "location_state": "NY",
+    "location_zip": "11373",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nyc.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "7183341141"
-    },
+    "phone_number": "7183341141",
     "provider_id": "330128",
     "raw_ratings": {},
     "state": "NY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"901 ADAMS BLVD\",\"city\":\"BOULDER CITY\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "35.96835304200005",
-        "longitude": "-114.84283907199995",
-        "needs_recoding": false
+        "coordinates": [
+            -114.843405,
+            35.968358
+        ],
+        "type": "Point"
     },
+    "location_address": "901 ADAMS BLVD",
+    "location_city": "BOULDER CITY",
+    "location_state": "NV",
+    "location_zip": "89005",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7022934111"
-    },
+    "phone_number": "7022934111",
     "provider_id": "291309",
     "raw_ratings": {},
     "state": "NV",

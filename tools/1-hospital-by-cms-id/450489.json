@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2200 N BRYAN AVE\",\"city\":\"LAMESA\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.740782042000035",
-        "longitude": "-101.96356255599994",
-        "needs_recoding": false
+        "coordinates": [
+            -101.966471,
+            32.750279
+        ],
+        "type": "Point"
     },
+    "location_address": "2200 N BRYAN AVE",
+    "location_city": "LAMESA",
+    "location_state": "TX",
+    "location_zip": "79331",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8068722183"
-    },
+    "phone_number": "8068722183",
     "provider_id": "450489",
     "raw_ratings": {},
     "state": "TX",

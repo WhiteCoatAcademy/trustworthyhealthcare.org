@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2875 NW STUCKI AVE\",\"city\":\"HILLSBORO\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "45.53954663500008",
-        "longitude": "-122.87584241399998",
-        "needs_recoding": false
+        "coordinates": [
+            -122.875667,
+            45.539713
+        ],
+        "type": "Point"
     },
+    "location_address": "2875 NW STUCKI AVE",
+    "location_city": "HILLSBORO",
+    "location_state": "OR",
+    "location_zip": "97124",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9713105700"
-    },
+    "phone_number": "9713105700",
     "provider_id": "380103",
     "raw_ratings": {},
     "state": "OR",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 BELLE TERRE ROAD\",\"city\":\"PORT JEFFERSON\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.94773528200005",
-        "longitude": "-73.06025640799999",
-        "needs_recoding": false
+        "coordinates": [
+            -73.060088,
+            40.947623
+        ],
+        "type": "Point"
     },
+    "location_address": "200 BELLE TERRE ROAD",
+    "location_city": "PORT JEFFERSON",
+    "location_state": "NY",
+    "location_zip": "11777",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chsli.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6314746000"
-    },
+    "phone_number": "6314746000",
     "provider_id": "330246",
     "raw_ratings": {},
     "state": "NY",

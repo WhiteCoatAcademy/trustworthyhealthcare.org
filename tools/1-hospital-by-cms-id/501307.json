@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"502 E AMENDE DRIVE\",\"city\":\"ODESSA\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.33156172400004",
-        "longitude": "-118.68221096799999",
-        "needs_recoding": false
+        "coordinates": [
+            -118.682403,
+            47.331603
+        ],
+        "type": "Point"
     },
+    "location_address": "502 E AMENDE DRIVE",
+    "location_city": "ODESSA",
+    "location_state": "WA",
+    "location_zip": "99159",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5099822611"
-    },
+    "phone_number": "5099822611",
     "provider_id": "501307",
     "raw_ratings": {},
     "state": "WA",

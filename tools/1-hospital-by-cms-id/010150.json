@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"29 L V STABLER DRIVE\",\"city\":\"GREENVILLE\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "31.829742777000035",
-        "longitude": "-86.64611473899998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.64586,
+            31.82945
+        ],
+        "type": "Point"
     },
+    "location_address": "29 L V STABLER DRIVE",
+    "location_city": "GREENVILLE",
+    "location_state": "AL",
+    "location_zip": "36037",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "3343822200"
-    },
+    "phone_number": "3343822200",
     "provider_id": "010150",
     "raw_ratings": {},
     "state": "AL",

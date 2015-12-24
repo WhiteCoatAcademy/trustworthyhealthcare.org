@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"215 MARION AV BOX 1307\",\"city\":\"MCCOMB\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "31.249761943000067",
-        "longitude": "-90.47410065899999",
-        "needs_recoding": false
+        "coordinates": [
+            -90.473518,
+            31.250229
+        ],
+        "type": "Point"
     },
+    "location_address": "215 MARION AV BOX 1307",
+    "location_city": "MCCOMB",
+    "location_state": "MS",
+    "location_zip": "39649",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.smrmc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6012495500"
-    },
+    "phone_number": "6012495500",
     "provider_id": "250097",
     "raw_ratings": {},
     "state": "MS",

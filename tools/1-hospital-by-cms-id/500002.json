@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 W POPLAR ST\",\"city\":\"WALLA WALLA\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "46.06286738600005",
-        "longitude": "-118.343261816",
-        "needs_recoding": false
+        "coordinates": [
+            -118.341053,
+            46.063771
+        ],
+        "type": "Point"
     },
+    "location_address": "401 W POPLAR ST",
+    "location_city": "WALLA WALLA",
+    "location_state": "WA",
+    "location_zip": "99362",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.providence.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5095225900"
-    },
+    "phone_number": "5095225900",
     "provider_id": "500002",
     "raw_ratings": {},
     "state": "WA",

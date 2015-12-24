@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"555 NORTH DUKE STREET\",\"city\":\"LANCASTER\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.046256492000055",
-        "longitude": "-76.30517591499995",
-        "needs_recoding": false
+        "coordinates": [
+            -76.305399,
+            40.047353
+        ],
+        "type": "Point"
     },
+    "location_address": "555 NORTH DUKE STREET",
+    "location_city": "LANCASTER",
+    "location_state": "PA",
+    "location_zip": "17604",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7172995511"
-    },
+    "phone_number": "7172995511",
     "provider_id": "390100",
     "raw_ratings": {},
     "state": "PA",

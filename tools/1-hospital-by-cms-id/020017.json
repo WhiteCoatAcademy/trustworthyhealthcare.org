@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2801 DEBARR ROAD\",\"city\":\"ANCHORAGE\",\"state\":\"AK\",\"zip\":\"\"}",
-        "latitude": "61.20975602900006",
-        "longitude": "-149.82899175899996",
-        "needs_recoding": false
+        "coordinates": [
+            -149.830958,
+            61.209613
+        ],
+        "type": "Point"
     },
+    "location_address": "2801 DEBARR ROAD",
+    "location_city": "ANCHORAGE",
+    "location_state": "AK",
+    "location_zip": "99508",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9072761131"
-    },
+    "phone_number": "9072761131",
     "provider_id": "020017",
     "raw_ratings": {},
     "state": "AK",

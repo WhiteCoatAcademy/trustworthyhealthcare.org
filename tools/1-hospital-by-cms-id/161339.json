@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"312 9TH STREET SW\",\"city\":\"WAVERLY\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.72372962900005",
-        "longitude": "-92.48180796599996",
-        "needs_recoding": false
+        "coordinates": [
+            -92.481779,
+            42.723726
+        ],
+        "type": "Point"
     },
+    "location_address": "312 9TH STREET SW",
+    "location_city": "WAVERLY",
+    "location_state": "IA",
+    "location_zip": "50677",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3193524120"
-    },
+    "phone_number": "3193524120",
     "provider_id": "161339",
     "raw_ratings": {},
     "state": "IA",

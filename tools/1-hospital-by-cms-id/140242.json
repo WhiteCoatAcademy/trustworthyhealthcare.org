@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"25 NORTH WINFIELD ROAD\",\"city\":\"WINFIELD\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.87266679600003",
-        "longitude": "-88.15825988399996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.158095,
+            41.873765
+        ],
+        "type": "Point"
     },
+    "location_address": "25 NORTH WINFIELD ROAD",
+    "location_city": "WINFIELD",
+    "location_state": "IL",
+    "location_zip": "60190",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6306821600"
-    },
+    "phone_number": "6306821600",
     "provider_id": "140242",
     "raw_ratings": {},
     "state": "IL",

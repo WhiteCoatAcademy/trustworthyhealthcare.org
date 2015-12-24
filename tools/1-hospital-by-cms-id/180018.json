@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Federal",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"222 MEDICAL CIRCLE\",\"city\":\"MOREHEAD\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "38.18056271000006",
-        "longitude": "-83.44296391999995",
-        "needs_recoding": false
+        "coordinates": [
+            -83.442358,
+            38.179944
+        ],
+        "type": "Point"
     },
+    "location_address": "222 MEDICAL CIRCLE",
+    "location_city": "MOREHEAD",
+    "location_state": "KY",
+    "location_zip": "40351",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6067836500"
-    },
+    "phone_number": "6067836500",
     "provider_id": "180018",
     "raw_ratings": {},
     "state": "KY",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 BURLINGTON ROAD\",\"city\":\"JACKSON\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.032949925000025",
-        "longitude": "-82.63803837899997",
-        "needs_recoding": false
+        "coordinates": [
+            -82.638081,
+            39.031781
+        ],
+        "type": "Point"
     },
+    "location_address": "500 BURLINGTON ROAD",
+    "location_city": "JACKSON",
+    "location_state": "OH",
+    "location_zip": "45640",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.holzer.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7403958500"
-    },
+    "phone_number": "7403958500",
     "provider_id": "361320",
     "raw_ratings": {},
     "state": "OH",

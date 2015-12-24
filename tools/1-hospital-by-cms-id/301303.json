@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"173 MIDDLE STREET\",\"city\":\"LANCASTER\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "44.486967063000066",
-        "longitude": "-71.55387962599997",
-        "needs_recoding": false
+        "coordinates": [
+            -71.563429,
+            44.488224
+        ],
+        "type": "Point"
     },
+    "location_address": "173 MIDDLE STREET",
+    "location_city": "LANCASTER",
+    "location_state": "NH",
+    "location_zip": "03584",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6037884911"
-    },
+    "phone_number": "6037884911",
     "provider_id": "301303",
     "raw_ratings": {},
     "state": "NH",

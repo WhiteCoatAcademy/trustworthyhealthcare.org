@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1606 N SEVENTH ST\",\"city\":\"TERRE HAUTE\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.48498002000008",
-        "longitude": "-87.40711621799994",
-        "needs_recoding": false
+        "coordinates": [
+            -87.406837,
+            39.485244
+        ],
+        "type": "Point"
     },
+    "location_address": "1606 N SEVENTH ST",
+    "location_city": "TERRE HAUTE",
+    "location_state": "IN",
+    "location_zip": "47804",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.uhhg.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8122387606"
-    },
+    "phone_number": "8122387606",
     "provider_id": "150023",
     "raw_ratings": {},
     "state": "IN",

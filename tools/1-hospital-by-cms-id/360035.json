@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"793 WEST STATE STREET\",\"city\":\"COLUMBUS\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.957682893000026",
-        "longitude": "-83.02111911399999",
-        "needs_recoding": false
+        "coordinates": [
+            -83.02332,
+            39.957482
+        ],
+        "type": "Point"
     },
+    "location_address": "793 WEST STATE STREET",
+    "location_city": "COLUMBUS",
+    "location_state": "OH",
+    "location_zip": "43222",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trinity-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6142345000"
-    },
+    "phone_number": "6142345000",
     "provider_id": "360035",
     "raw_ratings": {},
     "state": "OH",

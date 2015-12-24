@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 MEDICAL DRIVE, SUITE B\",\"city\":\"LIMA\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.69673826300004",
-        "longitude": "-84.08974811499996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.088217,
+            40.697389
+        ],
+        "type": "Point"
     },
+    "location_address": "801 MEDICAL DRIVE, SUITE B",
+    "location_city": "LIMA",
+    "location_state": "OH",
+    "location_zip": "45804",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4192247586"
-    },
+    "phone_number": "4192247586",
     "provider_id": "360263",
     "raw_ratings": {},
     "state": "OH",

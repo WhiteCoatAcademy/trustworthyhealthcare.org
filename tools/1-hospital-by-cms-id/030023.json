@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 NORTH BEAVER STREET\",\"city\":\"FLAGSTAFF\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "35.208646728000076",
-        "longitude": "-111.64517176599998",
-        "needs_recoding": false
+        "coordinates": [
+            -111.645096,
+            35.208651
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 NORTH BEAVER STREET",
+    "location_city": "FLAGSTAFF",
+    "location_state": "AZ",
+    "location_zip": "86001",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.nahealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9287732009"
-    },
+    "phone_number": "9287732378",
     "provider_id": "030023",
     "raw_ratings": {},
     "state": "AZ",

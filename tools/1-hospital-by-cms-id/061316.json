@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"23500 US HWY 160\",\"city\":\"WALSENBURG\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "37.599447816000065",
-        "longitude": "-104.83900960299997",
-        "needs_recoding": false
+        "coordinates": [
+            -104.819786,
+            37.607688
+        ],
+        "type": "Point"
     },
+    "location_address": "23500 US HWY 160",
+    "location_city": "WALSENBURG",
+    "location_state": "CO",
+    "location_zip": "81089",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7197385100"
-    },
+    "phone_number": "7197385100",
     "provider_id": "061316",
     "raw_ratings": {},
     "state": "CO",

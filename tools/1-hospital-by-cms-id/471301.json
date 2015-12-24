@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "GIFFORD MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"44 SOUTH MAIN STREET\",\"city\":\"RANDOLPH\",\"state\":\"VT\",\"zip\":\"\"}",
-        "latitude": "43.91660518000003",
-        "longitude": "-72.66588968999997",
-        "needs_recoding": false
+        "coordinates": [
+            -72.665967,
+            43.916728
+        ],
+        "type": "Point"
     },
+    "location_address": "44 SOUTH MAIN STREET",
+    "location_city": "RANDOLPH",
+    "location_state": "VT",
+    "location_zip": "05060",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8027284441"
-    },
+    "phone_number": "8027284441",
     "provider_id": "471301",
     "raw_ratings": {},
     "state": "VT",

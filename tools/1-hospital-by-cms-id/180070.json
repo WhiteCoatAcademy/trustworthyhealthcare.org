@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"910 WALLACE AVENUE\",\"city\":\"LEITCHFIELD\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.472787985000025",
-        "longitude": "-86.28679831299996",
-        "needs_recoding": false
+        "coordinates": [
+            -86.287104,
+            37.471592
+        ],
+        "type": "Point"
     },
+    "location_address": "910 WALLACE AVENUE",
+    "location_city": "LEITCHFIELD",
+    "location_state": "KY",
+    "location_zip": "42754",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2702599400"
-    },
+    "phone_number": "2702599400",
     "provider_id": "180070",
     "raw_ratings": {},
     "state": "KY",

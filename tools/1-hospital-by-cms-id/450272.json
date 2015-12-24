@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1301 WONDER WORLD DRIVE\",\"city\":\"SAN MARCOS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.851832605000027",
-        "longitude": "-97.94709213799996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.94664,
+            29.85143
+        ],
+        "type": "Point"
     },
+    "location_address": "1301 WONDER WORLD DRIVE",
+    "location_city": "SAN MARCOS",
+    "location_state": "TX",
+    "location_zip": "78666",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5127533690"
-    },
+    "phone_number": "5127533690",
     "provider_id": "450272",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"94 OLD SHORT HILLS ROAD\",\"city\":\"LIVINGSTON\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.76345355500007",
-        "longitude": "-74.30260595599998",
-        "needs_recoding": false
+        "coordinates": [
+            -74.302334,
+            40.764045
+        ],
+        "type": "Point"
     },
+    "location_address": "94 OLD SHORT HILLS ROAD",
+    "location_city": "LIVINGSTON",
+    "location_state": "NJ",
+    "location_zip": "07039",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sbhcs.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9733225000"
-    },
+    "phone_number": "9733225000",
     "provider_id": "310076",
     "raw_ratings": {},
     "state": "NJ",

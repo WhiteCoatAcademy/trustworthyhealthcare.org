@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1801 NORTH OREGON STREET\",\"city\":\"EL PASO\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.770031533000065",
-        "longitude": "-106.49841285699995",
-        "needs_recoding": false
+        "coordinates": [
+            -106.498544,
+            31.770257
+        ],
+        "type": "Point"
     },
+    "location_address": "1801 NORTH OREGON STREET",
+    "location_city": "EL PASO",
+    "location_state": "TX",
+    "location_zip": "79902",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9155211200"
-    },
+    "phone_number": "9155211200",
     "provider_id": "450107",
     "raw_ratings": {},
     "state": "TX",

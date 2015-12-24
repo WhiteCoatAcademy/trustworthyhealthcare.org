@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - State",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 HOSPITAL DRIVE\",\"city\":\"WETUMPKA\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "32.55226755500007",
-        "longitude": "-86.18703624199998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.186183,
+            32.552
+        ],
+        "type": "Point"
     },
+    "location_address": "500 HOSPITAL DRIVE",
+    "location_city": "WETUMPKA",
+    "location_state": "AL",
+    "location_zip": "36092",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3345674311"
-    },
+    "phone_number": "3345674311",
     "provider_id": "010097",
     "raw_ratings": {},
     "state": "AL",

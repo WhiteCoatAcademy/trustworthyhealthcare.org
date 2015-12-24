@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"401 W PENNSYLVANIA\",\"city\":\"ANACONDA\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "46.13321168200008",
-        "longitude": "-112.95688559799999",
-        "needs_recoding": false
+        "coordinates": [
+            -112.956877,
+            46.133247
+        ],
+        "type": "Point"
     },
+    "location_address": "401 W PENNSYLVANIA",
+    "location_city": "ANACONDA",
+    "location_state": "MT",
+    "location_zip": "59711",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4065638500"
-    },
+    "phone_number": "4065638500",
     "provider_id": "271335",
     "raw_ratings": {},
     "state": "MT",

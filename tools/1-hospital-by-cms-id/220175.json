@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"115 LINCOLN STREET\",\"city\":\"FRAMINGHAM\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.28403502000003",
-        "longitude": "-71.41931665399994",
-        "needs_recoding": false
+        "coordinates": [
+            -71.419715,
+            42.284249
+        ],
+        "type": "Point"
     },
+    "location_address": "115 LINCOLN STREET",
+    "location_city": "FRAMINGHAM",
+    "location_state": "MA",
+    "location_zip": "01701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.vanguardhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5083831000"
-    },
+    "phone_number": "5083831000",
     "provider_id": "220175",
     "raw_ratings": {},
     "state": "MA",

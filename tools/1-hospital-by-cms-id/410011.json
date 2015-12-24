@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"115 CASS AVE\",\"city\":\"WOONSOCKET\",\"state\":\"RI\",\"zip\":\"\"}",
-        "latitude": "42.00529344000006",
-        "longitude": "-71.49629714499997",
-        "needs_recoding": false
+        "coordinates": [
+            -71.496115,
+            42.00534
+        ],
+        "type": "Point"
     },
+    "location_address": "115 CASS AVE",
+    "location_city": "WOONSOCKET",
+    "location_state": "RI",
+    "location_zip": "02895",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4017694100"
-    },
+    "phone_number": "4017694100",
     "provider_id": "410011",
     "raw_ratings": {},
     "state": "RI",

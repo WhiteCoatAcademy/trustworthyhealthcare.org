@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"620 BYRON RD\",\"city\":\"HOWELL\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.616986851000036",
-        "longitude": "-83.93995324199994",
-        "needs_recoding": false
+        "coordinates": [
+            -83.939437,
+            42.615593
+        ],
+        "type": "Point"
     },
+    "location_address": "620 BYRON RD",
+    "location_city": "HOWELL",
+    "location_state": "MI",
+    "location_zip": "48843",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trinity-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5175456000"
-    },
+    "phone_number": "5175456000",
     "provider_id": "230069",
     "raw_ratings": {},
     "state": "MI",

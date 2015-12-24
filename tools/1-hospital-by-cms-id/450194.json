@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"501 S RAGSDALE\",\"city\":\"JACKSONVILLE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.96094619300004",
-        "longitude": "-95.27033802399995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.270547,
+            31.961418
+        ],
+        "type": "Point"
     },
+    "location_address": "501 S RAGSDALE",
+    "location_city": "JACKSONVILLE",
+    "location_state": "TX",
+    "location_zip": "75766",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.etmc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9035415000"
-    },
+    "phone_number": "9035415000",
     "provider_id": "450194",
     "raw_ratings": {},
     "state": "TX",

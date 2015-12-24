@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"150 S. HUNTINGTON AVENUE\",\"city\":\"JAMAICA PLAIN\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.32770650100008",
-        "longitude": "-71.11081854799994",
-        "needs_recoding": false
+        "coordinates": [
+            -71.11139,
+            42.32653
+        ],
+        "type": "Point"
     },
+    "location_address": "150 S. HUNTINGTON AVENUE",
+    "location_city": "JAMAICA PLAIN",
+    "location_state": "MA",
+    "location_zip": "02130",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "6172329500"
-    },
+    "phone_number": "6172329500",
     "provider_id": "22010F",
     "raw_ratings": {},
     "state": "MA",

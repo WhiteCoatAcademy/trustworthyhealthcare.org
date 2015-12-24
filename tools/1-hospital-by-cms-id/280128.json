@@ -5,14 +5,19 @@
     "emergency_services": false,
     "global_rank": {},
     "hospital_name": "CHI HEALTH NEBRASKA HEART",
-    "hospital_ownership": "Proprietary",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7500 SOUTH 91ST ST\",\"city\":\"LINCOLN\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.73574851400008",
-        "longitude": "-96.59476267699995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.595045,
+            40.736113
+        ],
+        "type": "Point"
     },
+    "location_address": "7500 SOUTH 91ST ST",
+    "location_city": "LINCOLN",
+    "location_state": "NE",
+    "location_zip": "68526",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4023283000"
-    },
+    "phone_number": "4023283000",
     "provider_id": "280128",
     "raw_ratings": {},
     "state": "NE",

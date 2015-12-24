@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"933 EAST PIERCE STREET\",\"city\":\"COUNCIL BLUFFS\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.26903836500003",
-        "longitude": "-95.83533867099999",
-        "needs_recoding": false
+        "coordinates": [
+            -95.836045,
+            41.268398
+        ],
+        "type": "Point"
     },
+    "location_address": "933 EAST PIERCE STREET",
+    "location_city": "COUNCIL BLUFFS",
+    "location_state": "IA",
+    "location_zip": "51503",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bestcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7123966000"
-    },
+    "phone_number": "7123966000",
     "provider_id": "160047",
     "raw_ratings": {},
     "state": "IA",

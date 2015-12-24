@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"115 10TH AVENUE NORTHEAST\",\"city\":\"DEER RIVER\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "47.34352701800003",
-        "longitude": "-93.79180028899998",
-        "needs_recoding": false
+        "coordinates": [
+            -93.790887,
+            47.343523
+        ],
+        "type": "Point"
     },
+    "location_address": "115 10TH AVENUE NORTHEAST",
+    "location_city": "DEER RIVER",
+    "location_state": "MN",
+    "location_zip": "56636",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2182462900"
-    },
+    "phone_number": "2182462900",
     "provider_id": "241360",
     "raw_ratings": {},
     "state": "MN",

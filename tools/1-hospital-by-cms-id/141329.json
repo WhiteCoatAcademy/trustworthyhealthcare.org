@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"303 N JACKSON STREET\",\"city\":\"MORRISON\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.80976888400005",
-        "longitude": "-89.95614559299997",
-        "needs_recoding": false
+        "coordinates": [
+            -89.956076,
+            41.810003
+        ],
+        "type": "Point"
     },
+    "location_address": "303 N JACKSON STREET",
+    "location_city": "MORRISON",
+    "location_state": "IL",
+    "location_zip": "61270",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8157724003"
-    },
+    "phone_number": "8157724003",
     "provider_id": "141329",
     "raw_ratings": {},
     "state": "IL",

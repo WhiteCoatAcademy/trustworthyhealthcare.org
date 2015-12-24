@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1441 FLORIDA AVENUE\",\"city\":\"MODESTO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.66490941100005",
-        "longitude": "-120.99625441999996",
-        "needs_recoding": false
+        "coordinates": [
+            -120.996248,
+            37.665531
+        ],
+        "type": "Point"
     },
+    "location_address": "1441 FLORIDA AVENUE",
+    "location_city": "MODESTO",
+    "location_state": "CA",
+    "location_zip": "95350",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2095781211"
-    },
+    "phone_number": "2095781211",
     "provider_id": "050464",
     "raw_ratings": {},
     "state": "CA",

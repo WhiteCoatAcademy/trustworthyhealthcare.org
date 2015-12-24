@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"221 N E GLEN OAK AVE\",\"city\":\"PEORIA\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "40.70003584300008",
-        "longitude": "-89.59480620899996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.594596,
+            40.700183
+        ],
+        "type": "Point"
     },
+    "location_address": "221 N E GLEN OAK AVE",
+    "location_city": "PEORIA",
+    "location_state": "IL",
+    "location_zip": "61636",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3096725522"
-    },
+    "phone_number": "3096725522",
     "provider_id": "140209",
     "raw_ratings": {},
     "state": "IL",

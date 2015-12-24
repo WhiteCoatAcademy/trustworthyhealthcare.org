@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1350 S HICKORY ST\",\"city\":\"MELBOURNE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.08879994600005",
-        "longitude": "-80.61356222999996",
-        "needs_recoding": false
+        "coordinates": [
+            -80.613526,
+            28.087054
+        ],
+        "type": "Point"
     },
+    "location_address": "1350 S HICKORY ST",
+    "location_city": "MELBOURNE",
+    "location_state": "FL",
+    "location_zip": "32901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.health-first.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3214347000"
-    },
+    "phone_number": "3214347000",
     "provider_id": "100019",
     "raw_ratings": {},
     "state": "FL",

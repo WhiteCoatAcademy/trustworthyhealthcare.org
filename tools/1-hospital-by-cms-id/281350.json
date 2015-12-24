@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"202 HIGH ST\",\"city\":\"TECUMSEH\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.37920670500006",
-        "longitude": "-96.19724795899998",
-        "needs_recoding": false
+        "coordinates": [
+            -96.197311,
+            40.379192
+        ],
+        "type": "Point"
     },
+    "location_address": "202 HIGH ST",
+    "location_city": "TECUMSEH",
+    "location_state": "NE",
+    "location_zip": "68450",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4023353361"
-    },
+    "phone_number": "4023353361",
     "provider_id": "281350",
     "raw_ratings": {},
     "state": "NE",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3000 NEW BERN AVE\",\"city\":\"RALEIGH\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.78484870600005",
-        "longitude": "-78.59042038799998",
-        "needs_recoding": false
+        "coordinates": [
+            -78.589155,
+            35.786057
+        ],
+        "type": "Point"
     },
+    "location_address": "3000 NEW BERN AVE",
+    "location_city": "RALEIGH",
+    "location_state": "NC",
+    "location_zip": "27610",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.wakemed.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9193508000"
-    },
+    "phone_number": "9193508000",
     "provider_id": "340069",
     "raw_ratings": {},
     "state": "NC",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"240 WILLOW STREET\",\"city\":\"TYLER\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.272488819000046",
-        "longitude": "-96.13090643699996",
-        "needs_recoding": false
+        "coordinates": [
+            -96.130943,
+            44.272274
+        ],
+        "type": "Point"
     },
+    "location_address": "240 WILLOW STREET",
+    "location_city": "TYLER",
+    "location_state": "MN",
+    "location_zip": "56178",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5072475521"
-    },
+    "phone_number": "5072475521",
     "provider_id": "241348",
     "raw_ratings": {},
     "state": "MN",

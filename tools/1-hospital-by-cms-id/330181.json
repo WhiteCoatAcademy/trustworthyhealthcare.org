@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"101 ST ANDREWS LANE\",\"city\":\"GLEN COVE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.87174311800004",
-        "longitude": "-73.62169823699998",
-        "needs_recoding": false
+        "coordinates": [
+            -73.623321,
+            40.871508
+        ],
+        "type": "Point"
     },
+    "location_address": "101 ST ANDREWS LANE",
+    "location_city": "GLEN COVE",
+    "location_state": "NY",
+    "location_zip": "11542",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.northshorelij.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5166747300"
-    },
+    "phone_number": "5166747300",
     "provider_id": "330181",
     "raw_ratings": {},
     "state": "NY",

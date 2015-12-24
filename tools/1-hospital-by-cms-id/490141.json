@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4600 SPOTSYLVANIA PARKWAY\",\"city\":\"FREDERICKSBURG\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "38.21945701200008",
-        "longitude": "-77.49658865399994",
-        "needs_recoding": false
+        "coordinates": [
+            -77.49645,
+            38.219496
+        ],
+        "type": "Point"
     },
+    "location_address": "4600 SPOTSYLVANIA PARKWAY",
+    "location_city": "FREDERICKSBURG",
+    "location_state": "VA",
+    "location_zip": "22408",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5404984000"
-    },
+    "phone_number": "5404984000",
     "provider_id": "490141",
     "raw_ratings": {},
     "state": "VA",

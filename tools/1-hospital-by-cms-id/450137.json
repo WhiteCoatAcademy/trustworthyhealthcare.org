@@ -4,15 +4,20 @@
     "county_name": "TARRANT",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "BAYLOR ALL SAINTS MEDICAL CENTER AT FW",
+    "hospital_name": "BAYLOR SCOTT AND WHITE ALL SAINTS MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1400 EIGHTH AVE\",\"city\":\"FORT WORTH\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.73043998900005",
-        "longitude": "-97.34378272899994",
-        "needs_recoding": false
+        "coordinates": [
+            -97.34373,
+            32.730288
+        ],
+        "type": "Point"
     },
+    "location_address": "1400 EIGHTH AVE",
+    "location_city": "FORT WORTH",
+    "location_state": "TX",
+    "location_zip": "76104",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.baylorhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8179262544"
-    },
+    "phone_number": "8179262544",
     "provider_id": "450137",
     "raw_ratings": {},
     "state": "TX",

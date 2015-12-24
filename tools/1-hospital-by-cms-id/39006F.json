@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"1700 SOUTH LINCOLN AVENUE\",\"city\":\"LEBANON\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.31380423000007",
-        "longitude": "-76.40779777699998",
-        "needs_recoding": false
+        "coordinates": [
+            -76.408592,
+            40.315065
+        ],
+        "type": "Point"
     },
+    "location_address": "1700 SOUTH LINCOLN AVENUE",
+    "location_city": "LEBANON",
+    "location_state": "PA",
+    "location_zip": "17042",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "7172285901"
-    },
+    "phone_number": "7172285901",
     "provider_id": "39006F",
     "raw_ratings": {},
     "state": "PA",

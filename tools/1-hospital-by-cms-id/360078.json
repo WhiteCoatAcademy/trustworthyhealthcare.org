@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6847 N CHESTNUT\",\"city\":\"RAVENNA\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.176980266000044",
-        "longitude": "-81.24599440899993",
-        "needs_recoding": false
+        "coordinates": [
+            -81.245986,
+            41.177073
+        ],
+        "type": "Point"
     },
+    "location_address": "6847 N CHESTNUT",
+    "location_city": "RAVENNA",
+    "location_state": "OH",
+    "location_zip": "44266",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3302972300"
-    },
+    "phone_number": "3302972300",
     "provider_id": "360078",
     "raw_ratings": {},
     "state": "OH",

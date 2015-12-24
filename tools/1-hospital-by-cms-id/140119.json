@@ -2,17 +2,22 @@
     "address": "1653 WEST CONGRESS PARKWAY",
     "city": "CHICAGO",
     "county_name": "COOK",
-    "emergency_services": false,
+    "emergency_services": true,
     "global_rank": {},
     "hospital_name": "RUSH UNIVERSITY MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1653 WEST CONGRESS PARKWAY\",\"city\":\"CHICAGO\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.875120809000066",
-        "longitude": "-87.66800439899998",
-        "needs_recoding": false
+        "coordinates": [
+            -87.669133,
+            41.875158
+        ],
+        "type": "Point"
     },
+    "location_address": "1653 WEST CONGRESS PARKWAY",
+    "location_city": "CHICAGO",
+    "location_state": "IL",
+    "location_zip": "60612",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.rush.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "3129425000"
-    },
+    "phone_number": "3129425000",
     "provider_id": "140119",
     "raw_ratings": {},
     "state": "IL",

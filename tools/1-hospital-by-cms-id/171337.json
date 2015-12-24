@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"711 GENN DRIVE\",\"city\":\"WAMEGO\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.20487759500003",
-        "longitude": "-96.31859875099997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.318237,
+            39.205486
+        ],
+        "type": "Point"
     },
+    "location_address": "711 GENN DRIVE",
+    "location_city": "WAMEGO",
+    "location_state": "KS",
+    "location_zip": "66547",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7854587201"
-    },
+    "phone_number": "7854587201",
     "provider_id": "171337",
     "raw_ratings": {},
     "state": "KS",

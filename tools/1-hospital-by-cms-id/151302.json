@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"410 PILGRIM BLVD\",\"city\":\"HARTFORD CITY\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.46893305000003",
-        "longitude": "-85.37162191499993",
-        "needs_recoding": false
+        "coordinates": [
+            -85.373482,
+            40.468642
+        ],
+        "type": "Point"
     },
+    "location_address": "410 PILGRIM BLVD",
+    "location_city": "HARTFORD CITY",
+    "location_state": "IN",
+    "location_zip": "47348",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "accesschs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7653480300"
-    },
+    "phone_number": "7653480300",
     "provider_id": "151302",
     "raw_ratings": {},
     "state": "IN",

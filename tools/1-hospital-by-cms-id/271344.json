@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"216 14TH AVE SW\",\"city\":\"SIDNEY\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "47.71551602100004",
-        "longitude": "-104.17412254799996",
-        "needs_recoding": false
+        "coordinates": [
+            -104.174166,
+            47.716213
+        ],
+        "type": "Point"
     },
+    "location_address": "216 14TH AVE SW",
+    "location_city": "SIDNEY",
+    "location_state": "MT",
+    "location_zip": "59270",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4064882100"
-    },
+    "phone_number": "4064882100",
     "provider_id": "271344",
     "raw_ratings": {},
     "state": "MT",

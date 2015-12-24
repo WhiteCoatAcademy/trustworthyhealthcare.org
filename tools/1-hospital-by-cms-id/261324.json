@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2800 E ROCK HAVEN ROAD\",\"city\":\"HARRISONVILLE\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.66336851700004",
-        "longitude": "-94.37554971299994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.375315,
+            38.663345
+        ],
+        "type": "Point"
     },
+    "location_address": "2800 E ROCK HAVEN ROAD",
+    "location_city": "HARRISONVILLE",
+    "location_state": "MO",
+    "location_zip": "64701",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8163805888"
-    },
+    "phone_number": "8163805888",
     "provider_id": "261324",
     "raw_ratings": {},
     "state": "MO",

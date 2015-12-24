@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"610 NW 11TH STREET\",\"city\":\"HERMISTON\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "45.84564938500006",
-        "longitude": "-119.31090053499997",
-        "needs_recoding": false
+        "coordinates": [
+            -119.310901,
+            45.845702
+        ],
+        "type": "Point"
     },
+    "location_address": "610 NW 11TH STREET",
+    "location_city": "HERMISTON",
+    "location_state": "OR",
+    "location_zip": "97838",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5416673400"
-    },
+    "phone_number": "5416673400",
     "provider_id": "381325",
     "raw_ratings": {},
     "state": "OR",

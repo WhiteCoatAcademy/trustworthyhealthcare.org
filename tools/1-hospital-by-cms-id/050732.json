@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"15 EAST AUDUBON DRIVE\",\"city\":\"FRESNO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.86091933600005",
-        "longitude": "-119.78885538799994",
-        "needs_recoding": false
+        "coordinates": [
+            -119.789293,
+            36.860955
+        ],
+        "type": "Point"
     },
+    "location_address": "15 EAST AUDUBON DRIVE",
+    "location_city": "FRESNO",
+    "location_state": "CA",
+    "location_zip": "93720",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.communitymedical.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5594338000"
-    },
+    "phone_number": "5594338000",
     "provider_id": "050732",
     "raw_ratings": {},
     "state": "CA",

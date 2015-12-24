@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"2615 E. CLINTON AVENUE\",\"city\":\"FRESNO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.772308130000056",
-        "longitude": "-119.77925930599997",
-        "needs_recoding": false
+        "coordinates": [
+            -119.780157,
+            36.772278
+        ],
+        "type": "Point"
     },
+    "location_address": "2615 E. CLINTON AVENUE",
+    "location_city": "FRESNO",
+    "location_state": "CA",
+    "location_zip": "93703",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "5592285338"
-    },
+    "phone_number": "5592285338",
     "provider_id": "05025F",
     "raw_ratings": {},
     "state": "CA",

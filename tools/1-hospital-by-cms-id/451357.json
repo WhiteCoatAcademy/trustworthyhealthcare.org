@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1700 BRAZOS\",\"city\":\"ROCKDALE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.650107904000038",
-        "longitude": "-97.02206497199995",
-        "needs_recoding": false
+        "coordinates": [
+            -97.020575,
+            30.650156
+        ],
+        "type": "Point"
     },
+    "location_address": "1700 BRAZOS",
+    "location_city": "ROCKDALE",
+    "location_state": "TX",
+    "location_zip": "76567",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.blackhawkhealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5124464500"
-    },
+    "phone_number": "5124464500",
     "provider_id": "451357",
     "raw_ratings": {},
     "state": "TX",

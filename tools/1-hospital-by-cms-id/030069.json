@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"101 CIVIC CENTER LANE\",\"city\":\"LAKE HAVASU CITY\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "34.479547085000036",
-        "longitude": "-114.33848318099996",
-        "needs_recoding": false
+        "coordinates": [
+            -114.3385,
+            34.479888
+        ],
+        "type": "Point"
     },
+    "location_address": "101 CIVIC CENTER LANE",
+    "location_city": "LAKE HAVASU CITY",
+    "location_state": "AZ",
+    "location_zip": "86403",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9288558185"
-    },
+    "phone_number": "9288558185",
     "provider_id": "030069",
     "raw_ratings": {},
     "state": "AZ",

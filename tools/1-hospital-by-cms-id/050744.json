@@ -4,15 +4,20 @@
     "county_name": "ORANGE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "WESTERN MEDICAL CENTER HOSP ANAHEIM",
+    "hospital_name": "ANAHEIM GLOBAL MEDICAL CENTER",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1025 S ANAHEIM BLVD\",\"city\":\"ANAHEIM\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.820059567000044",
-        "longitude": "-117.908790195",
-        "needs_recoding": false
+        "coordinates": [
+            -117.909002,
+            33.820566
+        ],
+        "type": "Point"
     },
+    "location_address": "1025 S ANAHEIM BLVD",
+    "location_city": "ANAHEIM",
+    "location_state": "CA",
+    "location_zip": "92805",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ihhioc.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7145336220"
-    },
+    "phone_number": "7145336220",
     "provider_id": "050744",
     "raw_ratings": {},
     "state": "CA",

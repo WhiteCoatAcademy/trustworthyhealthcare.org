@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"11705 MERCY BOULEVARD\",\"city\":\"SAVANNAH\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "31.985432182000068",
-        "longitude": "-81.15294189099995",
-        "needs_recoding": false
+        "coordinates": [
+            -81.152792,
+            31.985079
+        ],
+        "type": "Point"
     },
+    "location_address": "11705 MERCY BOULEVARD",
+    "location_city": "SAVANNAH",
+    "location_state": "GA",
+    "location_zip": "31419",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sjchs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9128194100"
-    },
+    "phone_number": "9128194100",
     "provider_id": "110043",
     "raw_ratings": {},
     "state": "GA",

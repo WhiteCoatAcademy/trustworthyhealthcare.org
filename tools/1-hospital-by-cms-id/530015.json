@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"625 EAST BROADWAY\",\"city\":\"JACKSON\",\"state\":\"WY\",\"zip\":\"\"}",
-        "latitude": "43.479745595000054",
-        "longitude": "-110.74938172699996",
-        "needs_recoding": false
+        "coordinates": [
+            -110.74908,
+            43.479689
+        ],
+        "type": "Point"
     },
+    "location_address": "625 EAST BROADWAY",
+    "location_city": "JACKSON",
+    "location_state": "WY",
+    "location_zip": "83001",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3077333636"
-    },
+    "phone_number": "3077333636",
     "provider_id": "530015",
     "raw_ratings": {},
     "state": "WY",

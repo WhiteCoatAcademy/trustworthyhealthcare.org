@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"500 THORPE STREET\",\"city\":\"LAKIN\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.94600285800004",
-        "longitude": "-101.25203627599996",
-        "needs_recoding": false
+        "coordinates": [
+            -101.25659,
+            37.946014
+        ],
+        "type": "Point"
     },
+    "location_address": "500 THORPE STREET",
+    "location_city": "LAKIN",
+    "location_state": "KS",
+    "location_zip": "67860",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6203557111"
-    },
+    "phone_number": "6203557111",
     "provider_id": "171313",
     "raw_ratings": {},
     "state": "KS",

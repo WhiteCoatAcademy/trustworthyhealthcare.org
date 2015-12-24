@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"825 N CENTER AVE\",\"city\":\"GAYLORD\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "45.03532909200004",
-        "longitude": "-84.67391988499998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.673884,
+            45.035549
+        ],
+        "type": "Point"
     },
+    "location_address": "825 N CENTER AVE",
+    "location_city": "GAYLORD",
+    "location_state": "MI",
+    "location_zip": "49735",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9897312100"
-    },
+    "phone_number": "9897312100",
     "provider_id": "230133",
     "raw_ratings": {},
     "state": "MI",

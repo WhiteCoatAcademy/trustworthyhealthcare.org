@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"6800 STATE ROUTE 162\",\"city\":\"MARYVILLE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "38.73811358200004",
-        "longitude": "-89.94663241499995",
-        "needs_recoding": false
+        "coordinates": [
+            -89.946634,
+            38.738132
+        ],
+        "type": "Point"
     },
+    "location_address": "6800 STATE ROUTE 162",
+    "location_city": "MARYVILLE",
+    "location_state": "IL",
+    "location_zip": "62062",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6182885711"
-    },
+    "phone_number": "6182885711",
     "provider_id": "140289",
     "raw_ratings": {},
     "state": "IL",

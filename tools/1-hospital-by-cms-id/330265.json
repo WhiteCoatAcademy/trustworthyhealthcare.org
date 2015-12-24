@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2 COULTER ROAD\",\"city\":\"CLIFTON SPRINGS\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.96010872000005",
-        "longitude": "-77.13846348899995",
-        "needs_recoding": false
+        "coordinates": [
+            -77.13974,
+            42.960462
+        ],
+        "type": "Point"
     },
+    "location_address": "2 COULTER ROAD",
+    "location_city": "CLIFTON SPRINGS",
+    "location_state": "NY",
+    "location_zip": "14432",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3154629561"
-    },
+    "phone_number": "3154629561",
     "provider_id": "330265",
     "raw_ratings": {},
     "state": "NY",

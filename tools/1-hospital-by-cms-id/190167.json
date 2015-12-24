@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"800 E MAIN\",\"city\":\"VILLE PLATTE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.684887455000023",
-        "longitude": "-92.26589644299997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.265504,
+            30.684745
+        ],
+        "type": "Point"
     },
+    "location_address": "800 E MAIN",
+    "location_city": "VILLE PLATTE",
+    "location_state": "LA",
+    "location_zip": "70586",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "3373635684"
-    },
+    "phone_number": "3373635684",
     "provider_id": "190167",
     "raw_ratings": {},
     "state": "LA",

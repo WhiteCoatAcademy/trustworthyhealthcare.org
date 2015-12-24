@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"101 E WOOD ST\",\"city\":\"SPARTANBURG\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.967823285000065",
-        "longitude": "-81.94033984199996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.939927,
+            34.967852
+        ],
+        "type": "Point"
     },
+    "location_address": "101 E WOOD ST",
+    "location_city": "SPARTANBURG",
+    "location_state": "SC",
+    "location_zip": "29303",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.srhs.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "8645606000"
-    },
+    "phone_number": "8645606000",
     "provider_id": "420007",
     "raw_ratings": {},
     "state": "SC",

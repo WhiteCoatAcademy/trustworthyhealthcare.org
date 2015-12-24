@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"835 S VAN BUREN ST\",\"city\":\"GREEN BAY\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.50130984600003",
-        "longitude": "-88.01290303199994",
-        "needs_recoding": false
+        "coordinates": [
+            -88.013175,
+            44.501039
+        ],
+        "type": "Point"
     },
+    "location_address": "835 S VAN BUREN ST",
+    "location_city": "GREEN BAY",
+    "location_state": "WI",
+    "location_zip": "54301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hshs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9204330111"
-    },
+    "phone_number": "9204330111",
     "provider_id": "520075",
     "raw_ratings": {},
     "state": "WI",

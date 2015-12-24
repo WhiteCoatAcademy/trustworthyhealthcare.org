@@ -8,11 +8,16 @@
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"239 EDGEWOOD DRIVE EXTENSION\",\"city\":\"TRANSFER\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "41.33005098900003",
-        "longitude": "-80.41950075999995",
-        "needs_recoding": false
+        "coordinates": [
+            -80.417159,
+            41.33006
+        ],
+        "type": "Point"
     },
+    "location_address": "239 EDGEWOOD DRIVE EXTENSION",
+    "location_city": "TRANSFER",
+    "location_state": "PA",
+    "location_zip": "16154",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7246460400"
-    },
+    "phone_number": "7246460400",
     "provider_id": "390307",
     "raw_ratings": {},
     "state": "PA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"5501 OLD YORK ROAD\",\"city\":\"PHILADELPHIA\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.03685344000007",
-        "longitude": "-75.14460351399998",
-        "needs_recoding": false
+        "coordinates": [
+            -75.144679,
+            40.037127
+        ],
+        "type": "Point"
     },
+    "location_address": "5501 OLD YORK ROAD",
+    "location_city": "PHILADELPHIA",
+    "location_state": "PA",
+    "location_zip": "19141",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.einstein.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "2154566090"
-    },
+    "phone_number": "2154566090",
     "provider_id": "390142",
     "raw_ratings": {},
     "state": "PA",

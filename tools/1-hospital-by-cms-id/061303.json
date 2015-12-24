@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2400 W EDISON ST\",\"city\":\"BRUSH\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "40.25470568700007",
-        "longitude": "-103.64928460299996",
-        "needs_recoding": false
+        "coordinates": [
+            -103.649186,
+            40.254674
+        ],
+        "type": "Point"
     },
+    "location_address": "2400 W EDISON ST",
+    "location_city": "BRUSH",
+    "location_state": "CO",
+    "location_zip": "80723",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bannerhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9708426200"
-    },
+    "phone_number": "9708426200",
     "provider_id": "061303",
     "raw_ratings": {},
     "state": "CO",

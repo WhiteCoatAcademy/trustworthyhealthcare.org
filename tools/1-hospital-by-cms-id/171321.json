@@ -1,5 +1,5 @@
 {
-    "address": "510 E CARTHAGE",
+    "address": "510 EAST CARTHAGE",
     "city": "MEADE",
     "county_name": "MEADE",
     "emergency_services": true,
@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"510 E CARTHAGE\",\"city\":\"MEADE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.285527537000064",
-        "longitude": "-100.33456013999995",
-        "needs_recoding": false
+        "coordinates": [
+            -100.334573,
+            37.28549
+        ],
+        "type": "Point"
     },
+    "location_address": "510 EAST CARTHAGE",
+    "location_city": "MEADE",
+    "location_state": "KS",
+    "location_zip": "67864",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6208732141"
-    },
+    "phone_number": "6208732141",
     "provider_id": "171321",
     "raw_ratings": {},
     "state": "KS",

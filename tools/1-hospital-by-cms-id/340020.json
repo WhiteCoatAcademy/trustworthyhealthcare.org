@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1135 CARTHAGE ST\",\"city\":\"SANFORD\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.46877434700008",
-        "longitude": "-79.18883835999998",
-        "needs_recoding": false
+        "coordinates": [
+            -79.188745,
+            35.469624
+        ],
+        "type": "Point"
     },
+    "location_address": "1135 CARTHAGE ST",
+    "location_city": "SANFORD",
+    "location_state": "NC",
+    "location_zip": "27330",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.tenethealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9197742100"
-    },
+    "phone_number": "9197742100",
     "provider_id": "340020",
     "raw_ratings": {},
     "state": "NC",

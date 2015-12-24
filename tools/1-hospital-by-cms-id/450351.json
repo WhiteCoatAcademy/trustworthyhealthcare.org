@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"411 N BELKNAP ST\",\"city\":\"STEPHENVILLE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.22281836800005",
-        "longitude": "-98.20456489999998",
-        "needs_recoding": false
+        "coordinates": [
+            -98.204224,
+            32.222235
+        ],
+        "type": "Point"
     },
+    "location_address": "411 N BELKNAP ST",
+    "location_city": "STEPHENVILLE",
+    "location_state": "TX",
+    "location_zip": "76401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.texashealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2549651500"
-    },
+    "phone_number": "2549651500",
     "provider_id": "450351",
     "raw_ratings": {},
     "state": "TX",

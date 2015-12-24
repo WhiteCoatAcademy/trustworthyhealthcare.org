@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1145 W REDONDO BEACH BLVD\",\"city\":\"GARDENA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.89240788500007",
-        "longitude": "-118.29503966899995",
-        "needs_recoding": false
+        "coordinates": [
+            -118.295131,
+            33.892374
+        ],
+        "type": "Point"
     },
+    "location_address": "1145 W REDONDO BEACH BLVD",
+    "location_city": "GARDENA",
+    "location_state": "CA",
+    "location_zip": "90247",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3105324200"
-    },
+    "phone_number": "3105324200",
     "provider_id": "050468",
     "raw_ratings": {},
     "state": "CA",

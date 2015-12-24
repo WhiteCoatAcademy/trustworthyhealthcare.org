@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 1ST STREET WEST\",\"city\":\"PAYNESVILLE\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.37491631600005",
-        "longitude": "-94.71637377399998",
-        "needs_recoding": false
+        "coordinates": [
+            -94.716214,
+            45.374891
+        ],
+        "type": "Point"
     },
+    "location_address": "200 1ST STREET WEST",
+    "location_city": "PAYNESVILLE",
+    "location_state": "MN",
+    "location_zip": "56362",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3202433767"
-    },
+    "phone_number": "3202433767",
     "provider_id": "241349",
     "raw_ratings": {},
     "state": "MN",

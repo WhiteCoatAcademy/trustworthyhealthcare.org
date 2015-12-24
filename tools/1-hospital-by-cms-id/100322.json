@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"125 SW 7TH ST\",\"city\":\"WILLISTON\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "29.384020015000033",
-        "longitude": "-82.45575895499996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.455788,
+            29.383904
+        ],
+        "type": "Point"
     },
+    "location_address": "125 SW 7TH ST",
+    "location_city": "WILLISTON",
+    "location_state": "FL",
+    "location_zip": "32696",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3525282801"
-    },
+    "phone_number": "3525282801",
     "provider_id": "100322",
     "raw_ratings": {},
     "state": "FL",

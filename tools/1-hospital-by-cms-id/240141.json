@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"911 NORTHLAND DR\",\"city\":\"PRINCETON\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "45.55905269900006",
-        "longitude": "-93.58932132799998",
-        "needs_recoding": false
+        "coordinates": [
+            -93.58897,
+            45.558907
+        ],
+        "type": "Point"
     },
+    "location_address": "911 NORTHLAND DR",
+    "location_city": "PRINCETON",
+    "location_state": "MN",
+    "location_zip": "55371",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.fairview.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7633891313"
-    },
+    "phone_number": "7633891313",
     "provider_id": "240141",
     "raw_ratings": {},
     "state": "MN",

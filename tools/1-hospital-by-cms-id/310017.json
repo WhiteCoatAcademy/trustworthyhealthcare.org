@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"97 WEST PARKWAY\",\"city\":\"POMPTON PLAINS\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.958668954000075",
-        "longitude": "-74.30787399199994",
-        "needs_recoding": false
+        "coordinates": [
+            -74.150139,
+            40.994337
+        ],
+        "type": "Point"
     },
+    "location_address": "97 WEST PARKWAY",
+    "location_city": "POMPTON PLAINS",
+    "location_state": "NJ",
+    "location_zip": "07444",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9738315000"
-    },
+    "phone_number": "9738315000",
     "provider_id": "310017",
     "raw_ratings": {},
     "state": "NJ",

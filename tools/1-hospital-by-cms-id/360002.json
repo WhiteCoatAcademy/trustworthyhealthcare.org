@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1025 CENTER ST\",\"city\":\"ASHLAND\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.85863476000003",
-        "longitude": "-82.31036979699996",
-        "needs_recoding": false
+        "coordinates": [
+            -82.310456,
+            40.858784
+        ],
+        "type": "Point"
     },
+    "location_address": "1025 CENTER ST",
+    "location_city": "ASHLAND",
+    "location_state": "OH",
+    "location_zip": "44805",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4192890491"
-    },
+    "phone_number": "4192890491",
     "provider_id": "360002",
     "raw_ratings": {},
     "state": "OH",

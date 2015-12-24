@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10 HOSPITAL DRIVE\",\"city\":\"BRIDGTON\",\"state\":\"ME\",\"zip\":\"\"}",
-        "latitude": "44.04718898800007",
-        "longitude": "-70.71290392599997",
-        "needs_recoding": false
+        "coordinates": [
+            -70.714224,
+            44.046523
+        ],
+        "type": "Point"
     },
+    "location_address": "10 HOSPITAL DRIVE",
+    "location_city": "BRIDGTON",
+    "location_state": "ME",
+    "location_zip": "04009",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2076476000"
-    },
+    "phone_number": "2076476000",
     "provider_id": "201310",
     "raw_ratings": {},
     "state": "ME",

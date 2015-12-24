@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 E HOUSTON HWY\",\"city\":\"BEEVILLE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "28.407945135000034",
-        "longitude": "-97.73268821299996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.732159,
+            28.408247
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 E HOUSTON HWY",
+    "location_city": "BEEVILLE",
+    "location_state": "TX",
+    "location_zip": "78102",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.christushealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3613542000"
-    },
+    "phone_number": "3613542000",
     "provider_id": "450082",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"700 WEST 13TH\",\"city\":\"HARPER\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.28366682400008",
-        "longitude": "-98.03305017499997",
-        "needs_recoding": false
+        "coordinates": [
+            -98.033309,
+            37.283665
+        ],
+        "type": "Point"
     },
+    "location_address": "700 WEST 13TH",
+    "location_city": "HARPER",
+    "location_state": "KS",
+    "location_zip": "67058",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6208967324"
-    },
+    "phone_number": "6208967324",
     "provider_id": "171366",
     "raw_ratings": {},
     "state": "KS",

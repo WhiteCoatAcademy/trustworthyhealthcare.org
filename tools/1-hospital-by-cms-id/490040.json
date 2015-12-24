@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4320 SEMINARY RD\",\"city\":\"ALEXANDRIA\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "38.82432385000004",
-        "longitude": "-77.10517752399994",
-        "needs_recoding": false
+        "coordinates": [
+            -77.104437,
+            38.824128
+        ],
+        "type": "Point"
     },
+    "location_address": "4320 SEMINARY RD",
+    "location_city": "ALEXANDRIA",
+    "location_state": "VA",
+    "location_zip": "22304",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.inova.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7035043167"
-    },
+    "phone_number": "7035043167",
     "provider_id": "490040",
     "raw_ratings": {},
     "state": "VA",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"61 CHARLES STREET\",\"city\":\"DEADWOOD\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "44.36998428700008",
-        "longitude": "-103.72837461699999",
-        "needs_recoding": false
+        "coordinates": [
+            -103.728735,
+            44.369841
+        ],
+        "type": "Point"
     },
+    "location_address": "61 CHARLES STREET",
+    "location_city": "DEADWOOD",
+    "location_state": "SD",
+    "location_zip": "57732",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.rcrh.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6057226101"
-    },
+    "phone_number": "6057226101",
     "provider_id": "431320",
     "raw_ratings": {},
     "state": "SD",

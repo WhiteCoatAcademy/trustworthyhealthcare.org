@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"190 HOSPITAL DRIVE\",\"city\":\"HIGHLANDS\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.085542700000076",
-        "longitude": "-83.18625031599998",
-        "needs_recoding": false
+        "coordinates": [
+            -83.185722,
+            35.08613
+        ],
+        "type": "Point"
     },
+    "location_address": "190 HOSPITAL DRIVE",
+    "location_city": "HIGHLANDS",
+    "location_state": "NC",
+    "location_zip": "28741",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8285261200"
-    },
+    "phone_number": "8285261200",
     "provider_id": "341316",
     "raw_ratings": {},
     "state": "NC",

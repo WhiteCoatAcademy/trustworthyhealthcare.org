@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"201 STATE STREET\",\"city\":\"ERIE\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "42.133358041000065",
-        "longitude": "-80.08781291099996",
-        "needs_recoding": false
+        "coordinates": [
+            -80.087915,
+            42.133463
+        ],
+        "type": "Point"
     },
+    "location_address": "201 STATE STREET",
+    "location_city": "ERIE",
+    "location_state": "PA",
+    "location_zip": "16550",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8148776000"
-    },
+    "phone_number": "8148776000",
     "provider_id": "390063",
     "raw_ratings": {},
     "state": "PA",

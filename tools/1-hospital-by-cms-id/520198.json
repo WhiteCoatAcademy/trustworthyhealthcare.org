@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"855 N WESTHAVEN DRIVE\",\"city\":\"OSHKOSH\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "44.026377307000075",
-        "longitude": "-88.59405060399996",
-        "needs_recoding": false
+        "coordinates": [
+            -88.593898,
+            44.026487
+        ],
+        "type": "Point"
     },
+    "location_address": "855 N WESTHAVEN DRIVE",
+    "location_city": "OSHKOSH",
+    "location_state": "WI",
+    "location_zip": "54904",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.aurorahealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9204566000"
-    },
+    "phone_number": "9204566000",
     "provider_id": "520198",
     "raw_ratings": {},
     "state": "WI",

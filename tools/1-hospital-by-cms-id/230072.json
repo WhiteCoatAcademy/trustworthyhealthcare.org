@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"602 MICHIGAN AVE\",\"city\":\"HOLLAND\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.77478838800005",
-        "longitude": "-86.11269813699994",
-        "needs_recoding": false
+        "coordinates": [
+            -86.112814,
+            42.774519
+        ],
+        "type": "Point"
     },
+    "location_address": "602 MICHIGAN AVE",
+    "location_city": "HOLLAND",
+    "location_state": "MI",
+    "location_zip": "49423",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6163925141"
-    },
+    "phone_number": "6163925141",
     "provider_id": "230072",
     "raw_ratings": {},
     "state": "MI",

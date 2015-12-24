@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"218 E PACK ST\",\"city\":\"MOUNDRIDGE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.205117562000055",
-        "longitude": "-97.51700064599999",
-        "needs_recoding": false
+        "coordinates": [
+            -97.517003,
+            38.205072
+        ],
+        "type": "Point"
     },
+    "location_address": "218 E PACK ST",
+    "location_city": "MOUNDRIDGE",
+    "location_state": "KS",
+    "location_zip": "67107",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6203456391"
-    },
+    "phone_number": "6203456391",
     "provider_id": "170075",
     "raw_ratings": {},
     "state": "KS",

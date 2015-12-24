@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1450 BATTERSBY AVENUE\",\"city\":\"ENUMCLAW\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.208453087000066",
-        "longitude": "-121.98828148999996",
-        "needs_recoding": false
+        "coordinates": [
+            -121.988133,
+            47.208406
+        ],
+        "type": "Point"
     },
+    "location_address": "1450 BATTERSBY AVENUE",
+    "location_city": "ENUMCLAW",
+    "location_state": "WA",
+    "location_zip": "98022",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3608252505"
-    },
+    "phone_number": "3608252505",
     "provider_id": "501335",
     "raw_ratings": {},
     "state": "WA",

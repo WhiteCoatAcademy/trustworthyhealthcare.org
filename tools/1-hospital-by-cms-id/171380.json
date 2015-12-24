@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"629 SOUTH PLUMMER\",\"city\":\"CHANUTE\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "37.67538134800003",
-        "longitude": "-95.47093530899997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.470896,
+            37.675185
+        ],
+        "type": "Point"
     },
+    "location_address": "629 SOUTH PLUMMER",
+    "location_city": "CHANUTE",
+    "location_state": "KS",
+    "location_zip": "66720",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6204314000"
-    },
+    "phone_number": "6204314000",
     "provider_id": "171380",
     "raw_ratings": {},
     "state": "KS",

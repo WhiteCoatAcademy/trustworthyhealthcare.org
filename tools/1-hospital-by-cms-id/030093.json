@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"14502 WEST MEEKER BOULEVARD\",\"city\":\"SUN CITY WEST\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.65832529100004",
-        "longitude": "-112.37201500299994",
-        "needs_recoding": false
+        "coordinates": [
+            -112.371828,
+            33.658371
+        ],
+        "type": "Point"
     },
+    "location_address": "14502 WEST MEEKER BOULEVARD",
+    "location_city": "SUN CITY WEST",
+    "location_state": "AZ",
+    "location_zip": "85375",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bannerhealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6232144000"
-    },
+    "phone_number": "6232144000",
     "provider_id": "030093",
     "raw_ratings": {},
     "state": "AZ",

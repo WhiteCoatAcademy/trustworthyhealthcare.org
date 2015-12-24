@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3917 WEST ROAD\",\"city\":\"LOS ALAMOS\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "35.88215516100007",
-        "longitude": "-106.31973460199998",
-        "needs_recoding": false
+        "coordinates": [
+            -106.319762,
+            35.882215
+        ],
+        "type": "Point"
     },
+    "location_address": "3917 WEST ROAD",
+    "location_city": "LOS ALAMOS",
+    "location_state": "NM",
+    "location_zip": "87544",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5056624201"
-    },
+    "phone_number": "5056624201",
     "provider_id": "320033",
     "raw_ratings": {},
     "state": "NM",

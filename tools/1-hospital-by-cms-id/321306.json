@@ -2,17 +2,22 @@
     "address": "211 SUDDERTH DRIVE",
     "city": "RUIDOSO",
     "county_name": "LINCOLN",
-    "emergency_services": false,
+    "emergency_services": true,
     "global_rank": {},
     "hospital_name": "LINCOLN COUNTY MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"211 SUDDERTH DRIVE\",\"city\":\"RUIDOSO\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "33.32305391800003",
-        "longitude": "-105.63080572099994",
-        "needs_recoding": false
+        "coordinates": [
+            -105.631874,
+            33.322919
+        ],
+        "type": "Point"
     },
+    "location_address": "211 SUDDERTH DRIVE",
+    "location_city": "RUIDOSO",
+    "location_state": "NM",
+    "location_zip": "88345",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.phs.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5752578250"
-    },
+    "phone_number": "5752578250",
     "provider_id": "321306",
     "raw_ratings": {},
     "state": "NM",

@@ -1,18 +1,23 @@
 {
-    "address": "441 N LAKEVIEW AVENUE",
+    "address": "3440 E LA PALMA AVE",
     "city": "ANAHEIM",
     "county_name": "ORANGE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "KAISER FOUNDATION HOSPITAL - ORANGE COUNTY",
+    "hospital_name": "KAISER FOUNDATION HOSPITAL - ORANGE COUNTY - ANAHE",
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"441 N LAKEVIEW AVENUE\",\"city\":\"ANAHEIM\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.85438719500007",
-        "longitude": "-117.81668830999996",
-        "needs_recoding": false
+        "coordinates": [
+            -117.84411,
+            33.854441
+        ],
+        "type": "Point"
     },
+    "location_address": "3440 E LA PALMA AVE",
+    "location_city": "ANAHEIM",
+    "location_state": "CA",
+    "location_zip": "92806",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,11 +33,9 @@
             "www.kaiserpermanente.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7142794000"
-    },
+    "phone_number": "7142794000",
     "provider_id": "050609",
     "raw_ratings": {},
     "state": "CA",
-    "zip_code": "92807"
+    "zip_code": "92806"
 }

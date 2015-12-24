@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1213 GARFIELD AVENUE\",\"city\":\"HARLAN\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.64745347500008",
-        "longitude": "-95.32654978799997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.327287,
+            41.647497
+        ],
+        "type": "Point"
     },
+    "location_address": "1213 GARFIELD AVENUE",
+    "location_city": "HARLAN",
+    "location_state": "IA",
+    "location_zip": "51537",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7127555161"
-    },
+    "phone_number": "7127555161",
     "provider_id": "161374",
     "raw_ratings": {},
     "state": "IA",

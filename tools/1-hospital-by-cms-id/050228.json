@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1001 POTRERO AVENUE\",\"city\":\"SAN FRANCISCO\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.756173587000035",
-        "longitude": "-122.40659550899994",
-        "needs_recoding": false
+        "coordinates": [
+            -122.406608,
+            37.756171
+        ],
+        "type": "Point"
     },
+    "location_address": "1001 POTRERO AVENUE",
+    "location_city": "SAN FRANCISCO",
+    "location_state": "CA",
+    "location_zip": "94110",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.dph.sf.ca.us"
         ]
     },
-    "phone_number": {
-        "phone_number": "4152068000"
-    },
+    "phone_number": "4152068000",
     "provider_id": "050228",
     "raw_ratings": {},
     "state": "CA",

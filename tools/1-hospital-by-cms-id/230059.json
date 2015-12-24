@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 JEFFERSON AVENUE SE\",\"city\":\"GRAND RAPIDS\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.95859116500003",
-        "longitude": "-85.66405375499994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.664091,
+            42.957181
+        ],
+        "type": "Point"
     },
+    "location_address": "200 JEFFERSON AVENUE SE",
+    "location_city": "GRAND RAPIDS",
+    "location_state": "MI",
+    "location_zip": "49503",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trinity-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6166855000"
-    },
+    "phone_number": "6166855000",
     "provider_id": "230059",
     "raw_ratings": {},
     "state": "MI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"350 N WALL ST\",\"city\":\"KANKAKEE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.12378773300003",
-        "longitude": "-87.88238796599995",
-        "needs_recoding": false
+        "coordinates": [
+            -87.881916,
+            41.122802
+        ],
+        "type": "Point"
     },
+    "location_address": "350 N WALL ST",
+    "location_city": "KANKAKEE",
+    "location_state": "IL",
+    "location_zip": "60901",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.rush.edu"
         ]
     },
-    "phone_number": {
-        "phone_number": "8159331671"
-    },
+    "phone_number": "8159331671",
     "provider_id": "140186",
     "raw_ratings": {},
     "state": "IL",

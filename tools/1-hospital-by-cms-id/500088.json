@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"400 S 43RD ST\",\"city\":\"RENTON\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.441136811000035",
-        "longitude": "-122.21290961099999",
-        "needs_recoding": false
+        "coordinates": [
+            -122.214085,
+            47.44109
+        ],
+        "type": "Point"
     },
+    "location_address": "400 S 43RD ST",
+    "location_city": "RENTON",
+    "location_state": "WA",
+    "location_zip": "98055",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4252283450"
-    },
+    "phone_number": "4252283450",
     "provider_id": "500088",
     "raw_ratings": {},
     "state": "WA",

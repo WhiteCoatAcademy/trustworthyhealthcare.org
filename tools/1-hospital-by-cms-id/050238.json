@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "METHODIST HOSPITAL OF SOUTHERN CA",
-    "hospital_ownership": "Voluntary non-profit - Church",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 W HUNTINGTON DR\",\"city\":\"ARCADIA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.13372220000008",
-        "longitude": "-118.04114013199995",
-        "needs_recoding": false
+        "coordinates": [
+            -118.042103,
+            34.13523
+        ],
+        "type": "Point"
     },
+    "location_address": "300 W HUNTINGTON DR",
+    "location_city": "ARCADIA",
+    "location_state": "CA",
+    "location_zip": "91006",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6264454441"
-    },
+    "phone_number": "6264454441",
     "provider_id": "050238",
     "raw_ratings": {},
     "state": "CA",

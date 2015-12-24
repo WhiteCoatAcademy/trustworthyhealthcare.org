@@ -1,18 +1,23 @@
 {
-    "address": "2021 PERDIDO ST",
+    "address": "2000 CANAL STREET",
     "city": "NEW ORLEANS",
     "county_name": "ORLEANS",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "CHARITY HOSPITAL & MEDICAL CENTER OF LOUISIANA AT",
+    "hospital_name": "UNIVERSITY MEDICAL CENTER NEW ORLEANS",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2021 PERDIDO ST\",\"city\":\"NEW ORLEANS\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "29.95630654000007",
-        "longitude": "-90.08530953199994",
-        "needs_recoding": false
+        "coordinates": [
+            -90.080858,
+            29.961056
+        ],
+        "type": "Point"
     },
+    "location_address": "2000 CANAL STREET",
+    "location_city": "NEW ORLEANS",
+    "location_state": "LA",
+    "location_zip": "70112",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5049033000"
-    },
+    "phone_number": "5049033000",
     "provider_id": "190005",
     "raw_ratings": {},
     "state": "LA",

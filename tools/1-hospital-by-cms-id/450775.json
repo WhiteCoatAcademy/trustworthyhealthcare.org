@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"22999 US HWY 59\",\"city\":\"KINGWOOD\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.050347716000033",
-        "longitude": "-95.25297083299995",
-        "needs_recoding": false
+        "coordinates": [
+            -95.253468,
+            30.04797
+        ],
+        "type": "Point"
     },
+    "location_address": "22999 US HWY 59",
+    "location_city": "KINGWOOD",
+    "location_state": "TX",
+    "location_zip": "77325",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2813597500"
-    },
+    "phone_number": "2813597500",
     "provider_id": "450775",
     "raw_ratings": {},
     "state": "TX",

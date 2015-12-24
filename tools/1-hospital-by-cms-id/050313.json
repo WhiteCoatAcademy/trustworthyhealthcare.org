@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1420 N TRACY BLVD\",\"city\":\"TRACY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "37.74386145600005",
-        "longitude": "-121.43496497999996",
-        "needs_recoding": false
+        "coordinates": [
+            -121.43494,
+            37.744231
+        ],
+        "type": "Point"
     },
+    "location_address": "1420 N TRACY BLVD",
+    "location_city": "TRACY",
+    "location_state": "CA",
+    "location_zip": "95376",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sutterhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2098351500"
-    },
+    "phone_number": "2098351500",
     "provider_id": "050313",
     "raw_ratings": {},
     "state": "CA",

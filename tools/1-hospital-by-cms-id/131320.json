@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"301 CEDAR STREET\",\"city\":\"OROFINO\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "46.48619017000004",
-        "longitude": "-116.25973318699994",
-        "needs_recoding": false
+        "coordinates": [
+            -116.259456,
+            46.486739
+        ],
+        "type": "Point"
     },
+    "location_address": "301 CEDAR STREET",
+    "location_city": "OROFINO",
+    "location_state": "ID",
+    "location_zip": "83544",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhshealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2084764555"
-    },
+    "phone_number": "2084764555",
     "provider_id": "131320",
     "raw_ratings": {},
     "state": "ID",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"12141 RICHMOND AVE\",\"city\":\"HOUSTON\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.730563010000026",
-        "longitude": "-95.59320854099997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.59486,
+            29.730278
+        ],
+        "type": "Point"
     },
+    "location_address": "12141 RICHMOND AVE",
+    "location_city": "HOUSTON",
+    "location_state": "TX",
+    "location_zip": "77082",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "2815888080"
-    },
+    "phone_number": "2815888080",
     "provider_id": "450644",
     "raw_ratings": {},
     "state": "TX",

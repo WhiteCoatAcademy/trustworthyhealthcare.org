@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"295 VARNUM AVENUE\",\"city\":\"LOWELL\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "42.64609439700007",
-        "longitude": "-71.34273289699996",
-        "needs_recoding": false
+        "coordinates": [
+            -71.34068,
+            42.64646
+        ],
+        "type": "Point"
     },
+    "location_address": "295 VARNUM AVENUE",
+    "location_city": "LOWELL",
+    "location_state": "MA",
+    "location_zip": "01854",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9789376000"
-    },
+    "phone_number": "9789376000",
     "provider_id": "220063",
     "raw_ratings": {},
     "state": "MA",

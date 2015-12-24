@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1110 GULF BREEZE PKWY\",\"city\":\"GULF BREEZE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "30.358677588000035",
-        "longitude": "-87.15681756299995",
-        "needs_recoding": false
+        "coordinates": [
+            -87.156476,
+            30.358735
+        ],
+        "type": "Point"
     },
+    "location_address": "1110 GULF BREEZE PKWY",
+    "location_city": "GULF BREEZE",
+    "location_state": "FL",
+    "location_zip": "32561",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ebaptisthealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8509342000"
-    },
+    "phone_number": "8509342000",
     "provider_id": "100266",
     "raw_ratings": {},
     "state": "FL",

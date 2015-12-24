@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1114 W MADISON AVE\",\"city\":\"ATHENS\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.440809141000045",
-        "longitude": "-84.60869540599998",
-        "needs_recoding": false
+        "coordinates": [
+            -84.608823,
+            35.440789
+        ],
+        "type": "Point"
     },
+    "location_address": "1114 W MADISON AVE",
+    "location_city": "ATHENS",
+    "location_state": "TN",
+    "location_zip": "37371",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifepointhospitals.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "4237451411"
-    },
+    "phone_number": "4237451411",
     "provider_id": "440068",
     "raw_ratings": {},
     "state": "TN",

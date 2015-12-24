@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"311 NORTH MORROW STREET\",\"city\":\"MENA\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "34.58906940500003",
-        "longitude": "-94.22244717999996",
-        "needs_recoding": false
+        "coordinates": [
+            -94.222504,
+            34.588476
+        ],
+        "type": "Point"
     },
+    "location_address": "311 NORTH MORROW STREET",
+    "location_city": "MENA",
+    "location_state": "AR",
+    "location_zip": "71953",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4793946100"
-    },
+    "phone_number": "4793946100",
     "provider_id": "040015",
     "raw_ratings": {},
     "state": "AR",

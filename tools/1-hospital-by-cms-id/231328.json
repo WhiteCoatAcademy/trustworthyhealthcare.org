@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"555 LINN STREET\",\"city\":\"ALLEGAN\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.519804555000064",
-        "longitude": "-85.85709898499994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.856515,
+            42.52151
+        ],
+        "type": "Point"
     },
+    "location_address": "555 LINN STREET",
+    "location_city": "ALLEGAN",
+    "location_state": "MI",
+    "location_zip": "49010",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2696864101"
-    },
+    "phone_number": "2696864101",
     "provider_id": "231328",
     "raw_ratings": {},
     "state": "MI",

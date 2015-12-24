@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"102 WEST CONECUH AVENUE\",\"city\":\"UNION SPRINGS\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "32.14614261200006",
-        "longitude": "-85.71266859199994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.715994,
+            32.146178
+        ],
+        "type": "Point"
     },
+    "location_address": "102 WEST CONECUH AVENUE",
+    "location_city": "UNION SPRINGS",
+    "location_state": "AL",
+    "location_zip": "36089",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3347382140"
-    },
+    "phone_number": "3347382140",
     "provider_id": "010110",
     "raw_ratings": {},
     "state": "AL",

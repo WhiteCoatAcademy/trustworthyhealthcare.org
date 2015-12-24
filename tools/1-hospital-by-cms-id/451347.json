@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"310 SOUTH PECOS STREET\",\"city\":\"COLEMAN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.82886033300008",
-        "longitude": "-99.42525004299995",
-        "needs_recoding": false
+        "coordinates": [
+            -99.425237,
+            31.828919
+        ],
+        "type": "Point"
     },
+    "location_address": "310 SOUTH PECOS STREET",
+    "location_city": "COLEMAN",
+    "location_state": "TX",
+    "location_zip": "76834",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3256252135"
-    },
+    "phone_number": "3256252135",
     "provider_id": "451347",
     "raw_ratings": {},
     "state": "TX",

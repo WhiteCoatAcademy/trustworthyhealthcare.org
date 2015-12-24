@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1060 FIRST COLONIAL ROAD\",\"city\":\"VIRGINIA BEACH\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "36.86401478300007",
-        "longitude": "-76.02833099099996",
-        "needs_recoding": false
+        "coordinates": [
+            -76.02844,
+            36.864366
+        ],
+        "type": "Point"
     },
+    "location_address": "1060 FIRST COLONIAL ROAD",
+    "location_city": "VIRGINIA BEACH",
+    "location_state": "VA",
+    "location_zip": "23454",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sentara.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7573958000"
-    },
+    "phone_number": "7573958000",
     "provider_id": "490057",
     "raw_ratings": {},
     "state": "VA",

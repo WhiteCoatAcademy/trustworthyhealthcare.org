@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"56-117 PUALALEA STREET\",\"city\":\"KAHUKU\",\"state\":\"HI\",\"zip\":\"\"}",
-        "latitude": "21.677342124000063",
-        "longitude": "-157.95221866199998",
-        "needs_recoding": false
+        "coordinates": [
+            -157.952265,
+            21.676942
+        ],
+        "type": "Point"
     },
+    "location_address": "56-117 PUALALEA STREET",
+    "location_city": "KAHUKU",
+    "location_state": "HI",
+    "location_zip": "96731",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8082939221"
-    },
+    "phone_number": "8082939221",
     "provider_id": "121304",
     "raw_ratings": {},
     "state": "HI",

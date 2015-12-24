@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2600 WILSON ST\",\"city\":\"MILES CITY\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "46.397329709000076",
-        "longitude": "-105.82765531799998",
-        "needs_recoding": false
+        "coordinates": [
+            -105.827028,
+            46.397346
+        ],
+        "type": "Point"
     },
+    "location_address": "2600 WILSON ST",
+    "location_city": "MILES CITY",
+    "location_state": "MT",
+    "location_zip": "59301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4062332600"
-    },
+    "phone_number": "4062332600",
     "provider_id": "271347",
     "raw_ratings": {},
     "state": "MT",

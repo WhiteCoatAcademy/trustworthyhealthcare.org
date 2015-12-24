@@ -4,15 +4,20 @@
     "county_name": "SAINT TAMMANY",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "LOUISIANA  HEART HOSPITAL",
+    "hospital_name": "LOUISIANA HEART HOSPITAL",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"64030 HIGHWAY 434\",\"city\":\"LACOMBE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.358139229000074",
-        "longitude": "-89.91657957999996",
-        "needs_recoding": false
+        "coordinates": [
+            -89.916007,
+            30.359009
+        ],
+        "type": "Point"
     },
+    "location_address": "64030 HIGHWAY 434",
+    "location_city": "LACOMBE",
+    "location_state": "LA",
+    "location_zip": "70445",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.medcath.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "9856907500"
-    },
+    "phone_number": "9856407500",
     "provider_id": "190250",
     "raw_ratings": {},
     "state": "LA",

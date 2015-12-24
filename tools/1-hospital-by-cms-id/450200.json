@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 PINE STREET\",\"city\":\"TEXARKANA\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.427606826000044",
-        "longitude": "-94.04667523499995",
-        "needs_recoding": false
+        "coordinates": [
+            -94.047255,
+            33.428603
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 PINE STREET",
+    "location_city": "TEXARKANA",
+    "location_state": "TX",
+    "location_zip": "75501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9037988000"
-    },
+    "phone_number": "9037988000",
     "provider_id": "450200",
     "raw_ratings": {},
     "state": "TX",

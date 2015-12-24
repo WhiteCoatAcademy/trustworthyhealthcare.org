@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"3495 BAILEY AVENUE\",\"city\":\"BUFFALO\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.95082595400004",
-        "longitude": "-78.81367395699993",
-        "needs_recoding": false
+        "coordinates": [
+            -78.81373,
+            42.951122
+        ],
+        "type": "Point"
     },
+    "location_address": "3495 BAILEY AVENUE",
+    "location_city": "BUFFALO",
+    "location_state": "NY",
+    "location_zip": "14215",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "7168623611"
-    },
+    "phone_number": "7168623611",
     "provider_id": "33012F",
     "raw_ratings": {},
     "state": "NY",

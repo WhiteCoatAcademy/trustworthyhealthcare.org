@@ -4,15 +4,20 @@
     "county_name": "MARION",
     "emergency_services": false,
     "global_rank": {},
-    "hospital_name": "INDIANA ORTHOPAEDIC HOSPITAL",
+    "hospital_name": "ORTHOINDY HOSPITAL",
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8400 NORTHWEST BLVD\",\"city\":\"INDIANAPOLIS\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.906802377000076",
-        "longitude": "-86.26626140099995",
-        "needs_recoding": false
+        "coordinates": [
+            -86.266258,
+            39.906702
+        ],
+        "type": "Point"
     },
+    "location_address": "8400 NORTHWEST BLVD",
+    "location_city": "INDIANAPOLIS",
+    "location_state": "IN",
+    "location_zip": "46278",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3179561000"
-    },
+    "phone_number": "3179561000",
     "provider_id": "150160",
     "raw_ratings": {},
     "state": "IN",

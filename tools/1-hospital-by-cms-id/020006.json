@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2500 SOUTH WOODWORTH LOOP\",\"city\":\"PALMER\",\"state\":\"AK\",\"zip\":\"\"}",
-        "latitude": "61.56200592200008",
-        "longitude": "-149.26054740599997",
-        "needs_recoding": false
+        "coordinates": [
+            -149.262393,
+            61.564015
+        ],
+        "type": "Point"
     },
+    "location_address": "2500 SOUTH WOODWORTH LOOP",
+    "location_city": "PALMER",
+    "location_state": "AK",
+    "location_zip": "99645",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "9077468600"
-    },
+    "phone_number": "9078616000",
     "provider_id": "020006",
     "raw_ratings": {},
     "state": "AK",

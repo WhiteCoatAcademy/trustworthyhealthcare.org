@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1300 MICCOSUKEE RD\",\"city\":\"TALLAHASSEE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "30.45504990300003",
-        "longitude": "-84.26351144799997",
-        "needs_recoding": false
+        "coordinates": [
+            -84.260662,
+            30.456171
+        ],
+        "type": "Point"
     },
+    "location_address": "1300 MICCOSUKEE RD",
+    "location_city": "TALLAHASSEE",
+    "location_state": "FL",
+    "location_zip": "32308",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8504311155"
-    },
+    "phone_number": "8504311155",
     "provider_id": "100135",
     "raw_ratings": {},
     "state": "FL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2829 E HWY 76\",\"city\":\"MULLINS\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.188898178000045",
-        "longitude": "-79.32689093799996",
-        "needs_recoding": false
+        "coordinates": [
+            -79.321945,
+            34.189232
+        ],
+        "type": "Point"
     },
+    "location_address": "2829 E HWY 76",
+    "location_city": "MULLINS",
+    "location_state": "SC",
+    "location_zip": "29574",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8434312000"
-    },
+    "phone_number": "8434312000",
     "provider_id": "420055",
     "raw_ratings": {},
     "state": "SC",

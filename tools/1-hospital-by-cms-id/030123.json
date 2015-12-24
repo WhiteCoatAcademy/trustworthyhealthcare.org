@@ -4,15 +4,20 @@
     "county_name": "MARICOPA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "SCOTTSDALE HEALTHCARE-THOMPSON PEAK HOSPITAL",
+    "hospital_name": "SCOTTSDALE THOMPSON PEAK MEDICAL CENTER",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7400 EAST THOMPSON PEAK PARKWAY\",\"city\":\"SCOTTSDALE\",\"state\":\"AZ\",\"zip\":\"\"}",
-        "latitude": "33.669828521000056",
-        "longitude": "-111.92258015599998",
-        "needs_recoding": false
+        "coordinates": [
+            -111.921715,
+            33.669777
+        ],
+        "type": "Point"
     },
+    "location_address": "7400 EAST THOMPSON PEAK PARKWAY",
+    "location_city": "SCOTTSDALE",
+    "location_state": "AZ",
+    "location_zip": "85255",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4803247004"
-    },
+    "phone_number": "4803247004",
     "provider_id": "030123",
     "raw_ratings": {},
     "state": "AZ",

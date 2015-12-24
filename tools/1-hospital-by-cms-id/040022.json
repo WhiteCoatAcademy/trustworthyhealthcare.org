@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"609 WEST MAPLE AVENUE\",\"city\":\"SPRINGDALE\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "36.18136270600007",
-        "longitude": "-94.13665058099997",
-        "needs_recoding": false
+        "coordinates": [
+            -94.136202,
+            36.181392
+        ],
+        "type": "Point"
     },
+    "location_address": "609 WEST MAPLE AVENUE",
+    "location_city": "SPRINGDALE",
+    "location_state": "AR",
+    "location_zip": "72764",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "4797515711"
-    },
+    "phone_number": "4797515711",
     "provider_id": "040022",
     "raw_ratings": {},
     "state": "AR",

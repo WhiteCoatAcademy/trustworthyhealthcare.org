@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1200 N 7TH ST\",\"city\":\"OAKES\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "46.150876862000075",
-        "longitude": "-98.09037062199997",
-        "needs_recoding": false
+        "coordinates": [
+            -98.090473,
+            46.152359
+        ],
+        "type": "Point"
     },
+    "location_address": "1200 N 7TH ST",
+    "location_city": "OAKES",
+    "location_state": "ND",
+    "location_zip": "58474",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7017423291"
-    },
+    "phone_number": "7017423291",
     "provider_id": "351315",
     "raw_ratings": {},
     "state": "ND",

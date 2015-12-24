@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"21601 76TH AVENUE WEST\",\"city\":\"EDMONDS\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "47.80380944600006",
-        "longitude": "-122.33564836499994",
-        "needs_recoding": false
+        "coordinates": [
+            -122.335697,
+            47.803284
+        ],
+        "type": "Point"
     },
+    "location_address": "21601 76TH AVENUE WEST",
+    "location_city": "EDMONDS",
+    "location_state": "WA",
+    "location_zip": "98026",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4256404000"
-    },
+    "phone_number": "4256404000",
     "provider_id": "500026",
     "raw_ratings": {},
     "state": "WA",

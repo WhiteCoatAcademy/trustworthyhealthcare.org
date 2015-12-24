@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1105 SIXTH STREET\",\"city\":\"TRAVERSE CITY\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "44.76161146000004",
-        "longitude": "-85.64174096999994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.641402,
+            44.761646
+        ],
+        "type": "Point"
     },
+    "location_address": "1105 SIXTH STREET",
+    "location_city": "TRAVERSE CITY",
+    "location_state": "MI",
+    "location_zip": "49684",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.munsonhealthcare.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2319355000"
-    },
+    "phone_number": "2319355000",
     "provider_id": "230097",
     "raw_ratings": {},
     "state": "MI",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"325 ELEVENTH AVE\",\"city\":\"TWO HARBORS\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "47.02965745100005",
-        "longitude": "-91.66691553899994",
-        "needs_recoding": false
+        "coordinates": [
+            -91.666841,
+            47.029671
+        ],
+        "type": "Point"
     },
+    "location_address": "325 ELEVENTH AVE",
+    "location_city": "TWO HARBORS",
+    "location_state": "MN",
+    "location_zip": "55616",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2188347300"
-    },
+    "phone_number": "2188347300",
     "provider_id": "241308",
     "raw_ratings": {},
     "state": "MN",

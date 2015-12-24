@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10 ALICE PECK DAY DRIVE\",\"city\":\"LEBANON\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "43.63919446800003",
-        "longitude": "-72.26376377699995",
-        "needs_recoding": false
+        "coordinates": [
+            -72.264438,
+            43.640318
+        ],
+        "type": "Point"
     },
+    "location_address": "10 ALICE PECK DAY DRIVE",
+    "location_city": "LEBANON",
+    "location_state": "NH",
+    "location_zip": "03766",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6034483121"
-    },
+    "phone_number": "6034483121",
     "provider_id": "301305",
     "raw_ratings": {},
     "state": "NH",

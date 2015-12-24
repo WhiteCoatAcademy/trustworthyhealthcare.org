@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"211 CHURCH STREET\",\"city\":\"SARATOGA SPRINGS\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "43.08479713600008",
-        "longitude": "-73.79692112399994",
-        "needs_recoding": false
+        "coordinates": [
+            -73.796267,
+            43.084791
+        ],
+        "type": "Point"
     },
+    "location_address": "211 CHURCH STREET",
+    "location_city": "SARATOGA SPRINGS",
+    "location_state": "NY",
+    "location_zip": "12866",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5185873222"
-    },
+    "phone_number": "5185873222",
     "provider_id": "330222",
     "raw_ratings": {},
     "state": "NY",

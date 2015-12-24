@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2770 MAIN STREET\",\"city\":\"MARLETTE\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.33401916400004",
-        "longitude": "-83.08082226599998",
-        "needs_recoding": false
+        "coordinates": [
+            -83.080688,
+            43.333886
+        ],
+        "type": "Point"
     },
+    "location_address": "2770 MAIN STREET",
+    "location_city": "MARLETTE",
+    "location_state": "MI",
+    "location_zip": "48453",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9896354000"
-    },
+    "phone_number": "9896354000",
     "provider_id": "231330",
     "raw_ratings": {},
     "state": "MI",

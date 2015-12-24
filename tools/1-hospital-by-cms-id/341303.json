@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"520 ALLEN STREET\",\"city\":\"TROY\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.36383373800004",
-        "longitude": "-79.89144680599998",
-        "needs_recoding": false
+        "coordinates": [
+            -79.891582,
+            35.364837
+        ],
+        "type": "Point"
     },
+    "location_address": "520 ALLEN STREET",
+    "location_city": "TROY",
+    "location_state": "NC",
+    "location_zip": "27371",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.firsthealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9105721301"
-    },
+    "phone_number": "9105721301",
     "provider_id": "341303",
     "raw_ratings": {},
     "state": "NC",

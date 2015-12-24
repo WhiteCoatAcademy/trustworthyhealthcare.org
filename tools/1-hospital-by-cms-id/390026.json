@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"8835 GERMANTOWN AVE\",\"city\":\"PHILADELPHIA\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.07909652400008",
-        "longitude": "-75.21340963599994",
-        "needs_recoding": false
+        "coordinates": [
+            -75.211419,
+            40.078271
+        ],
+        "type": "Point"
     },
+    "location_address": "8835 GERMANTOWN AVE",
+    "location_city": "PHILADELPHIA",
+    "location_state": "PA",
+    "location_zip": "19118",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "2152488200"
-    },
+    "phone_number": "2152488200",
     "provider_id": "390026",
     "raw_ratings": {},
     "state": "PA",

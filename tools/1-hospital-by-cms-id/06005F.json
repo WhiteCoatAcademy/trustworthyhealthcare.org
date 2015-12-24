@@ -8,11 +8,16 @@
     "hospital_ownership": "Government Federal",
     "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
     "location": {
-        "human_address": "{\"address\":\"1055 CLERMONT STREET\",\"city\":\"DENVER\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "39.73108091300003",
-        "longitude": "-104.93517664599995",
-        "needs_recoding": false
+        "coordinates": [
+            -104.935024,
+            39.732746
+        ],
+        "type": "Point"
     },
+    "location_address": "1055 CLERMONT STREET",
+    "location_city": "DENVER",
+    "location_state": "CO",
+    "location_zip": "80220",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.va.gov"
         ]
     },
-    "phone_number": {
-        "phone_number": "3033932800"
-    },
+    "phone_number": "3033932800",
     "provider_id": "06005F",
     "raw_ratings": {},
     "state": "CO",

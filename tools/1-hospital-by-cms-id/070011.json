@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"540 LITCHFIELD ST\",\"city\":\"TORRINGTON\",\"state\":\"CT\",\"zip\":\"\"}",
-        "latitude": "41.79083588300006",
-        "longitude": "-73.13293155399998",
-        "needs_recoding": false
+        "coordinates": [
+            -73.135288,
+            41.790799
+        ],
+        "type": "Point"
     },
+    "location_address": "540 LITCHFIELD ST",
+    "location_city": "TORRINGTON",
+    "location_state": "CT",
+    "location_zip": "06790",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8604966666"
-    },
+    "phone_number": "8604966666",
     "provider_id": "070011",
     "raw_ratings": {},
     "state": "CT",

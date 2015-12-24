@@ -4,15 +4,20 @@
     "county_name": "PIKE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "PIKE COMMUNITY HOSPITAL",
+    "hospital_name": "ADENA PIKE MEDICAL CENTER",
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 DAWN LANE\",\"city\":\"WAVERLY\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "39.116452794000054",
-        "longitude": "-83.00580020199999",
-        "needs_recoding": false
+        "coordinates": [
+            -83.005839,
+            39.116363
+        ],
+        "type": "Point"
     },
+    "location_address": "100 DAWN LANE",
+    "location_city": "WAVERLY",
+    "location_state": "OH",
+    "location_zip": "45690",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7409472186"
-    },
+    "phone_number": "7409472186",
     "provider_id": "361334",
     "raw_ratings": {},
     "state": "OH",

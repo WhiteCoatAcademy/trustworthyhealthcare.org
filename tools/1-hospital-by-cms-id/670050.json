@@ -4,15 +4,20 @@
     "county_name": "LUBBOCK",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "TRUSTPOINT HOSPITAL",
+    "hospital_name": "TRUSTPOINT HOSPITAL OF LUBBOCK",
     "hospital_ownership": "Physician",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4302 PRINCETON\",\"city\":\"LUBBOCK\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.61685691200006",
-        "longitude": "-101.86834877299998",
-        "needs_recoding": false
+        "coordinates": [
+            -101.900489,
+            33.617021
+        ],
+        "type": "Point"
     },
+    "location_address": "4302 PRINCETON",
+    "location_city": "LUBBOCK",
+    "location_state": "TX",
+    "location_zip": "79415",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8067492222"
-    },
+    "phone_number": "8067492222",
     "provider_id": "670050",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"900 ROUND VALLEY DRIVE\",\"city\":\"PARK CITY\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "40.68647486900005",
-        "longitude": "-111.46651672699994",
-        "needs_recoding": false
+        "coordinates": [
+            -111.467791,
+            40.68756
+        ],
+        "type": "Point"
     },
+    "location_address": "900 ROUND VALLEY DRIVE",
+    "location_city": "PARK CITY",
+    "location_state": "UT",
+    "location_zip": "84060",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4356587000"
-    },
+    "phone_number": "4356586700",
     "provider_id": "460057",
     "raw_ratings": {},
     "state": "UT",

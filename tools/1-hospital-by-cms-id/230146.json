@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2333 BIDDLE AVE\",\"city\":\"WYANDOTTE\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.210411528000066",
-        "longitude": "-83.14890863599999",
-        "needs_recoding": false
+        "coordinates": [
+            -83.148776,
+            42.209694
+        ],
+        "type": "Point"
     },
+    "location_address": "2333 BIDDLE AVE",
+    "location_city": "WYANDOTTE",
+    "location_state": "MI",
+    "location_zip": "48192",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.henryfordhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7342466000"
-    },
+    "phone_number": "7342466000",
     "provider_id": "230146",
     "raw_ratings": {},
     "state": "MI",

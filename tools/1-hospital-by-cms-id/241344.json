@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"715 DELMORE DRIVE\",\"city\":\"ROSEAU\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "48.84053371600004",
-        "longitude": "-95.76019147799997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.759935,
+            48.839607
+        ],
+        "type": "Point"
     },
+    "location_address": "715 DELMORE DRIVE",
+    "location_city": "ROSEAU",
+    "location_state": "MN",
+    "location_zip": "56751",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2184632500"
-    },
+    "phone_number": "2184632500",
     "provider_id": "241344",
     "raw_ratings": {},
     "state": "MN",

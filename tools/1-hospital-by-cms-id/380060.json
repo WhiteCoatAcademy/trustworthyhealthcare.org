@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"10123 SE MARKET STREET\",\"city\":\"PORTLAND\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "45.51154642500006",
-        "longitude": "-122.55906313399998",
-        "needs_recoding": false
+        "coordinates": [
+            -122.559602,
+            45.511351
+        ],
+        "type": "Point"
     },
+    "location_address": "10123 SE MARKET STREET",
+    "location_city": "PORTLAND",
+    "location_state": "OR",
+    "location_zip": "97216",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.adventisthealth.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "5032572500"
-    },
+    "phone_number": "5032572500",
     "provider_id": "380060",
     "raw_ratings": {},
     "state": "OR",

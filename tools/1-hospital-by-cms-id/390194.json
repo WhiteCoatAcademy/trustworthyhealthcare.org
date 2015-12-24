@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"211 NORTH 12TH STREET\",\"city\":\"LEHIGHTON\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.832475790000046",
-        "longitude": "-75.72678748199996",
-        "needs_recoding": false
+        "coordinates": [
+            -75.726658,
+            40.831391
+        ],
+        "type": "Point"
     },
+    "location_address": "211 NORTH 12TH STREET",
+    "location_city": "LEHIGHTON",
+    "location_state": "PA",
+    "location_zip": "18235",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.blmtn.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6073771300"
-    },
+    "phone_number": "6073771300",
     "provider_id": "390194",
     "raw_ratings": {},
     "state": "PA",

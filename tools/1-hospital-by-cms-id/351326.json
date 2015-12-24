@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"115 VIVIAN ST\",\"city\":\"PARK RIVER\",\"state\":\"ND\",\"zip\":\"\"}",
-        "latitude": "48.39919986400008",
-        "longitude": "-97.74489595399996",
-        "needs_recoding": false
+        "coordinates": [
+            -97.747617,
+            48.399087
+        ],
+        "type": "Point"
     },
+    "location_address": "115 VIVIAN ST",
+    "location_city": "PARK RIVER",
+    "location_state": "ND",
+    "location_zip": "58270",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7012847500"
-    },
+    "phone_number": "7012847500",
     "provider_id": "351326",
     "raw_ratings": {},
     "state": "ND",

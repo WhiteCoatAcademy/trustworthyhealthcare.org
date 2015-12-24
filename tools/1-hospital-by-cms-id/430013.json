@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"525 N FOSTER\",\"city\":\"MITCHELL\",\"state\":\"SD\",\"zip\":\"\"}",
-        "latitude": "43.714263499000026",
-        "longitude": "-98.00740447599998",
-        "needs_recoding": false
+        "coordinates": [
+            -98.007324,
+            43.713842
+        ],
+        "type": "Point"
     },
+    "location_address": "525 N FOSTER",
+    "location_city": "MITCHELL",
+    "location_state": "SD",
+    "location_zip": "57301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "6059952000"
-    },
+    "phone_number": "6059952000",
     "provider_id": "430013",
     "raw_ratings": {},
     "state": "SD",

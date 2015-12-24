@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"201 9TH STREET WEST\",\"city\":\"ADA\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "47.297893790000046",
-        "longitude": "-96.53027357999997",
-        "needs_recoding": false
+        "coordinates": [
+            -96.53019,
+            47.296091
+        ],
+        "type": "Point"
     },
+    "location_address": "201 9TH STREET WEST",
+    "location_city": "ADA",
+    "location_state": "MN",
+    "location_zip": "56510",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.bhshealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2187845000"
-    },
+    "phone_number": "2187845000",
     "provider_id": "241313",
     "raw_ratings": {},
     "state": "MN",

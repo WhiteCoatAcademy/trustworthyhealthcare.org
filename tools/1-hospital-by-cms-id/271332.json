@@ -5,14 +5,19 @@
     "emergency_services": true,
     "global_rank": {},
     "hospital_name": "GLENDIVE MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
+    "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"202 PROSPECT DR\",\"city\":\"GLENDIVE\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "47.11721549600003",
-        "longitude": "-104.70486709999994",
-        "needs_recoding": false
+        "coordinates": [
+            -104.704905,
+            47.117147
+        ],
+        "type": "Point"
     },
+    "location_address": "202 PROSPECT DR",
+    "location_city": "GLENDIVE",
+    "location_state": "MT",
+    "location_zip": "59330",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4063453306"
-    },
+    "phone_number": "4063453306",
     "provider_id": "271332",
     "raw_ratings": {},
     "state": "MT",

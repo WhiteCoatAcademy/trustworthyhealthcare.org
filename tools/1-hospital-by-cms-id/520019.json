@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2251 NORTH SHORE DR\",\"city\":\"RHINELANDER\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "45.637142813000025",
-        "longitude": "-89.37567057699994",
-        "needs_recoding": false
+        "coordinates": [
+            -89.374618,
+            45.637123
+        ],
+        "type": "Point"
     },
+    "location_address": "2251 NORTH SHORE DR",
+    "location_city": "RHINELANDER",
+    "location_state": "WI",
+    "location_zip": "54501",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.marianhealthsystem.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7153612000"
-    },
+    "phone_number": "7153612000",
     "provider_id": "520019",
     "raw_ratings": {},
     "state": "WI",

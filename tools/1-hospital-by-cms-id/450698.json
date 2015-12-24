@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 S SUNSET\",\"city\":\"LITTLEFIELD\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.912411905000056",
-        "longitude": "-102.34541650699998",
-        "needs_recoding": false
+        "coordinates": [
+            -102.345445,
+            33.91091
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 S SUNSET",
+    "location_city": "LITTLEFIELD",
+    "location_state": "TX",
+    "location_zip": "79339",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8063856411"
-    },
+    "phone_number": "8063856411",
     "provider_id": "450698",
     "raw_ratings": {},
     "state": "TX",

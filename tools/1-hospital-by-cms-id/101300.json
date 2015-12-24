@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"533 CARLTON ST\",\"city\":\"WAUCHULA\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.536402957000064",
-        "longitude": "-81.81713095699996",
-        "needs_recoding": false
+        "coordinates": [
+            -81.816562,
+            27.536471
+        ],
+        "type": "Point"
     },
+    "location_address": "533 CARLTON ST",
+    "location_city": "WAUCHULA",
+    "location_state": "FL",
+    "location_zip": "33873",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8637733101"
-    },
+    "phone_number": "8637733101",
     "provider_id": "101300",
     "raw_ratings": {},
     "state": "FL",

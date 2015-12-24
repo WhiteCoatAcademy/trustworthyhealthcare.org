@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 EAST CYPRESS STREET\",\"city\":\"SULPHUR\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "30.231053159000055",
-        "longitude": "-93.36861096499996",
-        "needs_recoding": false
+        "coordinates": [
+            -93.368718,
+            30.231058
+        ],
+        "type": "Point"
     },
+    "location_address": "701 EAST CYPRESS STREET",
+    "location_city": "SULPHUR",
+    "location_state": "LA",
+    "location_zip": "70663",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3375277034"
-    },
+    "phone_number": "3375277034",
     "provider_id": "190013",
     "raw_ratings": {},
     "state": "LA",

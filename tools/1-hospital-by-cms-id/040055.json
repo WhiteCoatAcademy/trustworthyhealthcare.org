@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1001 TOWSON AVENUE\",\"city\":\"FORT SMITH\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "35.37432987300008",
-        "longitude": "-94.42129645299997",
-        "needs_recoding": false
+        "coordinates": [
+            -94.421312,
+            35.374465
+        ],
+        "type": "Point"
     },
+    "location_address": "1001 TOWSON AVENUE",
+    "location_city": "FORT SMITH",
+    "location_state": "AR",
+    "location_zip": "72902",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5014414000"
-    },
+    "phone_number": "4794414000",
     "provider_id": "040055",
     "raw_ratings": {},
     "state": "AR",

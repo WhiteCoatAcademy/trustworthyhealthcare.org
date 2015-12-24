@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2401 WEST BELVEDERE AVENUE\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}",
-        "latitude": "39.35468575300007",
-        "longitude": "-76.66225076499995",
-        "needs_recoding": false
+        "coordinates": [
+            -76.663247,
+            39.353928
+        ],
+        "type": "Point"
     },
+    "location_address": "2401 WEST BELVEDERE AVENUE",
+    "location_city": "BALTIMORE",
+    "location_state": "MD",
+    "location_zip": "21215",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lifebridgehealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4106015131"
-    },
+    "phone_number": "4106015131",
     "provider_id": "210012",
     "raw_ratings": {},
     "state": "MD",

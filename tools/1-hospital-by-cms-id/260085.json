@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1000 CARONDELET DR\",\"city\":\"KANSAS CITY\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.93505121900006",
-        "longitude": "-94.60167349599999",
-        "needs_recoding": false
+        "coordinates": [
+            -94.605907,
+            38.935007
+        ],
+        "type": "Point"
     },
+    "location_address": "1000 CARONDELET DR",
+    "location_city": "KANSAS CITY",
+    "location_state": "MO",
+    "location_zip": "64114",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8169424000"
-    },
+    "phone_number": "8169424000",
     "provider_id": "260085",
     "raw_ratings": {},
     "state": "MO",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 STONECREST BOULEVARD\",\"city\":\"SMYRNA\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.978163849000055",
-        "longitude": "-86.56285208899999",
-        "needs_recoding": false
+        "coordinates": [
+            -86.562475,
+            35.976793
+        ],
+        "type": "Point"
     },
+    "location_address": "200 STONECREST BOULEVARD",
+    "location_city": "SMYRNA",
+    "location_state": "TN",
+    "location_zip": "37167",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hcahealthcare.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "6157682000"
-    },
+    "phone_number": "6157682000",
     "provider_id": "440227",
     "raw_ratings": {},
     "state": "TN",

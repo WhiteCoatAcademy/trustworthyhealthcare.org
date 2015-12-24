@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"88 WASHINGTON STREET\",\"city\":\"TAUNTON\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "41.90524426700006",
-        "longitude": "-71.09487903399997",
-        "needs_recoding": false
+        "coordinates": [
+            -71.094342,
+            41.905589
+        ],
+        "type": "Point"
     },
+    "location_address": "88 WASHINGTON STREET",
+    "location_city": "TAUNTON",
+    "location_state": "MA",
+    "location_zip": "02780",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5088287000"
-    },
+    "phone_number": "5088287000",
     "provider_id": "220073",
     "raw_ratings": {},
     "state": "MA",

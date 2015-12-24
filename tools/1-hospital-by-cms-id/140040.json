@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"695 N KELLOGG ST\",\"city\":\"GALESBURG\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "40.95578018300006",
-        "longitude": "-90.36616439699998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.366201,
+            40.95562
+        ],
+        "type": "Point"
     },
+    "location_address": "695 N KELLOGG ST",
+    "location_city": "GALESBURG",
+    "location_state": "IL",
+    "location_zip": "61401",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.chs.net"
         ]
     },
-    "phone_number": {
-        "phone_number": "3093454555"
-    },
+    "phone_number": "3093454555",
     "provider_id": "140040",
     "raw_ratings": {},
     "state": "IL",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"90 SWIFTWATER RD\",\"city\":\"WOODSVILLE\",\"state\":\"NH\",\"zip\":\"\"}",
-        "latitude": "44.136381318000076",
-        "longitude": "-72.02367875299996",
-        "needs_recoding": false
+        "coordinates": [
+            -72.023349,
+            44.136331
+        ],
+        "type": "Point"
     },
+    "location_address": "90 SWIFTWATER RD",
+    "location_city": "WOODSVILLE",
+    "location_state": "NH",
+    "location_zip": "03785",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6037479000"
-    },
+    "phone_number": "6037479000",
     "provider_id": "301301",
     "raw_ratings": {},
     "state": "NH",

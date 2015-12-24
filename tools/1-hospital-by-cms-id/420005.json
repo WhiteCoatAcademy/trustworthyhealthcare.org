@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"301 E JACKSON ST\",\"city\":\"DILLON\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.42126774900004",
-        "longitude": "-79.36603616799994",
-        "needs_recoding": false
+        "coordinates": [
+            -79.366107,
+            34.421266
+        ],
+        "type": "Point"
     },
+    "location_address": "301 E JACKSON ST",
+    "location_city": "DILLON",
+    "location_state": "SC",
+    "location_zip": "29536",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.mcleodhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8437744111"
-    },
+    "phone_number": "8437744111",
     "provider_id": "420005",
     "raw_ratings": {},
     "state": "SC",

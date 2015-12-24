@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4650 LINCOLN BLVD\",\"city\":\"MARINA DEL REY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.981251118000046",
-        "longitude": "-118.43970749799996",
-        "needs_recoding": false
+        "coordinates": [
+            -118.440631,
+            33.98224
+        ],
+        "type": "Point"
     },
+    "location_address": "4650 LINCOLN BLVD",
+    "location_city": "MARINA DEL REY",
+    "location_state": "CA",
+    "location_zip": "90291",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3108238911"
-    },
+    "phone_number": "3108238911",
     "provider_id": "050740",
     "raw_ratings": {},
     "state": "CA",

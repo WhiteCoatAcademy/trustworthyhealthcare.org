@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4864 JACKSON STREET\",\"city\":\"MONROE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.450122555000064",
-        "longitude": "-92.10532437099994",
-        "needs_recoding": false
+        "coordinates": [
+            -92.105823,
+            32.452442
+        ],
+        "type": "Point"
     },
+    "location_address": "4864 JACKSON STREET",
+    "location_city": "MONROE",
+    "location_state": "LA",
+    "location_zip": "71202",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.lsuhospitals.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "3183307000"
-    },
+    "phone_number": "3183307000",
     "provider_id": "190011",
     "raw_ratings": {},
     "state": "LA",

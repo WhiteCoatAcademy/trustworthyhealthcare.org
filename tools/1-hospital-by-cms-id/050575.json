@@ -4,15 +4,20 @@
     "county_name": "LOS ANGELES",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "TRI-CITY REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
+    "hospital_name": "GARDENS REGIONAL HOSPITAL AND MEDICAL CENTER",
+    "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"21530 S PIONEER BLVD\",\"city\":\"HAWAIIAN GARDENS\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.83370383000005",
-        "longitude": "-118.08177291299995",
-        "needs_recoding": false
+        "coordinates": [
+            -118.081794,
+            33.833516
+        ],
+        "type": "Point"
     },
+    "location_address": "21530 S PIONEER BLVD",
+    "location_city": "HAWAIIAN GARDENS",
+    "location_state": "CA",
+    "location_zip": "90716",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5628600401"
-    },
+    "phone_number": "5628600401",
     "provider_id": "050575",
     "raw_ratings": {},
     "state": "CA",

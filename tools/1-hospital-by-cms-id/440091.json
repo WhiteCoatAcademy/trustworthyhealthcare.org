@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2525 DESALES AVE\",\"city\":\"CHATTANOOGA\",\"state\":\"TN\",\"zip\":\"\"}",
-        "latitude": "35.04009670500005",
-        "longitude": "-85.26118031199996",
-        "needs_recoding": false
+        "coordinates": [
+            -85.260508,
+            35.039821
+        ],
+        "type": "Point"
     },
+    "location_address": "2525 DESALES AVE",
+    "location_city": "CHATTANOOGA",
+    "location_state": "TN",
+    "location_zip": "37404",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.catholichealthinit.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "4234952525"
-    },
+    "phone_number": "4234952525",
     "provider_id": "440091",
     "raw_ratings": {},
     "state": "TN",

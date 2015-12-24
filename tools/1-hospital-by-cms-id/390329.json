@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"559 WEST GERMANTOWN PIKE\",\"city\":\"EAST NORRITON\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.151277761000074",
-        "longitude": "-75.34468334199994",
-        "needs_recoding": false
+        "coordinates": [
+            -75.34299,
+            40.150788
+        ],
+        "type": "Point"
     },
+    "location_address": "559 WEST GERMANTOWN PIKE",
+    "location_city": "EAST NORRITON",
+    "location_state": "PA",
+    "location_zip": "19403",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4846621000"
-    },
+    "phone_number": "4846621000",
     "provider_id": "390329",
     "raw_ratings": {},
     "state": "PA",

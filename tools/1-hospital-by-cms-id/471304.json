@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"189 PROUTY DRIVE\",\"city\":\"NEWPORT\",\"state\":\"VT\",\"zip\":\"\"}",
-        "latitude": "44.954721317000065",
-        "longitude": "-72.20172748299996",
-        "needs_recoding": false
+        "coordinates": [
+            -72.200855,
+            44.95464
+        ],
+        "type": "Point"
     },
+    "location_address": "189 PROUTY DRIVE",
+    "location_city": "NEWPORT",
+    "location_state": "VT",
+    "location_zip": "05855",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8023347331"
-    },
+    "phone_number": "8023347331",
     "provider_id": "471304",
     "raw_ratings": {},
     "state": "VT",

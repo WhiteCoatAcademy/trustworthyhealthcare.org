@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"470 NE A STREET\",\"city\":\"MADRAS\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "44.63741737400005",
-        "longitude": "-121.12071929299998",
-        "needs_recoding": false
+        "coordinates": [
+            -121.119549,
+            44.637375
+        ],
+        "type": "Point"
     },
+    "location_address": "470 NE A STREET",
+    "location_city": "MADRAS",
+    "location_state": "OR",
+    "location_zip": "97741",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5414604200"
-    },
+    "phone_number": "5414604200",
     "provider_id": "381324",
     "raw_ratings": {},
     "state": "OR",

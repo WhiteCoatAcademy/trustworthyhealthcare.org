@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1600 W AVE J\",\"city\":\"LANCASTER\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.68939282100007",
-        "longitude": "-118.15849081699997",
-        "needs_recoding": false
+        "coordinates": [
+            -118.157996,
+            34.689374
+        ],
+        "type": "Point"
     },
+    "location_address": "1600 W AVE J",
+    "location_city": "LANCASTER",
+    "location_state": "CA",
+    "location_zip": "93534",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6619495000"
-    },
+    "phone_number": "6619495000",
     "provider_id": "050056",
     "raw_ratings": {},
     "state": "CA",

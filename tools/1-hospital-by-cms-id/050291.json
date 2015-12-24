@@ -1,18 +1,23 @@
 {
-    "address": "3325 CHANATE RD",
+    "address": "30 MARK WEST SPRINGS ROAD",
     "city": "SANTA ROSA",
     "county_name": "SONOMA",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "SUTTER MEDICAL CENTER OF SANTA ROSA",
+    "hospital_name": "SUTTER SANTA ROSA REGIONAL HOSPITAL",
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"3325 CHANATE RD\",\"city\":\"SANTA ROSA\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.468323749000035",
-        "longitude": "-122.70807904599997",
-        "needs_recoding": false
+        "coordinates": [
+            -122.75204,
+            38.496343
+        ],
+        "type": "Point"
     },
+    "location_address": "30 MARK WEST SPRINGS ROAD",
+    "location_city": "SANTA ROSA",
+    "location_state": "CA",
+    "location_zip": "95403",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,11 +33,9 @@
             "www.sutterhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7075764000"
-    },
+    "phone_number": "7075764000",
     "provider_id": "050291",
     "raw_ratings": {},
     "state": "CA",
-    "zip_code": "95404"
+    "zip_code": "95403"
 }

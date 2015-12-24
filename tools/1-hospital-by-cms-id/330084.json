@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"133 PARK STREET\",\"city\":\"MALONE\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "44.856826701000045",
-        "longitude": "-74.29199423699998",
-        "needs_recoding": false
+        "coordinates": [
+            -74.29198,
+            44.856786
+        ],
+        "type": "Point"
     },
+    "location_address": "133 PARK STREET",
+    "location_city": "MALONE",
+    "location_state": "NY",
+    "location_zip": "12953",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "5184833000"
-    },
+    "phone_number": "5184833000",
     "provider_id": "330084",
     "raw_ratings": {},
     "state": "NY",

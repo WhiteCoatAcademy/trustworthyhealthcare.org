@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"607 W MAIN STREET\",\"city\":\"GRANGEVILLE\",\"state\":\"ID\",\"zip\":\"\"}",
-        "latitude": "45.926817268000036",
-        "longitude": "-116.12753880799994",
-        "needs_recoding": false
+        "coordinates": [
+            -116.127519,
+            45.926791
+        ],
+        "type": "Point"
     },
+    "location_address": "607 W MAIN STREET",
+    "location_city": "GRANGEVILLE",
+    "location_state": "ID",
+    "location_zip": "83530",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2089831700"
-    },
+    "phone_number": "2089831700",
     "provider_id": "131315",
     "raw_ratings": {},
     "state": "ID",

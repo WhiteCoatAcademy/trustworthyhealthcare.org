@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"701 S HEALTH PARKWAY\",\"city\":\"THREE RIVERS\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "41.93497198500006",
-        "longitude": "-85.64698730899994",
-        "needs_recoding": false
+        "coordinates": [
+            -85.646958,
+            41.934945
+        ],
+        "type": "Point"
     },
+    "location_address": "701 S HEALTH PARKWAY",
+    "location_city": "THREE RIVERS",
+    "location_state": "MI",
+    "location_zip": "49093",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "2692739602"
-    },
+    "phone_number": "2692739602",
     "provider_id": "230015",
     "raw_ratings": {},
     "state": "MI",

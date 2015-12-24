@@ -4,15 +4,20 @@
     "county_name": "CACHE",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "CACHE VALLEY SPECIALITY HOSPITAL",
+    "hospital_name": "CACHE VALLEY  HOSPITAL",
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2380 NORTH 400 EAST\",\"city\":\"NORTH LOGAN\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "41.77553825700005",
-        "longitude": "-111.82310081999998",
-        "needs_recoding": false
+        "coordinates": [
+            -111.823071,
+            41.775982
+        ],
+        "type": "Point"
     },
+    "location_address": "2380 NORTH 400 EAST",
+    "location_city": "NORTH LOGAN",
+    "location_state": "UT",
+    "location_zip": "84341",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4357139580"
-    },
+    "phone_number": "4357139580",
     "provider_id": "460054",
     "raw_ratings": {},
     "state": "UT",

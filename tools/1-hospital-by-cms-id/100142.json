@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"4250 HOSPITAL DR\",\"city\":\"MARIANNA\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "30.786336262000077",
-        "longitude": "-85.24125947899995",
-        "needs_recoding": false
+        "coordinates": [
+            -85.242053,
+            30.786601
+        ],
+        "type": "Point"
     },
+    "location_address": "4250 HOSPITAL DR",
+    "location_city": "MARIANNA",
+    "location_state": "FL",
+    "location_zip": "32446",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8507182620"
-    },
+    "phone_number": "8507182620",
     "provider_id": "100142",
     "raw_ratings": {},
     "state": "FL",

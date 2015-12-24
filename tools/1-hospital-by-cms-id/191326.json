@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"409 FIRST STREET\",\"city\":\"BERNICE\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "32.824362869000026",
-        "longitude": "-92.65665356999995",
-        "needs_recoding": false
+        "coordinates": [
+            -92.657007,
+            32.824378
+        ],
+        "type": "Point"
     },
+    "location_address": "409 FIRST STREET",
+    "location_city": "BERNICE",
+    "location_state": "LA",
+    "location_zip": "71222",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3182859066"
-    },
+    "phone_number": "3182859066",
     "provider_id": "191326",
     "raw_ratings": {},
     "state": "LA",

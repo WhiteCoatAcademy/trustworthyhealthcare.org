@@ -4,15 +4,20 @@
     "county_name": "MUSKEGON",
     "emergency_services": true,
     "global_rank": {},
-    "hospital_name": "MERCY HEALTH PARTNERS, MERCY CAMPUS",
+    "hospital_name": "MERCY HEALTH MUSKEGON",
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1500 E SHERMAN BOULEVARD\",\"city\":\"MUSKEGON\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.20501400000006",
-        "longitude": "-86.20813547099993",
-        "needs_recoding": false
+        "coordinates": [
+            -86.208992,
+            43.204998
+        ],
+        "type": "Point"
     },
+    "location_address": "1500 E SHERMAN BOULEVARD",
+    "location_city": "MUSKEGON",
+    "location_state": "MI",
+    "location_zip": "49444",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trinity-health.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2316723901"
-    },
+    "phone_number": "2316723901",
     "provider_id": "230004",
     "raw_ratings": {},
     "state": "MI",

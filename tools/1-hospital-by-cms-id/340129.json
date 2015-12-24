@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"171 FAIRVIEW ROAD\",\"city\":\"MOORESVILLE\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.54774828600006",
-        "longitude": "-80.85135978099999",
-        "needs_recoding": false
+        "coordinates": [
+            -80.852746,
+            35.547749
+        ],
+        "type": "Point"
     },
+    "location_address": "171 FAIRVIEW ROAD",
+    "location_city": "MOORESVILLE",
+    "location_state": "NC",
+    "location_zip": "28117",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.hma.com"
         ]
     },
-    "phone_number": {
-        "phone_number": "7046604000"
-    },
+    "phone_number": "7046604000",
     "provider_id": "340129",
     "raw_ratings": {},
     "state": "NC",

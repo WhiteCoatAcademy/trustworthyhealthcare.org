@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1700 SW 7TH STREET\",\"city\":\"TOPEKA\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.05599356600004",
-        "longitude": "-95.69617183499997",
-        "needs_recoding": false
+        "coordinates": [
+            -95.696248,
+            39.055992
+        ],
+        "type": "Point"
     },
+    "location_address": "1700 SW 7TH STREET",
+    "location_city": "TOPEKA",
+    "location_state": "KS",
+    "location_zip": "66606",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sclhsc.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "7852958000"
-    },
+    "phone_number": "7852958000",
     "provider_id": "170016",
     "raw_ratings": {},
     "state": "KS",

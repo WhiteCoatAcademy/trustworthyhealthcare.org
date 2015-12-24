@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2605 N LEBANON ST\",\"city\":\"LEBANON\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "40.07732903500005",
-        "longitude": "-86.47528381299998",
-        "needs_recoding": false
+        "coordinates": [
+            -86.47462,
+            40.074374
+        ],
+        "type": "Point"
     },
+    "location_address": "2605 N LEBANON ST",
+    "location_city": "LEBANON",
+    "location_state": "IN",
+    "location_zip": "46052",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7654858000"
-    },
+    "phone_number": "7654858000",
     "provider_id": "150104",
     "raw_ratings": {},
     "state": "IN",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1516 JEFFERSON HWY\",\"city\":\"NEW ORLEANS\",\"state\":\"LA\",\"zip\":\"\"}",
-        "latitude": "29.962732816000027",
-        "longitude": "-90.14516480999998",
-        "needs_recoding": false
+        "coordinates": [
+            -90.14632,
+            29.962943
+        ],
+        "type": "Point"
     },
+    "location_address": "1516 JEFFERSON HWY",
+    "location_city": "NEW ORLEANS",
+    "location_state": "LA",
+    "location_zip": "70121",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ochsner.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5048423000"
-    },
+    "phone_number": "5048423000",
     "provider_id": "190036",
     "raw_ratings": {},
     "state": "LA",

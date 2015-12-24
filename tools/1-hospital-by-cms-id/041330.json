@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"1206 GORDON DUCKWORTH DRIVE\",\"city\":\"PIGGOTT\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "36.39047890000006",
-        "longitude": "-90.20224429599995",
-        "needs_recoding": false
+        "coordinates": [
+            -90.204179,
+            36.390042
+        ],
+        "type": "Point"
     },
+    "location_address": "1206 GORDON DUCKWORTH DRIVE",
+    "location_city": "PIGGOTT",
+    "location_state": "AR",
+    "location_zip": "72454",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "8705983881"
-    },
+    "phone_number": "8705983881",
     "provider_id": "041330",
     "raw_ratings": {},
     "state": "AR",

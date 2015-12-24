@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"450 E SIGLER AVENUE\",\"city\":\"MEMPHIS\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "40.46576040900004",
-        "longitude": "-92.16649810899997",
-        "needs_recoding": false
+        "coordinates": [
+            -92.168171,
+            40.466023
+        ],
+        "type": "Point"
     },
+    "location_address": "450 E SIGLER AVENUE",
+    "location_city": "MEMPHIS",
+    "location_state": "MO",
+    "location_zip": "63555",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6604658511"
-    },
+    "phone_number": "6604658511",
     "provider_id": "261310",
     "raw_ratings": {},
     "state": "MO",

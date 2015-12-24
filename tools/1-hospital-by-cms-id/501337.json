@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"520 N FOURTH AVENUE\",\"city\":\"PASCO\",\"state\":\"WA\",\"zip\":\"\"}",
-        "latitude": "46.23465843100007",
-        "longitude": "-119.09434662899997",
-        "needs_recoding": false
+        "coordinates": [
+            -119.094643,
+            46.235463
+        ],
+        "type": "Point"
     },
+    "location_address": "520 N FOURTH AVENUE",
+    "location_city": "PASCO",
+    "location_state": "WA",
+    "location_zip": "99301",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ascensionhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5095462278"
-    },
+    "phone_number": "5095462278",
     "provider_id": "501337",
     "raw_ratings": {},
     "state": "WA",

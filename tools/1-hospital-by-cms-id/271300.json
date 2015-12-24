@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"211 H ST E\",\"city\":\"POPLAR\",\"state\":\"MT\",\"zip\":\"\"}",
-        "latitude": "48.110076734000074",
-        "longitude": "-105.18953018199994",
-        "needs_recoding": false
+        "coordinates": [
+            -105.197204,
+            48.114941
+        ],
+        "type": "Point"
     },
+    "location_address": "211 H ST E",
+    "location_city": "POPLAR",
+    "location_state": "MT",
+    "location_zip": "59255",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -24,9 +29,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4067686100"
-    },
+    "phone_number": "4067686100",
     "provider_id": "271300",
     "raw_ratings": {},
     "state": "MT",

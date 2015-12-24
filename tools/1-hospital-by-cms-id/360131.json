@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"200 EAST STATE STREET\",\"city\":\"ALLIANCE\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.90172089300006",
-        "longitude": "-81.10231899899998",
-        "needs_recoding": false
+        "coordinates": [
+            -81.102427,
+            40.901679
+        ],
+        "type": "Point"
     },
+    "location_address": "200 EAST STATE STREET",
+    "location_city": "ALLIANCE",
+    "location_state": "OH",
+    "location_zip": "44601",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "3305967527"
-    },
+    "phone_number": "3305967527",
     "provider_id": "360131",
     "raw_ratings": {},
     "state": "OH",

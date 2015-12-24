@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Local",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"750 HOSPITAL LOOP\",\"city\":\"CRAIG\",\"state\":\"CO\",\"zip\":\"\"}",
-        "latitude": "40.514234112000054",
-        "longitude": "-107.54786712599997",
-        "needs_recoding": false
+        "coordinates": [
+            -107.578654,
+            40.518508
+        ],
+        "type": "Point"
     },
+    "location_address": "750 HOSPITAL LOOP",
+    "location_city": "CRAIG",
+    "location_state": "CO",
+    "location_zip": "81625",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "9708249411"
-    },
+    "phone_number": "9708249411",
     "provider_id": "061314",
     "raw_ratings": {},
     "state": "CO",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Church",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9100 W 74TH STREET\",\"city\":\"SHAWNEE MISSION\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "38.99436046200003",
-        "longitude": "-94.84347394299994",
-        "needs_recoding": false
+        "coordinates": [
+            -94.692586,
+            38.995129
+        ],
+        "type": "Point"
     },
+    "location_address": "9100 W 74TH STREET",
+    "location_city": "SHAWNEE MISSION",
+    "location_state": "KS",
+    "location_zip": "66204",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.ahss.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9136762151"
-    },
+    "phone_number": "9136762151",
     "provider_id": "170104",
     "raw_ratings": {},
     "state": "KS",

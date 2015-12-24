@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"300 SOUTH BRUCE STREET\",\"city\":\"MARSHALL\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.44773911200008",
-        "longitude": "-95.77623928899999",
-        "needs_recoding": false
+        "coordinates": [
+            -95.77619,
+            44.447847
+        ],
+        "type": "Point"
     },
+    "location_address": "300 SOUTH BRUCE STREET",
+    "location_city": "MARSHALL",
+    "location_state": "MN",
+    "location_zip": "56258",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.avera.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5075379661"
-    },
+    "phone_number": "5075379661",
     "provider_id": "241359",
     "raw_ratings": {},
     "state": "MN",

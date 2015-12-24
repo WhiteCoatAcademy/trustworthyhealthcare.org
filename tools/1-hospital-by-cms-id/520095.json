@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"260 26TH STREET\",\"city\":\"PRAIRIE DU SAC\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.29294001400007",
-        "longitude": "-89.72281904599998",
-        "needs_recoding": false
+        "coordinates": [
+            -89.752186,
+            43.285904
+        ],
+        "type": "Point"
     },
+    "location_address": "260 26TH STREET",
+    "location_city": "PRAIRIE DU SAC",
+    "location_state": "WI",
+    "location_zip": "53578",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6086433311"
-    },
+    "phone_number": "6086433311",
     "provider_id": "520095",
     "raw_ratings": {},
     "state": "WI",

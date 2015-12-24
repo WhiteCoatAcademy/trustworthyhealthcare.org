@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Other",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"801 W GORDON STREET\",\"city\":\"THOMASTON\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.88718258000006",
-        "longitude": "-84.33558113699996",
-        "needs_recoding": false
+        "coordinates": [
+            -84.337284,
+            32.887289
+        ],
+        "type": "Point"
     },
+    "location_address": "801 W GORDON STREET",
+    "location_city": "THOMASTON",
+    "location_state": "GA",
+    "location_zip": "30286",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "7066478111"
-    },
+    "phone_number": "7066478111",
     "provider_id": "110002",
     "raw_ratings": {},
     "state": "GA",

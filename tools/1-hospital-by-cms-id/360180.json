@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"9500 EUCLID AVENUE\",\"city\":\"CLEVELAND\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "41.50347424000006",
-        "longitude": "-81.62061063999994",
-        "needs_recoding": false
+        "coordinates": [
+            -81.621465,
+            41.503444
+        ],
+        "type": "Point"
     },
+    "location_address": "9500 EUCLID AVENUE",
+    "location_city": "CLEVELAND",
+    "location_state": "OH",
+    "location_zip": "44195",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "my.clevelandclinic.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "2164442200"
-    },
+    "phone_number": "2164442200",
     "provider_id": "360180",
     "raw_ratings": {},
     "state": "OH",

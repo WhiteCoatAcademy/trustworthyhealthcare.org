@@ -8,11 +8,16 @@
     "hospital_ownership": "Proprietary",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"2709 HOSPITAL BLVD\",\"city\":\"GRAND PRAIRIE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.733622592000074",
-        "longitude": "-97.04796087599999",
-        "needs_recoding": false
+        "coordinates": [
+            -97.050999,
+            32.733743
+        ],
+        "type": "Point"
     },
+    "location_address": "2709 HOSPITAL BLVD",
+    "location_city": "GRAND PRAIRIE",
+    "location_state": "TX",
+    "location_zip": "75051",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "4696352073"
-    },
+    "phone_number": "4696352073",
     "provider_id": "670083",
     "raw_ratings": {},
     "state": "TX",

@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"202 S PARK ST\",\"city\":\"MADISON\",\"state\":\"WI\",\"zip\":\"\"}",
-        "latitude": "43.06585592700003",
-        "longitude": "-89.40097742799998",
-        "needs_recoding": false
+        "coordinates": [
+            -89.400912,
+            43.065857
+        ],
+        "type": "Point"
     },
+    "location_address": "202 S PARK ST",
+    "location_city": "MADISON",
+    "location_state": "WI",
+    "location_zip": "53715",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -26,9 +31,7 @@
         "name": null,
         "websites": []
     },
-    "phone_number": {
-        "phone_number": "6084176000"
-    },
+    "phone_number": "6084176000",
     "provider_id": "520089",
     "raw_ratings": {},
     "state": "WI",

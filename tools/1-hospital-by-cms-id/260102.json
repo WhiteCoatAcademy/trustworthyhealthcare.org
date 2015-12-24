@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"7900 LEE'S SUMMIT RD\",\"city\":\"KANSAS CITY\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.97317446300008",
-        "longitude": "-94.39055587899998",
-        "needs_recoding": false
+        "coordinates": [
+            -94.39046,
+            38.973566
+        ],
+        "type": "Point"
     },
+    "location_address": "7900 LEE'S SUMMIT RD",
+    "location_city": "KANSAS CITY",
+    "location_state": "MO",
+    "location_zip": "64139",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.trumed.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "8164047000"
-    },
+    "phone_number": "8164047000",
     "provider_id": "260102",
     "raw_ratings": {},
     "state": "MO",

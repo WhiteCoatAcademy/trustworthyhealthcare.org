@@ -8,11 +8,16 @@
     "hospital_ownership": "Government - Hospital District or Authority",
     "hospital_type": "Critical Access Hospitals",
     "location": {
-        "human_address": "{\"address\":\"112 ST OLAF AVENUE SOUTH\",\"city\":\"CANBY\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.70775180900006",
-        "longitude": "-96.27770228199995",
-        "needs_recoding": false
+        "coordinates": [
+            -96.277201,
+            44.708157
+        ],
+        "type": "Point"
     },
+    "location_address": "112 ST OLAF AVENUE SOUTH",
+    "location_city": "CANBY",
+    "location_state": "MN",
+    "location_zip": "56220",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.sanfordhealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "5072237277"
-    },
+    "phone_number": "5072237277",
     "provider_id": "241347",
     "raw_ratings": {},
     "state": "MN",

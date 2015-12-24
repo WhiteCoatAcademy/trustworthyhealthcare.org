@@ -8,11 +8,16 @@
     "hospital_ownership": "Voluntary non-profit - Private",
     "hospital_type": "Acute Care Hospitals",
     "location": {
-        "human_address": "{\"address\":\"100 MADISON AVE\",\"city\":\"MORRISTOWN\",\"state\":\"NJ\",\"zip\":\"\"}",
-        "latitude": "40.788068028000055",
-        "longitude": "-74.46562741299994",
-        "needs_recoding": false
+        "coordinates": [
+            -74.463273,
+            40.787937
+        ],
+        "type": "Point"
     },
+    "location_address": "100 MADISON AVE",
+    "location_city": "MORRISTOWN",
+    "location_state": "NJ",
+    "location_zip": "07962",
     "network_info": {
         "arin_handles": [],
         "as_numbers": [],
@@ -28,9 +33,7 @@
             "www.atlantichealth.org"
         ]
     },
-    "phone_number": {
-        "phone_number": "9739715450"
-    },
+    "phone_number": "9739715450",
     "provider_id": "310015",
     "raw_ratings": {},
     "state": "NJ",
