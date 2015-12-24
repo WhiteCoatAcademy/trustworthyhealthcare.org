@@ -1,547 +1,626 @@
-[ {
-  "hospital_name" : "CONCORD HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6032252711"
-  },
-  "zip_code" : "03301",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.56237359399995",
-    "latitude" : "43.19636682200007",
-    "human_address" : "{\"address\":\"250 PLEASANT ST\",\"city\":\"CONCORD\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "250 PLEASANT ST",
-  "provider_id" : "300001",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "MERRIMACK",
-  "city" : "CONCORD"
-}
-, {
-  "hospital_name" : "MARY HITCHCOCK MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6036505000"
-  },
-  "zip_code" : "03756",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.27225972799994",
-    "latitude" : "43.68386003400008",
-    "human_address" : "{\"address\":\"1 MEDICAL CENTER DRIVE\",\"city\":\"LEBANON\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "1 MEDICAL CENTER DRIVE",
-  "provider_id" : "300003",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "GRAFTON",
-  "city" : "LEBANON"
-}
-, {
-  "hospital_name" : "LAKES REGION GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6035243211"
-  },
-  "zip_code" : "03246",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.46088802699995",
-    "latitude" : "43.527812674000074",
-    "human_address" : "{\"address\":\"80 HIGHLAND ST\",\"city\":\"LACONIA\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "80 HIGHLAND ST",
-  "provider_id" : "300005",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "BELKNAP",
-  "city" : "LACONIA"
-}
-, {
-  "hospital_name" : "ST JOSEPH HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6038823000"
-  },
-  "zip_code" : "03060",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.48138236699998",
-    "latitude" : "42.74987807200006",
-    "human_address" : "{\"address\":\"172 KINSLEY ST\",\"city\":\"NASHUA\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "172 KINSLEY ST",
-  "provider_id" : "300011",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "HILLSBOROUGH",
-  "city" : "NASHUA"
-}
-, {
-  "hospital_name" : "ELLIOT HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6036695300"
-  },
-  "zip_code" : "03103",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.43477375499998",
-    "latitude" : "42.982755833000056",
-    "human_address" : "{\"address\":\"1 ELLIOT WAY\",\"city\":\"MANCHESTER\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "1 ELLIOT WAY",
-  "provider_id" : "300012",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "HILLSBOROUGH",
-  "city" : "MANCHESTER"
-}
-, {
-  "hospital_name" : "FRISBIE MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6033325211"
-  },
-  "zip_code" : "03867",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.96113323699996",
-    "latitude" : "43.29814862400008",
-    "human_address" : "{\"address\":\"11 WHITEHALL ROAD\",\"city\":\"ROCHESTER\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "11 WHITEHALL ROAD",
-  "provider_id" : "300014",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "STRAFFORD",
-  "city" : "ROCHESTER"
-}
-, {
-  "hospital_name" : "PARKLAND MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "6034212100"
-  },
-  "zip_code" : "03038",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.31764464999998",
-    "latitude" : "42.87572298200007",
-    "human_address" : "{\"address\":\"1 PARKLAND DRIVE\",\"city\":\"DERRY\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "1 PARKLAND DRIVE",
-  "provider_id" : "300017",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "ROCKINGHAM",
-  "city" : "DERRY"
-}
-, {
-  "hospital_name" : "WENTWORTH-DOUGLASS HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6037402580"
-  },
-  "zip_code" : "03820",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.87485304999996",
-    "latitude" : "43.21223662800003",
-    "human_address" : "{\"address\":\"789 CENTRAL AVE\",\"city\":\"DOVER\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "789 CENTRAL AVE",
-  "provider_id" : "300018",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "STRAFFORD",
-  "city" : "DOVER"
-}
-, {
-  "hospital_name" : "CHESHIRE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "6033545400"
-  },
-  "zip_code" : "03431",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.28984628299997",
-    "latitude" : "42.94920147700003",
-    "human_address" : "{\"address\":\"580 COURT STREET\",\"city\":\"KEENE\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "580 COURT STREET",
-  "provider_id" : "300019",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "CHESHIRE",
-  "city" : "KEENE"
-}
-, {
-  "hospital_name" : "SOUTHERN NH MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "6035772000"
-  },
-  "zip_code" : "03060",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.46127868299999",
-    "latitude" : "42.75608461500008",
-    "human_address" : "{\"address\":\"8 PROSPECT STREET\",\"city\":\"NASHUA\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "8 PROSPECT STREET",
-  "provider_id" : "300020",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "HILLSBOROUGH",
-  "city" : "NASHUA"
-}
-, {
-  "hospital_name" : "EXETER HOSPITAL INC",
-  "phone_number" : {
-    "phone_number" : "6037787311"
-  },
-  "zip_code" : "03833",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.93615039799994",
-    "latitude" : "42.98183971000003",
-    "human_address" : "{\"address\":\"5 ALUMNI DRIVE\",\"city\":\"EXETER\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "5 ALUMNI DRIVE",
-  "provider_id" : "300023",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "ROCKINGHAM",
-  "city" : "EXETER"
-}
-, {
-  "hospital_name" : "PORTSMOUTH REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6034365110"
-  },
-  "zip_code" : "03801",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.78732925599996",
-    "latitude" : "43.06439368100007",
-    "human_address" : "{\"address\":\"333 BORTHWICK AVE\",\"city\":\"PORTSMOUTH\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "333 BORTHWICK AVE",
-  "provider_id" : "300029",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "ROCKINGHAM",
-  "city" : "PORTSMOUTH"
-}
-, {
-  "hospital_name" : "CATHOLIC MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "6036683545"
-  },
-  "zip_code" : "03102",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.47356883099997",
-    "latitude" : "42.99159726000005",
-    "human_address" : "{\"address\":\"100 MCGREGOR STREET\",\"city\":\"MANCHESTER\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "100 MCGREGOR STREET",
-  "provider_id" : "300034",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "HILLSBOROUGH",
-  "city" : "MANCHESTER"
-}
-, {
-  "hospital_name" : "UPPER CONNECTICUT VALLEY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6032374971"
-  },
-  "zip_code" : "03576",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.48253170999993",
-    "latitude" : "44.903514478000034",
-    "human_address" : "{\"address\":\"181 CORLISS LANE\",\"city\":\"COLEBROOK\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "181 CORLISS LANE",
-  "provider_id" : "301300",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "COOS",
-  "city" : "COLEBROOK"
-}
-, {
-  "hospital_name" : "COTTAGE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6037479000"
-  },
-  "zip_code" : "03785",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.02367875299996",
-    "latitude" : "44.136381318000076",
-    "human_address" : "{\"address\":\"90 SWIFTWATER RD\",\"city\":\"WOODSVILLE\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "90 SWIFTWATER RD",
-  "provider_id" : "301301",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "GRAFTON",
-  "city" : "WOODSVILLE"
-}
-, {
-  "hospital_name" : "LITTLETON REGIONAL HEALTHCARE",
-  "phone_number" : {
-    "phone_number" : "6034449000"
-  },
-  "zip_code" : "03561",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.82523742399997",
-    "latitude" : "44.31629571600007",
-    "human_address" : "{\"address\":\"600 ST JOHNSBURY ROAD\",\"city\":\"LITTLETON\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "600 ST JOHNSBURY ROAD",
-  "provider_id" : "301302",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "GRAFTON",
-  "city" : "LITTLETON"
-}
-, {
-  "hospital_name" : "WEEKS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "6037884911"
-  },
-  "zip_code" : "03584",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.55387962599997",
-    "latitude" : "44.486967063000066",
-    "human_address" : "{\"address\":\"173 MIDDLE STREET\",\"city\":\"LANCASTER\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "173 MIDDLE STREET",
-  "provider_id" : "301303",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "COOS",
-  "city" : "LANCASTER"
-}
-, {
-  "hospital_name" : "NEW LONDON HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6035262911"
-  },
-  "zip_code" : "03257",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.00157167599997",
-    "latitude" : "43.42088249100004",
-    "human_address" : "{\"address\":\"273 COUNTY ROAD\",\"city\":\"NEW LONDON\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "273 COUNTY ROAD",
-  "provider_id" : "301304",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "MERRIMACK",
-  "city" : "NEW LONDON"
-}
-, {
-  "hospital_name" : "ALICE PECK DAY MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6034483121"
-  },
-  "zip_code" : "03766",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.26376377699995",
-    "latitude" : "43.63919446800003",
-    "human_address" : "{\"address\":\"10 ALICE PECK DAY DRIVE\",\"city\":\"LEBANON\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "10 ALICE PECK DAY DRIVE",
-  "provider_id" : "301305",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "GRAFTON",
-  "city" : "LEBANON"
-}
-, {
-  "hospital_name" : "FRANKLIN REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6039342060"
-  },
-  "zip_code" : "03235",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.64235768699996",
-    "latitude" : "43.44747605400005",
-    "human_address" : "{\"address\":\"15 AIKEN AVENUE\",\"city\":\"FRANKLIN\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "15 AIKEN AVENUE",
-  "provider_id" : "301306",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "MERRIMACK",
-  "city" : "FRANKLIN"
-}
-, {
-  "hospital_name" : "MEMORIAL HOSPITAL, THE",
-  "phone_number" : {
-    "phone_number" : "6033565461"
-  },
-  "zip_code" : "03860",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.13815016999996",
-    "latitude" : "44.06028821500007",
-    "human_address" : "{\"address\":\"3073 WHITE MOUNTAIN HIGHWAY\",\"city\":\"NORTH CONWAY\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "3073 WHITE MOUNTAIN HIGHWAY",
-  "provider_id" : "301307",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "CARROLL",
-  "city" : "NORTH CONWAY"
-}
-, {
-  "hospital_name" : "VALLEY REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6035427771"
-  },
-  "zip_code" : "03743",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.34215740299999",
-    "latitude" : "43.38560484100003",
-    "human_address" : "{\"address\":\"243 ELM STREET\",\"city\":\"CLAREMONT\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "243 ELM STREET",
-  "provider_id" : "301308",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "SULLIVAN",
-  "city" : "CLAREMONT"
-}
-, {
-  "hospital_name" : "MONADNOCK COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6039247191"
-  },
-  "zip_code" : "03458",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.95097763599995",
-    "latitude" : "42.87613368400008",
-    "human_address" : "{\"address\":\"452 OLD STREET ROAD\",\"city\":\"PETERBOROUGH\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "452 OLD STREET ROAD",
-  "provider_id" : "301309",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "HILLSBOROUGH",
-  "city" : "PETERBOROUGH"
-}
-, {
-  "hospital_name" : "ANDROSCOGGIN VALLEY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6037522200"
-  },
-  "zip_code" : "03570",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.15691699799999",
-    "latitude" : "44.48745992100004",
-    "human_address" : "{\"address\":\"59 PAGE HILL ROAD\",\"city\":\"BERLIN\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "59 PAGE HILL ROAD",
-  "provider_id" : "301310",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "COOS",
-  "city" : "BERLIN"
-}
-, {
-  "hospital_name" : "SPEARE MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6035361120"
-  },
-  "zip_code" : "03264",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.69491711399996",
-    "latitude" : "43.75788642600003",
-    "human_address" : "{\"address\":\"16 HOSPITAL ROAD\",\"city\":\"PLYMOUTH\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "16 HOSPITAL ROAD",
-  "provider_id" : "301311",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "GRAFTON",
-  "city" : "PLYMOUTH"
-}
-, {
-  "hospital_name" : "HUGGINS HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "6035697500"
-  },
-  "zip_code" : "03894",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.20113479899999",
-    "latitude" : "43.58071851300008",
-    "human_address" : "{\"address\":\"240 SOUTH MAIN STREET\",\"city\":\"WOLFEBORO\",\"state\":\"NH\",\"zip\":\"\"}"
-  },
-  "address" : "240 SOUTH MAIN STREET",
-  "provider_id" : "301312",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NH",
-  "emergency_services" : true,
-  "county_name" : "CARROLL",
-  "city" : "WOLFEBORO"
-}
- ]
+[
+    {
+        "address": "100 MCGREGOR STREET",
+        "city": "MANCHESTER",
+        "county_name": "HILLSBOROUGH",
+        "emergency_services": true,
+        "hospital_name": "CATHOLIC MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.47341,
+                42.992054
+            ],
+            "type": "Point"
+        },
+        "location_address": "100 MCGREGOR STREET",
+        "location_city": "MANCHESTER",
+        "location_state": "NH",
+        "location_zip": "03102",
+        "phone_number": "6036683545",
+        "provider_id": "300034",
+        "state": "NH",
+        "zip_code": "03102"
+    },
+    {
+        "address": "243 ELM STREET",
+        "city": "CLAREMONT",
+        "county_name": "SULLIVAN",
+        "emergency_services": true,
+        "hospital_name": "VALLEY REGIONAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -72.34209,
+                43.385729
+            ],
+            "type": "Point"
+        },
+        "location_address": "243 ELM STREET",
+        "location_city": "CLAREMONT",
+        "location_state": "NH",
+        "location_zip": "03743",
+        "phone_number": "6035427771",
+        "provider_id": "301308",
+        "state": "NH",
+        "zip_code": "03743"
+    },
+    {
+        "address": "80 HIGHLAND ST",
+        "city": "LACONIA",
+        "county_name": "BELKNAP",
+        "emergency_services": true,
+        "hospital_name": "LAKES REGION GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.460757,
+                43.5281
+            ],
+            "type": "Point"
+        },
+        "location_address": "80 HIGHLAND ST",
+        "location_city": "LACONIA",
+        "location_state": "NH",
+        "location_zip": "03246",
+        "phone_number": "6035243211",
+        "provider_id": "300005",
+        "state": "NH",
+        "zip_code": "03246"
+    },
+    {
+        "address": "600 ST JOHNSBURY ROAD",
+        "city": "LITTLETON",
+        "county_name": "GRAFTON",
+        "emergency_services": true,
+        "hospital_name": "LITTLETON REGIONAL HEALTHCARE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -71.82442,
+                44.31666
+            ],
+            "type": "Point"
+        },
+        "location_address": "600 ST JOHNSBURY ROAD",
+        "location_city": "LITTLETON",
+        "location_state": "NH",
+        "location_zip": "03561",
+        "phone_number": "6034449000",
+        "provider_id": "301302",
+        "state": "NH",
+        "zip_code": "03561"
+    },
+    {
+        "address": "240 SOUTH MAIN STREET",
+        "city": "WOLFEBORO",
+        "county_name": "CARROLL",
+        "emergency_services": true,
+        "hospital_name": "HUGGINS HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -71.200169,
+                43.580174
+            ],
+            "type": "Point"
+        },
+        "location_address": "240 SOUTH MAIN STREET",
+        "location_city": "WOLFEBORO",
+        "location_state": "NH",
+        "location_zip": "03894",
+        "phone_number": "6035697500",
+        "provider_id": "301312",
+        "state": "NH",
+        "zip_code": "03894"
+    },
+    {
+        "address": "90 SWIFTWATER RD",
+        "city": "WOODSVILLE",
+        "county_name": "GRAFTON",
+        "emergency_services": true,
+        "hospital_name": "COTTAGE HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -72.023349,
+                44.136331
+            ],
+            "type": "Point"
+        },
+        "location_address": "90 SWIFTWATER RD",
+        "location_city": "WOODSVILLE",
+        "location_state": "NH",
+        "location_zip": "03785",
+        "phone_number": "6037479000",
+        "provider_id": "301301",
+        "state": "NH",
+        "zip_code": "03785"
+    },
+    {
+        "address": "1 ELLIOT WAY",
+        "city": "MANCHESTER",
+        "county_name": "HILLSBOROUGH",
+        "emergency_services": true,
+        "hospital_name": "ELLIOT HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.437232,
+                42.983851
+            ],
+            "type": "Point"
+        },
+        "location_address": "1 ELLIOT WAY",
+        "location_city": "MANCHESTER",
+        "location_state": "NH",
+        "location_zip": "03103",
+        "phone_number": "6036695300",
+        "provider_id": "300012",
+        "state": "NH",
+        "zip_code": "03103"
+    },
+    {
+        "address": "3073 WHITE MOUNTAIN HIGHWAY",
+        "city": "NORTH CONWAY",
+        "county_name": "CARROLL",
+        "emergency_services": true,
+        "hospital_name": "MEMORIAL HOSPITAL, THE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -71.138744,
+                44.060731
+            ],
+            "type": "Point"
+        },
+        "location_address": "3073 WHITE MOUNTAIN HIGHWAY",
+        "location_city": "NORTH CONWAY",
+        "location_state": "NH",
+        "location_zip": "03860",
+        "phone_number": "6033565461",
+        "provider_id": "301307",
+        "state": "NH",
+        "zip_code": "03860"
+    },
+    {
+        "address": "250 PLEASANT ST",
+        "city": "CONCORD",
+        "county_name": "MERRIMACK",
+        "emergency_services": true,
+        "hospital_name": "CONCORD HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.560369,
+                43.195963
+            ],
+            "type": "Point"
+        },
+        "location_address": "250 PLEASANT ST",
+        "location_city": "CONCORD",
+        "location_state": "NH",
+        "location_zip": "03301",
+        "phone_number": "6032252711",
+        "provider_id": "300001",
+        "state": "NH",
+        "zip_code": "03301"
+    },
+    {
+        "address": "16 HOSPITAL ROAD",
+        "city": "PLYMOUTH",
+        "county_name": "GRAFTON",
+        "emergency_services": true,
+        "hospital_name": "SPEARE MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -71.694791,
+                43.75843
+            ],
+            "type": "Point"
+        },
+        "location_address": "16 HOSPITAL ROAD",
+        "location_city": "PLYMOUTH",
+        "location_state": "NH",
+        "location_zip": "03264",
+        "phone_number": "6035361120",
+        "provider_id": "301311",
+        "state": "NH",
+        "zip_code": "03264"
+    },
+    {
+        "address": "8 PROSPECT STREET",
+        "city": "NASHUA",
+        "county_name": "HILLSBOROUGH",
+        "emergency_services": true,
+        "hospital_name": "SOUTHERN NH MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.461023,
+                42.756109
+            ],
+            "type": "Point"
+        },
+        "location_address": "8 PROSPECT STREET",
+        "location_city": "NASHUA",
+        "location_state": "NH",
+        "location_zip": "03060",
+        "phone_number": "6035772000",
+        "provider_id": "300020",
+        "state": "NH",
+        "zip_code": "03060"
+    },
+    {
+        "address": "452 OLD STREET ROAD",
+        "city": "PETERBOROUGH",
+        "county_name": "HILLSBOROUGH",
+        "emergency_services": true,
+        "hospital_name": "MONADNOCK COMMUNITY HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -71.937601,
+                42.894104
+            ],
+            "type": "Point"
+        },
+        "location_address": "452 OLD STREET ROAD",
+        "location_city": "PETERBOROUGH",
+        "location_state": "NH",
+        "location_zip": "03458",
+        "phone_number": "6039247191",
+        "provider_id": "301309",
+        "state": "NH",
+        "zip_code": "03458"
+    },
+    {
+        "address": "15 AIKEN AVENUE",
+        "city": "FRANKLIN",
+        "county_name": "MERRIMACK",
+        "emergency_services": true,
+        "hospital_name": "FRANKLIN REGIONAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -71.642801,
+                43.447764
+            ],
+            "type": "Point"
+        },
+        "location_address": "15 AIKEN AVENUE",
+        "location_city": "FRANKLIN",
+        "location_state": "NH",
+        "location_zip": "03235",
+        "phone_number": "6039342060",
+        "provider_id": "301306",
+        "state": "NH",
+        "zip_code": "03235"
+    },
+    {
+        "address": "59 PAGE HILL ROAD",
+        "city": "BERLIN",
+        "county_name": "COOS",
+        "emergency_services": true,
+        "hospital_name": "ANDROSCOGGIN VALLEY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -71.158977,
+                44.488035
+            ],
+            "type": "Point"
+        },
+        "location_address": "59 PAGE HILL ROAD",
+        "location_city": "BERLIN",
+        "location_state": "NH",
+        "location_zip": "03570",
+        "phone_number": "6037522200",
+        "provider_id": "301310",
+        "state": "NH",
+        "zip_code": "03570"
+    },
+    {
+        "address": "580 COURT STREET",
+        "city": "KEENE",
+        "county_name": "CHESHIRE",
+        "emergency_services": true,
+        "hospital_name": "CHESHIRE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -72.2968,
+                42.954514
+            ],
+            "type": "Point"
+        },
+        "location_address": "580 COURT STREET",
+        "location_city": "KEENE",
+        "location_state": "NH",
+        "location_zip": "03431",
+        "phone_number": "6033545400",
+        "provider_id": "300019",
+        "state": "NH",
+        "zip_code": "03431"
+    },
+    {
+        "address": "5 ALUMNI DRIVE",
+        "city": "EXETER",
+        "county_name": "ROCKINGHAM",
+        "emergency_services": true,
+        "hospital_name": "EXETER HOSPITAL INC",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.936054,
+                42.981779
+            ],
+            "type": "Point"
+        },
+        "location_address": "5 ALUMNI DRIVE",
+        "location_city": "EXETER",
+        "location_state": "NH",
+        "location_zip": "03833",
+        "phone_number": "6037787311",
+        "provider_id": "300023",
+        "state": "NH",
+        "zip_code": "03833"
+    },
+    {
+        "address": "10 ALICE PECK DAY DRIVE",
+        "city": "LEBANON",
+        "county_name": "GRAFTON",
+        "emergency_services": true,
+        "hospital_name": "ALICE PECK DAY MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -72.264438,
+                43.640318
+            ],
+            "type": "Point"
+        },
+        "location_address": "10 ALICE PECK DAY DRIVE",
+        "location_city": "LEBANON",
+        "location_state": "NH",
+        "location_zip": "03766",
+        "phone_number": "6034483121",
+        "provider_id": "301305",
+        "state": "NH",
+        "zip_code": "03766"
+    },
+    {
+        "address": "173 MIDDLE STREET",
+        "city": "LANCASTER",
+        "county_name": "COOS",
+        "emergency_services": true,
+        "hospital_name": "WEEKS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -71.563429,
+                44.488224
+            ],
+            "type": "Point"
+        },
+        "location_address": "173 MIDDLE STREET",
+        "location_city": "LANCASTER",
+        "location_state": "NH",
+        "location_zip": "03584",
+        "phone_number": "6037884911",
+        "provider_id": "301303",
+        "state": "NH",
+        "zip_code": "03584"
+    },
+    {
+        "address": "273 COUNTY ROAD",
+        "city": "NEW LONDON",
+        "county_name": "MERRIMACK",
+        "emergency_services": true,
+        "hospital_name": "NEW LONDON HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -72.001155,
+                43.421345
+            ],
+            "type": "Point"
+        },
+        "location_address": "273 COUNTY ROAD",
+        "location_city": "NEW LONDON",
+        "location_state": "NH",
+        "location_zip": "03257",
+        "phone_number": "6035262911",
+        "provider_id": "301304",
+        "state": "NH",
+        "zip_code": "03257"
+    },
+    {
+        "address": "1 PARKLAND DRIVE",
+        "city": "DERRY",
+        "county_name": "ROCKINGHAM",
+        "emergency_services": true,
+        "hospital_name": "PARKLAND MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.317759,
+                42.875672
+            ],
+            "type": "Point"
+        },
+        "location_address": "1 PARKLAND DRIVE",
+        "location_city": "DERRY",
+        "location_state": "NH",
+        "location_zip": "03038",
+        "phone_number": "6034212100",
+        "provider_id": "300017",
+        "state": "NH",
+        "zip_code": "03038"
+    },
+    {
+        "address": "172 KINSLEY ST",
+        "city": "NASHUA",
+        "county_name": "HILLSBOROUGH",
+        "emergency_services": true,
+        "hospital_name": "ST JOSEPH HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.481492,
+                42.749854
+            ],
+            "type": "Point"
+        },
+        "location_address": "172 KINSLEY ST",
+        "location_city": "NASHUA",
+        "location_state": "NH",
+        "location_zip": "03060",
+        "phone_number": "6038823000",
+        "provider_id": "300011",
+        "state": "NH",
+        "zip_code": "03060"
+    },
+    {
+        "address": "789 CENTRAL AVE",
+        "city": "DOVER",
+        "county_name": "STRAFFORD",
+        "emergency_services": true,
+        "hospital_name": "WENTWORTH-DOUGLASS HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.875139,
+                43.212442
+            ],
+            "type": "Point"
+        },
+        "location_address": "789 CENTRAL AVE",
+        "location_city": "DOVER",
+        "location_state": "NH",
+        "location_zip": "03820",
+        "phone_number": "6037402580",
+        "provider_id": "300018",
+        "state": "NH",
+        "zip_code": "03820"
+    },
+    {
+        "address": "11 WHITEHALL ROAD",
+        "city": "ROCHESTER",
+        "county_name": "STRAFFORD",
+        "emergency_services": true,
+        "hospital_name": "FRISBIE MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.960915,
+                43.298198
+            ],
+            "type": "Point"
+        },
+        "location_address": "11 WHITEHALL ROAD",
+        "location_city": "ROCHESTER",
+        "location_state": "NH",
+        "location_zip": "03867",
+        "phone_number": "6033325211",
+        "provider_id": "300014",
+        "state": "NH",
+        "zip_code": "03867"
+    },
+    {
+        "address": "333 BORTHWICK AVE",
+        "city": "PORTSMOUTH",
+        "county_name": "ROCKINGHAM",
+        "emergency_services": true,
+        "hospital_name": "PORTSMOUTH REGIONAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.790628,
+                43.063667
+            ],
+            "type": "Point"
+        },
+        "location_address": "333 BORTHWICK AVE",
+        "location_city": "PORTSMOUTH",
+        "location_state": "NH",
+        "location_zip": "03801",
+        "phone_number": "6034365110",
+        "provider_id": "300029",
+        "state": "NH",
+        "zip_code": "03801"
+    },
+    {
+        "address": "181 CORLISS LANE",
+        "city": "COLEBROOK",
+        "county_name": "COOS",
+        "emergency_services": true,
+        "hospital_name": "UPPER CONNECTICUT VALLEY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -71.482463,
+                44.903571
+            ],
+            "type": "Point"
+        },
+        "location_address": "181 CORLISS LANE",
+        "location_city": "COLEBROOK",
+        "location_state": "NH",
+        "location_zip": "03576",
+        "phone_number": "6032374971",
+        "provider_id": "301300",
+        "state": "NH",
+        "zip_code": "03576"
+    },
+    {
+        "address": "1 MEDICAL CENTER DRIVE",
+        "city": "LEBANON",
+        "county_name": "GRAFTON",
+        "emergency_services": true,
+        "hospital_name": "MARY HITCHCOCK MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -72.27415,
+                43.677276
+            ],
+            "type": "Point"
+        },
+        "location_address": "1 MEDICAL CENTER DRIVE",
+        "location_city": "LEBANON",
+        "location_state": "NH",
+        "location_zip": "03756",
+        "phone_number": "6036505000",
+        "provider_id": "300003",
+        "state": "NH",
+        "zip_code": "03756"
+    }
+]

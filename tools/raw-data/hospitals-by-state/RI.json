@@ -1,253 +1,283 @@
-[ {
-  "hospital_name" : "MEMORIAL HOSPITAL OF RHODE ISLAND",
-  "phone_number" : {
-    "phone_number" : "4017292000"
-  },
-  "zip_code" : "02860",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.37491246299999",
-    "latitude" : "41.87072477800007",
-    "human_address" : "{\"address\":\"111 BREWSTER STREET\",\"city\":\"PAWTUCKET\",\"state\":\"RI\",\"zip\":\"\"}"
-  },
-  "address" : "111 BREWSTER STREET",
-  "provider_id" : "410001",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "RI",
-  "emergency_services" : true,
-  "county_name" : "PROVIDENCE",
-  "city" : "PAWTUCKET"
-}
-, {
-  "hospital_name" : "ROGER WILLIAMS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4014562000"
-  },
-  "zip_code" : "02908",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.43459589699995",
-    "latitude" : "41.83403472100008",
-    "human_address" : "{\"address\":\"825 CHALKSTONE AVENUE\",\"city\":\"PROVIDENCE\",\"state\":\"RI\",\"zip\":\"\"}"
-  },
-  "address" : "825 CHALKSTONE AVENUE",
-  "provider_id" : "410004",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "RI",
-  "emergency_services" : true,
-  "county_name" : "PROVIDENCE",
-  "city" : "PROVIDENCE"
-}
-, {
-  "hospital_name" : "ST JOSEPH HEALTH SERVICES OF RI",
-  "phone_number" : {
-    "phone_number" : "4014563000"
-  },
-  "zip_code" : "02904",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.45849446399995",
-    "latitude" : "41.855721893000066",
-    "human_address" : "{\"address\":\"200 HIGH SERVICE AVENUE\",\"city\":\"NORTH PROVIDENCE\",\"state\":\"RI\",\"zip\":\"\"}"
-  },
-  "address" : "200 HIGH SERVICE AVENUE",
-  "provider_id" : "410005",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "RI",
-  "emergency_services" : true,
-  "county_name" : "PROVIDENCE",
-  "city" : "NORTH PROVIDENCE"
-}
-, {
-  "hospital_name" : "NEWPORT HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4018466400"
-  },
-  "zip_code" : "02840",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.30474231999995",
-    "latitude" : "41.49694010600007",
-    "human_address" : "{\"address\":\"FRIENDSHIP STREET\",\"city\":\"NEWPORT\",\"state\":\"RI\",\"zip\":\"\"}"
-  },
-  "address" : "FRIENDSHIP STREET",
-  "provider_id" : "410006",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "RI",
-  "emergency_services" : true,
-  "county_name" : "NEWPORT",
-  "city" : "NEWPORT"
-}
-, {
-  "hospital_name" : "RHODE ISLAND HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4014444000"
-  },
-  "zip_code" : "02902",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.40711144899996",
-    "latitude" : "41.811566345000074",
-    "human_address" : "{\"address\":\"593 EDDY STREET\",\"city\":\"PROVIDENCE\",\"state\":\"RI\",\"zip\":\"\"}"
-  },
-  "address" : "593 EDDY STREET",
-  "provider_id" : "410007",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "RI",
-  "emergency_services" : true,
-  "county_name" : "PROVIDENCE",
-  "city" : "PROVIDENCE"
-}
-, {
-  "hospital_name" : "SOUTH COUNTY HOSPITAL INC",
-  "phone_number" : {
-    "phone_number" : "4017828000"
-  },
-  "zip_code" : "02879",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.49605226199998",
-    "latitude" : "41.43189962100007",
-    "human_address" : "{\"address\":\"100 KENYON AVE\",\"city\":\"WAKEFIELD\",\"state\":\"RI\",\"zip\":\"\"}"
-  },
-  "address" : "100 KENYON AVE",
-  "provider_id" : "410008",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "RI",
-  "emergency_services" : true,
-  "county_name" : "WASHINGTON",
-  "city" : "WAKEFIELD"
-}
-, {
-  "hospital_name" : "KENT COUNTY MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4017377000"
-  },
-  "zip_code" : "02886",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.47771535999993",
-    "latitude" : "41.704405604000044",
-    "human_address" : "{\"address\":\"455 TOLL GATE RD\",\"city\":\"WARWICK\",\"state\":\"RI\",\"zip\":\"\"}"
-  },
-  "address" : "455 TOLL GATE RD",
-  "provider_id" : "410009",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "RI",
-  "emergency_services" : true,
-  "county_name" : "KENT",
-  "city" : "WARWICK"
-}
-, {
-  "hospital_name" : "WOMEN AND INFANTS HOSPITAL OF RHODE ISLAND",
-  "phone_number" : {
-    "phone_number" : "4012741100"
-  },
-  "zip_code" : "02905",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.41133215899998",
-    "latitude" : "41.810246164000034",
-    "human_address" : "{\"address\":\"101 DUDLEY STREET\",\"city\":\"PROVIDENCE\",\"state\":\"RI\",\"zip\":\"\"}"
-  },
-  "address" : "101 DUDLEY STREET",
-  "provider_id" : "410010",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "RI",
-  "emergency_services" : true,
-  "county_name" : "PROVIDENCE",
-  "city" : "PROVIDENCE"
-}
-, {
-  "hospital_name" : "LANDMARK MEDICAL CENTER,  INC",
-  "phone_number" : {
-    "phone_number" : "4017694100"
-  },
-  "zip_code" : "02895",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.49629714499997",
-    "latitude" : "42.00529344000006",
-    "human_address" : "{\"address\":\"115 CASS AVE\",\"city\":\"WOONSOCKET\",\"state\":\"RI\",\"zip\":\"\"}"
-  },
-  "address" : "115 CASS AVE",
-  "provider_id" : "410011",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "RI",
-  "emergency_services" : true,
-  "county_name" : "PROVIDENCE",
-  "city" : "WOONSOCKET"
-}
-, {
-  "hospital_name" : "MIRIAM HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4017932500"
-  },
-  "zip_code" : "02906",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.39768813499995",
-    "latitude" : "41.85153314000007",
-    "human_address" : "{\"address\":\"164 SUMMIT AVENUE\",\"city\":\"PROVIDENCE\",\"state\":\"RI\",\"zip\":\"\"}"
-  },
-  "address" : "164 SUMMIT AVENUE",
-  "provider_id" : "410012",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "RI",
-  "emergency_services" : true,
-  "county_name" : "PROVIDENCE",
-  "city" : "PROVIDENCE"
-}
-, {
-  "hospital_name" : "WESTERLY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4015966000"
-  },
-  "zip_code" : "02891",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.82530586699994",
-    "latitude" : "41.362832953000066",
-    "human_address" : "{\"address\":\"25 WELLS STREET\",\"city\":\"WESTERLY\",\"state\":\"RI\",\"zip\":\"\"}"
-  },
-  "address" : "25 WELLS STREET",
-  "provider_id" : "410013",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "RI",
-  "emergency_services" : true,
-  "county_name" : "WASHINGTON",
-  "city" : "WESTERLY"
-}
-, {
-  "hospital_name" : "PROVIDENCE VA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4014573042"
-  },
-  "zip_code" : "02908",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-71.43482981399995",
-    "latitude" : "41.83392713400008",
-    "human_address" : "{\"address\":\"830 CHALKSTONE AVENUE\",\"city\":\"PROVIDENCE\",\"state\":\"RI\",\"zip\":\"\"}"
-  },
-  "address" : "830 CHALKSTONE AVENUE",
-  "provider_id" : "41005F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "RI",
-  "emergency_services" : false,
-  "county_name" : "PROVIDENCE",
-  "city" : "PROVIDENCE"
-}
- ]
+[
+    {
+        "address": "830 CHALKSTONE AVENUE",
+        "city": "PROVIDENCE",
+        "county_name": "PROVIDENCE",
+        "emergency_services": false,
+        "hospital_name": "PROVIDENCE VA MEDICAL CENTER",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -71.434938,
+                41.833915
+            ],
+            "type": "Point"
+        },
+        "location_address": "830 CHALKSTONE AVENUE",
+        "location_city": "PROVIDENCE",
+        "location_state": "RI",
+        "location_zip": "02908",
+        "phone_number": "4014573042",
+        "provider_id": "41005F",
+        "state": "RI",
+        "zip_code": "02908"
+    },
+    {
+        "address": "200 HIGH SERVICE AVENUE",
+        "city": "NORTH PROVIDENCE",
+        "county_name": "PROVIDENCE",
+        "emergency_services": true,
+        "hospital_name": "OUR LADY OF FATIMA HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.460041,
+                41.856558
+            ],
+            "type": "Point"
+        },
+        "location_address": "200 HIGH SERVICE AVENUE",
+        "location_city": "NORTH PROVIDENCE",
+        "location_state": "RI",
+        "location_zip": "02904",
+        "phone_number": "4014563000",
+        "provider_id": "410005",
+        "state": "RI",
+        "zip_code": "02904"
+    },
+    {
+        "address": "111 BREWSTER STREET",
+        "city": "PAWTUCKET",
+        "county_name": "PROVIDENCE",
+        "emergency_services": true,
+        "hospital_name": "MEMORIAL HOSPITAL OF RHODE ISLAND",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.374793,
+                41.870519
+            ],
+            "type": "Point"
+        },
+        "location_address": "111 BREWSTER STREET",
+        "location_city": "PAWTUCKET",
+        "location_state": "RI",
+        "location_zip": "02860",
+        "phone_number": "4017292000",
+        "provider_id": "410001",
+        "state": "RI",
+        "zip_code": "02860"
+    },
+    {
+        "address": "25 WELLS STREET",
+        "city": "WESTERLY",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "WESTERLY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.825814,
+                41.362798
+            ],
+            "type": "Point"
+        },
+        "location_address": "25 WELLS STREET",
+        "location_city": "WESTERLY",
+        "location_state": "RI",
+        "location_zip": "02891",
+        "phone_number": "4015966000",
+        "provider_id": "410013",
+        "state": "RI",
+        "zip_code": "02891"
+    },
+    {
+        "address": "164 SUMMIT AVENUE",
+        "city": "PROVIDENCE",
+        "county_name": "PROVIDENCE",
+        "emergency_services": true,
+        "hospital_name": "MIRIAM HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.397517,
+                41.851723
+            ],
+            "type": "Point"
+        },
+        "location_address": "164 SUMMIT AVENUE",
+        "location_city": "PROVIDENCE",
+        "location_state": "RI",
+        "location_zip": "02906",
+        "phone_number": "4017932500",
+        "provider_id": "410012",
+        "state": "RI",
+        "zip_code": "02906"
+    },
+    {
+        "address": "FRIENDSHIP STREET",
+        "city": "NEWPORT",
+        "county_name": "NEWPORT",
+        "emergency_services": true,
+        "hospital_name": "NEWPORT HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "FRIENDSHIP STREET",
+        "location_city": "NEWPORT",
+        "location_state": "RI",
+        "location_zip": "02840",
+        "phone_number": "4018466400",
+        "provider_id": "410006",
+        "state": "RI",
+        "zip_code": "02840"
+    },
+    {
+        "address": "455 TOLL GATE RD",
+        "city": "WARWICK",
+        "county_name": "KENT",
+        "emergency_services": true,
+        "hospital_name": "KENT COUNTY MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.477902,
+                41.704478
+            ],
+            "type": "Point"
+        },
+        "location_address": "455 TOLL GATE RD",
+        "location_city": "WARWICK",
+        "location_state": "RI",
+        "location_zip": "02886",
+        "phone_number": "4017377000",
+        "provider_id": "410009",
+        "state": "RI",
+        "zip_code": "02886"
+    },
+    {
+        "address": "593 EDDY STREET",
+        "city": "PROVIDENCE",
+        "county_name": "PROVIDENCE",
+        "emergency_services": true,
+        "hospital_name": "RHODE ISLAND HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.407047,
+                41.812045
+            ],
+            "type": "Point"
+        },
+        "location_address": "593 EDDY STREET",
+        "location_city": "PROVIDENCE",
+        "location_state": "RI",
+        "location_zip": "02903",
+        "phone_number": "4014444000",
+        "provider_id": "410007",
+        "state": "RI",
+        "zip_code": "02903"
+    },
+    {
+        "address": "100 KENYON AVE",
+        "city": "WAKEFIELD",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "SOUTH COUNTY HOSPITAL INC",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.496028,
+                41.431961
+            ],
+            "type": "Point"
+        },
+        "location_address": "100 KENYON AVE",
+        "location_city": "WAKEFIELD",
+        "location_state": "RI",
+        "location_zip": "02879",
+        "phone_number": "4017828000",
+        "provider_id": "410008",
+        "state": "RI",
+        "zip_code": "02879"
+    },
+    {
+        "address": "101 DUDLEY STREET",
+        "city": "PROVIDENCE",
+        "county_name": "PROVIDENCE",
+        "emergency_services": true,
+        "hospital_name": "WOMEN AND INFANTS HOSPITAL OF RHODE ISLAND",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.411209,
+                41.810239
+            ],
+            "type": "Point"
+        },
+        "location_address": "101 DUDLEY STREET",
+        "location_city": "PROVIDENCE",
+        "location_state": "RI",
+        "location_zip": "02905",
+        "phone_number": "4012741100",
+        "provider_id": "410010",
+        "state": "RI",
+        "zip_code": "02905"
+    },
+    {
+        "address": "825 CHALKSTONE AVENUE",
+        "city": "PROVIDENCE",
+        "county_name": "PROVIDENCE",
+        "emergency_services": true,
+        "hospital_name": "ROGER WILLIAMS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.435305,
+                41.833786
+            ],
+            "type": "Point"
+        },
+        "location_address": "825 CHALKSTONE AVENUE",
+        "location_city": "PROVIDENCE",
+        "location_state": "RI",
+        "location_zip": "02908",
+        "phone_number": "4014562000",
+        "provider_id": "410004",
+        "state": "RI",
+        "zip_code": "02908"
+    },
+    {
+        "address": "115 CASS AVE",
+        "city": "WOONSOCKET",
+        "county_name": "PROVIDENCE",
+        "emergency_services": true,
+        "hospital_name": "LANDMARK MEDICAL CENTER,  INC",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.496115,
+                42.00534
+            ],
+            "type": "Point"
+        },
+        "location_address": "115 CASS AVE",
+        "location_city": "WOONSOCKET",
+        "location_state": "RI",
+        "location_zip": "02895",
+        "phone_number": "4017694100",
+        "provider_id": "410011",
+        "state": "RI",
+        "zip_code": "02895"
+    }
+]

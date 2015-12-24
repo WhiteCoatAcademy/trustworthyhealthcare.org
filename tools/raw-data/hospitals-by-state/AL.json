@@ -1,1912 +1,2151 @@
-[ {
-  "hospital_name" : "SOUTHEAST ALABAMA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3347938701"
-  },
-  "zip_code" : "36301",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.36146587999997",
-    "latitude" : "31.21537937900007",
-    "human_address" : "{\"address\":\"1108 ROSS CLARK CIRCLE\",\"city\":\"DOTHAN\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1108 ROSS CLARK CIRCLE",
-  "provider_id" : "010001",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "HOUSTON",
-  "city" : "DOTHAN"
-}
-, {
-  "hospital_name" : "MARSHALL MEDICAL CENTER SOUTH",
-  "phone_number" : {
-    "phone_number" : "2565938310"
-  },
-  "zip_code" : "35957",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.15937514699993",
-    "latitude" : "34.221334555000055",
-    "human_address" : "{\"address\":\"2505 U S HIGHWAY 431 NORTH\",\"city\":\"BOAZ\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "2505 U S HIGHWAY 431 NORTH",
-  "provider_id" : "010005",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MARSHALL",
-  "city" : "BOAZ"
-}
-, {
-  "hospital_name" : "ELIZA COFFEE MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2567688400"
-  },
-  "zip_code" : "35631",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.68507485399994",
-    "latitude" : "34.795039605000056",
-    "human_address" : "{\"address\":\"205 MARENGO STREET\",\"city\":\"FLORENCE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "205 MARENGO STREET",
-  "provider_id" : "010006",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "LAUDERDALE",
-  "city" : "FLORENCE"
-}
-, {
-  "hospital_name" : "MIZELL MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3344933541"
-  },
-  "zip_code" : "36467",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.25539902199995",
-    "latitude" : "31.292159523000066",
-    "human_address" : "{\"address\":\"702 N MAIN ST\",\"city\":\"OPP\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "702 N MAIN ST",
-  "provider_id" : "010007",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "COVINGTON",
-  "city" : "OPP"
-}
-, {
-  "hospital_name" : "CRENSHAW COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3343353374"
-  },
-  "zip_code" : "36049",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.26549482999997",
-    "latitude" : "31.693116349000036",
-    "human_address" : "{\"address\":\"101 HOSPITAL CIRCLE\",\"city\":\"LUVERNE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "101 HOSPITAL CIRCLE",
-  "provider_id" : "010008",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : false,
-  "county_name" : "CRENSHAW",
-  "city" : "LUVERNE"
-}
-, {
-  "hospital_name" : "ST VINCENT'S EAST",
-  "phone_number" : {
-    "phone_number" : "2058383122"
-  },
-  "zip_code" : "35235",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.66531866799994",
-    "latitude" : "33.59526551700003",
-    "human_address" : "{\"address\":\"50 MEDICAL PARK EAST DRIVE\",\"city\":\"BIRMINGHAM\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "50 MEDICAL PARK EAST DRIVE",
-  "provider_id" : "010011",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON",
-  "city" : "BIRMINGHAM"
-}
-, {
-  "hospital_name" : "DEKALB REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2568453150"
-  },
-  "zip_code" : "35968",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.75726760699996",
-    "latitude" : "34.44060759100006",
-    "human_address" : "{\"address\":\"200 MED CENTER DRIVE\",\"city\":\"FORT PAYNE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "200 MED CENTER DRIVE",
-  "provider_id" : "010012",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "DE KALB",
-  "city" : "FORT PAYNE"
-}
-, {
-  "hospital_name" : "SHELBY BAPTIST MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2056208100"
-  },
-  "zip_code" : "35007",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.81407933399998",
-    "latitude" : "33.25442932200008",
-    "human_address" : "{\"address\":\"1000 FIRST STREET NORTH\",\"city\":\"ALABASTER\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1000 FIRST STREET NORTH",
-  "provider_id" : "010016",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "SHELBY",
-  "city" : "ALABASTER"
-}
-, {
-  "hospital_name" : "CALLAHAN EYE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2053258100"
-  },
-  "zip_code" : "35233",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.80242858299994",
-    "latitude" : "33.503140150000036",
-    "human_address" : "{\"address\":\"1720 UNIVERSITY BLVD\",\"city\":\"BIRMINGHAM\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1720 UNIVERSITY BLVD",
-  "provider_id" : "010018",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON",
-  "city" : "BIRMINGHAM"
-}
-, {
-  "hospital_name" : "HELEN KELLER MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2563864556"
-  },
-  "zip_code" : "35660",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.69893502799994",
-    "latitude" : "34.74643089500006",
-    "human_address" : "{\"address\":\"1300 SOUTH MONTGOMERY AVENUE\",\"city\":\"SHEFFIELD\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1300 SOUTH MONTGOMERY AVENUE",
-  "provider_id" : "010019",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "COLBERT",
-  "city" : "SHEFFIELD"
-}
-, {
-  "hospital_name" : "DALE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3347742601"
-  },
-  "zip_code" : "36360",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.63094293699999",
-    "latitude" : "31.451350713000068",
-    "human_address" : "{\"address\":\"126 HOSPITAL AVE\",\"city\":\"OZARK\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "126 HOSPITAL AVE",
-  "provider_id" : "010021",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "DALE",
-  "city" : "OZARK"
-}
-, {
-  "hospital_name" : "CHEROKEE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2569275531"
-  },
-  "zip_code" : "35960",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.64348979299996",
-    "latitude" : "34.16275020900002",
-    "human_address" : "{\"address\":\"400 NORTHWOOD DR\",\"city\":\"CENTRE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "400 NORTHWOOD DR",
-  "provider_id" : "010022",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "CHEROKEE",
-  "city" : "CENTRE"
-}
-, {
-  "hospital_name" : "BAPTIST MEDICAL CENTER SOUTH",
-  "phone_number" : {
-    "phone_number" : "3342882100"
-  },
-  "zip_code" : "36116",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.27659061099996",
-    "latitude" : "32.32718605800005",
-    "human_address" : "{\"address\":\"2105 EAST SOUTH BOULEVARD\",\"city\":\"MONTGOMERY\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "2105 EAST SOUTH BOULEVARD",
-  "provider_id" : "010023",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MONTGOMERY",
-  "city" : "MONTGOMERY"
-}
-, {
-  "hospital_name" : "JACKSON HOSPITAL & CLINIC INC",
-  "phone_number" : {
-    "phone_number" : "3342938000"
-  },
-  "zip_code" : "36106",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.28577143999996",
-    "latitude" : "32.36658118200006",
-    "human_address" : "{\"address\":\"1725 PINE STREET\",\"city\":\"MONTGOMERY\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1725 PINE STREET",
-  "provider_id" : "010024",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MONTGOMERY",
-  "city" : "MONTGOMERY"
-}
-, {
-  "hospital_name" : "EAST ALABAMA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3347493411"
-  },
-  "zip_code" : "36801",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.40445272799997",
-    "latitude" : "32.63808805900004",
-    "human_address" : "{\"address\":\"2000 PEPPERELL PARKWAY\",\"city\":\"OPELIKA\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "2000 PEPPERELL PARKWAY",
-  "provider_id" : "010029",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "LEE",
-  "city" : "OPELIKA"
-}
-, {
-  "hospital_name" : "WEDOWEE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2563572111"
-  },
-  "zip_code" : "36278",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.48497697399995",
-    "latitude" : "33.31155057800004",
-    "human_address" : "{\"address\":\"209 NORTH MAIN STREET\",\"city\":\"WEDOWEE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "209 NORTH MAIN STREET",
-  "provider_id" : "010032",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "RANDOLPH",
-  "city" : "WEDOWEE"
-}
-, {
-  "hospital_name" : "UNIVERSITY OF ALABAMA HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2059344011"
-  },
-  "zip_code" : "35233",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.89560932699999",
-    "latitude" : "33.51235776000004",
-    "human_address" : "{\"address\":\"619 SOUTH 19TH STREET\",\"city\":\"BIRMINGHAM\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "619 SOUTH 19TH STREET",
-  "provider_id" : "010033",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON",
-  "city" : "BIRMINGHAM"
-}
-, {
-  "hospital_name" : "COMMUNITY HOSPITAL INC",
-  "phone_number" : {
-    "phone_number" : "3342836541"
-  },
-  "zip_code" : "36078",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.90985375199995",
-    "latitude" : "32.534927776000075",
-    "human_address" : "{\"address\":\"805 FRIENDSHIP ROAD\",\"city\":\"TALLASSEE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "805 FRIENDSHIP ROAD",
-  "provider_id" : "010034",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "ELMORE",
-  "city" : "TALLASSEE"
-}
-, {
-  "hospital_name" : "CULLMAN REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2567372000"
-  },
-  "zip_code" : "35058",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.80404845899994",
-    "latitude" : "34.19859606700004",
-    "human_address" : "{\"address\":\"1912 ALABAMA HIGHWAY 157\",\"city\":\"CULLMAN\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1912 ALABAMA HIGHWAY 157",
-  "provider_id" : "010035",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "CULLMAN",
-  "city" : "CULLMAN"
-}
-, {
-  "hospital_name" : "ANDALUSIA REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3342228466"
-  },
-  "zip_code" : "36420",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.49481434799998",
-    "latitude" : "31.297978657000044",
-    "human_address" : "{\"address\":\"849 SOUTH THREE NOTCH STREET\",\"city\":\"ANDALUSIA\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "849 SOUTH THREE NOTCH STREET",
-  "provider_id" : "010036",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "COVINGTON",
-  "city" : "ANDALUSIA"
-}
-, {
-  "hospital_name" : "STRINGFELLOW MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2562358900"
-  },
-  "zip_code" : "36201",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.82468952899995",
-    "latitude" : "33.66768739300005",
-    "human_address" : "{\"address\":\"301 EAST 18TH ST\",\"city\":\"ANNISTON\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "301 EAST 18TH ST",
-  "provider_id" : "010038",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "CALHOUN",
-  "city" : "ANNISTON"
-}
-, {
-  "hospital_name" : "HUNTSVILLE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2562651000"
-  },
-  "zip_code" : "35801",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.58128515799996",
-    "latitude" : "34.72108061800003",
-    "human_address" : "{\"address\":\"101 SIVLEY RD\",\"city\":\"HUNTSVILLE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "101 SIVLEY RD",
-  "provider_id" : "010039",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MADISON",
-  "city" : "HUNTSVILLE"
-}
-, {
-  "hospital_name" : "GADSDEN REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2564944000"
-  },
-  "zip_code" : "35903",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.96778839099994",
-    "latitude" : "34.00938024200008",
-    "human_address" : "{\"address\":\"1007 GOODYEAR AVENUE\",\"city\":\"GADSDEN\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1007 GOODYEAR AVENUE",
-  "provider_id" : "010040",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "ETOWAH",
-  "city" : "GADSDEN"
-}
-, {
-  "hospital_name" : "MARION REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2059216200"
-  },
-  "zip_code" : "35570",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.98987352799998",
-    "latitude" : "34.12668982400004",
-    "human_address" : "{\"address\":\"1256 MILITARY STREET SOUTH\",\"city\":\"HAMILTON\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1256 MILITARY STREET SOUTH",
-  "provider_id" : "010044",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MARION",
-  "city" : "HAMILTON"
-}
-, {
-  "hospital_name" : "FAYETTE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2059325966"
-  },
-  "zip_code" : "35555",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.82377536299998",
-    "latitude" : "33.70769618400004",
-    "human_address" : "{\"address\":\"1653 TEMPLE AVENUE NORTH\",\"city\":\"FAYETTE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1653 TEMPLE AVENUE NORTH",
-  "provider_id" : "010045",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "FAYETTE",
-  "city" : "FAYETTE"
-}
-, {
-  "hospital_name" : "RIVERVIEW REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2565435200"
-  },
-  "zip_code" : "35901",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.00409109099996",
-    "latitude" : "34.00337850600005",
-    "human_address" : "{\"address\":\"600 SOUTH THIRD STREET\",\"city\":\"GADSDEN\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "600 SOUTH THIRD STREET",
-  "provider_id" : "010046",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "ETOWAH",
-  "city" : "GADSDEN"
-}
-, {
-  "hospital_name" : "GEORGIANA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3343762205"
-  },
-  "zip_code" : "36033",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.74277274699995",
-    "latitude" : "31.636361081000075",
-    "human_address" : "{\"address\":\"515 N MIRANDA AVENUE\",\"city\":\"GEORGIANA\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "515 N MIRANDA AVENUE",
-  "provider_id" : "010047",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "BUTLER",
-  "city" : "GEORGIANA"
-}
-, {
-  "hospital_name" : "MEDICAL CENTER ENTERPRISE",
-  "phone_number" : {
-    "phone_number" : "3343470584"
-  },
-  "zip_code" : "36330",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.85572776899994",
-    "latitude" : "31.318719619000035",
-    "human_address" : "{\"address\":\"400 N EDWARDS STREET\",\"city\":\"ENTERPRISE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "400 N EDWARDS STREET",
-  "provider_id" : "010049",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "COFFEE",
-  "city" : "ENTERPRISE"
-}
-, {
-  "hospital_name" : "GREENE COUNTY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2053723388"
-  },
-  "zip_code" : "35462",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.89002235799995",
-    "latitude" : "32.84235320400006",
-    "human_address" : "{\"address\":\"509 WILSON AVENUE\",\"city\":\"EUTAW\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "509 WILSON AVENUE",
-  "provider_id" : "010051",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "GREENE",
-  "city" : "EUTAW"
-}
-, {
-  "hospital_name" : "LAKE MARTIN COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2568257821"
-  },
-  "zip_code" : "36853",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.74161727099994",
-    "latitude" : "32.81867788400007",
-    "human_address" : "{\"address\":\"201 MARIARDEN ROAD\",\"city\":\"DADEVILLE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "201 MARIARDEN ROAD",
-  "provider_id" : "010052",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "TALLAPOOSA",
-  "city" : "DADEVILLE"
-}
-, {
-  "hospital_name" : "DECATUR MORGAN HOSPITAL-PARKWAY CAMPUS",
-  "phone_number" : {
-    "phone_number" : "2563502211"
-  },
-  "zip_code" : "35601",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.01654568799995",
-    "latitude" : "34.57574902700003",
-    "human_address" : "{\"address\":\"1874 BELTLINE RD SW\",\"city\":\"DECATUR\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1874 BELTLINE RD SW",
-  "provider_id" : "010054",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MORGAN",
-  "city" : "DECATUR"
-}
-, {
-  "hospital_name" : "FLOWERS HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3347935000"
-  },
-  "zip_code" : "36305",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.45721340799997",
-    "latitude" : "31.235826770000074",
-    "human_address" : "{\"address\":\"4370 WEST MAIN STREET\",\"city\":\"DOTHAN\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "4370 WEST MAIN STREET",
-  "provider_id" : "010055",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "HOUSTON",
-  "city" : "DOTHAN"
-}
-, {
-  "hospital_name" : "ST VINCENT'S BIRMINGHAM",
-  "phone_number" : {
-    "phone_number" : "2059397000"
-  },
-  "zip_code" : "35205",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.78874763899995",
-    "latitude" : "33.50797325600007",
-    "human_address" : "{\"address\":\"810 ST VINCENT'S DRIVE\",\"city\":\"BIRMINGHAM\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "810 ST VINCENT'S DRIVE",
-  "provider_id" : "010056",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON",
-  "city" : "BIRMINGHAM"
-}
-, {
-  "hospital_name" : "BIBB MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2059264881"
-  },
-  "zip_code" : "35042",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.14764515199994",
-    "latitude" : "32.95133452600004",
-    "human_address" : "{\"address\":\"208 PIERSON AVE\",\"city\":\"CENTREVILLE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "208 PIERSON AVE",
-  "provider_id" : "010058",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "BIBB",
-  "city" : "CENTREVILLE"
-}
-, {
-  "hospital_name" : "LAWRENCE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2569742200"
-  },
-  "zip_code" : "35650",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.28600283599997",
-    "latitude" : "34.482945975000064",
-    "human_address" : "{\"address\":\"202 HOSPITAL STREET\",\"city\":\"MOULTON\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "202 HOSPITAL STREET",
-  "provider_id" : "010059",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "LAWRENCE",
-  "city" : "MOULTON"
-}
-, {
-  "hospital_name" : "HIGHLANDS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2562594444"
-  },
-  "zip_code" : "35768",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.04673208299994",
-    "latitude" : "34.66168264100003",
-    "human_address" : "{\"address\":\"380 WOODS COVE ROAD\",\"city\":\"SCOTTSBORO\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "380 WOODS COVE ROAD",
-  "provider_id" : "010061",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "JACKSON",
-  "city" : "SCOTTSBORO"
-}
-, {
-  "hospital_name" : "WIREGRASS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3346843655"
-  },
-  "zip_code" : "36340",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.89112586699997",
-    "latitude" : "31.04804746900004",
-    "human_address" : "{\"address\":\"1200 W MAPLE AVENUE\",\"city\":\"GENEVA\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1200 W MAPLE AVENUE",
-  "provider_id" : "010062",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "GENEVA",
-  "city" : "GENEVA"
-}
-, {
-  "hospital_name" : "RUSSELL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2563297100"
-  },
-  "zip_code" : "35010",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.96878845399993",
-    "latitude" : "32.931334950000064",
-    "human_address" : "{\"address\":\"3316 HIGHWAY 280\",\"city\":\"ALEXANDER CITY\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "3316 HIGHWAY 280",
-  "provider_id" : "010065",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "TALLAPOOSA",
-  "city" : "ALEXANDER CITY"
-}
-, {
-  "hospital_name" : "MEDICAL CENTER BARBOUR",
-  "phone_number" : {
-    "phone_number" : "3346887271"
-  },
-  "zip_code" : "36027",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.15606109899994",
-    "latitude" : "31.88801827700007",
-    "human_address" : "{\"address\":\"820 W WASHINGTON ST\",\"city\":\"EUFAULA\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "820 W WASHINGTON ST",
-  "provider_id" : "010069",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "BARBOUR",
-  "city" : "EUFAULA"
-}
-, {
-  "hospital_name" : "CLAY COUNTY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2563542131"
-  },
-  "zip_code" : "36251",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.82361169599994",
-    "latitude" : "33.27665890500003",
-    "human_address" : "{\"address\":\"83825 HIGHWAY 9 P O BOX 1270\",\"city\":\"ASHLAND\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "83825 HIGHWAY 9    P O BOX 1270",
-  "provider_id" : "010073",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "CLAY",
-  "city" : "ASHLAND"
-}
-, {
-  "hospital_name" : "NORTHEAST ALABAMA REGIONAL MED CENTER",
-  "phone_number" : {
-    "phone_number" : "2562355121"
-  },
-  "zip_code" : "36207",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.83513073199998",
-    "latitude" : "33.657087741000055",
-    "human_address" : "{\"address\":\"400 EAST 10TH STREET\",\"city\":\"ANNISTON\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "400 EAST 10TH STREET",
-  "provider_id" : "010078",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "CALHOUN",
-  "city" : "ANNISTON"
-}
-, {
-  "hospital_name" : "ATHENS-LIMESTONE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2562339292"
-  },
-  "zip_code" : "35611",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.97837640099993",
-    "latitude" : "34.80357778700005",
-    "human_address" : "{\"address\":\"700 WEST MARKET STREET\",\"city\":\"ATHENS\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "700 WEST MARKET STREET",
-  "provider_id" : "010079",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "LIMESTONE",
-  "city" : "ATHENS"
-}
-, {
-  "hospital_name" : "SOUTH BALDWIN REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2519493400"
-  },
-  "zip_code" : "36535",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.68324211899994",
-    "latitude" : "30.425680471000078",
-    "human_address" : "{\"address\":\"1613 NORTH MCKENZIE STREET\",\"city\":\"FOLEY\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1613 NORTH MCKENZIE STREET",
-  "provider_id" : "010083",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "BALDWIN",
-  "city" : "FOLEY"
-}
-, {
-  "hospital_name" : "DECATUR MORGAN HOSPITAL-DECATUR CAMPUS",
-  "phone_number" : {
-    "phone_number" : "2563412000"
-  },
-  "zip_code" : "35601",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.97263926799997",
-    "latitude" : "34.59115554700003",
-    "human_address" : "{\"address\":\"1201 7TH STREET SE\",\"city\":\"DECATUR\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1201 7TH STREET SE",
-  "provider_id" : "010085",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MORGAN",
-  "city" : "DECATUR"
-}
-, {
-  "hospital_name" : "NORTHWEST MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2054877736"
-  },
-  "zip_code" : "35594",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.82463746799993",
-    "latitude" : "33.929365020000034",
-    "human_address" : "{\"address\":\"1530 U S HIGHWAY 43\",\"city\":\"WINFIELD\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1530 U S HIGHWAY 43",
-  "provider_id" : "010086",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MARION",
-  "city" : "WINFIELD"
-}
-, {
-  "hospital_name" : "UNIVERSITY OF SOUTH ALABAMA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2514717110"
-  },
-  "zip_code" : "36617",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-88.09899576799995",
-    "latitude" : "30.708153140000036",
-    "human_address" : "{\"address\":\"2451 FILLINGIM STREET\",\"city\":\"MOBILE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "2451 FILLINGIM STREET",
-  "provider_id" : "010087",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MOBILE",
-  "city" : "MOBILE"
-}
-, {
-  "hospital_name" : "WALKER BAPTIST MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2053874000"
-  },
-  "zip_code" : "35502",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.23655598599998",
-    "latitude" : "33.84104873800004",
-    "human_address" : "{\"address\":\"3400 HIGHWAY 78 EAST\",\"city\":\"JASPER\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "3400 HIGHWAY 78 EAST",
-  "provider_id" : "010089",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "WALKER",
-  "city" : "JASPER"
-}
-, {
-  "hospital_name" : "PROVIDENCE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2516331000"
-  },
-  "zip_code" : "36608",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-88.19924246199997",
-    "latitude" : "30.68208912600005",
-    "human_address" : "{\"address\":\"6801 AIRPORT BOULEVARD\",\"city\":\"MOBILE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "6801 AIRPORT BOULEVARD",
-  "provider_id" : "010090",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MOBILE",
-  "city" : "MOBILE"
-}
-, {
-  "hospital_name" : "GROVE HILL MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2512753191"
-  },
-  "zip_code" : "36451",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.77707493799994",
-    "latitude" : "31.69477711500008",
-    "human_address" : "{\"address\":\"295 JACKSON HWY S\",\"city\":\"GROVE HILL\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "295 JACKSON HWY S",
-  "provider_id" : "010091",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "CLARKE",
-  "city" : "GROVE HILL"
-}
-, {
-  "hospital_name" : "D C H REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2057597111"
-  },
-  "zip_code" : "35401",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.52548321599994",
-    "latitude" : "33.20617336400005",
-    "human_address" : "{\"address\":\"809 UNIVERSITY BOULEVARD EAST\",\"city\":\"TUSCALOOSA\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "809 UNIVERSITY BOULEVARD EAST",
-  "provider_id" : "010092",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "TUSCALOOSA",
-  "city" : "TUSCALOOSA"
-}
-, {
-  "hospital_name" : "HALE COUNTY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3346243024"
-  },
-  "zip_code" : "36744",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.58692229699994",
-    "latitude" : "32.694750111000076",
-    "human_address" : "{\"address\":\"508 GREEN STREET\",\"city\":\"GREENSBORO\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "508 GREEN STREET",
-  "provider_id" : "010095",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "HALE",
-  "city" : "GREENSBORO"
-}
-, {
-  "hospital_name" : "ELMORE COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3345674311"
-  },
-  "zip_code" : "36092",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.18703624199998",
-    "latitude" : "32.55226755500007",
-    "human_address" : "{\"address\":\"500 HOSPITAL DRIVE\",\"city\":\"WETUMPKA\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "500 HOSPITAL DRIVE",
-  "provider_id" : "010097",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "ELMORE",
-  "city" : "WETUMPKA"
-}
-, {
-  "hospital_name" : "D W MCMILLAN MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2518678061"
-  },
-  "zip_code" : "36426",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.07247839899998",
-    "latitude" : "31.127213651000034",
-    "human_address" : "{\"address\":\"1301 BELLEVILLE AVENUE\",\"city\":\"BREWTON\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1301 BELLEVILLE AVENUE",
-  "provider_id" : "010099",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "ESCAMBIA",
-  "city" : "BREWTON"
-}
-, {
-  "hospital_name" : "THOMAS HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2519282375"
-  },
-  "zip_code" : "36532",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.88950804299998",
-    "latitude" : "30.519966314000044",
-    "human_address" : "{\"address\":\"750 MORPHY AVENUE\",\"city\":\"FAIRHOPE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "750 MORPHY AVENUE",
-  "provider_id" : "010100",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "BALDWIN",
-  "city" : "FAIRHOPE"
-}
-, {
-  "hospital_name" : "CITIZENS BAPTIST MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2567614542"
-  },
-  "zip_code" : "35161",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.09087857499998",
-    "latitude" : "33.43980936100007",
-    "human_address" : "{\"address\":\"604 STONE AVENUE\",\"city\":\"TALLADEGA\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "604 STONE AVENUE",
-  "provider_id" : "010101",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "TALLADEGA",
-  "city" : "TALLADEGA"
-}
-, {
-  "hospital_name" : "J PAUL JONES HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3346824131"
-  },
-  "zip_code" : "36726",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.29947924799995",
-    "latitude" : "31.99807089600006",
-    "human_address" : "{\"address\":\"317 MCWILLIAMS AVENUE\",\"city\":\"CAMDEN\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "317 MCWILLIAMS AVENUE",
-  "provider_id" : "010102",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : false,
-  "county_name" : "WILCOX",
-  "city" : "CAMDEN"
-}
-, {
-  "hospital_name" : "BAPTIST MEDICAL CENTER-PRINCETON",
-  "phone_number" : {
-    "phone_number" : "2057833800"
-  },
-  "zip_code" : "35211",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.84589505599996",
-    "latitude" : "33.499166366000054",
-    "human_address" : "{\"address\":\"701 PRINCETON AVENUE SOUTHWEST\",\"city\":\"BIRMINGHAM\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "701 PRINCETON AVENUE SOUTHWEST",
-  "provider_id" : "010103",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON",
-  "city" : "BIRMINGHAM"
-}
-, {
-  "hospital_name" : "TRINITY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2055921000"
-  },
-  "zip_code" : "35213",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.74670548499995",
-    "latitude" : "33.51533518400004",
-    "human_address" : "{\"address\":\"800 MONTCLAIR RD\",\"city\":\"BIRMINGHAM\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "800 MONTCLAIR RD",
-  "provider_id" : "010104",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON",
-  "city" : "BIRMINGHAM"
-}
-, {
-  "hospital_name" : "PRATTVILLE BAPTIST HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3343614267"
-  },
-  "zip_code" : "36067",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.45095276799998",
-    "latitude" : "32.464199515000075",
-    "human_address" : "{\"address\":\"124 S MEMORIAL DR\",\"city\":\"PRATTVILLE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "124 S MEMORIAL DR",
-  "provider_id" : "010108",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "AUTAUGA",
-  "city" : "PRATTVILLE"
-}
-, {
-  "hospital_name" : "PICKENS COUNTY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2053678111"
-  },
-  "zip_code" : "35447",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-88.08964716199995",
-    "latitude" : "33.274750813000026",
-    "human_address" : "{\"address\":\"241 ROBERT K WILSON DRIVE\",\"city\":\"CARROLLTON\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "241 ROBERT K WILSON DRIVE",
-  "provider_id" : "010109",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "PICKENS",
-  "city" : "CARROLLTON"
-}
-, {
-  "hospital_name" : "BULLOCK COUNTY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3347382140"
-  },
-  "zip_code" : "36089",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.71266859199994",
-    "latitude" : "32.14614261200006",
-    "human_address" : "{\"address\":\"102 WEST CONECUH AVENUE\",\"city\":\"UNION SPRINGS\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "102 WEST CONECUH AVENUE",
-  "provider_id" : "010110",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "BULLOCK",
-  "city" : "UNION SPRINGS"
-}
-, {
-  "hospital_name" : "BRYAN W WHITFIELD MEM HOSP INC",
-  "phone_number" : {
-    "phone_number" : "3342894000"
-  },
-  "zip_code" : "36732",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.83705445699997",
-    "latitude" : "32.50364788300004",
-    "human_address" : "{\"address\":\"105 HIGHWAY 80 EAST\",\"city\":\"DEMOPOLIS\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "105 HIGHWAY 80 EAST",
-  "provider_id" : "010112",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MARENGO",
-  "city" : "DEMOPOLIS"
-}
-, {
-  "hospital_name" : "MOBILE INFIRMARY",
-  "phone_number" : {
-    "phone_number" : "2514354700"
-  },
-  "zip_code" : "36652",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-88.08007299599996",
-    "latitude" : "30.69600693800004",
-    "human_address" : "{\"address\":\"5 MOBILE INFIRMARY CIRCLE\",\"city\":\"MOBILE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "5 MOBILE INFIRMARY CIRCLE",
-  "provider_id" : "010113",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MOBILE",
-  "city" : "MOBILE"
-}
-, {
-  "hospital_name" : "MEDICAL WEST, AN AFFILIATE OF UAB HEALTH SYSTEM",
-  "phone_number" : {
-    "phone_number" : "2054817000"
-  },
-  "zip_code" : "35021",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.99182809099995",
-    "latitude" : "33.372921218000045",
-    "human_address" : "{\"address\":\"995 9TH AVENUE SOUTHWEST\",\"city\":\"BESSEMER\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "995 9TH AVENUE SOUTHWEST",
-  "provider_id" : "010114",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON",
-  "city" : "BESSEMER"
-}
-, {
-  "hospital_name" : "VAUGHAN REGIONAL MEDICAL CENTER PARKWAY CAMPUS",
-  "phone_number" : {
-    "phone_number" : "3344184100"
-  },
-  "zip_code" : "36701",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.05490514999997",
-    "latitude" : "32.43003551100003",
-    "human_address" : "{\"address\":\"1015 MEDICAL CENTER PARKWAY\",\"city\":\"SELMA\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1015 MEDICAL CENTER PARKWAY",
-  "provider_id" : "010118",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "DALLAS",
-  "city" : "SELMA"
-}
-, {
-  "hospital_name" : "MONROE COUNTY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2515753111"
-  },
-  "zip_code" : "36460",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.31923289899999",
-    "latitude" : "31.49838524300003",
-    "human_address" : "{\"address\":\"2016 SOUTH ALABAMA AVENUE, BOX 886\",\"city\":\"MONROEVILLE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "2016 SOUTH ALABAMA AVENUE, BOX 886",
-  "provider_id" : "010120",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MONROE",
-  "city" : "MONROEVILLE"
-}
-, {
-  "hospital_name" : "LAKELAND COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2054857117"
-  },
-  "zip_code" : "35565",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.59093156099999",
-    "latitude" : "34.241099199000075",
-    "human_address" : "{\"address\":\"42024 HIGHWAY 195 E POST OFFICE BOX 780\",\"city\":\"HALEYVILLE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "42024 HIGHWAY 195 E     POST OFFICE BOX 780",
-  "provider_id" : "010125",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "WINSTON",
-  "city" : "HALEYVILLE"
-}
-, {
-  "hospital_name" : "TROY REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3346705000"
-  },
-  "zip_code" : "36081",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.94585267399998",
-    "latitude" : "31.780395441000053",
-    "human_address" : "{\"address\":\"1330 HIGHWAY 231 SOUTH\",\"city\":\"TROY\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1330 HIGHWAY 231 SOUTH",
-  "provider_id" : "010126",
-  "hospital_ownership" : "Government - Federal",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "PIKE",
-  "city" : "TROY"
-}
-, {
-  "hospital_name" : "JACKSON MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2512469021"
-  },
-  "zip_code" : "36545",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.89346675299998",
-    "latitude" : "31.530602078000072",
-    "human_address" : "{\"address\":\"220 HOSPITAL DRIVE\",\"city\":\"JACKSON\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "220 HOSPITAL DRIVE",
-  "provider_id" : "010128",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "CLARKE",
-  "city" : "JACKSON"
-}
-, {
-  "hospital_name" : "NORTH BALDWIN INFIRMARY",
-  "phone_number" : {
-    "phone_number" : "2519375521"
-  },
-  "zip_code" : "36507",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.78311330099996",
-    "latitude" : "30.90193608800007",
-    "human_address" : "{\"address\":\"1815 HAND AVENUE\",\"city\":\"BAY MINETTE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1815 HAND AVENUE",
-  "provider_id" : "010129",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "BALDWIN",
-  "city" : "BAY MINETTE"
-}
-, {
-  "hospital_name" : "ST VINCENT'S ST CLAIR",
-  "phone_number" : {
-    "phone_number" : "2053383301"
-  },
-  "zip_code" : "35125",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.30046997699998",
-    "latitude" : "33.604999676000034",
-    "human_address" : "{\"address\":\"7063 VETERANS PARKWAY\",\"city\":\"PELL CITY\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "7063 VETERANS PARKWAY",
-  "provider_id" : "010130",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "SAINT CLAIR",
-  "city" : "PELL CITY"
-}
-, {
-  "hospital_name" : "CRESTWOOD MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2568823100"
-  },
-  "zip_code" : "35801",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.57259625099994",
-    "latitude" : "34.692473310000025",
-    "human_address" : "{\"address\":\"ONE HOSPITAL DR SE\",\"city\":\"HUNTSVILLE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "ONE HOSPITAL DR SE",
-  "provider_id" : "010131",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MADISON",
-  "city" : "HUNTSVILLE"
-}
-, {
-  "hospital_name" : "HILL HOSPITAL OF SUMTER COUNTY",
-  "phone_number" : {
-    "phone_number" : "2053925263"
-  },
-  "zip_code" : "36925",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-88.29593628999999",
-    "latitude" : "32.49162270900007",
-    "human_address" : "{\"address\":\"751 DERBY DRIVE\",\"city\":\"YORK\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "751 DERBY DRIVE",
-  "provider_id" : "010138",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "SUMTER",
-  "city" : "YORK"
-}
-, {
-  "hospital_name" : "BROOKWOOD MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2058771000"
-  },
-  "zip_code" : "35209",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.77656110699996",
-    "latitude" : "33.46306652900006",
-    "human_address" : "{\"address\":\"2010 BROOKWOOD MEDICAL CENTER DRIVE\",\"city\":\"BIRMINGHAM\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "2010 BROOKWOOD MEDICAL CENTER DRIVE",
-  "provider_id" : "010139",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON",
-  "city" : "BIRMINGHAM"
-}
-, {
-  "hospital_name" : "SPRINGHILL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2513449630"
-  },
-  "zip_code" : "36608",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-88.13177286999996",
-    "latitude" : "30.685856122000075",
-    "human_address" : "{\"address\":\"3719 DAUPHIN STREET\",\"city\":\"MOBILE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "3719 DAUPHIN STREET",
-  "provider_id" : "010144",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MOBILE",
-  "city" : "MOBILE"
-}
-, {
-  "hospital_name" : "RMC JACKSONVILLE",
-  "phone_number" : {
-    "phone_number" : "2567824538"
-  },
-  "zip_code" : "36265",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.76124893499997",
-    "latitude" : "33.78560261500007",
-    "human_address" : "{\"address\":\"1701 SOUTH PELHAM ROAD\",\"city\":\"JACKSONVILLE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1701 SOUTH PELHAM ROAD",
-  "provider_id" : "010146",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "CALHOUN",
-  "city" : "JACKSONVILLE"
-}
-, {
-  "hospital_name" : "EVERGREEN MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2515782480"
-  },
-  "zip_code" : "36401",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.94130531699994",
-    "latitude" : "31.43103941800007",
-    "human_address" : "{\"address\":\"101 CRESTVIEW AVENUE\",\"city\":\"EVERGREEN\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "101 CRESTVIEW AVENUE",
-  "provider_id" : "010148",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "CONECUH",
-  "city" : "EVERGREEN"
-}
-, {
-  "hospital_name" : "BAPTIST MEDICAL CENTER EAST",
-  "phone_number" : {
-    "phone_number" : "3342448330"
-  },
-  "zip_code" : "36117",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.17186895999998",
-    "latitude" : "32.376357615000074",
-    "human_address" : "{\"address\":\"400 TAYLOR ROAD\",\"city\":\"MONTGOMERY\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "400 TAYLOR ROAD",
-  "provider_id" : "010149",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MONTGOMERY",
-  "city" : "MONTGOMERY"
-}
-, {
-  "hospital_name" : "BIRMINGHAM VA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2059334515"
-  },
-  "zip_code" : "35233",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.89454669899999",
-    "latitude" : "33.51184492300007",
-    "human_address" : "{\"address\":\"700 SOUTH 19TH STREET\",\"city\":\"BIRMINGHAM\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "700 SOUTH 19TH STREET",
-  "provider_id" : "01014F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "AL",
-  "emergency_services" : false,
-  "county_name" : "JEFFERSON",
-  "city" : "BIRMINGHAM"
-}
-, {
-  "hospital_name" : "L V STABLER MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3343822200"
-  },
-  "zip_code" : "36037",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.64611473899998",
-    "latitude" : "31.829742777000035",
-    "human_address" : "{\"address\":\"29 L V STABLER DRIVE\",\"city\":\"GREENVILLE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "29 L V STABLER DRIVE",
-  "provider_id" : "010150",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "BUTLER",
-  "city" : "GREENVILLE"
-}
-, {
-  "hospital_name" : "SHOALS HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2563861601"
-  },
-  "zip_code" : "35661",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.67642553599995",
-    "latitude" : "34.744994844000075",
-    "human_address" : "{\"address\":\"201 WEST AVALON AVENUE\",\"city\":\"MUSCLE SHOALS\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "201 WEST AVALON AVENUE",
-  "provider_id" : "010157",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "COLBERT",
-  "city" : "MUSCLE SHOALS"
-}
-, {
-  "hospital_name" : "RUSSELLVILLE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2563321611"
-  },
-  "zip_code" : "35653",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.71760501499995",
-    "latitude" : "34.511260994000054",
-    "human_address" : "{\"address\":\"15155 HIGHWAY 43\",\"city\":\"RUSSELLVILLE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "15155 HIGHWAY 43",
-  "provider_id" : "010158",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "FRANKLIN",
-  "city" : "RUSSELLVILLE"
-}
-, {
-  "hospital_name" : "COOSA VALLEY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2562495000"
-  },
-  "zip_code" : "35150",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.25412046599996",
-    "latitude" : "33.164645473000064",
-    "human_address" : "{\"address\":\"315 W HICKORY ST\",\"city\":\"SYLACAUGA\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "315 W HICKORY ST",
-  "provider_id" : "010164",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "TALLADEGA",
-  "city" : "SYLACAUGA"
-}
-, {
-  "hospital_name" : "JACK HUGHSTON MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3347323000"
-  },
-  "zip_code" : "36867",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-85.00575018799998",
-    "latitude" : "32.509125106000056",
-    "human_address" : "{\"address\":\"4401 RIVER CHASE DRIVE\",\"city\":\"PHENIX CITY\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "4401 RIVER CHASE DRIVE",
-  "provider_id" : "010168",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "RUSSELL",
-  "city" : "PHENIX CITY"
-}
-, {
-  "hospital_name" : "ATMORE COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2513682500"
-  },
-  "zip_code" : "36502",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.47965811999995",
-    "latitude" : "31.017000387000053",
-    "human_address" : "{\"address\":\"401 MEDICAL PARK DRIVE\",\"city\":\"ATMORE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "401 MEDICAL PARK DRIVE",
-  "provider_id" : "010169",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "ESCAMBIA",
-  "city" : "ATMORE"
-}
-, {
-  "hospital_name" : "VA CENTRAL ALABAMA HEALTHCARE SYSTEM - MONTGOMERY",
-  "phone_number" : {
-    "phone_number" : "3342604100"
-  },
-  "zip_code" : "36109",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-86.24662606199996",
-    "latitude" : "32.37989606800005",
-    "human_address" : "{\"address\":\"215 PERRY HILL ROAD\",\"city\":\"MONTGOMERY\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "215 PERRY HILL ROAD",
-  "provider_id" : "01019F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "AL",
-  "emergency_services" : false,
-  "county_name" : "MONTGOMERY",
-  "city" : "MONTGOMERY"
-}
-, {
-  "hospital_name" : "TUSCALOOSA VA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2055542000"
-  },
-  "zip_code" : "35404",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-87.48836588499995",
-    "latitude" : "33.19321286600007",
-    "human_address" : "{\"address\":\"3701 LOOP ROAD\",\"city\":\"TUSCALOOSA\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "3701 LOOP ROAD",
-  "provider_id" : "01021F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "AL",
-  "emergency_services" : false,
-  "county_name" : "TUSCALOOSA",
-  "city" : "TUSCALOOSA"
-}
-, {
-  "hospital_name" : "WASHINGTON COUNTY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2518472223"
-  },
-  "zip_code" : "36518",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-88.23330173799997",
-    "latitude" : "31.459573689000024",
-    "human_address" : "{\"address\":\"14600 ST. STEPHENS AVENUE\",\"city\":\"CHATOM\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "14600 ST. STEPHENS AVENUE",
-  "provider_id" : "011300",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "WASHINGTON",
-  "city" : "CHATOM"
-}
-, {
-  "hospital_name" : "RED BAY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2563569532"
-  },
-  "zip_code" : "35582",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-88.14712255699999",
-    "latitude" : "34.45749636600004",
-    "human_address" : "{\"address\":\"211 HOSPITAL ROAD\",\"city\":\"RED BAY\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "211 HOSPITAL ROAD",
-  "provider_id" : "011302",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "FRANKLIN",
-  "city" : "RED BAY"
-}
-, {
-  "hospital_name" : "CHOCTAW GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2054599100"
-  },
-  "zip_code" : "36904",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-88.21280179099995",
-    "latitude" : "32.100342228000045",
-    "human_address" : "{\"address\":\"401 VANITY FAIR LANE, PO BOX 618\",\"city\":\"BUTLER\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "401 VANITY FAIR LANE, PO BOX 618",
-  "provider_id" : "011304",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "CHOCTAW",
-  "city" : "BUTLER"
-}
-, {
-  "hospital_name" : "UNIVERSITY OF S A CHILDREN'S AND WOMEN'S HOS",
-  "phone_number" : {
-    "phone_number" : "2514151000"
-  },
-  "zip_code" : "36604",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-88.07744464099994",
-    "latitude" : "30.696227023000063",
-    "human_address" : "{\"address\":\"1700 CENTER STREET\",\"city\":\"MOBILE\",\"state\":\"AL\",\"zip\":\"\"}"
-  },
-  "address" : "1700 CENTER STREET",
-  "provider_id" : "013301",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Childrens",
-  "state" : "AL",
-  "emergency_services" : true,
-  "county_name" : "MOBILE",
-  "city" : "MOBILE"
-}
- ]
+[
+    {
+        "address": "150 GILBREATH DRIVE",
+        "city": "ONEONTA",
+        "county_name": "BLOUNT",
+        "emergency_services": false,
+        "hospital_name": "ST VINCENTS BLOUNT",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -86.494266,
+                33.93301
+            ],
+            "type": "Point"
+        },
+        "location_address": "150 GILBREATH DRIVE",
+        "location_city": "ONEONTA",
+        "location_state": "AL",
+        "location_zip": "35121",
+        "phone_number": "2052743000",
+        "provider_id": "011305",
+        "state": "AL",
+        "zip_code": "35121"
+    },
+    {
+        "address": "1200 W MAPLE AVENUE",
+        "city": "GENEVA",
+        "county_name": "GENEVA",
+        "emergency_services": true,
+        "hospital_name": "WIREGRASS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.892518,
+                31.047753
+            ],
+            "type": "Point"
+        },
+        "location_address": "1200 W MAPLE AVENUE",
+        "location_city": "GENEVA",
+        "location_state": "AL",
+        "location_zip": "36340",
+        "phone_number": "3346843655",
+        "provider_id": "010062",
+        "state": "AL",
+        "zip_code": "36340"
+    },
+    {
+        "address": "317 MCWILLIAMS AVENUE",
+        "city": "CAMDEN",
+        "county_name": "WILCOX",
+        "emergency_services": true,
+        "hospital_name": "J PAUL JONES HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.299427,
+                31.995605
+            ],
+            "type": "Point"
+        },
+        "location_address": "317 MCWILLIAMS AVENUE",
+        "location_city": "CAMDEN",
+        "location_state": "AL",
+        "location_zip": "36726",
+        "phone_number": "3346824131",
+        "provider_id": "010102",
+        "state": "AL",
+        "zip_code": "36726"
+    },
+    {
+        "address": "1201 7TH STREET SE",
+        "city": "DECATUR",
+        "county_name": "MORGAN",
+        "emergency_services": true,
+        "hospital_name": "DECATUR MORGAN HOSPITAL-DECATUR CAMPUS",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.972786,
+                34.591169
+            ],
+            "type": "Point"
+        },
+        "location_address": "1201 7TH STREET SE",
+        "location_city": "DECATUR",
+        "location_state": "AL",
+        "location_zip": "35601",
+        "phone_number": "2563412000",
+        "provider_id": "010085",
+        "state": "AL",
+        "zip_code": "35601"
+    },
+    {
+        "address": "600 SOUTH THIRD STREET",
+        "city": "GADSDEN",
+        "county_name": "ETOWAH",
+        "emergency_services": true,
+        "hospital_name": "RIVERVIEW REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.003963,
+                34.004976
+            ],
+            "type": "Point"
+        },
+        "location_address": "600 SOUTH THIRD STREET",
+        "location_city": "GADSDEN",
+        "location_state": "AL",
+        "location_zip": "35901",
+        "phone_number": "2565435200",
+        "provider_id": "010046",
+        "state": "AL",
+        "zip_code": "35901"
+    },
+    {
+        "address": "400 N EDWARDS STREET",
+        "city": "ENTERPRISE",
+        "county_name": "COFFEE",
+        "emergency_services": true,
+        "hospital_name": "MEDICAL CENTER ENTERPRISE",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.855319,
+                31.318144
+            ],
+            "type": "Point"
+        },
+        "location_address": "400 N EDWARDS STREET",
+        "location_city": "ENTERPRISE",
+        "location_state": "AL",
+        "location_zip": "36330",
+        "phone_number": "3343470584",
+        "provider_id": "010049",
+        "state": "AL",
+        "zip_code": "36330"
+    },
+    {
+        "address": "820 W WASHINGTON ST",
+        "city": "EUFAULA",
+        "county_name": "BARBOUR",
+        "emergency_services": true,
+        "hospital_name": "MEDICAL CENTER BARBOUR",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.155487,
+                31.888006
+            ],
+            "type": "Point"
+        },
+        "location_address": "820 W WASHINGTON ST",
+        "location_city": "EUFAULA",
+        "location_state": "AL",
+        "location_zip": "36027",
+        "phone_number": "3346887271",
+        "provider_id": "010069",
+        "state": "AL",
+        "zip_code": "36027"
+    },
+    {
+        "address": "3316 HIGHWAY 280",
+        "city": "ALEXANDER CITY",
+        "county_name": "TALLAPOOSA",
+        "emergency_services": true,
+        "hospital_name": "RUSSELL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.965371,
+                32.928407
+            ],
+            "type": "Point"
+        },
+        "location_address": "3316 HIGHWAY 280",
+        "location_city": "ALEXANDER CITY",
+        "location_state": "AL",
+        "location_zip": "35010",
+        "phone_number": "2563297100",
+        "provider_id": "010065",
+        "state": "AL",
+        "zip_code": "35010"
+    },
+    {
+        "address": "751 DERBY DRIVE",
+        "city": "YORK",
+        "county_name": "SUMTER",
+        "emergency_services": true,
+        "hospital_name": "HILL HOSPITAL OF SUMTER COUNTY",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -88.296177,
+                32.492097
+            ],
+            "type": "Point"
+        },
+        "location_address": "751 DERBY DRIVE",
+        "location_city": "YORK",
+        "location_state": "AL",
+        "location_zip": "36925",
+        "phone_number": "2053925263",
+        "provider_id": "010138",
+        "state": "AL",
+        "zip_code": "36925"
+    },
+    {
+        "address": "400 EAST 10TH STREET",
+        "city": "ANNISTON",
+        "county_name": "CALHOUN",
+        "emergency_services": true,
+        "hospital_name": "NORTHEAST ALABAMA REGIONAL MED CENTER",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.823353,
+                33.657123
+            ],
+            "type": "Point"
+        },
+        "location_address": "400 EAST 10TH STREET",
+        "location_city": "ANNISTON",
+        "location_state": "AL",
+        "location_zip": "36207",
+        "phone_number": "2562355121",
+        "provider_id": "010078",
+        "state": "AL",
+        "zip_code": "36207"
+    },
+    {
+        "address": "1300 SOUTH MONTGOMERY AVENUE",
+        "city": "SHEFFIELD",
+        "county_name": "COLBERT",
+        "emergency_services": true,
+        "hospital_name": "HELEN KELLER MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.698875,
+                34.747681
+            ],
+            "type": "Point"
+        },
+        "location_address": "1300 SOUTH MONTGOMERY AVENUE",
+        "location_city": "SHEFFIELD",
+        "location_state": "AL",
+        "location_zip": "35660",
+        "phone_number": "2563864556",
+        "provider_id": "010019",
+        "state": "AL",
+        "zip_code": "35660"
+    },
+    {
+        "address": "604 STONE AVENUE",
+        "city": "TALLADEGA",
+        "county_name": "TALLADEGA",
+        "emergency_services": true,
+        "hospital_name": "CITIZENS BAPTIST MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.091984,
+                33.439798
+            ],
+            "type": "Point"
+        },
+        "location_address": "604 STONE AVENUE",
+        "location_city": "TALLADEGA",
+        "location_state": "AL",
+        "location_zip": "35161",
+        "phone_number": "2567614542",
+        "provider_id": "010101",
+        "state": "AL",
+        "zip_code": "35161"
+    },
+    {
+        "address": "1912 ALABAMA HIGHWAY 157",
+        "city": "CULLMAN",
+        "county_name": "CULLMAN",
+        "emergency_services": true,
+        "hospital_name": "CULLMAN REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.805369,
+                34.198579
+            ],
+            "type": "Point"
+        },
+        "location_address": "1912 ALABAMA HIGHWAY 157",
+        "location_city": "CULLMAN",
+        "location_state": "AL",
+        "location_zip": "35058",
+        "phone_number": "2567372000",
+        "provider_id": "010035",
+        "state": "AL",
+        "zip_code": "35058"
+    },
+    {
+        "address": "208 PIERSON AVE",
+        "city": "CENTREVILLE",
+        "county_name": "BIBB",
+        "emergency_services": true,
+        "hospital_name": "BIBB MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.146934,
+                32.951367
+            ],
+            "type": "Point"
+        },
+        "location_address": "208 PIERSON AVE",
+        "location_city": "CENTREVILLE",
+        "location_state": "AL",
+        "location_zip": "35042",
+        "phone_number": "2059264881",
+        "provider_id": "010058",
+        "state": "AL",
+        "zip_code": "35042"
+    },
+    {
+        "address": "83825 HIGHWAY 9    P O BOX 1270",
+        "city": "ASHLAND",
+        "county_name": "CLAY",
+        "emergency_services": true,
+        "hospital_name": "CLAY COUNTY HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "83825 HIGHWAY 9 P O BOX 1270",
+        "location_city": "ASHLAND",
+        "location_state": "AL",
+        "location_zip": "36251",
+        "phone_number": "2563542131",
+        "provider_id": "010073",
+        "state": "AL",
+        "zip_code": "36251"
+    },
+    {
+        "address": "101 SIVLEY RD",
+        "city": "HUNTSVILLE",
+        "county_name": "MADISON",
+        "emergency_services": true,
+        "hospital_name": "HUNTSVILLE HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.582196,
+                34.721067
+            ],
+            "type": "Point"
+        },
+        "location_address": "101 SIVLEY RD",
+        "location_city": "HUNTSVILLE",
+        "location_state": "AL",
+        "location_zip": "35801",
+        "phone_number": "2562651000",
+        "provider_id": "010039",
+        "state": "AL",
+        "zip_code": "35801"
+    },
+    {
+        "address": "800 MONTCLAIR RD",
+        "city": "BIRMINGHAM",
+        "county_name": "JEFFERSON",
+        "emergency_services": true,
+        "hospital_name": "TRINITY MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.74741,
+                33.514854
+            ],
+            "type": "Point"
+        },
+        "location_address": "800 MONTCLAIR RD",
+        "location_city": "BIRMINGHAM",
+        "location_state": "AL",
+        "location_zip": "35213",
+        "phone_number": "2055921000",
+        "provider_id": "010104",
+        "state": "AL",
+        "zip_code": "35213"
+    },
+    {
+        "address": "619 SOUTH 19TH STREET",
+        "city": "BIRMINGHAM",
+        "county_name": "JEFFERSON",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY OF ALABAMA HOSPITAL",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.801922,
+                33.506129
+            ],
+            "type": "Point"
+        },
+        "location_address": "619 SOUTH 19TH STREET",
+        "location_city": "BIRMINGHAM",
+        "location_state": "AL",
+        "location_zip": "35233",
+        "phone_number": "2059344011",
+        "provider_id": "010033",
+        "state": "AL",
+        "zip_code": "35233"
+    },
+    {
+        "address": "1000 FIRST STREET NORTH",
+        "city": "ALABASTER",
+        "county_name": "SHELBY",
+        "emergency_services": true,
+        "hospital_name": "SHELBY BAPTIST MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.813704,
+                33.255966
+            ],
+            "type": "Point"
+        },
+        "location_address": "1000 FIRST STREET NORTH",
+        "location_city": "ALABASTER",
+        "location_state": "AL",
+        "location_zip": "35007",
+        "phone_number": "2056208100",
+        "provider_id": "010016",
+        "state": "AL",
+        "zip_code": "35007"
+    },
+    {
+        "address": "700 SOUTH 19TH STREET",
+        "city": "BIRMINGHAM",
+        "county_name": "JEFFERSON",
+        "emergency_services": false,
+        "hospital_name": "BIRMINGHAM VA MEDICAL CENTER",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -86.801261,
+                33.505208
+            ],
+            "type": "Point"
+        },
+        "location_address": "700 SOUTH 19TH STREET",
+        "location_city": "BIRMINGHAM",
+        "location_state": "AL",
+        "location_zip": "35233",
+        "phone_number": "2059334515",
+        "provider_id": "01014F",
+        "state": "AL",
+        "zip_code": "35233"
+    },
+    {
+        "address": "1653 TEMPLE AVENUE NORTH",
+        "city": "FAYETTE",
+        "county_name": "FAYETTE",
+        "emergency_services": true,
+        "hospital_name": "FAYETTE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.823737,
+                33.707717
+            ],
+            "type": "Point"
+        },
+        "location_address": "1653 TEMPLE AVENUE NORTH",
+        "location_city": "FAYETTE",
+        "location_state": "AL",
+        "location_zip": "35555",
+        "phone_number": "2059325966",
+        "provider_id": "010045",
+        "state": "AL",
+        "zip_code": "35555"
+    },
+    {
+        "address": "295 JACKSON HWY S",
+        "city": "GROVE HILL",
+        "county_name": "CLARKE",
+        "emergency_services": true,
+        "hospital_name": "GROVE HILL MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "295 JACKSON HWY S",
+        "location_city": "GROVE HILL",
+        "location_state": "AL",
+        "location_zip": "36451",
+        "phone_number": "2512753191",
+        "provider_id": "010091",
+        "state": "AL",
+        "zip_code": "36451"
+    },
+    {
+        "address": "750 MORPHY AVENUE",
+        "city": "FAIRHOPE",
+        "county_name": "BALDWIN",
+        "emergency_services": true,
+        "hospital_name": "THOMAS HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.890333,
+                30.519999
+            ],
+            "type": "Point"
+        },
+        "location_address": "750 MORPHY AVENUE",
+        "location_city": "FAIRHOPE",
+        "location_state": "AL",
+        "location_zip": "36532",
+        "phone_number": "2519282375",
+        "provider_id": "010100",
+        "state": "AL",
+        "zip_code": "36532"
+    },
+    {
+        "address": "380 WOODS COVE ROAD",
+        "city": "SCOTTSBORO",
+        "county_name": "JACKSON",
+        "emergency_services": true,
+        "hospital_name": "HIGHLANDS MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.045507,
+                34.663091
+            ],
+            "type": "Point"
+        },
+        "location_address": "380 WOODS COVE ROAD",
+        "location_city": "SCOTTSBORO",
+        "location_state": "AL",
+        "location_zip": "35768",
+        "phone_number": "2562594444",
+        "provider_id": "010061",
+        "state": "AL",
+        "zip_code": "35768"
+    },
+    {
+        "address": "50 MEDICAL PARK EAST DRIVE",
+        "city": "BIRMINGHAM",
+        "county_name": "JEFFERSON",
+        "emergency_services": true,
+        "hospital_name": "ST VINCENT'S EAST",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "50 MEDICAL PARK EAST DRIVE",
+        "location_city": "BIRMINGHAM",
+        "location_state": "AL",
+        "location_zip": "35235",
+        "phone_number": "2058383122",
+        "provider_id": "010011",
+        "state": "AL",
+        "zip_code": "35235"
+    },
+    {
+        "address": "4370 WEST MAIN STREET",
+        "city": "DOTHAN",
+        "county_name": "HOUSTON",
+        "emergency_services": true,
+        "hospital_name": "FLOWERS HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.457937,
+                31.235991
+            ],
+            "type": "Point"
+        },
+        "location_address": "4370 WEST MAIN STREET",
+        "location_city": "DOTHAN",
+        "location_state": "AL",
+        "location_zip": "36305",
+        "phone_number": "3347935000",
+        "provider_id": "010055",
+        "state": "AL",
+        "zip_code": "36305"
+    },
+    {
+        "address": "220 HOSPITAL DRIVE",
+        "city": "JACKSON",
+        "county_name": "CLARKE",
+        "emergency_services": true,
+        "hospital_name": "JACKSON MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.894553,
+                31.531099
+            ],
+            "type": "Point"
+        },
+        "location_address": "220 HOSPITAL DRIVE",
+        "location_city": "JACKSON",
+        "location_state": "AL",
+        "location_zip": "36545",
+        "phone_number": "2512469021",
+        "provider_id": "010128",
+        "state": "AL",
+        "zip_code": "36545"
+    },
+    {
+        "address": "5 MOBILE INFIRMARY CIRCLE",
+        "city": "MOBILE",
+        "county_name": "MOBILE",
+        "emergency_services": true,
+        "hospital_name": "MOBILE INFIRMARY",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -88.081622,
+                30.696591
+            ],
+            "type": "Point"
+        },
+        "location_address": "5 MOBILE INFIRMARY CIRCLE",
+        "location_city": "MOBILE",
+        "location_state": "AL",
+        "location_zip": "36652",
+        "phone_number": "2514354700",
+        "provider_id": "010113",
+        "state": "AL",
+        "zip_code": "36652"
+    },
+    {
+        "address": "401 VANITY FAIR LANE, PO BOX 618",
+        "city": "BUTLER",
+        "county_name": "CHOCTAW",
+        "emergency_services": true,
+        "hospital_name": "CHOCTAW GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -88.208346,
+                32.092417
+            ],
+            "type": "Point"
+        },
+        "location_address": "401 VANITY FAIR LANE, PO BOX 618",
+        "location_city": "BUTLER",
+        "location_state": "AL",
+        "location_zip": "36904",
+        "phone_number": "2054599100",
+        "provider_id": "011304",
+        "state": "AL",
+        "zip_code": "36904"
+    },
+    {
+        "address": "ONE HOSPITAL DR SE",
+        "city": "HUNTSVILLE",
+        "county_name": "MADISON",
+        "emergency_services": true,
+        "hospital_name": "CRESTWOOD MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "ONE HOSPITAL DR SE",
+        "location_city": "HUNTSVILLE",
+        "location_state": "AL",
+        "location_zip": "35801",
+        "phone_number": "2568823100",
+        "provider_id": "010131",
+        "state": "AL",
+        "zip_code": "35801"
+    },
+    {
+        "address": "205 MARENGO STREET",
+        "city": "FLORENCE",
+        "county_name": "LAUDERDALE",
+        "emergency_services": true,
+        "hospital_name": "ELIZA COFFEE MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.68504,
+                34.794895
+            ],
+            "type": "Point"
+        },
+        "location_address": "205 MARENGO STREET",
+        "location_city": "FLORENCE",
+        "location_state": "AL",
+        "location_zip": "35631",
+        "phone_number": "2567688400",
+        "provider_id": "010006",
+        "state": "AL",
+        "zip_code": "35631"
+    },
+    {
+        "address": "301 EAST 18TH ST",
+        "city": "ANNISTON",
+        "county_name": "CALHOUN",
+        "emergency_services": true,
+        "hospital_name": "STRINGFELLOW MEMORIAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.825025,
+                33.667701
+            ],
+            "type": "Point"
+        },
+        "location_address": "301 EAST 18TH ST",
+        "location_city": "ANNISTON",
+        "location_state": "AL",
+        "location_zip": "36201",
+        "phone_number": "2562358900",
+        "provider_id": "010038",
+        "state": "AL",
+        "zip_code": "36201"
+    },
+    {
+        "address": "202 HOSPITAL STREET",
+        "city": "MOULTON",
+        "county_name": "LAWRENCE",
+        "emergency_services": true,
+        "hospital_name": "LAWRENCE MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.286019,
+                34.482884
+            ],
+            "type": "Point"
+        },
+        "location_address": "202 HOSPITAL STREET",
+        "location_city": "MOULTON",
+        "location_state": "AL",
+        "location_zip": "35650",
+        "phone_number": "2569742200",
+        "provider_id": "010059",
+        "state": "AL",
+        "zip_code": "35650"
+    },
+    {
+        "address": "2010 BROOKWOOD MEDICAL CENTER DRIVE",
+        "city": "BIRMINGHAM",
+        "county_name": "JEFFERSON",
+        "emergency_services": true,
+        "hospital_name": "BROOKWOOD MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.776451,
+                33.463103
+            ],
+            "type": "Point"
+        },
+        "location_address": "2010 BROOKWOOD MEDICAL CENTER DRIVE",
+        "location_city": "BIRMINGHAM",
+        "location_state": "AL",
+        "location_zip": "35209",
+        "phone_number": "2058771000",
+        "provider_id": "010139",
+        "state": "AL",
+        "zip_code": "35209"
+    },
+    {
+        "address": "995 9TH AVENUE SOUTHWEST",
+        "city": "BESSEMER",
+        "county_name": "JEFFERSON",
+        "emergency_services": true,
+        "hospital_name": "MEDICAL WEST, AN AFFILIATE OF UAB HEALTH SYSTEM",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.986239,
+                33.379573
+            ],
+            "type": "Point"
+        },
+        "location_address": "995 9TH AVENUE SOUTHWEST",
+        "location_city": "BESSEMER",
+        "location_state": "AL",
+        "location_zip": "35021",
+        "phone_number": "2054817000",
+        "provider_id": "010114",
+        "state": "AL",
+        "zip_code": "35021"
+    },
+    {
+        "address": "2105 EAST SOUTH BOULEVARD",
+        "city": "MONTGOMERY",
+        "county_name": "MONTGOMERY",
+        "emergency_services": true,
+        "hospital_name": "BAPTIST MEDICAL CENTER SOUTH",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.275985,
+                32.327153
+            ],
+            "type": "Point"
+        },
+        "location_address": "2105 EAST SOUTH BOULEVARD",
+        "location_city": "MONTGOMERY",
+        "location_state": "AL",
+        "location_zip": "36116",
+        "phone_number": "3342882100",
+        "provider_id": "010023",
+        "state": "AL",
+        "zip_code": "36116"
+    },
+    {
+        "address": "15155 HIGHWAY 43",
+        "city": "RUSSELLVILLE",
+        "county_name": "FRANKLIN",
+        "emergency_services": true,
+        "hospital_name": "RUSSELLVILLE HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.7176,
+                34.511362
+            ],
+            "type": "Point"
+        },
+        "location_address": "15155 HIGHWAY 43",
+        "location_city": "RUSSELLVILLE",
+        "location_state": "AL",
+        "location_zip": "35653",
+        "phone_number": "2563321611",
+        "provider_id": "010158",
+        "state": "AL",
+        "zip_code": "35653"
+    },
+    {
+        "address": "1613 NORTH MCKENZIE STREET",
+        "city": "FOLEY",
+        "county_name": "BALDWIN",
+        "emergency_services": true,
+        "hospital_name": "SOUTH BALDWIN REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.683193,
+                30.426686
+            ],
+            "type": "Point"
+        },
+        "location_address": "1613 NORTH MCKENZIE STREET",
+        "location_city": "FOLEY",
+        "location_state": "AL",
+        "location_zip": "36535",
+        "phone_number": "2519493400",
+        "provider_id": "010083",
+        "state": "AL",
+        "zip_code": "36535"
+    },
+    {
+        "address": "401 MEDICAL PARK DRIVE",
+        "city": "ATMORE",
+        "county_name": "ESCAMBIA",
+        "emergency_services": true,
+        "hospital_name": "ATMORE COMMUNITY HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.479655,
+                31.016525
+            ],
+            "type": "Point"
+        },
+        "location_address": "401 MEDICAL PARK DRIVE",
+        "location_city": "ATMORE",
+        "location_state": "AL",
+        "location_zip": "36502",
+        "phone_number": "2513682500",
+        "provider_id": "010169",
+        "state": "AL",
+        "zip_code": "36502"
+    },
+    {
+        "address": "4401 RIVER CHASE DRIVE",
+        "city": "PHENIX CITY",
+        "county_name": "RUSSELL",
+        "emergency_services": true,
+        "hospital_name": "JACK HUGHSTON MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.005696,
+                32.509045
+            ],
+            "type": "Point"
+        },
+        "location_address": "4401 RIVER CHASE DRIVE",
+        "location_city": "PHENIX CITY",
+        "location_state": "AL",
+        "location_zip": "36867",
+        "phone_number": "3347323000",
+        "provider_id": "010168",
+        "state": "AL",
+        "zip_code": "36867"
+    },
+    {
+        "address": "14600 ST. STEPHENS AVENUE",
+        "city": "CHATOM",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "WASHINGTON COUNTY HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -88.208144,
+                31.453192
+            ],
+            "type": "Point"
+        },
+        "location_address": "14600 ST. STEPHENS AVENUE",
+        "location_city": "CHATOM",
+        "location_state": "AL",
+        "location_zip": "36518",
+        "phone_number": "2518472223",
+        "provider_id": "011300",
+        "state": "AL",
+        "zip_code": "36518"
+    },
+    {
+        "address": "1007 GOODYEAR AVENUE",
+        "city": "GADSDEN",
+        "county_name": "ETOWAH",
+        "emergency_services": true,
+        "hospital_name": "GADSDEN REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.96752,
+                34.009389
+            ],
+            "type": "Point"
+        },
+        "location_address": "1007 GOODYEAR AVENUE",
+        "location_city": "GADSDEN",
+        "location_state": "AL",
+        "location_zip": "35903",
+        "phone_number": "2564944000",
+        "provider_id": "010040",
+        "state": "AL",
+        "zip_code": "35903"
+    },
+    {
+        "address": "1301 BELLEVILLE AVENUE",
+        "city": "BREWTON",
+        "county_name": "ESCAMBIA",
+        "emergency_services": true,
+        "hospital_name": "D W MCMILLAN MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.072399,
+                31.127144
+            ],
+            "type": "Point"
+        },
+        "location_address": "1301 BELLEVILLE AVENUE",
+        "location_city": "BREWTON",
+        "location_state": "AL",
+        "location_zip": "36426",
+        "phone_number": "2518678061",
+        "provider_id": "010099",
+        "state": "AL",
+        "zip_code": "36426"
+    },
+    {
+        "address": "124 S MEMORIAL DR",
+        "city": "PRATTVILLE",
+        "county_name": "AUTAUGA",
+        "emergency_services": true,
+        "hospital_name": "PRATTVILLE BAPTIST HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.450939,
+                32.463514
+            ],
+            "type": "Point"
+        },
+        "location_address": "124 S MEMORIAL DR",
+        "location_city": "PRATTVILLE",
+        "location_state": "AL",
+        "location_zip": "36067",
+        "phone_number": "3343614267",
+        "provider_id": "010108",
+        "state": "AL",
+        "zip_code": "36067"
+    },
+    {
+        "address": "1108 ROSS CLARK CIRCLE",
+        "city": "DOTHAN",
+        "county_name": "HOUSTON",
+        "emergency_services": true,
+        "hospital_name": "SOUTHEAST ALABAMA MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.361569,
+                31.214601
+            ],
+            "type": "Point"
+        },
+        "location_address": "1108 ROSS CLARK CIRCLE",
+        "location_city": "DOTHAN",
+        "location_state": "AL",
+        "location_zip": "36301",
+        "phone_number": "3347938701",
+        "provider_id": "010001",
+        "state": "AL",
+        "zip_code": "36301"
+    },
+    {
+        "address": "400 NORTHWOOD DR",
+        "city": "CENTRE",
+        "county_name": "CHEROKEE",
+        "emergency_services": true,
+        "hospital_name": "CHEROKEE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.657041,
+                34.162675
+            ],
+            "type": "Point"
+        },
+        "location_address": "400 NORTHWOOD DR",
+        "location_city": "CENTRE",
+        "location_state": "AL",
+        "location_zip": "35960",
+        "phone_number": "2569275531",
+        "provider_id": "010022",
+        "state": "AL",
+        "zip_code": "35960"
+    },
+    {
+        "address": "500 HOSPITAL DRIVE",
+        "city": "WETUMPKA",
+        "county_name": "ELMORE",
+        "emergency_services": true,
+        "hospital_name": "ELMORE COMMUNITY HOSPITAL",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.186183,
+                32.552
+            ],
+            "type": "Point"
+        },
+        "location_address": "500 HOSPITAL DRIVE",
+        "location_city": "WETUMPKA",
+        "location_state": "AL",
+        "location_zip": "36092",
+        "phone_number": "3345674311",
+        "provider_id": "010097",
+        "state": "AL",
+        "zip_code": "36092"
+    },
+    {
+        "address": "809 UNIVERSITY BOULEVARD EAST",
+        "city": "TUSCALOOSA",
+        "county_name": "TUSCALOOSA",
+        "emergency_services": true,
+        "hospital_name": "D C H REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.52551,
+                33.206164
+            ],
+            "type": "Point"
+        },
+        "location_address": "809 UNIVERSITY BOULEVARD EAST",
+        "location_city": "TUSCALOOSA",
+        "location_state": "AL",
+        "location_zip": "35401",
+        "phone_number": "2057597111",
+        "provider_id": "010092",
+        "state": "AL",
+        "zip_code": "35401"
+    },
+    {
+        "address": "7063 VETERANS PARKWAY",
+        "city": "PELL CITY",
+        "county_name": "SAINT CLAIR",
+        "emergency_services": true,
+        "hospital_name": "ST VINCENT'S ST CLAIR",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.298969,
+                33.605262
+            ],
+            "type": "Point"
+        },
+        "location_address": "7063 VETERANS PARKWAY",
+        "location_city": "PELL CITY",
+        "location_state": "AL",
+        "location_zip": "35125",
+        "phone_number": "2053383301",
+        "provider_id": "010130",
+        "state": "AL",
+        "zip_code": "35125"
+    },
+    {
+        "address": "3701 LOOP ROAD",
+        "city": "TUSCALOOSA",
+        "county_name": "TUSCALOOSA",
+        "emergency_services": false,
+        "hospital_name": "TUSCALOOSA VA MEDICAL CENTER",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -87.488205,
+                33.193393
+            ],
+            "type": "Point"
+        },
+        "location_address": "3701 LOOP ROAD",
+        "location_city": "TUSCALOOSA",
+        "location_state": "AL",
+        "location_zip": "35404",
+        "phone_number": "2055542000",
+        "provider_id": "01021F",
+        "state": "AL",
+        "zip_code": "35404"
+    },
+    {
+        "address": "400 TAYLOR ROAD",
+        "city": "MONTGOMERY",
+        "county_name": "MONTGOMERY",
+        "emergency_services": true,
+        "hospital_name": "BAPTIST MEDICAL CENTER EAST",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.172095,
+                32.376821
+            ],
+            "type": "Point"
+        },
+        "location_address": "400 TAYLOR ROAD",
+        "location_city": "MONTGOMERY",
+        "location_state": "AL",
+        "location_zip": "36117",
+        "phone_number": "3342448330",
+        "provider_id": "010149",
+        "state": "AL",
+        "zip_code": "36117"
+    },
+    {
+        "address": "102 WEST CONECUH AVENUE",
+        "city": "UNION SPRINGS",
+        "county_name": "BULLOCK",
+        "emergency_services": true,
+        "hospital_name": "BULLOCK COUNTY HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.715994,
+                32.146178
+            ],
+            "type": "Point"
+        },
+        "location_address": "102 WEST CONECUH AVENUE",
+        "location_city": "UNION SPRINGS",
+        "location_state": "AL",
+        "location_zip": "36089",
+        "phone_number": "3347382140",
+        "provider_id": "010110",
+        "state": "AL",
+        "zip_code": "36089"
+    },
+    {
+        "address": "700 WEST MARKET STREET",
+        "city": "ATHENS",
+        "county_name": "LIMESTONE",
+        "emergency_services": true,
+        "hospital_name": "ATHENS-LIMESTONE HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.977803,
+                34.803499
+            ],
+            "type": "Point"
+        },
+        "location_address": "700 WEST MARKET STREET",
+        "location_city": "ATHENS",
+        "location_state": "AL",
+        "location_zip": "35611",
+        "phone_number": "2562339292",
+        "provider_id": "010079",
+        "state": "AL",
+        "zip_code": "35611"
+    },
+    {
+        "address": "101 CRESTVIEW AVENUE",
+        "city": "EVERGREEN",
+        "county_name": "CONECUH",
+        "emergency_services": true,
+        "hospital_name": "EVERGREEN MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.940492,
+                31.431763
+            ],
+            "type": "Point"
+        },
+        "location_address": "101 CRESTVIEW AVENUE",
+        "location_city": "EVERGREEN",
+        "location_state": "AL",
+        "location_zip": "36401",
+        "phone_number": "2515782480",
+        "provider_id": "010148",
+        "state": "AL",
+        "zip_code": "36401"
+    },
+    {
+        "address": "2016 SOUTH ALABAMA AVENUE, BOX 886",
+        "city": "MONROEVILLE",
+        "county_name": "MONROE",
+        "emergency_services": true,
+        "hospital_name": "MONROE COUNTY HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.319144,
+                31.49935
+            ],
+            "type": "Point"
+        },
+        "location_address": "2016 SOUTH ALABAMA AVENUE, BOX 886",
+        "location_city": "MONROEVILLE",
+        "location_state": "AL",
+        "location_zip": "36460",
+        "phone_number": "2515753111",
+        "provider_id": "010120",
+        "state": "AL",
+        "zip_code": "36460"
+    },
+    {
+        "address": "200 MED CENTER DRIVE",
+        "city": "FORT PAYNE",
+        "county_name": "DE KALB",
+        "emergency_services": true,
+        "hospital_name": "DEKALB REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "200 MED CENTER DRIVE",
+        "location_city": "FORT PAYNE",
+        "location_state": "AL",
+        "location_zip": "35968",
+        "phone_number": "2568453150",
+        "provider_id": "010012",
+        "state": "AL",
+        "zip_code": "35968"
+    },
+    {
+        "address": "508 GREEN STREET",
+        "city": "GREENSBORO",
+        "county_name": "HALE",
+        "emergency_services": true,
+        "hospital_name": "HALE COUNTY HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.585443,
+                32.69472
+            ],
+            "type": "Point"
+        },
+        "location_address": "508 GREEN STREET",
+        "location_city": "GREENSBORO",
+        "location_state": "AL",
+        "location_zip": "36744",
+        "phone_number": "3346243024",
+        "provider_id": "010095",
+        "state": "AL",
+        "zip_code": "36744"
+    },
+    {
+        "address": "101 HOSPITAL CIRCLE",
+        "city": "LUVERNE",
+        "county_name": "CRENSHAW",
+        "emergency_services": false,
+        "hospital_name": "CRENSHAW COMMUNITY HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.26623,
+                31.694473
+            ],
+            "type": "Point"
+        },
+        "location_address": "101 HOSPITAL CIRCLE",
+        "location_city": "LUVERNE",
+        "location_state": "AL",
+        "location_zip": "36049",
+        "phone_number": "3343353374",
+        "provider_id": "010008",
+        "state": "AL",
+        "zip_code": "36049"
+    },
+    {
+        "address": "315 W HICKORY ST",
+        "city": "SYLACAUGA",
+        "county_name": "TALLADEGA",
+        "emergency_services": true,
+        "hospital_name": "COOSA VALLEY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.25381,
+                33.164663
+            ],
+            "type": "Point"
+        },
+        "location_address": "315 W HICKORY ST",
+        "location_city": "SYLACAUGA",
+        "location_state": "AL",
+        "location_zip": "35150",
+        "phone_number": "2562495000",
+        "provider_id": "010164",
+        "state": "AL",
+        "zip_code": "35150"
+    },
+    {
+        "address": "509 WILSON AVENUE",
+        "city": "EUTAW",
+        "county_name": "GREENE",
+        "emergency_services": false,
+        "hospital_name": "GREENE COUNTY HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.889307,
+                32.844744
+            ],
+            "type": "Point"
+        },
+        "location_address": "509 WILSON AVENUE",
+        "location_city": "EUTAW",
+        "location_state": "AL",
+        "location_zip": "35462",
+        "phone_number": "2053723388",
+        "provider_id": "010051",
+        "state": "AL",
+        "zip_code": "35462"
+    },
+    {
+        "address": "3719 DAUPHIN STREET",
+        "city": "MOBILE",
+        "county_name": "MOBILE",
+        "emergency_services": true,
+        "hospital_name": "SPRINGHILL MEMORIAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -88.130626,
+                30.686756
+            ],
+            "type": "Point"
+        },
+        "location_address": "3719 DAUPHIN STREET",
+        "location_city": "MOBILE",
+        "location_state": "AL",
+        "location_zip": "36608",
+        "phone_number": "2513449630",
+        "provider_id": "010144",
+        "state": "AL",
+        "zip_code": "36608"
+    },
+    {
+        "address": "42024 HIGHWAY 195 E",
+        "city": "HALEYVILLE",
+        "county_name": "WINSTON",
+        "emergency_services": true,
+        "hospital_name": "LAKELAND COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.590799,
+                34.241156
+            ],
+            "type": "Point"
+        },
+        "location_address": "42024 HIGHWAY 195 E",
+        "location_city": "HALEYVILLE",
+        "location_state": "AL",
+        "location_zip": "35565",
+        "phone_number": "2054857117",
+        "provider_id": "010125",
+        "state": "AL",
+        "zip_code": "35565"
+    },
+    {
+        "address": "1815 HAND AVENUE",
+        "city": "BAY MINETTE",
+        "county_name": "BALDWIN",
+        "emergency_services": true,
+        "hospital_name": "NORTH BALDWIN INFIRMARY",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.783058,
+                30.901934
+            ],
+            "type": "Point"
+        },
+        "location_address": "1815 HAND AVENUE",
+        "location_city": "BAY MINETTE",
+        "location_state": "AL",
+        "location_zip": "36507",
+        "phone_number": "2519375521",
+        "provider_id": "010129",
+        "state": "AL",
+        "zip_code": "36507"
+    },
+    {
+        "address": "1701 SOUTH PELHAM ROAD",
+        "city": "JACKSONVILLE",
+        "county_name": "CALHOUN",
+        "emergency_services": true,
+        "hospital_name": "RMC JACKSONVILLE",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.761164,
+                33.785668
+            ],
+            "type": "Point"
+        },
+        "location_address": "1701 SOUTH PELHAM ROAD",
+        "location_city": "JACKSONVILLE",
+        "location_state": "AL",
+        "location_zip": "36265",
+        "phone_number": "2567824538",
+        "provider_id": "010146",
+        "state": "AL",
+        "zip_code": "36265"
+    },
+    {
+        "address": "702 N MAIN ST",
+        "city": "OPP",
+        "county_name": "COVINGTON",
+        "emergency_services": true,
+        "hospital_name": "MIZELL MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.255415,
+                31.291972
+            ],
+            "type": "Point"
+        },
+        "location_address": "702 N MAIN ST",
+        "location_city": "OPP",
+        "location_state": "AL",
+        "location_zip": "36467",
+        "phone_number": "3344933541",
+        "provider_id": "010007",
+        "state": "AL",
+        "zip_code": "36467"
+    },
+    {
+        "address": "1720 UNIVERSITY BLVD",
+        "city": "BIRMINGHAM",
+        "county_name": "JEFFERSON",
+        "emergency_services": true,
+        "hospital_name": "CALLAHAN EYE HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.802298,
+                33.503187
+            ],
+            "type": "Point"
+        },
+        "location_address": "1720 UNIVERSITY BLVD",
+        "location_city": "BIRMINGHAM",
+        "location_state": "AL",
+        "location_zip": "35233",
+        "phone_number": "2053258100",
+        "provider_id": "010018",
+        "state": "AL",
+        "zip_code": "35233"
+    },
+    {
+        "address": "6801 AIRPORT BOULEVARD",
+        "city": "MOBILE",
+        "county_name": "MOBILE",
+        "emergency_services": true,
+        "hospital_name": "PROVIDENCE HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -88.199618,
+                30.682265
+            ],
+            "type": "Point"
+        },
+        "location_address": "6801 AIRPORT BOULEVARD",
+        "location_city": "MOBILE",
+        "location_state": "AL",
+        "location_zip": "36608",
+        "phone_number": "2516331000",
+        "provider_id": "010090",
+        "state": "AL",
+        "zip_code": "36608"
+    },
+    {
+        "address": "211 HOSPITAL ROAD",
+        "city": "RED BAY",
+        "county_name": "FRANKLIN",
+        "emergency_services": true,
+        "hospital_name": "RED BAY HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -88.14693,
+                34.457424
+            ],
+            "type": "Point"
+        },
+        "location_address": "211 HOSPITAL ROAD",
+        "location_city": "RED BAY",
+        "location_state": "AL",
+        "location_zip": "35582",
+        "phone_number": "2563569532",
+        "provider_id": "011302",
+        "state": "AL",
+        "zip_code": "35582"
+    },
+    {
+        "address": "201 MARIARDEN ROAD",
+        "city": "DADEVILLE",
+        "county_name": "TALLAPOOSA",
+        "emergency_services": true,
+        "hospital_name": "LAKE MARTIN COMMUNITY HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.741599,
+                32.819955
+            ],
+            "type": "Point"
+        },
+        "location_address": "201 MARIARDEN ROAD",
+        "location_city": "DADEVILLE",
+        "location_state": "AL",
+        "location_zip": "36853",
+        "phone_number": "2568257821",
+        "provider_id": "010052",
+        "state": "AL",
+        "zip_code": "36853"
+    },
+    {
+        "address": "1330 HIGHWAY 231 SOUTH",
+        "city": "TROY",
+        "county_name": "PIKE",
+        "emergency_services": true,
+        "hospital_name": "TROY REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Government - Federal",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.946277,
+                31.78056
+            ],
+            "type": "Point"
+        },
+        "location_address": "1330 HIGHWAY 231 SOUTH",
+        "location_city": "TROY",
+        "location_state": "AL",
+        "location_zip": "36081",
+        "phone_number": "3346705000",
+        "provider_id": "010126",
+        "state": "AL",
+        "zip_code": "36081"
+    },
+    {
+        "address": "29 L V STABLER DRIVE",
+        "city": "GREENVILLE",
+        "county_name": "BUTLER",
+        "emergency_services": true,
+        "hospital_name": "L V STABLER MEMORIAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.64586,
+                31.82945
+            ],
+            "type": "Point"
+        },
+        "location_address": "29 L V STABLER DRIVE",
+        "location_city": "GREENVILLE",
+        "location_state": "AL",
+        "location_zip": "36037",
+        "phone_number": "3343822200",
+        "provider_id": "010150",
+        "state": "AL",
+        "zip_code": "36037"
+    },
+    {
+        "address": "1015 MEDICAL CENTER PARKWAY",
+        "city": "SELMA",
+        "county_name": "DALLAS",
+        "emergency_services": true,
+        "hospital_name": "VAUGHAN REGIONAL MEDICAL CENTER PARKWAY CAMPUS",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.055271,
+                32.430311
+            ],
+            "type": "Point"
+        },
+        "location_address": "1015 MEDICAL CENTER PARKWAY",
+        "location_city": "SELMA",
+        "location_state": "AL",
+        "location_zip": "36701",
+        "phone_number": "3344184100",
+        "provider_id": "010118",
+        "state": "AL",
+        "zip_code": "36701"
+    },
+    {
+        "address": "2000 PEPPERELL PARKWAY",
+        "city": "OPELIKA",
+        "county_name": "LEE",
+        "emergency_services": true,
+        "hospital_name": "EAST ALABAMA MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.403112,
+                32.638138
+            ],
+            "type": "Point"
+        },
+        "location_address": "2000 PEPPERELL PARKWAY",
+        "location_city": "OPELIKA",
+        "location_state": "AL",
+        "location_zip": "36801",
+        "phone_number": "3347493411",
+        "provider_id": "010029",
+        "state": "AL",
+        "zip_code": "36801"
+    },
+    {
+        "address": "209 NORTH MAIN STREET",
+        "city": "WEDOWEE",
+        "county_name": "RANDOLPH",
+        "emergency_services": true,
+        "hospital_name": "WEDOWEE HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.484971,
+                33.310467
+            ],
+            "type": "Point"
+        },
+        "location_address": "209 NORTH MAIN STREET",
+        "location_city": "WEDOWEE",
+        "location_state": "AL",
+        "location_zip": "36278",
+        "phone_number": "2563572111",
+        "provider_id": "010032",
+        "state": "AL",
+        "zip_code": "36278"
+    },
+    {
+        "address": "2451 FILLINGIM STREET",
+        "city": "MOBILE",
+        "county_name": "MOBILE",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY OF SOUTH ALABAMA MEDICAL CENTER",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -88.098946,
+                30.708197
+            ],
+            "type": "Point"
+        },
+        "location_address": "2451 FILLINGIM STREET",
+        "location_city": "MOBILE",
+        "location_state": "AL",
+        "location_zip": "36617",
+        "phone_number": "2514717110",
+        "provider_id": "010087",
+        "state": "AL",
+        "zip_code": "36617"
+    },
+    {
+        "address": "3400 HIGHWAY 78 EAST",
+        "city": "JASPER",
+        "county_name": "WALKER",
+        "emergency_services": true,
+        "hospital_name": "WALKER BAPTIST MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.236879,
+                33.841142
+            ],
+            "type": "Point"
+        },
+        "location_address": "3400 HIGHWAY 78 EAST",
+        "location_city": "JASPER",
+        "location_state": "AL",
+        "location_zip": "35502",
+        "phone_number": "2053874000",
+        "provider_id": "010089",
+        "state": "AL",
+        "zip_code": "35502"
+    },
+    {
+        "address": "215 PERRY HILL ROAD",
+        "city": "MONTGOMERY",
+        "county_name": "MONTGOMERY",
+        "emergency_services": false,
+        "hospital_name": "VA CENTRAL ALABAMA HEALTHCARE SYSTEM - MONTGOMERY",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -86.246609,
+                32.379681
+            ],
+            "type": "Point"
+        },
+        "location_address": "215 PERRY HILL ROAD",
+        "location_city": "MONTGOMERY",
+        "location_state": "AL",
+        "location_zip": "36109",
+        "phone_number": "3342604100",
+        "provider_id": "01019F",
+        "state": "AL",
+        "zip_code": "36109"
+    },
+    {
+        "address": "701 PRINCETON AVENUE SOUTHWEST",
+        "city": "BIRMINGHAM",
+        "county_name": "JEFFERSON",
+        "emergency_services": true,
+        "hospital_name": "BAPTIST MEDICAL CENTER-PRINCETON",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.846442,
+                33.498977
+            ],
+            "type": "Point"
+        },
+        "location_address": "701 PRINCETON AVENUE SOUTHWEST",
+        "location_city": "BIRMINGHAM",
+        "location_state": "AL",
+        "location_zip": "35211",
+        "phone_number": "2057833800",
+        "provider_id": "010103",
+        "state": "AL",
+        "zip_code": "35211"
+    },
+    {
+        "address": "1256 MILITARY STREET SOUTH",
+        "city": "HAMILTON",
+        "county_name": "MARION",
+        "emergency_services": true,
+        "hospital_name": "MARION REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.989811,
+                34.12602
+            ],
+            "type": "Point"
+        },
+        "location_address": "1256 MILITARY STREET SOUTH",
+        "location_city": "HAMILTON",
+        "location_state": "AL",
+        "location_zip": "35570",
+        "phone_number": "2059216200",
+        "provider_id": "010044",
+        "state": "AL",
+        "zip_code": "35570"
+    },
+    {
+        "address": "201 WEST AVALON AVENUE",
+        "city": "MUSCLE SHOALS",
+        "county_name": "COLBERT",
+        "emergency_services": true,
+        "hospital_name": "SHOALS HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.676511,
+                34.744941
+            ],
+            "type": "Point"
+        },
+        "location_address": "201 WEST AVALON AVENUE",
+        "location_city": "MUSCLE SHOALS",
+        "location_state": "AL",
+        "location_zip": "35661",
+        "phone_number": "2563861601",
+        "provider_id": "010157",
+        "state": "AL",
+        "zip_code": "35661"
+    },
+    {
+        "address": "849 SOUTH THREE NOTCH STREET",
+        "city": "ANDALUSIA",
+        "county_name": "COVINGTON",
+        "emergency_services": true,
+        "hospital_name": "ANDALUSIA REGIONAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.495601,
+                31.297461
+            ],
+            "type": "Point"
+        },
+        "location_address": "849 SOUTH THREE NOTCH STREET",
+        "location_city": "ANDALUSIA",
+        "location_state": "AL",
+        "location_zip": "36420",
+        "phone_number": "3342228466",
+        "provider_id": "010036",
+        "state": "AL",
+        "zip_code": "36420"
+    },
+    {
+        "address": "1700 CENTER STREET",
+        "city": "MOBILE",
+        "county_name": "MOBILE",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY OF S A CHILDREN'S AND WOMEN'S HOS",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Childrens",
+        "location": {
+            "coordinates": [
+                -88.07758,
+                30.696235
+            ],
+            "type": "Point"
+        },
+        "location_address": "1700 CENTER STREET",
+        "location_city": "MOBILE",
+        "location_state": "AL",
+        "location_zip": "36604",
+        "phone_number": "2514151000",
+        "provider_id": "013301",
+        "state": "AL",
+        "zip_code": "36604"
+    },
+    {
+        "address": "126 HOSPITAL AVE",
+        "city": "OZARK",
+        "county_name": "DALE",
+        "emergency_services": true,
+        "hospital_name": "DALE MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.631023,
+                31.451912
+            ],
+            "type": "Point"
+        },
+        "location_address": "126 HOSPITAL AVE",
+        "location_city": "OZARK",
+        "location_state": "AL",
+        "location_zip": "36360",
+        "phone_number": "3347742601",
+        "provider_id": "010021",
+        "state": "AL",
+        "zip_code": "36360"
+    },
+    {
+        "address": "515 N MIRANDA AVENUE",
+        "city": "GEORGIANA",
+        "county_name": "BUTLER",
+        "emergency_services": true,
+        "hospital_name": "GEORGIANA MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.742733,
+                31.644527
+            ],
+            "type": "Point"
+        },
+        "location_address": "515 N MIRANDA AVENUE",
+        "location_city": "GEORGIANA",
+        "location_state": "AL",
+        "location_zip": "36033",
+        "phone_number": "3343762205",
+        "provider_id": "010047",
+        "state": "AL",
+        "zip_code": "36033"
+    },
+    {
+        "address": "1725 PINE STREET",
+        "city": "MONTGOMERY",
+        "county_name": "MONTGOMERY",
+        "emergency_services": true,
+        "hospital_name": "JACKSON HOSPITAL & CLINIC INC",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.285278,
+                32.366605
+            ],
+            "type": "Point"
+        },
+        "location_address": "1725 PINE STREET",
+        "location_city": "MONTGOMERY",
+        "location_state": "AL",
+        "location_zip": "36106",
+        "phone_number": "3342938000",
+        "provider_id": "010024",
+        "state": "AL",
+        "zip_code": "36106"
+    },
+    {
+        "address": "1530 U S HIGHWAY 43",
+        "city": "WINFIELD",
+        "county_name": "MARION",
+        "emergency_services": true,
+        "hospital_name": "NORTHWEST MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -87.82373,
+                33.928894
+            ],
+            "type": "Point"
+        },
+        "location_address": "1530 U S HIGHWAY 43",
+        "location_city": "WINFIELD",
+        "location_state": "AL",
+        "location_zip": "35594",
+        "phone_number": "2054877736",
+        "provider_id": "010086",
+        "state": "AL",
+        "zip_code": "35594"
+    },
+    {
+        "address": "2505 U S HIGHWAY 431 NORTH",
+        "city": "BOAZ",
+        "county_name": "MARSHALL",
+        "emergency_services": true,
+        "hospital_name": "MARSHALL MEDICAL CENTER SOUTH",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.159229,
+                34.221523
+            ],
+            "type": "Point"
+        },
+        "location_address": "2505 U S HIGHWAY 431 NORTH",
+        "location_city": "BOAZ",
+        "location_state": "AL",
+        "location_zip": "35957",
+        "phone_number": "2565938310",
+        "provider_id": "010005",
+        "state": "AL",
+        "zip_code": "35957"
+    },
+    {
+        "address": "810 ST VINCENT'S DRIVE",
+        "city": "BIRMINGHAM",
+        "county_name": "JEFFERSON",
+        "emergency_services": true,
+        "hospital_name": "ST VINCENT'S BIRMINGHAM",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.788627,
+                33.507948
+            ],
+            "type": "Point"
+        },
+        "location_address": "810 ST VINCENT'S DRIVE",
+        "location_city": "BIRMINGHAM",
+        "location_state": "AL",
+        "location_zip": "35205",
+        "phone_number": "2059397000",
+        "provider_id": "010056",
+        "state": "AL",
+        "zip_code": "35205"
+    },
+    {
+        "address": "105 HIGHWAY 80 EAST",
+        "city": "DEMOPOLIS",
+        "county_name": "MARENGO",
+        "emergency_services": true,
+        "hospital_name": "BRYAN W. WHITFIELD MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -86.57684,
+                32.268794
+            ],
+            "type": "Point"
+        },
+        "location_address": "105 HIGHWAY 80 EAST",
+        "location_city": "DEMOPOLIS",
+        "location_state": "AL",
+        "location_zip": "36732",
+        "phone_number": "3342894000",
+        "provider_id": "010112",
+        "state": "AL",
+        "zip_code": "36732"
+    },
+    {
+        "address": "805 FRIENDSHIP ROAD",
+        "city": "TALLASSEE",
+        "county_name": "ELMORE",
+        "emergency_services": true,
+        "hospital_name": "COMMUNITY HOSPITAL INC",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -85.912104,
+                32.535308
+            ],
+            "type": "Point"
+        },
+        "location_address": "805 FRIENDSHIP ROAD",
+        "location_city": "TALLASSEE",
+        "location_state": "AL",
+        "location_zip": "36078",
+        "phone_number": "3342836541",
+        "provider_id": "010034",
+        "state": "AL",
+        "zip_code": "36078"
+    },
+    {
+        "address": "241 ROBERT K WILSON DRIVE",
+        "city": "CARROLLTON",
+        "county_name": "PICKENS",
+        "emergency_services": true,
+        "hospital_name": "PICKENS COUNTY MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -88.089673,
+                33.274807
+            ],
+            "type": "Point"
+        },
+        "location_address": "241 ROBERT K WILSON DRIVE",
+        "location_city": "CARROLLTON",
+        "location_state": "AL",
+        "location_zip": "35447",
+        "phone_number": "2053678111",
+        "provider_id": "010109",
+        "state": "AL",
+        "zip_code": "35447"
+    }
+]

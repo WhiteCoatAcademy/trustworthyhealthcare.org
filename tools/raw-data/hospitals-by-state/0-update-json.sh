@@ -27,6 +27,6 @@ do
     echo ${grabUrl}
     # NOTE: There are lots of awesome filters via the CMS data source.
     # We can filter by city, zip, hospital ownership, location region, etc.
-    curl "https://data.medicare.gov/resource/rbry-mqwu.json?\$\$app_token=${app_token}&state=${state}" -o "${state}.json"
+    curl "https://data.medicare.gov/resource/rbry-mqwu.json?\$\$app_token=${app_token}&state=${state}"  | python -mjson.tool > "${state}.json"
     sleep 3
 done

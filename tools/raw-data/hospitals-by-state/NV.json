@@ -1,736 +1,807 @@
-[ {
-  "hospital_name" : "RENOWN REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7759824100"
-  },
-  "zip_code" : "89502",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-119.79541890599995",
-    "latitude" : "39.52420715000005",
-    "human_address" : "{\"address\":\"1155 MILL STREET\",\"city\":\"RENO\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "1155 MILL STREET",
-  "provider_id" : "290001",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "WASHOE",
-  "city" : "RENO"
-}
-, {
-  "hospital_name" : "SUNRISE HOSPITAL AND MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7027318000"
-  },
-  "zip_code" : "89109",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.13686566999996",
-    "latitude" : "36.131860679000056",
-    "human_address" : "{\"address\":\"3186 S MARYLAND PKWY\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "3186 S MARYLAND PKWY",
-  "provider_id" : "290003",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "LAS VEGAS"
-}
-, {
-  "hospital_name" : "NORTH VISTA HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7026575504"
-  },
-  "zip_code" : "89030",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.12347845999994",
-    "latitude" : "36.19578351300004",
-    "human_address" : "{\"address\":\"1409 EAST LAKE MEAD BLVD\",\"city\":\"NORTH LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "1409 EAST LAKE MEAD BLVD",
-  "provider_id" : "290005",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "NORTH LAS VEGAS"
-}
-, {
-  "hospital_name" : "BANNER CHURCHILL COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7754233151"
-  },
-  "zip_code" : "89406",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-118.76732887299994",
-    "latitude" : "39.474907924000036",
-    "human_address" : "{\"address\":\"801 EAST WILLIAMS AVENUE\",\"city\":\"FALLON\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "801 EAST WILLIAMS AVENUE",
-  "provider_id" : "290006",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CHURCHILL",
-  "city" : "FALLON"
-}
-, {
-  "hospital_name" : "UMC OF SOUTHERN NEVADA",
-  "phone_number" : {
-    "phone_number" : "7023832000"
-  },
-  "zip_code" : "89102",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.16748017199996",
-    "latitude" : "36.15897781000007",
-    "human_address" : "{\"address\":\"1800 W CHARLESTON BLVD\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "1800 W CHARLESTON BLVD",
-  "provider_id" : "290007",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "LAS VEGAS"
-}
-, {
-  "hospital_name" : "NORTHEASTERN NEVADA REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7757385151"
-  },
-  "zip_code" : "89801",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.72908436599994",
-    "latitude" : "40.822500355000045",
-    "human_address" : "{\"address\":\"2001 ERRECART BLVD\",\"city\":\"ELKO\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "2001 ERRECART BLVD",
-  "provider_id" : "290008",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "ELKO",
-  "city" : "ELKO"
-}
-, {
-  "hospital_name" : "SAINT MARY'S REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7757703000"
-  },
-  "zip_code" : "89503",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-119.81823523899999",
-    "latitude" : "39.531647433000046",
-    "human_address" : "{\"address\":\"235 W 6TH ST\",\"city\":\"RENO\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "235 W 6TH ST",
-  "provider_id" : "290009",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "WASHOE",
-  "city" : "RENO"
-}
-, {
-  "hospital_name" : "ST ROSE DOMINICAN HOSPITALS - ROSE DE LIMA CAMPUS",
-  "phone_number" : {
-    "phone_number" : "7026165000"
-  },
-  "zip_code" : "89015",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-114.98349696099996",
-    "latitude" : "36.038674496000056",
-    "human_address" : "{\"address\":\"102 E LAKE MEAD DR\",\"city\":\"HENDERSON\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "102 E LAKE MEAD DR",
-  "provider_id" : "290012",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "HENDERSON"
-}
-, {
-  "hospital_name" : "CARSON TAHOE REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7754458000"
-  },
-  "zip_code" : "89703",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-119.78570250099995",
-    "latitude" : "39.20365876100004",
-    "human_address" : "{\"address\":\"1600 MEDICAL PARKWAY\",\"city\":\"CARSON CITY\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "1600 MEDICAL PARKWAY",
-  "provider_id" : "290019",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CARSON CITY",
-  "city" : "CARSON CITY"
-}
-, {
-  "hospital_name" : "NYE REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7754826233"
-  },
-  "zip_code" : "89049",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-117.23192567299998",
-    "latitude" : "38.06549136700005",
-    "human_address" : "{\"address\":\"825 ERIE MAIN ST (AKA SOUTH MAIN)\",\"city\":\"TONOPAH\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "825 ERIE MAIN ST (AKA SOUTH MAIN)",
-  "provider_id" : "290020",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "NYE",
-  "city" : "TONOPAH"
-}
-, {
-  "hospital_name" : "VALLEY HOSPITAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7023884000"
-  },
-  "zip_code" : "89106",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.16546299999999",
-    "latitude" : "36.163809997000044",
-    "human_address" : "{\"address\":\"620 SHADOW LANE\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "620 SHADOW LANE",
-  "provider_id" : "290021",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "LAS VEGAS"
-}
-, {
-  "hospital_name" : "DESERT SPRINGS HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7023697600"
-  },
-  "zip_code" : "89119",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.12402925099997",
-    "latitude" : "36.114562625000076",
-    "human_address" : "{\"address\":\"2075 EAST FLAMINGO ROAD\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "2075 EAST FLAMINGO ROAD",
-  "provider_id" : "290022",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "LAS VEGAS"
-}
-, {
-  "hospital_name" : "VA SIERRA NEVADA HEALTHCARE SYSTEM",
-  "phone_number" : {
-    "phone_number" : "7753281263"
-  },
-  "zip_code" : "89502",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-119.80051429699995",
-    "latitude" : "39.516330151000034",
-    "human_address" : "{\"address\":\"1000 LOCUST STREET\",\"city\":\"RENO\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "1000 LOCUST STREET",
-  "provider_id" : "29002F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "NV",
-  "emergency_services" : false,
-  "county_name" : "WASHOE",
-  "city" : "RENO"
-}
-, {
-  "hospital_name" : "NORTHERN NEVADA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7753317000"
-  },
-  "zip_code" : "89434",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-119.77486284899999",
-    "latitude" : "39.53604248700003",
-    "human_address" : "{\"address\":\"2375 PRATER WAY\",\"city\":\"SPARKS\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "2375 PRATER WAY",
-  "provider_id" : "290032",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "WASHOE",
-  "city" : "SPARKS"
-}
-, {
-  "hospital_name" : "MOUNTAINVIEW HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7022555065"
-  },
-  "zip_code" : "89128",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.25126816099998",
-    "latitude" : "36.21686406900005",
-    "human_address" : "{\"address\":\"3100 N TENAYA WAY\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "3100 N TENAYA WAY",
-  "provider_id" : "290039",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "LAS VEGAS"
-}
-, {
-  "hospital_name" : "SUMMERLIN HOSPITAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7022337500"
-  },
-  "zip_code" : "89144",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.31612269499999",
-    "latitude" : "36.17946605000003",
-    "human_address" : "{\"address\":\"657 TOWN CENTER DRIVE\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "657 TOWN CENTER DRIVE",
-  "provider_id" : "290041",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "LAS VEGAS"
-}
-, {
-  "hospital_name" : "HARMON HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7027940100"
-  },
-  "zip_code" : "89119",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.12416562099997",
-    "latitude" : "36.107443568000065",
-    "human_address" : "{\"address\":\"2170 EAST HARMON AVENUE\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "2170 EAST HARMON AVENUE",
-  "provider_id" : "290042",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : false,
-  "county_name" : "CLARK",
-  "city" : "LAS VEGAS"
-}
-, {
-  "hospital_name" : "ST ROSE DOMINICAN HOSPITALS - SIENA CAMPUS",
-  "phone_number" : {
-    "phone_number" : "7026165000"
-  },
-  "zip_code" : "89052",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.11476259999995",
-    "latitude" : "36.00665719400007",
-    "human_address" : "{\"address\":\"3001 ST ROSE PARKWAY\",\"city\":\"HENDERSON\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "3001 ST ROSE PARKWAY",
-  "provider_id" : "290045",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "HENDERSON"
-}
-, {
-  "hospital_name" : "SPRING VALLEY HOSPITAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7028533000"
-  },
-  "zip_code" : "89118",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.24289518599994",
-    "latitude" : "36.09136143000006",
-    "human_address" : "{\"address\":\"5400 SOUTH RAINBOW BLVD\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "5400 SOUTH RAINBOW BLVD",
-  "provider_id" : "290046",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "LAS VEGAS"
-}
-, {
-  "hospital_name" : "SOUTHERN HILLS HOSPITAL AND MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7028802100"
-  },
-  "zip_code" : "89148",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.29618015399996",
-    "latitude" : "36.070267759000046",
-    "human_address" : "{\"address\":\"9300 WEST SUNSET RD\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "9300 WEST SUNSET RD",
-  "provider_id" : "290047",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "LAS VEGAS"
-}
-, {
-  "hospital_name" : "RENOWN SOUTH MEADOWS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7759827063"
-  },
-  "zip_code" : "89521",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-119.75842259399997",
-    "latitude" : "39.43581100200004",
-    "human_address" : "{\"address\":\"10101 DOUBLE R BLVD\",\"city\":\"RENO\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "10101 DOUBLE R BLVD",
-  "provider_id" : "290049",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CARSON CITY",
-  "city" : "RENO"
-}
-, {
-  "hospital_name" : "SIERRA SURGERY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7758831700"
-  },
-  "zip_code" : "89703",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-119.78507373399998",
-    "latitude" : "39.19992326600004",
-    "human_address" : "{\"address\":\"1400 MEDICAL PKWY\",\"city\":\"CARSON CITY\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "1400 MEDICAL PKWY",
-  "provider_id" : "290051",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : false,
-  "county_name" : "CARSON CITY",
-  "city" : "CARSON CITY"
-}
-, {
-  "hospital_name" : "ST ROSE DOMINICAN HOSPITALS - SAN MARTIN CAMPUS",
-  "phone_number" : {
-    "phone_number" : "7024928509"
-  },
-  "zip_code" : "89113",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.27345946099996",
-    "latitude" : "36.05555773000003",
-    "human_address" : "{\"address\":\"8280 W WARM SPRINGS ROAD\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "8280 W WARM SPRINGS ROAD",
-  "provider_id" : "290053",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "LAS VEGAS"
-}
-, {
-  "hospital_name" : "CENTENNIAL HILLS HOSPITAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7028359700"
-  },
-  "zip_code" : "89149",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.28780071199998",
-    "latitude" : "36.28602151700005",
-    "human_address" : "{\"address\":\"6900 N DURANGO DR\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "6900 N DURANGO DR",
-  "provider_id" : "290054",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "LAS VEGAS"
-}
-, {
-  "hospital_name" : "MOUNT GRANT GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7029452461"
-  },
-  "zip_code" : "89415",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-118.62839916599995",
-    "latitude" : "38.51817300600004",
-    "human_address" : "{\"address\":\"FIRST AND A STREETS\",\"city\":\"HAWTHORNE\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "FIRST AND A STREETS",
-  "provider_id" : "291300",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "MINERAL",
-  "city" : "HAWTHORNE"
-}
-, {
-  "hospital_name" : "INCLINE VILLAGE HEALTH CENTER",
-  "phone_number" : {
-    "phone_number" : "7758334100"
-  },
-  "zip_code" : "89451",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-119.95426902099996",
-    "latitude" : "39.250918167000066",
-    "human_address" : "{\"address\":\"880 ALDER STREET\",\"city\":\"INCLINE VILLAGE\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "880 ALDER STREET",
-  "provider_id" : "291301",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "WASHOE",
-  "city" : "INCLINE VILLAGE"
-}
-, {
-  "hospital_name" : "WILLIAM BEE RIRIE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7752893001"
-  },
-  "zip_code" : "89301",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-114.86031995599996",
-    "latitude" : "39.25594862300005",
-    "human_address" : "{\"address\":\"1500 AVENUE H\",\"city\":\"ELY\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "1500 AVENUE H",
-  "provider_id" : "291302",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "WHITE PINE",
-  "city" : "ELY"
-}
-, {
-  "hospital_name" : "BATTLE MOUNTAIN GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7756352550"
-  },
-  "zip_code" : "89820",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.93891369399995",
-    "latitude" : "40.64055810600007",
-    "human_address" : "{\"address\":\"535 SOUTH HUMBOLDT STREET\",\"city\":\"BATTE MTN\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "535 SOUTH HUMBOLDT STREET",
-  "provider_id" : "291303",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "LANDER",
-  "city" : "BATTE MTN"
-}
-, {
-  "hospital_name" : "PERSHING GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7752732621"
-  },
-  "zip_code" : "89419",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-118.48197895699997",
-    "latitude" : "40.17659339200003",
-    "human_address" : "{\"address\":\"855 6TH STREET/PO BOX 661\",\"city\":\"LOVELOCK\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "855 6TH STREET/PO BOX 661",
-  "provider_id" : "291304",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "PERSHING",
-  "city" : "LOVELOCK"
-}
-, {
-  "hospital_name" : "CARSON VALLEY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7757821500"
-  },
-  "zip_code" : "89410",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-119.72011152799996",
-    "latitude" : "38.91892388300005",
-    "human_address" : "{\"address\":\"1107 HIGHWAY 395\",\"city\":\"GARDNERVILLE\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "1107 HIGHWAY 395",
-  "provider_id" : "291306",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "DOUGLAS",
-  "city" : "GARDNERVILLE"
-}
-, {
-  "hospital_name" : "MESA VIEW REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7023468040"
-  },
-  "zip_code" : "89027",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-114.11473523799998",
-    "latitude" : "36.808788220000054",
-    "human_address" : "{\"address\":\"1299 BERTHA HOWE AVENUE\",\"city\":\"MESQUITE\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "1299 BERTHA HOWE AVENUE",
-  "provider_id" : "291307",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "MESQUITE"
-}
-, {
-  "hospital_name" : "HUMBOLDT GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7756235222"
-  },
-  "zip_code" : "89445",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-117.72833364499996",
-    "latitude" : "40.97165171300003",
-    "human_address" : "{\"address\":\"118 EAST HASKELL STREET\",\"city\":\"WINNEMUCCA\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "118 EAST HASKELL STREET",
-  "provider_id" : "291308",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "HUMBOLDT",
-  "city" : "WINNEMUCCA"
-}
-, {
-  "hospital_name" : "BOULDER CITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7022934111"
-  },
-  "zip_code" : "89005",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-114.84283907199995",
-    "latitude" : "35.96835304200005",
-    "human_address" : "{\"address\":\"901 ADAMS BLVD\",\"city\":\"BOULDER CITY\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "901 ADAMS BLVD",
-  "provider_id" : "291309",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "CLARK",
-  "city" : "BOULDER CITY"
-}
-, {
-  "hospital_name" : "DESERT VIEW REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7757517500"
-  },
-  "zip_code" : "89048",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.02339327299995",
-    "latitude" : "36.21431105200003",
-    "human_address" : "{\"address\":\"360 SOUTH LOLA LANE\",\"city\":\"PAHRUMP\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "360 SOUTH LOLA LANE",
-  "provider_id" : "291311",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "NYE",
-  "city" : "PAHRUMP"
-}
-, {
-  "hospital_name" : "GROVER C DILS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7757263171"
-  },
-  "zip_code" : "89008",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-114.511854186",
-    "latitude" : "37.62220584700003",
-    "human_address" : "{\"address\":\"700 N SPRING ST, BOX 1010-C-ADM BLDG\",\"city\":\"CALIENTE\",\"state\":\"NV\",\"zip\":\"\"}"
-  },
-  "address" : "700 N SPRING ST, BOX 1010-C-ADM BLDG",
-  "provider_id" : "291312",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "NV",
-  "emergency_services" : true,
-  "county_name" : "LINCOLN",
-  "city" : "CALIENTE"
-}
- ]
+[
+    {
+        "address": "1600 MEDICAL PARKWAY",
+        "city": "CARSON CITY",
+        "county_name": "CARSON CITY",
+        "emergency_services": true,
+        "hospital_name": "CARSON TAHOE REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -119.781726,
+                39.201828
+            ],
+            "type": "Point"
+        },
+        "location_address": "1600 MEDICAL PARKWAY",
+        "location_city": "CARSON CITY",
+        "location_state": "NV",
+        "location_zip": "89703",
+        "phone_number": "7754458000",
+        "provider_id": "290019",
+        "state": "NV",
+        "zip_code": "89703"
+    },
+    {
+        "address": "3186 S MARYLAND PKWY",
+        "city": "LAS VEGAS",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "SUNRISE HOSPITAL AND MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -115.13688,
+                36.131699
+            ],
+            "type": "Point"
+        },
+        "location_address": "3186 S MARYLAND PKWY",
+        "location_city": "LAS VEGAS",
+        "location_state": "NV",
+        "location_zip": "89109",
+        "phone_number": "7027318000",
+        "provider_id": "290003",
+        "state": "NV",
+        "zip_code": "89109"
+    },
+    {
+        "address": "855 6TH STREET/PO BOX 661",
+        "city": "LOVELOCK",
+        "county_name": "PERSHING",
+        "emergency_services": true,
+        "hospital_name": "PERSHING GENERAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "855 6TH STREET/PO BOX 661",
+        "location_city": "LOVELOCK",
+        "location_state": "NV",
+        "location_zip": "89419",
+        "phone_number": "7752732621",
+        "provider_id": "291304",
+        "state": "NV",
+        "zip_code": "89419"
+    },
+    {
+        "address": "1409 EAST LAKE MEAD BLVD",
+        "city": "NORTH LAS VEGAS",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "NORTH VISTA HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -115.122865,
+                36.19574
+            ],
+            "type": "Point"
+        },
+        "location_address": "1409 EAST LAKE MEAD BLVD",
+        "location_city": "NORTH LAS VEGAS",
+        "location_state": "NV",
+        "location_zip": "89030",
+        "phone_number": "7026575504",
+        "provider_id": "290005",
+        "state": "NV",
+        "zip_code": "89030"
+    },
+    {
+        "address": "801 EAST WILLIAMS AVENUE",
+        "city": "FALLON",
+        "county_name": "CHURCHILL",
+        "emergency_services": true,
+        "hospital_name": "BANNER CHURCHILL COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -118.764893,
+                39.474875
+            ],
+            "type": "Point"
+        },
+        "location_address": "801 EAST WILLIAMS AVENUE",
+        "location_city": "FALLON",
+        "location_state": "NV",
+        "location_zip": "89406",
+        "phone_number": "7754233151",
+        "provider_id": "290006",
+        "state": "NV",
+        "zip_code": "89406"
+    },
+    {
+        "address": "880 ALDER STREET",
+        "city": "INCLINE VILLAGE",
+        "county_name": "WASHOE",
+        "emergency_services": true,
+        "hospital_name": "INCLINE VILLAGE HEALTH CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -119.954734,
+                39.250892
+            ],
+            "type": "Point"
+        },
+        "location_address": "880 ALDER STREET",
+        "location_city": "INCLINE VILLAGE",
+        "location_state": "NV",
+        "location_zip": "89451",
+        "phone_number": "7758334100",
+        "provider_id": "291301",
+        "state": "NV",
+        "zip_code": "89451"
+    },
+    {
+        "address": "213 S WHITACRE/PO BOX 940",
+        "city": "YERINGTON",
+        "county_name": "LYON",
+        "emergency_services": true,
+        "hospital_name": "SOUTH LYON MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "213 S WHITACRE/PO BOX 940",
+        "location_city": "YERINGTON",
+        "location_state": "NV",
+        "location_zip": "89447",
+        "phone_number": "7757813761",
+        "provider_id": "290002",
+        "state": "NV",
+        "zip_code": "89447"
+    },
+    {
+        "address": "1299 BERTHA HOWE AVENUE",
+        "city": "MESQUITE",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "MESA VIEW REGIONAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -114.114446,
+                36.808809
+            ],
+            "type": "Point"
+        },
+        "location_address": "1299 BERTHA HOWE AVENUE",
+        "location_city": "MESQUITE",
+        "location_state": "NV",
+        "location_zip": "89027",
+        "phone_number": "7023468040",
+        "provider_id": "291307",
+        "state": "NV",
+        "zip_code": "89027"
+    },
+    {
+        "address": "1155 MILL STREET",
+        "city": "RENO",
+        "county_name": "WASHOE",
+        "emergency_services": true,
+        "hospital_name": "RENOWN REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -119.796626,
+                39.524706
+            ],
+            "type": "Point"
+        },
+        "location_address": "1155 MILL STREET",
+        "location_city": "RENO",
+        "location_state": "NV",
+        "location_zip": "89502",
+        "phone_number": "7759824100",
+        "provider_id": "290001",
+        "state": "NV",
+        "zip_code": "89502"
+    },
+    {
+        "address": "1800 W CHARLESTON BLVD",
+        "city": "LAS VEGAS",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY MEDICAL CENTER",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -115.165463,
+                36.15894
+            ],
+            "type": "Point"
+        },
+        "location_address": "1800 W CHARLESTON BLVD",
+        "location_city": "LAS VEGAS",
+        "location_state": "NV",
+        "location_zip": "89102",
+        "phone_number": "7023832000",
+        "provider_id": "290007",
+        "state": "NV",
+        "zip_code": "89102"
+    },
+    {
+        "address": "2375 PRATER WAY",
+        "city": "SPARKS",
+        "county_name": "WASHOE",
+        "emergency_services": true,
+        "hospital_name": "NORTHERN NEVADA MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -119.697455,
+                39.542505
+            ],
+            "type": "Point"
+        },
+        "location_address": "2375 PRATER WAY",
+        "location_city": "SPARKS",
+        "location_state": "NV",
+        "location_zip": "89434",
+        "phone_number": "7753317000",
+        "provider_id": "290032",
+        "state": "NV",
+        "zip_code": "89434"
+    },
+    {
+        "address": "2075 EAST FLAMINGO ROAD",
+        "city": "LAS VEGAS",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "DESERT SPRINGS HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -115.124139,
+                36.114574
+            ],
+            "type": "Point"
+        },
+        "location_address": "2075 EAST FLAMINGO ROAD",
+        "location_city": "LAS VEGAS",
+        "location_state": "NV",
+        "location_zip": "89119",
+        "phone_number": "7023697600",
+        "provider_id": "290022",
+        "state": "NV",
+        "zip_code": "89119"
+    },
+    {
+        "address": "1400 MEDICAL PKWY",
+        "city": "CARSON CITY",
+        "county_name": "CARSON CITY",
+        "emergency_services": false,
+        "hospital_name": "SIERRA SURGERY HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -119.784351,
+                39.199544
+            ],
+            "type": "Point"
+        },
+        "location_address": "1400 MEDICAL PKWY",
+        "location_city": "CARSON CITY",
+        "location_state": "NV",
+        "location_zip": "89703",
+        "phone_number": "7758831700",
+        "provider_id": "290051",
+        "state": "NV",
+        "zip_code": "89703"
+    },
+    {
+        "address": "360 SOUTH LOLA LANE",
+        "city": "PAHRUMP",
+        "county_name": "NYE",
+        "emergency_services": true,
+        "hospital_name": "DESERT VIEW REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -116.023482,
+                36.214381
+            ],
+            "type": "Point"
+        },
+        "location_address": "360 SOUTH LOLA LANE",
+        "location_city": "PAHRUMP",
+        "location_state": "NV",
+        "location_zip": "89048",
+        "phone_number": "7757517500",
+        "provider_id": "291311",
+        "state": "NV",
+        "zip_code": "89048"
+    },
+    {
+        "address": "3001 ST ROSE PARKWAY",
+        "city": "HENDERSON",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "ST ROSE DOMINICAN HOSPITALS - SIENA CAMPUS",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -115.1175,
+                36.004707
+            ],
+            "type": "Point"
+        },
+        "location_address": "3001 ST ROSE PARKWAY",
+        "location_city": "HENDERSON",
+        "location_state": "NV",
+        "location_zip": "89052",
+        "phone_number": "7026165000",
+        "provider_id": "290045",
+        "state": "NV",
+        "zip_code": "89052"
+    },
+    {
+        "address": "620 SHADOW LANE",
+        "city": "LAS VEGAS",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "VALLEY HOSPITAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -115.165476,
+                36.162575
+            ],
+            "type": "Point"
+        },
+        "location_address": "620 SHADOW LANE",
+        "location_city": "LAS VEGAS",
+        "location_state": "NV",
+        "location_zip": "89106",
+        "phone_number": "7023884000",
+        "provider_id": "290021",
+        "state": "NV",
+        "zip_code": "89106"
+    },
+    {
+        "address": "825 ERIE MAIN ST (AKA SOUTH MAIN)",
+        "city": "TONOPAH",
+        "county_name": "NYE",
+        "emergency_services": true,
+        "hospital_name": "NYE REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "825 ERIE MAIN ST (AKA SOUTH MAIN)",
+        "location_city": "TONOPAH",
+        "location_state": "NV",
+        "location_zip": "89049",
+        "phone_number": "7754826233",
+        "provider_id": "290020",
+        "state": "NV",
+        "zip_code": "89049"
+    },
+    {
+        "address": "3100 N TENAYA WAY",
+        "city": "LAS VEGAS",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "MOUNTAINVIEW HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -115.250674,
+                36.215326
+            ],
+            "type": "Point"
+        },
+        "location_address": "3100 N TENAYA WAY",
+        "location_city": "LAS VEGAS",
+        "location_state": "NV",
+        "location_zip": "89128",
+        "phone_number": "7022555065",
+        "provider_id": "290039",
+        "state": "NV",
+        "zip_code": "89128"
+    },
+    {
+        "address": "2001 ERRECART BLVD",
+        "city": "ELKO",
+        "county_name": "ELKO",
+        "emergency_services": true,
+        "hospital_name": "NORTHEASTERN NEVADA REGIONAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -115.728877,
+                40.822684
+            ],
+            "type": "Point"
+        },
+        "location_address": "2001 ERRECART BLVD",
+        "location_city": "ELKO",
+        "location_state": "NV",
+        "location_zip": "89801",
+        "phone_number": "7757385151",
+        "provider_id": "290008",
+        "state": "NV",
+        "zip_code": "89801"
+    },
+    {
+        "address": "1107 HIGHWAY 395",
+        "city": "GARDNERVILLE",
+        "county_name": "DOUGLAS",
+        "emergency_services": true,
+        "hospital_name": "CARSON VALLEY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "1107 HIGHWAY 395",
+        "location_city": "GARDNERVILLE",
+        "location_state": "NV",
+        "location_zip": "89410",
+        "phone_number": "7757821500",
+        "provider_id": "291306",
+        "state": "NV",
+        "zip_code": "89410"
+    },
+    {
+        "address": "235 W 6TH ST",
+        "city": "RENO",
+        "county_name": "WASHOE",
+        "emergency_services": true,
+        "hospital_name": "SAINT MARY'S REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -119.817864,
+                39.5317
+            ],
+            "type": "Point"
+        },
+        "location_address": "235 W 6TH ST",
+        "location_city": "RENO",
+        "location_state": "NV",
+        "location_zip": "89503",
+        "phone_number": "7757703000",
+        "provider_id": "290009",
+        "state": "NV",
+        "zip_code": "89503"
+    },
+    {
+        "address": "9300 WEST SUNSET RD",
+        "city": "LAS VEGAS",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "SOUTHERN HILLS HOSPITAL AND MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -115.295512,
+                36.070256
+            ],
+            "type": "Point"
+        },
+        "location_address": "9300 WEST SUNSET RD",
+        "location_city": "LAS VEGAS",
+        "location_state": "NV",
+        "location_zip": "89148",
+        "phone_number": "7028802100",
+        "provider_id": "290047",
+        "state": "NV",
+        "zip_code": "89148"
+    },
+    {
+        "address": "5400 SOUTH RAINBOW BLVD",
+        "city": "LAS VEGAS",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "SPRING VALLEY HOSPITAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -115.242895,
+                36.090649
+            ],
+            "type": "Point"
+        },
+        "location_address": "5400 SOUTH RAINBOW BLVD",
+        "location_city": "LAS VEGAS",
+        "location_state": "NV",
+        "location_zip": "89118",
+        "phone_number": "7028533000",
+        "provider_id": "290046",
+        "state": "NV",
+        "zip_code": "89118"
+    },
+    {
+        "address": "10101 DOUBLE R BLVD",
+        "city": "RENO",
+        "county_name": "CARSON CITY",
+        "emergency_services": true,
+        "hospital_name": "RENOWN SOUTH MEADOWS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -119.758498,
+                39.437199
+            ],
+            "type": "Point"
+        },
+        "location_address": "10101 DOUBLE R BLVD",
+        "location_city": "RENO",
+        "location_state": "NV",
+        "location_zip": "89521",
+        "phone_number": "7759827063",
+        "provider_id": "290049",
+        "state": "NV",
+        "zip_code": "89521"
+    },
+    {
+        "address": "1000 LOCUST STREET",
+        "city": "RENO",
+        "county_name": "WASHOE",
+        "emergency_services": false,
+        "hospital_name": "VA SIERRA NEVADA HEALTHCARE SYSTEM",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -119.800535,
+                39.516344
+            ],
+            "type": "Point"
+        },
+        "location_address": "1000 LOCUST STREET",
+        "location_city": "RENO",
+        "location_state": "NV",
+        "location_zip": "89502",
+        "phone_number": "7753281263",
+        "provider_id": "29002F",
+        "state": "NV",
+        "zip_code": "89502"
+    },
+    {
+        "address": "700 N SPRING ST, BOX 1010-C-ADM BLDG",
+        "city": "CALIENTE",
+        "county_name": "LINCOLN",
+        "emergency_services": true,
+        "hospital_name": "GROVER C DILS MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -114.511824,
+                37.622281
+            ],
+            "type": "Point"
+        },
+        "location_address": "700 N SPRING ST, BOX 1010-C-ADM BLDG",
+        "location_city": "CALIENTE",
+        "location_state": "NV",
+        "location_zip": "89008",
+        "phone_number": "7757263171",
+        "provider_id": "291312",
+        "state": "NV",
+        "zip_code": "89008"
+    },
+    {
+        "address": "901 ADAMS BLVD",
+        "city": "BOULDER CITY",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "BOULDER CITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -114.843405,
+                35.968358
+            ],
+            "type": "Point"
+        },
+        "location_address": "901 ADAMS BLVD",
+        "location_city": "BOULDER CITY",
+        "location_state": "NV",
+        "location_zip": "89005",
+        "phone_number": "7022934111",
+        "provider_id": "291309",
+        "state": "NV",
+        "zip_code": "89005"
+    },
+    {
+        "address": "535 SOUTH HUMBOLDT STREET",
+        "city": "BATTE MTN",
+        "county_name": "LANDER",
+        "emergency_services": true,
+        "hospital_name": "BATTLE MOUNTAIN GENERAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -116.938824,
+                40.64065
+            ],
+            "type": "Point"
+        },
+        "location_address": "535 SOUTH HUMBOLDT STREET",
+        "location_city": "BATTE MTN",
+        "location_state": "NV",
+        "location_zip": "89820",
+        "phone_number": "7756352550",
+        "provider_id": "291303",
+        "state": "NV",
+        "zip_code": "89820"
+    },
+    {
+        "address": "6900 N DURANGO DR",
+        "city": "LAS VEGAS",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "CENTENNIAL HILLS HOSPITAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -115.28773,
+                36.286014
+            ],
+            "type": "Point"
+        },
+        "location_address": "6900 N DURANGO DR",
+        "location_city": "LAS VEGAS",
+        "location_state": "NV",
+        "location_zip": "89149",
+        "phone_number": "7028359700",
+        "provider_id": "290054",
+        "state": "NV",
+        "zip_code": "89149"
+    },
+    {
+        "address": "1500 AVENUE H",
+        "city": "ELY",
+        "county_name": "WHITE PINE",
+        "emergency_services": true,
+        "hospital_name": "WILLIAM BEE RIRIE HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -114.860086,
+                39.256065
+            ],
+            "type": "Point"
+        },
+        "location_address": "1500 AVENUE H",
+        "location_city": "ELY",
+        "location_state": "NV",
+        "location_zip": "89301",
+        "phone_number": "7752893001",
+        "provider_id": "291302",
+        "state": "NV",
+        "zip_code": "89301"
+    },
+    {
+        "address": "657 TOWN CENTER DRIVE",
+        "city": "LAS VEGAS",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "SUMMERLIN HOSPITAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -115.315719,
+                36.17967
+            ],
+            "type": "Point"
+        },
+        "location_address": "657 TOWN CENTER DRIVE",
+        "location_city": "LAS VEGAS",
+        "location_state": "NV",
+        "location_zip": "89144",
+        "phone_number": "7022337500",
+        "provider_id": "290041",
+        "state": "NV",
+        "zip_code": "89144"
+    },
+    {
+        "address": "FIRST AND A STREETS",
+        "city": "HAWTHORNE",
+        "county_name": "MINERAL",
+        "emergency_services": true,
+        "hospital_name": "MOUNT GRANT GENERAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "FIRST AND A STREETS",
+        "location_city": "HAWTHORNE",
+        "location_state": "NV",
+        "location_zip": "89415",
+        "phone_number": "7029452461",
+        "provider_id": "291300",
+        "state": "NV",
+        "zip_code": "89415"
+    },
+    {
+        "address": "118 EAST HASKELL STREET",
+        "city": "WINNEMUCCA",
+        "county_name": "HUMBOLDT",
+        "emergency_services": true,
+        "hospital_name": "HUMBOLDT GENERAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -117.728534,
+                40.971581
+            ],
+            "type": "Point"
+        },
+        "location_address": "118 EAST HASKELL STREET",
+        "location_city": "WINNEMUCCA",
+        "location_state": "NV",
+        "location_zip": "89445",
+        "phone_number": "7756235222",
+        "provider_id": "291308",
+        "state": "NV",
+        "zip_code": "89445"
+    },
+    {
+        "address": "102 E LAKE MEAD DR",
+        "city": "HENDERSON",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "ST ROSE DOMINICAN HOSPITALS - ROSE DE LIMA CAMPUS",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -114.985663,
+                36.037407
+            ],
+            "type": "Point"
+        },
+        "location_address": "102 E LAKE MEAD DR",
+        "location_city": "HENDERSON",
+        "location_state": "NV",
+        "location_zip": "89015",
+        "phone_number": "7026165000",
+        "provider_id": "290012",
+        "state": "NV",
+        "zip_code": "89015"
+    },
+    {
+        "address": "8280 W WARM SPRINGS ROAD",
+        "city": "LAS VEGAS",
+        "county_name": "CLARK",
+        "emergency_services": true,
+        "hospital_name": "ST ROSE DOMINICAN HOSPITALS - SAN MARTIN CAMPUS",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -115.271876,
+                36.055544
+            ],
+            "type": "Point"
+        },
+        "location_address": "8280 W WARM SPRINGS ROAD",
+        "location_city": "LAS VEGAS",
+        "location_state": "NV",
+        "location_zip": "89113",
+        "phone_number": "7024928509",
+        "provider_id": "290053",
+        "state": "NV",
+        "zip_code": "89113"
+    }
+]

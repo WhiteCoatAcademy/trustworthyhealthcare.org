@@ -1,820 +1,968 @@
-[ {
-  "hospital_name" : "ST LUKE'S MAGIC VALLEY RMC",
-  "phone_number" : {
-    "phone_number" : "2088141000"
-  },
-  "zip_code" : "83301",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-114.49691722999995",
-    "latitude" : "42.59158036900004",
-    "human_address" : "{\"address\":\"801 POLE LINE ROAD WEST\",\"city\":\"TWIN FALLS\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "801 POLE LINE ROAD WEST",
-  "provider_id" : "130002",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "TWIN FALLS",
-  "city" : "TWIN FALLS"
-}
-, {
-  "hospital_name" : "ST JOSEPH REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2087432511"
-  },
-  "zip_code" : "83501",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-117.02496930199999",
-    "latitude" : "46.41639991800008",
-    "human_address" : "{\"address\":\"415 SIXTH STREET\",\"city\":\"LEWISTON\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "415 SIXTH STREET",
-  "provider_id" : "130003",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "NEZ PERCE",
-  "city" : "LEWISTON"
-}
-, {
-  "hospital_name" : "ST LUKE'S REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2083812222"
-  },
-  "zip_code" : "83712",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.19256552799999",
-    "latitude" : "43.612415456000065",
-    "human_address" : "{\"address\":\"190 EAST BANNOCK STREET\",\"city\":\"BOISE\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "190 EAST BANNOCK STREET",
-  "provider_id" : "130006",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "ADA",
-  "city" : "BOISE"
-}
-, {
-  "hospital_name" : "ST ALPHONSUS REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2083672121"
-  },
-  "zip_code" : "83706",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.25368716499997",
-    "latitude" : "43.61392955400004",
-    "human_address" : "{\"address\":\"1055 NORTH CURTIS ROAD\",\"city\":\"BOISE\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "1055 NORTH CURTIS ROAD",
-  "provider_id" : "130007",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "ADA",
-  "city" : "BOISE"
-}
-, {
-  "hospital_name" : "SAINT ALPHONSUS MEDICAL CENTER - NAMPA",
-  "phone_number" : {
-    "phone_number" : "2084635000"
-  },
-  "zip_code" : "83686",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.57280124299996",
-    "latitude" : "43.55305104900003",
-    "human_address" : "{\"address\":\"1512 TWELFTH AVENUE ROAD\",\"city\":\"NAMPA\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "1512 TWELFTH AVENUE ROAD",
-  "provider_id" : "130013",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "CANYON",
-  "city" : "NAMPA"
-}
-, {
-  "hospital_name" : "WEST VALLEY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2084594641"
-  },
-  "zip_code" : "83605",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.69558147899994",
-    "latitude" : "43.654368884000064",
-    "human_address" : "{\"address\":\"1717 ARLINGTON STREET\",\"city\":\"CALDWELL\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "1717 ARLINGTON STREET",
-  "provider_id" : "130014",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "CANYON",
-  "city" : "CALDWELL"
-}
-, {
-  "hospital_name" : "EASTERN IDAHO REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2085296111"
-  },
-  "zip_code" : "83404",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.99020872799997",
-    "latitude" : "43.46961893200006",
-    "human_address" : "{\"address\":\"3100 CHANNING WAY\",\"city\":\"IDAHO FALLS\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "3100 CHANNING WAY",
-  "provider_id" : "130018",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "BONNEVILLE",
-  "city" : "IDAHO FALLS"
-}
-, {
-  "hospital_name" : "MADISON MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2083596900"
-  },
-  "zip_code" : "83440",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.77521829199998",
-    "latitude" : "43.83170966500006",
-    "human_address" : "{\"address\":\"255 N 3RD E\",\"city\":\"REXBURG\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "255 N 3RD E",
-  "provider_id" : "130025",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "MADISON",
-  "city" : "REXBURG"
-}
-, {
-  "hospital_name" : "PORTNEUF MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2082391000"
-  },
-  "zip_code" : "83201",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-112.41893204099995",
-    "latitude" : "42.87459941600008",
-    "human_address" : "{\"address\":\"777 HOSPITAL WAY\",\"city\":\"POCATELLO\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "777 HOSPITAL WAY",
-  "provider_id" : "130028",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "BANNOCK",
-  "city" : "POCATELLO"
-}
-, {
-  "hospital_name" : "BOISE VA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2084221000"
-  },
-  "zip_code" : "83702",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.19478021399999",
-    "latitude" : "43.61925655300007",
-    "human_address" : "{\"address\":\"500 W. FORT STREET\",\"city\":\"BOISE\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "500 W. FORT STREET",
-  "provider_id" : "13003F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "ID",
-  "emergency_services" : false,
-  "county_name" : "ADA",
-  "city" : "BOISE"
-}
-, {
-  "hospital_name" : "KOOTENAI MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2086254001"
-  },
-  "zip_code" : "83814",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.79292048599996",
-    "latitude" : "47.69553989500008",
-    "human_address" : "{\"address\":\"2003 KOOTENAI HEALTH WAY\",\"city\":\"COEUR D'ALENE\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "2003 KOOTENAI HEALTH WAY",
-  "provider_id" : "130049",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "KOOTENAI",
-  "city" : "COEUR D'ALENE"
-}
-, {
-  "hospital_name" : "TREASURE VALLEY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2083735000"
-  },
-  "zip_code" : "83704",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.29151542399995",
-    "latitude" : "43.61128622000007",
-    "human_address" : "{\"address\":\"8800 WEST EMERALD STREET\",\"city\":\"BOISE\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "8800 WEST EMERALD STREET",
-  "provider_id" : "130063",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : false,
-  "county_name" : "ADA",
-  "city" : "BOISE"
-}
-, {
-  "hospital_name" : "MOUNTAIN VIEW HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2085572899"
-  },
-  "zip_code" : "83404",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.98769099299994",
-    "latitude" : "43.47255725100007",
-    "human_address" : "{\"address\":\"2325 CORONADO STREET\",\"city\":\"IDAHO FALLS\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "2325 CORONADO STREET",
-  "provider_id" : "130065",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "BONNEVILLE",
-  "city" : "IDAHO FALLS"
-}
-, {
-  "hospital_name" : "NORTHWEST SPECIALTY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2082622300"
-  },
-  "zip_code" : "83854",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.926254471",
-    "latitude" : "47.714726539000026",
-    "human_address" : "{\"address\":\"1593 EAST POLSTON AVENUE\",\"city\":\"POST FALLS\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "1593 EAST POLSTON AVENUE",
-  "provider_id" : "130066",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : false,
-  "county_name" : "KOOTENAI",
-  "city" : "POST FALLS"
-}
-, {
-  "hospital_name" : "IDAHO DOCTORS HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2087822900"
-  },
-  "zip_code" : "83221",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-112.35607540299998",
-    "latitude" : "43.19588819100005",
-    "human_address" : "{\"address\":\"350 NORTH MERIDIAN STREET\",\"city\":\"BLACKFOOT\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "350 NORTH MERIDIAN STREET",
-  "provider_id" : "130067",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ID",
-  "emergency_services" : false,
-  "county_name" : "BINGHAM",
-  "city" : "BLACKFOOT"
-}
-, {
-  "hospital_name" : "BOUNDARY COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2082674850"
-  },
-  "zip_code" : "83805",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.32146398299994",
-    "latitude" : "48.70254903700004",
-    "human_address" : "{\"address\":\"6640 KANIKSU STREET\",\"city\":\"BONNERS FERRY\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "6640 KANIKSU STREET",
-  "provider_id" : "131301",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "BOUNDARY",
-  "city" : "BONNERS FERRY"
-}
-, {
-  "hospital_name" : "NORTH CANYON MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2089344433"
-  },
-  "zip_code" : "83330",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-114.71102588499997",
-    "latitude" : "42.921867931000065",
-    "human_address" : "{\"address\":\"267 NORTH CANYON DR\",\"city\":\"GOODING\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "267 NORTH CANYON DR",
-  "provider_id" : "131302",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "GOODING",
-  "city" : "GOODING"
-}
-, {
-  "hospital_name" : "ONEIDA COUNTY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2087662231"
-  },
-  "zip_code" : "83252",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-112.25070268199994",
-    "latitude" : "42.18936310700008",
-    "human_address" : "{\"address\":\"150 NORTH 200 WEST\",\"city\":\"MALAD CITY\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "150 NORTH 200 WEST",
-  "provider_id" : "131303",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "ONEIDA",
-  "city" : "MALAD CITY"
-}
-, {
-  "hospital_name" : "STEELE MEMORIAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2087565600"
-  },
-  "zip_code" : "83467",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-113.89096948799994",
-    "latitude" : "45.17322021200005",
-    "human_address" : "{\"address\":\"203 SOUTH DAISY STREET\",\"city\":\"SALMON\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "203 SOUTH DAISY STREET",
-  "provider_id" : "131305",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "LEMHI",
-  "city" : "SALMON"
-}
-, {
-  "hospital_name" : "WEISER MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2085490370"
-  },
-  "zip_code" : "83672",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.96173783699999",
-    "latitude" : "44.24854991600006",
-    "human_address" : "{\"address\":\"645 EAST 5TH STREET\",\"city\":\"WEISER\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "645 EAST 5TH STREET",
-  "provider_id" : "131307",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "WASHINGTON",
-  "city" : "WEISER"
-}
-, {
-  "hospital_name" : "CARIBOU MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2085473341"
-  },
-  "zip_code" : "83276",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.61338272999996",
-    "latitude" : "42.65247218300004",
-    "human_address" : "{\"address\":\"300 SOUTH 3RD WEST\",\"city\":\"SODA SPRINGS\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "300 SOUTH 3RD WEST",
-  "provider_id" : "131309",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : false,
-  "county_name" : "CARIBOU",
-  "city" : "SODA SPRINGS"
-}
-, {
-  "hospital_name" : "ST LUKE'S JEROME",
-  "phone_number" : {
-    "phone_number" : "2083244301"
-  },
-  "zip_code" : "83338",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-114.51853593999999",
-    "latitude" : "42.73003691900004",
-    "human_address" : "{\"address\":\"709 NORTH LINCOLN AVENUE\",\"city\":\"JEROME\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "709 NORTH LINCOLN AVENUE",
-  "provider_id" : "131310",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "JEROME",
-  "city" : "JEROME"
-}
-, {
-  "hospital_name" : "ST LUKE'S ELMORE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2085878401"
-  },
-  "zip_code" : "83647",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-115.69251670199998",
-    "latitude" : "43.13881956400007",
-    "human_address" : "{\"address\":\"895 NORTH 6TH EAST\",\"city\":\"MOUNTAIN HOME\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "895 NORTH 6TH EAST",
-  "provider_id" : "131311",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "ELMORE",
-  "city" : "MOUNTAIN HOME"
-}
-, {
-  "hospital_name" : "ST LUKE'S MCCALL",
-  "phone_number" : {
-    "phone_number" : "2086342221"
-  },
-  "zip_code" : "83638",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.10972480099997",
-    "latitude" : "44.90953364100005",
-    "human_address" : "{\"address\":\"1000 STATE STREET\",\"city\":\"MC CALL\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "1000 STATE STREET",
-  "provider_id" : "131312",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "VALLEY",
-  "city" : "MC CALL"
-}
-, {
-  "hospital_name" : "TETON VALLEY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2083542383"
-  },
-  "zip_code" : "83455",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.11129425099995",
-    "latitude" : "43.59837605400003",
-    "human_address" : "{\"address\":\"252 SOUTH MAIN STREET\",\"city\":\"VICTOR\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "252 SOUTH MAIN STREET",
-  "provider_id" : "131313",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "TETON",
-  "city" : "VICTOR"
-}
-, {
-  "hospital_name" : "SHOSHONE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2087841221"
-  },
-  "zip_code" : "83837",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.13081410099994",
-    "latitude" : "47.54768848500004",
-    "human_address" : "{\"address\":\"25 JACOBS GULCH ROAD\",\"city\":\"KELLOGG\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "25 JACOBS GULCH ROAD",
-  "provider_id" : "131314",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "SHOSHONE",
-  "city" : "KELLOGG"
-}
-, {
-  "hospital_name" : "SYRINGA GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2089831700"
-  },
-  "zip_code" : "83530",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.12753880799994",
-    "latitude" : "45.926817268000036",
-    "human_address" : "{\"address\":\"607 W MAIN STREET\",\"city\":\"GRANGEVILLE\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "607 W MAIN STREET",
-  "provider_id" : "131315",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "IDAHO",
-  "city" : "GRANGEVILLE"
-}
-, {
-  "hospital_name" : "BEAR LAKE MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2088471630"
-  },
-  "zip_code" : "83254",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.30084521999999",
-    "latitude" : "42.31630995800003",
-    "human_address" : "{\"address\":\"164 SOUTH FIFTH STREET\",\"city\":\"MONTPELIER\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "164 SOUTH FIFTH STREET",
-  "provider_id" : "131316",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "BEAR LAKE",
-  "city" : "MONTPELIER"
-}
-, {
-  "hospital_name" : "BENEWAH COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2082457614"
-  },
-  "zip_code" : "83861",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.56671385199996",
-    "latitude" : "47.31495404300006",
-    "human_address" : "{\"address\":\"229 SOUTH 7TH STREET\",\"city\":\"ST MARIES\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "229 SOUTH 7TH STREET",
-  "provider_id" : "131317",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "BENEWAH",
-  "city" : "ST MARIES"
-}
-, {
-  "hospital_name" : "WALTER KNOX MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2083653561"
-  },
-  "zip_code" : "83617",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.48531885499995",
-    "latitude" : "43.87907651300003",
-    "human_address" : "{\"address\":\"1202 EAST LOCUST STREET\",\"city\":\"EMMETT\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "1202 EAST LOCUST STREET",
-  "provider_id" : "131318",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "GEM",
-  "city" : "EMMETT"
-}
-, {
-  "hospital_name" : "CLEARWATER VALLEY HOSPITAL & CLINICS",
-  "phone_number" : {
-    "phone_number" : "2084764555"
-  },
-  "zip_code" : "83544",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.25973318699994",
-    "latitude" : "46.48619017000004",
-    "human_address" : "{\"address\":\"301 CEDAR STREET\",\"city\":\"OROFINO\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "301 CEDAR STREET",
-  "provider_id" : "131320",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "CLEARWATER",
-  "city" : "OROFINO"
-}
-, {
-  "hospital_name" : "ST MARY'S HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2089623251"
-  },
-  "zip_code" : "83522",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.351655301",
-    "latitude" : "46.05042690000005",
-    "human_address" : "{\"address\":\"701 LEWISTON ST\",\"city\":\"COTTONWOOD\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "701 LEWISTON ST",
-  "provider_id" : "131321",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "IDAHO",
-  "city" : "COTTONWOOD"
-}
-, {
-  "hospital_name" : "FRANKLIN COUNTY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2088520137"
-  },
-  "zip_code" : "83263",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.87397345199997",
-    "latitude" : "42.09729968600004",
-    "human_address" : "{\"address\":\"44 NORTH FIRST EAST\",\"city\":\"PRESTON\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "44 NORTH FIRST EAST",
-  "provider_id" : "131322",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "FRANKLIN",
-  "city" : "PRESTON"
-}
-, {
-  "hospital_name" : "ST LUKE'S WOOD RIVER MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2087278800"
-  },
-  "zip_code" : "83340",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-114.34907709599997",
-    "latitude" : "43.64830442500005",
-    "human_address" : "{\"address\":\"100 HOSPITAL DRIVE\",\"city\":\"KETCHUM\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "100 HOSPITAL DRIVE",
-  "provider_id" : "131323",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "BLAINE",
-  "city" : "KETCHUM"
-}
-, {
-  "hospital_name" : "LOST RIVERS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2085278206"
-  },
-  "zip_code" : "83213",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-113.29612304199998",
-    "latitude" : "43.63780785600005",
-    "human_address" : "{\"address\":\"551 HIGHLAND DRIVE\",\"city\":\"ARCO\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "551 HIGHLAND DRIVE",
-  "provider_id" : "131324",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "BUTTE",
-  "city" : "ARCO"
-}
-, {
-  "hospital_name" : "BINGHAM MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2087853804"
-  },
-  "zip_code" : "83221",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-112.34742123999996",
-    "latitude" : "43.19287511600004",
-    "human_address" : "{\"address\":\"98 POPLAR STREET\",\"city\":\"BLACKFOOT\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "98 POPLAR STREET",
-  "provider_id" : "131325",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "BINGHAM",
-  "city" : "BLACKFOOT"
-}
-, {
-  "hospital_name" : "CASSIA REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2086784444"
-  },
-  "zip_code" : "83318",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-113.78337355699995",
-    "latitude" : "42.53422075200007",
-    "human_address" : "{\"address\":\"1501 HILAND AVENUE\",\"city\":\"BURLEY\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "1501 HILAND AVENUE",
-  "provider_id" : "131326",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "CASSIA",
-  "city" : "BURLEY"
-}
-, {
-  "hospital_name" : "GRITMAN MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2088824511"
-  },
-  "zip_code" : "83843",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-117.00133675299998",
-    "latitude" : "46.72901729000006",
-    "human_address" : "{\"address\":\"700 SOUTH MAIN STREET\",\"city\":\"MOSCOW\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "700 SOUTH MAIN STREET",
-  "provider_id" : "131327",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "LATAH",
-  "city" : "MOSCOW"
-}
-, {
-  "hospital_name" : "BONNER GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2082631441"
-  },
-  "zip_code" : "83864",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.55039051399996",
-    "latitude" : "48.268439433000026",
-    "human_address" : "{\"address\":\"520 NORTH THIRD AVENUE\",\"city\":\"SANDPOINT\",\"state\":\"ID\",\"zip\":\"\"}"
-  },
-  "address" : "520 NORTH THIRD AVENUE",
-  "provider_id" : "131328",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ID",
-  "emergency_services" : true,
-  "county_name" : "BONNER",
-  "city" : "SANDPOINT"
-}
- ]
+[
+    {
+        "address": "551 HIGHLAND DRIVE",
+        "city": "ARCO",
+        "county_name": "BUTTE",
+        "emergency_services": true,
+        "hospital_name": "LOST RIVERS HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -113.296527,
+                43.640374
+            ],
+            "type": "Point"
+        },
+        "location_address": "551 HIGHLAND DRIVE",
+        "location_city": "ARCO",
+        "location_state": "ID",
+        "location_zip": "83213",
+        "phone_number": "2085278206",
+        "provider_id": "131324",
+        "state": "ID",
+        "zip_code": "83213"
+    },
+    {
+        "address": "709 NORTH LINCOLN AVENUE",
+        "city": "JEROME",
+        "county_name": "JEROME",
+        "emergency_services": true,
+        "hospital_name": "ST LUKE'S JEROME",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -114.518474,
+                42.730039
+            ],
+            "type": "Point"
+        },
+        "location_address": "709 NORTH LINCOLN AVENUE",
+        "location_city": "JEROME",
+        "location_state": "ID",
+        "location_zip": "83338",
+        "phone_number": "2083244301",
+        "provider_id": "131310",
+        "state": "ID",
+        "zip_code": "83338"
+    },
+    {
+        "address": "267 NORTH CANYON DR",
+        "city": "GOODING",
+        "county_name": "GOODING",
+        "emergency_services": true,
+        "hospital_name": "NORTH CANYON MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "267 NORTH CANYON DR",
+        "location_city": "GOODING",
+        "location_state": "ID",
+        "location_zip": "83330",
+        "phone_number": "2089344433",
+        "provider_id": "131302",
+        "state": "ID",
+        "zip_code": "83330"
+    },
+    {
+        "address": "1501 HILAND AVENUE SUITE F",
+        "city": "BURLEY",
+        "county_name": "CASSIA",
+        "emergency_services": true,
+        "hospital_name": "CASSIA REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -113.783419,
+                42.534179
+            ],
+            "type": "Point"
+        },
+        "location_address": "1501 HILAND AVENUE SUITE F",
+        "location_city": "BURLEY",
+        "location_state": "ID",
+        "location_zip": "83318",
+        "phone_number": "2086784444",
+        "provider_id": "131326",
+        "state": "ID",
+        "zip_code": "83318"
+    },
+    {
+        "address": "1202 EAST LOCUST STREET",
+        "city": "EMMETT",
+        "county_name": "GEM",
+        "emergency_services": true,
+        "hospital_name": "VALOR HEALTH",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -116.485311,
+                43.879078
+            ],
+            "type": "Point"
+        },
+        "location_address": "1202 EAST LOCUST STREET",
+        "location_city": "EMMETT",
+        "location_state": "ID",
+        "location_zip": "83617",
+        "phone_number": "2083653561",
+        "provider_id": "131318",
+        "state": "ID",
+        "zip_code": "83617"
+    },
+    {
+        "address": "402 LAKE CASCADE PARKWAY",
+        "city": "CASCADE",
+        "county_name": "VALLEY",
+        "emergency_services": true,
+        "hospital_name": "CASCADE MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "402 LAKE CASCADE PARKWAY",
+        "location_city": "CASCADE",
+        "location_state": "ID",
+        "location_zip": "83611",
+        "phone_number": "2083824242",
+        "provider_id": "131308",
+        "state": "ID",
+        "zip_code": "83611"
+    },
+    {
+        "address": "25 JACOBS GULCH ROAD",
+        "city": "KELLOGG",
+        "county_name": "SHOSHONE",
+        "emergency_services": true,
+        "hospital_name": "SHOSHONE MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -116.126658,
+                47.556212
+            ],
+            "type": "Point"
+        },
+        "location_address": "25 JACOBS GULCH ROAD",
+        "location_city": "KELLOGG",
+        "location_state": "ID",
+        "location_zip": "83837",
+        "phone_number": "2087841221",
+        "provider_id": "131314",
+        "state": "ID",
+        "zip_code": "83837"
+    },
+    {
+        "address": "255 N 3RD E",
+        "city": "REXBURG",
+        "county_name": "MADISON",
+        "emergency_services": true,
+        "hospital_name": "MADISON MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.775167,
+                43.831736
+            ],
+            "type": "Point"
+        },
+        "location_address": "255 N 3RD E",
+        "location_city": "REXBURG",
+        "location_state": "ID",
+        "location_zip": "83440",
+        "phone_number": "2083596900",
+        "provider_id": "130025",
+        "state": "ID",
+        "zip_code": "83440"
+    },
+    {
+        "address": "1512 TWELFTH AVENUE ROAD",
+        "city": "NAMPA",
+        "county_name": "CANYON",
+        "emergency_services": true,
+        "hospital_name": "SAINT ALPHONSUS MEDICAL CENTER - NAMPA",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "1512 TWELFTH AVENUE ROAD",
+        "location_city": "NAMPA",
+        "location_state": "ID",
+        "location_zip": "83686",
+        "phone_number": "2084635000",
+        "provider_id": "130013",
+        "state": "ID",
+        "zip_code": "83686"
+    },
+    {
+        "address": "2003 KOOTENAI HEALTH WAY",
+        "city": "COEUR D'ALENE",
+        "county_name": "KOOTENAI",
+        "emergency_services": true,
+        "hospital_name": "KOOTENAI HEALTH",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -116.792671,
+                47.694614
+            ],
+            "type": "Point"
+        },
+        "location_address": "2003 KOOTENAI HEALTH WAY",
+        "location_city": "COEUR D'ALENE",
+        "location_state": "ID",
+        "location_zip": "83814",
+        "phone_number": "2086254000",
+        "provider_id": "130049",
+        "state": "ID",
+        "zip_code": "83814"
+    },
+    {
+        "address": "777 HOSPITAL WAY",
+        "city": "POCATELLO",
+        "county_name": "BANNOCK",
+        "emergency_services": true,
+        "hospital_name": "PORTNEUF MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -112.41874,
+                42.873418
+            ],
+            "type": "Point"
+        },
+        "location_address": "777 HOSPITAL WAY",
+        "location_city": "POCATELLO",
+        "location_state": "ID",
+        "location_zip": "83201",
+        "phone_number": "2082391452",
+        "provider_id": "130028",
+        "state": "ID",
+        "zip_code": "83201"
+    },
+    {
+        "address": "100 HOSPITAL DRIVE",
+        "city": "KETCHUM",
+        "county_name": "BLAINE",
+        "emergency_services": true,
+        "hospital_name": "ST LUKE'S WOOD RIVER MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "100 HOSPITAL DRIVE",
+        "location_city": "KETCHUM",
+        "location_state": "ID",
+        "location_zip": "83340",
+        "phone_number": "2084932308",
+        "provider_id": "131323",
+        "state": "ID",
+        "zip_code": "83340"
+    },
+    {
+        "address": "1224 8TH STREET",
+        "city": "RUPERT",
+        "county_name": "MINIDOKA",
+        "emergency_services": true,
+        "hospital_name": "MINIDOKA MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -113.686691,
+                42.619663
+            ],
+            "type": "Point"
+        },
+        "location_address": "1224 8TH STREET",
+        "location_city": "RUPERT",
+        "location_state": "ID",
+        "location_zip": "83350",
+        "phone_number": "2084360481",
+        "provider_id": "131319",
+        "state": "ID",
+        "zip_code": "83350"
+    },
+    {
+        "address": "801 POLE LINE ROAD WEST",
+        "city": "TWIN FALLS",
+        "county_name": "TWIN FALLS",
+        "emergency_services": true,
+        "hospital_name": "ST LUKE'S MAGIC VALLEY RMC",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -114.495624,
+                42.591808
+            ],
+            "type": "Point"
+        },
+        "location_address": "801 POLE LINE ROAD WEST",
+        "location_city": "TWIN FALLS",
+        "location_state": "ID",
+        "location_zip": "83301",
+        "phone_number": "2088141000",
+        "provider_id": "130002",
+        "state": "ID",
+        "zip_code": "83301"
+    },
+    {
+        "address": "2325 CORONADO STREET",
+        "city": "IDAHO FALLS",
+        "county_name": "BONNEVILLE",
+        "emergency_services": true,
+        "hospital_name": "MOUNTAIN VIEW HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.987748,
+                43.472521
+            ],
+            "type": "Point"
+        },
+        "location_address": "2325 CORONADO STREET",
+        "location_city": "IDAHO FALLS",
+        "location_state": "ID",
+        "location_zip": "83404",
+        "phone_number": "2085572711",
+        "provider_id": "130065",
+        "state": "ID",
+        "zip_code": "83404"
+    },
+    {
+        "address": "301 CEDAR STREET",
+        "city": "OROFINO",
+        "county_name": "CLEARWATER",
+        "emergency_services": true,
+        "hospital_name": "CLEARWATER VALLEY HOSPITAL & CLINICS",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -116.259456,
+                46.486739
+            ],
+            "type": "Point"
+        },
+        "location_address": "301 CEDAR STREET",
+        "location_city": "OROFINO",
+        "location_state": "ID",
+        "location_zip": "83544",
+        "phone_number": "2084764555",
+        "provider_id": "131320",
+        "state": "ID",
+        "zip_code": "83544"
+    },
+    {
+        "address": "3100 CHANNING WAY",
+        "city": "IDAHO FALLS",
+        "county_name": "BONNEVILLE",
+        "emergency_services": true,
+        "hospital_name": "EASTERN IDAHO REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.990169,
+                43.470382
+            ],
+            "type": "Point"
+        },
+        "location_address": "3100 CHANNING WAY",
+        "location_city": "IDAHO FALLS",
+        "location_state": "ID",
+        "location_zip": "83404",
+        "phone_number": "2085296111",
+        "provider_id": "130018",
+        "state": "ID",
+        "zip_code": "83404"
+    },
+    {
+        "address": "1717 ARLINGTON STREET",
+        "city": "CALDWELL",
+        "county_name": "CANYON",
+        "emergency_services": true,
+        "hospital_name": "WEST VALLEY MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -116.695615,
+                43.654116
+            ],
+            "type": "Point"
+        },
+        "location_address": "1717 ARLINGTON STREET",
+        "location_city": "CALDWELL",
+        "location_state": "ID",
+        "location_zip": "83605",
+        "phone_number": "2084594641",
+        "provider_id": "130014",
+        "state": "ID",
+        "zip_code": "83605"
+    },
+    {
+        "address": "520 NORTH THIRD AVENUE",
+        "city": "SANDPOINT",
+        "county_name": "BONNER",
+        "emergency_services": true,
+        "hospital_name": "BONNER GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -116.550314,
+                48.277403
+            ],
+            "type": "Point"
+        },
+        "location_address": "520 NORTH THIRD AVENUE",
+        "location_city": "SANDPOINT",
+        "location_state": "ID",
+        "location_zip": "83864",
+        "phone_number": "2082631441",
+        "provider_id": "131328",
+        "state": "ID",
+        "zip_code": "83864"
+    },
+    {
+        "address": "8800 WEST EMERALD STREET",
+        "city": "BOISE",
+        "county_name": "ADA",
+        "emergency_services": false,
+        "hospital_name": "TREASURE VALLEY HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -116.291414,
+                43.611259
+            ],
+            "type": "Point"
+        },
+        "location_address": "8800 WEST EMERALD STREET",
+        "location_city": "BOISE",
+        "location_state": "ID",
+        "location_zip": "83704",
+        "phone_number": "2083735000",
+        "provider_id": "130063",
+        "state": "ID",
+        "zip_code": "83704"
+    },
+    {
+        "address": "1593 EAST POLSTON AVENUE",
+        "city": "POST FALLS",
+        "county_name": "KOOTENAI",
+        "emergency_services": false,
+        "hospital_name": "NORTHWEST SPECIALTY HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -116.924455,
+                47.71441
+            ],
+            "type": "Point"
+        },
+        "location_address": "1593 EAST POLSTON AVENUE",
+        "location_city": "POST FALLS",
+        "location_state": "ID",
+        "location_zip": "83854",
+        "phone_number": "2082622300",
+        "provider_id": "130066",
+        "state": "ID",
+        "zip_code": "83854"
+    },
+    {
+        "address": "98 POPLAR STREET",
+        "city": "BLACKFOOT",
+        "county_name": "BINGHAM",
+        "emergency_services": true,
+        "hospital_name": "BINGHAM MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -112.347434,
+                43.193178
+            ],
+            "type": "Point"
+        },
+        "location_address": "98 POPLAR STREET",
+        "location_city": "BLACKFOOT",
+        "location_state": "ID",
+        "location_zip": "83221",
+        "phone_number": "2087854100",
+        "provider_id": "131325",
+        "state": "ID",
+        "zip_code": "83221"
+    },
+    {
+        "address": "1055 NORTH CURTIS ROAD",
+        "city": "BOISE",
+        "county_name": "ADA",
+        "emergency_services": true,
+        "hospital_name": "ST ALPHONSUS REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -116.253622,
+                43.614072
+            ],
+            "type": "Point"
+        },
+        "location_address": "1055 NORTH CURTIS ROAD",
+        "location_city": "BOISE",
+        "location_state": "ID",
+        "location_zip": "83706",
+        "phone_number": "2083672121",
+        "provider_id": "130007",
+        "state": "ID",
+        "zip_code": "83706"
+    },
+    {
+        "address": "1000 STATE STREET",
+        "city": "MC CALL",
+        "county_name": "VALLEY",
+        "emergency_services": true,
+        "hospital_name": "ST LUKE'S MCCALL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -116.109715,
+                44.909057
+            ],
+            "type": "Point"
+        },
+        "location_address": "1000 STATE STREET",
+        "location_city": "MC CALL",
+        "location_state": "ID",
+        "location_zip": "83638",
+        "phone_number": "2084932306",
+        "provider_id": "131312",
+        "state": "ID",
+        "zip_code": "83638"
+    },
+    {
+        "address": "120 EAST HOWARD AVE",
+        "city": "DRIGGS",
+        "county_name": "TETON",
+        "emergency_services": true,
+        "hospital_name": "TETON VALLEY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -111.108181,
+                43.727337
+            ],
+            "type": "Point"
+        },
+        "location_address": "120 EAST HOWARD AVE",
+        "location_city": "DRIGGS",
+        "location_state": "ID",
+        "location_zip": "83422",
+        "phone_number": "2083542383",
+        "provider_id": "131313",
+        "state": "ID",
+        "zip_code": "83422"
+    },
+    {
+        "address": "150 NORTH 200 WEST",
+        "city": "MALAD",
+        "county_name": "ONEIDA",
+        "emergency_services": true,
+        "hospital_name": "ONEIDA COUNTY HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "150 NORTH 200 WEST",
+        "location_city": "MALAD",
+        "location_state": "ID",
+        "location_zip": "83252",
+        "phone_number": "2087662231",
+        "provider_id": "131303",
+        "state": "ID",
+        "zip_code": "83252"
+    },
+    {
+        "address": "895 NORTH 6TH EAST",
+        "city": "MOUNTAIN HOME",
+        "county_name": "ELMORE",
+        "emergency_services": true,
+        "hospital_name": "ST LUKE'S ELMORE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -115.692488,
+                43.138087
+            ],
+            "type": "Point"
+        },
+        "location_address": "895 NORTH 6TH EAST",
+        "location_city": "MOUNTAIN HOME",
+        "location_state": "ID",
+        "location_zip": "83647",
+        "phone_number": "2085878401",
+        "provider_id": "131311",
+        "state": "ID",
+        "zip_code": "83647"
+    },
+    {
+        "address": "6640 KANIKSU STREET",
+        "city": "BONNERS FERRY",
+        "county_name": "BOUNDARY",
+        "emergency_services": true,
+        "hospital_name": "BOUNDARY COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -116.322283,
+                48.702606
+            ],
+            "type": "Point"
+        },
+        "location_address": "6640 KANIKSU STREET",
+        "location_city": "BONNERS FERRY",
+        "location_state": "ID",
+        "location_zip": "83805",
+        "phone_number": "2082674850",
+        "provider_id": "131301",
+        "state": "ID",
+        "zip_code": "83805"
+    },
+    {
+        "address": "190 EAST BANNOCK STREET",
+        "city": "BOISE",
+        "county_name": "ADA",
+        "emergency_services": true,
+        "hospital_name": "ST LUKE'S REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -116.192165,
+                43.612115
+            ],
+            "type": "Point"
+        },
+        "location_address": "190 EAST BANNOCK STREET",
+        "location_city": "BOISE",
+        "location_state": "ID",
+        "location_zip": "83712",
+        "phone_number": "2083812222",
+        "provider_id": "130006",
+        "state": "ID",
+        "zip_code": "83712"
+    },
+    {
+        "address": "415 SIXTH STREET",
+        "city": "LEWISTON",
+        "county_name": "NEZ PERCE",
+        "emergency_services": true,
+        "hospital_name": "ST JOSEPH REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -117.024956,
+                46.41649
+            ],
+            "type": "Point"
+        },
+        "location_address": "415 SIXTH STREET",
+        "location_city": "LEWISTON",
+        "location_state": "ID",
+        "location_zip": "83501",
+        "phone_number": "2087995300",
+        "provider_id": "130003",
+        "state": "ID",
+        "zip_code": "83501"
+    },
+    {
+        "address": "510 ROOSEVELT STREET",
+        "city": "AMERICAN FALLS",
+        "county_name": "POWER",
+        "emergency_services": true,
+        "hospital_name": "HARMS MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -112.848439,
+                42.781926
+            ],
+            "type": "Point"
+        },
+        "location_address": "510 ROOSEVELT STREET",
+        "location_city": "AMERICAN FALLS",
+        "location_state": "ID",
+        "location_zip": "83211",
+        "phone_number": "2082263200",
+        "provider_id": "131304",
+        "state": "ID",
+        "zip_code": "83211"
+    },
+    {
+        "address": "300 SOUTH 3RD WEST",
+        "city": "SODA SPRINGS",
+        "county_name": "CARIBOU",
+        "emergency_services": true,
+        "hospital_name": "CARIBOU MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "300 SOUTH 3RD WEST",
+        "location_city": "SODA SPRINGS",
+        "location_state": "ID",
+        "location_zip": "83276",
+        "phone_number": "2085473341",
+        "provider_id": "131309",
+        "state": "ID",
+        "zip_code": "83276"
+    },
+    {
+        "address": "229 SOUTH 7TH STREET",
+        "city": "ST MARIES",
+        "county_name": "BENEWAH",
+        "emergency_services": true,
+        "hospital_name": "BENEWAH COMMUNITY HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -116.566682,
+                47.314716
+            ],
+            "type": "Point"
+        },
+        "location_address": "229 SOUTH 7TH STREET",
+        "location_city": "ST MARIES",
+        "location_state": "ID",
+        "location_zip": "83861",
+        "phone_number": "2082457614",
+        "provider_id": "131317",
+        "state": "ID",
+        "zip_code": "83861"
+    },
+    {
+        "address": "700 SOUTH MAIN STREET",
+        "city": "MOSCOW",
+        "county_name": "LATAH",
+        "emergency_services": true,
+        "hospital_name": "GRITMAN MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -117.001318,
+                46.727802
+            ],
+            "type": "Point"
+        },
+        "location_address": "700 SOUTH MAIN STREET",
+        "location_city": "MOSCOW",
+        "location_state": "ID",
+        "location_zip": "83843",
+        "phone_number": "2088824511",
+        "provider_id": "131327",
+        "state": "ID",
+        "zip_code": "83843"
+    },
+    {
+        "address": "350 N MERIDIAN STREET",
+        "city": "BLACKFOOT",
+        "county_name": "BINGHAM",
+        "emergency_services": false,
+        "hospital_name": "IDAHO DOCTORS HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -112.35613,
+                43.19573
+            ],
+            "type": "Point"
+        },
+        "location_address": "350 N MERIDIAN STREET",
+        "location_city": "BLACKFOOT",
+        "location_state": "ID",
+        "location_zip": "83221",
+        "phone_number": "2087822900",
+        "provider_id": "130067",
+        "state": "ID",
+        "zip_code": "83221"
+    },
+    {
+        "address": "701 LEWISTON ST",
+        "city": "COTTONWOOD",
+        "county_name": "IDAHO",
+        "emergency_services": true,
+        "hospital_name": "ST MARY'S HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -116.351596,
+                46.050324
+            ],
+            "type": "Point"
+        },
+        "location_address": "701 LEWISTON ST",
+        "location_city": "COTTONWOOD",
+        "location_state": "ID",
+        "location_zip": "83522",
+        "phone_number": "2089623251",
+        "provider_id": "131321",
+        "state": "ID",
+        "zip_code": "83522"
+    },
+    {
+        "address": "607 W MAIN STREET",
+        "city": "GRANGEVILLE",
+        "county_name": "IDAHO",
+        "emergency_services": true,
+        "hospital_name": "SYRINGA GENERAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -116.127519,
+                45.926791
+            ],
+            "type": "Point"
+        },
+        "location_address": "607 W MAIN STREET",
+        "location_city": "GRANGEVILLE",
+        "location_state": "ID",
+        "location_zip": "83530",
+        "phone_number": "2089831700",
+        "provider_id": "131315",
+        "state": "ID",
+        "zip_code": "83530"
+    },
+    {
+        "address": "164 SOUTH FIFTH STREET",
+        "city": "MONTPELIER",
+        "county_name": "BEAR LAKE",
+        "emergency_services": true,
+        "hospital_name": "BEAR LAKE MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -111.300993,
+                42.31629
+            ],
+            "type": "Point"
+        },
+        "location_address": "164 SOUTH FIFTH STREET",
+        "location_city": "MONTPELIER",
+        "location_state": "ID",
+        "location_zip": "83254",
+        "phone_number": "2088471630",
+        "provider_id": "131316",
+        "state": "ID",
+        "zip_code": "83254"
+    },
+    {
+        "address": "203 SOUTH DAISY STREET",
+        "city": "SALMON",
+        "county_name": "LEMHI",
+        "emergency_services": true,
+        "hospital_name": "STEELE MEMORIAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -113.891001,
+                45.173205
+            ],
+            "type": "Point"
+        },
+        "location_address": "203 SOUTH DAISY STREET",
+        "location_city": "SALMON",
+        "location_state": "ID",
+        "location_zip": "83467",
+        "phone_number": "2087565612",
+        "provider_id": "131305",
+        "state": "ID",
+        "zip_code": "83467"
+    },
+    {
+        "address": "500 W. FORT STREET",
+        "city": "BOISE",
+        "county_name": "ADA",
+        "emergency_services": false,
+        "hospital_name": "BOISE VA MEDICAL CENTER",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -116.194781,
+                43.619209
+            ],
+            "type": "Point"
+        },
+        "location_address": "500 W. FORT STREET",
+        "location_city": "BOISE",
+        "location_state": "ID",
+        "location_zip": "83702",
+        "phone_number": "2084221000",
+        "provider_id": "13003F",
+        "state": "ID",
+        "zip_code": "83702"
+    },
+    {
+        "address": "44 NORTH FIRST EAST",
+        "city": "PRESTON",
+        "county_name": "FRANKLIN",
+        "emergency_services": true,
+        "hospital_name": "FRANKLIN COUNTY MEDICAL CENTER",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -111.874037,
+                42.097104
+            ],
+            "type": "Point"
+        },
+        "location_address": "44 NORTH FIRST EAST",
+        "location_city": "PRESTON",
+        "location_state": "ID",
+        "location_zip": "83263",
+        "phone_number": "2088520137",
+        "provider_id": "131322",
+        "state": "ID",
+        "zip_code": "83263"
+    },
+    {
+        "address": "645 EAST 5TH STREET",
+        "city": "WEISER",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "WEISER MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -116.96166,
+                44.248531
+            ],
+            "type": "Point"
+        },
+        "location_address": "645 EAST 5TH STREET",
+        "location_city": "WEISER",
+        "location_state": "ID",
+        "location_zip": "83672",
+        "phone_number": "2085490370",
+        "provider_id": "131307",
+        "state": "ID",
+        "zip_code": "83672"
+    }
+]

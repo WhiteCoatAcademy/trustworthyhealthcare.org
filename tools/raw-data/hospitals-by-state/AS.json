@@ -1,19 +1,18 @@
-[ {
-  "hospital_name" : "LBJ TROPICAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "6846334590"
-  },
-  "zip_code" : "96799",
-  "location" : {
-    "needs_recoding" : false,
-    "human_address" : "{\"address\":\"FAGAALU VILLAGE\",\"city\":\"PAGO PAGO\",\"state\":\"AS\",\"zip\":\"\"}"
-  },
-  "address" : "FAGAALU VILLAGE",
-  "provider_id" : "640001",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "AS",
-  "emergency_services" : true,
-  "city" : "PAGO PAGO"
-}
- ]
+[
+    {
+        "address": "FAGAALU VILLAGE",
+        "city": "PAGO PAGO",
+        "emergency_services": true,
+        "hospital_name": "LBJ TROPICAL MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "FAGAALU VILLAGE",
+        "location_city": "PAGO PAGO",
+        "location_state": "AS",
+        "location_zip": "96799",
+        "phone_number": "6846334590",
+        "provider_id": "640001",
+        "state": "AS",
+        "zip_code": "96799"
+    }
+]

@@ -1,2437 +1,2840 @@
-[ {
-  "hospital_name" : "LAFAYETTE GENERAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3372897991"
-  },
-  "zip_code" : "70503",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.01863545099997",
-    "latitude" : "30.202373476000048",
-    "human_address" : "{\"address\":\"1214 COOLIDGE AVENUE\",\"city\":\"LAFAYETTE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1214 COOLIDGE AVENUE",
-  "provider_id" : "190002",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "LAFAYETTE",
-  "city" : "LAFAYETTE"
-}
-, {
-  "hospital_name" : "DAUTERIVE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3373657311"
-  },
-  "zip_code" : "70563",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.79549707599995",
-    "latitude" : "30.00779596600006",
-    "human_address" : "{\"address\":\"600 NORTH LEWIS STREET\",\"city\":\"NEW IBERIA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "600 NORTH LEWIS STREET",
-  "provider_id" : "190003",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "IBERIA",
-  "city" : "NEW IBERIA"
-}
-, {
-  "hospital_name" : "THIBODAUX REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9854475500"
-  },
-  "zip_code" : "70301",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.80731142899998",
-    "latitude" : "29.78105418900003",
-    "human_address" : "{\"address\":\"602 N ACADIA ROAD\",\"city\":\"THIBODAUX\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "602 N ACADIA ROAD",
-  "provider_id" : "190004",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "LAFOURCHE",
-  "city" : "THIBODAUX"
-}
-, {
-  "hospital_name" : "CHARITY HOSPITAL & MEDICAL CENTER OF LOUISIANA AT",
-  "phone_number" : {
-    "phone_number" : "5049033000"
-  },
-  "zip_code" : "70112",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.08530953199994",
-    "latitude" : "29.95630654000007",
-    "human_address" : "{\"address\":\"2021 PERDIDO ST\",\"city\":\"NEW ORLEANS\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "2021 PERDIDO ST",
-  "provider_id" : "190005",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "ORLEANS",
-  "city" : "NEW ORLEANS"
-}
-, {
-  "hospital_name" : "UNIVERSITY HOSPITAL & CLINICS",
-  "phone_number" : {
-    "phone_number" : "3372616000"
-  },
-  "zip_code" : "70506",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.04605325299997",
-    "latitude" : "30.215578511000047",
-    "human_address" : "{\"address\":\"2390 WEST CONGRESS\",\"city\":\"LAFAYETTE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "2390 WEST CONGRESS",
-  "provider_id" : "190006",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "LAFAYETTE",
-  "city" : "LAFAYETTE"
-}
-, {
-  "hospital_name" : "NATCHITOCHES REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3182144200"
-  },
-  "zip_code" : "71457",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.07913413199998",
-    "latitude" : "31.753468948000034",
-    "human_address" : "{\"address\":\"501 KEYSER AVE\",\"city\":\"NATCHITOCHES\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "501 KEYSER AVE",
-  "provider_id" : "190007",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "NATCHITOCHES",
-  "city" : "NATCHITOCHES"
-}
-, {
-  "hospital_name" : "TERREBONNE GENERAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9858734141"
-  },
-  "zip_code" : "70360",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.71398066199998",
-    "latitude" : "29.598482707000073",
-    "human_address" : "{\"address\":\"8166 MAIN STREET\",\"city\":\"HOUMA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "8166 MAIN STREET",
-  "provider_id" : "190008",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "TERREBONNE",
-  "city" : "HOUMA"
-}
-, {
-  "hospital_name" : "HUEY P LONG MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3184480811"
-  },
-  "zip_code" : "71360",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.43973898599995",
-    "latitude" : "31.320364381000047",
-    "human_address" : "{\"address\":\"352 HOSPITAL BLVD\",\"city\":\"PINEVILLE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "352 HOSPITAL BLVD",
-  "provider_id" : "190009",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "RAPIDES",
-  "city" : "PINEVILLE"
-}
-, {
-  "hospital_name" : "UNIVERSITY HEALTH CONWAY",
-  "phone_number" : {
-    "phone_number" : "3183307000"
-  },
-  "zip_code" : "71202",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.10532437099994",
-    "latitude" : "32.450122555000064",
-    "human_address" : "{\"address\":\"4864 JACKSON STREET\",\"city\":\"MONROE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "4864 JACKSON STREET",
-  "provider_id" : "190011",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "OUACHITA",
-  "city" : "MONROE"
-}
-, {
-  "hospital_name" : "WEST CALCASIEU CAMERON HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3375277034"
-  },
-  "zip_code" : "70663",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.36861096499996",
-    "latitude" : "30.231053159000055",
-    "human_address" : "{\"address\":\"701 EAST CYPRESS STREET\",\"city\":\"SULPHUR\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "701 EAST CYPRESS STREET",
-  "provider_id" : "190013",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "CALCASIEU",
-  "city" : "SULPHUR"
-}
-, {
-  "hospital_name" : "TECHE REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9853842200"
-  },
-  "zip_code" : "70380",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.20224515299998",
-    "latitude" : "29.70558928400004",
-    "human_address" : "{\"address\":\"1125 MARGUERITE STREET\",\"city\":\"MORGAN CITY\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1125 MARGUERITE STREET",
-  "provider_id" : "190014",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "SAINT MARY",
-  "city" : "MORGAN CITY"
-}
-, {
-  "hospital_name" : "NORTH OAKS MEDICAL CENTER, L L C",
-  "phone_number" : {
-    "phone_number" : "9853452700"
-  },
-  "zip_code" : "70403",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.46080618599996",
-    "latitude" : "30.46600927700007",
-    "human_address" : "{\"address\":\"15790 PAUL VEGA MD DRIVE\",\"city\":\"HAMMOND\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "15790 PAUL VEGA MD DRIVE",
-  "provider_id" : "190015",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "TANGIPAHOA",
-  "city" : "HAMMOND"
-}
-, {
-  "hospital_name" : "OPELOUSAS GENERAL HEALTH SYSTEM",
-  "phone_number" : {
-    "phone_number" : "3379483011"
-  },
-  "zip_code" : "70570",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.07609637699994",
-    "latitude" : "30.543566440000063",
-    "human_address" : "{\"address\":\"539 EAST PRUDHOMME STREET\",\"city\":\"OPELOUSAS\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "539 EAST PRUDHOMME STREET",
-  "provider_id" : "190017",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "SAINT LANDRY",
-  "city" : "OPELOUSAS"
-}
-, {
-  "hospital_name" : "CHRISTUS ST FRANCES CABRINI HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3184871122"
-  },
-  "zip_code" : "71301",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.46082690399999",
-    "latitude" : "31.282458981000048",
-    "human_address" : "{\"address\":\"3330 MASONIC DRIVE\",\"city\":\"ALEXANDRIA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "3330 MASONIC DRIVE",
-  "provider_id" : "190019",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "RAPIDES",
-  "city" : "ALEXANDRIA"
-}
-, {
-  "hospital_name" : "LANE REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2256584000"
-  },
-  "zip_code" : "70791",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.13770135499999",
-    "latitude" : "30.65009397700004",
-    "human_address" : "{\"address\":\"6300 MAIN STREET\",\"city\":\"ZACHARY\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "6300 MAIN STREET",
-  "provider_id" : "190020",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "EAST BATON ROUGE",
-  "city" : "ZACHARY"
-}
-, {
-  "hospital_name" : "SAVOY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3374685261"
-  },
-  "zip_code" : "70554",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.41706166699998",
-    "latitude" : "30.641087913000035",
-    "human_address" : "{\"address\":\"801 POINCIANA AVENUE\",\"city\":\"MAMOU\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "801 POINCIANA AVENUE",
-  "provider_id" : "190025",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "EVANGELINE",
-  "city" : "MAMOU"
-}
-, {
-  "hospital_name" : "RAPIDES REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3187693000"
-  },
-  "zip_code" : "71301",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.44965930399997",
-    "latitude" : "31.31438127800004",
-    "human_address" : "{\"address\":\"211 4TH STREET\",\"city\":\"ALEXANDRIA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "211 4TH STREET",
-  "provider_id" : "190026",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "RAPIDES",
-  "city" : "ALEXANDRIA"
-}
-, {
-  "hospital_name" : "CHRISTUS ST PATRICK HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3374362511"
-  },
-  "zip_code" : "70601",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.22838299199998",
-    "latitude" : "30.21539732900004",
-    "human_address" : "{\"address\":\"524 DR MICHAEL DEBAKEY STREET\",\"city\":\"LAKE CHARLES\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "524 DR MICHAEL DEBAKEY STREET",
-  "provider_id" : "190027",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "CALCASIEU",
-  "city" : "LAKE CHARLES"
-}
-, {
-  "hospital_name" : "ABBEVILLE GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3378935466"
-  },
-  "zip_code" : "70510",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.10694678899995",
-    "latitude" : "29.97220883600005",
-    "human_address" : "{\"address\":\"118 N HOSPITAL DR\",\"city\":\"ABBEVILLE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "118 N HOSPITAL DR",
-  "provider_id" : "190034",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "VERMILION",
-  "city" : "ABBEVILLE"
-}
-, {
-  "hospital_name" : "OCHSNER MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5048423000"
-  },
-  "zip_code" : "70121",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.14516480999998",
-    "latitude" : "29.962732816000027",
-    "human_address" : "{\"address\":\"1516 JEFFERSON HWY\",\"city\":\"NEW ORLEANS\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1516 JEFFERSON HWY",
-  "provider_id" : "190036",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON",
-  "city" : "NEW ORLEANS"
-}
-, {
-  "hospital_name" : "WEST JEFFERSON MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5043475511"
-  },
-  "zip_code" : "70072",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.09580912299998",
-    "latitude" : "29.891242947000023",
-    "human_address" : "{\"address\":\"1101 MEDICAL CENTER BLVD\",\"city\":\"MARRERO\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1101 MEDICAL CENTER BLVD",
-  "provider_id" : "190039",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON",
-  "city" : "MARRERO"
-}
-, {
-  "hospital_name" : "SLIDELL MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9856432200"
-  },
-  "zip_code" : "70458",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-89.76968110599995",
-    "latitude" : "30.28471261900006",
-    "human_address" : "{\"address\":\"1001 GAUSE BLVD\",\"city\":\"SLIDELL\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1001 GAUSE BLVD",
-  "provider_id" : "190040",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "SAINT TAMMANY",
-  "city" : "SLIDELL"
-}
-, {
-  "hospital_name" : "CHRISTUS HEALTH SHREVEPORT - BOSSIER",
-  "phone_number" : {
-    "phone_number" : "3186815000"
-  },
-  "zip_code" : "71105",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.71938080599995",
-    "latitude" : "32.42516071700004",
-    "human_address" : "{\"address\":\"1453 E BERT KOUNS INDUSTRIAL DRIVE\",\"city\":\"SHREVEPORT\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1453 E BERT KOUNS INDUSTRIAL DRIVE",
-  "provider_id" : "190041",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "CADDO",
-  "city" : "SHREVEPORT"
-}
-, {
-  "hospital_name" : "AMERICAN LEGION HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3377833222"
-  },
-  "zip_code" : "70526",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.35762737999994",
-    "latitude" : "30.230848982000055",
-    "human_address" : "{\"address\":\"1305 CROWLEY RAYNE HIGHWAY\",\"city\":\"CROWLEY\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1305 CROWLEY RAYNE HIGHWAY",
-  "provider_id" : "190044",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "ACADIA",
-  "city" : "CROWLEY"
-}
-, {
-  "hospital_name" : "ST TAMMANY PARISH HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9858984000"
-  },
-  "zip_code" : "70433",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.11393333999996",
-    "latitude" : "30.46891733700005",
-    "human_address" : "{\"address\":\"1202 S TYLER STREET\",\"city\":\"COVINGTON\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1202 S TYLER STREET",
-  "provider_id" : "190045",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "SAINT TAMMANY",
-  "city" : "COVINGTON"
-}
-, {
-  "hospital_name" : "TOURO INFIRMARY",
-  "phone_number" : {
-    "phone_number" : "5048977011"
-  },
-  "zip_code" : "70115",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.09279244999999",
-    "latitude" : "29.92528250400005",
-    "human_address" : "{\"address\":\"1401 FOUCHER STREET\",\"city\":\"NEW ORLEANS\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1401 FOUCHER STREET",
-  "provider_id" : "190046",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "ORLEANS",
-  "city" : "NEW ORLEANS"
-}
-, {
-  "hospital_name" : "BEAUREGARD MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3374627100"
-  },
-  "zip_code" : "70634",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.28900819099994",
-    "latitude" : "30.841862243000037",
-    "human_address" : "{\"address\":\"600 S PINE STREET\",\"city\":\"DERIDDER\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "600 S PINE STREET",
-  "provider_id" : "190050",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "BEAUREGARD",
-  "city" : "DERIDDER"
-}
-, {
-  "hospital_name" : "JENNINGS AMERICAN LEGION HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3376167000"
-  },
-  "zip_code" : "70546",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.66339518799998",
-    "latitude" : "30.238037020000036",
-    "human_address" : "{\"address\":\"1634 ELTON ROAD\",\"city\":\"JENNINGS\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1634 ELTON ROAD",
-  "provider_id" : "190053",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON DAVIS",
-  "city" : "JENNINGS"
-}
-, {
-  "hospital_name" : "IBERIA GENERAL HOSPITAL AND MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3373640441"
-  },
-  "zip_code" : "70562",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.78475188399995",
-    "latitude" : "29.988609732000043",
-    "human_address" : "{\"address\":\"2315 E MAIN STREET\",\"city\":\"NEW IBERIA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "2315 E MAIN STREET",
-  "provider_id" : "190054",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "IBERIA",
-  "city" : "NEW IBERIA"
-}
-, {
-  "hospital_name" : "LAKE CHARLES MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3374943200"
-  },
-  "zip_code" : "70601",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.19703044099998",
-    "latitude" : "30.203507862000038",
-    "human_address" : "{\"address\":\"1701 OAK PARK BLVD\",\"city\":\"LAKE CHARLES\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1701 OAK PARK BLVD",
-  "provider_id" : "190060",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "CALCASIEU",
-  "city" : "LAKE CHARLES"
-}
-, {
-  "hospital_name" : "OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2257656565"
-  },
-  "zip_code" : "70808",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.10815898699997",
-    "latitude" : "30.403016240000056",
-    "human_address" : "{\"address\":\"5000 HENNESSY BLVD\",\"city\":\"BATON ROUGE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "5000 HENNESSY BLVD",
-  "provider_id" : "190064",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "EAST BATON ROUGE",
-  "city" : "BATON ROUGE"
-}
-, {
-  "hospital_name" : "BATON ROUGE GENERAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2253877767"
-  },
-  "zip_code" : "70806",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.15312908999994",
-    "latitude" : "30.450363500000037",
-    "human_address" : "{\"address\":\"3600 FLORIDA STREET\",\"city\":\"BATON ROUGE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "3600 FLORIDA STREET",
-  "provider_id" : "190065",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "EAST BATON ROUGE",
-  "city" : "BATON ROUGE"
-}
-, {
-  "hospital_name" : "ST CHARLES PARISH HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9857856242"
-  },
-  "zip_code" : "70070",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.37169957899994",
-    "latitude" : "29.924541557000055",
-    "human_address" : "{\"address\":\"1057 PAUL MAILLARD ROAD\",\"city\":\"LULING\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1057 PAUL MAILLARD ROAD",
-  "provider_id" : "190079",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "SAINT CHARLES",
-  "city" : "LULING"
-}
-, {
-  "hospital_name" : "WEST CARROLL MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3184283237"
-  },
-  "zip_code" : "71263",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.38317046899994",
-    "latitude" : "32.86800647200005",
-    "human_address" : "{\"address\":\"706 ROSS STREET\",\"city\":\"OAK GROVE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "706 ROSS STREET",
-  "provider_id" : "190081",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "WEST CARROLL",
-  "city" : "OAK GROVE"
-}
-, {
-  "hospital_name" : "NORTHERN LOUISIANA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3182542100"
-  },
-  "zip_code" : "71270",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.63334147299997",
-    "latitude" : "32.51546692900007",
-    "human_address" : "{\"address\":\"401 EAST VAUGHN AVENUE\",\"city\":\"RUSTON\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "401 EAST VAUGHN AVENUE",
-  "provider_id" : "190086",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "LINCOLN",
-  "city" : "RUSTON"
-}
-, {
-  "hospital_name" : "SPRINGHILL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3185391000"
-  },
-  "zip_code" : "71075",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.44291079299995",
-    "latitude" : "33.010623407000026",
-    "human_address" : "{\"address\":\"2001 DOCTORS DRIVE\",\"city\":\"SPRINGHILL\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "2001 DOCTORS DRIVE",
-  "provider_id" : "190088",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "WEBSTER",
-  "city" : "SPRINGHILL"
-}
-, {
-  "hospital_name" : "WINN PARISH MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3186483000"
-  },
-  "zip_code" : "71483",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.64509231599999",
-    "latitude" : "31.92485120500004",
-    "human_address" : "{\"address\":\"301 W BOUNDARY STREET\",\"city\":\"WINNFIELD\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "301 W BOUNDARY STREET",
-  "provider_id" : "190090",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "WINN",
-  "city" : "WINNFIELD"
-}
-, {
-  "hospital_name" : "UNIVERSITY HEALTH SHREVEPORT",
-  "phone_number" : {
-    "phone_number" : "3186755000"
-  },
-  "zip_code" : "71103",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.76181257899998",
-    "latitude" : "32.48176451100005",
-    "human_address" : "{\"address\":\"1541 KINGS HIGHWAY\",\"city\":\"SHREVEPORT\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1541 KINGS HIGHWAY",
-  "provider_id" : "190098",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "CADDO",
-  "city" : "SHREVEPORT"
-}
-, {
-  "hospital_name" : "AVOYELLES HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3182538611"
-  },
-  "zip_code" : "71351",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.06447651899998",
-    "latitude" : "31.143237423000073",
-    "human_address" : "{\"address\":\"4231 HIGHWAY 1192\",\"city\":\"MARKSVILLE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "4231 HIGHWAY 1192",
-  "provider_id" : "190099",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "AVOYELLES",
-  "city" : "MARKSVILLE"
-}
-, {
-  "hospital_name" : "OUR LADY OF LOURDES REGIONAL MEDICAL CENTER, INC",
-  "phone_number" : {
-    "phone_number" : "3374702000"
-  },
-  "zip_code" : "70508",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.03800662499998",
-    "latitude" : "30.14866500900007",
-    "human_address" : "{\"address\":\"4801 AMBASSADOR CAFFERY PARKWAY\",\"city\":\"LAFAYETTE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "4801 AMBASSADOR CAFFERY PARKWAY",
-  "provider_id" : "190102",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "LAFAYETTE",
-  "city" : "LAFAYETTE"
-}
-, {
-  "hospital_name" : "OAKDALE COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3183353700"
-  },
-  "zip_code" : "71463",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.64453243899999",
-    "latitude" : "30.81574163700003",
-    "human_address" : "{\"address\":\"130 N HOSPITAL DR\",\"city\":\"OAKDALE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "130 N HOSPITAL DR",
-  "provider_id" : "190106",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "ALLEN",
-  "city" : "OAKDALE"
-}
-, {
-  "hospital_name" : "WILLIS KNIGHTON MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3182124000"
-  },
-  "zip_code" : "71103",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.77908140199997",
-    "latitude" : "32.483826331000046",
-    "human_address" : "{\"address\":\"2600 GREENWOOD ROAD\",\"city\":\"SHREVEPORT\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "2600 GREENWOOD ROAD",
-  "provider_id" : "190111",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "CADDO",
-  "city" : "SHREVEPORT"
-}
-, {
-  "hospital_name" : "HOMER MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3189272024"
-  },
-  "zip_code" : "71040",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.06241798199994",
-    "latitude" : "32.79392132100003",
-    "human_address" : "{\"address\":\"620 EAST COLLEGE STREET\",\"city\":\"HOMER\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "620 EAST COLLEGE STREET",
-  "provider_id" : "190114",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "CLAIBORNE",
-  "city" : "HOMER"
-}
-, {
-  "hospital_name" : "MOREHOUSE GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3182833600"
-  },
-  "zip_code" : "71220",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.91787433199994",
-    "latitude" : "32.77524762000007",
-    "human_address" : "{\"address\":\"323 W WALNUT\",\"city\":\"BASTROP\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "323 W WALNUT",
-  "provider_id" : "190116",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "MOREHOUSE",
-  "city" : "BASTROP"
-}
-, {
-  "hospital_name" : "DESOTO REGIONAL HEALTH SYSTEM",
-  "phone_number" : {
-    "phone_number" : "3188724610"
-  },
-  "zip_code" : "71052",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.70910680199995",
-    "latitude" : "32.03694530300004",
-    "human_address" : "{\"address\":\"207 JEFFERSON STREET\",\"city\":\"MANSFIELD\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "207 JEFFERSON STREET",
-  "provider_id" : "190118",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "DE SOTO",
-  "city" : "MANSFIELD"
-}
-, {
-  "hospital_name" : "ST FRANCIS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3189664000"
-  },
-  "zip_code" : "71201",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.11460225399998",
-    "latitude" : "32.49939481000007",
-    "human_address" : "{\"address\":\"309 JACKSON STREET\",\"city\":\"MONROE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "309 JACKSON STREET",
-  "provider_id" : "190125",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "OUACHITA",
-  "city" : "MONROE"
-}
-, {
-  "hospital_name" : "WOMAN'S HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2259271300"
-  },
-  "zip_code" : "70817",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.03805616299996",
-    "latitude" : "30.38525035500004",
-    "human_address" : "{\"address\":\"100 WOMAN'S WAY\",\"city\":\"BATON ROUGE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "100 WOMAN'S WAY",
-  "provider_id" : "190128",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "EAST BATON ROUGE",
-  "city" : "BATON ROUGE"
-}
-, {
-  "hospital_name" : "ALLEN PARISH HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3377382527"
-  },
-  "zip_code" : "70648",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.85296412199995",
-    "latitude" : "30.482367142000044",
-    "human_address" : "{\"address\":\"108 6TH AVENUE\",\"city\":\"KINDER\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "108 6TH AVENUE",
-  "provider_id" : "190133",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "ALLEN",
-  "city" : "KINDER"
-}
-, {
-  "hospital_name" : "FRANKLIN MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3184359411"
-  },
-  "zip_code" : "71295",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.70521765199999",
-    "latitude" : "32.15829929200004",
-    "human_address" : "{\"address\":\"2106 LOOP ROAD\",\"city\":\"WINNSBORO\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "2106 LOOP ROAD",
-  "provider_id" : "190140",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "FRANKLIN",
-  "city" : "WINNSBORO"
-}
-, {
-  "hospital_name" : "MINDEN MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3183772321"
-  },
-  "zip_code" : "71055",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.28575690099996",
-    "latitude" : "32.61767892100005",
-    "human_address" : "{\"address\":\"NO 1 MEDICAL PLAZA\",\"city\":\"MINDEN\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "NO 1 MEDICAL PLAZA",
-  "provider_id" : "190144",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "WEBSTER",
-  "city" : "MINDEN"
-}
-, {
-  "hospital_name" : "LASALLE GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3189929200"
-  },
-  "zip_code" : "71342",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.15835189699999",
-    "latitude" : "31.693329652000045",
-    "human_address" : "{\"address\":\"187 NINTH ST/HWY 84 WEST\",\"city\":\"JENA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "187 NINTH ST/HWY 84 WEST",
-  "provider_id" : "190145",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "LA SALLE",
-  "city" : "JENA"
-}
-, {
-  "hospital_name" : "EAST JEFFERSON GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5044544000"
-  },
-  "zip_code" : "70006",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.18155605699997",
-    "latitude" : "30.014404369000033",
-    "human_address" : "{\"address\":\"4200 HOUMA BLVD\",\"city\":\"METAIRIE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "4200 HOUMA BLVD",
-  "provider_id" : "190146",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON",
-  "city" : "METAIRIE"
-}
-, {
-  "hospital_name" : "RICHARDSON MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3187284181"
-  },
-  "zip_code" : "71269",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.75044276699998",
-    "latitude" : "32.46956421900006",
-    "human_address" : "{\"address\":\"254 HIGHWAY 3048\",\"city\":\"RAYVILLE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "254 HIGHWAY 3048",
-  "provider_id" : "190151",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "RICHLAND",
-  "city" : "RAYVILLE"
-}
-, {
-  "hospital_name" : "GLENWOOD REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3183294600"
-  },
-  "zip_code" : "71291",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.15514011799996",
-    "latitude" : "32.51344557900006",
-    "human_address" : "{\"address\":\"503 MCMILLAN ROAD\",\"city\":\"WEST MONROE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "503 MCMILLAN ROAD",
-  "provider_id" : "190160",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "OUACHITA",
-  "city" : "WEST MONROE"
-}
-, {
-  "hospital_name" : "BYRD REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3372399041"
-  },
-  "zip_code" : "71446",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.26907924399995",
-    "latitude" : "31.137319653000077",
-    "human_address" : "{\"address\":\"1020 FERTITTA BLVD\",\"city\":\"LEESVILLE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1020 FERTITTA BLVD",
-  "provider_id" : "190164",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "VERNON",
-  "city" : "LEESVILLE"
-}
-, {
-  "hospital_name" : "MERCY REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3373635684"
-  },
-  "zip_code" : "70586",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.26589644299997",
-    "latitude" : "30.684887455000023",
-    "human_address" : "{\"address\":\"800 E MAIN\",\"city\":\"VILLE PLATTE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "800 E MAIN",
-  "provider_id" : "190167",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "EVANGELINE",
-  "city" : "VILLE PLATTE"
-}
-, {
-  "hospital_name" : "RIVER PARISHES HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9856527000"
-  },
-  "zip_code" : "70068",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.48211664099995",
-    "latitude" : "30.06510294900005",
-    "human_address" : "{\"address\":\"500 RUE DE SANTE\",\"city\":\"LAPLACE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "500 RUE DE SANTE",
-  "provider_id" : "190175",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "ST JOHN THE BAPTIST",
-  "city" : "LAPLACE"
-}
-, {
-  "hospital_name" : "TULANE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5049881900"
-  },
-  "zip_code" : "70112",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.07641797099996",
-    "latitude" : "29.955429593000076",
-    "human_address" : "{\"address\":\"1415 TULANE AVE\",\"city\":\"NEW ORLEANS\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1415 TULANE AVE",
-  "provider_id" : "190176",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "ORLEANS",
-  "city" : "NEW ORLEANS"
-}
-, {
-  "hospital_name" : "LAKEVIEW REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9858674443"
-  },
-  "zip_code" : "70433",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.08127086599995",
-    "latitude" : "30.409865655000033",
-    "human_address" : "{\"address\":\"95 JUDGE TANNER BOULEVARD\",\"city\":\"COVINGTON\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "95 JUDGE TANNER BOULEVARD",
-  "provider_id" : "190177",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "SAINT TAMMANY",
-  "city" : "COVINGTON"
-}
-, {
-  "hospital_name" : "LEONARD J CHABERT MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9858731285"
-  },
-  "zip_code" : "70363",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.68865465999994",
-    "latitude" : "29.571413302000053",
-    "human_address" : "{\"address\":\"1978 INDUSTRIAL BLVD\",\"city\":\"HOUMA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1978 INDUSTRIAL BLVD",
-  "provider_id" : "190183",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "TERREBONNE",
-  "city" : "HOUMA"
-}
-, {
-  "hospital_name" : "CITIZENS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3186496106"
-  },
-  "zip_code" : "71418",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.09489103999994",
-    "latitude" : "32.07873350400007",
-    "human_address" : "{\"address\":\"7939 U S HWY 165 SOUTH\",\"city\":\"COLUMBIA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "7939 U S HWY 165 SOUTH",
-  "provider_id" : "190184",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "CALDWELL",
-  "city" : "COLUMBIA"
-}
-, {
-  "hospital_name" : "CALDWELL MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3186496111"
-  },
-  "zip_code" : "71418",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.07545930399993",
-    "latitude" : "32.10497597800003",
-    "human_address" : "{\"address\":\"411 MAIN STREET\",\"city\":\"COLUMBIA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "411 MAIN STREET",
-  "provider_id" : "190190",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "CALDWELL",
-  "city" : "COLUMBIA"
-}
-, {
-  "hospital_name" : "VILLA FELICIANA MEDICAL COMPLEX",
-  "phone_number" : {
-    "phone_number" : "2256344010"
-  },
-  "zip_code" : "70748",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.15763650499997",
-    "latitude" : "30.82967645900004",
-    "human_address" : "{\"address\":\"5002 HIGHWAY 10\",\"city\":\"JACKSON\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "5002 HIGHWAY 10",
-  "provider_id" : "190199",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "EAST FELICIANA",
-  "city" : "JACKSON"
-}
-, {
-  "hospital_name" : "LAKE AREA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3374746370"
-  },
-  "zip_code" : "70605",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.24940280199996",
-    "latitude" : "30.18131952400006",
-    "human_address" : "{\"address\":\"4200 NELSON ROAD\",\"city\":\"LAKE CHARLES\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "4200 NELSON ROAD",
-  "provider_id" : "190201",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "CALCASIEU",
-  "city" : "LAKE CHARLES"
-}
-, {
-  "hospital_name" : "OCHSNER MEDICAL CENTER - BATON ROUGE",
-  "phone_number" : {
-    "phone_number" : "2257554876"
-  },
-  "zip_code" : "70816",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.99967280699997",
-    "latitude" : "30.44111413400003",
-    "human_address" : "{\"address\":\"17000 MEDICAL CENTER DR\",\"city\":\"BATON ROUGE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "17000 MEDICAL CENTER DR",
-  "provider_id" : "190202",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "EAST BATON ROUGE",
-  "city" : "BATON ROUGE"
-}
-, {
-  "hospital_name" : "OCHSNER MEDICAL CENTER - NORTHSHORE, L L C",
-  "phone_number" : {
-    "phone_number" : "9856497070"
-  },
-  "zip_code" : "70461",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-89.74555117199998",
-    "latitude" : "30.287617521000072",
-    "human_address" : "{\"address\":\"100 MEDICAL CENTER DRIVE\",\"city\":\"SLIDELL\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "100 MEDICAL CENTER DRIVE",
-  "provider_id" : "190204",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "SAINT TAMMANY",
-  "city" : "SLIDELL"
-}
-, {
-  "hospital_name" : "THE REGIONAL MEDICAL CENTER OF ACADIANA",
-  "phone_number" : {
-    "phone_number" : "3379812949"
-  },
-  "zip_code" : "70506",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.07529538699998",
-    "latitude" : "30.198434381000027",
-    "human_address" : "{\"address\":\"2810 AMBASSADOR CAFFERY PARKWAY\",\"city\":\"LAFAYETTE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "2810 AMBASSADOR CAFFERY PARKWAY",
-  "provider_id" : "190205",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "LAFAYETTE",
-  "city" : "LAFAYETTE"
-}
-, {
-  "hospital_name" : "EAST CARROLL PARISH HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3185594023"
-  },
-  "zip_code" : "71254",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.17169907599998",
-    "latitude" : "32.81100643700006",
-    "human_address" : "{\"address\":\"336 NORTH HOOD STREET\",\"city\":\"LAKE PROVIDENCE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "336 NORTH HOOD STREET",
-  "provider_id" : "190208",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "EAST CARROLL",
-  "city" : "LAKE PROVIDENCE"
-}
-, {
-  "hospital_name" : "SABINE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3182561232"
-  },
-  "zip_code" : "71449",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.47098659499994",
-    "latitude" : "31.560514435000073",
-    "human_address" : "{\"address\":\"240 HIGHLAND DRIVE\",\"city\":\"MANY\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "240 HIGHLAND DRIVE",
-  "provider_id" : "190218",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "SABINE",
-  "city" : "MANY"
-}
-, {
-  "hospital_name" : "WILLIS KNIGHTON BOSSIER HEALTH CENTER",
-  "phone_number" : {
-    "phone_number" : "3182127000"
-  },
-  "zip_code" : "71111",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.71735136099994",
-    "latitude" : "32.55754816900003",
-    "human_address" : "{\"address\":\"2400 HOSPITAL DR\",\"city\":\"BOSSIER CITY\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "2400 HOSPITAL DR",
-  "provider_id" : "190236",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "BOSSIER",
-  "city" : "BOSSIER CITY"
-}
-, {
-  "hospital_name" : "PHYSICIANS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9858531390"
-  },
-  "zip_code" : "70360",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.75019572799994",
-    "latitude" : "29.599964541000077",
-    "human_address" : "{\"address\":\"218 CORPORATE DRIVE\",\"city\":\"HOUMA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "218 CORPORATE DRIVE",
-  "provider_id" : "190241",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "TERREBONNE",
-  "city" : "HOUMA"
-}
-, {
-  "hospital_name" : "ST ELIZABETH HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2256475000"
-  },
-  "zip_code" : "70737",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.93218020399996",
-    "latitude" : "30.21079258800006",
-    "human_address" : "{\"address\":\"1125 WEST HIGHWAY 30\",\"city\":\"GONZALES\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1125 WEST HIGHWAY 30",
-  "provider_id" : "190242",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "ASCENSION",
-  "city" : "GONZALES"
-}
-, {
-  "hospital_name" : "MONROE SURGICAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3184100002"
-  },
-  "zip_code" : "71201",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.10164254099999",
-    "latitude" : "32.53617103700003",
-    "human_address" : "{\"address\":\"2408 BROADMOOR BLVD\",\"city\":\"MONROE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "2408 BROADMOOR BLVD",
-  "provider_id" : "190245",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "OUACHITA",
-  "city" : "MONROE"
-}
-, {
-  "hospital_name" : "P & S SURGICAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3183884040"
-  },
-  "zip_code" : "71201",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.11433146799999",
-    "latitude" : "32.50146430900003",
-    "human_address" : "{\"address\":\"312 GRAMMONT ST SUITE 101\",\"city\":\"MONROE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "312 GRAMMONT ST SUITE 101",
-  "provider_id" : "190246",
-  "hospital_ownership" : "Physician",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "OUACHITA",
-  "city" : "MONROE"
-}
-, {
-  "hospital_name" : "LOUISIANA  HEART HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9856907500"
-  },
-  "zip_code" : "70445",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-89.91657957999996",
-    "latitude" : "30.358139229000074",
-    "human_address" : "{\"address\":\"64030 HIGHWAY 434\",\"city\":\"LACOMBE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "64030 HIGHWAY 434",
-  "provider_id" : "190250",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "SAINT TAMMANY",
-  "city" : "LACOMBE"
-}
-, {
-  "hospital_name" : "SURGICAL SPECIALTY CENTER OF BATON ROUGE",
-  "phone_number" : {
-    "phone_number" : "2254085730"
-  },
-  "zip_code" : "70810",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.09961136099997",
-    "latitude" : "30.375536624000063",
-    "human_address" : "{\"address\":\"8080 BLUEBONNET BLVD\",\"city\":\"BATON ROUGE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "8080 BLUEBONNET BLVD",
-  "provider_id" : "190251",
-  "hospital_ownership" : "Physician",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "EAST BATON ROUGE",
-  "city" : "BATON ROUGE"
-}
-, {
-  "hospital_name" : "PARK PLACE SURGICAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3372378119"
-  },
-  "zip_code" : "70508",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.03791762399999",
-    "latitude" : "30.148618493000072",
-    "human_address" : "{\"address\":\"4811 AMBASSADOR CAFFERY PARKWAY\",\"city\":\"LAFAYETTE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "4811 AMBASSADOR CAFFERY PARKWAY",
-  "provider_id" : "190255",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "LAFAYETTE",
-  "city" : "LAFAYETTE"
-}
-, {
-  "hospital_name" : "CYPRESS POINTE HOSPITAL EAST",
-  "phone_number" : {
-    "phone_number" : "5046908200"
-  },
-  "zip_code" : "70458",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-89.76921180099998",
-    "latitude" : "30.290949175000037",
-    "human_address" : "{\"address\":\"989 ROBERT BLVD\",\"city\":\"SLIDELL\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "989 ROBERT BLVD",
-  "provider_id" : "190256",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "SAINT TAMMANY",
-  "city" : "SLIDELL"
-}
-, {
-  "hospital_name" : "GREEN CLINIC SURGICAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3182327700"
-  },
-  "zip_code" : "71270",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.63087328299997",
-    "latitude" : "32.51778687600006",
-    "human_address" : "{\"address\":\"1118 FARMERVILLE STREET\",\"city\":\"RUSTON\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1118 FARMERVILLE STREET",
-  "provider_id" : "190257",
-  "hospital_ownership" : "Physician",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "LINCOLN",
-  "city" : "RUSTON"
-}
-, {
-  "hospital_name" : "LAFAYETTE SURGICAL SPECIALTY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3377694100"
-  },
-  "zip_code" : "70508",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.02803520899994",
-    "latitude" : "30.175789164000037",
-    "human_address" : "{\"address\":\"1101 KALISTE SALOOM RD\",\"city\":\"LAFAYETTE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1101 KALISTE SALOOM RD",
-  "provider_id" : "190259",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "LAFAYETTE",
-  "city" : "LAFAYETTE"
-}
-, {
-  "hospital_name" : "OUACHITA COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3183221339"
-  },
-  "zip_code" : "71291",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.14954750499999",
-    "latitude" : "32.50152537900004",
-    "human_address" : "{\"address\":\"1275 GLENNWOOD DRIVE\",\"city\":\"WEST MONROE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1275 GLENNWOOD DRIVE",
-  "provider_id" : "190261",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "OUACHITA",
-  "city" : "WEST MONROE"
-}
-, {
-  "hospital_name" : "HEART HOSPITAL OF LAFAYETTE",
-  "phone_number" : {
-    "phone_number" : "3375211000"
-  },
-  "zip_code" : "70508",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.02805555599997",
-    "latitude" : "30.17572692500005",
-    "human_address" : "{\"address\":\"1105 KALISTE SALOOM ROAD\",\"city\":\"LAFAYETTE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1105 KALISTE SALOOM ROAD",
-  "provider_id" : "190263",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "LAFAYETTE",
-  "city" : "LAFAYETTE"
-}
-, {
-  "hospital_name" : "THE NEUROMEDICAL CENTER HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2257639900"
-  },
-  "zip_code" : "70810",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.18698943099997",
-    "latitude" : "30.44334244500004",
-    "human_address" : "{\"address\":\"10105 PARK ROW CIRCLE\",\"city\":\"BATON ROUGE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "10105 PARK ROW CIRCLE",
-  "provider_id" : "190266",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "EAST BATON ROUGE",
-  "city" : "BATON ROUGE"
-}
-, {
-  "hospital_name" : "FAIRWAY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9858013010"
-  },
-  "zip_code" : "70433",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.08304466399994",
-    "latitude" : "30.407919178000043",
-    "human_address" : "{\"address\":\"67252 INDUSTRY LANE\",\"city\":\"COVINGTON\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "67252 INDUSTRY LANE",
-  "provider_id" : "190267",
-  "hospital_ownership" : "Physician",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "SAINT TAMMANY",
-  "city" : "COVINGTON"
-}
-, {
-  "hospital_name" : "LAFAYETTE GENERAL SURGICAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3372898095"
-  },
-  "zip_code" : "70503",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.01378681399996",
-    "latitude" : "30.203746385000045",
-    "human_address" : "{\"address\":\"1000 W PINHOOK RD SUITE 100\",\"city\":\"LAFAYETTE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1000 W PINHOOK RD SUITE 100",
-  "provider_id" : "190268",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "LAFAYETTE",
-  "city" : "LAFAYETTE"
-}
-, {
-  "hospital_name" : "SOUTHERN SURGICAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9856410600"
-  },
-  "zip_code" : "70458",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-89.75408632499995",
-    "latitude" : "30.27463340500003",
-    "human_address" : "{\"address\":\"1700 W LINDBERG DRIVE\",\"city\":\"SLIDELL\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1700 W LINDBERG DRIVE",
-  "provider_id" : "190270",
-  "hospital_ownership" : "Physician",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "SAINT TAMMANY",
-  "city" : "SLIDELL"
-}
-, {
-  "hospital_name" : "OCHSNER MEDICAL CENTER-KENNER LLC",
-  "phone_number" : {
-    "phone_number" : "5044648065"
-  },
-  "zip_code" : "70065",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.27283340599996",
-    "latitude" : "30.023241167000037",
-    "human_address" : "{\"address\":\"180 WEST ESPLANADE AVENUE\",\"city\":\"KENNER\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "180 WEST ESPLANADE AVENUE",
-  "provider_id" : "190274",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON",
-  "city" : "KENNER"
-}
-, {
-  "hospital_name" : "SPECIALISTS HOSPITAL SHREVEPORT",
-  "phone_number" : {
-    "phone_number" : "3182133800"
-  },
-  "zip_code" : "71101",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.74605354799996",
-    "latitude" : "32.49736218500004",
-    "human_address" : "{\"address\":\"1500 LINE AVENUE\",\"city\":\"SHREVEPORT\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1500 LINE AVENUE",
-  "provider_id" : "190278",
-  "hospital_ownership" : "Physician",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "CADDO",
-  "city" : "SHREVEPORT"
-}
-, {
-  "hospital_name" : "DOCTORS HOSPITAL AT DEER CREEK LLC",
-  "phone_number" : {
-    "phone_number" : "3373925088"
-  },
-  "zip_code" : "71446",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.26951049999997",
-    "latitude" : "31.137041070000066",
-    "human_address" : "{\"address\":\"815 SOUTH 10TH STREET\",\"city\":\"LEESVILLE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "815 SOUTH 10TH STREET",
-  "provider_id" : "190297",
-  "hospital_ownership" : "Physician",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "VERNON",
-  "city" : "LEESVILLE"
-}
-, {
-  "hospital_name" : "CENTRAL LOUISIANA SURGICAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3184496400"
-  },
-  "zip_code" : "71301",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.46701842899995",
-    "latitude" : "31.314877912000043",
-    "human_address" : "{\"address\":\"651 NORTH BOLTON AVE\",\"city\":\"ALEXANDRIA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "651 NORTH BOLTON AVE",
-  "provider_id" : "190298",
-  "hospital_ownership" : "Physician",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "RAPIDES",
-  "city" : "ALEXANDRIA"
-}
-, {
-  "hospital_name" : "CYPRESS POINTE SURGICAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9855106200"
-  },
-  "zip_code" : "70403",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.41426185099994",
-    "latitude" : "30.476678454000023",
-    "human_address" : "{\"address\":\"42570 SOUTH AIRPORT RD\",\"city\":\"HAMMOND\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "42570 SOUTH AIRPORT RD",
-  "provider_id" : "190303",
-  "hospital_ownership" : "Physician",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "TANGIPAHOA",
-  "city" : "HAMMOND"
-}
-, {
-  "hospital_name" : "IBERIA REHABILITATION HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3373646923"
-  },
-  "zip_code" : "70560",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.80708373799996",
-    "latitude" : "29.98987124100006",
-    "human_address" : "{\"address\":\"532 JEFFERSON TERRACE STREET\",\"city\":\"NEW IBERIA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "532 JEFFERSON TERRACE STREET",
-  "provider_id" : "190304",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "IBERIA",
-  "city" : "NEW IBERIA"
-}
-, {
-  "hospital_name" : "SOUTH CAMERON MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3375424111"
-  },
-  "zip_code" : "70631",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.16516128999996",
-    "latitude" : "29.807190736000052",
-    "human_address" : "{\"address\":\"5360 WEST CREOLE HWY\",\"city\":\"CAMERON\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "5360 WEST CREOLE HWY",
-  "provider_id" : "190307",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "CAMERON",
-  "city" : "CAMERON"
-}
-, {
-  "hospital_name" : "ST BERNARD PARISH HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5048269500"
-  },
-  "zip_code" : "70043",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-89.98500724699994",
-    "latitude" : "29.95563059600005",
-    "human_address" : "{\"address\":\"8000 WEST JUDGE PEREZ DRIVE\",\"city\":\"CHALMETTE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "8000 WEST JUDGE PEREZ DRIVE",
-  "provider_id" : "190308",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "SAINT BERNARD",
-  "city" : "CHALMETTE"
-}
-, {
-  "hospital_name" : "ALEXANDRIA VA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3184730010"
-  },
-  "zip_code" : "71360",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.43432659199999",
-    "latitude" : "31.35521393700003",
-    "human_address" : "{\"address\":\"2495 SHREVEPORT HIGHWAY 71 N\",\"city\":\"PINEVILLE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "2495 SHREVEPORT HIGHWAY 71 N",
-  "provider_id" : "19043F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "RAPIDES",
-  "city" : "PINEVILLE"
-}
-, {
-  "hospital_name" : "OVERTON BROOKS VA MEDICAL CENTER - SHREVEPORT",
-  "phone_number" : {
-    "phone_number" : "3184246037"
-  },
-  "zip_code" : "71101",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.72273427999994",
-    "latitude" : "32.500012455000046",
-    "human_address" : "{\"address\":\"510 EAST STONER AVENUE\",\"city\":\"SHREVEPORT\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "510 EAST STONER AVENUE",
-  "provider_id" : "19048F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "LA",
-  "emergency_services" : false,
-  "county_name" : "CADDO",
-  "city" : "SHREVEPORT"
-}
-, {
-  "hospital_name" : "ST HELENA PARISH HOSPITAL CAH",
-  "phone_number" : {
-    "phone_number" : "2252226111"
-  },
-  "zip_code" : "70441",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.66631601099994",
-    "latitude" : "30.83387949100006",
-    "human_address" : "{\"address\":\"16874 HIGHWAY 43\",\"city\":\"GREENSBURG\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "16874 HIGHWAY 43",
-  "provider_id" : "191300",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "SAINT HELENA",
-  "city" : "GREENSBURG"
-}
-, {
-  "hospital_name" : "UNION GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3183689751"
-  },
-  "zip_code" : "71241",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.39299959899995",
-    "latitude" : "32.786457288000065",
-    "human_address" : "{\"address\":\"901 JAMES AVE\",\"city\":\"FARMERVILLE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "901 JAMES AVE",
-  "provider_id" : "191301",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "UNION",
-  "city" : "FARMERVILLE"
-}
-, {
-  "hospital_name" : "ST MARTIN HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3373322178"
-  },
-  "zip_code" : "70517",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.89016656399997",
-    "latitude" : "30.28189874700007",
-    "human_address" : "{\"address\":\"210 CHAMPAGNE BOULEVARD\",\"city\":\"BREAUX BRIDGE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "210 CHAMPAGNE BOULEVARD",
-  "provider_id" : "191302",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "SAINT MARTIN",
-  "city" : "BREAUX BRIDGE"
-}
-, {
-  "hospital_name" : "ASSUMPTION COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9853693600"
-  },
-  "zip_code" : "70390",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.07276768499997",
-    "latitude" : "29.958613155000023",
-    "human_address" : "{\"address\":\"135 HIGHWAY 402\",\"city\":\"NAPOLEONVILLE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "135 HIGHWAY 402",
-  "provider_id" : "191303",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "ASSUMPTION",
-  "city" : "NAPOLEONVILLE"
-}
-, {
-  "hospital_name" : "NORTH CADDO MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3183753235"
-  },
-  "zip_code" : "71082",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.98956756899997",
-    "latitude" : "32.863618417000055",
-    "human_address" : "{\"address\":\"1000 SOUTH SPRUCE ST\",\"city\":\"VIVIAN\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1000 SOUTH SPRUCE ST",
-  "provider_id" : "191304",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "CADDO",
-  "city" : "VIVIAN"
-}
-, {
-  "hospital_name" : "ST JAMES PARISH HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2258695512"
-  },
-  "zip_code" : "70071",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.70214672799995",
-    "latitude" : "30.05176502200004",
-    "human_address" : "{\"address\":\"1645 LUTCHER AVENUE\",\"city\":\"LUTCHER\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1645 LUTCHER AVENUE",
-  "provider_id" : "191305",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "SAINT JAMES",
-  "city" : "LUTCHER"
-}
-, {
-  "hospital_name" : "WEST FELICIANA PARISH HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2256353811"
-  },
-  "zip_code" : "70775",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.36605874199995",
-    "latitude" : "30.782650623000052",
-    "human_address" : "{\"address\":\"5266 COMMERCE STREET\",\"city\":\"SAINT FRANCISVILLE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "5266 COMMERCE STREET",
-  "provider_id" : "191306",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "WEST FELICIANA",
-  "city" : "SAINT FRANCISVILLE"
-}
-, {
-  "hospital_name" : "FRANKLIN FOUNDATION HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3378280760"
-  },
-  "zip_code" : "70538",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.52514972399996",
-    "latitude" : "29.801986529000033",
-    "human_address" : "{\"address\":\"1097 NORTHWEST BLVD\",\"city\":\"FRANKLIN\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1097 NORTHWEST BLVD",
-  "provider_id" : "191310",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "SAINT MARY",
-  "city" : "FRANKLIN"
-}
-, {
-  "hospital_name" : "CHRISTUS COUSHATTA HEALTH CARE CENTER",
-  "phone_number" : {
-    "phone_number" : "3189322000"
-  },
-  "zip_code" : "71019",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-93.34424596599996",
-    "latitude" : "32.020842954000045",
-    "human_address" : "{\"address\":\"1635 MARVEL STREET\",\"city\":\"COUSHATTA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1635 MARVEL STREET",
-  "provider_id" : "191312",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "RED RIVER",
-  "city" : "COUSHATTA"
-}
-, {
-  "hospital_name" : "HARDTNER MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3184953131"
-  },
-  "zip_code" : "71465",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.27760249099998",
-    "latitude" : "31.860563085000024",
-    "human_address" : "{\"address\":\"1102 N PINE ROAD\",\"city\":\"OLLA\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1102 N PINE ROAD",
-  "provider_id" : "191315",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "LA SALLE",
-  "city" : "OLLA"
-}
-, {
-  "hospital_name" : "POINTE COUPEE GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2256386331"
-  },
-  "zip_code" : "70760",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.46058421999999",
-    "latitude" : "30.682966277000048",
-    "human_address" : "{\"address\":\"2202 FALSE RIVER DRIVE\",\"city\":\"NEW ROADS\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "2202 FALSE RIVER DRIVE",
-  "provider_id" : "191316",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "POINTE COUPEE",
-  "city" : "NEW ROADS"
-}
-, {
-  "hospital_name" : "JACKSON PARISH HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3182594435"
-  },
-  "zip_code" : "71251",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.71990541999998",
-    "latitude" : "32.252439684000024",
-    "human_address" : "{\"address\":\"165 BEECH SPRINGS ROAD\",\"city\":\"JONESBORO\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "165 BEECH SPRINGS ROAD",
-  "provider_id" : "191317",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "JACKSON",
-  "city" : "JONESBORO"
-}
-, {
-  "hospital_name" : "RIVERLAND MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3187576551"
-  },
-  "zip_code" : "71334",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.55436797399994",
-    "latitude" : "31.629853857000057",
-    "human_address" : "{\"address\":\"1700 WALLACE BLVD\",\"city\":\"FERRIDAY\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1700  WALLACE BLVD",
-  "provider_id" : "191318",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "CONCORDIA",
-  "city" : "FERRIDAY"
-}
-, {
-  "hospital_name" : "ACADIA ST LANDRY",
-  "phone_number" : {
-    "phone_number" : "3376845435"
-  },
-  "zip_code" : "70525",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.21139644399994",
-    "latitude" : "30.394551256000057",
-    "human_address" : "{\"address\":\"810 SOUTH BROADWAY STREET\",\"city\":\"CHURCH POINT\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "810 SOUTH BROADWAY STREET",
-  "provider_id" : "191319",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "ACADIA",
-  "city" : "CHURCH POINT"
-}
-, {
-  "hospital_name" : "LALLIE KEMP MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9858789421"
-  },
-  "zip_code" : "70443",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.49714844799996",
-    "latitude" : "30.622616590000064",
-    "human_address" : "{\"address\":\"52579 HIGHWAY 51 SOUTH\",\"city\":\"INDEPENDENCE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "52579 HIGHWAY 51 SOUTH",
-  "provider_id" : "191321",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "TANGIPAHOA",
-  "city" : "INDEPENDENCE"
-}
-, {
-  "hospital_name" : "ABROM KAPLAN MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3376438300"
-  },
-  "zip_code" : "70548",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.29654701799996",
-    "latitude" : "30.00740093400003",
-    "human_address" : "{\"address\":\"1310 WEST SEVENTH STREET\",\"city\":\"KAPLAN\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "1310 WEST SEVENTH STREET",
-  "provider_id" : "191322",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "VERMILION",
-  "city" : "KAPLAN"
-}
-, {
-  "hospital_name" : "RICHLAND PARISH HOSPITAL-DELHI",
-  "phone_number" : {
-    "phone_number" : "3188785171"
-  },
-  "zip_code" : "71232",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-91.49402389199997",
-    "latitude" : "32.45315217700005",
-    "human_address" : "{\"address\":\"407 CINCINNATI STREET\",\"city\":\"DELHI\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "407 CINCINNATI STREET",
-  "provider_id" : "191323",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "RICHLAND",
-  "city" : "DELHI"
-}
-, {
-  "hospital_name" : "OCHSNER ST ANNE GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9855378377"
-  },
-  "zip_code" : "70394",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.56424195699998",
-    "latitude" : "29.703452859000038",
-    "human_address" : "{\"address\":\"4608 HIGHWAY 1\",\"city\":\"RACELAND\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "4608 HIGHWAY 1",
-  "provider_id" : "191324",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "LAFOURCHE",
-  "city" : "RACELAND"
-}
-, {
-  "hospital_name" : "LADY OF THE SEA GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9856326401"
-  },
-  "zip_code" : "70345",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-90.31045023399997",
-    "latitude" : "29.45665044800006",
-    "human_address" : "{\"address\":\"200 WEST 134TH PLACE\",\"city\":\"CUT OFF\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "200 WEST 134TH PLACE",
-  "provider_id" : "191325",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "LAFOURCHE",
-  "city" : "CUT OFF"
-}
-, {
-  "hospital_name" : "REEVES MEMORIAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3182859066"
-  },
-  "zip_code" : "71222",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-92.65665356999995",
-    "latitude" : "32.824362869000026",
-    "human_address" : "{\"address\":\"409 FIRST STREET\",\"city\":\"BERNICE\",\"state\":\"LA\",\"zip\":\"\"}"
-  },
-  "address" : "409 FIRST STREET",
-  "provider_id" : "191326",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "LA",
-  "emergency_services" : true,
-  "county_name" : "UNION",
-  "city" : "BERNICE"
-}
- ]
+[
+    {
+        "address": "1701 OAK PARK BLVD",
+        "city": "LAKE CHARLES",
+        "county_name": "CALCASIEU",
+        "emergency_services": true,
+        "hospital_name": "LAKE CHARLES MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.193293,
+                30.203261
+            ],
+            "type": "Point"
+        },
+        "location_address": "1701 OAK PARK BLVD",
+        "location_city": "LAKE CHARLES",
+        "location_state": "LA",
+        "location_zip": "70601",
+        "phone_number": "3374943000",
+        "provider_id": "190060",
+        "state": "LA",
+        "zip_code": "70601"
+    },
+    {
+        "address": "715 SOUTH PINE STREET",
+        "city": "VIVIAN",
+        "county_name": "CADDO",
+        "emergency_services": true,
+        "hospital_name": "NORTH CADDO MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -93.988168,
+                32.864968
+            ],
+            "type": "Point"
+        },
+        "location_address": "715 SOUTH PINE STREET",
+        "location_city": "VIVIAN",
+        "location_state": "LA",
+        "location_zip": "71082",
+        "phone_number": "3183753235",
+        "provider_id": "191304",
+        "state": "LA",
+        "zip_code": "71082"
+    },
+    {
+        "address": "600 NORTH LEWIS STREET",
+        "city": "NEW IBERIA",
+        "county_name": "IBERIA",
+        "emergency_services": true,
+        "hospital_name": "DAUTERIVE HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.795591,
+                30.007689
+            ],
+            "type": "Point"
+        },
+        "location_address": "600 NORTH LEWIS STREET",
+        "location_city": "NEW IBERIA",
+        "location_state": "LA",
+        "location_zip": "70563",
+        "phone_number": "3373657311",
+        "provider_id": "190003",
+        "state": "LA",
+        "zip_code": "70563"
+    },
+    {
+        "address": "5360 WEST CREOLE HWY",
+        "city": "CAMERON",
+        "county_name": "CAMERON",
+        "emergency_services": true,
+        "hospital_name": "SOUTH CAMERON MEMORIAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.155801,
+                29.808415
+            ],
+            "type": "Point"
+        },
+        "location_address": "5360 WEST CREOLE HWY",
+        "location_city": "CAMERON",
+        "location_state": "LA",
+        "location_zip": "70631",
+        "phone_number": "3375424111",
+        "provider_id": "190307",
+        "state": "LA",
+        "zip_code": "70631"
+    },
+    {
+        "address": "2400 HOSPITAL DR",
+        "city": "BOSSIER CITY",
+        "county_name": "BOSSIER",
+        "emergency_services": true,
+        "hospital_name": "WILLIS KNIGHTON BOSSIER HEALTH CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.718216,
+                32.55753
+            ],
+            "type": "Point"
+        },
+        "location_address": "2400 HOSPITAL DR",
+        "location_city": "BOSSIER CITY",
+        "location_state": "LA",
+        "location_zip": "71111",
+        "phone_number": "3182127000",
+        "provider_id": "190236",
+        "state": "LA",
+        "zip_code": "71111"
+    },
+    {
+        "address": "1310 WEST SEVENTH STREET",
+        "city": "KAPLAN",
+        "county_name": "VERMILION",
+        "emergency_services": true,
+        "hospital_name": "ABROM KAPLAN MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -92.296516,
+                30.007352
+            ],
+            "type": "Point"
+        },
+        "location_address": "1310 WEST SEVENTH STREET",
+        "location_city": "KAPLAN",
+        "location_state": "LA",
+        "location_zip": "70548",
+        "phone_number": "3376438300",
+        "provider_id": "191322",
+        "state": "LA",
+        "zip_code": "70548"
+    },
+    {
+        "address": "5002 HIGHWAY 10",
+        "city": "JACKSON",
+        "county_name": "EAST FELICIANA",
+        "emergency_services": false,
+        "hospital_name": "VILLA FELICIANA MEDICAL COMPLEX",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.178356,
+                30.831248
+            ],
+            "type": "Point"
+        },
+        "location_address": "5002 HIGHWAY 10",
+        "location_city": "JACKSON",
+        "location_state": "LA",
+        "location_zip": "70748",
+        "phone_number": "2256344010",
+        "provider_id": "190199",
+        "state": "LA",
+        "zip_code": "70748"
+    },
+    {
+        "address": "1118 FARMERVILLE STREET",
+        "city": "RUSTON",
+        "county_name": "LINCOLN",
+        "emergency_services": false,
+        "hospital_name": "GREEN CLINIC SURGICAL HOSPITAL",
+        "hospital_ownership": "Physician",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.63086,
+                32.51753
+            ],
+            "type": "Point"
+        },
+        "location_address": "1118 FARMERVILLE STREET",
+        "location_city": "RUSTON",
+        "location_state": "LA",
+        "location_zip": "71270",
+        "phone_number": "3182327700",
+        "provider_id": "190257",
+        "state": "LA",
+        "zip_code": "71270"
+    },
+    {
+        "address": "15790 PAUL VEGA MD DRIVE",
+        "city": "HAMMOND",
+        "county_name": "TANGIPAHOA",
+        "emergency_services": true,
+        "hospital_name": "NORTH OAKS MEDICAL CENTER, L L C",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.459166,
+                30.466368
+            ],
+            "type": "Point"
+        },
+        "location_address": "15790 PAUL VEGA MD DRIVE",
+        "location_city": "HAMMOND",
+        "location_state": "LA",
+        "location_zip": "70403",
+        "phone_number": "9853452700",
+        "provider_id": "190015",
+        "state": "LA",
+        "zip_code": "70403"
+    },
+    {
+        "address": "207 JEFFERSON STREET",
+        "city": "MANSFIELD",
+        "county_name": "DE SOTO",
+        "emergency_services": true,
+        "hospital_name": "DESOTO REGIONAL HEALTH SYSTEM",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.709136,
+                32.035279
+            ],
+            "type": "Point"
+        },
+        "location_address": "207 JEFFERSON STREET",
+        "location_city": "MANSFIELD",
+        "location_state": "LA",
+        "location_zip": "71052",
+        "phone_number": "3188724610",
+        "provider_id": "190118",
+        "state": "LA",
+        "zip_code": "71052"
+    },
+    {
+        "address": "433 PLAZA STREET",
+        "city": "BOGALUSA",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "OUR LADY OF THE ANGELS HOSPITAL",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -89.86841,
+                30.778386
+            ],
+            "type": "Point"
+        },
+        "location_address": "433 PLAZA STREET",
+        "location_city": "BOGALUSA",
+        "location_state": "LA",
+        "location_zip": "70427",
+        "phone_number": "9857306706",
+        "provider_id": "190312",
+        "state": "LA",
+        "zip_code": "70427"
+    },
+    {
+        "address": "17000 MEDICAL CENTER DR",
+        "city": "BATON ROUGE",
+        "county_name": "EAST BATON ROUGE",
+        "emergency_services": true,
+        "hospital_name": "OCHSNER MEDICAL CENTER - BATON ROUGE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.00008,
+                30.441083
+            ],
+            "type": "Point"
+        },
+        "location_address": "17000 MEDICAL CENTER DR",
+        "location_city": "BATON ROUGE",
+        "location_state": "LA",
+        "location_zip": "70816",
+        "phone_number": "2257554876",
+        "provider_id": "190202",
+        "state": "LA",
+        "zip_code": "70816"
+    },
+    {
+        "address": "2810 AMBASSADOR CAFFERY PARKWAY",
+        "city": "LAFAYETTE",
+        "county_name": "LAFAYETTE",
+        "emergency_services": true,
+        "hospital_name": "THE REGIONAL MEDICAL CENTER OF ACADIANA",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.075264,
+                30.198006
+            ],
+            "type": "Point"
+        },
+        "location_address": "2810 AMBASSADOR CAFFERY PARKWAY",
+        "location_city": "LAFAYETTE",
+        "location_state": "LA",
+        "location_zip": "70506",
+        "phone_number": "3379812949",
+        "provider_id": "190205",
+        "state": "LA",
+        "zip_code": "70506"
+    },
+    {
+        "address": "1105 KALISTE SALOOM ROAD",
+        "city": "LAFAYETTE",
+        "county_name": "LAFAYETTE",
+        "emergency_services": true,
+        "hospital_name": "HEART HOSPITAL OF LAFAYETTE",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.028537,
+                30.174353
+            ],
+            "type": "Point"
+        },
+        "location_address": "1105 KALISTE SALOOM ROAD",
+        "location_city": "LAFAYETTE",
+        "location_state": "LA",
+        "location_zip": "70508",
+        "phone_number": "3375211000",
+        "provider_id": "190263",
+        "state": "LA",
+        "zip_code": "70508"
+    },
+    {
+        "address": "3600 FLORIDA STREET",
+        "city": "BATON ROUGE",
+        "county_name": "EAST BATON ROUGE",
+        "emergency_services": true,
+        "hospital_name": "BATON ROUGE GENERAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.154638,
+                30.450336
+            ],
+            "type": "Point"
+        },
+        "location_address": "3600 FLORIDA STREET",
+        "location_city": "BATON ROUGE",
+        "location_state": "LA",
+        "location_zip": "70806",
+        "phone_number": "2253877767",
+        "provider_id": "190065",
+        "state": "LA",
+        "zip_code": "70806"
+    },
+    {
+        "address": "989 ROBERT BLVD",
+        "city": "SLIDELL",
+        "county_name": "SAINT TAMMANY",
+        "emergency_services": false,
+        "hospital_name": "STERLING SURGICAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -89.76924,
+                30.290964
+            ],
+            "type": "Point"
+        },
+        "location_address": "989 ROBERT BLVD",
+        "location_city": "SLIDELL",
+        "location_state": "LA",
+        "location_zip": "70458",
+        "phone_number": "5046908200",
+        "provider_id": "190256",
+        "state": "LA",
+        "zip_code": "70458"
+    },
+    {
+        "address": "5000 HENNESSY BLVD",
+        "city": "BATON ROUGE",
+        "county_name": "EAST BATON ROUGE",
+        "emergency_services": true,
+        "hospital_name": "OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.111528,
+                30.401318
+            ],
+            "type": "Point"
+        },
+        "location_address": "5000 HENNESSY BLVD",
+        "location_city": "BATON ROUGE",
+        "location_state": "LA",
+        "location_zip": "70808",
+        "phone_number": "2257656565",
+        "provider_id": "190064",
+        "state": "LA",
+        "zip_code": "70808"
+    },
+    {
+        "address": "901 JAMES AVE",
+        "city": "FARMERVILLE",
+        "county_name": "UNION",
+        "emergency_services": true,
+        "hospital_name": "UNION GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -92.393855,
+                32.786408
+            ],
+            "type": "Point"
+        },
+        "location_address": "901 JAMES AVE",
+        "location_city": "FARMERVILLE",
+        "location_state": "LA",
+        "location_zip": "71241",
+        "phone_number": "3183689751",
+        "provider_id": "191301",
+        "state": "LA",
+        "zip_code": "71241"
+    },
+    {
+        "address": "4231 HIGHWAY 1192",
+        "city": "MARKSVILLE",
+        "county_name": "AVOYELLES",
+        "emergency_services": true,
+        "hospital_name": "AVOYELLES HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.064433,
+                31.143128
+            ],
+            "type": "Point"
+        },
+        "location_address": "4231 HIGHWAY 1192",
+        "location_city": "MARKSVILLE",
+        "location_state": "LA",
+        "location_zip": "71351",
+        "phone_number": "3182538611",
+        "provider_id": "190099",
+        "state": "LA",
+        "zip_code": "71351"
+    },
+    {
+        "address": "6300 MAIN STREET",
+        "city": "ZACHARY",
+        "county_name": "EAST BATON ROUGE",
+        "emergency_services": true,
+        "hospital_name": "LANE REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.136768,
+                30.64996
+            ],
+            "type": "Point"
+        },
+        "location_address": "6300 MAIN STREET",
+        "location_city": "ZACHARY",
+        "location_state": "LA",
+        "location_zip": "70791",
+        "phone_number": "2256584000",
+        "provider_id": "190020",
+        "state": "LA",
+        "zip_code": "70791"
+    },
+    {
+        "address": "2202 FALSE RIVER DRIVE",
+        "city": "NEW ROADS",
+        "county_name": "POINTE COUPEE",
+        "emergency_services": true,
+        "hospital_name": "POINTE COUPEE GENERAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -91.461372,
+                30.682516
+            ],
+            "type": "Point"
+        },
+        "location_address": "2202 FALSE RIVER DRIVE",
+        "location_city": "NEW ROADS",
+        "location_state": "LA",
+        "location_zip": "70760",
+        "phone_number": "2253686386",
+        "provider_id": "191316",
+        "state": "LA",
+        "zip_code": "70760"
+    },
+    {
+        "address": "301 W BOUNDARY STREET",
+        "city": "WINNFIELD",
+        "county_name": "WINN",
+        "emergency_services": true,
+        "hospital_name": "WINN PARISH MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.645139,
+                31.924979
+            ],
+            "type": "Point"
+        },
+        "location_address": "301 W BOUNDARY STREET",
+        "location_city": "WINNFIELD",
+        "location_state": "LA",
+        "location_zip": "71483",
+        "phone_number": "3186483000",
+        "provider_id": "190090",
+        "state": "LA",
+        "zip_code": "71483"
+    },
+    {
+        "address": "64030 HIGHWAY 434",
+        "city": "LACOMBE",
+        "county_name": "SAINT TAMMANY",
+        "emergency_services": true,
+        "hospital_name": "LOUISIANA HEART HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -89.916007,
+                30.359009
+            ],
+            "type": "Point"
+        },
+        "location_address": "64030 HIGHWAY 434",
+        "location_city": "LACOMBE",
+        "location_state": "LA",
+        "location_zip": "70445",
+        "phone_number": "9856407500",
+        "provider_id": "190250",
+        "state": "LA",
+        "zip_code": "70445"
+    },
+    {
+        "address": "1101 MEDICAL CENTER BLVD",
+        "city": "MARRERO",
+        "county_name": "JEFFERSON",
+        "emergency_services": true,
+        "hospital_name": "WEST JEFFERSON MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.095875,
+                29.891619
+            ],
+            "type": "Point"
+        },
+        "location_address": "1101 MEDICAL CENTER BLVD",
+        "location_city": "MARRERO",
+        "location_state": "LA",
+        "location_zip": "70072",
+        "phone_number": "5043475511",
+        "provider_id": "190039",
+        "state": "LA",
+        "zip_code": "70072"
+    },
+    {
+        "address": "7939 U S HWY 165 SOUTH",
+        "city": "COLUMBIA",
+        "county_name": "CALDWELL",
+        "emergency_services": true,
+        "hospital_name": "CITIZENS MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.11913,
+                32.039671
+            ],
+            "type": "Point"
+        },
+        "location_address": "7939 U S HWY 165 SOUTH",
+        "location_city": "COLUMBIA",
+        "location_state": "LA",
+        "location_zip": "71418",
+        "phone_number": "3186496106",
+        "provider_id": "190184",
+        "state": "LA",
+        "zip_code": "71418"
+    },
+    {
+        "address": "8000 WEST JUDGE PEREZ DRIVE",
+        "city": "CHALMETTE",
+        "county_name": "SAINT BERNARD",
+        "emergency_services": true,
+        "hospital_name": "ST BERNARD PARISH HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -89.98908,
+                29.957335
+            ],
+            "type": "Point"
+        },
+        "location_address": "8000 WEST JUDGE PEREZ DRIVE",
+        "location_city": "CHALMETTE",
+        "location_state": "LA",
+        "location_zip": "70043",
+        "phone_number": "5048269500",
+        "provider_id": "190308",
+        "state": "LA",
+        "zip_code": "70043"
+    },
+    {
+        "address": "2001 DOCTORS DRIVE",
+        "city": "SPRINGHILL",
+        "county_name": "WEBSTER",
+        "emergency_services": true,
+        "hospital_name": "SPRINGHILL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.443543,
+                33.010659
+            ],
+            "type": "Point"
+        },
+        "location_address": "2001 DOCTORS DRIVE",
+        "location_city": "SPRINGHILL",
+        "location_state": "LA",
+        "location_zip": "71075",
+        "phone_number": "3185391000",
+        "provider_id": "190088",
+        "state": "LA",
+        "zip_code": "71075"
+    },
+    {
+        "address": "4608 HIGHWAY 1",
+        "city": "RACELAND",
+        "county_name": "LAFOURCHE",
+        "emergency_services": true,
+        "hospital_name": "OCHSNER ST ANNE GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -90.563348,
+                29.702908
+            ],
+            "type": "Point"
+        },
+        "location_address": "4608 HIGHWAY 1",
+        "location_city": "RACELAND",
+        "location_state": "LA",
+        "location_zip": "70394",
+        "phone_number": "9855378377",
+        "provider_id": "191324",
+        "state": "LA",
+        "zip_code": "70394"
+    },
+    {
+        "address": "3330 MASONIC DRIVE",
+        "city": "ALEXANDRIA",
+        "county_name": "RAPIDES",
+        "emergency_services": true,
+        "hospital_name": "CHRISTUS ST FRANCES CABRINI HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.460734,
+                31.282529
+            ],
+            "type": "Point"
+        },
+        "location_address": "3330 MASONIC DRIVE",
+        "location_city": "ALEXANDRIA",
+        "location_state": "LA",
+        "location_zip": "71301",
+        "phone_number": "3184871122",
+        "provider_id": "190019",
+        "state": "LA",
+        "zip_code": "71301"
+    },
+    {
+        "address": "312 GRAMMONT ST SUITE 101",
+        "city": "MONROE",
+        "county_name": "OUACHITA",
+        "emergency_services": false,
+        "hospital_name": "P & S SURGICAL HOSPITAL",
+        "hospital_ownership": "Physician",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.115305,
+                32.501117
+            ],
+            "type": "Point"
+        },
+        "location_address": "312 GRAMMONT ST SUITE 101",
+        "location_city": "MONROE",
+        "location_state": "LA",
+        "location_zip": "71201",
+        "phone_number": "3183884040",
+        "provider_id": "190246",
+        "state": "LA",
+        "zip_code": "71201"
+    },
+    {
+        "address": "1175 PINE STREET",
+        "city": "ARCADIA",
+        "county_name": "BIENVILLE",
+        "emergency_services": true,
+        "hospital_name": "BIENVILLE MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -92.914216,
+                32.554373
+            ],
+            "type": "Point"
+        },
+        "location_address": "1175 PINE STREET",
+        "location_city": "ARCADIA",
+        "location_state": "LA",
+        "location_zip": "71001",
+        "phone_number": "3182634700",
+        "provider_id": "191320",
+        "state": "LA",
+        "zip_code": "71001"
+    },
+    {
+        "address": "815 SOUTH 10TH STREET",
+        "city": "LEESVILLE",
+        "county_name": "VERNON",
+        "emergency_services": false,
+        "hospital_name": "DOCTORS HOSPITAL AT DEER CREEK LLC",
+        "hospital_ownership": "Physician",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.269558,
+                31.1371
+            ],
+            "type": "Point"
+        },
+        "location_address": "815 SOUTH 10TH STREET",
+        "location_city": "LEESVILLE",
+        "location_state": "LA",
+        "location_zip": "71446",
+        "phone_number": "3373925088",
+        "provider_id": "190297",
+        "state": "LA",
+        "zip_code": "71446"
+    },
+    {
+        "address": "801 POINCIANA AVENUE",
+        "city": "MAMOU",
+        "county_name": "EVANGELINE",
+        "emergency_services": true,
+        "hospital_name": "SAVOY MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.417605,
+                30.641032
+            ],
+            "type": "Point"
+        },
+        "location_address": "801 POINCIANA AVENUE",
+        "location_city": "MAMOU",
+        "location_state": "LA",
+        "location_zip": "70554",
+        "phone_number": "3374685261",
+        "provider_id": "190025",
+        "state": "LA",
+        "zip_code": "70554"
+    },
+    {
+        "address": "118 N HOSPITAL DR",
+        "city": "ABBEVILLE",
+        "county_name": "VERMILION",
+        "emergency_services": true,
+        "hospital_name": "ABBEVILLE GENERAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.106982,
+                29.972116
+            ],
+            "type": "Point"
+        },
+        "location_address": "118 N HOSPITAL DR",
+        "location_city": "ABBEVILLE",
+        "location_state": "LA",
+        "location_zip": "70510",
+        "phone_number": "3378935466",
+        "provider_id": "190034",
+        "state": "LA",
+        "zip_code": "70510"
+    },
+    {
+        "address": "2600 GREENWOOD ROAD",
+        "city": "SHREVEPORT",
+        "county_name": "CADDO",
+        "emergency_services": true,
+        "hospital_name": "WILLIS KNIGHTON MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.778797,
+                32.483912
+            ],
+            "type": "Point"
+        },
+        "location_address": "2600 GREENWOOD ROAD",
+        "location_city": "SHREVEPORT",
+        "location_state": "LA",
+        "location_zip": "71103",
+        "phone_number": "3182124000",
+        "provider_id": "190111",
+        "state": "LA",
+        "zip_code": "71103"
+    },
+    {
+        "address": "2315 E MAIN STREET",
+        "city": "NEW IBERIA",
+        "county_name": "IBERIA",
+        "emergency_services": true,
+        "hospital_name": "IBERIA GENERAL HOSPITAL AND MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.78537,
+                29.988867
+            ],
+            "type": "Point"
+        },
+        "location_address": "2315 E MAIN STREET",
+        "location_city": "NEW IBERIA",
+        "location_state": "LA",
+        "location_zip": "70562",
+        "phone_number": "3373640441",
+        "provider_id": "190054",
+        "state": "LA",
+        "zip_code": "70562"
+    },
+    {
+        "address": "411 MAIN STREET",
+        "city": "COLUMBIA",
+        "county_name": "CALDWELL",
+        "emergency_services": false,
+        "hospital_name": "CALDWELL MEMORIAL HOSPITAL, INC",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.076123,
+                32.104181
+            ],
+            "type": "Point"
+        },
+        "location_address": "411 MAIN STREET",
+        "location_city": "COLUMBIA",
+        "location_state": "LA",
+        "location_zip": "71418",
+        "phone_number": "3186496111",
+        "provider_id": "190190",
+        "state": "LA",
+        "zip_code": "71418"
+    },
+    {
+        "address": "1645 LUTCHER AVENUE",
+        "city": "LUTCHER",
+        "county_name": "SAINT JAMES",
+        "emergency_services": true,
+        "hospital_name": "ST JAMES PARISH HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -90.70301,
+                30.053308
+            ],
+            "type": "Point"
+        },
+        "location_address": "1645 LUTCHER AVENUE",
+        "location_city": "LUTCHER",
+        "location_state": "LA",
+        "location_zip": "70071",
+        "phone_number": "2258695512",
+        "provider_id": "191305",
+        "state": "LA",
+        "zip_code": "70071"
+    },
+    {
+        "address": "1453 E BERT KOUNS INDUSTRIAL DRIVE",
+        "city": "SHREVEPORT",
+        "county_name": "CADDO",
+        "emergency_services": true,
+        "hospital_name": "CHRISTUS HEALTH SHREVEPORT - BOSSIER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.718672,
+                32.426313
+            ],
+            "type": "Point"
+        },
+        "location_address": "1453 E BERT KOUNS INDUSTRIAL DRIVE",
+        "location_city": "SHREVEPORT",
+        "location_state": "LA",
+        "location_zip": "71105",
+        "phone_number": "3186815000",
+        "provider_id": "190041",
+        "state": "LA",
+        "zip_code": "71105"
+    },
+    {
+        "address": "1214 COOLIDGE AVENUE",
+        "city": "LAFAYETTE",
+        "county_name": "LAFAYETTE",
+        "emergency_services": true,
+        "hospital_name": "LAFAYETTE GENERAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.018356,
+                30.202669
+            ],
+            "type": "Point"
+        },
+        "location_address": "1214 COOLIDGE AVENUE",
+        "location_city": "LAFAYETTE",
+        "location_state": "LA",
+        "location_zip": "70503",
+        "phone_number": "3372897991",
+        "provider_id": "190002",
+        "state": "LA",
+        "zip_code": "70503"
+    },
+    {
+        "address": "1401 FOUCHER STREET",
+        "city": "NEW ORLEANS",
+        "county_name": "ORLEANS",
+        "emergency_services": true,
+        "hospital_name": "TOURO INFIRMARY",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.092949,
+                29.925467
+            ],
+            "type": "Point"
+        },
+        "location_address": "1401 FOUCHER STREET",
+        "location_city": "NEW ORLEANS",
+        "location_state": "LA",
+        "location_zip": "70115",
+        "phone_number": "5048977011",
+        "provider_id": "190046",
+        "state": "LA",
+        "zip_code": "70115"
+    },
+    {
+        "address": "2390 WEST CONGRESS",
+        "city": "LAFAYETTE",
+        "county_name": "LAFAYETTE",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY HOSPITAL & CLINICS",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.045675,
+                30.215792
+            ],
+            "type": "Point"
+        },
+        "location_address": "2390 WEST CONGRESS",
+        "location_city": "LAFAYETTE",
+        "location_state": "LA",
+        "location_zip": "70506",
+        "phone_number": "3372616000",
+        "provider_id": "190006",
+        "state": "LA",
+        "zip_code": "70506"
+    },
+    {
+        "address": "1125 MARGUERITE STREET",
+        "city": "MORGAN CITY",
+        "county_name": "SAINT MARY",
+        "emergency_services": false,
+        "hospital_name": "TECHE REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.200052,
+                29.708704
+            ],
+            "type": "Point"
+        },
+        "location_address": "1125 MARGUERITE STREET",
+        "location_city": "MORGAN CITY",
+        "location_state": "LA",
+        "location_zip": "70380",
+        "phone_number": "9853842200",
+        "provider_id": "190014",
+        "state": "LA",
+        "zip_code": "70380"
+    },
+    {
+        "address": "100 MEDICAL CENTER DRIVE",
+        "city": "SLIDELL",
+        "county_name": "SAINT TAMMANY",
+        "emergency_services": true,
+        "hospital_name": "OCHSNER MEDICAL CENTER - NORTHSHORE, L L C",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -89.745587,
+                30.287607
+            ],
+            "type": "Point"
+        },
+        "location_address": "100 MEDICAL CENTER DRIVE",
+        "location_city": "SLIDELL",
+        "location_state": "LA",
+        "location_zip": "70461",
+        "phone_number": "9856497070",
+        "provider_id": "190204",
+        "state": "LA",
+        "zip_code": "70461"
+    },
+    {
+        "address": "5620 READ BLVD",
+        "city": "NEW ORLEANS",
+        "county_name": "ORLEANS",
+        "emergency_services": true,
+        "hospital_name": "NEW ORLEANS EAST HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -89.971587,
+                30.030744
+            ],
+            "type": "Point"
+        },
+        "location_address": "5620 READ BLVD",
+        "location_city": "NEW ORLEANS",
+        "location_state": "LA",
+        "location_zip": "70127",
+        "phone_number": "5045926600",
+        "provider_id": "190313",
+        "state": "LA",
+        "zip_code": "70127"
+    },
+    {
+        "address": "5266 COMMERCE STREET",
+        "city": "SAINT FRANCISVILLE",
+        "county_name": "WEST FELICIANA",
+        "emergency_services": true,
+        "hospital_name": "WEST FELICIANA PARISH HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -91.36966,
+                30.778629
+            ],
+            "type": "Point"
+        },
+        "location_address": "5266 COMMERCE STREET",
+        "location_city": "SAINT FRANCISVILLE",
+        "location_state": "LA",
+        "location_zip": "70775",
+        "phone_number": "2256353811",
+        "provider_id": "191306",
+        "state": "LA",
+        "zip_code": "70775"
+    },
+    {
+        "address": "1057 PAUL MAILLARD ROAD",
+        "city": "LULING",
+        "county_name": "SAINT CHARLES",
+        "emergency_services": true,
+        "hospital_name": "ST CHARLES PARISH HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.371818,
+                29.924424
+            ],
+            "type": "Point"
+        },
+        "location_address": "1057 PAUL MAILLARD ROAD",
+        "location_city": "LULING",
+        "location_state": "LA",
+        "location_zip": "70070",
+        "phone_number": "9857856242",
+        "provider_id": "190079",
+        "state": "LA",
+        "zip_code": "70070"
+    },
+    {
+        "address": "1415 TULANE AVE",
+        "city": "NEW ORLEANS",
+        "county_name": "ORLEANS",
+        "emergency_services": true,
+        "hospital_name": "TULANE MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.07598,
+                29.955196
+            ],
+            "type": "Point"
+        },
+        "location_address": "1415 TULANE AVE",
+        "location_city": "NEW ORLEANS",
+        "location_state": "LA",
+        "location_zip": "70112",
+        "phone_number": "5049881900",
+        "provider_id": "190176",
+        "state": "LA",
+        "zip_code": "70112"
+    },
+    {
+        "address": "407 CINCINNATI STREET",
+        "city": "DELHI",
+        "county_name": "RICHLAND",
+        "emergency_services": true,
+        "hospital_name": "RICHLAND PARISH HOSPITAL-DELHI",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -91.494064,
+                32.453224
+            ],
+            "type": "Point"
+        },
+        "location_address": "407 CINCINNATI STREET",
+        "location_city": "DELHI",
+        "location_state": "LA",
+        "location_zip": "71232",
+        "phone_number": "3188785171",
+        "provider_id": "191323",
+        "state": "LA",
+        "zip_code": "71232"
+    },
+    {
+        "address": "409 FIRST STREET",
+        "city": "BERNICE",
+        "county_name": "UNION",
+        "emergency_services": true,
+        "hospital_name": "REEVES MEMORIAL MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -92.657007,
+                32.824378
+            ],
+            "type": "Point"
+        },
+        "location_address": "409 FIRST STREET",
+        "location_city": "BERNICE",
+        "location_state": "LA",
+        "location_zip": "71222",
+        "phone_number": "3182859066",
+        "provider_id": "191326",
+        "state": "LA",
+        "zip_code": "71222"
+    },
+    {
+        "address": "4811 AMBASSADOR CAFFERY PARKWAY",
+        "city": "LAFAYETTE",
+        "county_name": "LAFAYETTE",
+        "emergency_services": false,
+        "hospital_name": "PARK PLACE SURGICAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.040101,
+                30.14979
+            ],
+            "type": "Point"
+        },
+        "location_address": "4811 AMBASSADOR CAFFERY PARKWAY",
+        "location_city": "LAFAYETTE",
+        "location_state": "LA",
+        "location_zip": "70508",
+        "phone_number": "3372378119",
+        "provider_id": "190255",
+        "state": "LA",
+        "zip_code": "70508"
+    },
+    {
+        "address": "2106 LOOP ROAD",
+        "city": "WINNSBORO",
+        "county_name": "FRANKLIN",
+        "emergency_services": true,
+        "hospital_name": "FRANKLIN MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.705234,
+                32.15888
+            ],
+            "type": "Point"
+        },
+        "location_address": "2106 LOOP ROAD",
+        "location_city": "WINNSBORO",
+        "location_state": "LA",
+        "location_zip": "71295",
+        "phone_number": "3184359411",
+        "provider_id": "190140",
+        "state": "LA",
+        "zip_code": "71295"
+    },
+    {
+        "address": "52579 HIGHWAY 51 SOUTH",
+        "city": "INDEPENDENCE",
+        "county_name": "TANGIPAHOA",
+        "emergency_services": true,
+        "hospital_name": "LALLIE KEMP MEDICAL CENTER",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -90.496337,
+                30.620168
+            ],
+            "type": "Point"
+        },
+        "location_address": "52579 HIGHWAY 51 SOUTH",
+        "location_city": "INDEPENDENCE",
+        "location_state": "LA",
+        "location_zip": "70443",
+        "phone_number": "9858789421",
+        "provider_id": "191321",
+        "state": "LA",
+        "zip_code": "70443"
+    },
+    {
+        "address": "1516 JEFFERSON HWY",
+        "city": "NEW ORLEANS",
+        "county_name": "JEFFERSON",
+        "emergency_services": true,
+        "hospital_name": "OCHSNER MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.14632,
+                29.962943
+            ],
+            "type": "Point"
+        },
+        "location_address": "1516 JEFFERSON HWY",
+        "location_city": "NEW ORLEANS",
+        "location_state": "LA",
+        "location_zip": "70121",
+        "phone_number": "5048423000",
+        "provider_id": "190036",
+        "state": "LA",
+        "zip_code": "70121"
+    },
+    {
+        "address": "301 W WALNUT STREET",
+        "city": "AMITE",
+        "county_name": "TANGIPAHOA",
+        "emergency_services": true,
+        "hospital_name": "HOOD MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -90.512186,
+                30.733072
+            ],
+            "type": "Point"
+        },
+        "location_address": "301 W WALNUT STREET",
+        "location_city": "AMITE",
+        "location_state": "LA",
+        "location_zip": "70422",
+        "phone_number": "9857489485",
+        "provider_id": "191309",
+        "state": "LA",
+        "zip_code": "70422"
+    },
+    {
+        "address": "539 EAST PRUDHOMME STREET",
+        "city": "OPELOUSAS",
+        "county_name": "SAINT LANDRY",
+        "emergency_services": true,
+        "hospital_name": "OPELOUSAS GENERAL HEALTH SYSTEM",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.075816,
+                30.543462
+            ],
+            "type": "Point"
+        },
+        "location_address": "539 EAST PRUDHOMME STREET",
+        "location_city": "OPELOUSAS",
+        "location_state": "LA",
+        "location_zip": "70570",
+        "phone_number": "3379483011",
+        "provider_id": "190017",
+        "state": "LA",
+        "zip_code": "70570"
+    },
+    {
+        "address": "1101 KALISTE SALOOM RD",
+        "city": "LAFAYETTE",
+        "county_name": "LAFAYETTE",
+        "emergency_services": false,
+        "hospital_name": "LAFAYETTE SURGICAL SPECIALTY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.028056,
+                30.175737
+            ],
+            "type": "Point"
+        },
+        "location_address": "1101 KALISTE SALOOM RD",
+        "location_city": "LAFAYETTE",
+        "location_state": "LA",
+        "location_zip": "70508",
+        "phone_number": "3377694100",
+        "provider_id": "190259",
+        "state": "LA",
+        "zip_code": "70508"
+    },
+    {
+        "address": "4864 JACKSON STREET",
+        "city": "MONROE",
+        "county_name": "OUACHITA",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY HEALTH CONWAY",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.105823,
+                32.452442
+            ],
+            "type": "Point"
+        },
+        "location_address": "4864 JACKSON STREET",
+        "location_city": "MONROE",
+        "location_state": "LA",
+        "location_zip": "71202",
+        "phone_number": "3183307000",
+        "provider_id": "190011",
+        "state": "LA",
+        "zip_code": "71202"
+    },
+    {
+        "address": "1275 GLENNWOOD DRIVE",
+        "city": "WEST MONROE",
+        "county_name": "OUACHITA",
+        "emergency_services": false,
+        "hospital_name": "OUACHITA COMMUNITY HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.149655,
+                32.50156
+            ],
+            "type": "Point"
+        },
+        "location_address": "1275 GLENNWOOD DRIVE",
+        "location_city": "WEST MONROE",
+        "location_state": "LA",
+        "location_zip": "71291",
+        "phone_number": "3183221339",
+        "provider_id": "190261",
+        "state": "LA",
+        "zip_code": "71291"
+    },
+    {
+        "address": "254 HIGHWAY 3048",
+        "city": "RAYVILLE",
+        "county_name": "RICHLAND",
+        "emergency_services": true,
+        "hospital_name": "RICHARDSON MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.738617,
+                32.457961
+            ],
+            "type": "Point"
+        },
+        "location_address": "254 HIGHWAY 3048",
+        "location_city": "RAYVILLE",
+        "location_state": "LA",
+        "location_zip": "71269",
+        "phone_number": "3187284181",
+        "provider_id": "190151",
+        "state": "LA",
+        "zip_code": "71269"
+    },
+    {
+        "address": "1500 LINE AVENUE",
+        "city": "SHREVEPORT",
+        "county_name": "CADDO",
+        "emergency_services": false,
+        "hospital_name": "SPECIALISTS HOSPITAL SHREVEPORT",
+        "hospital_ownership": "Physician",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.74605,
+                32.497364
+            ],
+            "type": "Point"
+        },
+        "location_address": "1500 LINE AVENUE",
+        "location_city": "SHREVEPORT",
+        "location_state": "LA",
+        "location_zip": "71101",
+        "phone_number": "3182133800",
+        "provider_id": "190278",
+        "state": "LA",
+        "zip_code": "71101"
+    },
+    {
+        "address": "10105 PARK ROW CIRCLE, SUITE 250",
+        "city": "BATON ROUGE",
+        "county_name": "EAST BATON ROUGE",
+        "emergency_services": false,
+        "hospital_name": "THE SPINE HOSPITAL OF LOUISIANA",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.095887,
+                30.380555
+            ],
+            "type": "Point"
+        },
+        "location_address": "10105 PARK ROW CIRCLE, SUITE 250",
+        "location_city": "BATON ROUGE",
+        "location_state": "LA",
+        "location_zip": "70810",
+        "phone_number": "2257639900",
+        "provider_id": "190266",
+        "state": "LA",
+        "zip_code": "70810"
+    },
+    {
+        "address": "1900 SOUTH MAIN ST",
+        "city": "FRANKLINTON",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "RIVERSIDE MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -90.151439,
+                30.833733
+            ],
+            "type": "Point"
+        },
+        "location_address": "1900 SOUTH MAIN ST",
+        "location_city": "FRANKLINTON",
+        "location_state": "LA",
+        "location_zip": "70438",
+        "phone_number": "9857954431",
+        "provider_id": "191313",
+        "state": "LA",
+        "zip_code": "70438"
+    },
+    {
+        "address": "4801 AMBASSADOR CAFFERY PARKWAY",
+        "city": "LAFAYETTE",
+        "county_name": "LAFAYETTE",
+        "emergency_services": true,
+        "hospital_name": "OUR LADY OF LOURDES REGIONAL MEDICAL CENTER, INC",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.0383,
+                30.14877
+            ],
+            "type": "Point"
+        },
+        "location_address": "4801 AMBASSADOR CAFFERY PARKWAY",
+        "location_city": "LAFAYETTE",
+        "location_state": "LA",
+        "location_zip": "70508",
+        "phone_number": "3374702000",
+        "provider_id": "190102",
+        "state": "LA",
+        "zip_code": "70508"
+    },
+    {
+        "address": "NO 1 MEDICAL PLAZA",
+        "city": "MINDEN",
+        "county_name": "WEBSTER",
+        "emergency_services": true,
+        "hospital_name": "MINDEN MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "NO 1 MEDICAL PLAZA",
+        "location_city": "MINDEN",
+        "location_state": "LA",
+        "location_zip": "71055",
+        "phone_number": "3183772321",
+        "provider_id": "190144",
+        "state": "LA",
+        "zip_code": "71055"
+    },
+    {
+        "address": "309 JACKSON STREET",
+        "city": "MONROE",
+        "county_name": "OUACHITA",
+        "emergency_services": true,
+        "hospital_name": "ST FRANCIS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.114584,
+                32.499336
+            ],
+            "type": "Point"
+        },
+        "location_address": "309 JACKSON STREET",
+        "location_city": "MONROE",
+        "location_state": "LA",
+        "location_zip": "71201",
+        "phone_number": "3189664000",
+        "provider_id": "190125",
+        "state": "LA",
+        "zip_code": "71201"
+    },
+    {
+        "address": "600 S PINE STREET",
+        "city": "DERIDDER",
+        "county_name": "BEAUREGARD",
+        "emergency_services": true,
+        "hospital_name": "BEAUREGARD MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.289056,
+                30.84195
+            ],
+            "type": "Point"
+        },
+        "location_address": "600 S PINE STREET",
+        "location_city": "DERIDDER",
+        "location_state": "LA",
+        "location_zip": "70634",
+        "phone_number": "3374627100",
+        "provider_id": "190050",
+        "state": "LA",
+        "zip_code": "70634"
+    },
+    {
+        "address": "1635 MARVEL STREET",
+        "city": "COUSHATTA",
+        "county_name": "RED RIVER",
+        "emergency_services": true,
+        "hospital_name": "CHRISTUS COUSHATTA HEALTH CARE CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -93.343255,
+                32.022341
+            ],
+            "type": "Point"
+        },
+        "location_address": "1635 MARVEL STREET",
+        "location_city": "COUSHATTA",
+        "location_state": "LA",
+        "location_zip": "71019",
+        "phone_number": "3189322000",
+        "provider_id": "191312",
+        "state": "LA",
+        "zip_code": "71019"
+    },
+    {
+        "address": "67252 INDUSTRY LANE",
+        "city": "COVINGTON",
+        "county_name": "SAINT TAMMANY",
+        "emergency_services": false,
+        "hospital_name": "FAIRWAY MEDICAL CENTER",
+        "hospital_ownership": "Physician",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.08308,
+                30.407969
+            ],
+            "type": "Point"
+        },
+        "location_address": "67252 INDUSTRY LANE",
+        "location_city": "COVINGTON",
+        "location_state": "LA",
+        "location_zip": "70433",
+        "phone_number": "9858013010",
+        "provider_id": "190267",
+        "state": "LA",
+        "zip_code": "70433"
+    },
+    {
+        "address": "130 N HOSPITAL DR",
+        "city": "OAKDALE",
+        "county_name": "ALLEN",
+        "emergency_services": true,
+        "hospital_name": "OAKDALE COMMUNITY HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.644791,
+                30.817128
+            ],
+            "type": "Point"
+        },
+        "location_address": "130 N HOSPITAL DR",
+        "location_city": "OAKDALE",
+        "location_state": "LA",
+        "location_zip": "71463",
+        "phone_number": "3183353700",
+        "provider_id": "190106",
+        "state": "LA",
+        "zip_code": "71463"
+    },
+    {
+        "address": "42570 SOUTH AIRPORT RD",
+        "city": "HAMMOND",
+        "county_name": "TANGIPAHOA",
+        "emergency_services": false,
+        "hospital_name": "CYPRESS POINTE SURGICAL HOSPITAL",
+        "hospital_ownership": "Physician",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.414266,
+                30.477189
+            ],
+            "type": "Point"
+        },
+        "location_address": "42570 SOUTH AIRPORT RD",
+        "location_city": "HAMMOND",
+        "location_state": "LA",
+        "location_zip": "70403",
+        "phone_number": "9855106200",
+        "provider_id": "190303",
+        "state": "LA",
+        "zip_code": "70403"
+    },
+    {
+        "address": "503 MCMILLAN ROAD",
+        "city": "WEST MONROE",
+        "county_name": "OUACHITA",
+        "emergency_services": true,
+        "hospital_name": "GLENWOOD REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.15607,
+                32.513457
+            ],
+            "type": "Point"
+        },
+        "location_address": "503 MCMILLAN ROAD",
+        "location_city": "WEST MONROE",
+        "location_state": "LA",
+        "location_zip": "71291",
+        "phone_number": "3183294600",
+        "provider_id": "190160",
+        "state": "LA",
+        "zip_code": "71291"
+    },
+    {
+        "address": "100 WOMAN'S WAY",
+        "city": "BATON ROUGE",
+        "county_name": "EAST BATON ROUGE",
+        "emergency_services": true,
+        "hospital_name": "WOMAN'S HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.037784,
+                30.385001
+            ],
+            "type": "Point"
+        },
+        "location_address": "100 WOMAN'S WAY",
+        "location_city": "BATON ROUGE",
+        "location_state": "LA",
+        "location_zip": "70817",
+        "phone_number": "2259271300",
+        "provider_id": "190128",
+        "state": "LA",
+        "zip_code": "70817"
+    },
+    {
+        "address": "108 6TH AVENUE",
+        "city": "KINDER",
+        "county_name": "ALLEN",
+        "emergency_services": true,
+        "hospital_name": "ALLEN PARISH HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "108 6TH AVENUE",
+        "location_city": "KINDER",
+        "location_state": "LA",
+        "location_zip": "70648",
+        "phone_number": "3377382527",
+        "provider_id": "190133",
+        "state": "LA",
+        "zip_code": "70648"
+    },
+    {
+        "address": "1001 GAUSE BLVD",
+        "city": "SLIDELL",
+        "county_name": "SAINT TAMMANY",
+        "emergency_services": true,
+        "hospital_name": "SLIDELL MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -89.770468,
+                30.284651
+            ],
+            "type": "Point"
+        },
+        "location_address": "1001 GAUSE BLVD",
+        "location_city": "SLIDELL",
+        "location_state": "LA",
+        "location_zip": "70458",
+        "phone_number": "9856432200",
+        "provider_id": "190040",
+        "state": "LA",
+        "zip_code": "70458"
+    },
+    {
+        "address": "1102 N PINE ROAD",
+        "city": "OLLA",
+        "county_name": "LA SALLE",
+        "emergency_services": true,
+        "hospital_name": "HARDTNER MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -92.24026,
+                31.901822
+            ],
+            "type": "Point"
+        },
+        "location_address": "1102 N PINE ROAD",
+        "location_city": "OLLA",
+        "location_state": "LA",
+        "location_zip": "71465",
+        "phone_number": "3184953131",
+        "provider_id": "191315",
+        "state": "LA",
+        "zip_code": "71465"
+    },
+    {
+        "address": "200 WEST 134TH PLACE",
+        "city": "CUT OFF",
+        "county_name": "LAFOURCHE",
+        "emergency_services": true,
+        "hospital_name": "LADY OF THE SEA GENERAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -90.31268,
+                29.455513
+            ],
+            "type": "Point"
+        },
+        "location_address": "200 WEST 134TH PLACE",
+        "location_city": "CUT OFF",
+        "location_state": "LA",
+        "location_zip": "70345",
+        "phone_number": "9856326401",
+        "provider_id": "191325",
+        "state": "LA",
+        "zip_code": "70345"
+    },
+    {
+        "address": "1202 S TYLER STREET",
+        "city": "COVINGTON",
+        "county_name": "SAINT TAMMANY",
+        "emergency_services": true,
+        "hospital_name": "ST TAMMANY PARISH HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.113763,
+                30.469181
+            ],
+            "type": "Point"
+        },
+        "location_address": "1202 S TYLER STREET",
+        "location_city": "COVINGTON",
+        "location_state": "LA",
+        "location_zip": "70433",
+        "phone_number": "9858984000",
+        "provider_id": "190045",
+        "state": "LA",
+        "zip_code": "70433"
+    },
+    {
+        "address": "16874 HIGHWAY 43",
+        "city": "GREENSBURG",
+        "county_name": "SAINT HELENA",
+        "emergency_services": true,
+        "hospital_name": "ST HELENA PARISH HOSPITAL CAH",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -90.666701,
+                30.832041
+            ],
+            "type": "Point"
+        },
+        "location_address": "16874 HIGHWAY 43",
+        "location_city": "GREENSBURG",
+        "location_state": "LA",
+        "location_zip": "70441",
+        "phone_number": "2252226111",
+        "provider_id": "191300",
+        "state": "LA",
+        "zip_code": "70441"
+    },
+    {
+        "address": "240 HIGHLAND DRIVE",
+        "city": "MANY",
+        "county_name": "SABINE",
+        "emergency_services": true,
+        "hospital_name": "SABINE MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.471475,
+                31.561209
+            ],
+            "type": "Point"
+        },
+        "location_address": "240 HIGHLAND DRIVE",
+        "location_city": "MANY",
+        "location_state": "LA",
+        "location_zip": "71449",
+        "phone_number": "3182561232",
+        "provider_id": "190218",
+        "state": "LA",
+        "zip_code": "71449"
+    },
+    {
+        "address": "211 4TH STREET",
+        "city": "ALEXANDRIA",
+        "county_name": "RAPIDES",
+        "emergency_services": true,
+        "hospital_name": "RAPIDES REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.449683,
+                31.314363
+            ],
+            "type": "Point"
+        },
+        "location_address": "211 4TH STREET",
+        "location_city": "ALEXANDRIA",
+        "location_state": "LA",
+        "location_zip": "71301",
+        "phone_number": "3187693000",
+        "provider_id": "190026",
+        "state": "LA",
+        "zip_code": "71301"
+    },
+    {
+        "address": "1000 W PINHOOK RD SUITE 100",
+        "city": "LAFAYETTE",
+        "county_name": "LAFAYETTE",
+        "emergency_services": false,
+        "hospital_name": "LAFAYETTE GENERAL SURGICAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.013719,
+                30.203831
+            ],
+            "type": "Point"
+        },
+        "location_address": "1000 W PINHOOK RD SUITE 100",
+        "location_city": "LAFAYETTE",
+        "location_state": "LA",
+        "location_zip": "70503",
+        "phone_number": "3372898095",
+        "provider_id": "190268",
+        "state": "LA",
+        "zip_code": "70503"
+    },
+    {
+        "address": "602 N ACADIA ROAD",
+        "city": "THIBODAUX",
+        "county_name": "LAFOURCHE",
+        "emergency_services": true,
+        "hospital_name": "THIBODAUX REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.806405,
+                29.780172
+            ],
+            "type": "Point"
+        },
+        "location_address": "602 N ACADIA ROAD",
+        "location_city": "THIBODAUX",
+        "location_state": "LA",
+        "location_zip": "70301",
+        "phone_number": "9854475500",
+        "provider_id": "190004",
+        "state": "LA",
+        "zip_code": "70301"
+    },
+    {
+        "address": "1305 CROWLEY RAYNE HIGHWAY",
+        "city": "CROWLEY",
+        "county_name": "ACADIA",
+        "emergency_services": true,
+        "hospital_name": "ACADIA GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.362542,
+                30.226654
+            ],
+            "type": "Point"
+        },
+        "location_address": "1305 CROWLEY RAYNE HIGHWAY",
+        "location_city": "CROWLEY",
+        "location_state": "LA",
+        "location_zip": "70526",
+        "phone_number": "3377833222",
+        "provider_id": "190044",
+        "state": "LA",
+        "zip_code": "70526"
+    },
+    {
+        "address": "1700  WALLACE BLVD",
+        "city": "FERRIDAY",
+        "county_name": "CONCORDIA",
+        "emergency_services": true,
+        "hospital_name": "RIVERLAND MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -91.553845,
+                31.647086
+            ],
+            "type": "Point"
+        },
+        "location_address": "1700 WALLACE BLVD",
+        "location_city": "FERRIDAY",
+        "location_state": "LA",
+        "location_zip": "71334",
+        "phone_number": "3187576551",
+        "provider_id": "191318",
+        "state": "LA",
+        "zip_code": "71334"
+    },
+    {
+        "address": "180 WEST ESPLANADE AVENUE",
+        "city": "KENNER",
+        "county_name": "JEFFERSON",
+        "emergency_services": true,
+        "hospital_name": "OCHSNER MEDICAL CENTER-KENNER LLC",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.27294,
+                30.02322
+            ],
+            "type": "Point"
+        },
+        "location_address": "180 WEST ESPLANADE AVENUE",
+        "location_city": "KENNER",
+        "location_state": "LA",
+        "location_zip": "70065",
+        "phone_number": "5044648065",
+        "provider_id": "190274",
+        "state": "LA",
+        "zip_code": "70065"
+    },
+    {
+        "address": "1125 WEST HIGHWAY 30",
+        "city": "GONZALES",
+        "county_name": "ASCENSION",
+        "emergency_services": true,
+        "hospital_name": "ST ELIZABETH HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.932171,
+                30.210812
+            ],
+            "type": "Point"
+        },
+        "location_address": "1125 WEST HIGHWAY 30",
+        "location_city": "GONZALES",
+        "location_state": "LA",
+        "location_zip": "70737",
+        "phone_number": "2256475000",
+        "provider_id": "190242",
+        "state": "LA",
+        "zip_code": "70737"
+    },
+    {
+        "address": "210 CHAMPAGNE BOULEVARD",
+        "city": "BREAUX BRIDGE",
+        "county_name": "SAINT MARTIN",
+        "emergency_services": true,
+        "hospital_name": "ST MARTIN HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -91.890506,
+                30.282406
+            ],
+            "type": "Point"
+        },
+        "location_address": "210 CHAMPAGNE BOULEVARD",
+        "location_city": "BREAUX BRIDGE",
+        "location_state": "LA",
+        "location_zip": "70517",
+        "phone_number": "3373322178",
+        "provider_id": "191302",
+        "state": "LA",
+        "zip_code": "70517"
+    },
+    {
+        "address": "165 BEECH SPRINGS ROAD",
+        "city": "JONESBORO",
+        "county_name": "JACKSON",
+        "emergency_services": true,
+        "hospital_name": "JACKSON PARISH HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -92.713926,
+                32.25235
+            ],
+            "type": "Point"
+        },
+        "location_address": "165 BEECH SPRINGS ROAD",
+        "location_city": "JONESBORO",
+        "location_state": "LA",
+        "location_zip": "71251",
+        "phone_number": "3182594435",
+        "provider_id": "191317",
+        "state": "LA",
+        "zip_code": "71251"
+    },
+    {
+        "address": "524 DR MICHAEL DEBAKEY STREET",
+        "city": "LAKE CHARLES",
+        "county_name": "CALCASIEU",
+        "emergency_services": true,
+        "hospital_name": "CHRISTUS ST PATRICK HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "524 DR MICHAEL DEBAKEY STREET",
+        "location_city": "LAKE CHARLES",
+        "location_state": "LA",
+        "location_zip": "70601",
+        "phone_number": "3374362511",
+        "provider_id": "190027",
+        "state": "LA",
+        "zip_code": "70601"
+    },
+    {
+        "address": "135 HIGHWAY 402",
+        "city": "NAPOLEONVILLE",
+        "county_name": "ASSUMPTION",
+        "emergency_services": true,
+        "hospital_name": "ASSUMPTION COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -91.031508,
+                29.955515
+            ],
+            "type": "Point"
+        },
+        "location_address": "135 HIGHWAY 402",
+        "location_city": "NAPOLEONVILLE",
+        "location_state": "LA",
+        "location_zip": "70390",
+        "phone_number": "9853693600",
+        "provider_id": "191303",
+        "state": "LA",
+        "zip_code": "70390"
+    },
+    {
+        "address": "2000 CANAL STREET",
+        "city": "NEW ORLEANS",
+        "county_name": "ORLEANS",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY MEDICAL CENTER NEW ORLEANS",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.080858,
+                29.961056
+            ],
+            "type": "Point"
+        },
+        "location_address": "2000 CANAL STREET",
+        "location_city": "NEW ORLEANS",
+        "location_state": "LA",
+        "location_zip": "70112",
+        "phone_number": "5049033000",
+        "provider_id": "190005",
+        "state": "LA",
+        "zip_code": "70112"
+    },
+    {
+        "address": "706 ROSS STREET",
+        "city": "OAK GROVE",
+        "county_name": "WEST CARROLL",
+        "emergency_services": true,
+        "hospital_name": "WEST CARROLL MEMORIAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.383189,
+                32.867445
+            ],
+            "type": "Point"
+        },
+        "location_address": "706 ROSS STREET",
+        "location_city": "OAK GROVE",
+        "location_state": "LA",
+        "location_zip": "71263",
+        "phone_number": "3184283237",
+        "provider_id": "190081",
+        "state": "LA",
+        "zip_code": "71263"
+    },
+    {
+        "address": "1020 FERTITTA BLVD",
+        "city": "LEESVILLE",
+        "county_name": "VERNON",
+        "emergency_services": true,
+        "hospital_name": "BYRD REGIONAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.26915,
+                31.13728
+            ],
+            "type": "Point"
+        },
+        "location_address": "1020 FERTITTA BLVD",
+        "location_city": "LEESVILLE",
+        "location_state": "LA",
+        "location_zip": "71446",
+        "phone_number": "3372399041",
+        "provider_id": "190164",
+        "state": "LA",
+        "zip_code": "71446"
+    },
+    {
+        "address": "218 CORPORATE DRIVE",
+        "city": "HOUMA",
+        "county_name": "TERREBONNE",
+        "emergency_services": false,
+        "hospital_name": "PHYSICIANS MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.750128,
+                29.59995
+            ],
+            "type": "Point"
+        },
+        "location_address": "218 CORPORATE DRIVE",
+        "location_city": "HOUMA",
+        "location_state": "LA",
+        "location_zip": "70360",
+        "phone_number": "9858531390",
+        "provider_id": "190241",
+        "state": "LA",
+        "zip_code": "70360"
+    },
+    {
+        "address": "4200 HOUMA BLVD",
+        "city": "METAIRIE",
+        "county_name": "JEFFERSON",
+        "emergency_services": true,
+        "hospital_name": "EAST JEFFERSON GENERAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.181468,
+                30.014162
+            ],
+            "type": "Point"
+        },
+        "location_address": "4200 HOUMA BLVD",
+        "location_city": "METAIRIE",
+        "location_state": "LA",
+        "location_zip": "70006",
+        "phone_number": "5044544000",
+        "provider_id": "190146",
+        "state": "LA",
+        "zip_code": "70006"
+    },
+    {
+        "address": "401 EAST VAUGHN AVENUE",
+        "city": "RUSTON",
+        "county_name": "LINCOLN",
+        "emergency_services": true,
+        "hospital_name": "NORTHERN LOUISIANA MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.632414,
+                32.515766
+            ],
+            "type": "Point"
+        },
+        "location_address": "401 EAST VAUGHN AVENUE",
+        "location_city": "RUSTON",
+        "location_state": "LA",
+        "location_zip": "71270",
+        "phone_number": "3182542100",
+        "provider_id": "190086",
+        "state": "LA",
+        "zip_code": "71270"
+    },
+    {
+        "address": "323 W WALNUT",
+        "city": "BASTROP",
+        "county_name": "MOREHOUSE",
+        "emergency_services": true,
+        "hospital_name": "MOREHOUSE GENERAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.917045,
+                32.775319
+            ],
+            "type": "Point"
+        },
+        "location_address": "323 W WALNUT",
+        "location_city": "BASTROP",
+        "location_state": "LA",
+        "location_zip": "71220",
+        "phone_number": "3182833600",
+        "provider_id": "190116",
+        "state": "LA",
+        "zip_code": "71220"
+    },
+    {
+        "address": "2495 SHREVEPORT HIGHWAY 71 N",
+        "city": "PINEVILLE",
+        "county_name": "RAPIDES",
+        "emergency_services": false,
+        "hospital_name": "ALEXANDRIA VA MEDICAL CENTER",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location_address": "2495 SHREVEPORT HIGHWAY 71 N",
+        "location_city": "PINEVILLE",
+        "location_state": "LA",
+        "location_zip": "71360",
+        "phone_number": "3184730010",
+        "provider_id": "19043F",
+        "state": "LA",
+        "zip_code": "71360"
+    },
+    {
+        "address": "1700 W LINDBERG DRIVE",
+        "city": "SLIDELL",
+        "county_name": "SAINT TAMMANY",
+        "emergency_services": false,
+        "hospital_name": "SOUTHERN SURGICAL HOSPITAL",
+        "hospital_ownership": "Physician",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -89.75453,
+                30.27373
+            ],
+            "type": "Point"
+        },
+        "location_address": "1700 W LINDBERG DRIVE",
+        "location_city": "SLIDELL",
+        "location_state": "LA",
+        "location_zip": "70458",
+        "phone_number": "9856410600",
+        "provider_id": "190270",
+        "state": "LA",
+        "zip_code": "70458"
+    },
+    {
+        "address": "4200 NELSON ROAD",
+        "city": "LAKE CHARLES",
+        "county_name": "CALCASIEU",
+        "emergency_services": true,
+        "hospital_name": "LAKE AREA MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.24934,
+                30.181139
+            ],
+            "type": "Point"
+        },
+        "location_address": "4200 NELSON ROAD",
+        "location_city": "LAKE CHARLES",
+        "location_state": "LA",
+        "location_zip": "70605",
+        "phone_number": "3374746370",
+        "provider_id": "190201",
+        "state": "LA",
+        "zip_code": "70605"
+    },
+    {
+        "address": "1978 INDUSTRIAL BLVD",
+        "city": "HOUMA",
+        "county_name": "TERREBONNE",
+        "emergency_services": true,
+        "hospital_name": "LEONARD J CHABERT MEDICAL CENTER",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.688112,
+                29.571382
+            ],
+            "type": "Point"
+        },
+        "location_address": "1978 INDUSTRIAL BLVD",
+        "location_city": "HOUMA",
+        "location_state": "LA",
+        "location_zip": "70363",
+        "phone_number": "9858731285",
+        "provider_id": "190183",
+        "state": "LA",
+        "zip_code": "70363"
+    },
+    {
+        "address": "2408 BROADMOOR BLVD",
+        "city": "MONROE",
+        "county_name": "OUACHITA",
+        "emergency_services": false,
+        "hospital_name": "MONROE SURGICAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.102296,
+                32.536874
+            ],
+            "type": "Point"
+        },
+        "location_address": "2408 BROADMOOR BLVD",
+        "location_city": "MONROE",
+        "location_state": "LA",
+        "location_zip": "71201",
+        "phone_number": "3184100002",
+        "provider_id": "190245",
+        "state": "LA",
+        "zip_code": "71201"
+    },
+    {
+        "address": "8166 MAIN STREET",
+        "city": "HOUMA",
+        "county_name": "TERREBONNE",
+        "emergency_services": true,
+        "hospital_name": "TERREBONNE GENERAL MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.714322,
+                29.598537
+            ],
+            "type": "Point"
+        },
+        "location_address": "8166 MAIN STREET",
+        "location_city": "HOUMA",
+        "location_state": "LA",
+        "location_zip": "70360",
+        "phone_number": "9858734141",
+        "provider_id": "190008",
+        "state": "LA",
+        "zip_code": "70360"
+    },
+    {
+        "address": "510 EAST STONER AVENUE",
+        "city": "SHREVEPORT",
+        "county_name": "CADDO",
+        "emergency_services": false,
+        "hospital_name": "OVERTON BROOKS VA MEDICAL CENTER - SHREVEPORT",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -93.722414,
+                32.499989
+            ],
+            "type": "Point"
+        },
+        "location_address": "510 EAST STONER AVENUE",
+        "location_city": "SHREVEPORT",
+        "location_state": "LA",
+        "location_zip": "71101",
+        "phone_number": "3184246037",
+        "provider_id": "19048F",
+        "state": "LA",
+        "zip_code": "71101"
+    },
+    {
+        "address": "8080 BLUEBONNET BLVD",
+        "city": "BATON ROUGE",
+        "county_name": "EAST BATON ROUGE",
+        "emergency_services": false,
+        "hospital_name": "SURGICAL SPECIALTY CENTER OF BATON ROUGE",
+        "hospital_ownership": "Physician",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.099447,
+                30.376137
+            ],
+            "type": "Point"
+        },
+        "location_address": "8080 BLUEBONNET BLVD",
+        "location_city": "BATON ROUGE",
+        "location_state": "LA",
+        "location_zip": "70810",
+        "phone_number": "2254085730",
+        "provider_id": "190251",
+        "state": "LA",
+        "zip_code": "70810"
+    },
+    {
+        "address": "501 KEYSER AVE",
+        "city": "NATCHITOCHES",
+        "county_name": "NATCHITOCHES",
+        "emergency_services": true,
+        "hospital_name": "NATCHITOCHES REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.077017,
+                31.753409
+            ],
+            "type": "Point"
+        },
+        "location_address": "501 KEYSER AVE",
+        "location_city": "NATCHITOCHES",
+        "location_state": "LA",
+        "location_zip": "71457",
+        "phone_number": "3182144200",
+        "provider_id": "190007",
+        "state": "LA",
+        "zip_code": "71457"
+    },
+    {
+        "address": "1717 ST CHARLES AVE",
+        "city": "NEW ORLEANS",
+        "county_name": "ORLEANS",
+        "emergency_services": false,
+        "hospital_name": "ST CHARLES SURGICAL HOSPITAL LLC",
+        "hospital_ownership": "Physician",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.07698,
+                29.937235
+            ],
+            "type": "Point"
+        },
+        "location_address": "1717 ST CHARLES AVE",
+        "location_city": "NEW ORLEANS",
+        "location_state": "LA",
+        "location_zip": "70130",
+        "phone_number": "5045296600",
+        "provider_id": "190300",
+        "state": "LA",
+        "zip_code": "70130"
+    },
+    {
+        "address": "701 EAST CYPRESS STREET",
+        "city": "SULPHUR",
+        "county_name": "CALCASIEU",
+        "emergency_services": true,
+        "hospital_name": "WEST CALCASIEU CAMERON HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.368718,
+                30.231058
+            ],
+            "type": "Point"
+        },
+        "location_address": "701 EAST CYPRESS STREET",
+        "location_city": "SULPHUR",
+        "location_state": "LA",
+        "location_zip": "70663",
+        "phone_number": "3375277034",
+        "provider_id": "190013",
+        "state": "LA",
+        "zip_code": "70663"
+    },
+    {
+        "address": "336 NORTH HOOD STREET",
+        "city": "LAKE PROVIDENCE",
+        "county_name": "EAST CARROLL",
+        "emergency_services": true,
+        "hospital_name": "EAST CARROLL PARISH HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -91.171635,
+                32.811245
+            ],
+            "type": "Point"
+        },
+        "location_address": "336 NORTH HOOD STREET",
+        "location_city": "LAKE PROVIDENCE",
+        "location_state": "LA",
+        "location_zip": "71254",
+        "phone_number": "3185594023",
+        "provider_id": "190208",
+        "state": "LA",
+        "zip_code": "71254"
+    },
+    {
+        "address": "532 JEFFERSON TERRACE STREET",
+        "city": "NEW IBERIA",
+        "county_name": "IBERIA",
+        "emergency_services": false,
+        "hospital_name": "IBERIA REHABILITATION HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "532 JEFFERSON TERRACE STREET",
+        "location_city": "NEW IBERIA",
+        "location_state": "LA",
+        "location_zip": "70560",
+        "phone_number": "3373646923",
+        "provider_id": "190304",
+        "state": "LA",
+        "zip_code": "70560"
+    },
+    {
+        "address": "1634 ELTON ROAD",
+        "city": "JENNINGS",
+        "county_name": "JEFFERSON DAVIS",
+        "emergency_services": true,
+        "hospital_name": "JENNINGS AMERICAN LEGION HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.66344,
+                30.23828
+            ],
+            "type": "Point"
+        },
+        "location_address": "1634 ELTON ROAD",
+        "location_city": "JENNINGS",
+        "location_state": "LA",
+        "location_zip": "70546",
+        "phone_number": "3376167000",
+        "provider_id": "190053",
+        "state": "LA",
+        "zip_code": "70546"
+    },
+    {
+        "address": "1541 KINGS HIGHWAY",
+        "city": "SHREVEPORT",
+        "county_name": "CADDO",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY HEALTH SHREVEPORT",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.761575,
+                32.48179
+            ],
+            "type": "Point"
+        },
+        "location_address": "1541 KINGS HIGHWAY",
+        "location_city": "SHREVEPORT",
+        "location_state": "LA",
+        "location_zip": "71103",
+        "phone_number": "3186755000",
+        "provider_id": "190098",
+        "state": "LA",
+        "zip_code": "71103"
+    },
+    {
+        "address": "651 NORTH BOLTON AVE",
+        "city": "ALEXANDRIA",
+        "county_name": "RAPIDES",
+        "emergency_services": false,
+        "hospital_name": "CENTRAL LOUISIANA SURGICAL HOSPITAL",
+        "hospital_ownership": "Physician",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.466938,
+                31.314821
+            ],
+            "type": "Point"
+        },
+        "location_address": "651 NORTH BOLTON AVE",
+        "location_city": "ALEXANDRIA",
+        "location_state": "LA",
+        "location_zip": "71301",
+        "phone_number": "3184496400",
+        "provider_id": "190298",
+        "state": "LA",
+        "zip_code": "71301"
+    },
+    {
+        "address": "1097 NORTHWEST BLVD",
+        "city": "FRANKLIN",
+        "county_name": "SAINT MARY",
+        "emergency_services": true,
+        "hospital_name": "FRANKLIN FOUNDATION HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -91.52661,
+                29.800765
+            ],
+            "type": "Point"
+        },
+        "location_address": "1097 NORTHWEST BLVD",
+        "location_city": "FRANKLIN",
+        "location_state": "LA",
+        "location_zip": "70538",
+        "phone_number": "3378280760",
+        "provider_id": "191310",
+        "state": "LA",
+        "zip_code": "70538"
+    },
+    {
+        "address": "800 E MAIN",
+        "city": "VILLE PLATTE",
+        "county_name": "EVANGELINE",
+        "emergency_services": true,
+        "hospital_name": "MERCY REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -92.265504,
+                30.684745
+            ],
+            "type": "Point"
+        },
+        "location_address": "800 E MAIN",
+        "location_city": "VILLE PLATTE",
+        "location_state": "LA",
+        "location_zip": "70586",
+        "phone_number": "3373635684",
+        "provider_id": "190167",
+        "state": "LA",
+        "zip_code": "70586"
+    },
+    {
+        "address": "810 SOUTH BROADWAY STREET",
+        "city": "CHURCH POINT",
+        "county_name": "ACADIA",
+        "emergency_services": true,
+        "hospital_name": "ACADIA ST LANDRY",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -92.211239,
+                30.394328
+            ],
+            "type": "Point"
+        },
+        "location_address": "810 SOUTH BROADWAY STREET",
+        "location_city": "CHURCH POINT",
+        "location_state": "LA",
+        "location_zip": "70525",
+        "phone_number": "3376845435",
+        "provider_id": "191319",
+        "state": "LA",
+        "zip_code": "70525"
+    },
+    {
+        "address": "187 NINTH ST/HWY 84 WEST",
+        "city": "JENA",
+        "county_name": "LA SALLE",
+        "emergency_services": true,
+        "hospital_name": "LASALLE GENERAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "187 NINTH ST/HWY 84 WEST",
+        "location_city": "JENA",
+        "location_state": "LA",
+        "location_zip": "71342",
+        "phone_number": "3189929200",
+        "provider_id": "190145",
+        "state": "LA",
+        "zip_code": "71342"
+    },
+    {
+        "address": "95 JUDGE TANNER BOULEVARD",
+        "city": "COVINGTON",
+        "county_name": "SAINT TAMMANY",
+        "emergency_services": true,
+        "hospital_name": "LAKEVIEW REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -90.081172,
+                30.409916
+            ],
+            "type": "Point"
+        },
+        "location_address": "95 JUDGE TANNER BOULEVARD",
+        "location_city": "COVINGTON",
+        "location_state": "LA",
+        "location_zip": "70433",
+        "phone_number": "9858674443",
+        "provider_id": "190177",
+        "state": "LA",
+        "zip_code": "70433"
+    },
+    {
+        "address": "620 EAST COLLEGE STREET",
+        "city": "HOMER",
+        "county_name": "CLAIBORNE",
+        "emergency_services": true,
+        "hospital_name": "CLAIBORNE MEMORIAL MEDICAL CENTER",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -93.062497,
+                32.794636
+            ],
+            "type": "Point"
+        },
+        "location_address": "620 EAST COLLEGE STREET",
+        "location_city": "HOMER",
+        "location_state": "LA",
+        "location_zip": "71040",
+        "phone_number": "3189272024",
+        "provider_id": "190114",
+        "state": "LA",
+        "zip_code": "71040"
+    }
+]

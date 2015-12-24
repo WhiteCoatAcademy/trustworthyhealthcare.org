@@ -1,19 +1,18 @@
-[ {
-  "hospital_name" : "GUAM MEMORIAL HOSPITAL AUTHORITY",
-  "phone_number" : {
-    "phone_number" : "6716472552"
-  },
-  "zip_code" : "96913",
-  "location" : {
-    "needs_recoding" : false,
-    "human_address" : "{\"address\":\"85O GOV CARLOS G CAMACHO ROAD\",\"city\":\"TAMUNING\",\"state\":\"GU\",\"zip\":\"\"}"
-  },
-  "address" : "85O GOV CARLOS G CAMACHO ROAD",
-  "provider_id" : "650001",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "GU",
-  "emergency_services" : true,
-  "city" : "TAMUNING"
-}
- ]
+[
+    {
+        "address": "85O GOV CARLOS G CAMACHO ROAD",
+        "city": "TAMUNING",
+        "emergency_services": true,
+        "hospital_name": "GUAM MEMORIAL HOSPITAL AUTHORITY",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "85O GOV CARLOS G CAMACHO ROAD",
+        "location_city": "TAMUNING",
+        "location_state": "GU",
+        "location_zip": "96913",
+        "phone_number": "6716472552",
+        "provider_id": "650001",
+        "state": "GU",
+        "zip_code": "96913"
+    }
+]

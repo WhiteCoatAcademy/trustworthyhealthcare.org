@@ -1,316 +1,341 @@
-[ {
-  "hospital_name" : "CENTRAL VERMONT MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8023714100"
-  },
-  "zip_code" : "05641",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.50146750299996",
-    "latitude" : "44.196893243000034",
-    "human_address" : "{\"address\":\"BOX 547\",\"city\":\"BARRE\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "BOX 547",
-  "provider_id" : "470001",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "WASHINGTON",
-  "city" : "BARRE"
-}
-, {
-  "hospital_name" : "FLETCHER ALLEN HOSPITAL OF VERMONT",
-  "phone_number" : {
-    "phone_number" : "8028470000"
-  },
-  "zip_code" : "05401",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-73.19654888199995",
-    "latitude" : "44.48067247900008",
-    "human_address" : "{\"address\":\"111 COLCHESTER AVE\",\"city\":\"BURLINGTON\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "111 COLCHESTER AVE",
-  "provider_id" : "470003",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "CHITTENDEN",
-  "city" : "BURLINGTON"
-}
-, {
-  "hospital_name" : "RUTLAND REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8027757111"
-  },
-  "zip_code" : "05701",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.95581416499994",
-    "latitude" : "43.59924257000006",
-    "human_address" : "{\"address\":\"160 ALLEN ST\",\"city\":\"RUTLAND\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "160 ALLEN ST",
-  "provider_id" : "470005",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "RUTLAND",
-  "city" : "RUTLAND"
-}
-, {
-  "hospital_name" : "BRATTLEBORO MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8022570341"
-  },
-  "zip_code" : "05301",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.56480461599995",
-    "latitude" : "42.84213695600005",
-    "human_address" : "{\"address\":\"17 BELMONT AVE\",\"city\":\"BRATTLEBORO\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "17 BELMONT AVE",
-  "provider_id" : "470011",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "WINDHAM",
-  "city" : "BRATTLEBORO"
-}
-, {
-  "hospital_name" : "SOUTHWESTERN VERMONT MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8024426361"
-  },
-  "zip_code" : "05201",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-73.20756008699993",
-    "latitude" : "42.87354585400004",
-    "human_address" : "{\"address\":\"100 HOSPITAL DRIVE\",\"city\":\"BENNINGTON\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "100 HOSPITAL DRIVE",
-  "provider_id" : "470012",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "BENNINGTON",
-  "city" : "BENNINGTON"
-}
-, {
-  "hospital_name" : "WHITE RIVER JCT VA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8022959363"
-  },
-  "zip_code" : "05009",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.32231080299994",
-    "latitude" : "43.65020735600007",
-    "human_address" : "{\"address\":\"215 N. MAIN ST.\",\"city\":\"WHITE RIVER JUNCTION\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "215 N. MAIN ST.",
-  "provider_id" : "47001F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "VT",
-  "emergency_services" : false,
-  "county_name" : "WINDSOR",
-  "city" : "WHITE RIVER JUNCTION"
-}
-, {
-  "hospital_name" : "NORTHWESTERN MEDICAL CENTER INC",
-  "phone_number" : {
-    "phone_number" : "8025245911"
-  },
-  "zip_code" : "05478",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-73.07285157299998",
-    "latitude" : "44.80662071800003",
-    "human_address" : "{\"address\":\"133 FAIRFIELD STREET\",\"city\":\"SAINT ALBANS\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "133 FAIRFIELD STREET",
-  "provider_id" : "470024",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "FRANKLIN",
-  "city" : "SAINT ALBANS"
-}
-, {
-  "hospital_name" : "GRACE COTTAGE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8023657920"
-  },
-  "zip_code" : "05353",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.66633793799997",
-    "latitude" : "43.044840796000074",
-    "human_address" : "{\"address\":\"PO BOX 216\",\"city\":\"TOWNSHEND\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "PO BOX 216",
-  "provider_id" : "471300",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "WINDHAM",
-  "city" : "TOWNSHEND"
-}
-, {
-  "hospital_name" : "GIFFORD MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8027284441"
-  },
-  "zip_code" : "05060",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.66588968999997",
-    "latitude" : "43.91660518000003",
-    "human_address" : "{\"address\":\"44 SOUTH MAIN STREET\",\"city\":\"RANDOLPH\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "44 SOUTH MAIN STREET",
-  "provider_id" : "471301",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "ORANGE",
-  "city" : "RANDOLPH"
-}
-, {
-  "hospital_name" : "MT ASCUTNEY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8026746711"
-  },
-  "zip_code" : "05089",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.40104121699994",
-    "latitude" : "43.48756904000004",
-    "human_address" : "{\"address\":\"289 COUNTY ROAD\",\"city\":\"WINDSOR\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "289 COUNTY ROAD",
-  "provider_id" : "471302",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "WINDSOR",
-  "city" : "WINDSOR"
-}
-, {
-  "hospital_name" : "NORTHEASTERN VERMONT REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8027487400"
-  },
-  "zip_code" : "05819",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.00891045199995",
-    "latitude" : "44.44528705600004",
-    "human_address" : "{\"address\":\"1315 HOSPITAL DRIVE\",\"city\":\"SAINT JOHNSBURY\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "1315 HOSPITAL DRIVE",
-  "provider_id" : "471303",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "CALEDONIA",
-  "city" : "SAINT JOHNSBURY"
-}
-, {
-  "hospital_name" : "NORTH COUNTRY HOSPITAL AND HEALTH CENTER",
-  "phone_number" : {
-    "phone_number" : "8023347331"
-  },
-  "zip_code" : "05855",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.20172748299996",
-    "latitude" : "44.954721317000065",
-    "human_address" : "{\"address\":\"189 PROUTY DRIVE\",\"city\":\"NEWPORT\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "189 PROUTY DRIVE",
-  "provider_id" : "471304",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "ORLEANS",
-  "city" : "NEWPORT"
-}
-, {
-  "hospital_name" : "COPLEY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8028884231"
-  },
-  "zip_code" : "05661",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.59138314799998",
-    "latitude" : "44.55417192600004",
-    "human_address" : "{\"address\":\"528 WASHINGTON HIGHWAY\",\"city\":\"MORRISVILLE\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "528 WASHINGTON HIGHWAY",
-  "provider_id" : "471305",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "LAMOILLE",
-  "city" : "MORRISVILLE"
-}
-, {
-  "hospital_name" : "SPRINGFIELD HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8028852151"
-  },
-  "zip_code" : "05156",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-72.48145720699995",
-    "latitude" : "43.296563295000055",
-    "human_address" : "{\"address\":\"PO BOX 2003\",\"city\":\"SPRINGFIELD\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "PO BOX 2003",
-  "provider_id" : "471306",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "WINDSOR",
-  "city" : "SPRINGFIELD"
-}
-, {
-  "hospital_name" : "PORTER HOSPITAL, INC",
-  "phone_number" : {
-    "phone_number" : "8023884701"
-  },
-  "zip_code" : "05753",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-73.16843781499995",
-    "latitude" : "43.99945424200007",
-    "human_address" : "{\"address\":\"115 PORTER DRIVE\",\"city\":\"MIDDLEBURY\",\"state\":\"VT\",\"zip\":\"\"}"
-  },
-  "address" : "115 PORTER DRIVE",
-  "provider_id" : "471307",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "VT",
-  "emergency_services" : true,
-  "county_name" : "ADDISON",
-  "city" : "MIDDLEBURY"
-}
- ]
+[
+    {
+        "address": "215 N. MAIN ST.",
+        "city": "WHITE RIVER JUNCTION",
+        "county_name": "WINDSOR",
+        "emergency_services": false,
+        "hospital_name": "WHITE RIVER JCT VA MEDICAL CENTER",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -72.322452,
+                43.650267
+            ],
+            "type": "Point"
+        },
+        "location_address": "215 N. MAIN ST.",
+        "location_city": "WHITE RIVER JUNCTION",
+        "location_state": "VT",
+        "location_zip": "05009",
+        "phone_number": "8022959363",
+        "provider_id": "47001F",
+        "state": "VT",
+        "zip_code": "05009"
+    },
+    {
+        "address": "115 PORTER DRIVE",
+        "city": "MIDDLEBURY",
+        "county_name": "ADDISON",
+        "emergency_services": true,
+        "hospital_name": "PORTER HOSPITAL, INC",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -73.169203,
+                43.999275
+            ],
+            "type": "Point"
+        },
+        "location_address": "115 PORTER DRIVE",
+        "location_city": "MIDDLEBURY",
+        "location_state": "VT",
+        "location_zip": "05753",
+        "phone_number": "8023884701",
+        "provider_id": "471307",
+        "state": "VT",
+        "zip_code": "05753"
+    },
+    {
+        "address": "111 COLCHESTER AVE",
+        "city": "BURLINGTON",
+        "county_name": "CHITTENDEN",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY OF VERMONT MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -73.195971,
+                44.480794
+            ],
+            "type": "Point"
+        },
+        "location_address": "111 COLCHESTER AVE",
+        "location_city": "BURLINGTON",
+        "location_state": "VT",
+        "location_zip": "05401",
+        "phone_number": "8028470000",
+        "provider_id": "470003",
+        "state": "VT",
+        "zip_code": "05401"
+    },
+    {
+        "address": "BOX 547",
+        "city": "BARRE",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "CENTRAL VERMONT MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "BOX 547",
+        "location_city": "BARRE",
+        "location_state": "VT",
+        "location_zip": "05641",
+        "phone_number": "8023714100",
+        "provider_id": "470001",
+        "state": "VT",
+        "zip_code": "05641"
+    },
+    {
+        "address": "528 WASHINGTON HIGHWAY",
+        "city": "MORRISVILLE",
+        "county_name": "LAMOILLE",
+        "emergency_services": true,
+        "hospital_name": "COPLEY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -72.591365,
+                44.554191
+            ],
+            "type": "Point"
+        },
+        "location_address": "528 WASHINGTON HIGHWAY",
+        "location_city": "MORRISVILLE",
+        "location_state": "VT",
+        "location_zip": "05661",
+        "phone_number": "8028884231",
+        "provider_id": "471305",
+        "state": "VT",
+        "zip_code": "05661"
+    },
+    {
+        "address": "160 ALLEN ST",
+        "city": "RUTLAND",
+        "county_name": "RUTLAND",
+        "emergency_services": true,
+        "hospital_name": "RUTLAND REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -72.956122,
+                43.599193
+            ],
+            "type": "Point"
+        },
+        "location_address": "160 ALLEN ST",
+        "location_city": "RUTLAND",
+        "location_state": "VT",
+        "location_zip": "05701",
+        "phone_number": "8027757111",
+        "provider_id": "470005",
+        "state": "VT",
+        "zip_code": "05701"
+    },
+    {
+        "address": "PO BOX 2003",
+        "city": "SPRINGFIELD",
+        "county_name": "WINDSOR",
+        "emergency_services": true,
+        "hospital_name": "SPRINGFIELD HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "PO BOX 2003",
+        "location_city": "SPRINGFIELD",
+        "location_state": "VT",
+        "location_zip": "05156",
+        "phone_number": "8028852151",
+        "provider_id": "471306",
+        "state": "VT",
+        "zip_code": "05156"
+    },
+    {
+        "address": "289 COUNTY ROAD",
+        "city": "WINDSOR",
+        "county_name": "WINDSOR",
+        "emergency_services": true,
+        "hospital_name": "MT ASCUTNEY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -72.40091,
+                43.487522
+            ],
+            "type": "Point"
+        },
+        "location_address": "289 COUNTY ROAD",
+        "location_city": "WINDSOR",
+        "location_state": "VT",
+        "location_zip": "05089",
+        "phone_number": "8026746711",
+        "provider_id": "471302",
+        "state": "VT",
+        "zip_code": "05089"
+    },
+    {
+        "address": "17 BELMONT AVE",
+        "city": "BRATTLEBORO",
+        "county_name": "WINDHAM",
+        "emergency_services": true,
+        "hospital_name": "BRATTLEBORO MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -72.565723,
+                42.842272
+            ],
+            "type": "Point"
+        },
+        "location_address": "17 BELMONT AVE",
+        "location_city": "BRATTLEBORO",
+        "location_state": "VT",
+        "location_zip": "05301",
+        "phone_number": "8022570341",
+        "provider_id": "470011",
+        "state": "VT",
+        "zip_code": "05301"
+    },
+    {
+        "address": "133 FAIRFIELD STREET",
+        "city": "SAINT ALBANS",
+        "county_name": "FRANKLIN",
+        "emergency_services": true,
+        "hospital_name": "NORTHWESTERN MEDICAL CENTER INC",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -73.073446,
+                44.806802
+            ],
+            "type": "Point"
+        },
+        "location_address": "133 FAIRFIELD STREET",
+        "location_city": "SAINT ALBANS",
+        "location_state": "VT",
+        "location_zip": "05478",
+        "phone_number": "8025245911",
+        "provider_id": "470024",
+        "state": "VT",
+        "zip_code": "05478"
+    },
+    {
+        "address": "1315 HOSPITAL DRIVE",
+        "city": "SAINT JOHNSBURY",
+        "county_name": "CALEDONIA",
+        "emergency_services": true,
+        "hospital_name": "NORTHEASTERN VERMONT REGIONAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -72.009438,
+                44.44526
+            ],
+            "type": "Point"
+        },
+        "location_address": "1315 HOSPITAL DRIVE",
+        "location_city": "SAINT JOHNSBURY",
+        "location_state": "VT",
+        "location_zip": "05819",
+        "phone_number": "8027487400",
+        "provider_id": "471303",
+        "state": "VT",
+        "zip_code": "05819"
+    },
+    {
+        "address": "100 HOSPITAL DRIVE",
+        "city": "BENNINGTON",
+        "county_name": "BENNINGTON",
+        "emergency_services": true,
+        "hospital_name": "SOUTHWESTERN VERMONT MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -73.206746,
+                42.873404
+            ],
+            "type": "Point"
+        },
+        "location_address": "100 HOSPITAL DRIVE",
+        "location_city": "BENNINGTON",
+        "location_state": "VT",
+        "location_zip": "05201",
+        "phone_number": "8024426361",
+        "provider_id": "470012",
+        "state": "VT",
+        "zip_code": "05201"
+    },
+    {
+        "address": "189 PROUTY DRIVE",
+        "city": "NEWPORT",
+        "county_name": "ORLEANS",
+        "emergency_services": true,
+        "hospital_name": "NORTH COUNTRY HOSPITAL AND HEALTH CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -72.200855,
+                44.95464
+            ],
+            "type": "Point"
+        },
+        "location_address": "189 PROUTY DRIVE",
+        "location_city": "NEWPORT",
+        "location_state": "VT",
+        "location_zip": "05855",
+        "phone_number": "8023347331",
+        "provider_id": "471304",
+        "state": "VT",
+        "zip_code": "05855"
+    },
+    {
+        "address": "44 SOUTH MAIN STREET",
+        "city": "RANDOLPH",
+        "county_name": "ORANGE",
+        "emergency_services": true,
+        "hospital_name": "GIFFORD MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -72.665967,
+                43.916728
+            ],
+            "type": "Point"
+        },
+        "location_address": "44 SOUTH MAIN STREET",
+        "location_city": "RANDOLPH",
+        "location_state": "VT",
+        "location_zip": "05060",
+        "phone_number": "8027284441",
+        "provider_id": "471301",
+        "state": "VT",
+        "zip_code": "05060"
+    },
+    {
+        "address": "PO BOX 216",
+        "city": "TOWNSHEND",
+        "county_name": "WINDHAM",
+        "emergency_services": true,
+        "hospital_name": "GRACE COTTAGE HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "PO BOX 216",
+        "location_city": "TOWNSHEND",
+        "location_state": "VT",
+        "location_zip": "05353",
+        "phone_number": "8023657920",
+        "provider_id": "471300",
+        "state": "VT",
+        "zip_code": "05353"
+    }
+]

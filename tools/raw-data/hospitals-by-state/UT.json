@@ -1,967 +1,1064 @@
-[ {
-  "hospital_name" : "UTAH VALLEY REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8013737850"
-  },
-  "zip_code" : "84604",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.66739467299999",
-    "latitude" : "40.24649080700004",
-    "human_address" : "{\"address\":\"1034 NORTH 500 WEST\",\"city\":\"PROVO\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "1034 NORTH 500 WEST",
-  "provider_id" : "460001",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "UTAH",
-  "city" : "PROVO"
-}
-, {
-  "hospital_name" : "SALT LAKE REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8013504111"
-  },
-  "zip_code" : "84102",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.86093088199999",
-    "latitude" : "40.76933693600006",
-    "human_address" : "{\"address\":\"1050 EAST SOUTH TEMPLE\",\"city\":\"SALT LAKE CITY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "1050 EAST SOUTH TEMPLE",
-  "provider_id" : "460003",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SALT LAKE",
-  "city" : "SALT LAKE CITY"
-}
-, {
-  "hospital_name" : "MCKAY DEE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8013872800"
-  },
-  "zip_code" : "84403",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.94917334099995",
-    "latitude" : "41.182842762000064",
-    "human_address" : "{\"address\":\"4401 HARRISON BOULEVARD\",\"city\":\"OGDEN\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "4401 HARRISON BOULEVARD",
-  "provider_id" : "460004",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "WEBER",
-  "city" : "OGDEN"
-}
-, {
-  "hospital_name" : "OGDEN REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8014792111"
-  },
-  "zip_code" : "84405",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.96866503299998",
-    "latitude" : "41.16341207600004",
-    "human_address" : "{\"address\":\"5475 SOUTH 500 EAST\",\"city\":\"OGDEN\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "5475 SOUTH 500 EAST",
-  "provider_id" : "460005",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "WEBER",
-  "city" : "OGDEN"
-}
-, {
-  "hospital_name" : "LDS HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8014081100"
-  },
-  "zip_code" : "84143",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.91300138699995",
-    "latitude" : "40.65968998000005",
-    "human_address" : "{\"address\":\"8TH AVENUE AND C STREET\",\"city\":\"SALT LAKE CITY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "8TH AVENUE AND C STREET",
-  "provider_id" : "460006",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SALT LAKE",
-  "city" : "SALT LAKE CITY"
-}
-, {
-  "hospital_name" : "VALLEY VIEW MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4358685800"
-  },
-  "zip_code" : "84721",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-113.06404143699996",
-    "latitude" : "37.70026348600004",
-    "human_address" : "{\"address\":\"1303 NORTH MAIN STREET\",\"city\":\"CEDAR CITY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "1303 NORTH MAIN STREET",
-  "provider_id" : "460007",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "IRON",
-  "city" : "CEDAR CITY"
-}
-, {
-  "hospital_name" : "UNIVERSITY HEALTH CARE/UNIV HOSPITALS AND  CLINICS",
-  "phone_number" : {
-    "phone_number" : "8015812121"
-  },
-  "zip_code" : "84132",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.83684362499997",
-    "latitude" : "40.77298795200005",
-    "human_address" : "{\"address\":\"50 NORTH MEDICAL DRIVE\",\"city\":\"SALT LAKE CITY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "50 NORTH MEDICAL DRIVE",
-  "provider_id" : "460009",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SALT LAKE",
-  "city" : "SALT LAKE CITY"
-}
-, {
-  "hospital_name" : "INTERMOUNTAIN MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8015077000"
-  },
-  "zip_code" : "84107",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.89373522999995",
-    "latitude" : "40.66034663600004",
-    "human_address" : "{\"address\":\"5121 SOUTH COTTONWOOD STREET\",\"city\":\"MURRAY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "5121 SOUTH COTTONWOOD STREET",
-  "provider_id" : "460010",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SALT LAKE",
-  "city" : "MURRAY"
-}
-, {
-  "hospital_name" : "CASTLEVIEW HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4356374800"
-  },
-  "zip_code" : "84501",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-110.83118408299998",
-    "latitude" : "39.60453376300006",
-    "human_address" : "{\"address\":\"300 NORTH HOSPITAL DRIVE\",\"city\":\"PRICE\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "300 NORTH HOSPITAL DRIVE",
-  "provider_id" : "460011",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "CARBON",
-  "city" : "PRICE"
-}
-, {
-  "hospital_name" : "MOUNTAIN VIEW HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8014657100"
-  },
-  "zip_code" : "84651",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.71522704399996",
-    "latitude" : "40.04461333800003",
-    "human_address" : "{\"address\":\"1000 EAST 100 NORTH\",\"city\":\"PAYSON\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "1000 EAST 100 NORTH",
-  "provider_id" : "460013",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "UTAH",
-  "city" : "PAYSON"
-}
-, {
-  "hospital_name" : "MOUNTAIN WEST MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4358433700"
-  },
-  "zip_code" : "84074",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-112.29591041599997",
-    "latitude" : "40.566694193000046",
-    "human_address" : "{\"address\":\"2055 NORTH MAIN STREET\",\"city\":\"TOOELE\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "2055 NORTH MAIN STREET",
-  "provider_id" : "460014",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "TOOELE",
-  "city" : "TOOELE"
-}
-, {
-  "hospital_name" : "LOGAN REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4357161000"
-  },
-  "zip_code" : "84341",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.82112768799999",
-    "latitude" : "41.75743373000006",
-    "human_address" : "{\"address\":\"500 EAST 1400 NORTH\",\"city\":\"LOGAN\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "500 EAST 1400 NORTH",
-  "provider_id" : "460015",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "CACHE",
-  "city" : "LOGAN"
-}
-, {
-  "hospital_name" : "BRIGHAM CITY COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4357349471"
-  },
-  "zip_code" : "84302",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-112.02418016899998",
-    "latitude" : "41.49152653600004",
-    "human_address" : "{\"address\":\"950 SOUTH MEDICAL DRIVE\",\"city\":\"BRIGHAM CITY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "950 SOUTH MEDICAL DRIVE",
-  "provider_id" : "460017",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "BOX ELDER",
-  "city" : "BRIGHAM CITY"
-}
-, {
-  "hospital_name" : "UINTAH BASIN MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4357226163"
-  },
-  "zip_code" : "84066",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-109.99608898599996",
-    "latitude" : "40.303424936000056",
-    "human_address" : "{\"address\":\"250 WEST 300 NORTH (75-2)\",\"city\":\"ROOSEVELT\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "250 WEST 300 NORTH (75-2)",
-  "provider_id" : "460019",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "DUCHESNE",
-  "city" : "ROOSEVELT"
-}
-, {
-  "hospital_name" : "DIXIE REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4352512100"
-  },
-  "zip_code" : "84790",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-113.55333508599995",
-    "latitude" : "37.09982198100005",
-    "human_address" : "{\"address\":\"1380 EAST MEDICAL CENTER DRIVE\",\"city\":\"ST GEORGE\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "1380 EAST MEDICAL CENTER DRIVE",
-  "provider_id" : "460021",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "WASHINGTON",
-  "city" : "ST GEORGE"
-}
-, {
-  "hospital_name" : "AMERICAN FORK HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8018553305"
-  },
-  "zip_code" : "84003",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.76904436599995",
-    "latitude" : "40.38027072600005",
-    "human_address" : "{\"address\":\"170 NORTH 1100 EAST\",\"city\":\"AMERICAN FORK\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "170 NORTH 1100 EAST",
-  "provider_id" : "460023",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "UTAH",
-  "city" : "AMERICAN FORK"
-}
-, {
-  "hospital_name" : "SEVIER VALLEY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4358934100"
-  },
-  "zip_code" : "84701",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-112.08475199999998",
-    "latitude" : "38.78209039200004",
-    "human_address" : "{\"address\":\"1000 NORTH MAIN STREET\",\"city\":\"RICHFIELD\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "1000 NORTH MAIN STREET",
-  "provider_id" : "460026",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SEVIER",
-  "city" : "RICHFIELD"
-}
-, {
-  "hospital_name" : "VA SALT LAKE CITY HEALTHCARE - GEORGE E. WAHLEN VA",
-  "phone_number" : {
-    "phone_number" : "8015841211"
-  },
-  "zip_code" : "84148",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.83855576599996",
-    "latitude" : "40.758292907000055",
-    "human_address" : "{\"address\":\"500 FOOTHILL BLVD.\",\"city\":\"SALT LAKE CITY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "500 FOOTHILL BLVD.",
-  "provider_id" : "46002F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "UT",
-  "emergency_services" : false,
-  "county_name" : "SALT LAKE",
-  "city" : "SALT LAKE CITY"
-}
-, {
-  "hospital_name" : "ASHLEY REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4357893342"
-  },
-  "zip_code" : "84078",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-109.52668436499994",
-    "latitude" : "40.457921845000044",
-    "human_address" : "{\"address\":\"150 WEST 100 NORTH\",\"city\":\"VERNAL\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "150 WEST 100 NORTH",
-  "provider_id" : "460030",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "UINTAH",
-  "city" : "VERNAL"
-}
-, {
-  "hospital_name" : "GARFIELD MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4356768811"
-  },
-  "zip_code" : "84759",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-112.42784327299995",
-    "latitude" : "37.82597250800006",
-    "human_address" : "{\"address\":\"200 NORTH 400 EAST\",\"city\":\"PANGUITCH\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "200 NORTH 400 EAST",
-  "provider_id" : "460033",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "GARFIELD",
-  "city" : "PANGUITCH"
-}
-, {
-  "hospital_name" : "BEAVER VALLEY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4354387102"
-  },
-  "zip_code" : "84713",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-112.64318848899995",
-    "latitude" : "38.289840242000025",
-    "human_address" : "{\"address\":\"1109 NORTH 100 WEST\",\"city\":\"BEAVER\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "1109 NORTH 100 WEST",
-  "provider_id" : "460035",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "BEAVER",
-  "city" : "BEAVER"
-}
-, {
-  "hospital_name" : "BEAR RIVER VALLEY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4352074708"
-  },
-  "zip_code" : "84337",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-112.18143967599997",
-    "latitude" : "41.72342380200007",
-    "human_address" : "{\"address\":\"905 NORTH 1000 WEST\",\"city\":\"TREMONTON\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "905 NORTH 1000 WEST",
-  "provider_id" : "460039",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "BOX ELDER",
-  "city" : "TREMONTON"
-}
-, {
-  "hospital_name" : "DAVIS HOSPITAL AND MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8018071000"
-  },
-  "zip_code" : "84041",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.99543086899996",
-    "latitude" : "41.08921787400004",
-    "human_address" : "{\"address\":\"1600 WEST ANTELOPE DRIVE\",\"city\":\"LAYTON\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "1600 WEST ANTELOPE DRIVE",
-  "provider_id" : "460041",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "DAVIS",
-  "city" : "LAYTON"
-}
-, {
-  "hospital_name" : "LAKEVIEW HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8012992211"
-  },
-  "zip_code" : "84010",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.86823969799997",
-    "latitude" : "40.88668360400004",
-    "human_address" : "{\"address\":\"630 EAST MEDICAL DRIVE\",\"city\":\"BOUNTIFUL\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "630 EAST MEDICAL DRIVE",
-  "provider_id" : "460042",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "DAVIS",
-  "city" : "BOUNTIFUL"
-}
-, {
-  "hospital_name" : "OREM COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8017143307"
-  },
-  "zip_code" : "84057",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.70545684599995",
-    "latitude" : "40.30326027600006",
-    "human_address" : "{\"address\":\"331 NORTH 400 WEST\",\"city\":\"OREM\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "331 NORTH 400 WEST",
-  "provider_id" : "460043",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "UTAH",
-  "city" : "OREM"
-}
-, {
-  "hospital_name" : "ALTA VIEW HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8015012600"
-  },
-  "zip_code" : "84094",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.85317706999996",
-    "latitude" : "40.575599778000026",
-    "human_address" : "{\"address\":\"9660 SOUTH 1300 EAST\",\"city\":\"SANDY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "9660 SOUTH 1300 EAST",
-  "provider_id" : "460044",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SALT LAKE",
-  "city" : "SANDY"
-}
-, {
-  "hospital_name" : "ST MARKS HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8012687700"
-  },
-  "zip_code" : "84124",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.85675983399994",
-    "latitude" : "40.68704076400007",
-    "human_address" : "{\"address\":\"1200 EAST 3900 SOUTH\",\"city\":\"SALT LAKE CITY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "1200 EAST 3900 SOUTH",
-  "provider_id" : "460047",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SALT LAKE",
-  "city" : "SALT LAKE CITY"
-}
-, {
-  "hospital_name" : "THE ORTHOPEDIC SPECIALTY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8013144100"
-  },
-  "zip_code" : "84107",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.89840841299997",
-    "latitude" : "40.64408365700007",
-    "human_address" : "{\"address\":\"5848 SOUTH 300 EAST\",\"city\":\"MURRAY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "5848 SOUTH 300 EAST",
-  "provider_id" : "460049",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : false,
-  "county_name" : "SALT LAKE",
-  "city" : "MURRAY"
-}
-, {
-  "hospital_name" : "JORDAN VALLEY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8015618888"
-  },
-  "zip_code" : "84088",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.97527612899995",
-    "latitude" : "40.58793342400003",
-    "human_address" : "{\"address\":\"3580 WEST 9000 SOUTH\",\"city\":\"WEST JORDAN\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "3580 WEST 9000 SOUTH",
-  "provider_id" : "460051",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SALT LAKE",
-  "city" : "WEST JORDAN"
-}
-, {
-  "hospital_name" : "TIMPANOGOS REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8017146800"
-  },
-  "zip_code" : "84057",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.71475115099997",
-    "latitude" : "40.312087907000034",
-    "human_address" : "{\"address\":\"750 WEST 800 NORTH\",\"city\":\"OREM\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "750 WEST 800 NORTH",
-  "provider_id" : "460052",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "UTAH",
-  "city" : "OREM"
-}
-, {
-  "hospital_name" : "CACHE VALLEY SPECIALITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4357139580"
-  },
-  "zip_code" : "84341",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.82310081999998",
-    "latitude" : "41.77553825700005",
-    "human_address" : "{\"address\":\"2380 NORTH 400 EAST\",\"city\":\"NORTH LOGAN\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "2380 NORTH 400 EAST",
-  "provider_id" : "460054",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "CACHE",
-  "city" : "NORTH LOGAN"
-}
-, {
-  "hospital_name" : "PARK CITY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4356587000"
-  },
-  "zip_code" : "84060",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.46651672699994",
-    "latitude" : "40.68647486900005",
-    "human_address" : "{\"address\":\"900 ROUND VALLEY DRIVE\",\"city\":\"PARK CITY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "900 ROUND VALLEY DRIVE",
-  "provider_id" : "460057",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SUMMIT",
-  "city" : "PARK CITY"
-}
-, {
-  "hospital_name" : "RIVERTON HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8012854000"
-  },
-  "zip_code" : "84065",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.979928471",
-    "latitude" : "40.52227547500007",
-    "human_address" : "{\"address\":\"3741 WEST 12600 SOUTH\",\"city\":\"RIVERTON\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "3741 WEST 12600 SOUTH",
-  "provider_id" : "460058",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SALT LAKE",
-  "city" : "RIVERTON"
-}
-, {
-  "hospital_name" : "LANDMARK HOSPITAL OF SALT LAKE CITY, LLC",
-  "phone_number" : {
-    "phone_number" : "8012685400"
-  },
-  "zip_code" : "84107",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.89280785599999",
-    "latitude" : "40.678414359000044",
-    "human_address" : "{\"address\":\"4252 S BIRKHILL BLVD\",\"city\":\"MURRAY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "4252 S BIRKHILL BLVD",
-  "provider_id" : "460059",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : false,
-  "county_name" : "SALT LAKE",
-  "city" : "MURRAY"
-}
-, {
-  "hospital_name" : "LONE PEAK HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8015458000"
-  },
-  "zip_code" : "84020",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.89148067299999",
-    "latitude" : "40.53459279700007",
-    "human_address" : "{\"address\":\"11925 S STATE STREET\",\"city\":\"DRAPER\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "11925 S STATE STREET",
-  "provider_id" : "460060",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SALT LAKE",
-  "city" : "DRAPER"
-}
-, {
-  "hospital_name" : "DELTA COMMUNITY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4358645591"
-  },
-  "zip_code" : "84624",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-112.56026558899998",
-    "latitude" : "39.34974253100006",
-    "human_address" : "{\"address\":\"126 SOUTH WHITE SAGE AVENUE\",\"city\":\"DELTA\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "126 SOUTH WHITE SAGE AVENUE",
-  "provider_id" : "461300",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "MILLARD",
-  "city" : "DELTA"
-}
-, {
-  "hospital_name" : "FILLMORE COMMUNITY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4357435591"
-  },
-  "zip_code" : "84631",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-112.33996106599994",
-    "latitude" : "38.953819775000056",
-    "human_address" : "{\"address\":\"674 SOUTH HIGHWAY 99\",\"city\":\"FILLMORE\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "674 SOUTH HIGHWAY 99",
-  "provider_id" : "461301",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "MILLARD",
-  "city" : "FILLMORE"
-}
-, {
-  "hospital_name" : "MOAB REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4357193501"
-  },
-  "zip_code" : "84532",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-109.56012378099996",
-    "latitude" : "38.57432819300004",
-    "human_address" : "{\"address\":\"450 WEST WILLIAMS WAY\",\"city\":\"MOAB\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "450 WEST WILLIAMS WAY",
-  "provider_id" : "461302",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "GRAND",
-  "city" : "MOAB"
-}
-, {
-  "hospital_name" : "SANPETE VALLEY HOSPITAL - CAH",
-  "phone_number" : {
-    "phone_number" : "4354624123"
-  },
-  "zip_code" : "84647",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.46126347999996",
-    "latitude" : "39.53225359600003",
-    "human_address" : "{\"address\":\"1100 SOUTH MEDICAL DRIVE\",\"city\":\"MOUNT PLEASANT\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "1100 SOUTH MEDICAL DRIVE",
-  "provider_id" : "461303",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SANPETE",
-  "city" : "MOUNT PLEASANT"
-}
-, {
-  "hospital_name" : "CENTRAL VALLEY MEDICAL CENTER - CAH",
-  "phone_number" : {
-    "phone_number" : "4356233000"
-  },
-  "zip_code" : "84648",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.83705088599999",
-    "latitude" : "39.730628066000065",
-    "human_address" : "{\"address\":\"48 WEST 1500 NORTH\",\"city\":\"NEPHI\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "48 WEST 1500 NORTH",
-  "provider_id" : "461304",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "JUAB",
-  "city" : "NEPHI"
-}
-, {
-  "hospital_name" : "GUNNISON VALLEY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4355287246"
-  },
-  "zip_code" : "84634",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.81637890399998",
-    "latitude" : "39.15662908000007",
-    "human_address" : "{\"address\":\"64 EAST 100 NORTH\",\"city\":\"GUNNISON\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "64 EAST 100 NORTH",
-  "provider_id" : "461306",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SANPETE",
-  "city" : "GUNNISON"
-}
-, {
-  "hospital_name" : "HEBER VALLEY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4356542500"
-  },
-  "zip_code" : "84032",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.40908450799998",
-    "latitude" : "40.488898352000035",
-    "human_address" : "{\"address\":\"1485 SOUTH HIGHWAY 40\",\"city\":\"HEBER CITY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "1485 SOUTH HIGHWAY 40",
-  "provider_id" : "461307",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "WASATCH",
-  "city" : "HEBER CITY"
-}
-, {
-  "hospital_name" : "SAN JUAN HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4355872116"
-  },
-  "zip_code" : "84535",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-109.34460540199996",
-    "latitude" : "37.87787989700007",
-    "human_address" : "{\"address\":\"380 WEST 100 NORTH\",\"city\":\"MONTICELLO\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "380 WEST 100 NORTH",
-  "provider_id" : "461308",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SAN JUAN",
-  "city" : "MONTICELLO"
-}
-, {
-  "hospital_name" : "KANE COUNTY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4356445811"
-  },
-  "zip_code" : "84741",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-112.52862508099997",
-    "latitude" : "37.05415050100004",
-    "human_address" : "{\"address\":\"355 NORTH MAIN STREET\",\"city\":\"KANAB\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "355 NORTH MAIN STREET",
-  "provider_id" : "461309",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "KANE",
-  "city" : "KANAB"
-}
-, {
-  "hospital_name" : "BLUE MOUNTAIN HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4356783993"
-  },
-  "zip_code" : "84511",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-109.48153782299994",
-    "latitude" : "37.613404082000045",
-    "human_address" : "{\"address\":\"802 SOUTH 200 WEST\",\"city\":\"BLANDING\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "802 SOUTH 200 WEST",
-  "provider_id" : "461310",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SAN JUAN",
-  "city" : "BLANDING"
-}
-, {
-  "hospital_name" : "PRIMARY CHILDRENS HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8016626200"
-  },
-  "zip_code" : "84113",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-111.83674326999994",
-    "latitude" : "40.76630043500006",
-    "human_address" : "{\"address\":\"100 NORTH MARIO CAPECCHI DRIVE\",\"city\":\"SALT LAKE CITY\",\"state\":\"UT\",\"zip\":\"\"}"
-  },
-  "address" : "100 NORTH MARIO CAPECCHI DRIVE",
-  "provider_id" : "463301",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Childrens",
-  "state" : "UT",
-  "emergency_services" : true,
-  "county_name" : "SALT LAKE",
-  "city" : "SALT LAKE CITY"
-}
- ]
+[
+    {
+        "address": "250 WEST 300 NORTH",
+        "city": "ROOSEVELT",
+        "county_name": "DUCHESNE",
+        "emergency_services": true,
+        "hospital_name": "UINTAH BASIN MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -109.997086,
+                40.302755
+            ],
+            "type": "Point"
+        },
+        "location_address": "250 WEST 300 NORTH",
+        "location_city": "ROOSEVELT",
+        "location_state": "UT",
+        "location_zip": "84066",
+        "phone_number": "4357224691",
+        "provider_id": "460019",
+        "state": "UT",
+        "zip_code": "84066"
+    },
+    {
+        "address": "1600 WEST ANTELOPE DRIVE",
+        "city": "LAYTON",
+        "county_name": "DAVIS",
+        "emergency_services": true,
+        "hospital_name": "DAVIS HOSPITAL AND MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.995094,
+                41.089245
+            ],
+            "type": "Point"
+        },
+        "location_address": "1600 WEST ANTELOPE DRIVE",
+        "location_city": "LAYTON",
+        "location_state": "UT",
+        "location_zip": "84041",
+        "phone_number": "8018077001",
+        "provider_id": "460041",
+        "state": "UT",
+        "zip_code": "84041"
+    },
+    {
+        "address": "1303 NORTH MAIN STREET",
+        "city": "CEDAR CITY",
+        "county_name": "IRON",
+        "emergency_services": true,
+        "hospital_name": "VALLEY VIEW MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -113.063698,
+                37.702469
+            ],
+            "type": "Point"
+        },
+        "location_address": "1303 NORTH MAIN STREET",
+        "location_city": "CEDAR CITY",
+        "location_state": "UT",
+        "location_zip": "84721",
+        "phone_number": "4358685800",
+        "provider_id": "460007",
+        "state": "UT",
+        "zip_code": "84721"
+    },
+    {
+        "address": "1200 EAST 3900 SOUTH",
+        "city": "SALT LAKE CITY",
+        "county_name": "SALT LAKE",
+        "emergency_services": true,
+        "hospital_name": "ST MARKS HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.85757,
+                40.687061
+            ],
+            "type": "Point"
+        },
+        "location_address": "1200 EAST 3900 SOUTH",
+        "location_city": "SALT LAKE CITY",
+        "location_state": "UT",
+        "location_zip": "84124",
+        "phone_number": "8012687700",
+        "provider_id": "460047",
+        "state": "UT",
+        "zip_code": "84124"
+    },
+    {
+        "address": "331 NORTH 400 WEST",
+        "city": "OREM",
+        "county_name": "UTAH",
+        "emergency_services": true,
+        "hospital_name": "OREM COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "331 NORTH 400 WEST",
+        "location_city": "OREM",
+        "location_state": "UT",
+        "location_zip": "84057",
+        "phone_number": "8017143307",
+        "provider_id": "460043",
+        "state": "UT",
+        "zip_code": "84057"
+    },
+    {
+        "address": "674 SOUTH HIGHWAY 99",
+        "city": "FILLMORE",
+        "county_name": "MILLARD",
+        "emergency_services": true,
+        "hospital_name": "FILLMORE COMMUNITY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -112.340232,
+                38.953575
+            ],
+            "type": "Point"
+        },
+        "location_address": "674 SOUTH HIGHWAY 99",
+        "location_city": "FILLMORE",
+        "location_state": "UT",
+        "location_zip": "84631",
+        "phone_number": "4357435591",
+        "provider_id": "461301",
+        "state": "UT",
+        "zip_code": "84631"
+    },
+    {
+        "address": "9660 SOUTH 1300 EAST",
+        "city": "SANDY",
+        "county_name": "SALT LAKE",
+        "emergency_services": true,
+        "hospital_name": "ALTA VIEW HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.85319,
+                40.574927
+            ],
+            "type": "Point"
+        },
+        "location_address": "9660 SOUTH 1300 EAST",
+        "location_city": "SANDY",
+        "location_state": "UT",
+        "location_zip": "84094",
+        "phone_number": "8015012600",
+        "provider_id": "460044",
+        "state": "UT",
+        "zip_code": "84094"
+    },
+    {
+        "address": "355 NORTH MAIN STREET",
+        "city": "KANAB",
+        "county_name": "KANE",
+        "emergency_services": true,
+        "hospital_name": "KANE COUNTY HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -112.528542,
+                37.054093
+            ],
+            "type": "Point"
+        },
+        "location_address": "355 NORTH MAIN STREET",
+        "location_city": "KANAB",
+        "location_state": "UT",
+        "location_zip": "84741",
+        "phone_number": "4356445811",
+        "provider_id": "461309",
+        "state": "UT",
+        "zip_code": "84741"
+    },
+    {
+        "address": "3580 WEST 9000 SOUTH",
+        "city": "WEST JORDAN",
+        "county_name": "SALT LAKE",
+        "emergency_services": true,
+        "hospital_name": "JORDAN VALLEY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.975037,
+                40.587958
+            ],
+            "type": "Point"
+        },
+        "location_address": "3580 WEST 9000 SOUTH",
+        "location_city": "WEST JORDAN",
+        "location_state": "UT",
+        "location_zip": "84088",
+        "phone_number": "8015618888",
+        "provider_id": "460051",
+        "state": "UT",
+        "zip_code": "84088"
+    },
+    {
+        "address": "802 SOUTH 200 WEST",
+        "city": "BLANDING",
+        "county_name": "SAN JUAN",
+        "emergency_services": true,
+        "hospital_name": "BLUE MOUNTAIN HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -109.474297,
+                37.614384
+            ],
+            "type": "Point"
+        },
+        "location_address": "802 SOUTH 200 WEST",
+        "location_city": "BLANDING",
+        "location_state": "UT",
+        "location_zip": "84511",
+        "phone_number": "4356783993",
+        "provider_id": "461310",
+        "state": "UT",
+        "zip_code": "84511"
+    },
+    {
+        "address": "5475 SOUTH 500 EAST",
+        "city": "OGDEN",
+        "county_name": "WEBER",
+        "emergency_services": true,
+        "hospital_name": "OGDEN REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.984329,
+                41.165015
+            ],
+            "type": "Point"
+        },
+        "location_address": "5475 SOUTH 500 EAST",
+        "location_city": "OGDEN",
+        "location_state": "UT",
+        "location_zip": "84405",
+        "phone_number": "8014792111",
+        "provider_id": "460005",
+        "state": "UT",
+        "zip_code": "84405"
+    },
+    {
+        "address": "750 WEST 800 NORTH",
+        "city": "OREM",
+        "county_name": "UTAH",
+        "emergency_services": true,
+        "hospital_name": "TIMPANOGOS REGIONAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.713615,
+                40.312071
+            ],
+            "type": "Point"
+        },
+        "location_address": "750 WEST 800 NORTH",
+        "location_city": "OREM",
+        "location_state": "UT",
+        "location_zip": "84057",
+        "phone_number": "8017146800",
+        "provider_id": "460052",
+        "state": "UT",
+        "zip_code": "84057"
+    },
+    {
+        "address": "200 NORTH 400 EAST",
+        "city": "PANGUITCH",
+        "county_name": "GARFIELD",
+        "emergency_services": true,
+        "hospital_name": "GARFIELD MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -112.427925,
+                37.825779
+            ],
+            "type": "Point"
+        },
+        "location_address": "200 NORTH 400 EAST",
+        "location_city": "PANGUITCH",
+        "location_state": "UT",
+        "location_zip": "84759",
+        "phone_number": "4356768811",
+        "provider_id": "460033",
+        "state": "UT",
+        "zip_code": "84759"
+    },
+    {
+        "address": "1050 EAST SOUTH TEMPLE",
+        "city": "SALT LAKE CITY",
+        "county_name": "SALT LAKE",
+        "emergency_services": true,
+        "hospital_name": "SALT LAKE REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.861309,
+                40.769348
+            ],
+            "type": "Point"
+        },
+        "location_address": "1050 EAST SOUTH TEMPLE",
+        "location_city": "SALT LAKE CITY",
+        "location_state": "UT",
+        "location_zip": "84102",
+        "phone_number": "8013504111",
+        "provider_id": "460003",
+        "state": "UT",
+        "zip_code": "84102"
+    },
+    {
+        "address": "630 EAST MEDICAL DRIVE",
+        "city": "BOUNTIFUL",
+        "county_name": "DAVIS",
+        "emergency_services": true,
+        "hospital_name": "LAKEVIEW HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.868677,
+                40.886859
+            ],
+            "type": "Point"
+        },
+        "location_address": "630 EAST MEDICAL DRIVE",
+        "location_city": "BOUNTIFUL",
+        "location_state": "UT",
+        "location_zip": "84010",
+        "phone_number": "8012992200",
+        "provider_id": "460042",
+        "state": "UT",
+        "zip_code": "84010"
+    },
+    {
+        "address": "300 NORTH HOSPITAL DRIVE",
+        "city": "PRICE",
+        "county_name": "CARBON",
+        "emergency_services": true,
+        "hospital_name": "CASTLEVIEW HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -110.832182,
+                39.605806
+            ],
+            "type": "Point"
+        },
+        "location_address": "300 NORTH HOSPITAL DRIVE",
+        "location_city": "PRICE",
+        "location_state": "UT",
+        "location_zip": "84501",
+        "phone_number": "4356374800",
+        "provider_id": "460011",
+        "state": "UT",
+        "zip_code": "84501"
+    },
+    {
+        "address": "2055 NORTH MAIN STREET",
+        "city": "TOOELE",
+        "county_name": "TOOELE",
+        "emergency_services": true,
+        "hospital_name": "MOUNTAIN WEST MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "2055 NORTH MAIN STREET",
+        "location_city": "TOOELE",
+        "location_state": "UT",
+        "location_zip": "84074",
+        "phone_number": "4358433700",
+        "provider_id": "460014",
+        "state": "UT",
+        "zip_code": "84074"
+    },
+    {
+        "address": "1380 EAST MEDICAL CENTER DRIVE",
+        "city": "ST GEORGE",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "DIXIE REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -113.55333,
+                37.09985
+            ],
+            "type": "Point"
+        },
+        "location_address": "1380 EAST MEDICAL CENTER DRIVE",
+        "location_city": "ST GEORGE",
+        "location_state": "UT",
+        "location_zip": "84790",
+        "phone_number": "4352512100",
+        "provider_id": "460021",
+        "state": "UT",
+        "zip_code": "84790"
+    },
+    {
+        "address": "5848 SOUTH 300 EAST",
+        "city": "MURRAY",
+        "county_name": "SALT LAKE",
+        "emergency_services": false,
+        "hospital_name": "THE ORTHOPEDIC SPECIALTY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.898369,
+                40.644021
+            ],
+            "type": "Point"
+        },
+        "location_address": "5848 SOUTH 300 EAST",
+        "location_city": "MURRAY",
+        "location_state": "UT",
+        "location_zip": "84107",
+        "phone_number": "8013144100",
+        "provider_id": "460049",
+        "state": "UT",
+        "zip_code": "84107"
+    },
+    {
+        "address": "500 EAST 1400 NORTH",
+        "city": "LOGAN",
+        "county_name": "CACHE",
+        "emergency_services": true,
+        "hospital_name": "LOGAN REGIONAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "500 EAST 1400 NORTH",
+        "location_city": "LOGAN",
+        "location_state": "UT",
+        "location_zip": "84341",
+        "phone_number": "4357161000",
+        "provider_id": "460015",
+        "state": "UT",
+        "zip_code": "84341"
+    },
+    {
+        "address": "1109 NORTH 100 WEST",
+        "city": "BEAVER",
+        "county_name": "BEAVER",
+        "emergency_services": true,
+        "hospital_name": "BEAVER VALLEY HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -112.64312,
+                38.288865
+            ],
+            "type": "Point"
+        },
+        "location_address": "1109 NORTH 100 WEST",
+        "location_city": "BEAVER",
+        "location_state": "UT",
+        "location_zip": "84713",
+        "phone_number": "4354387102",
+        "provider_id": "460035",
+        "state": "UT",
+        "zip_code": "84713"
+    },
+    {
+        "address": "1485 SOUTH HIGHWAY 40",
+        "city": "HEBER CITY",
+        "county_name": "WASATCH",
+        "emergency_services": true,
+        "hospital_name": "HEBER VALLEY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -111.409215,
+                40.489044
+            ],
+            "type": "Point"
+        },
+        "location_address": "1485 SOUTH HIGHWAY 40",
+        "location_city": "HEBER CITY",
+        "location_state": "UT",
+        "location_zip": "84032",
+        "phone_number": "4356542500",
+        "provider_id": "461307",
+        "state": "UT",
+        "zip_code": "84032"
+    },
+    {
+        "address": "905 NORTH 1000 WEST",
+        "city": "TREMONTON",
+        "county_name": "BOX ELDER",
+        "emergency_services": true,
+        "hospital_name": "BEAR RIVER VALLEY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "905 NORTH 1000 WEST",
+        "location_city": "TREMONTON",
+        "location_state": "UT",
+        "location_zip": "84337",
+        "phone_number": "4352074500",
+        "provider_id": "460039",
+        "state": "UT",
+        "zip_code": "84337"
+    },
+    {
+        "address": "100 NORTH MARIO CAPECCHI DRIVE",
+        "city": "SALT LAKE CITY",
+        "county_name": "SALT LAKE",
+        "emergency_services": true,
+        "hospital_name": "PRIMARY CHILDRENS HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Childrens",
+        "location": {
+            "coordinates": [
+                -111.837136,
+                40.768675
+            ],
+            "type": "Point"
+        },
+        "location_address": "100 NORTH MARIO CAPECCHI DRIVE",
+        "location_city": "SALT LAKE CITY",
+        "location_state": "UT",
+        "location_zip": "84113",
+        "phone_number": "8016626200",
+        "provider_id": "463301",
+        "state": "UT",
+        "zip_code": "84113"
+    },
+    {
+        "address": "48 WEST 1500 NORTH",
+        "city": "NEPHI",
+        "county_name": "JUAB",
+        "emergency_services": true,
+        "hospital_name": "CENTRAL VALLEY MEDICAL CENTER - CAH",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -111.838497,
+                39.730611
+            ],
+            "type": "Point"
+        },
+        "location_address": "48 WEST 1500 NORTH",
+        "location_city": "NEPHI",
+        "location_state": "UT",
+        "location_zip": "84648",
+        "phone_number": "4356233000",
+        "provider_id": "461304",
+        "state": "UT",
+        "zip_code": "84648"
+    },
+    {
+        "address": "2380 NORTH 400 EAST",
+        "city": "NORTH LOGAN",
+        "county_name": "CACHE",
+        "emergency_services": true,
+        "hospital_name": "CACHE VALLEY  HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.823071,
+                41.775982
+            ],
+            "type": "Point"
+        },
+        "location_address": "2380 NORTH 400 EAST",
+        "location_city": "NORTH LOGAN",
+        "location_state": "UT",
+        "location_zip": "84341",
+        "phone_number": "4357139580",
+        "provider_id": "460054",
+        "state": "UT",
+        "zip_code": "84341"
+    },
+    {
+        "address": "11925 S STATE STREET",
+        "city": "DRAPER",
+        "county_name": "SALT LAKE",
+        "emergency_services": true,
+        "hospital_name": "LONE PEAK HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.891522,
+                40.534522
+            ],
+            "type": "Point"
+        },
+        "location_address": "11925 S STATE STREET",
+        "location_city": "DRAPER",
+        "location_state": "UT",
+        "location_zip": "84020",
+        "phone_number": "8015458000",
+        "provider_id": "460060",
+        "state": "UT",
+        "zip_code": "84020"
+    },
+    {
+        "address": "450 WEST WILLIAMS WAY",
+        "city": "MOAB",
+        "county_name": "GRAND",
+        "emergency_services": true,
+        "hospital_name": "MOAB REGIONAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -109.560198,
+                38.574296
+            ],
+            "type": "Point"
+        },
+        "location_address": "450 WEST WILLIAMS WAY",
+        "location_city": "MOAB",
+        "location_state": "UT",
+        "location_zip": "84532",
+        "phone_number": "4357193501",
+        "provider_id": "461302",
+        "state": "UT",
+        "zip_code": "84532"
+    },
+    {
+        "address": "380 WEST 100 NORTH",
+        "city": "MONTICELLO",
+        "county_name": "SAN JUAN",
+        "emergency_services": true,
+        "hospital_name": "SAN JUAN HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -109.341109,
+                37.867075
+            ],
+            "type": "Point"
+        },
+        "location_address": "380 WEST 100 NORTH",
+        "location_city": "MONTICELLO",
+        "location_state": "UT",
+        "location_zip": "84535",
+        "phone_number": "4355872116",
+        "provider_id": "461308",
+        "state": "UT",
+        "zip_code": "84535"
+    },
+    {
+        "address": "3741 WEST 12600 SOUTH",
+        "city": "RIVERTON",
+        "county_name": "SALT LAKE",
+        "emergency_services": true,
+        "hospital_name": "RIVERTON HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.979725,
+                40.522238
+            ],
+            "type": "Point"
+        },
+        "location_address": "3741 WEST 12600 SOUTH",
+        "location_city": "RIVERTON",
+        "location_state": "UT",
+        "location_zip": "84065",
+        "phone_number": "8012854000",
+        "provider_id": "460058",
+        "state": "UT",
+        "zip_code": "84065"
+    },
+    {
+        "address": "1000 NORTH MAIN STREET",
+        "city": "RICHFIELD",
+        "county_name": "SEVIER",
+        "emergency_services": true,
+        "hospital_name": "SEVIER VALLEY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -112.084663,
+                38.783275
+            ],
+            "type": "Point"
+        },
+        "location_address": "1000 NORTH MAIN STREET",
+        "location_city": "RICHFIELD",
+        "location_state": "UT",
+        "location_zip": "84701",
+        "phone_number": "4358934100",
+        "provider_id": "460026",
+        "state": "UT",
+        "zip_code": "84701"
+    },
+    {
+        "address": "850 NORTH MAIN STREET",
+        "city": "MILFORD",
+        "county_name": "BEAVER",
+        "emergency_services": false,
+        "hospital_name": "MILFORD VALLEY MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -113.009543,
+                38.407308
+            ],
+            "type": "Point"
+        },
+        "location_address": "850 NORTH MAIN STREET",
+        "location_city": "MILFORD",
+        "location_state": "UT",
+        "location_zip": "84751",
+        "phone_number": "4353872411",
+        "provider_id": "461305",
+        "state": "UT",
+        "zip_code": "84751"
+    },
+    {
+        "address": "900 ROUND VALLEY DRIVE",
+        "city": "PARK CITY",
+        "county_name": "SUMMIT",
+        "emergency_services": true,
+        "hospital_name": "PARK CITY MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.467791,
+                40.68756
+            ],
+            "type": "Point"
+        },
+        "location_address": "900 ROUND VALLEY DRIVE",
+        "location_city": "PARK CITY",
+        "location_state": "UT",
+        "location_zip": "84060",
+        "phone_number": "4356586700",
+        "provider_id": "460057",
+        "state": "UT",
+        "zip_code": "84060"
+    },
+    {
+        "address": "126 SOUTH WHITE SAGE AVENUE",
+        "city": "DELTA",
+        "county_name": "MILLARD",
+        "emergency_services": true,
+        "hospital_name": "DELTA COMMUNITY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -112.559935,
+                39.350567
+            ],
+            "type": "Point"
+        },
+        "location_address": "126 SOUTH WHITE SAGE AVENUE",
+        "location_city": "DELTA",
+        "location_state": "UT",
+        "location_zip": "84624",
+        "phone_number": "4358645591",
+        "provider_id": "461300",
+        "state": "UT",
+        "zip_code": "84624"
+    },
+    {
+        "address": "64 EAST 100 NORTH",
+        "city": "GUNNISON",
+        "county_name": "SANPETE",
+        "emergency_services": true,
+        "hospital_name": "GUNNISON VALLEY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -111.816289,
+                39.153646
+            ],
+            "type": "Point"
+        },
+        "location_address": "64 EAST 100 NORTH",
+        "location_city": "GUNNISON",
+        "location_state": "UT",
+        "location_zip": "84634",
+        "phone_number": "4355287246",
+        "provider_id": "461306",
+        "state": "UT",
+        "zip_code": "84634"
+    },
+    {
+        "address": "1034 NORTH 500 WEST",
+        "city": "PROVO",
+        "county_name": "UTAH",
+        "emergency_services": true,
+        "hospital_name": "UTAH VALLEY REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.667383,
+                40.248084
+            ],
+            "type": "Point"
+        },
+        "location_address": "1034 NORTH 500 WEST",
+        "location_city": "PROVO",
+        "location_state": "UT",
+        "location_zip": "84604",
+        "phone_number": "8013737850",
+        "provider_id": "460001",
+        "state": "UT",
+        "zip_code": "84604"
+    },
+    {
+        "address": "150 WEST 100 NORTH",
+        "city": "VERNAL",
+        "county_name": "UINTAH",
+        "emergency_services": true,
+        "hospital_name": "ASHLEY REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -109.531298,
+                40.454275
+            ],
+            "type": "Point"
+        },
+        "location_address": "150 WEST 100 NORTH",
+        "location_city": "VERNAL",
+        "location_state": "UT",
+        "location_zip": "84078",
+        "phone_number": "4357893342",
+        "provider_id": "460030",
+        "state": "UT",
+        "zip_code": "84078"
+    },
+    {
+        "address": "1000 EAST 100 NORTH",
+        "city": "PAYSON",
+        "county_name": "UTAH",
+        "emergency_services": true,
+        "hospital_name": "MOUNTAIN VIEW HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.714851,
+                40.044696
+            ],
+            "type": "Point"
+        },
+        "location_address": "1000 EAST 100 NORTH",
+        "location_city": "PAYSON",
+        "location_state": "UT",
+        "location_zip": "84651",
+        "phone_number": "8014657100",
+        "provider_id": "460013",
+        "state": "UT",
+        "zip_code": "84651"
+    },
+    {
+        "address": "170 NORTH 1100 EAST",
+        "city": "AMERICAN FORK",
+        "county_name": "UTAH",
+        "emergency_services": true,
+        "hospital_name": "AMERICAN FORK HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.769096,
+                40.380319
+            ],
+            "type": "Point"
+        },
+        "location_address": "170 NORTH 1100 EAST",
+        "location_city": "AMERICAN FORK",
+        "location_state": "UT",
+        "location_zip": "84003",
+        "phone_number": "8018553305",
+        "provider_id": "460023",
+        "state": "UT",
+        "zip_code": "84003"
+    },
+    {
+        "address": "5121 SOUTH COTTONWOOD STREET",
+        "city": "MURRAY",
+        "county_name": "SALT LAKE",
+        "emergency_services": true,
+        "hospital_name": "INTERMOUNTAIN MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "5121 SOUTH COTTONWOOD STREET",
+        "location_city": "MURRAY",
+        "location_state": "UT",
+        "location_zip": "84107",
+        "phone_number": "8015077000",
+        "provider_id": "460010",
+        "state": "UT",
+        "zip_code": "84107"
+    },
+    {
+        "address": "50 NORTH MEDICAL DRIVE",
+        "city": "SALT LAKE CITY",
+        "county_name": "SALT LAKE",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY HEALTH CARE/UNIV HOSPITALS AND  CLINICS",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.83672,
+                40.772984
+            ],
+            "type": "Point"
+        },
+        "location_address": "50 NORTH MEDICAL DRIVE",
+        "location_city": "SALT LAKE CITY",
+        "location_state": "UT",
+        "location_zip": "84132",
+        "phone_number": "8015812121",
+        "provider_id": "460009",
+        "state": "UT",
+        "zip_code": "84132"
+    },
+    {
+        "address": "4401 HARRISON BOULEVARD",
+        "city": "OGDEN",
+        "county_name": "WEBER",
+        "emergency_services": true,
+        "hospital_name": "MCKAY DEE HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -111.94908,
+                41.184218
+            ],
+            "type": "Point"
+        },
+        "location_address": "4401 HARRISON BOULEVARD",
+        "location_city": "OGDEN",
+        "location_state": "UT",
+        "location_zip": "84403",
+        "phone_number": "8013872800",
+        "provider_id": "460004",
+        "state": "UT",
+        "zip_code": "84403"
+    },
+    {
+        "address": "1100 SOUTH MEDICAL DRIVE",
+        "city": "MOUNT PLEASANT",
+        "county_name": "SANPETE",
+        "emergency_services": true,
+        "hospital_name": "SANPETE VALLEY HOSPITAL - CAH",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -111.461243,
+                39.531757
+            ],
+            "type": "Point"
+        },
+        "location_address": "1100 SOUTH MEDICAL DRIVE",
+        "location_city": "MOUNT PLEASANT",
+        "location_state": "UT",
+        "location_zip": "84647",
+        "phone_number": "4354624123",
+        "provider_id": "461303",
+        "state": "UT",
+        "zip_code": "84647"
+    },
+    {
+        "address": "500 FOOTHILL BLVD.",
+        "city": "SALT LAKE CITY",
+        "county_name": "SALT LAKE",
+        "emergency_services": false,
+        "hospital_name": "VA SALT LAKE CITY HEALTHCARE - GEORGE E. WAHLEN VA",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -111.841361,
+                40.758438
+            ],
+            "type": "Point"
+        },
+        "location_address": "500 FOOTHILL BLVD.",
+        "location_city": "SALT LAKE CITY",
+        "location_state": "UT",
+        "location_zip": "84148",
+        "phone_number": "8015841211",
+        "provider_id": "46002F",
+        "state": "UT",
+        "zip_code": "84148"
+    },
+    {
+        "address": "950 SOUTH MEDICAL DRIVE",
+        "city": "BRIGHAM CITY",
+        "county_name": "BOX ELDER",
+        "emergency_services": true,
+        "hospital_name": "BRIGHAM CITY COMMUNITY HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -112.024429,
+                41.49109
+            ],
+            "type": "Point"
+        },
+        "location_address": "950 SOUTH MEDICAL DRIVE",
+        "location_city": "BRIGHAM CITY",
+        "location_state": "UT",
+        "location_zip": "84302",
+        "phone_number": "4357349471",
+        "provider_id": "460017",
+        "state": "UT",
+        "zip_code": "84302"
+    },
+    {
+        "address": "8TH AVENUE AND C STREET",
+        "city": "SALT LAKE CITY",
+        "county_name": "SALT LAKE",
+        "emergency_services": true,
+        "hospital_name": "LDS HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "8TH AVENUE AND C STREET",
+        "location_city": "SALT LAKE CITY",
+        "location_state": "UT",
+        "location_zip": "84143",
+        "phone_number": "8014081100",
+        "provider_id": "460006",
+        "state": "UT",
+        "zip_code": "84143"
+    }
+]

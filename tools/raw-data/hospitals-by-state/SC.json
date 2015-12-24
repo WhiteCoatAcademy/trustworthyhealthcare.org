@@ -1,1324 +1,1451 @@
-[ {
-  "hospital_name" : "PIEDMONT MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8033291234"
-  },
-  "zip_code" : "29730",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.05245830799998",
-    "latitude" : "34.955327941000064",
-    "human_address" : "{\"address\":\"222 S HERLONG AVE\",\"city\":\"ROCK HILL\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "222 S HERLONG AVE",
-  "provider_id" : "420002",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "YORK",
-  "city" : "ROCK HILL"
-}
-, {
-  "hospital_name" : "MUSC MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8437922300"
-  },
-  "zip_code" : "29425",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.94667677599995",
-    "latitude" : "32.78545285700005",
-    "human_address" : "{\"address\":\"169 ASHLEY AVE\",\"city\":\"CHARLESTON\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "169 ASHLEY AVE",
-  "provider_id" : "420004",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "CHARLESTON",
-  "city" : "CHARLESTON"
-}
-, {
-  "hospital_name" : "MCLEOD MEDICAL CENTER - DILLON",
-  "phone_number" : {
-    "phone_number" : "8437744111"
-  },
-  "zip_code" : "29536",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.36603616799994",
-    "latitude" : "34.42126774900004",
-    "human_address" : "{\"address\":\"301 E JACKSON ST\",\"city\":\"DILLON\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "301 E JACKSON ST",
-  "provider_id" : "420005",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "DILLON",
-  "city" : "DILLON"
-}
-, {
-  "hospital_name" : "SPARTANBURG REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8645606000"
-  },
-  "zip_code" : "29303",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.94033984199996",
-    "latitude" : "34.967823285000065",
-    "human_address" : "{\"address\":\"101 E WOOD ST\",\"city\":\"SPARTANBURG\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "101 E WOOD ST",
-  "provider_id" : "420007",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "SPARTANBURG",
-  "city" : "SPARTANBURG"
-}
-, {
-  "hospital_name" : "OCONEE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8648823351"
-  },
-  "zip_code" : "29672",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-82.98839368299997",
-    "latitude" : "34.69434630000006",
-    "human_address" : "{\"address\":\"298 MEMORIAL DRIVE\",\"city\":\"SENECA\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "298 MEMORIAL DRIVE",
-  "provider_id" : "420009",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "OCONEE",
-  "city" : "SENECA"
-}
-, {
-  "hospital_name" : "CAROLINA PINES REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8643392100"
-  },
-  "zip_code" : "29550",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-80.10641765299994",
-    "latitude" : "34.34905601600008",
-    "human_address" : "{\"address\":\"1304 W BOBO NEWSOM HWY\",\"city\":\"HARTSVILLE\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "1304 W BOBO NEWSOM HWY",
-  "provider_id" : "420010",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "DARLINGTON",
-  "city" : "HARTSVILLE"
-}
-, {
-  "hospital_name" : "CANNON MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8648784791"
-  },
-  "zip_code" : "29671",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-82.70750980299994",
-    "latitude" : "34.88370314800005",
-    "human_address" : "{\"address\":\"123 MEDICAL PARK DRIVE PO BOX 188\",\"city\":\"PICKENS\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "123 MEDICAL PARK DRIVE PO BOX 188",
-  "provider_id" : "420011",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "PICKENS",
-  "city" : "PICKENS"
-}
-, {
-  "hospital_name" : "BAPTIST EASLEY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8644427200"
-  },
-  "zip_code" : "29640",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-82.60795290699997",
-    "latitude" : "34.83899493800004",
-    "human_address" : "{\"address\":\"200 FLEETWOOD DRIVE\",\"city\":\"EASLEY\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "200 FLEETWOOD DRIVE",
-  "provider_id" : "420015",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "PICKENS",
-  "city" : "EASLEY"
-}
-, {
-  "hospital_name" : "SOUTHERN PALMETTO HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8032591000"
-  },
-  "zip_code" : "29812",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.36059635799995",
-    "latitude" : "33.255272328000046",
-    "human_address" : "{\"address\":\"PO BOX 588 811 REYNOLDS ROAD\",\"city\":\"BARNWELL\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "PO BOX 588  811  REYNOLDS ROAD",
-  "provider_id" : "420016",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "BARNWELL",
-  "city" : "BARNWELL"
-}
-, {
-  "hospital_name" : "PALMETTO HEALTH RICHLAND",
-  "phone_number" : {
-    "phone_number" : "8032965678"
-  },
-  "zip_code" : "29203",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.03275995399997",
-    "latitude" : "34.028874288000054",
-    "human_address" : "{\"address\":\"5 RICHLAND MEDICAL PARK\",\"city\":\"COLUMBIA\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "5 RICHLAND MEDICAL PARK",
-  "provider_id" : "420018",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "RICHLAND",
-  "city" : "COLUMBIA"
-}
-, {
-  "hospital_name" : "CHESTER REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8035813151"
-  },
-  "zip_code" : "29706",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.18307074499995",
-    "latitude" : "34.684221223000065",
-    "human_address" : "{\"address\":\"1 MEDICAL PARK DRIVE\",\"city\":\"CHESTER\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "1 MEDICAL PARK DRIVE",
-  "provider_id" : "420019",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "CHESTER",
-  "city" : "CHESTER"
-}
-, {
-  "hospital_name" : "GEORGETOWN MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8435277000"
-  },
-  "zip_code" : "29440",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.28557126599998",
-    "latitude" : "33.37964363000003",
-    "human_address" : "{\"address\":\"606 BLACK RIVER RD DRAWER 1718\",\"city\":\"GEORGETOWN\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "606 BLACK RIVER RD DRAWER 1718",
-  "provider_id" : "420020",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "GEORGETOWN",
-  "city" : "GEORGETOWN"
-}
-, {
-  "hospital_name" : "ST FRANCIS-DOWNTOWN",
-  "phone_number" : {
-    "phone_number" : "8642551000"
-  },
-  "zip_code" : "29601",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-82.42190478399993",
-    "latitude" : "34.84325529200004",
-    "human_address" : "{\"address\":\"ONE ST FRANCIS DR\",\"city\":\"GREENVILLE\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "ONE ST FRANCIS DR",
-  "provider_id" : "420023",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "GREENVILLE",
-  "city" : "GREENVILLE"
-}
-, {
-  "hospital_name" : "SISTERS OF CHARITY PROVIDENCE HOSPITALS",
-  "phone_number" : {
-    "phone_number" : "8032565300"
-  },
-  "zip_code" : "29204",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.01448452899996",
-    "latitude" : "34.01296155000006",
-    "human_address" : "{\"address\":\"2435 FOREST DR\",\"city\":\"COLUMBIA\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "2435 FOREST DR",
-  "provider_id" : "420026",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "RICHLAND",
-  "city" : "COLUMBIA"
-}
-, {
-  "hospital_name" : "ANMED HEALTH",
-  "phone_number" : {
-    "phone_number" : "8642611109"
-  },
-  "zip_code" : "29621",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-82.64698933999995",
-    "latitude" : "34.51016114600003",
-    "human_address" : "{\"address\":\"800 N FANT ST\",\"city\":\"ANDERSON\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "800 N FANT ST",
-  "provider_id" : "420027",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "ANDERSON",
-  "city" : "ANDERSON"
-}
-, {
-  "hospital_name" : "COLLETON MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8437822000"
-  },
-  "zip_code" : "29488",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-80.67054717499997",
-    "latitude" : "32.92184782600003",
-    "human_address" : "{\"address\":\"501 ROBERTSON BOULEVARD\",\"city\":\"WALTERBORO\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "501 ROBERTSON BOULEVARD",
-  "provider_id" : "420030",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "COLLETON",
-  "city" : "WALTERBORO"
-}
-, {
-  "hospital_name" : "GHS GREER MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8648488200"
-  },
-  "zip_code" : "29650",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-82.24184935899996",
-    "latitude" : "34.91881673900008",
-    "human_address" : "{\"address\":\"830 SOUTH BUNCOMBE ROAD\",\"city\":\"GREER\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "830 SOUTH BUNCOMBE ROAD",
-  "provider_id" : "420033",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "GREENVILLE",
-  "city" : "GREER"
-}
-, {
-  "hospital_name" : "SPRINGS MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8032861481"
-  },
-  "zip_code" : "29720",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-80.78736320099995",
-    "latitude" : "34.71686782900008",
-    "human_address" : "{\"address\":\"800 W MEETING ST\",\"city\":\"LANCASTER\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "800 W MEETING ST",
-  "provider_id" : "420036",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "LANCASTER",
-  "city" : "LANCASTER"
-}
-, {
-  "hospital_name" : "GHS-HILLCREST MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8644546151"
-  },
-  "zip_code" : "29681",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-82.25559987399998",
-    "latitude" : "34.738331749000054",
-    "human_address" : "{\"address\":\"729 SOUTH EAST MAIN STREET\",\"city\":\"SIMPSONVILLE\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "729 SOUTH EAST MAIN STREET",
-  "provider_id" : "420037",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "GREENVILLE",
-  "city" : "SIMPSONVILLE"
-}
-, {
-  "hospital_name" : "GHS  LAURENS COUNTY MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8648339100"
-  },
-  "zip_code" : "29325",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.94133037799998",
-    "latitude" : "34.479773031000036",
-    "human_address" : "{\"address\":\"22725 HIGHWAY 76 EAST\",\"city\":\"CLINTON\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "22725 HIGHWAY 76 EAST",
-  "provider_id" : "420038",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "LAURENS",
-  "city" : "CLINTON"
-}
-, {
-  "hospital_name" : "WALLACE THOMSON HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8644270351"
-  },
-  "zip_code" : "29379",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.62858865399994",
-    "latitude" : "34.71148298300005",
-    "human_address" : "{\"address\":\"322 W SOUTH ST PO BOX 789\",\"city\":\"UNION\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "322 W SOUTH ST PO BOX 789",
-  "provider_id" : "420039",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "UNION",
-  "city" : "UNION"
-}
-, {
-  "hospital_name" : "NOVANT HEALTH GAFFNEY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8644874271"
-  },
-  "zip_code" : "29340",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.63573846199995",
-    "latitude" : "35.090225693000036",
-    "human_address" : "{\"address\":\"1530 N LIMESTONE ST\",\"city\":\"GAFFNEY\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "1530 N LIMESTONE ST",
-  "provider_id" : "420043",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "CHEROKEE",
-  "city" : "GAFFNEY"
-}
-, {
-  "hospital_name" : "KERSHAW HEALTH",
-  "phone_number" : {
-    "phone_number" : "8034324311"
-  },
-  "zip_code" : "29020",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-80.60744679899994",
-    "latitude" : "34.250042293000035",
-    "human_address" : "{\"address\":\"HAILE AND ROBERTS STREETS, BOX 7003\",\"city\":\"CAMDEN\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "HAILE AND ROBERTS STREETS, BOX 7003",
-  "provider_id" : "420048",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "KERSHAW",
-  "city" : "CAMDEN"
-}
-, {
-  "hospital_name" : "CONWAY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8433478037"
-  },
-  "zip_code" : "29526",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.00093000299995",
-    "latitude" : "33.78727484500007",
-    "human_address" : "{\"address\":\"300 SINGLETON RIDGE ROAD\",\"city\":\"CONWAY\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "300 SINGLETON RIDGE ROAD",
-  "provider_id" : "420049",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "HORRY",
-  "city" : "CONWAY"
-}
-, {
-  "hospital_name" : "MCLEOD REGIONAL MEDICAL CENTER-PEE DEE",
-  "phone_number" : {
-    "phone_number" : "8437772900"
-  },
-  "zip_code" : "29506",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.76079187499994",
-    "latitude" : "34.195857844000045",
-    "human_address" : "{\"address\":\"555 E CHEVES ST BOX 8700\",\"city\":\"FLORENCE\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "555 E CHEVES ST BOX 8700",
-  "provider_id" : "420051",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "FLORENCE",
-  "city" : "FLORENCE"
-}
-, {
-  "hospital_name" : "NEWBERRY COUNTY MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8034057145"
-  },
-  "zip_code" : "29108",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.60457694299998",
-    "latitude" : "34.289975371000025",
-    "human_address" : "{\"address\":\"2669 KINARD ST PO BOX 497\",\"city\":\"NEWBERRY\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "2669 KINARD ST PO BOX 497",
-  "provider_id" : "420053",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "NEWBERRY",
-  "city" : "NEWBERRY"
-}
-, {
-  "hospital_name" : "MARLBORO PARK HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8434792881"
-  },
-  "zip_code" : "29512",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.69858971999997",
-    "latitude" : "34.635061172000064",
-    "human_address" : "{\"address\":\"1138 CHERAW HIGHWAY\",\"city\":\"BENNETTSVILLE\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "1138 CHERAW HIGHWAY",
-  "provider_id" : "420054",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "MARLBORO",
-  "city" : "BENNETTSVILLE"
-}
-, {
-  "hospital_name" : "CAROLINAS HOSPITAL SYSTEM MARION",
-  "phone_number" : {
-    "phone_number" : "8434312000"
-  },
-  "zip_code" : "29574",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.32689093799996",
-    "latitude" : "34.188898178000045",
-    "human_address" : "{\"address\":\"2829 E HWY 76\",\"city\":\"MULLINS\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "2829 E HWY 76",
-  "provider_id" : "420055",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "MARION",
-  "city" : "MULLINS"
-}
-, {
-  "hospital_name" : "MCLEOD MEDICAL CENTER - DARLINGTON",
-  "phone_number" : {
-    "phone_number" : "8433951100"
-  },
-  "zip_code" : "29540",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.83983149399995",
-    "latitude" : "34.31237658200007",
-    "human_address" : "{\"address\":\"701 CASHUA FERRY ROAD\",\"city\":\"DARLINGTON\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "701 CASHUA FERRY ROAD",
-  "provider_id" : "420057",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : false,
-  "county_name" : "DARLINGTON",
-  "city" : "DARLINGTON"
-}
-, {
-  "hospital_name" : "CHESTERFIELD GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8435377881"
-  },
-  "zip_code" : "29520",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.91851266899994",
-    "latitude" : "34.69545254700006",
-    "human_address" : "{\"address\":\"711 CHESTERFIELD HIGHWAY\",\"city\":\"CHERAW\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "711 CHESTERFIELD HIGHWAY",
-  "provider_id" : "420062",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "CHESTERFIELD",
-  "city" : "CHERAW"
-}
-, {
-  "hospital_name" : "BON SECOURS-ST FRANCIS XAVIER HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8434021006"
-  },
-  "zip_code" : "29414",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-80.04144832299994",
-    "latitude" : "32.810448965000035",
-    "human_address" : "{\"address\":\"2095 HENRY TECKLENBURG DRIVE\",\"city\":\"CHARLESTON\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "2095 HENRY TECKLENBURG DRIVE",
-  "provider_id" : "420065",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "CHARLESTON",
-  "city" : "CHARLESTON"
-}
-, {
-  "hospital_name" : "LAKE CITY COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8433742036"
-  },
-  "zip_code" : "29560",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.75907956299994",
-    "latitude" : "33.880308901000035",
-    "human_address" : "{\"address\":\"258 N RON MCNAIR BLVD\",\"city\":\"LAKE CITY\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "258 N RON MCNAIR BLVD",
-  "provider_id" : "420066",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "FLORENCE",
-  "city" : "LAKE CITY"
-}
-, {
-  "hospital_name" : "BEAUFORT COUNTY MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8435225200"
-  },
-  "zip_code" : "29902",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-80.68850779199994",
-    "latitude" : "32.417129955000064",
-    "human_address" : "{\"address\":\"955 RIBAUT RD\",\"city\":\"BEAUFORT\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "955 RIBAUT RD",
-  "provider_id" : "420067",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "BEAUFORT",
-  "city" : "BEAUFORT"
-}
-, {
-  "hospital_name" : "TRMC OF ORANGEBURG & CALHOUN",
-  "phone_number" : {
-    "phone_number" : "8035332460"
-  },
-  "zip_code" : "29115",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-80.83285182999998",
-    "latitude" : "33.54077756700008",
-    "human_address" : "{\"address\":\"3000 ST MATTHEWS RD BOX 1806\",\"city\":\"ORANGEBURG\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "3000 ST MATTHEWS RD BOX 1806",
-  "provider_id" : "420068",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "ORANGEBURG",
-  "city" : "ORANGEBURG"
-}
-, {
-  "hospital_name" : "CLARENDON MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8034358463"
-  },
-  "zip_code" : "29102",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-80.21234742199994",
-    "latitude" : "33.68788411100007",
-    "human_address" : "{\"address\":\"10 HOSPITAL ST BOX 550\",\"city\":\"MANNING\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "10 HOSPITAL ST BOX 550",
-  "provider_id" : "420069",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "CLARENDON",
-  "city" : "MANNING"
-}
-, {
-  "hospital_name" : "TUOMEY HEALTHCARE SYSTEM",
-  "phone_number" : {
-    "phone_number" : "8037748900"
-  },
-  "zip_code" : "29150",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-80.34446045299995",
-    "latitude" : "33.92262209000006",
-    "human_address" : "{\"address\":\"129 N WASHINGTON ST\",\"city\":\"SUMTER\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "129 N WASHINGTON ST",
-  "provider_id" : "420070",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "SUMTER",
-  "city" : "SUMTER"
-}
-, {
-  "hospital_name" : "SELF REGIONAL HEALTHCARE",
-  "phone_number" : {
-    "phone_number" : "8642274111"
-  },
-  "zip_code" : "29646",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-82.15759105499995",
-    "latitude" : "34.175162863000025",
-    "human_address" : "{\"address\":\"1325 SPRING STREET\",\"city\":\"GREENWOOD\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "1325 SPRING STREET",
-  "provider_id" : "420071",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "GREENWOOD",
-  "city" : "GREENWOOD"
-}
-, {
-  "hospital_name" : "HAMPTON REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8039432771"
-  },
-  "zip_code" : "29944",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.08831731799995",
-    "latitude" : "32.85562734300004",
-    "human_address" : "{\"address\":\"595 WEST CAROLINA AVENUE\",\"city\":\"VARNVILLE\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "595 WEST CAROLINA AVENUE",
-  "provider_id" : "420072",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "HAMPTON",
-  "city" : "VARNVILLE"
-}
-, {
-  "hospital_name" : "LEXINGTON MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8037912000"
-  },
-  "zip_code" : "29169",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.11442571899994",
-    "latitude" : "34.00445807400007",
-    "human_address" : "{\"address\":\"2720 SUNSET BLVD\",\"city\":\"WEST COLUMBIA\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "2720 SUNSET BLVD",
-  "provider_id" : "420073",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "LEXINGTON",
-  "city" : "WEST COLUMBIA"
-}
-, {
-  "hospital_name" : "GHS GREENVILLE MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8644557000"
-  },
-  "zip_code" : "29605",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-82.41375224999996",
-    "latitude" : "34.821460873000035",
-    "human_address" : "{\"address\":\"701 GROVE RD\",\"city\":\"GREENVILLE\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "701 GROVE RD",
-  "provider_id" : "420078",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "GREENVILLE",
-  "city" : "GREENVILLE"
-}
-, {
-  "hospital_name" : "TRIDENT MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8437978800"
-  },
-  "zip_code" : "29406",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-80.07509680599998",
-    "latitude" : "32.976084789000026",
-    "human_address" : "{\"address\":\"9330 MEDICAL PLAZA DR\",\"city\":\"CHARLESTON\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "9330 MEDICAL PLAZA DR",
-  "provider_id" : "420079",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "CHARLESTON",
-  "city" : "CHARLESTON"
-}
-, {
-  "hospital_name" : "HILTON HEAD REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8436816122"
-  },
-  "zip_code" : "29925",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-80.71418202299998",
-    "latitude" : "32.22343721100003",
-    "human_address" : "{\"address\":\"25 HOSPITAL CENTER BLVD\",\"city\":\"HILTON HEAD ISLAND\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "25 HOSPITAL CENTER BLVD",
-  "provider_id" : "420080",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "BEAUFORT",
-  "city" : "HILTON HEAD ISLAND"
-}
-, {
-  "hospital_name" : "AIKEN REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8036415900"
-  },
-  "zip_code" : "29801",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.76512732599997",
-    "latitude" : "33.57056289900004",
-    "human_address" : "{\"address\":\"302 UNIVERSITY PARKWAY\",\"city\":\"AIKEN\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "302 UNIVERSITY PARKWAY",
-  "provider_id" : "420082",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : false,
-  "county_name" : "AIKEN",
-  "city" : "AIKEN"
-}
-, {
-  "hospital_name" : "MARY BLACK MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8645733000"
-  },
-  "zip_code" : "29307",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.89438569099997",
-    "latitude" : "34.977328458000045",
-    "human_address" : "{\"address\":\"1700 SKYLYN DR BOX 3217\",\"city\":\"SPARTANBURG\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "1700 SKYLYN DR BOX 3217",
-  "provider_id" : "420083",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "SPARTANBURG",
-  "city" : "SPARTANBURG"
-}
-, {
-  "hospital_name" : "GRAND STRAND REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8436921000"
-  },
-  "zip_code" : "29572",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-78.81706233499995",
-    "latitude" : "33.75454756000005",
-    "human_address" : "{\"address\":\"809 82ND PARKWAY\",\"city\":\"MYRTLE BEACH\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "809 82ND PARKWAY",
-  "provider_id" : "420085",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "HORRY",
-  "city" : "MYRTLE BEACH"
-}
-, {
-  "hospital_name" : "PALMETTO HEALTH BAPTIST",
-  "phone_number" : {
-    "phone_number" : "8032965678"
-  },
-  "zip_code" : "29220",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.03274796399995",
-    "latitude" : "34.007634041000074",
-    "human_address" : "{\"address\":\"TAYLOR AT MARION ST\",\"city\":\"COLUMBIA\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "TAYLOR AT MARION ST",
-  "provider_id" : "420086",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "RICHLAND",
-  "city" : "COLUMBIA"
-}
-, {
-  "hospital_name" : "ROPER HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8437242800"
-  },
-  "zip_code" : "29401",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.94893760199994",
-    "latitude" : "32.78233761000007",
-    "human_address" : "{\"address\":\"316 CALHOUN ST\",\"city\":\"CHARLESTON\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "316 CALHOUN ST",
-  "provider_id" : "420087",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "CHARLESTON",
-  "city" : "CHARLESTON"
-}
-, {
-  "hospital_name" : "EAST COOPER MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8438810100"
-  },
-  "zip_code" : "29464",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.84955451099995",
-    "latitude" : "32.82099126700007",
-    "human_address" : "{\"address\":\"2000 HOSPITAL DR\",\"city\":\"MOUNT PLEASANT\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "2000 HOSPITAL DR",
-  "provider_id" : "420089",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "CHARLESTON",
-  "city" : "MOUNT PLEASANT"
-}
-, {
-  "hospital_name" : "CAROLINAS HOSPITAL SYSTEM",
-  "phone_number" : {
-    "phone_number" : "8436742500"
-  },
-  "zip_code" : "29505",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.75465827899995",
-    "latitude" : "34.15934088100005",
-    "human_address" : "{\"address\":\"805 PAMPLICO HWY BOX 100550\",\"city\":\"FLORENCE\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "805 PAMPLICO HWY BOX 100550",
-  "provider_id" : "420091",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "FLORENCE",
-  "city" : "FLORENCE"
-}
-, {
-  "hospital_name" : "WACCAMAW COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8436521000"
-  },
-  "zip_code" : "29576",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.04090964399995",
-    "latitude" : "33.560151166000026",
-    "human_address" : "{\"address\":\"4070 HIGHWAY 17 BYPASS\",\"city\":\"MURRELLS INLET\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "4070 HIGHWAY 17 BYPASS",
-  "provider_id" : "420098",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "GEORGETOWN",
-  "city" : "MURRELLS INLET"
-}
-, {
-  "hospital_name" : "COASTAL CAROLINA HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8437848000"
-  },
-  "zip_code" : "29927",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.05557444299995",
-    "latitude" : "32.315647227000056",
-    "human_address" : "{\"address\":\"1000 MEDICAL CENTER DRIVE\",\"city\":\"HARDEEVILLE\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "1000 MEDICAL CENTER DRIVE",
-  "provider_id" : "420101",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "JASPER",
-  "city" : "HARDEEVILLE"
-}
-, {
-  "hospital_name" : "GHS PATEWOOD MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8647971000"
-  },
-  "zip_code" : "29615",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-82.32511746999995",
-    "latitude" : "34.85169566600007",
-    "human_address" : "{\"address\":\"175 PATEWOOD DRIVE\",\"city\":\"GREENVILLE\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "175 PATEWOOD DRIVE",
-  "provider_id" : "420102",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : false,
-  "county_name" : "GREENVILLE",
-  "city" : "GREENVILLE"
-}
-, {
-  "hospital_name" : "VILLAGE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8645306000"
-  },
-  "zip_code" : "29651",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-82.21671982299995",
-    "latitude" : "34.86117428500006",
-    "human_address" : "{\"address\":\"250 WESTMORELAND ROAD\",\"city\":\"GREER\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "250 WESTMORELAND ROAD",
-  "provider_id" : "420103",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "GREENVILLE",
-  "city" : "GREER"
-}
-, {
-  "hospital_name" : "MOUNT PLEASANT HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8437242954"
-  },
-  "zip_code" : "29466",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.76781843199996",
-    "latitude" : "32.877153229000044",
-    "human_address" : "{\"address\":\"3500 HIGHWAY 17 NORTH\",\"city\":\"MOUNT PLEASANT\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "3500 HIGHWAY 17 NORTH",
-  "provider_id" : "420104",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "CHARLESTON",
-  "city" : "MOUNT PLEASANT"
-}
-, {
-  "hospital_name" : "MCLEOD LORIS SEACOAST HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8437167000"
-  },
-  "zip_code" : "29569",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-78.89815798799998",
-    "latitude" : "34.05719570800005",
-    "human_address" : "{\"address\":\"3655 MITCHELL STREET\",\"city\":\"LORIS\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "3655 MITCHELL STREET",
-  "provider_id" : "420105",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "HORRY",
-  "city" : "LORIS"
-}
-, {
-  "hospital_name" : "PALMETTO HEALTH BAPTIST PARKRIDGE",
-  "phone_number" : {
-    "phone_number" : "8032962548"
-  },
-  "zip_code" : "29212",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.04536596899999",
-    "latitude" : "33.99882216300006",
-    "human_address" : "{\"address\":\"400 PALMETTO HEALTH PARKWAY\",\"city\":\"COLUMBIA\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "400 PALMETTO HEALTH PARKWAY",
-  "provider_id" : "420106",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "LEXINGTON",
-  "city" : "COLUMBIA"
-}
-, {
-  "hospital_name" : "COLUMBIA SC VA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8036957980"
-  },
-  "zip_code" : "29209",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-80.96186614399994",
-    "latitude" : "33.979977665000035",
-    "human_address" : "{\"address\":\"6439 GARNERS FERRY ROAD\",\"city\":\"COLUMBIA\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "6439 GARNERS FERRY ROAD",
-  "provider_id" : "42011F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "SC",
-  "emergency_services" : false,
-  "county_name" : "RICHLAND",
-  "city" : "COLUMBIA"
-}
-, {
-  "hospital_name" : "CHARLESTON VA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8435775011"
-  },
-  "zip_code" : "29401",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.95332203499999",
-    "latitude" : "32.78530358300003",
-    "human_address" : "{\"address\":\"109 BEE STREET\",\"city\":\"CHARLESTON\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "109 BEE STREET",
-  "provider_id" : "42029F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "SC",
-  "emergency_services" : false,
-  "county_name" : "CHARLESTON",
-  "city" : "CHARLESTON"
-}
-, {
-  "hospital_name" : "ALLENDALE COUNTY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8036323311"
-  },
-  "zip_code" : "29827",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.24739399099997",
-    "latitude" : "32.96596869700005",
-    "human_address" : "{\"address\":\"1787 ALLENDALE FAIRFAX RD\",\"city\":\"FAIRFAX\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "1787 ALLENDALE FAIRFAX RD",
-  "provider_id" : "421300",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "ALLENDALE",
-  "city" : "FAIRFAX"
-}
-, {
-  "hospital_name" : "ABBEVILLE AREA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8643665011"
-  },
-  "zip_code" : "29620",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-82.37336219199995",
-    "latitude" : "34.15451425600003",
-    "human_address" : "{\"address\":\"420 THOMSON CIRCLE\",\"city\":\"ABBEVILLE\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "420 THOMSON CIRCLE",
-  "provider_id" : "421301",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "ABBEVILLE",
-  "city" : "ABBEVILLE"
-}
-, {
-  "hospital_name" : "FAIRFIELD MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8036350233"
-  },
-  "zip_code" : "29180",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.08616901199997",
-    "latitude" : "34.379622408000046",
-    "human_address" : "{\"address\":\"321 BYPASS PO BOX 620\",\"city\":\"WINNSBORO\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "321 BYPASS PO BOX 620",
-  "provider_id" : "421302",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "FAIRFIELD",
-  "city" : "WINNSBORO"
-}
-, {
-  "hospital_name" : "WILLIAMSBURG REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8433558888"
-  },
-  "zip_code" : "29556",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.81929484599993",
-    "latitude" : "33.66089779500004",
-    "human_address" : "{\"address\":\"500 NELSON BOULEVARD\",\"city\":\"KINGSTREE\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "500 NELSON BOULEVARD",
-  "provider_id" : "421303",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "WILLIAMSBURG",
-  "city" : "KINGSTREE"
-}
-, {
-  "hospital_name" : "EDGEFIELD COUNTY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8036371193"
-  },
-  "zip_code" : "29824",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-81.92944302799998",
-    "latitude" : "33.77820014800005",
-    "human_address" : "{\"address\":\"300 RIDGE MEDICAL PLAZA\",\"city\":\"EDGEFIELD\",\"state\":\"SC\",\"zip\":\"\"}"
-  },
-  "address" : "300 RIDGE MEDICAL PLAZA",
-  "provider_id" : "421304",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "SC",
-  "emergency_services" : true,
-  "county_name" : "EDGEFIELD",
-  "city" : "EDGEFIELD"
-}
- ]
+[
+    {
+        "address": "2435 FOREST DR",
+        "city": "COLUMBIA",
+        "county_name": "RICHLAND",
+        "emergency_services": true,
+        "hospital_name": "SISTERS OF CHARITY PROVIDENCE HOSPITALS",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.012142,
+                34.013278
+            ],
+            "type": "Point"
+        },
+        "location_address": "2435 FOREST DR",
+        "location_city": "COLUMBIA",
+        "location_state": "SC",
+        "location_zip": "29204",
+        "phone_number": "8032565300",
+        "provider_id": "420026",
+        "state": "SC",
+        "zip_code": "29204"
+    },
+    {
+        "address": "2669 KINARD ST PO BOX 497",
+        "city": "NEWBERRY",
+        "county_name": "NEWBERRY",
+        "emergency_services": true,
+        "hospital_name": "NEWBERRY COUNTY MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.604714,
+                34.289723
+            ],
+            "type": "Point"
+        },
+        "location_address": "2669 KINARD ST PO BOX 497",
+        "location_city": "NEWBERRY",
+        "location_state": "SC",
+        "location_zip": "29108",
+        "phone_number": "8034057145",
+        "provider_id": "420053",
+        "state": "SC",
+        "zip_code": "29108"
+    },
+    {
+        "address": "830 SOUTH BUNCOMBE ROAD",
+        "city": "GREER",
+        "county_name": "GREENVILLE",
+        "emergency_services": true,
+        "hospital_name": "GHS GREER MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -82.242003,
+                34.919241
+            ],
+            "type": "Point"
+        },
+        "location_address": "830 SOUTH BUNCOMBE ROAD",
+        "location_city": "GREER",
+        "location_state": "SC",
+        "location_zip": "29650",
+        "phone_number": "8648488200",
+        "provider_id": "420033",
+        "state": "SC",
+        "zip_code": "29650"
+    },
+    {
+        "address": "4070 HIGHWAY 17 BYPASS",
+        "city": "MURRELLS INLET",
+        "county_name": "GEORGETOWN",
+        "emergency_services": true,
+        "hospital_name": "WACCAMAW COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.041284,
+                33.559666
+            ],
+            "type": "Point"
+        },
+        "location_address": "4070 HIGHWAY 17 BYPASS",
+        "location_city": "MURRELLS INLET",
+        "location_state": "SC",
+        "location_zip": "29576",
+        "phone_number": "8436521000",
+        "provider_id": "420098",
+        "state": "SC",
+        "zip_code": "29576"
+    },
+    {
+        "address": "1530 N LIMESTONE ST",
+        "city": "GAFFNEY",
+        "county_name": "CHEROKEE",
+        "emergency_services": true,
+        "hospital_name": "MARY BLACK HEALTH SYSTEM GAFFNEY",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.635054,
+                35.090854
+            ],
+            "type": "Point"
+        },
+        "location_address": "1530 N LIMESTONE ST",
+        "location_city": "GAFFNEY",
+        "location_state": "SC",
+        "location_zip": "29340",
+        "phone_number": "8644874271",
+        "provider_id": "420043",
+        "state": "SC",
+        "zip_code": "29340"
+    },
+    {
+        "address": "1700 SKYLYN DR PO BOX 3217",
+        "city": "SPARTANBURG",
+        "county_name": "SPARTANBURG",
+        "emergency_services": true,
+        "hospital_name": "MARY BLACK HEALTH SYSTEM SPARTANBURG",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.893659,
+                34.978285
+            ],
+            "type": "Point"
+        },
+        "location_address": "1700 SKYLYN DR PO BOX 3217",
+        "location_city": "SPARTANBURG",
+        "location_state": "SC",
+        "location_zip": "29307",
+        "phone_number": "8645733000",
+        "provider_id": "420083",
+        "state": "SC",
+        "zip_code": "29307"
+    },
+    {
+        "address": "10 HOSPITAL ST BOX 550",
+        "city": "MANNING",
+        "county_name": "CLARENDON",
+        "emergency_services": true,
+        "hospital_name": "CLARENDON MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -80.21197,
+                33.687869
+            ],
+            "type": "Point"
+        },
+        "location_address": "10 HOSPITAL ST BOX 550",
+        "location_city": "MANNING",
+        "location_state": "SC",
+        "location_zip": "29102",
+        "phone_number": "8034353386",
+        "provider_id": "420069",
+        "state": "SC",
+        "zip_code": "29102"
+    },
+    {
+        "address": "811  REYNOLDS ROAD",
+        "city": "BARNWELL",
+        "county_name": "BARNWELL",
+        "emergency_services": true,
+        "hospital_name": "SOUTHERN PALMETTO HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.360566,
+                33.255265
+            ],
+            "type": "Point"
+        },
+        "location_address": "811 REYNOLDS ROAD",
+        "location_city": "BARNWELL",
+        "location_state": "SC",
+        "location_zip": "29812",
+        "phone_number": "8032591000",
+        "provider_id": "420016",
+        "state": "SC",
+        "zip_code": "29812"
+    },
+    {
+        "address": "606 BLACK RIVER RD DRAWER 1718",
+        "city": "GEORGETOWN",
+        "county_name": "GEORGETOWN",
+        "emergency_services": true,
+        "hospital_name": "GEORGETOWN MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.285723,
+                33.379938
+            ],
+            "type": "Point"
+        },
+        "location_address": "606 BLACK RIVER RD DRAWER 1718",
+        "location_city": "GEORGETOWN",
+        "location_state": "SC",
+        "location_zip": "29440",
+        "phone_number": "8435277000",
+        "provider_id": "420020",
+        "state": "SC",
+        "zip_code": "29440"
+    },
+    {
+        "address": "129 N WASHINGTON ST",
+        "city": "SUMTER",
+        "county_name": "SUMTER",
+        "emergency_services": true,
+        "hospital_name": "TUOMEY HEALTHCARE SYSTEM",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -80.344334,
+                33.923775
+            ],
+            "type": "Point"
+        },
+        "location_address": "129 N WASHINGTON ST",
+        "location_city": "SUMTER",
+        "location_state": "SC",
+        "location_zip": "29150",
+        "phone_number": "8037741752",
+        "provider_id": "420070",
+        "state": "SC",
+        "zip_code": "29150"
+    },
+    {
+        "address": "701 CASHUA FERRY ROAD",
+        "city": "DARLINGTON",
+        "county_name": "DARLINGTON",
+        "emergency_services": false,
+        "hospital_name": "MCLEOD MEDICAL CENTER - DARLINGTON",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.839676,
+                34.312385
+            ],
+            "type": "Point"
+        },
+        "location_address": "701 CASHUA FERRY ROAD",
+        "location_city": "DARLINGTON",
+        "location_state": "SC",
+        "location_zip": "29540",
+        "phone_number": "8437771100",
+        "provider_id": "420057",
+        "state": "SC",
+        "zip_code": "29540"
+    },
+    {
+        "address": "5 RICHLAND MEDICAL PARK",
+        "city": "COLUMBIA",
+        "county_name": "RICHLAND",
+        "emergency_services": true,
+        "hospital_name": "PALMETTO HEALTH RICHLAND",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.03012,
+                34.026689
+            ],
+            "type": "Point"
+        },
+        "location_address": "5 RICHLAND MEDICAL PARK",
+        "location_city": "COLUMBIA",
+        "location_state": "SC",
+        "location_zip": "29203",
+        "phone_number": "8032965678",
+        "provider_id": "420018",
+        "state": "SC",
+        "zip_code": "29203"
+    },
+    {
+        "address": "2720 SUNSET BLVD",
+        "city": "WEST COLUMBIA",
+        "county_name": "LEXINGTON",
+        "emergency_services": true,
+        "hospital_name": "LEXINGTON MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.114848,
+                34.004483
+            ],
+            "type": "Point"
+        },
+        "location_address": "2720 SUNSET BLVD",
+        "location_city": "WEST COLUMBIA",
+        "location_state": "SC",
+        "location_zip": "29169",
+        "phone_number": "8037912000",
+        "provider_id": "420073",
+        "state": "SC",
+        "zip_code": "29169"
+    },
+    {
+        "address": "1304 W BOBO NEWSOM HWY",
+        "city": "HARTSVILLE",
+        "county_name": "DARLINGTON",
+        "emergency_services": true,
+        "hospital_name": "CAROLINA PINES REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -80.105944,
+                34.348766
+            ],
+            "type": "Point"
+        },
+        "location_address": "1304 W BOBO NEWSOM HWY",
+        "location_city": "HARTSVILLE",
+        "location_state": "SC",
+        "location_zip": "29550",
+        "phone_number": "8643392100",
+        "provider_id": "420010",
+        "state": "SC",
+        "zip_code": "29550"
+    },
+    {
+        "address": "ONE ST FRANCIS DR",
+        "city": "GREENVILLE",
+        "county_name": "GREENVILLE",
+        "emergency_services": true,
+        "hospital_name": "ST FRANCIS-DOWNTOWN",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "ONE ST FRANCIS DR",
+        "location_city": "GREENVILLE",
+        "location_state": "SC",
+        "location_zip": "29601",
+        "phone_number": "8642551000",
+        "provider_id": "420023",
+        "state": "SC",
+        "zip_code": "29601"
+    },
+    {
+        "address": "2000 HOSPITAL DR",
+        "city": "MOUNT PLEASANT",
+        "county_name": "CHARLESTON",
+        "emergency_services": true,
+        "hospital_name": "EAST COOPER MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.8496,
+                32.820879
+            ],
+            "type": "Point"
+        },
+        "location_address": "2000 HOSPITAL DR",
+        "location_city": "MOUNT PLEASANT",
+        "location_state": "SC",
+        "location_zip": "29464",
+        "phone_number": "8438810100",
+        "provider_id": "420089",
+        "state": "SC",
+        "zip_code": "29464"
+    },
+    {
+        "address": "109 BEE STREET",
+        "city": "CHARLESTON",
+        "county_name": "CHARLESTON",
+        "emergency_services": false,
+        "hospital_name": "CHARLESTON VA MEDICAL CENTER",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -79.954452,
+                32.784955
+            ],
+            "type": "Point"
+        },
+        "location_address": "109 BEE STREET",
+        "location_city": "CHARLESTON",
+        "location_state": "SC",
+        "location_zip": "29401",
+        "phone_number": "8435775011",
+        "provider_id": "42029F",
+        "state": "SC",
+        "zip_code": "29401"
+    },
+    {
+        "address": "1 MEDICAL PARK DRIVE",
+        "city": "CHESTER",
+        "county_name": "CHESTER",
+        "emergency_services": true,
+        "hospital_name": "CHESTER REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.184551,
+                34.683429
+            ],
+            "type": "Point"
+        },
+        "location_address": "1 MEDICAL PARK DRIVE",
+        "location_city": "CHESTER",
+        "location_state": "SC",
+        "location_zip": "29706",
+        "phone_number": "8035813151",
+        "provider_id": "420019",
+        "state": "SC",
+        "zip_code": "29706"
+    },
+    {
+        "address": "PO BOX 2129",
+        "city": "EASLEY",
+        "county_name": "PICKENS",
+        "emergency_services": true,
+        "hospital_name": "BAPTIST EASLEY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "PO BOX 2129",
+        "location_city": "EASLEY",
+        "location_state": "SC",
+        "location_zip": "29641",
+        "phone_number": "8644427200",
+        "provider_id": "420015",
+        "state": "SC",
+        "zip_code": "29641"
+    },
+    {
+        "address": "501 ROBERTSON BOULEVARD",
+        "city": "WALTERBORO",
+        "county_name": "COLLETON",
+        "emergency_services": true,
+        "hospital_name": "COLLETON MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -80.67088,
+                32.921855
+            ],
+            "type": "Point"
+        },
+        "location_address": "501 ROBERTSON BOULEVARD",
+        "location_city": "WALTERBORO",
+        "location_state": "SC",
+        "location_zip": "29488",
+        "phone_number": "8437822000",
+        "provider_id": "420030",
+        "state": "SC",
+        "zip_code": "29488"
+    },
+    {
+        "address": "800 N FANT ST",
+        "city": "ANDERSON",
+        "county_name": "ANDERSON",
+        "emergency_services": true,
+        "hospital_name": "ANMED HEALTH",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -82.647355,
+                34.511071
+            ],
+            "type": "Point"
+        },
+        "location_address": "800 N FANT ST",
+        "location_city": "ANDERSON",
+        "location_state": "SC",
+        "location_zip": "29621",
+        "phone_number": "8642611109",
+        "provider_id": "420027",
+        "state": "SC",
+        "zip_code": "29621"
+    },
+    {
+        "address": "6439 GARNERS FERRY ROAD",
+        "city": "COLUMBIA",
+        "county_name": "RICHLAND",
+        "emergency_services": false,
+        "hospital_name": "COLUMBIA SC VA MEDICAL CENTER",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -80.962156,
+                33.980212
+            ],
+            "type": "Point"
+        },
+        "location_address": "6439 GARNERS FERRY ROAD",
+        "location_city": "COLUMBIA",
+        "location_state": "SC",
+        "location_zip": "29209",
+        "phone_number": "8036957980",
+        "provider_id": "42011F",
+        "state": "SC",
+        "zip_code": "29209"
+    },
+    {
+        "address": "101 E WOOD ST",
+        "city": "SPARTANBURG",
+        "county_name": "SPARTANBURG",
+        "emergency_services": true,
+        "hospital_name": "SPARTANBURG REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.939927,
+                34.967852
+            ],
+            "type": "Point"
+        },
+        "location_address": "101 E WOOD ST",
+        "location_city": "SPARTANBURG",
+        "location_state": "SC",
+        "location_zip": "29303",
+        "phone_number": "8645606000",
+        "provider_id": "420007",
+        "state": "SC",
+        "zip_code": "29303"
+    },
+    {
+        "address": "3655 MITCHELL STREET",
+        "city": "LORIS",
+        "county_name": "HORRY",
+        "emergency_services": true,
+        "hospital_name": "MCLEOD LORIS SEACOAST HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -78.898443,
+                34.056501
+            ],
+            "type": "Point"
+        },
+        "location_address": "3655 MITCHELL STREET",
+        "location_city": "LORIS",
+        "location_state": "SC",
+        "location_zip": "29569",
+        "phone_number": "8437167000",
+        "provider_id": "420105",
+        "state": "SC",
+        "zip_code": "29569"
+    },
+    {
+        "address": "HAILE AND ROBERTS STREETS, BOX 7003",
+        "city": "CAMDEN",
+        "county_name": "KERSHAW",
+        "emergency_services": true,
+        "hospital_name": "KERSHAW HEALTH",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "HAILE AND ROBERTS STREETS, BOX 7003",
+        "location_city": "CAMDEN",
+        "location_state": "SC",
+        "location_zip": "29020",
+        "phone_number": "8034324311",
+        "provider_id": "420048",
+        "state": "SC",
+        "zip_code": "29020"
+    },
+    {
+        "address": "1325 SPRING STREET",
+        "city": "GREENWOOD",
+        "county_name": "GREENWOOD",
+        "emergency_services": true,
+        "hospital_name": "SELF REGIONAL HEALTHCARE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -82.157873,
+                34.175367
+            ],
+            "type": "Point"
+        },
+        "location_address": "1325 SPRING STREET",
+        "location_city": "GREENWOOD",
+        "location_state": "SC",
+        "location_zip": "29646",
+        "phone_number": "8642274111",
+        "provider_id": "420071",
+        "state": "SC",
+        "zip_code": "29646"
+    },
+    {
+        "address": "301 E JACKSON ST",
+        "city": "DILLON",
+        "county_name": "DILLON",
+        "emergency_services": true,
+        "hospital_name": "MCLEOD MEDICAL CENTER - DILLON",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.366107,
+                34.421266
+            ],
+            "type": "Point"
+        },
+        "location_address": "301 E JACKSON ST",
+        "location_city": "DILLON",
+        "location_state": "SC",
+        "location_zip": "29536",
+        "phone_number": "8437744111",
+        "provider_id": "420005",
+        "state": "SC",
+        "zip_code": "29536"
+    },
+    {
+        "address": "500 NELSON BOULEVARD",
+        "city": "KINGSTREE",
+        "county_name": "WILLIAMSBURG",
+        "emergency_services": true,
+        "hospital_name": "WILLIAMSBURG REGIONAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -79.820267,
+                33.660657
+            ],
+            "type": "Point"
+        },
+        "location_address": "500 NELSON BOULEVARD",
+        "location_city": "KINGSTREE",
+        "location_state": "SC",
+        "location_zip": "29556",
+        "phone_number": "8433558888",
+        "provider_id": "421303",
+        "state": "SC",
+        "zip_code": "29556"
+    },
+    {
+        "address": "300 SINGLETON RIDGE ROAD",
+        "city": "CONWAY",
+        "county_name": "HORRY",
+        "emergency_services": true,
+        "hospital_name": "CONWAY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.001662,
+                33.787012
+            ],
+            "type": "Point"
+        },
+        "location_address": "300 SINGLETON RIDGE ROAD",
+        "location_city": "CONWAY",
+        "location_state": "SC",
+        "location_zip": "29526",
+        "phone_number": "8433478037",
+        "provider_id": "420049",
+        "state": "SC",
+        "zip_code": "29526"
+    },
+    {
+        "address": "22725 HIGHWAY 76 EAST",
+        "city": "CLINTON",
+        "county_name": "LAURENS",
+        "emergency_services": true,
+        "hospital_name": "GHS  LAURENS COUNTY MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.941169,
+                34.479721
+            ],
+            "type": "Point"
+        },
+        "location_address": "22725 HIGHWAY 76 EAST",
+        "location_city": "CLINTON",
+        "location_state": "SC",
+        "location_zip": "29325",
+        "phone_number": "8648339100",
+        "provider_id": "420038",
+        "state": "SC",
+        "zip_code": "29325"
+    },
+    {
+        "address": "25 HOSPITAL CENTER BLVD",
+        "city": "HILTON HEAD ISLAND",
+        "county_name": "BEAUFORT",
+        "emergency_services": true,
+        "hospital_name": "HILTON HEAD REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -80.714267,
+                32.222744
+            ],
+            "type": "Point"
+        },
+        "location_address": "25 HOSPITAL CENTER BLVD",
+        "location_city": "HILTON HEAD ISLAND",
+        "location_state": "SC",
+        "location_zip": "29925",
+        "phone_number": "8436816122",
+        "provider_id": "420080",
+        "state": "SC",
+        "zip_code": "29925"
+    },
+    {
+        "address": "955 RIBAUT RD",
+        "city": "BEAUFORT",
+        "county_name": "BEAUFORT",
+        "emergency_services": true,
+        "hospital_name": "BEAUFORT COUNTY MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -80.688546,
+                32.416835
+            ],
+            "type": "Point"
+        },
+        "location_address": "955 RIBAUT RD",
+        "location_city": "BEAUFORT",
+        "location_state": "SC",
+        "location_zip": "29902",
+        "phone_number": "8435225200",
+        "provider_id": "420067",
+        "state": "SC",
+        "zip_code": "29902"
+    },
+    {
+        "address": "258 N RON MCNAIR BLVD",
+        "city": "LAKE CITY",
+        "county_name": "FLORENCE",
+        "emergency_services": true,
+        "hospital_name": "LAKE CITY COMMUNITY HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.758701,
+                33.881532
+            ],
+            "type": "Point"
+        },
+        "location_address": "258 N RON MCNAIR BLVD",
+        "location_city": "LAKE CITY",
+        "location_state": "SC",
+        "location_zip": "29560",
+        "phone_number": "8433742036",
+        "provider_id": "420066",
+        "state": "SC",
+        "zip_code": "29560"
+    },
+    {
+        "address": "809 82ND PARKWAY",
+        "city": "MYRTLE BEACH",
+        "county_name": "HORRY",
+        "emergency_services": true,
+        "hospital_name": "GRAND STRAND REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -78.816423,
+                33.757825
+            ],
+            "type": "Point"
+        },
+        "location_address": "809 82ND PARKWAY",
+        "location_city": "MYRTLE BEACH",
+        "location_state": "SC",
+        "location_zip": "29572",
+        "phone_number": "8436921000",
+        "provider_id": "420085",
+        "state": "SC",
+        "zip_code": "29572"
+    },
+    {
+        "address": "711 CHESTERFIELD HIGHWAY",
+        "city": "CHERAW",
+        "county_name": "CHESTERFIELD",
+        "emergency_services": true,
+        "hospital_name": "CHESTERFIELD GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.916712,
+                34.69499
+            ],
+            "type": "Point"
+        },
+        "location_address": "711 CHESTERFIELD HIGHWAY",
+        "location_city": "CHERAW",
+        "location_state": "SC",
+        "location_zip": "29520",
+        "phone_number": "8435377881",
+        "provider_id": "420062",
+        "state": "SC",
+        "zip_code": "29520"
+    },
+    {
+        "address": "TAYLOR AT MARION ST",
+        "city": "COLUMBIA",
+        "county_name": "RICHLAND",
+        "emergency_services": true,
+        "hospital_name": "PALMETTO HEALTH BAPTIST",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.032688,
+                34.007556
+            ],
+            "type": "Point"
+        },
+        "location_address": "TAYLOR AT MARION ST",
+        "location_city": "COLUMBIA",
+        "location_state": "SC",
+        "location_zip": "29220",
+        "phone_number": "8032965678",
+        "provider_id": "420086",
+        "state": "SC",
+        "zip_code": "29220"
+    },
+    {
+        "address": "555 E CHEVES ST BOX 8700",
+        "city": "FLORENCE",
+        "county_name": "FLORENCE",
+        "emergency_services": true,
+        "hospital_name": "MCLEOD REGIONAL MEDICAL CENTER-PEE DEE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.758496,
+                34.19595
+            ],
+            "type": "Point"
+        },
+        "location_address": "555 E CHEVES ST BOX 8700",
+        "location_city": "FLORENCE",
+        "location_state": "SC",
+        "location_zip": "29506",
+        "phone_number": "8437772900",
+        "provider_id": "420051",
+        "state": "SC",
+        "zip_code": "29506"
+    },
+    {
+        "address": "595 WEST CAROLINA AVENUE",
+        "city": "VARNVILLE",
+        "county_name": "HAMPTON",
+        "emergency_services": true,
+        "hospital_name": "HAMPTON REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.087473,
+                32.855107
+            ],
+            "type": "Point"
+        },
+        "location_address": "595 WEST CAROLINA AVENUE",
+        "location_city": "VARNVILLE",
+        "location_state": "SC",
+        "location_zip": "29944",
+        "phone_number": "8039432771",
+        "provider_id": "420072",
+        "state": "SC",
+        "zip_code": "29944"
+    },
+    {
+        "address": "302 UNIVERSITY PARKWAY",
+        "city": "AIKEN",
+        "county_name": "AIKEN",
+        "emergency_services": false,
+        "hospital_name": "AIKEN REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.765649,
+                33.576922
+            ],
+            "type": "Point"
+        },
+        "location_address": "302 UNIVERSITY PARKWAY",
+        "location_city": "AIKEN",
+        "location_state": "SC",
+        "location_zip": "29801",
+        "phone_number": "8036415900",
+        "provider_id": "420082",
+        "state": "SC",
+        "zip_code": "29801"
+    },
+    {
+        "address": "250 WESTMORELAND ROAD",
+        "city": "GREER",
+        "county_name": "GREENVILLE",
+        "emergency_services": true,
+        "hospital_name": "VILLAGE HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -82.217524,
+                34.863444
+            ],
+            "type": "Point"
+        },
+        "location_address": "250 WESTMORELAND ROAD",
+        "location_city": "GREER",
+        "location_state": "SC",
+        "location_zip": "29651",
+        "phone_number": "8645306000",
+        "provider_id": "420103",
+        "state": "SC",
+        "zip_code": "29651"
+    },
+    {
+        "address": "9330 MEDICAL PLAZA DR",
+        "city": "CHARLESTON",
+        "county_name": "CHARLESTON",
+        "emergency_services": true,
+        "hospital_name": "TRIDENT MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -80.07365,
+                32.977461
+            ],
+            "type": "Point"
+        },
+        "location_address": "9330 MEDICAL PLAZA DR",
+        "location_city": "CHARLESTON",
+        "location_state": "SC",
+        "location_zip": "29406",
+        "phone_number": "8437978800",
+        "provider_id": "420079",
+        "state": "SC",
+        "zip_code": "29406"
+    },
+    {
+        "address": "169 ASHLEY AVE",
+        "city": "CHARLESTON",
+        "county_name": "CHARLESTON",
+        "emergency_services": true,
+        "hospital_name": "MUSC MEDICAL CENTER",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.946559,
+                32.7854
+            ],
+            "type": "Point"
+        },
+        "location_address": "169 ASHLEY AVE",
+        "location_city": "CHARLESTON",
+        "location_state": "SC",
+        "location_zip": "29425",
+        "phone_number": "8437922300",
+        "provider_id": "420004",
+        "state": "SC",
+        "zip_code": "29425"
+    },
+    {
+        "address": "321 BYPASS PO BOX 620",
+        "city": "WINNSBORO",
+        "county_name": "FAIRFIELD",
+        "emergency_services": true,
+        "hospital_name": "FAIRFIELD MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "321 BYPASS PO BOX 620",
+        "location_city": "WINNSBORO",
+        "location_state": "SC",
+        "location_zip": "29180",
+        "phone_number": "8036350233",
+        "provider_id": "421302",
+        "state": "SC",
+        "zip_code": "29180"
+    },
+    {
+        "address": "420 THOMSON CIRCLE",
+        "city": "ABBEVILLE",
+        "county_name": "ABBEVILLE",
+        "emergency_services": true,
+        "hospital_name": "ABBEVILLE AREA MEDICAL CENTER",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -82.372819,
+                34.154291
+            ],
+            "type": "Point"
+        },
+        "location_address": "420 THOMSON CIRCLE",
+        "location_city": "ABBEVILLE",
+        "location_state": "SC",
+        "location_zip": "29620",
+        "phone_number": "8643665011",
+        "provider_id": "421301",
+        "state": "SC",
+        "zip_code": "29620"
+    },
+    {
+        "address": "400 PALMETTO HEALTH PARKWAY",
+        "city": "COLUMBIA",
+        "county_name": "LEXINGTON",
+        "emergency_services": true,
+        "hospital_name": "PALMETTO HEALTH BAPTIST PARKRIDGE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "400 PALMETTO HEALTH PARKWAY",
+        "location_city": "COLUMBIA",
+        "location_state": "SC",
+        "location_zip": "29212",
+        "phone_number": "8039077011",
+        "provider_id": "420106",
+        "state": "SC",
+        "zip_code": "29212"
+    },
+    {
+        "address": "1138 CHERAW HIGHWAY",
+        "city": "BENNETTSVILLE",
+        "county_name": "MARLBORO",
+        "emergency_services": true,
+        "hospital_name": "MARLBORO PARK HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.700229,
+                34.637363
+            ],
+            "type": "Point"
+        },
+        "location_address": "1138 CHERAW HIGHWAY",
+        "location_city": "BENNETTSVILLE",
+        "location_state": "SC",
+        "location_zip": "29512",
+        "phone_number": "8434792881",
+        "provider_id": "420054",
+        "state": "SC",
+        "zip_code": "29512"
+    },
+    {
+        "address": "123 MEDICAL PARK DRIVE PO BOX 188",
+        "city": "PICKENS",
+        "county_name": "PICKENS",
+        "emergency_services": true,
+        "hospital_name": "CANNON MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "123 MEDICAL PARK DRIVE PO BOX 188",
+        "location_city": "PICKENS",
+        "location_state": "SC",
+        "location_zip": "29671",
+        "phone_number": "8648784791",
+        "provider_id": "420011",
+        "state": "SC",
+        "zip_code": "29671"
+    },
+    {
+        "address": "2095 HENRY TECKLENBURG DRIVE",
+        "city": "CHARLESTON",
+        "county_name": "CHARLESTON",
+        "emergency_services": true,
+        "hospital_name": "BON SECOURS-ST FRANCIS XAVIER HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -80.041516,
+                32.810487
+            ],
+            "type": "Point"
+        },
+        "location_address": "2095 HENRY TECKLENBURG DRIVE",
+        "location_city": "CHARLESTON",
+        "location_state": "SC",
+        "location_zip": "29414",
+        "phone_number": "8434021006",
+        "provider_id": "420065",
+        "state": "SC",
+        "zip_code": "29414"
+    },
+    {
+        "address": "316 CALHOUN ST",
+        "city": "CHARLESTON",
+        "county_name": "CHARLESTON",
+        "emergency_services": true,
+        "hospital_name": "ROPER HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.948734,
+                32.782372
+            ],
+            "type": "Point"
+        },
+        "location_address": "316 CALHOUN ST",
+        "location_city": "CHARLESTON",
+        "location_state": "SC",
+        "location_zip": "29401",
+        "phone_number": "8437242800",
+        "provider_id": "420087",
+        "state": "SC",
+        "zip_code": "29401"
+    },
+    {
+        "address": "2829 E HWY 76",
+        "city": "MULLINS",
+        "county_name": "MARION",
+        "emergency_services": true,
+        "hospital_name": "CAROLINAS HOSPITAL SYSTEM MARION",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.321945,
+                34.189232
+            ],
+            "type": "Point"
+        },
+        "location_address": "2829 E HWY 76",
+        "location_city": "MULLINS",
+        "location_state": "SC",
+        "location_zip": "29574",
+        "phone_number": "8434312000",
+        "provider_id": "420055",
+        "state": "SC",
+        "zip_code": "29574"
+    },
+    {
+        "address": "701 GROVE RD",
+        "city": "GREENVILLE",
+        "county_name": "GREENVILLE",
+        "emergency_services": true,
+        "hospital_name": "GHS GREENVILLE MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -82.41359,
+                34.821617
+            ],
+            "type": "Point"
+        },
+        "location_address": "701 GROVE RD",
+        "location_city": "GREENVILLE",
+        "location_state": "SC",
+        "location_zip": "29605",
+        "phone_number": "8644557000",
+        "provider_id": "420078",
+        "state": "SC",
+        "zip_code": "29605"
+    },
+    {
+        "address": "3000 ST MATTHEWS RD BOX 1806",
+        "city": "ORANGEBURG",
+        "county_name": "ORANGEBURG",
+        "emergency_services": true,
+        "hospital_name": "TRMC OF ORANGEBURG & CALHOUN",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -80.832814,
+                33.540783
+            ],
+            "type": "Point"
+        },
+        "location_address": "3000 ST MATTHEWS RD BOX 1806",
+        "location_city": "ORANGEBURG",
+        "location_state": "SC",
+        "location_zip": "29115",
+        "phone_number": "8035332460",
+        "provider_id": "420068",
+        "state": "SC",
+        "zip_code": "29115"
+    },
+    {
+        "address": "322 W SOUTH ST PO BOX 789",
+        "city": "UNION",
+        "county_name": "UNION",
+        "emergency_services": true,
+        "hospital_name": "WALLACE THOMSON HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.626731,
+                34.711615
+            ],
+            "type": "Point"
+        },
+        "location_address": "322 W SOUTH ST PO BOX 789",
+        "location_city": "UNION",
+        "location_state": "SC",
+        "location_zip": "29379",
+        "phone_number": "8644270351",
+        "provider_id": "420039",
+        "state": "SC",
+        "zip_code": "29379"
+    },
+    {
+        "address": "1787 ALLENDALE FAIRFAX RD",
+        "city": "FAIRFAX",
+        "county_name": "ALLENDALE",
+        "emergency_services": true,
+        "hospital_name": "ALLENDALE COUNTY HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "1787 ALLENDALE FAIRFAX RD",
+        "location_city": "FAIRFAX",
+        "location_state": "SC",
+        "location_zip": "29827",
+        "phone_number": "8036323311",
+        "provider_id": "421300",
+        "state": "SC",
+        "zip_code": "29827"
+    },
+    {
+        "address": "222 S HERLONG AVE",
+        "city": "ROCK HILL",
+        "county_name": "YORK",
+        "emergency_services": true,
+        "hospital_name": "PIEDMONT MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.05125,
+                34.955198
+            ],
+            "type": "Point"
+        },
+        "location_address": "222 S HERLONG AVE",
+        "location_city": "ROCK HILL",
+        "location_state": "SC",
+        "location_zip": "29730",
+        "phone_number": "8033291234",
+        "provider_id": "420002",
+        "state": "SC",
+        "zip_code": "29730"
+    },
+    {
+        "address": "805 PAMPLICO HWY BOX 100550",
+        "city": "FLORENCE",
+        "county_name": "FLORENCE",
+        "emergency_services": true,
+        "hospital_name": "CAROLINAS HOSPITAL SYSTEM",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.753814,
+                34.158376
+            ],
+            "type": "Point"
+        },
+        "location_address": "805 PAMPLICO HWY BOX 100550",
+        "location_city": "FLORENCE",
+        "location_state": "SC",
+        "location_zip": "29505",
+        "phone_number": "8436742500",
+        "provider_id": "420091",
+        "state": "SC",
+        "zip_code": "29505"
+    },
+    {
+        "address": "3500 HIGHWAY 17 NORTH",
+        "city": "MOUNT PLEASANT",
+        "county_name": "CHARLESTON",
+        "emergency_services": true,
+        "hospital_name": "MOUNT PLEASANT HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.7679,
+                32.877082
+            ],
+            "type": "Point"
+        },
+        "location_address": "3500 HIGHWAY 17 NORTH",
+        "location_city": "MOUNT PLEASANT",
+        "location_state": "SC",
+        "location_zip": "29466",
+        "phone_number": "8437242954",
+        "provider_id": "420104",
+        "state": "SC",
+        "zip_code": "29466"
+    },
+    {
+        "address": "175 PATEWOOD DRIVE",
+        "city": "GREENVILLE",
+        "county_name": "GREENVILLE",
+        "emergency_services": false,
+        "hospital_name": "GHS PATEWOOD MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -82.325899,
+                34.852418
+            ],
+            "type": "Point"
+        },
+        "location_address": "175 PATEWOOD DRIVE",
+        "location_city": "GREENVILLE",
+        "location_state": "SC",
+        "location_zip": "29615",
+        "phone_number": "8647971000",
+        "provider_id": "420102",
+        "state": "SC",
+        "zip_code": "29615"
+    },
+    {
+        "address": "298 MEMORIAL DRIVE",
+        "city": "SENECA",
+        "county_name": "OCONEE",
+        "emergency_services": true,
+        "hospital_name": "GHS OCONEE MEMORIAL  HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -82.988836,
+                34.693992
+            ],
+            "type": "Point"
+        },
+        "location_address": "298 MEMORIAL DRIVE",
+        "location_city": "SENECA",
+        "location_state": "SC",
+        "location_zip": "29672",
+        "phone_number": "8644823100",
+        "provider_id": "420009",
+        "state": "SC",
+        "zip_code": "29672"
+    },
+    {
+        "address": "800 W MEETING ST",
+        "city": "LANCASTER",
+        "county_name": "LANCASTER",
+        "emergency_services": true,
+        "hospital_name": "SPRINGS MEMORIAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -80.786842,
+                34.716906
+            ],
+            "type": "Point"
+        },
+        "location_address": "800 W MEETING ST",
+        "location_city": "LANCASTER",
+        "location_state": "SC",
+        "location_zip": "29720",
+        "phone_number": "8032861481",
+        "provider_id": "420036",
+        "state": "SC",
+        "zip_code": "29720"
+    },
+    {
+        "address": "1000 MEDICAL CENTER DRIVE",
+        "city": "HARDEEVILLE",
+        "county_name": "JASPER",
+        "emergency_services": true,
+        "hospital_name": "COASTAL CAROLINA HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -81.055052,
+                32.31256
+            ],
+            "type": "Point"
+        },
+        "location_address": "1000 MEDICAL CENTER DRIVE",
+        "location_city": "HARDEEVILLE",
+        "location_state": "SC",
+        "location_zip": "29927",
+        "phone_number": "8437848182",
+        "provider_id": "420101",
+        "state": "SC",
+        "zip_code": "29927"
+    },
+    {
+        "address": "729 SOUTH EAST MAIN STREET",
+        "city": "SIMPSONVILLE",
+        "county_name": "GREENVILLE",
+        "emergency_services": true,
+        "hospital_name": "GHS-HILLCREST MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "729 SOUTH EAST MAIN STREET",
+        "location_city": "SIMPSONVILLE",
+        "location_state": "SC",
+        "location_zip": "29681",
+        "phone_number": "8644546151",
+        "provider_id": "420037",
+        "state": "SC",
+        "zip_code": "29681"
+    },
+    {
+        "address": "300 RIDGE MEDICAL PLAZA",
+        "city": "EDGEFIELD",
+        "county_name": "EDGEFIELD",
+        "emergency_services": true,
+        "hospital_name": "EDGEFIELD COUNTY HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "300 RIDGE MEDICAL PLAZA",
+        "location_city": "EDGEFIELD",
+        "location_state": "SC",
+        "location_zip": "29824",
+        "phone_number": "8036371193",
+        "provider_id": "421304",
+        "state": "SC",
+        "zip_code": "29824"
+    }
+]

@@ -1,946 +1,1026 @@
-[ {
-  "hospital_name" : "ST ALEXIUS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7015307000"
-  },
-  "zip_code" : "58501",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-100.77841564099998",
-    "latitude" : "46.80642259600006",
-    "human_address" : "{\"address\":\"900 E BROADWAY\",\"city\":\"BISMARCK\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "900 E BROADWAY",
-  "provider_id" : "350002",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "BURLEIGH",
-  "city" : "BISMARCK"
-}
-, {
-  "hospital_name" : "TRINITY HOSPITALS",
-  "phone_number" : {
-    "phone_number" : "7018575000"
-  },
-  "zip_code" : "58701",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-101.28843976699994",
-    "latitude" : "48.23238914500007",
-    "human_address" : "{\"address\":\"407 3RD ST SE\",\"city\":\"MINOT\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "407 3RD ST SE",
-  "provider_id" : "350006",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "WARD",
-  "city" : "MINOT"
-}
-, {
-  "hospital_name" : "SANFORD MEDICAL CENTER FARGO",
-  "phone_number" : {
-    "phone_number" : "7012342000"
-  },
-  "zip_code" : "58122",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-96.78768811299994",
-    "latitude" : "46.884758635000026",
-    "human_address" : "{\"address\":\"801 BROADWAY NORTH\",\"city\":\"FARGO\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "801 BROADWAY NORTH",
-  "provider_id" : "350011",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "CASS",
-  "city" : "FARGO"
-}
-, {
-  "hospital_name" : "SANFORD MEDICAL CENTER BISMARCK",
-  "phone_number" : {
-    "phone_number" : "7013236000"
-  },
-  "zip_code" : "58506",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-100.78161091499999",
-    "latitude" : "46.80749012700005",
-    "human_address" : "{\"address\":\"300 N 7TH ST\",\"city\":\"BISMARCK\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "300 N 7TH ST",
-  "provider_id" : "350015",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "BURLEIGH",
-  "city" : "BISMARCK"
-}
-, {
-  "hospital_name" : "ALTRU HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7017805000"
-  },
-  "zip_code" : "58201",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-97.06649187199997",
-    "latitude" : "47.90915911600007",
-    "human_address" : "{\"address\":\"1200 S COLUMBIA RD\",\"city\":\"GRAND FORKS\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "1200 S COLUMBIA RD",
-  "provider_id" : "350019",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "GRAND FORKS",
-  "city" : "GRAND FORKS"
-}
-, {
-  "hospital_name" : "FARGO VA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7012323241"
-  },
-  "zip_code" : "58102",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-96.77680015799996",
-    "latitude" : "46.90686982500006",
-    "human_address" : "{\"address\":\"2101 ELM STREET\",\"city\":\"FARGO\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "2101 ELM STREET",
-  "provider_id" : "35002F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "ND",
-  "emergency_services" : false,
-  "county_name" : "CASS",
-  "city" : "FARGO"
-}
-, {
-  "hospital_name" : "P H S INDIAN HOSP AT BELCOURT-QUENTIN N BURDICK",
-  "phone_number" : {
-    "phone_number" : "7014776111"
-  },
-  "zip_code" : "58316",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-99.72497950299999",
-    "latitude" : "48.84774661100005",
-    "human_address" : "{\"address\":\"PO BOX 160\",\"city\":\"BELCOURT\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "PO BOX 160",
-  "provider_id" : "350063",
-  "hospital_ownership" : "Government - Federal",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "ROLETTE",
-  "city" : "BELCOURT"
-}
-, {
-  "hospital_name" : "STANDING ROCK INDIAN HEALTH SERVICE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7018543831"
-  },
-  "zip_code" : "58538",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-100.62786527899999",
-    "latitude" : "46.08694779000007",
-    "human_address" : "{\"address\":\"10 NORTH RIVER ROAD\",\"city\":\"FORT YATES\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "10 NORTH RIVER ROAD",
-  "provider_id" : "350064",
-  "hospital_ownership" : "Government - Federal",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "SIOUX",
-  "city" : "FORT YATES"
-}
-, {
-  "hospital_name" : "ESSENTIA HEALTH-FARGO",
-  "phone_number" : {
-    "phone_number" : "7013648000"
-  },
-  "zip_code" : "58104",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-96.82809052599998",
-    "latitude" : "46.832492338000066",
-    "human_address" : "{\"address\":\"3000 32ND AVE SOUTH\",\"city\":\"FARGO\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "3000 32ND AVE SOUTH",
-  "provider_id" : "350070",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "CASS",
-  "city" : "FARGO"
-}
-, {
-  "hospital_name" : "TIOGA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7016643305"
-  },
-  "zip_code" : "58852",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-102.93473292899995",
-    "latitude" : "48.40186753000006",
-    "human_address" : "{\"address\":\"810 N WELO ST\",\"city\":\"TIOGA\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "810 N WELO ST",
-  "provider_id" : "351300",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "WILLIAMS",
-  "city" : "TIOGA"
-}
-, {
-  "hospital_name" : "MOUNTRAIL COUNTY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7016282424"
-  },
-  "zip_code" : "58784",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-102.38078594299998",
-    "latitude" : "48.31232591200006",
-    "human_address" : "{\"address\":\"615 6TH ST SE\",\"city\":\"STANLEY\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "615 6TH ST SE",
-  "provider_id" : "351301",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "MOUNTRAIL",
-  "city" : "STANLEY"
-}
-, {
-  "hospital_name" : "MCKENZIE COUNTY HEALTHCARE SYSTEMS",
-  "phone_number" : {
-    "phone_number" : "7018423000"
-  },
-  "zip_code" : "58854",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-103.28303906999997",
-    "latitude" : "47.80675506500006",
-    "human_address" : "{\"address\":\"516 NORTH MAIN ST\",\"city\":\"WATFORD CITY\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "516 NORTH MAIN ST",
-  "provider_id" : "351302",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "MCKENZIE",
-  "city" : "WATFORD CITY"
-}
-, {
-  "hospital_name" : "GARRISON MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7014632275"
-  },
-  "zip_code" : "58540",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-101.41089252499995",
-    "latitude" : "47.64837318700006",
-    "human_address" : "{\"address\":\"407 3RD AVE SE\",\"city\":\"GARRISON\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "407 3RD AVE SE",
-  "provider_id" : "351303",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "MCLEAN",
-  "city" : "GARRISON"
-}
-, {
-  "hospital_name" : "COMMUNITY MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7014482331"
-  },
-  "zip_code" : "58575",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-100.89418473299997",
-    "latitude" : "47.51794836600004",
-    "human_address" : "{\"address\":\"220 5TH AVE W\",\"city\":\"TURTLE LAKE\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "220 5TH AVE W",
-  "provider_id" : "351304",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "MCLEAN",
-  "city" : "TURTLE LAKE"
-}
-, {
-  "hospital_name" : "KENMARE COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7013854296"
-  },
-  "zip_code" : "58746",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-102.08339805699995",
-    "latitude" : "48.67664768800006",
-    "human_address" : "{\"address\":\"PO BOX 697\",\"city\":\"KENMARE\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "PO BOX 697",
-  "provider_id" : "351305",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "WARD",
-  "city" : "KENMARE"
-}
-, {
-  "hospital_name" : "COOPERSTOWN MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7017972221"
-  },
-  "zip_code" : "58425",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-98.11907387699995",
-    "latitude" : "47.44558062200008",
-    "human_address" : "{\"address\":\"1200 ROBERTS AVE NE\",\"city\":\"COOPERSTOWN\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "1200 ROBERTS AVE NE",
-  "provider_id" : "351306",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "GRIGGS",
-  "city" : "COOPERSTOWN"
-}
-, {
-  "hospital_name" : "ST ANDREWS HEALTH CENTER - CAH",
-  "phone_number" : {
-    "phone_number" : "7012289300"
-  },
-  "zip_code" : "58318",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-100.44911845699994",
-    "latitude" : "48.82919442700006",
-    "human_address" : "{\"address\":\"316 OHMER STREET\",\"city\":\"BOTTINEAU\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "316 OHMER STREET",
-  "provider_id" : "351307",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "BOTTINEAU",
-  "city" : "BOTTINEAU"
-}
-, {
-  "hospital_name" : "NELSON COUNTY HEALTH SYSTEM",
-  "phone_number" : {
-    "phone_number" : "7013224328"
-  },
-  "zip_code" : "58254",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-98.17734108999997",
-    "latitude" : "47.765829085000064",
-    "human_address" : "{\"address\":\"200 N MAIN ST\",\"city\":\"MCVILLE\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "200 N MAIN ST",
-  "provider_id" : "351308",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "NELSON",
-  "city" : "MCVILLE"
-}
-, {
-  "hospital_name" : "SANFORD MAYVILLE",
-  "phone_number" : {
-    "phone_number" : "7017863800"
-  },
-  "zip_code" : "58257",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-97.31737140899997",
-    "latitude" : "47.501118406000046",
-    "human_address" : "{\"address\":\"42 6TH AVENUE SE\",\"city\":\"MAYVILLE\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "42 6TH AVENUE SE",
-  "provider_id" : "351309",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "TRAILL",
-  "city" : "MAYVILLE"
-}
-, {
-  "hospital_name" : "SAKAKAWEA MEDICAL CENTER - CAH",
-  "phone_number" : {
-    "phone_number" : "7017482225"
-  },
-  "zip_code" : "58545",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-101.61147910399995",
-    "latitude" : "47.29828656800004",
-    "human_address" : "{\"address\":\"510 8TH AVENUE NE\",\"city\":\"HAZEN\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "510 8TH AVENUE NE",
-  "provider_id" : "351310",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "MERCER",
-  "city" : "HAZEN"
-}
-, {
-  "hospital_name" : "LISBON AREA HEALTH SERVICES",
-  "phone_number" : {
-    "phone_number" : "7016835241"
-  },
-  "zip_code" : "58054",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-97.68138755099994",
-    "latitude" : "46.437458313000036",
-    "human_address" : "{\"address\":\"905 MAIN ST\",\"city\":\"LISBON\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "905 MAIN ST",
-  "provider_id" : "351311",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "RANSOM",
-  "city" : "LISBON"
-}
-, {
-  "hospital_name" : "NORTHWOOD DEACONESS HEALTH CENTER",
-  "phone_number" : {
-    "phone_number" : "7015876060"
-  },
-  "zip_code" : "58267",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-97.56808654699995",
-    "latitude" : "47.734718910000026",
-    "human_address" : "{\"address\":\"PO BOX 190\",\"city\":\"NORTHWOOD\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "PO BOX 190",
-  "provider_id" : "351312",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "GRAND FORKS",
-  "city" : "NORTHWOOD"
-}
-, {
-  "hospital_name" : "SOUTHWEST HEALTHCARE SERVICES",
-  "phone_number" : {
-    "phone_number" : "7015235265"
-  },
-  "zip_code" : "58623",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-103.40378028699996",
-    "latitude" : "46.18189904600007",
-    "human_address" : "{\"address\":\"14 6TH AVE SW\",\"city\":\"BOWMAN\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "14 6TH AVE SW",
-  "provider_id" : "351313",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "BOWMAN",
-  "city" : "BOWMAN"
-}
-, {
-  "hospital_name" : "JACOBSON MEMORIAL HOSPITAL  CARE CENTER",
-  "phone_number" : {
-    "phone_number" : "7015842792"
-  },
-  "zip_code" : "58533",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-101.84204895199997",
-    "latitude" : "46.40710696100007",
-    "human_address" : "{\"address\":\"601 EAST ST N\",\"city\":\"ELGIN\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "601 EAST ST N",
-  "provider_id" : "351314",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "GRANT",
-  "city" : "ELGIN"
-}
-, {
-  "hospital_name" : "OAKES COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7017423291"
-  },
-  "zip_code" : "58474",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-98.09037062199997",
-    "latitude" : "46.150876862000075",
-    "human_address" : "{\"address\":\"1200 N 7TH ST\",\"city\":\"OAKES\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "1200 N 7TH ST",
-  "provider_id" : "351315",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "DICKEY",
-  "city" : "OAKES"
-}
-, {
-  "hospital_name" : "PRESENTATION MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7014773161"
-  },
-  "zip_code" : "58367",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-99.61500770899994",
-    "latitude" : "48.86184992700004",
-    "human_address" : "{\"address\":\"213 SECOND AVE NE\",\"city\":\"ROLLA\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "213 SECOND AVE NE",
-  "provider_id" : "351316",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "ROLETTE",
-  "city" : "ROLLA"
-}
-, {
-  "hospital_name" : "CARRINGTON HEALTH CENTER",
-  "phone_number" : {
-    "phone_number" : "7016523141"
-  },
-  "zip_code" : "58421",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-99.11738849399995",
-    "latitude" : "47.45001787800004",
-    "human_address" : "{\"address\":\"PO BOX 461\",\"city\":\"CARRINGTON\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "PO BOX 461",
-  "provider_id" : "351318",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "FOSTER",
-  "city" : "CARRINGTON"
-}
-, {
-  "hospital_name" : "PEMBINA COUNTY MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7012658461"
-  },
-  "zip_code" : "58220",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-97.62325823599997",
-    "latitude" : "48.793908645000045",
-    "human_address" : "{\"address\":\"BOX 380\",\"city\":\"CAVALIER\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "BOX 380",
-  "provider_id" : "351319",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "PEMBINA",
-  "city" : "CAVALIER"
-}
-, {
-  "hospital_name" : "UNITY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7013521620"
-  },
-  "zip_code" : "58237",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-97.41366260899997",
-    "latitude" : "48.41142920200008",
-    "human_address" : "{\"address\":\"164 W 13TH STREET\",\"city\":\"GRAFTON\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "164 W 13TH STREET",
-  "provider_id" : "351320",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "WALSH",
-  "city" : "GRAFTON"
-}
-, {
-  "hospital_name" : "WISHEK COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7014522326"
-  },
-  "zip_code" : "58495",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-99.55183993299994",
-    "latitude" : "46.25512515600008",
-    "human_address" : "{\"address\":\"1007 4TH AVE S\",\"city\":\"WISHEK\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "1007 4TH AVE S",
-  "provider_id" : "351321",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "MCINTOSH",
-  "city" : "WISHEK"
-}
-, {
-  "hospital_name" : "ASHLEY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7012883433"
-  },
-  "zip_code" : "58413",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-99.37174857699995",
-    "latitude" : "46.04009906200008",
-    "human_address" : "{\"address\":\"612 CENTER AVENUE N\",\"city\":\"ASHLEY\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "612 CENTER AVENUE N",
-  "provider_id" : "351322",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "MCINTOSH",
-  "city" : "ASHLEY"
-}
-, {
-  "hospital_name" : "CAVALIER COUNTY MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7012566100"
-  },
-  "zip_code" : "58249",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-98.36664946899998",
-    "latitude" : "48.76204930800003",
-    "human_address" : "{\"address\":\"909 2ND ST\",\"city\":\"LANGDON\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "909 2ND ST",
-  "provider_id" : "351323",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "CAVALIER",
-  "city" : "LANGDON"
-}
-, {
-  "hospital_name" : "MERCY HOSPITAL OF VALLEY CITY",
-  "phone_number" : {
-    "phone_number" : "7018456400"
-  },
-  "zip_code" : "58072",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-97.99485349499997",
-    "latitude" : "46.92854788200003",
-    "human_address" : "{\"address\":\"570 CHAUTAUQUA BLVD\",\"city\":\"VALLEY CITY\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "570 CHAUTAUQUA BLVD",
-  "provider_id" : "351324",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "BARNES",
-  "city" : "VALLEY CITY"
-}
-, {
-  "hospital_name" : "ST LUKE'S HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7019656384"
-  },
-  "zip_code" : "58730",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-103.29822679499995",
-    "latitude" : "48.906781841000054",
-    "human_address" : "{\"address\":\"702 1ST ST SW\",\"city\":\"CROSBY\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "702 1ST ST SW",
-  "provider_id" : "351325",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "DIVIDE",
-  "city" : "CROSBY"
-}
-, {
-  "hospital_name" : "FIRST CARE HEALTH CENTER",
-  "phone_number" : {
-    "phone_number" : "7012847500"
-  },
-  "zip_code" : "58270",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-97.74489595399996",
-    "latitude" : "48.39919986400008",
-    "human_address" : "{\"address\":\"115 VIVIAN ST\",\"city\":\"PARK RIVER\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "115 VIVIAN ST",
-  "provider_id" : "351326",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "WALSH",
-  "city" : "PARK RIVER"
-}
-, {
-  "hospital_name" : "ST ALOISIUS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7013244651"
-  },
-  "zip_code" : "58341",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-99.93315944599999",
-    "latitude" : "47.76765063400006",
-    "human_address" : "{\"address\":\"325 E BREWSTER ST\",\"city\":\"HARVEY\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "325 E BREWSTER ST",
-  "provider_id" : "351327",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "WELLS",
-  "city" : "HARVEY"
-}
-, {
-  "hospital_name" : "LINTON HOSPITAL - CAH",
-  "phone_number" : {
-    "phone_number" : "7012544511"
-  },
-  "zip_code" : "58552",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-100.23288355399995",
-    "latitude" : "46.27109736400007",
-    "human_address" : "{\"address\":\"518 NORTH BROADWAY\",\"city\":\"LINTON\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "518 NORTH BROADWAY",
-  "provider_id" : "351328",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "EMMONS",
-  "city" : "LINTON"
-}
-, {
-  "hospital_name" : "SANFORD HILLSBORO",
-  "phone_number" : {
-    "phone_number" : "7016363200"
-  },
-  "zip_code" : "58045",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-97.06588424599994",
-    "latitude" : "47.403080543000044",
-    "human_address" : "{\"address\":\"12 THIRD STREET SOUTH EAST\",\"city\":\"HILLSBORO\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "12 THIRD STREET SOUTH EAST",
-  "provider_id" : "351329",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "TRAILL",
-  "city" : "HILLSBORO"
-}
-, {
-  "hospital_name" : "WEST RIVER REGIONAL MEDICAL CENTER-CAH",
-  "phone_number" : {
-    "phone_number" : "7015674561"
-  },
-  "zip_code" : "58639",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-102.47587448699994",
-    "latitude" : "46.00280810600003",
-    "human_address" : "{\"address\":\"1000 HIGHWAY 12\",\"city\":\"HETTINGER\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "1000 HIGHWAY 12",
-  "provider_id" : "351330",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "ADAMS",
-  "city" : "HETTINGER"
-}
-, {
-  "hospital_name" : "TOWNER COUNTY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7019684411"
-  },
-  "zip_code" : "58324",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-99.20961631199998",
-    "latitude" : "48.481929610000066",
-    "human_address" : "{\"address\":\"HWY 281 N\",\"city\":\"CANDO\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "HWY 281 N",
-  "provider_id" : "351331",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "TOWNER",
-  "city" : "CANDO"
-}
-, {
-  "hospital_name" : "HEART OF AMERICA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7017765261"
-  },
-  "zip_code" : "58368",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-99.99614255299997",
-    "latitude" : "48.36295007900003",
-    "human_address" : "{\"address\":\"800 S MAIN AVE\",\"city\":\"RUGBY\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "800 S MAIN AVE",
-  "provider_id" : "351332",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "PIERCE",
-  "city" : "RUGBY"
-}
-, {
-  "hospital_name" : "THE MERCY HOSPITAL OF DEVILS LAKE",
-  "phone_number" : {
-    "phone_number" : "7016622131"
-  },
-  "zip_code" : "58301",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-98.85031145899995",
-    "latitude" : "48.11481030500005",
-    "human_address" : "{\"address\":\"1031 7TH ST NE\",\"city\":\"DEVILS LAKE\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "1031 7TH ST NE",
-  "provider_id" : "351333",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "RAMSEY",
-  "city" : "DEVILS LAKE"
-}
-, {
-  "hospital_name" : "MERCY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7017747400"
-  },
-  "zip_code" : "58801",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-103.64546615899997",
-    "latitude" : "48.155082125000035",
-    "human_address" : "{\"address\":\"1301 15TH AVE W\",\"city\":\"WILLISTON\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "1301 15TH AVE W",
-  "provider_id" : "351334",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "WILLIAMS",
-  "city" : "WILLISTON"
-}
-, {
-  "hospital_name" : "JAMESTOWN REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7012521050"
-  },
-  "zip_code" : "58401",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-98.74971700699996",
-    "latitude" : "46.88801149200003",
-    "human_address" : "{\"address\":\"2422 20TH ST SW\",\"city\":\"JAMESTOWN\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "2422 20TH ST SW",
-  "provider_id" : "351335",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "STUTSMAN",
-  "city" : "JAMESTOWN"
-}
-, {
-  "hospital_name" : "ST JOSEPH'S HOSPITAL & HEALTH CENTER",
-  "phone_number" : {
-    "phone_number" : "7014564000"
-  },
-  "zip_code" : "58601",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-102.79058707999997",
-    "latitude" : "46.87902868300006",
-    "human_address" : "{\"address\":\"30 WEST 7TH ST\",\"city\":\"DICKINSON\",\"state\":\"ND\",\"zip\":\"\"}"
-  },
-  "address" : "30 WEST 7TH ST",
-  "provider_id" : "351336",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ND",
-  "emergency_services" : true,
-  "county_name" : "STARK",
-  "city" : "DICKINSON"
-}
- ]
+[
+    {
+        "address": "909 2ND ST",
+        "city": "LANGDON",
+        "county_name": "CAVALIER",
+        "emergency_services": true,
+        "hospital_name": "CAVALIER COUNTY MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -98.366661,
+                48.761233
+            ],
+            "type": "Point"
+        },
+        "location_address": "909 2ND ST",
+        "location_city": "LANGDON",
+        "location_state": "ND",
+        "location_zip": "58249",
+        "phone_number": "7012566100",
+        "provider_id": "351323",
+        "state": "ND",
+        "zip_code": "58249"
+    },
+    {
+        "address": "PO BOX 160",
+        "city": "BELCOURT",
+        "county_name": "ROLETTE",
+        "emergency_services": true,
+        "hospital_name": "P H S INDIAN HOSP AT BELCOURT-QUENTIN N BURDICK",
+        "hospital_ownership": "Government - Federal",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "PO BOX 160",
+        "location_city": "BELCOURT",
+        "location_state": "ND",
+        "location_zip": "58316",
+        "phone_number": "7014776111",
+        "provider_id": "350063",
+        "state": "ND",
+        "zip_code": "58316"
+    },
+    {
+        "address": "510 8TH AVENUE NE",
+        "city": "HAZEN",
+        "county_name": "MERCER",
+        "emergency_services": true,
+        "hospital_name": "SAKAKAWEA MEDICAL CENTER - CAH",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -101.611562,
+                47.298196
+            ],
+            "type": "Point"
+        },
+        "location_address": "510 8TH AVENUE NE",
+        "location_city": "HAZEN",
+        "location_state": "ND",
+        "location_zip": "58545",
+        "phone_number": "7017482225",
+        "provider_id": "351310",
+        "state": "ND",
+        "zip_code": "58545"
+    },
+    {
+        "address": "10 NORTH RIVER ROAD",
+        "city": "FORT YATES",
+        "county_name": "SIOUX",
+        "emergency_services": true,
+        "hospital_name": "STANDING ROCK INDIAN HEALTH SERVICE HOSPITAL",
+        "hospital_ownership": "Government - Federal",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "10 NORTH RIVER ROAD",
+        "location_city": "FORT YATES",
+        "location_state": "ND",
+        "location_zip": "58538",
+        "phone_number": "7018543831",
+        "provider_id": "350064",
+        "state": "ND",
+        "zip_code": "58538"
+    },
+    {
+        "address": "612 CENTER AVENUE N",
+        "city": "ASHLEY",
+        "county_name": "MCINTOSH",
+        "emergency_services": true,
+        "hospital_name": "ASHLEY MEDICAL CENTER",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -99.371712,
+                46.039647
+            ],
+            "type": "Point"
+        },
+        "location_address": "612 CENTER AVENUE N",
+        "location_city": "ASHLEY",
+        "location_state": "ND",
+        "location_zip": "58413",
+        "phone_number": "7012883433",
+        "provider_id": "351322",
+        "state": "ND",
+        "zip_code": "58413"
+    },
+    {
+        "address": "518 NORTH BROADWAY",
+        "city": "LINTON",
+        "county_name": "EMMONS",
+        "emergency_services": true,
+        "hospital_name": "LINTON HOSPITAL - CAH",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -100.232887,
+                46.269469
+            ],
+            "type": "Point"
+        },
+        "location_address": "518 NORTH BROADWAY",
+        "location_city": "LINTON",
+        "location_state": "ND",
+        "location_zip": "58552",
+        "phone_number": "7012544511",
+        "provider_id": "351328",
+        "state": "ND",
+        "zip_code": "58552"
+    },
+    {
+        "address": "810 N WELO ST",
+        "city": "TIOGA",
+        "county_name": "WILLIAMS",
+        "emergency_services": true,
+        "hospital_name": "TIOGA MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -102.934752,
+                48.402815
+            ],
+            "type": "Point"
+        },
+        "location_address": "810 N WELO ST",
+        "location_city": "TIOGA",
+        "location_state": "ND",
+        "location_zip": "58852",
+        "phone_number": "7016643305",
+        "provider_id": "351300",
+        "state": "ND",
+        "zip_code": "58852"
+    },
+    {
+        "address": "3000 32ND AVE SOUTH",
+        "city": "FARGO",
+        "county_name": "CASS",
+        "emergency_services": true,
+        "hospital_name": "ESSENTIA HEALTH-FARGO",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -96.828583,
+                46.832504
+            ],
+            "type": "Point"
+        },
+        "location_address": "3000 32ND AVE SOUTH",
+        "location_city": "FARGO",
+        "location_state": "ND",
+        "location_zip": "58104",
+        "phone_number": "7013648000",
+        "provider_id": "350070",
+        "state": "ND",
+        "zip_code": "58104"
+    },
+    {
+        "address": "325 E BREWSTER ST",
+        "city": "HARVEY",
+        "county_name": "WELLS",
+        "emergency_services": true,
+        "hospital_name": "ST ALOISIUS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -99.92972,
+                47.767694
+            ],
+            "type": "Point"
+        },
+        "location_address": "325 E BREWSTER ST",
+        "location_city": "HARVEY",
+        "location_state": "ND",
+        "location_zip": "58341",
+        "phone_number": "7013244651",
+        "provider_id": "351327",
+        "state": "ND",
+        "zip_code": "58341"
+    },
+    {
+        "address": "800 S MAIN AVE",
+        "city": "RUGBY",
+        "county_name": "PIERCE",
+        "emergency_services": true,
+        "hospital_name": "HEART OF AMERICA MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -99.996111,
+                48.36351
+            ],
+            "type": "Point"
+        },
+        "location_address": "800 S MAIN AVE",
+        "location_city": "RUGBY",
+        "location_state": "ND",
+        "location_zip": "58368",
+        "phone_number": "7017765261",
+        "provider_id": "351332",
+        "state": "ND",
+        "zip_code": "58368"
+    },
+    {
+        "address": "516 NORTH MAIN ST",
+        "city": "WATFORD CITY",
+        "county_name": "MCKENZIE",
+        "emergency_services": true,
+        "hospital_name": "MCKENZIE COUNTY HEALTHCARE SYSTEMS",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -103.28304,
+                47.806152
+            ],
+            "type": "Point"
+        },
+        "location_address": "516 NORTH MAIN ST",
+        "location_city": "WATFORD CITY",
+        "location_state": "ND",
+        "location_zip": "58854",
+        "phone_number": "7018423000",
+        "provider_id": "351302",
+        "state": "ND",
+        "zip_code": "58854"
+    },
+    {
+        "address": "42 6TH AVENUE SE",
+        "city": "MAYVILLE",
+        "county_name": "TRAILL",
+        "emergency_services": true,
+        "hospital_name": "SANFORD MAYVILLE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -97.317379,
+                47.501114
+            ],
+            "type": "Point"
+        },
+        "location_address": "42 6TH AVENUE SE",
+        "location_city": "MAYVILLE",
+        "location_state": "ND",
+        "location_zip": "58257",
+        "phone_number": "7017863800",
+        "provider_id": "351309",
+        "state": "ND",
+        "zip_code": "58257"
+    },
+    {
+        "address": "BOX 380",
+        "city": "CAVALIER",
+        "county_name": "PEMBINA",
+        "emergency_services": true,
+        "hospital_name": "PEMBINA COUNTY MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "BOX 380",
+        "location_city": "CAVALIER",
+        "location_state": "ND",
+        "location_zip": "58220",
+        "phone_number": "7012658461",
+        "provider_id": "351319",
+        "state": "ND",
+        "zip_code": "58220"
+    },
+    {
+        "address": "570 CHAUTAUQUA BLVD",
+        "city": "VALLEY CITY",
+        "county_name": "BARNES",
+        "emergency_services": true,
+        "hospital_name": "MERCY HOSPITAL OF VALLEY CITY",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -97.994865,
+                46.928561
+            ],
+            "type": "Point"
+        },
+        "location_address": "570 CHAUTAUQUA BLVD",
+        "location_city": "VALLEY CITY",
+        "location_state": "ND",
+        "location_zip": "58072",
+        "phone_number": "7018456400",
+        "provider_id": "351324",
+        "state": "ND",
+        "zip_code": "58072"
+    },
+    {
+        "address": "1200 N 7TH ST",
+        "city": "OAKES",
+        "county_name": "DICKEY",
+        "emergency_services": true,
+        "hospital_name": "OAKES COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -98.090473,
+                46.152359
+            ],
+            "type": "Point"
+        },
+        "location_address": "1200 N 7TH ST",
+        "location_city": "OAKES",
+        "location_state": "ND",
+        "location_zip": "58474",
+        "phone_number": "7017423291",
+        "provider_id": "351315",
+        "state": "ND",
+        "zip_code": "58474"
+    },
+    {
+        "address": "220 5TH AVE W",
+        "city": "TURTLE LAKE",
+        "county_name": "MCLEAN",
+        "emergency_services": true,
+        "hospital_name": "COMMUNITY MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -100.894317,
+                47.517923
+            ],
+            "type": "Point"
+        },
+        "location_address": "220 5TH AVE W",
+        "location_city": "TURTLE LAKE",
+        "location_state": "ND",
+        "location_zip": "58575",
+        "phone_number": "7014482331",
+        "provider_id": "351304",
+        "state": "ND",
+        "zip_code": "58575"
+    },
+    {
+        "address": "1301 15TH AVE W",
+        "city": "WILLISTON",
+        "county_name": "WILLIAMS",
+        "emergency_services": true,
+        "hospital_name": "MERCY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -103.645426,
+                48.155119
+            ],
+            "type": "Point"
+        },
+        "location_address": "1301 15TH AVE W",
+        "location_city": "WILLISTON",
+        "location_state": "ND",
+        "location_zip": "58801",
+        "phone_number": "7017747400",
+        "provider_id": "351334",
+        "state": "ND",
+        "zip_code": "58801"
+    },
+    {
+        "address": "115 VIVIAN ST",
+        "city": "PARK RIVER",
+        "county_name": "WALSH",
+        "emergency_services": true,
+        "hospital_name": "FIRST CARE HEALTH CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -97.747617,
+                48.399087
+            ],
+            "type": "Point"
+        },
+        "location_address": "115 VIVIAN ST",
+        "location_city": "PARK RIVER",
+        "location_state": "ND",
+        "location_zip": "58270",
+        "phone_number": "7012847500",
+        "provider_id": "351326",
+        "state": "ND",
+        "zip_code": "58270"
+    },
+    {
+        "address": "2422 20TH ST SW",
+        "city": "JAMESTOWN",
+        "county_name": "STUTSMAN",
+        "emergency_services": true,
+        "hospital_name": "JAMESTOWN REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "2422 20TH ST SW",
+        "location_city": "JAMESTOWN",
+        "location_state": "ND",
+        "location_zip": "58401",
+        "phone_number": "7012521050",
+        "provider_id": "351335",
+        "state": "ND",
+        "zip_code": "58401"
+    },
+    {
+        "address": "615 6TH ST SE",
+        "city": "STANLEY",
+        "county_name": "MOUNTRAIL",
+        "emergency_services": true,
+        "hospital_name": "MOUNTRAIL COUNTY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -102.380869,
+                48.312519
+            ],
+            "type": "Point"
+        },
+        "location_address": "615 6TH ST SE",
+        "location_city": "STANLEY",
+        "location_state": "ND",
+        "location_zip": "58784",
+        "phone_number": "7016282424",
+        "provider_id": "351301",
+        "state": "ND",
+        "zip_code": "58784"
+    },
+    {
+        "address": "12 THIRD STREET SOUTH EAST",
+        "city": "HILLSBORO",
+        "county_name": "TRAILL",
+        "emergency_services": true,
+        "hospital_name": "SANFORD HILLSBORO",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -97.056678,
+                47.403607
+            ],
+            "type": "Point"
+        },
+        "location_address": "12 THIRD STREET SOUTH EAST",
+        "location_city": "HILLSBORO",
+        "location_state": "ND",
+        "location_zip": "58045",
+        "phone_number": "7016363200",
+        "provider_id": "351329",
+        "state": "ND",
+        "zip_code": "58045"
+    },
+    {
+        "address": "PO BOX 190",
+        "city": "NORTHWOOD",
+        "county_name": "GRAND FORKS",
+        "emergency_services": true,
+        "hospital_name": "NORTHWOOD DEACONESS HEALTH CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "PO BOX 190",
+        "location_city": "NORTHWOOD",
+        "location_state": "ND",
+        "location_zip": "58267",
+        "phone_number": "7015876060",
+        "provider_id": "351312",
+        "state": "ND",
+        "zip_code": "58267"
+    },
+    {
+        "address": "HWY 281 N",
+        "city": "CANDO",
+        "county_name": "TOWNER",
+        "emergency_services": true,
+        "hospital_name": "TOWNER COUNTY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "HWY 281 N",
+        "location_city": "CANDO",
+        "location_state": "ND",
+        "location_zip": "58324",
+        "phone_number": "7019684411",
+        "provider_id": "351331",
+        "state": "ND",
+        "zip_code": "58324"
+    },
+    {
+        "address": "900 E BROADWAY",
+        "city": "BISMARCK",
+        "county_name": "BURLEIGH",
+        "emergency_services": true,
+        "hospital_name": "ST ALEXIUS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -100.778534,
+                46.806381
+            ],
+            "type": "Point"
+        },
+        "location_address": "900 E BROADWAY",
+        "location_city": "BISMARCK",
+        "location_state": "ND",
+        "location_zip": "58501",
+        "phone_number": "7015307000",
+        "provider_id": "350002",
+        "state": "ND",
+        "zip_code": "58501"
+    },
+    {
+        "address": "200 N MAIN ST",
+        "city": "MCVILLE",
+        "county_name": "NELSON",
+        "emergency_services": true,
+        "hospital_name": "NELSON COUNTY HEALTH SYSTEM",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -98.177285,
+                47.766616
+            ],
+            "type": "Point"
+        },
+        "location_address": "200 N MAIN ST",
+        "location_city": "MCVILLE",
+        "location_state": "ND",
+        "location_zip": "58254",
+        "phone_number": "7013224328",
+        "provider_id": "351308",
+        "state": "ND",
+        "zip_code": "58254"
+    },
+    {
+        "address": "164 W 13TH STREET",
+        "city": "GRAFTON",
+        "county_name": "WALSH",
+        "emergency_services": true,
+        "hospital_name": "UNITY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -97.413731,
+                48.411484
+            ],
+            "type": "Point"
+        },
+        "location_address": "164 W 13TH STREET",
+        "location_city": "GRAFTON",
+        "location_state": "ND",
+        "location_zip": "58237",
+        "phone_number": "7013521620",
+        "provider_id": "351320",
+        "state": "ND",
+        "zip_code": "58237"
+    },
+    {
+        "address": "300 N 7TH ST",
+        "city": "BISMARCK",
+        "county_name": "BURLEIGH",
+        "emergency_services": true,
+        "hospital_name": "SANFORD MEDICAL CENTER BISMARCK",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -100.781563,
+                46.807457
+            ],
+            "type": "Point"
+        },
+        "location_address": "300 N 7TH ST",
+        "location_city": "BISMARCK",
+        "location_state": "ND",
+        "location_zip": "58506",
+        "phone_number": "7013236000",
+        "provider_id": "350015",
+        "state": "ND",
+        "zip_code": "58506"
+    },
+    {
+        "address": "702 1ST ST SW",
+        "city": "CROSBY",
+        "county_name": "DIVIDE",
+        "emergency_services": true,
+        "hospital_name": "ST LUKE'S HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -103.29823,
+                48.906844
+            ],
+            "type": "Point"
+        },
+        "location_address": "702 1ST ST SW",
+        "location_city": "CROSBY",
+        "location_state": "ND",
+        "location_zip": "58730",
+        "phone_number": "7019656384",
+        "provider_id": "351325",
+        "state": "ND",
+        "zip_code": "58730"
+    },
+    {
+        "address": "601 EAST ST N",
+        "city": "ELGIN",
+        "county_name": "GRANT",
+        "emergency_services": true,
+        "hospital_name": "JACOBSON MEMORIAL HOSPITAL CARE CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -101.842151,
+                46.407017
+            ],
+            "type": "Point"
+        },
+        "location_address": "601 EAST ST N",
+        "location_city": "ELGIN",
+        "location_state": "ND",
+        "location_zip": "58533",
+        "phone_number": "7015842792",
+        "provider_id": "351314",
+        "state": "ND",
+        "zip_code": "58533"
+    },
+    {
+        "address": "2500 FAIRWAY STREET",
+        "city": "DICKINSON",
+        "county_name": "STARK",
+        "emergency_services": true,
+        "hospital_name": "ST JOSEPH'S HOSPITAL & HEALTH CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -102.820598,
+                46.887267
+            ],
+            "type": "Point"
+        },
+        "location_address": "2500 FAIRWAY STREET",
+        "location_city": "DICKINSON",
+        "location_state": "ND",
+        "location_zip": "58601",
+        "phone_number": "7014564000",
+        "provider_id": "351336",
+        "state": "ND",
+        "zip_code": "58601"
+    },
+    {
+        "address": "801 BROADWAY NORTH",
+        "city": "FARGO",
+        "county_name": "CASS",
+        "emergency_services": true,
+        "hospital_name": "SANFORD MEDICAL CENTER FARGO",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -96.78773,
+                46.88468
+            ],
+            "type": "Point"
+        },
+        "location_address": "801 BROADWAY NORTH",
+        "location_city": "FARGO",
+        "location_state": "ND",
+        "location_zip": "58122",
+        "phone_number": "7012342000",
+        "provider_id": "350011",
+        "state": "ND",
+        "zip_code": "58122"
+    },
+    {
+        "address": "905 MAIN ST",
+        "city": "LISBON",
+        "county_name": "RANSOM",
+        "emergency_services": true,
+        "hospital_name": "LISBON AREA HEALTH SERVICES",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -97.681413,
+                46.437537
+            ],
+            "type": "Point"
+        },
+        "location_address": "905 MAIN ST",
+        "location_city": "LISBON",
+        "location_state": "ND",
+        "location_zip": "58054",
+        "phone_number": "7016835241",
+        "provider_id": "351311",
+        "state": "ND",
+        "zip_code": "58054"
+    },
+    {
+        "address": "1007 4TH AVE S",
+        "city": "WISHEK",
+        "county_name": "MCINTOSH",
+        "emergency_services": true,
+        "hospital_name": "WISHEK COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -99.551931,
+                46.255129
+            ],
+            "type": "Point"
+        },
+        "location_address": "1007 4TH AVE S",
+        "location_city": "WISHEK",
+        "location_state": "ND",
+        "location_zip": "58495",
+        "phone_number": "7014522326",
+        "provider_id": "351321",
+        "state": "ND",
+        "zip_code": "58495"
+    },
+    {
+        "address": "1000 HIGHWAY 12",
+        "city": "HETTINGER",
+        "county_name": "ADAMS",
+        "emergency_services": true,
+        "hospital_name": "WEST RIVER REGIONAL MEDICAL CENTER-CAH",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -102.630886,
+                46.001196
+            ],
+            "type": "Point"
+        },
+        "location_address": "1000 HIGHWAY 12",
+        "location_city": "HETTINGER",
+        "location_state": "ND",
+        "location_zip": "58639",
+        "phone_number": "7015674561",
+        "provider_id": "351330",
+        "state": "ND",
+        "zip_code": "58639"
+    },
+    {
+        "address": "316 OHMER STREET",
+        "city": "BOTTINEAU",
+        "county_name": "BOTTINEAU",
+        "emergency_services": true,
+        "hospital_name": "ST ANDREWS HEALTH CENTER - CAH",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -100.449077,
+                48.829242
+            ],
+            "type": "Point"
+        },
+        "location_address": "316 OHMER STREET",
+        "location_city": "BOTTINEAU",
+        "location_state": "ND",
+        "location_zip": "58318",
+        "phone_number": "7012289300",
+        "provider_id": "351307",
+        "state": "ND",
+        "zip_code": "58318"
+    },
+    {
+        "address": "407 3RD ST SE",
+        "city": "MINOT",
+        "county_name": "WARD",
+        "emergency_services": true,
+        "hospital_name": "TRINITY HOSPITALS",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -101.288452,
+                48.232479
+            ],
+            "type": "Point"
+        },
+        "location_address": "407 3RD ST SE",
+        "location_city": "MINOT",
+        "location_state": "ND",
+        "location_zip": "58701",
+        "phone_number": "7018575000",
+        "provider_id": "350006",
+        "state": "ND",
+        "zip_code": "58701"
+    },
+    {
+        "address": "PO BOX 697",
+        "city": "KENMARE",
+        "county_name": "WARD",
+        "emergency_services": true,
+        "hospital_name": "KENMARE COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "PO BOX 697",
+        "location_city": "KENMARE",
+        "location_state": "ND",
+        "location_zip": "58746",
+        "phone_number": "7013854296",
+        "provider_id": "351305",
+        "state": "ND",
+        "zip_code": "58746"
+    },
+    {
+        "address": "407 3RD AVE SE",
+        "city": "GARRISON",
+        "county_name": "MCLEAN",
+        "emergency_services": true,
+        "hospital_name": "GARRISON MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -101.411299,
+                47.648342
+            ],
+            "type": "Point"
+        },
+        "location_address": "407 3RD AVE SE",
+        "location_city": "GARRISON",
+        "location_state": "ND",
+        "location_zip": "58540",
+        "phone_number": "7014632275",
+        "provider_id": "351303",
+        "state": "ND",
+        "zip_code": "58540"
+    },
+    {
+        "address": "1031 7TH ST NE",
+        "city": "DEVILS LAKE",
+        "county_name": "RAMSEY",
+        "emergency_services": true,
+        "hospital_name": "THE MERCY HOSPITAL OF DEVILS LAKE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -98.850855,
+                48.114773
+            ],
+            "type": "Point"
+        },
+        "location_address": "1031 7TH ST NE",
+        "location_city": "DEVILS LAKE",
+        "location_state": "ND",
+        "location_zip": "58301",
+        "phone_number": "7016622131",
+        "provider_id": "351333",
+        "state": "ND",
+        "zip_code": "58301"
+    },
+    {
+        "address": "2101 ELM STREET",
+        "city": "FARGO",
+        "county_name": "CASS",
+        "emergency_services": false,
+        "hospital_name": "FARGO VA MEDICAL CENTER",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -96.776857,
+                46.90474
+            ],
+            "type": "Point"
+        },
+        "location_address": "2101 ELM STREET",
+        "location_city": "FARGO",
+        "location_state": "ND",
+        "location_zip": "58102",
+        "phone_number": "7012323241",
+        "provider_id": "35002F",
+        "state": "ND",
+        "zip_code": "58102"
+    },
+    {
+        "address": "1200 ROBERTS AVE NE",
+        "city": "COOPERSTOWN",
+        "county_name": "GRIGGS",
+        "emergency_services": true,
+        "hospital_name": "COOPERSTOWN MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -98.119185,
+                47.445629
+            ],
+            "type": "Point"
+        },
+        "location_address": "1200 ROBERTS AVE NE",
+        "location_city": "COOPERSTOWN",
+        "location_state": "ND",
+        "location_zip": "58425",
+        "phone_number": "7017972221",
+        "provider_id": "351306",
+        "state": "ND",
+        "zip_code": "58425"
+    },
+    {
+        "address": "213 SECOND AVE NE",
+        "city": "ROLLA",
+        "county_name": "ROLETTE",
+        "emergency_services": true,
+        "hospital_name": "PRESENTATION MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -99.615523,
+                48.861559
+            ],
+            "type": "Point"
+        },
+        "location_address": "213 SECOND AVE NE",
+        "location_city": "ROLLA",
+        "location_state": "ND",
+        "location_zip": "58367",
+        "phone_number": "7014773161",
+        "provider_id": "351316",
+        "state": "ND",
+        "zip_code": "58367"
+    },
+    {
+        "address": "PO BOX 461",
+        "city": "CARRINGTON",
+        "county_name": "FOSTER",
+        "emergency_services": true,
+        "hospital_name": "CARRINGTON HEALTH CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "PO BOX 461",
+        "location_city": "CARRINGTON",
+        "location_state": "ND",
+        "location_zip": "58421",
+        "phone_number": "7016523141",
+        "provider_id": "351318",
+        "state": "ND",
+        "zip_code": "58421"
+    },
+    {
+        "address": "14 6TH AVE SW",
+        "city": "BOWMAN",
+        "county_name": "BOWMAN",
+        "emergency_services": true,
+        "hospital_name": "SOUTHWEST HEALTHCARE SERVICES",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -103.403794,
+                46.182059
+            ],
+            "type": "Point"
+        },
+        "location_address": "14 6TH AVE SW",
+        "location_city": "BOWMAN",
+        "location_state": "ND",
+        "location_zip": "58623",
+        "phone_number": "7015235265",
+        "provider_id": "351313",
+        "state": "ND",
+        "zip_code": "58623"
+    },
+    {
+        "address": "1200 S COLUMBIA RD",
+        "city": "GRAND FORKS",
+        "county_name": "GRAND FORKS",
+        "emergency_services": true,
+        "hospital_name": "ALTRU HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -97.066383,
+                47.910637
+            ],
+            "type": "Point"
+        },
+        "location_address": "1200 S COLUMBIA RD",
+        "location_city": "GRAND FORKS",
+        "location_state": "ND",
+        "location_zip": "58201",
+        "phone_number": "7017805000",
+        "provider_id": "350019",
+        "state": "ND",
+        "zip_code": "58201"
+    }
+]

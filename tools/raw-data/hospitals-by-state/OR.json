@@ -1,1282 +1,1459 @@
-[ {
-  "hospital_name" : "MID-COLUMBIA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5412961111"
-  },
-  "zip_code" : "97058",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-121.16401973899997",
-    "latitude" : "45.58806254600006",
-    "human_address" : "{\"address\":\"1700 E 19TH STREET\",\"city\":\"THE DALLES\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1700 E 19TH STREET",
-  "provider_id" : "380001",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "WASCO",
-  "city" : "THE DALLES"
-}
-, {
-  "hospital_name" : "ASANTE THREE RIVERS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5414727000"
-  },
-  "zip_code" : "97527",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.33958402699994",
-    "latitude" : "42.42144852400003",
-    "human_address" : "{\"address\":\"500 SW RAMSEY AVENUE\",\"city\":\"GRANTS PASS\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "500 SW RAMSEY AVENUE",
-  "provider_id" : "380002",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "JOSEPHINE",
-  "city" : "GRANTS PASS"
-}
-, {
-  "hospital_name" : "PROVIDENCE ST VINCENT MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5032161234"
-  },
-  "zip_code" : "97225",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.77140562699998",
-    "latitude" : "45.508936506000055",
-    "human_address" : "{\"address\":\"9205 SW BARNES ROAD\",\"city\":\"PORTLAND\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "9205 SW BARNES ROAD",
-  "provider_id" : "380004",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "WASHINGTON",
-  "city" : "PORTLAND"
-}
-, {
-  "hospital_name" : "ASANTE ASHLAND COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5412014001"
-  },
-  "zip_code" : "97520",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.72475780199994",
-    "latitude" : "42.20644151500005",
-    "human_address" : "{\"address\":\"280 MAPLE STREET\",\"city\":\"ASHLAND\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "280 MAPLE STREET",
-  "provider_id" : "380005",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "JACKSON",
-  "city" : "ASHLAND"
-}
-, {
-  "hospital_name" : "LEGACY EMANUEL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5034132200"
-  },
-  "zip_code" : "97227",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.66953815299996",
-    "latitude" : "45.544199787000025",
-    "human_address" : "{\"address\":\"2801 N GANTENBEIN AVENUE\",\"city\":\"PORTLAND\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "2801 N GANTENBEIN AVENUE",
-  "provider_id" : "380007",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "MULTNOMAH",
-  "city" : "PORTLAND"
-}
-, {
-  "hospital_name" : "OHSU HOSPITAL AND CLINICS",
-  "phone_number" : {
-    "phone_number" : "5034944036"
-  },
-  "zip_code" : "97239",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.68509480899996",
-    "latitude" : "45.49975206100004",
-    "human_address" : "{\"address\":\"3181 SW SAM JACKSON PARK ROAD\",\"city\":\"PORTLAND\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "3181 SW SAM JACKSON PARK ROAD",
-  "provider_id" : "380009",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "MULTNOMAH",
-  "city" : "PORTLAND"
-}
-, {
-  "hospital_name" : "GOOD SAMARITAN REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5417685111"
-  },
-  "zip_code" : "97330",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.25302532399996",
-    "latitude" : "44.603703866000046",
-    "human_address" : "{\"address\":\"3600 NW SAMARITAN DRIVE\",\"city\":\"CORVALLIS\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "3600 NW SAMARITAN DRIVE",
-  "provider_id" : "380014",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "BENTON",
-  "city" : "CORVALLIS"
-}
-, {
-  "hospital_name" : "LEGACY GOOD SAMARITAN MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5034137682"
-  },
-  "zip_code" : "97210",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.69665825799996",
-    "latitude" : "45.53049569900003",
-    "human_address" : "{\"address\":\"1015 NW 22ND AVENUE, W121\",\"city\":\"PORTLAND\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1015 NW 22ND AVENUE, W121",
-  "provider_id" : "380017",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "MULTNOMAH",
-  "city" : "PORTLAND"
-}
-, {
-  "hospital_name" : "ASANTE ROGUE REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5417897000"
-  },
-  "zip_code" : "97504",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.83050961799995",
-    "latitude" : "42.316497103000074",
-    "human_address" : "{\"address\":\"2825 E BARNETT ROAD\",\"city\":\"MEDFORD\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "2825 E BARNETT ROAD",
-  "provider_id" : "380018",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "JACKSON",
-  "city" : "MEDFORD"
-}
-, {
-  "hospital_name" : "MCKENZIE-WILLAMETTE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5417264400"
-  },
-  "zip_code" : "97477",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.00384967599996",
-    "latitude" : "44.05243731300004",
-    "human_address" : "{\"address\":\"1460 G STREET\",\"city\":\"SPRINGFIELD\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1460 G STREET",
-  "provider_id" : "380020",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "LANE",
-  "city" : "SPRINGFIELD"
-}
-, {
-  "hospital_name" : "TUALITY COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5036811111"
-  },
-  "zip_code" : "97123",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.97731838799996",
-    "latitude" : "45.519100784000045",
-    "human_address" : "{\"address\":\"335 SE 8TH AVENUE\",\"city\":\"HILLSBORO\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "335 SE 8TH AVENUE",
-  "provider_id" : "380021",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "WASHINGTON",
-  "city" : "HILLSBORO"
-}
-, {
-  "hospital_name" : "SAMARITAN ALBANY GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5418124000"
-  },
-  "zip_code" : "97321",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.11622595999995",
-    "latitude" : "44.63209152700006",
-    "human_address" : "{\"address\":\"1046 6TH AVENUE SW\",\"city\":\"ALBANY\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1046 6TH AVENUE SW",
-  "provider_id" : "380022",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "LINN",
-  "city" : "ALBANY"
-}
-, {
-  "hospital_name" : "LEGACY MOUNT HOOD MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5036741122"
-  },
-  "zip_code" : "97030",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.40820045999999",
-    "latitude" : "45.519019350000065",
-    "human_address" : "{\"address\":\"24800 SE STARK STREET\",\"city\":\"GRESHAM\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "24800 SE STARK STREET",
-  "provider_id" : "380025",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "MULTNOMAH",
-  "city" : "GRESHAM"
-}
-, {
-  "hospital_name" : "MERCY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5416730611"
-  },
-  "zip_code" : "97471",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.36684610299994",
-    "latitude" : "43.23991616100005",
-    "human_address" : "{\"address\":\"2700 NW STEWART PARKWAY\",\"city\":\"ROSEBURG\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "2700 NW STEWART PARKWAY",
-  "provider_id" : "380027",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "DOUGLAS",
-  "city" : "ROSEBURG"
-}
-, {
-  "hospital_name" : "SILVERTON HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5038731500"
-  },
-  "zip_code" : "97381",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.79070058599996",
-    "latitude" : "45.003559530000075",
-    "human_address" : "{\"address\":\"342 FAIRVIEW STREET\",\"city\":\"SILVERTON\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "342 FAIRVIEW STREET",
-  "provider_id" : "380029",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "MARION",
-  "city" : "SILVERTON"
-}
-, {
-  "hospital_name" : "SACRED HEART UNIVERSITY DISTRICT",
-  "phone_number" : {
-    "phone_number" : "5416867300"
-  },
-  "zip_code" : "97401",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.08208360999998",
-    "latitude" : "44.04601576300007",
-    "human_address" : "{\"address\":\"1255 HILYARD STREET\",\"city\":\"EUGENE\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1255 HILYARD STREET",
-  "provider_id" : "380033",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "LANE",
-  "city" : "EUGENE"
-}
-, {
-  "hospital_name" : "PROVIDENCE NEWBERG MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5035371555"
-  },
-  "zip_code" : "97132",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.93390847499995",
-    "latitude" : "45.30843947100004",
-    "human_address" : "{\"address\":\"1001 PROVIDENCE DRIVE\",\"city\":\"NEWBERG\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1001 PROVIDENCE DRIVE",
-  "provider_id" : "380037",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "YAMHILL",
-  "city" : "NEWBERG"
-}
-, {
-  "hospital_name" : "PROVIDENCE WILLAMETTE FALLS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5036576915"
-  },
-  "zip_code" : "97045",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.58835068099995",
-    "latitude" : "45.356368633000045",
-    "human_address" : "{\"address\":\"1500 DIVISION STREET\",\"city\":\"OREGON CITY\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1500 DIVISION STREET",
-  "provider_id" : "380038",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "CLACKAMAS",
-  "city" : "OREGON CITY"
-}
-, {
-  "hospital_name" : "PORTLAND VA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5032208262"
-  },
-  "zip_code" : "97239",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.68287235799994",
-    "latitude" : "45.49746208400006",
-    "human_address" : "{\"address\":\"3710 SW US VETERANS HOSPITAL\",\"city\":\"PORTLAND\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "3710 SW US VETERANS HOSPITAL",
-  "provider_id" : "38003F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "OR",
-  "emergency_services" : false,
-  "county_name" : "MULTNOMAH",
-  "city" : "PORTLAND"
-}
-, {
-  "hospital_name" : "ST CHARLES MEDICAL CENTER - REDMOND",
-  "phone_number" : {
-    "phone_number" : "5415488131"
-  },
-  "zip_code" : "97756",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-121.16901718499997",
-    "latitude" : "44.28757194000008",
-    "human_address" : "{\"address\":\"1253 N CANAL BLVD\",\"city\":\"REDMOND\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1253 N CANAL BLVD",
-  "provider_id" : "380040",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "DESCHUTES",
-  "city" : "REDMOND"
-}
-, {
-  "hospital_name" : "ST CHARLES MEDICAL CENTER - BEND",
-  "phone_number" : {
-    "phone_number" : "5413824321"
-  },
-  "zip_code" : "97701",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-121.26651981499998",
-    "latitude" : "44.065796868000064",
-    "human_address" : "{\"address\":\"2500 NE NEFF ROAD\",\"city\":\"BEND\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "2500 NE NEFF ROAD",
-  "provider_id" : "380047",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "DESCHUTES",
-  "city" : "BEND"
-}
-, {
-  "hospital_name" : "VA ROSEBURG HEALTHCARE SYSTEM",
-  "phone_number" : {
-    "phone_number" : "5414401000"
-  },
-  "zip_code" : "97470",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.36708692999997",
-    "latitude" : "43.22859268800005",
-    "human_address" : "{\"address\":\"913 NW GARDEN VALLEY BLVD.\",\"city\":\"ROSEBURG\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "913 NW GARDEN VALLEY BLVD.",
-  "provider_id" : "38004F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "OR",
-  "emergency_services" : false,
-  "county_name" : "DOUGLAS",
-  "city" : "ROSEBURG"
-}
-, {
-  "hospital_name" : "SKY LAKES MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5412746150"
-  },
-  "zip_code" : "97601",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-121.78669785199997",
-    "latitude" : "42.252616904000035",
-    "human_address" : "{\"address\":\"2865 DAGGETT AVENUE\",\"city\":\"KLAMATH FALLS\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "2865 DAGGETT AVENUE",
-  "provider_id" : "380050",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "KLAMATH",
-  "city" : "KLAMATH FALLS"
-}
-, {
-  "hospital_name" : "SALEM HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5035615200"
-  },
-  "zip_code" : "97301",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.03388735899995",
-    "latitude" : "44.93304449200008",
-    "human_address" : "{\"address\":\"890 OAK STREET, SE\",\"city\":\"SALEM\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "890 OAK STREET, SE",
-  "provider_id" : "380051",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "MARION",
-  "city" : "SALEM"
-}
-, {
-  "hospital_name" : "ST ALPHONSUS MEDICAL CENTER - ONTARIO, INC",
-  "phone_number" : {
-    "phone_number" : "5418817000"
-  },
-  "zip_code" : "97914",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-116.97566085899996",
-    "latitude" : "44.02515473600005",
-    "human_address" : "{\"address\":\"351 SW 9TH STREET\",\"city\":\"ONTARIO\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "351 SW 9TH STREET",
-  "provider_id" : "380052",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "MALHEUR",
-  "city" : "ONTARIO"
-}
-, {
-  "hospital_name" : "SANTIAM MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5037692175"
-  },
-  "zip_code" : "97383",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.78418788899995",
-    "latitude" : "44.80472984600004",
-    "human_address" : "{\"address\":\"1401 N 10TH AVENUE\",\"city\":\"STAYTON\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1401 N 10TH AVENUE",
-  "provider_id" : "380056",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "MARION",
-  "city" : "STAYTON"
-}
-, {
-  "hospital_name" : "ADVENTIST MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5032572500"
-  },
-  "zip_code" : "97216",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.55906313399998",
-    "latitude" : "45.51154642500006",
-    "human_address" : "{\"address\":\"10123 SE MARKET STREET\",\"city\":\"PORTLAND\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "10123 SE MARKET STREET",
-  "provider_id" : "380060",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "MULTNOMAH",
-  "city" : "PORTLAND"
-}
-, {
-  "hospital_name" : "PROVIDENCE PORTLAND MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5032151111"
-  },
-  "zip_code" : "97213",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.61466303599997",
-    "latitude" : "45.526536459000056",
-    "human_address" : "{\"address\":\"4805 NE GLISAN STREET\",\"city\":\"PORTLAND\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "4805 NE GLISAN STREET",
-  "provider_id" : "380061",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "MULTNOMAH",
-  "city" : "PORTLAND"
-}
-, {
-  "hospital_name" : "WILLAMETTE VALLEY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5034726131"
-  },
-  "zip_code" : "97128",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.166455569",
-    "latitude" : "45.200009297000065",
-    "human_address" : "{\"address\":\"2700 SE STRATUS AVE.\",\"city\":\"MCMINNVILLE\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "2700 SE STRATUS AVE.",
-  "provider_id" : "380071",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "YAMHILL",
-  "city" : "MCMINNVILLE"
-}
-, {
-  "hospital_name" : "PROVIDENCE MEDFORD MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5417325196"
-  },
-  "zip_code" : "97504",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.86109104999997",
-    "latitude" : "42.33977198400004",
-    "human_address" : "{\"address\":\"1111 CRATER LAKE AVENUE\",\"city\":\"MEDFORD\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1111 CRATER LAKE AVENUE",
-  "provider_id" : "380075",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "JACKSON",
-  "city" : "MEDFORD"
-}
-, {
-  "hospital_name" : "PROVIDENCE MILWAUKIE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5035138336"
-  },
-  "zip_code" : "97222",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.62975519999998",
-    "latitude" : "45.45052155600007",
-    "human_address" : "{\"address\":\"10150 SE 32ND AVENUE\",\"city\":\"MILWAUKIE\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "10150 SE 32ND AVENUE",
-  "provider_id" : "380082",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "CLACKAMAS",
-  "city" : "MILWAUKIE"
-}
-, {
-  "hospital_name" : "LEGACY MERIDIAN PARK MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5036922182"
-  },
-  "zip_code" : "97062",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.74392024899998",
-    "latitude" : "45.380568855000035",
-    "human_address" : "{\"address\":\"19300 SW 65TH AVENUE\",\"city\":\"TUALATIN\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "19300 SW 65TH AVENUE",
-  "provider_id" : "380089",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "WASHINGTON",
-  "city" : "TUALATIN"
-}
-, {
-  "hospital_name" : "BAY AREA HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5412698111"
-  },
-  "zip_code" : "97420",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-124.23315775799995",
-    "latitude" : "43.38582902100006",
-    "human_address" : "{\"address\":\"1775 THOMPSON ROAD\",\"city\":\"COOS BAY\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1775 THOMPSON ROAD",
-  "provider_id" : "380090",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "COOS",
-  "city" : "COOS BAY"
-}
-, {
-  "hospital_name" : "KAISER SUNNYSIDE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5035712880"
-  },
-  "zip_code" : "97015",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.56042858799998",
-    "latitude" : "45.43336179900007",
-    "human_address" : "{\"address\":\"10180 SE SUNNYSIDE ROAD\",\"city\":\"CLACKAMAS\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "10180 SE SUNNYSIDE ROAD",
-  "provider_id" : "380091",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "CLACKAMAS",
-  "city" : "CLACKAMAS"
-}
-, {
-  "hospital_name" : "SACRED HEART MEDICAL CENTER - RIVERBEND",
-  "phone_number" : {
-    "phone_number" : "5412227300"
-  },
-  "zip_code" : "97477",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.02805681299998",
-    "latitude" : "44.08263516200003",
-    "human_address" : "{\"address\":\"3333 RIVERBEND DRIVE\",\"city\":\"SPRINGFIELD\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "3333 RIVERBEND DRIVE",
-  "provider_id" : "380102",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "LANE",
-  "city" : "SPRINGFIELD"
-}
-, {
-  "hospital_name" : "KAISER FOUNDATION HOSPITAL - WESTSIDE",
-  "phone_number" : {
-    "phone_number" : "9713105700"
-  },
-  "zip_code" : "97124",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.87584241399998",
-    "latitude" : "45.53954663500008",
-    "human_address" : "{\"address\":\"2875 NW STUCKI AVE\",\"city\":\"HILLSBORO\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "2875 NW STUCKI AVE",
-  "provider_id" : "380103",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "WASHINGTON",
-  "city" : "HILLSBORO"
-}
-, {
-  "hospital_name" : "PEACEHEALTH COTTAGE GROVE COMMUNITY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5417675500"
-  },
-  "zip_code" : "97424",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.03866702399995",
-    "latitude" : "43.80421852500007",
-    "human_address" : "{\"address\":\"1515 VILLAGE DRIVE\",\"city\":\"COTTAGE GROVE\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1515 VILLAGE DRIVE",
-  "provider_id" : "381301",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "LANE",
-  "city" : "COTTAGE GROVE"
-}
-, {
-  "hospital_name" : "SAMARITAN NORTH LINCOLN HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5419943661"
-  },
-  "zip_code" : "97367",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.99632331699996",
-    "latitude" : "44.98519630900006",
-    "human_address" : "{\"address\":\"3043 NE 28TH STREET\",\"city\":\"LINCOLN CITY\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "3043 NE 28TH STREET",
-  "provider_id" : "381302",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "LINCOLN",
-  "city" : "LINCOLN CITY"
-}
-, {
-  "hospital_name" : "PROVIDENCE SEASIDE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5037177000"
-  },
-  "zip_code" : "97138",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.91480087899998",
-    "latitude" : "45.989325817000065",
-    "human_address" : "{\"address\":\"725 S WAHANNA ROAD\",\"city\":\"SEASIDE\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "725 S WAHANNA ROAD",
-  "provider_id" : "381303",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "CLATSOP",
-  "city" : "SEASIDE"
-}
-, {
-  "hospital_name" : "SOUTHERN COOS HOSPITAL & HEALTH CENTER",
-  "phone_number" : {
-    "phone_number" : "5413472426"
-  },
-  "zip_code" : "97411",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-124.40237987699999",
-    "latitude" : "43.11322162300007",
-    "human_address" : "{\"address\":\"900 11TH STREET SE\",\"city\":\"BANDON\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "900 11TH STREET SE",
-  "provider_id" : "381304",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "COOS",
-  "city" : "BANDON"
-}
-, {
-  "hospital_name" : "BLUE MOUNTAIN HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5415751311"
-  },
-  "zip_code" : "97845",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-118.95826110899998",
-    "latitude" : "44.417510005000054",
-    "human_address" : "{\"address\":\"170 FORD ROAD\",\"city\":\"JOHN DAY\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "170 FORD ROAD",
-  "provider_id" : "381305",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "GRANT",
-  "city" : "JOHN DAY"
-}
-, {
-  "hospital_name" : "WALLOWA MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5414263111"
-  },
-  "zip_code" : "97828",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-117.28798622299996",
-    "latitude" : "45.43243604600008",
-    "human_address" : "{\"address\":\"601 MEDICAL PARKWAY\",\"city\":\"ENTERPRISE\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "601 MEDICAL PARKWAY",
-  "provider_id" : "381306",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "WALLOWA",
-  "city" : "ENTERPRISE"
-}
-, {
-  "hospital_name" : "HARNEY DISTRICT HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5415737281"
-  },
-  "zip_code" : "97720",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-119.06035989999998",
-    "latitude" : "43.588701496000056",
-    "human_address" : "{\"address\":\"557 W WASHINGTON STREET\",\"city\":\"BURNS\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "557 W WASHINGTON STREET",
-  "provider_id" : "381307",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "HARNEY",
-  "city" : "BURNS"
-}
-, {
-  "hospital_name" : "WEST VALLEY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5036238301"
-  },
-  "zip_code" : "97338",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.30939217899999",
-    "latitude" : "44.919303531000025",
-    "human_address" : "{\"address\":\"525 SE WASHINGTON STREET\",\"city\":\"DALLAS\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "525 SE WASHINGTON STREET",
-  "provider_id" : "381308",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "POLK",
-  "city" : "DALLAS"
-}
-, {
-  "hospital_name" : "LAKE DISTRICT HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5419472114"
-  },
-  "zip_code" : "97630",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-120.351436364",
-    "latitude" : "42.18147963400003",
-    "human_address" : "{\"address\":\"700 SOUTH J STREET\",\"city\":\"LAKEVIEW\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "700 SOUTH J STREET",
-  "provider_id" : "381309",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "LAKE",
-  "city" : "LAKEVIEW"
-}
-, {
-  "hospital_name" : "PIONEER MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5416769133"
-  },
-  "zip_code" : "97836",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-119.54899767899997",
-    "latitude" : "45.356362871000044",
-    "human_address" : "{\"address\":\"564 E PIONEER DRIVE\",\"city\":\"HEPPNER\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "564 E PIONEER DRIVE",
-  "provider_id" : "381310",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "MORROW",
-  "city" : "HEPPNER"
-}
-, {
-  "hospital_name" : "LOWER UMPQUA HOSPITAL DISTRICT",
-  "phone_number" : {
-    "phone_number" : "5412712171"
-  },
-  "zip_code" : "97467",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-124.13504588599994",
-    "latitude" : "43.69468492100003",
-    "human_address" : "{\"address\":\"600 RANCH ROAD\",\"city\":\"REEDSPORT\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "600 RANCH ROAD",
-  "provider_id" : "381311",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "DOUGLAS",
-  "city" : "REEDSPORT"
-}
-, {
-  "hospital_name" : "COQUILLE VALLEY HOSPITAL DISTRICT",
-  "phone_number" : {
-    "phone_number" : "5413963101"
-  },
-  "zip_code" : "97423",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-124.17921976199995",
-    "latitude" : "43.179027286000064",
-    "human_address" : "{\"address\":\"940 EAST 5TH STREET\",\"city\":\"COQUILLE\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "940 EAST 5TH STREET",
-  "provider_id" : "381312",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "COOS",
-  "city" : "COQUILLE"
-}
-, {
-  "hospital_name" : "PIONEER MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5414476254"
-  },
-  "zip_code" : "97754",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-120.84257805099998",
-    "latitude" : "44.30960932900007",
-    "human_address" : "{\"address\":\"1201 NE ELM STREET\",\"city\":\"PRINEVILLE\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1201 NE ELM STREET",
-  "provider_id" : "381313",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "CROOK",
-  "city" : "PRINEVILLE"
-}
-, {
-  "hospital_name" : "SAMARITAN PACIFIC COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5412652244"
-  },
-  "zip_code" : "97365",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-124.05905866199998",
-    "latitude" : "44.62978235500003",
-    "human_address" : "{\"address\":\"930 SW ABBEY STREET\",\"city\":\"NEWPORT\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "930 SW ABBEY STREET",
-  "provider_id" : "381314",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "LINCOLN",
-  "city" : "NEWPORT"
-}
-, {
-  "hospital_name" : "ST ALPHONSUS MEDICAL CENTER - BAKER CITY, INC",
-  "phone_number" : {
-    "phone_number" : "5415236461"
-  },
-  "zip_code" : "97814",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-117.84815943099994",
-    "latitude" : "44.79614188900007",
-    "human_address" : "{\"address\":\"3325 POCAHONTAS ROAD\",\"city\":\"BAKER CITY\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "3325 POCAHONTAS ROAD",
-  "provider_id" : "381315",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "BAKER",
-  "city" : "BAKER CITY"
-}
-, {
-  "hospital_name" : "PEACE HARBOR MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5419978412"
-  },
-  "zip_code" : "97439",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-124.11762643099996",
-    "latitude" : "43.97457090900008",
-    "human_address" : "{\"address\":\"400 9TH STREET\",\"city\":\"FLORENCE\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "400 9TH STREET",
-  "provider_id" : "381316",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "LANE",
-  "city" : "FLORENCE"
-}
-, {
-  "hospital_name" : "TILLAMOOK REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5038424444"
-  },
-  "zip_code" : "97141",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.85500914099998",
-    "latitude" : "45.45634636400007",
-    "human_address" : "{\"address\":\"1000 THIRD STREET\",\"city\":\"TILLAMOOK\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "1000 THIRD STREET",
-  "provider_id" : "381317",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "TILLAMOOK",
-  "city" : "TILLAMOOK"
-}
-, {
-  "hospital_name" : "PROVIDENCE HOOD RIVER MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5413863911"
-  },
-  "zip_code" : "97031",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-121.52320632199996",
-    "latitude" : "45.70446351900006",
-    "human_address" : "{\"address\":\"810 12TH STREET\",\"city\":\"HOOD RIVER\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "810 12TH STREET",
-  "provider_id" : "381318",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "HOOD RIVER",
-  "city" : "HOOD RIVER"
-}
-, {
-  "hospital_name" : "ST ANTHONY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5412765121"
-  },
-  "zip_code" : "97801",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-118.76929837299997",
-    "latitude" : "45.67304612500004",
-    "human_address" : "{\"address\":\"2801 ST ANTHONY WAY\",\"city\":\"PENDLETON\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "2801 ST ANTHONY WAY",
-  "provider_id" : "381319",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "UMATILLA",
-  "city" : "PENDLETON"
-}
-, {
-  "hospital_name" : "COLUMBIA MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5033254321"
-  },
-  "zip_code" : "97103",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-123.819001303",
-    "latitude" : "46.188467538000054",
-    "human_address" : "{\"address\":\"2111 EXCHANGE STREET\",\"city\":\"ASTORIA\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "2111 EXCHANGE STREET",
-  "provider_id" : "381320",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "CLATSOP",
-  "city" : "ASTORIA"
-}
-, {
-  "hospital_name" : "GRANDE RONDE HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5419638421"
-  },
-  "zip_code" : "97850",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-118.10477604799996",
-    "latitude" : "45.31900935200008",
-    "human_address" : "{\"address\":\"900 SUNSET DRIVE\",\"city\":\"LA GRANDE\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "900 SUNSET DRIVE",
-  "provider_id" : "381321",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "UNION",
-  "city" : "LA GRANDE"
-}
-, {
-  "hospital_name" : "CURRY GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5412473000"
-  },
-  "zip_code" : "97444",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-124.41862013599996",
-    "latitude" : "42.41163179500006",
-    "human_address" : "{\"address\":\"94220 FOURTH STREET\",\"city\":\"GOLD BEACH\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "94220 FOURTH STREET",
-  "provider_id" : "381322",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "CURRY",
-  "city" : "GOLD BEACH"
-}
-, {
-  "hospital_name" : "SAMARITAN LEBANON COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "5412582101"
-  },
-  "zip_code" : "97355",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-122.90816534699997",
-    "latitude" : "44.550092849000066",
-    "human_address" : "{\"address\":\"525 N SANTIAM HIGHWAY\",\"city\":\"LEBANON\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "525 N SANTIAM HIGHWAY",
-  "provider_id" : "381323",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "LINN",
-  "city" : "LEBANON"
-}
-, {
-  "hospital_name" : "ST CHARLES - MADRAS",
-  "phone_number" : {
-    "phone_number" : "5414604200"
-  },
-  "zip_code" : "97741",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-121.12071929299998",
-    "latitude" : "44.63741737400005",
-    "human_address" : "{\"address\":\"470 NE A STREET\",\"city\":\"MADRAS\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "470 NE A STREET",
-  "provider_id" : "381324",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "JEFFERSON",
-  "city" : "MADRAS"
-}
-, {
-  "hospital_name" : "GOOD SHEPHERD MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "5416673400"
-  },
-  "zip_code" : "97838",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-119.31090053499997",
-    "latitude" : "45.84564938500006",
-    "human_address" : "{\"address\":\"610 NW 11TH STREET\",\"city\":\"HERMISTON\",\"state\":\"OR\",\"zip\":\"\"}"
-  },
-  "address" : "610 NW 11TH STREET",
-  "provider_id" : "381325",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "OR",
-  "emergency_services" : true,
-  "county_name" : "UMATILLA",
-  "city" : "HERMISTON"
-}
- ]
+[
+    {
+        "address": "384 SE COMBS FLAT ROAD",
+        "city": "PRINEVILLE",
+        "county_name": "CROOK",
+        "emergency_services": true,
+        "hospital_name": "ST CHARLES PRINEVILLE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -120.82699,
+                44.299307
+            ],
+            "type": "Point"
+        },
+        "location_address": "384 SE COMBS FLAT ROAD",
+        "location_city": "PRINEVILLE",
+        "location_state": "OR",
+        "location_zip": "97754",
+        "phone_number": "5414478426",
+        "provider_id": "381313",
+        "state": "OR",
+        "zip_code": "97754"
+    },
+    {
+        "address": "4805 NE GLISAN STREET",
+        "city": "PORTLAND",
+        "county_name": "MULTNOMAH",
+        "emergency_services": true,
+        "hospital_name": "PROVIDENCE PORTLAND MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.613762,
+                45.526524
+            ],
+            "type": "Point"
+        },
+        "location_address": "4805 NE GLISAN STREET",
+        "location_city": "PORTLAND",
+        "location_state": "OR",
+        "location_zip": "97213",
+        "phone_number": "5032151111",
+        "provider_id": "380061",
+        "state": "OR",
+        "zip_code": "97213"
+    },
+    {
+        "address": "525 N SANTIAM HIGHWAY",
+        "city": "LEBANON",
+        "county_name": "LINN",
+        "emergency_services": true,
+        "hospital_name": "SAMARITAN LEBANON COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -122.90889,
+                44.551681
+            ],
+            "type": "Point"
+        },
+        "location_address": "525 N SANTIAM HIGHWAY",
+        "location_city": "LEBANON",
+        "location_state": "OR",
+        "location_zip": "97355",
+        "phone_number": "5412582101",
+        "provider_id": "381323",
+        "state": "OR",
+        "zip_code": "97355"
+    },
+    {
+        "address": "2801 N GANTENBEIN AVENUE",
+        "city": "PORTLAND",
+        "county_name": "MULTNOMAH",
+        "emergency_services": true,
+        "hospital_name": "LEGACY EMANUEL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.669449,
+                45.544202
+            ],
+            "type": "Point"
+        },
+        "location_address": "2801 N GANTENBEIN AVENUE",
+        "location_city": "PORTLAND",
+        "location_state": "OR",
+        "location_zip": "97227",
+        "phone_number": "5034132200",
+        "provider_id": "380007",
+        "state": "OR",
+        "zip_code": "97227"
+    },
+    {
+        "address": "24800 SE STARK STREET",
+        "city": "GRESHAM",
+        "county_name": "MULTNOMAH",
+        "emergency_services": true,
+        "hospital_name": "LEGACY MOUNT HOOD MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.407395,
+                45.519054
+            ],
+            "type": "Point"
+        },
+        "location_address": "24800 SE STARK STREET",
+        "location_city": "GRESHAM",
+        "location_state": "OR",
+        "location_zip": "97030",
+        "phone_number": "5036741122",
+        "provider_id": "380025",
+        "state": "OR",
+        "zip_code": "97030"
+    },
+    {
+        "address": "525 SE WASHINGTON STREET",
+        "city": "DALLAS",
+        "county_name": "POLK",
+        "emergency_services": true,
+        "hospital_name": "WEST VALLEY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -123.310391,
+                44.919404
+            ],
+            "type": "Point"
+        },
+        "location_address": "525 SE WASHINGTON STREET",
+        "location_city": "DALLAS",
+        "location_state": "OR",
+        "location_zip": "97338",
+        "phone_number": "5036238301",
+        "provider_id": "381308",
+        "state": "OR",
+        "zip_code": "97338"
+    },
+    {
+        "address": "9205 SW BARNES ROAD",
+        "city": "PORTLAND",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "PROVIDENCE ST VINCENT MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.75568,
+                45.513446
+            ],
+            "type": "Point"
+        },
+        "location_address": "9205 SW BARNES ROAD",
+        "location_city": "PORTLAND",
+        "location_state": "OR",
+        "location_zip": "97225",
+        "phone_number": "5032161234",
+        "provider_id": "380004",
+        "state": "OR",
+        "zip_code": "97225"
+    },
+    {
+        "address": "2500 NE NEFF ROAD",
+        "city": "BEND",
+        "county_name": "DESCHUTES",
+        "emergency_services": true,
+        "hospital_name": "ST CHARLES MEDICAL CENTER - BEND",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -121.265718,
+                44.065758
+            ],
+            "type": "Point"
+        },
+        "location_address": "2500 NE NEFF ROAD",
+        "location_city": "BEND",
+        "location_state": "OR",
+        "location_zip": "97701",
+        "phone_number": "5413824321",
+        "provider_id": "380047",
+        "state": "OR",
+        "zip_code": "97701"
+    },
+    {
+        "address": "3600 NW SAMARITAN DRIVE",
+        "city": "CORVALLIS",
+        "county_name": "BENTON",
+        "emergency_services": true,
+        "hospital_name": "GOOD SAMARITAN REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -123.249671,
+                44.600903
+            ],
+            "type": "Point"
+        },
+        "location_address": "3600 NW SAMARITAN DRIVE",
+        "location_city": "CORVALLIS",
+        "location_state": "OR",
+        "location_zip": "97330",
+        "phone_number": "5417685111",
+        "provider_id": "380014",
+        "state": "OR",
+        "zip_code": "97330"
+    },
+    {
+        "address": "913 NW GARDEN VALLEY BLVD.",
+        "city": "ROSEBURG",
+        "county_name": "DOUGLAS",
+        "emergency_services": false,
+        "hospital_name": "VA ROSEBURG HEALTHCARE SYSTEM",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -123.365923,
+                43.228273
+            ],
+            "type": "Point"
+        },
+        "location_address": "913 NW GARDEN VALLEY BLVD.",
+        "location_city": "ROSEBURG",
+        "location_state": "OR",
+        "location_zip": "97470",
+        "phone_number": "5414401000",
+        "provider_id": "38004F",
+        "state": "OR",
+        "zip_code": "97470"
+    },
+    {
+        "address": "3333 RIVERBEND DRIVE",
+        "city": "SPRINGFIELD",
+        "county_name": "LANE",
+        "emergency_services": true,
+        "hospital_name": "SACRED HEART MEDICAL CENTER - RIVERBEND",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -123.028655,
+                44.081312
+            ],
+            "type": "Point"
+        },
+        "location_address": "3333 RIVERBEND DRIVE",
+        "location_city": "SPRINGFIELD",
+        "location_state": "OR",
+        "location_zip": "97477",
+        "phone_number": "5412227300",
+        "provider_id": "380102",
+        "state": "OR",
+        "zip_code": "97477"
+    },
+    {
+        "address": "890 OAK STREET, SE",
+        "city": "SALEM",
+        "county_name": "MARION",
+        "emergency_services": true,
+        "hospital_name": "SALEM HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -123.033478,
+                44.933016
+            ],
+            "type": "Point"
+        },
+        "location_address": "890 OAK STREET, SE",
+        "location_city": "SALEM",
+        "location_state": "OR",
+        "location_zip": "97301",
+        "phone_number": "5035615200",
+        "provider_id": "380051",
+        "state": "OR",
+        "zip_code": "97301"
+    },
+    {
+        "address": "19300 SW 65TH AVENUE",
+        "city": "TUALATIN",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "LEGACY MERIDIAN PARK MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.743929,
+                45.381265
+            ],
+            "type": "Point"
+        },
+        "location_address": "19300 SW 65TH AVENUE",
+        "location_city": "TUALATIN",
+        "location_state": "OR",
+        "location_zip": "97062",
+        "phone_number": "5036922182",
+        "provider_id": "380089",
+        "state": "OR",
+        "zip_code": "97062"
+    },
+    {
+        "address": "1460 G STREET",
+        "city": "SPRINGFIELD",
+        "county_name": "LANE",
+        "emergency_services": true,
+        "hospital_name": "MCKENZIE-WILLAMETTE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -123.003296,
+                44.052402
+            ],
+            "type": "Point"
+        },
+        "location_address": "1460 G STREET",
+        "location_city": "SPRINGFIELD",
+        "location_state": "OR",
+        "location_zip": "97477",
+        "phone_number": "5417264400",
+        "provider_id": "380020",
+        "state": "OR",
+        "zip_code": "97477"
+    },
+    {
+        "address": "2111 EXCHANGE STREET",
+        "city": "ASTORIA",
+        "county_name": "CLATSOP",
+        "emergency_services": true,
+        "hospital_name": "COLUMBIA MEMORIAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -123.818457,
+                46.188506
+            ],
+            "type": "Point"
+        },
+        "location_address": "2111 EXCHANGE STREET",
+        "location_city": "ASTORIA",
+        "location_state": "OR",
+        "location_zip": "97103",
+        "phone_number": "5033254321",
+        "provider_id": "381320",
+        "state": "OR",
+        "zip_code": "97103"
+    },
+    {
+        "address": "900 SUNSET DRIVE",
+        "city": "LA GRANDE",
+        "county_name": "UNION",
+        "emergency_services": true,
+        "hospital_name": "GRANDE RONDE HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -118.104828,
+                45.319464
+            ],
+            "type": "Point"
+        },
+        "location_address": "900 SUNSET DRIVE",
+        "location_city": "LA GRANDE",
+        "location_state": "OR",
+        "location_zip": "97850",
+        "phone_number": "5419638421",
+        "provider_id": "381321",
+        "state": "OR",
+        "zip_code": "97850"
+    },
+    {
+        "address": "700 SOUTH J STREET",
+        "city": "LAKEVIEW",
+        "county_name": "LAKE",
+        "emergency_services": true,
+        "hospital_name": "LAKE DISTRICT HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -120.351417,
+                42.181369
+            ],
+            "type": "Point"
+        },
+        "location_address": "700 SOUTH J STREET",
+        "location_city": "LAKEVIEW",
+        "location_state": "OR",
+        "location_zip": "97630",
+        "phone_number": "5419472114",
+        "provider_id": "381309",
+        "state": "OR",
+        "zip_code": "97630"
+    },
+    {
+        "address": "10150 SE 32ND AVENUE",
+        "city": "MILWAUKIE",
+        "county_name": "CLACKAMAS",
+        "emergency_services": true,
+        "hospital_name": "PROVIDENCE MILWAUKIE HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.629787,
+                45.449567
+            ],
+            "type": "Point"
+        },
+        "location_address": "10150 SE 32ND AVENUE",
+        "location_city": "MILWAUKIE",
+        "location_state": "OR",
+        "location_zip": "97222",
+        "phone_number": "5035138336",
+        "provider_id": "380082",
+        "state": "OR",
+        "zip_code": "97222"
+    },
+    {
+        "address": "601 MEDICAL PARKWAY",
+        "city": "ENTERPRISE",
+        "county_name": "WALLOWA",
+        "emergency_services": true,
+        "hospital_name": "WALLOWA MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -117.279982,
+                45.431756
+            ],
+            "type": "Point"
+        },
+        "location_address": "601 MEDICAL PARKWAY",
+        "location_city": "ENTERPRISE",
+        "location_state": "OR",
+        "location_zip": "97828",
+        "phone_number": "5414263111",
+        "provider_id": "381306",
+        "state": "OR",
+        "zip_code": "97828"
+    },
+    {
+        "address": "725 S WAHANNA ROAD",
+        "city": "SEASIDE",
+        "county_name": "CLATSOP",
+        "emergency_services": true,
+        "hospital_name": "PROVIDENCE SEASIDE HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -123.915044,
+                45.988801
+            ],
+            "type": "Point"
+        },
+        "location_address": "725 S WAHANNA ROAD",
+        "location_city": "SEASIDE",
+        "location_state": "OR",
+        "location_zip": "97138",
+        "phone_number": "5037177000",
+        "provider_id": "381303",
+        "state": "OR",
+        "zip_code": "97138"
+    },
+    {
+        "address": "10180 SE SUNNYSIDE ROAD",
+        "city": "CLACKAMAS",
+        "county_name": "CLACKAMAS",
+        "emergency_services": true,
+        "hospital_name": "KAISER SUNNYSIDE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.557085,
+                45.433517
+            ],
+            "type": "Point"
+        },
+        "location_address": "10180 SE SUNNYSIDE ROAD",
+        "location_city": "CLACKAMAS",
+        "location_state": "OR",
+        "location_zip": "97015",
+        "phone_number": "5035712880",
+        "provider_id": "380091",
+        "state": "OR",
+        "zip_code": "97015"
+    },
+    {
+        "address": "1046 6TH AVENUE SW",
+        "city": "ALBANY",
+        "county_name": "LINN",
+        "emergency_services": true,
+        "hospital_name": "SAMARITAN ALBANY GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -123.116242,
+                44.632129
+            ],
+            "type": "Point"
+        },
+        "location_address": "1046 6TH AVENUE SW",
+        "location_city": "ALBANY",
+        "location_state": "OR",
+        "location_zip": "97321",
+        "phone_number": "5418124000",
+        "provider_id": "380022",
+        "state": "OR",
+        "zip_code": "97321"
+    },
+    {
+        "address": "1255 HILYARD STREET",
+        "city": "EUGENE",
+        "county_name": "LANE",
+        "emergency_services": true,
+        "hospital_name": "SACRED HEART UNIVERSITY DISTRICT",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -123.082107,
+                44.045405
+            ],
+            "type": "Point"
+        },
+        "location_address": "1255 HILYARD STREET",
+        "location_city": "EUGENE",
+        "location_state": "OR",
+        "location_zip": "97401",
+        "phone_number": "5416867300",
+        "provider_id": "380033",
+        "state": "OR",
+        "zip_code": "97401"
+    },
+    {
+        "address": "500 SW RAMSEY AVENUE",
+        "city": "GRANTS PASS",
+        "county_name": "JOSEPHINE",
+        "emergency_services": true,
+        "hospital_name": "ASANTE THREE RIVERS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "500 SW RAMSEY AVENUE",
+        "location_city": "GRANTS PASS",
+        "location_state": "OR",
+        "location_zip": "97527",
+        "phone_number": "5414727000",
+        "provider_id": "380002",
+        "state": "OR",
+        "zip_code": "97527"
+    },
+    {
+        "address": "900 11TH STREET SE",
+        "city": "BANDON",
+        "county_name": "COOS",
+        "emergency_services": true,
+        "hospital_name": "SOUTHERN COOS HOSPITAL & HEALTH CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -124.402529,
+                43.113246
+            ],
+            "type": "Point"
+        },
+        "location_address": "900 11TH STREET SE",
+        "location_city": "BANDON",
+        "location_state": "OR",
+        "location_zip": "97411",
+        "phone_number": "5413472426",
+        "provider_id": "381304",
+        "state": "OR",
+        "zip_code": "97411"
+    },
+    {
+        "address": "1000 THIRD STREET",
+        "city": "TILLAMOOK",
+        "county_name": "TILLAMOOK",
+        "emergency_services": true,
+        "hospital_name": "TILLAMOOK REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -123.855064,
+                45.456322
+            ],
+            "type": "Point"
+        },
+        "location_address": "1000 THIRD STREET",
+        "location_city": "TILLAMOOK",
+        "location_state": "OR",
+        "location_zip": "97141",
+        "phone_number": "5038424444",
+        "provider_id": "381317",
+        "state": "OR",
+        "zip_code": "97141"
+    },
+    {
+        "address": "170 FORD ROAD",
+        "city": "JOHN DAY",
+        "county_name": "GRANT",
+        "emergency_services": true,
+        "hospital_name": "BLUE MOUNTAIN HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -118.957928,
+                44.417184
+            ],
+            "type": "Point"
+        },
+        "location_address": "170 FORD ROAD",
+        "location_city": "JOHN DAY",
+        "location_state": "OR",
+        "location_zip": "97845",
+        "phone_number": "5415751311",
+        "provider_id": "381305",
+        "state": "OR",
+        "zip_code": "97845"
+    },
+    {
+        "address": "610 NW 11TH STREET",
+        "city": "HERMISTON",
+        "county_name": "UMATILLA",
+        "emergency_services": true,
+        "hospital_name": "GOOD SHEPHERD MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -119.310901,
+                45.845702
+            ],
+            "type": "Point"
+        },
+        "location_address": "610 NW 11TH STREET",
+        "location_city": "HERMISTON",
+        "location_state": "OR",
+        "location_zip": "97838",
+        "phone_number": "5416673400",
+        "provider_id": "381325",
+        "state": "OR",
+        "zip_code": "97838"
+    },
+    {
+        "address": "557 W WASHINGTON STREET",
+        "city": "BURNS",
+        "county_name": "HARNEY",
+        "emergency_services": true,
+        "hospital_name": "HARNEY DISTRICT HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -119.060151,
+                43.588717
+            ],
+            "type": "Point"
+        },
+        "location_address": "557 W WASHINGTON STREET",
+        "location_city": "BURNS",
+        "location_state": "OR",
+        "location_zip": "97720",
+        "phone_number": "5415737281",
+        "provider_id": "381307",
+        "state": "OR",
+        "zip_code": "97720"
+    },
+    {
+        "address": "94220 FOURTH STREET",
+        "city": "GOLD BEACH",
+        "county_name": "CURRY",
+        "emergency_services": true,
+        "hospital_name": "CURRY GENERAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -124.418579,
+                42.411656
+            ],
+            "type": "Point"
+        },
+        "location_address": "94220 FOURTH STREET",
+        "location_city": "GOLD BEACH",
+        "location_state": "OR",
+        "location_zip": "97444",
+        "phone_number": "5412473000",
+        "provider_id": "381322",
+        "state": "OR",
+        "zip_code": "97444"
+    },
+    {
+        "address": "564 E PIONEER DRIVE",
+        "city": "HEPPNER",
+        "county_name": "MORROW",
+        "emergency_services": true,
+        "hospital_name": "PIONEER MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -119.54763,
+                45.356268
+            ],
+            "type": "Point"
+        },
+        "location_address": "564 E PIONEER DRIVE",
+        "location_city": "HEPPNER",
+        "location_state": "OR",
+        "location_zip": "97836",
+        "phone_number": "5416769133",
+        "provider_id": "381310",
+        "state": "OR",
+        "zip_code": "97836"
+    },
+    {
+        "address": "1253 N CANAL BLVD",
+        "city": "REDMOND",
+        "county_name": "DESCHUTES",
+        "emergency_services": true,
+        "hospital_name": "ST CHARLES MEDICAL CENTER - REDMOND",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -121.168858,
+                44.28814
+            ],
+            "type": "Point"
+        },
+        "location_address": "1253 N CANAL BLVD",
+        "location_city": "REDMOND",
+        "location_state": "OR",
+        "location_zip": "97756",
+        "phone_number": "5415488131",
+        "provider_id": "380040",
+        "state": "OR",
+        "zip_code": "97756"
+    },
+    {
+        "address": "600 RANCH ROAD",
+        "city": "REEDSPORT",
+        "county_name": "DOUGLAS",
+        "emergency_services": true,
+        "hospital_name": "LOWER UMPQUA HOSPITAL DISTRICT",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -124.135596,
+                43.695355
+            ],
+            "type": "Point"
+        },
+        "location_address": "600 RANCH ROAD",
+        "location_city": "REEDSPORT",
+        "location_state": "OR",
+        "location_zip": "97467",
+        "phone_number": "5412712171",
+        "provider_id": "381311",
+        "state": "OR",
+        "zip_code": "97467"
+    },
+    {
+        "address": "810 12TH STREET",
+        "city": "HOOD RIVER",
+        "county_name": "HOOD RIVER",
+        "emergency_services": true,
+        "hospital_name": "PROVIDENCE HOOD RIVER MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -121.523225,
+                45.704478
+            ],
+            "type": "Point"
+        },
+        "location_address": "810 12TH STREET",
+        "location_city": "HOOD RIVER",
+        "location_state": "OR",
+        "location_zip": "97031",
+        "phone_number": "5413863911",
+        "provider_id": "381318",
+        "state": "OR",
+        "zip_code": "97031"
+    },
+    {
+        "address": "10123 SE MARKET STREET",
+        "city": "PORTLAND",
+        "county_name": "MULTNOMAH",
+        "emergency_services": true,
+        "hospital_name": "ADVENTIST MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.559602,
+                45.511351
+            ],
+            "type": "Point"
+        },
+        "location_address": "10123 SE MARKET STREET",
+        "location_city": "PORTLAND",
+        "location_state": "OR",
+        "location_zip": "97216",
+        "phone_number": "5032572500",
+        "provider_id": "380060",
+        "state": "OR",
+        "zip_code": "97216"
+    },
+    {
+        "address": "2865 DAGGETT AVENUE",
+        "city": "KLAMATH FALLS",
+        "county_name": "KLAMATH",
+        "emergency_services": true,
+        "hospital_name": "SKY LAKES MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -121.787275,
+                42.252654
+            ],
+            "type": "Point"
+        },
+        "location_address": "2865 DAGGETT AVENUE",
+        "location_city": "KLAMATH FALLS",
+        "location_state": "OR",
+        "location_zip": "97601",
+        "phone_number": "5412746150",
+        "provider_id": "380050",
+        "state": "OR",
+        "zip_code": "97601"
+    },
+    {
+        "address": "1500 DIVISION STREET",
+        "city": "OREGON CITY",
+        "county_name": "CLACKAMAS",
+        "emergency_services": true,
+        "hospital_name": "PROVIDENCE WILLAMETTE FALLS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.588369,
+                45.356733
+            ],
+            "type": "Point"
+        },
+        "location_address": "1500 DIVISION STREET",
+        "location_city": "OREGON CITY",
+        "location_state": "OR",
+        "location_zip": "97045",
+        "phone_number": "5036576915",
+        "provider_id": "380038",
+        "state": "OR",
+        "zip_code": "97045"
+    },
+    {
+        "address": "1401 N 10TH AVENUE",
+        "city": "STAYTON",
+        "county_name": "MARION",
+        "emergency_services": true,
+        "hospital_name": "SANTIAM MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.78413,
+                44.805595
+            ],
+            "type": "Point"
+        },
+        "location_address": "1401 N 10TH AVENUE",
+        "location_city": "STAYTON",
+        "location_state": "OR",
+        "location_zip": "97383",
+        "phone_number": "5037692175",
+        "provider_id": "380056",
+        "state": "OR",
+        "zip_code": "97383"
+    },
+    {
+        "address": "1700 E 19TH STREET",
+        "city": "THE DALLES",
+        "county_name": "WASCO",
+        "emergency_services": true,
+        "hospital_name": "MID-COLUMBIA MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -121.165781,
+                45.587839
+            ],
+            "type": "Point"
+        },
+        "location_address": "1700 E 19TH STREET",
+        "location_city": "THE DALLES",
+        "location_state": "OR",
+        "location_zip": "97058",
+        "phone_number": "5412961111",
+        "provider_id": "380001",
+        "state": "OR",
+        "zip_code": "97058"
+    },
+    {
+        "address": "3043 NE 28TH STREET",
+        "city": "LINCOLN CITY",
+        "county_name": "LINCOLN",
+        "emergency_services": true,
+        "hospital_name": "SAMARITAN NORTH LINCOLN HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -123.996061,
+                44.985172
+            ],
+            "type": "Point"
+        },
+        "location_address": "3043 NE 28TH STREET",
+        "location_city": "LINCOLN CITY",
+        "location_state": "OR",
+        "location_zip": "97367",
+        "phone_number": "5419943661",
+        "provider_id": "381302",
+        "state": "OR",
+        "zip_code": "97367"
+    },
+    {
+        "address": "280 MAPLE STREET",
+        "city": "ASHLAND",
+        "county_name": "JACKSON",
+        "emergency_services": true,
+        "hospital_name": "ASANTE ASHLAND COMMUNITY HOSPITAL",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.724815,
+                42.206445
+            ],
+            "type": "Point"
+        },
+        "location_address": "280 MAPLE STREET",
+        "location_city": "ASHLAND",
+        "location_state": "OR",
+        "location_zip": "97520",
+        "phone_number": "5412014001",
+        "provider_id": "380005",
+        "state": "OR",
+        "zip_code": "97520"
+    },
+    {
+        "address": "3181 SW SAM JACKSON PARK ROAD",
+        "city": "PORTLAND",
+        "county_name": "MULTNOMAH",
+        "emergency_services": true,
+        "hospital_name": "OHSU HOSPITAL AND CLINICS",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.689227,
+                45.499103
+            ],
+            "type": "Point"
+        },
+        "location_address": "3181 SW SAM JACKSON PARK ROAD",
+        "location_city": "PORTLAND",
+        "location_state": "OR",
+        "location_zip": "97239",
+        "phone_number": "5034944036",
+        "provider_id": "380009",
+        "state": "OR",
+        "zip_code": "97239"
+    },
+    {
+        "address": "2700 NW STEWART PARKWAY",
+        "city": "ROSEBURG",
+        "county_name": "DOUGLAS",
+        "emergency_services": true,
+        "hospital_name": "MERCY MEDICAL CENTER",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -123.367073,
+                43.239863
+            ],
+            "type": "Point"
+        },
+        "location_address": "2700 NW STEWART PARKWAY",
+        "location_city": "ROSEBURG",
+        "location_state": "OR",
+        "location_zip": "97471",
+        "phone_number": "5416730611",
+        "provider_id": "380027",
+        "state": "OR",
+        "zip_code": "97471"
+    },
+    {
+        "address": "2875 NW STUCKI AVE",
+        "city": "HILLSBORO",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "KAISER FOUNDATION HOSPITAL - WESTSIDE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.875667,
+                45.539713
+            ],
+            "type": "Point"
+        },
+        "location_address": "2875 NW STUCKI AVE",
+        "location_city": "HILLSBORO",
+        "location_state": "OR",
+        "location_zip": "97124",
+        "phone_number": "9713105700",
+        "provider_id": "380103",
+        "state": "OR",
+        "zip_code": "97124"
+    },
+    {
+        "address": "1111 CRATER LAKE AVENUE",
+        "city": "MEDFORD",
+        "county_name": "JACKSON",
+        "emergency_services": true,
+        "hospital_name": "PROVIDENCE MEDFORD MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.861004,
+                42.339902
+            ],
+            "type": "Point"
+        },
+        "location_address": "1111 CRATER LAKE AVENUE",
+        "location_city": "MEDFORD",
+        "location_state": "OR",
+        "location_zip": "97504",
+        "phone_number": "5417325196",
+        "provider_id": "380075",
+        "state": "OR",
+        "zip_code": "97504"
+    },
+    {
+        "address": "930 SW ABBEY STREET",
+        "city": "NEWPORT",
+        "county_name": "LINCOLN",
+        "emergency_services": true,
+        "hospital_name": "SAMARITAN PACIFIC COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -124.06,
+                44.630139
+            ],
+            "type": "Point"
+        },
+        "location_address": "930 SW ABBEY STREET",
+        "location_city": "NEWPORT",
+        "location_state": "OR",
+        "location_zip": "97365",
+        "phone_number": "5412652244",
+        "provider_id": "381314",
+        "state": "OR",
+        "zip_code": "97365"
+    },
+    {
+        "address": "351 SW 9TH STREET",
+        "city": "ONTARIO",
+        "county_name": "MALHEUR",
+        "emergency_services": true,
+        "hospital_name": "SAINT ALPHONSUS MEDICAL CENTER - ONTARIO, INC",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -116.975115,
+                44.025488
+            ],
+            "type": "Point"
+        },
+        "location_address": "351 SW 9TH STREET",
+        "location_city": "ONTARIO",
+        "location_state": "OR",
+        "location_zip": "97914",
+        "phone_number": "5418817000",
+        "provider_id": "380052",
+        "state": "OR",
+        "zip_code": "97914"
+    },
+    {
+        "address": "2801 ST ANTHONY WAY",
+        "city": "PENDLETON",
+        "county_name": "UMATILLA",
+        "emergency_services": true,
+        "hospital_name": "ST ANTHONY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -118.816194,
+                45.648775
+            ],
+            "type": "Point"
+        },
+        "location_address": "2801 ST ANTHONY WAY",
+        "location_city": "PENDLETON",
+        "location_state": "OR",
+        "location_zip": "97801",
+        "phone_number": "5412765121",
+        "provider_id": "381319",
+        "state": "OR",
+        "zip_code": "97801"
+    },
+    {
+        "address": "1001 PROVIDENCE DRIVE",
+        "city": "NEWBERG",
+        "county_name": "YAMHILL",
+        "emergency_services": true,
+        "hospital_name": "PROVIDENCE NEWBERG MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.933955,
+                45.308689
+            ],
+            "type": "Point"
+        },
+        "location_address": "1001 PROVIDENCE DRIVE",
+        "location_city": "NEWBERG",
+        "location_state": "OR",
+        "location_zip": "97132",
+        "phone_number": "5035371555",
+        "provider_id": "380037",
+        "state": "OR",
+        "zip_code": "97132"
+    },
+    {
+        "address": "2700 SE STRATUS AVE.",
+        "city": "MCMINNVILLE",
+        "county_name": "YAMHILL",
+        "emergency_services": true,
+        "hospital_name": "WILLAMETTE VALLEY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -123.166263,
+                45.200027
+            ],
+            "type": "Point"
+        },
+        "location_address": "2700 SE STRATUS AVE.",
+        "location_city": "MCMINNVILLE",
+        "location_state": "OR",
+        "location_zip": "97128",
+        "phone_number": "5034726131",
+        "provider_id": "380071",
+        "state": "OR",
+        "zip_code": "97128"
+    },
+    {
+        "address": "335 SE 8TH AVENUE",
+        "city": "HILLSBORO",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "TUALITY COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.97731,
+                45.519637
+            ],
+            "type": "Point"
+        },
+        "location_address": "335 SE 8TH AVENUE",
+        "location_city": "HILLSBORO",
+        "location_state": "OR",
+        "location_zip": "97123",
+        "phone_number": "5036811111",
+        "provider_id": "380021",
+        "state": "OR",
+        "zip_code": "97123"
+    },
+    {
+        "address": "342 FAIRVIEW STREET",
+        "city": "SILVERTON",
+        "county_name": "MARION",
+        "emergency_services": true,
+        "hospital_name": "SILVERTON HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.790752,
+                45.003752
+            ],
+            "type": "Point"
+        },
+        "location_address": "342 FAIRVIEW STREET",
+        "location_city": "SILVERTON",
+        "location_state": "OR",
+        "location_zip": "97381",
+        "phone_number": "5038731500",
+        "provider_id": "380029",
+        "state": "OR",
+        "zip_code": "97381"
+    },
+    {
+        "address": "3710 SW US VETERANS HOSPITAL",
+        "city": "PORTLAND",
+        "county_name": "MULTNOMAH",
+        "emergency_services": false,
+        "hospital_name": "PORTLAND VA MEDICAL CENTER",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -122.683336,
+                45.496381
+            ],
+            "type": "Point"
+        },
+        "location_address": "3710 SW US VETERANS HOSPITAL",
+        "location_city": "PORTLAND",
+        "location_state": "OR",
+        "location_zip": "97239",
+        "phone_number": "5032208262",
+        "provider_id": "38003F",
+        "state": "OR",
+        "zip_code": "97239"
+    },
+    {
+        "address": "400 9TH STREET",
+        "city": "FLORENCE",
+        "county_name": "LANE",
+        "emergency_services": true,
+        "hospital_name": "PEACE HARBOR MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -124.119339,
+                43.975335
+            ],
+            "type": "Point"
+        },
+        "location_address": "400 9TH STREET",
+        "location_city": "FLORENCE",
+        "location_state": "OR",
+        "location_zip": "97439",
+        "phone_number": "5419978412",
+        "provider_id": "381316",
+        "state": "OR",
+        "zip_code": "97439"
+    },
+    {
+        "address": "470 NE A STREET",
+        "city": "MADRAS",
+        "county_name": "JEFFERSON",
+        "emergency_services": true,
+        "hospital_name": "ST CHARLES - MADRAS",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -121.119549,
+                44.637375
+            ],
+            "type": "Point"
+        },
+        "location_address": "470 NE A STREET",
+        "location_city": "MADRAS",
+        "location_state": "OR",
+        "location_zip": "97741",
+        "phone_number": "5414604200",
+        "provider_id": "381324",
+        "state": "OR",
+        "zip_code": "97741"
+    },
+    {
+        "address": "940 EAST 5TH STREET",
+        "city": "COQUILLE",
+        "county_name": "COOS",
+        "emergency_services": true,
+        "hospital_name": "COQUILLE VALLEY HOSPITAL DISTRICT",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -124.178993,
+                43.17898
+            ],
+            "type": "Point"
+        },
+        "location_address": "940 EAST 5TH STREET",
+        "location_city": "COQUILLE",
+        "location_state": "OR",
+        "location_zip": "97423",
+        "phone_number": "5413963101",
+        "provider_id": "381312",
+        "state": "OR",
+        "zip_code": "97423"
+    },
+    {
+        "address": "1775 THOMPSON ROAD",
+        "city": "COOS BAY",
+        "county_name": "COOS",
+        "emergency_services": true,
+        "hospital_name": "BAY AREA HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -124.23333,
+                43.38583
+            ],
+            "type": "Point"
+        },
+        "location_address": "1775 THOMPSON ROAD",
+        "location_city": "COOS BAY",
+        "location_state": "OR",
+        "location_zip": "97420",
+        "phone_number": "5412698111",
+        "provider_id": "380090",
+        "state": "OR",
+        "zip_code": "97420"
+    },
+    {
+        "address": "1015 NW 22ND AVENUE, W121",
+        "city": "PORTLAND",
+        "county_name": "MULTNOMAH",
+        "emergency_services": true,
+        "hospital_name": "LEGACY GOOD SAMARITAN MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.696572,
+                45.530056
+            ],
+            "type": "Point"
+        },
+        "location_address": "1015 NW 22ND AVENUE, W121",
+        "location_city": "PORTLAND",
+        "location_state": "OR",
+        "location_zip": "97210",
+        "phone_number": "5034137682",
+        "provider_id": "380017",
+        "state": "OR",
+        "zip_code": "97210"
+    },
+    {
+        "address": "2825 E BARNETT ROAD",
+        "city": "MEDFORD",
+        "county_name": "JACKSON",
+        "emergency_services": true,
+        "hospital_name": "ASANTE ROGUE REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -122.830443,
+                42.316483
+            ],
+            "type": "Point"
+        },
+        "location_address": "2825 E BARNETT ROAD",
+        "location_city": "MEDFORD",
+        "location_state": "OR",
+        "location_zip": "97504",
+        "phone_number": "5417897000",
+        "provider_id": "380018",
+        "state": "OR",
+        "zip_code": "97504"
+    },
+    {
+        "address": "1515 VILLAGE DRIVE",
+        "city": "COTTAGE GROVE",
+        "county_name": "LANE",
+        "emergency_services": true,
+        "hospital_name": "PEACEHEALTH COTTAGE GROVE COMMUNITY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -123.038245,
+                43.802974
+            ],
+            "type": "Point"
+        },
+        "location_address": "1515 VILLAGE DRIVE",
+        "location_city": "COTTAGE GROVE",
+        "location_state": "OR",
+        "location_zip": "97424",
+        "phone_number": "5417675500",
+        "provider_id": "381301",
+        "state": "OR",
+        "zip_code": "97424"
+    },
+    {
+        "address": "3325 POCAHONTAS ROAD",
+        "city": "BAKER CITY",
+        "county_name": "BAKER",
+        "emergency_services": true,
+        "hospital_name": "ST ALPHONSUS MEDICAL CENTER - BAKER CITY, INC",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -117.847454,
+                44.796118
+            ],
+            "type": "Point"
+        },
+        "location_address": "3325 POCAHONTAS ROAD",
+        "location_city": "BAKER CITY",
+        "location_state": "OR",
+        "location_zip": "97814",
+        "phone_number": "5415236461",
+        "provider_id": "381315",
+        "state": "OR",
+        "zip_code": "97814"
+    }
+]

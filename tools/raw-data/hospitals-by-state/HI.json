@@ -1,358 +1,420 @@
-[ {
-  "hospital_name" : "THE QUEENS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8085389011"
-  },
-  "zip_code" : "96813",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-157.85525383999996",
-    "latitude" : "21.307236602000046",
-    "human_address" : "{\"address\":\"1301 PUNCHBOWL ST\",\"city\":\"HONOLULU\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "1301 PUNCHBOWL ST",
-  "provider_id" : "120001",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "HONOLULU",
-  "city" : "HONOLULU"
-}
-, {
-  "hospital_name" : "MAUI MEMORIAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8084425101"
-  },
-  "zip_code" : "96793",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-156.48867641399997",
-    "latitude" : "20.884142918000066",
-    "human_address" : "{\"address\":\"221 MAHALANI STREET\",\"city\":\"WAILUKU\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "221 MAHALANI STREET",
-  "provider_id" : "120002",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "MAUI",
-  "city" : "WAILUKU"
-}
-, {
-  "hospital_name" : "WAHIAWA GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8086218411"
-  },
-  "zip_code" : "96786",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-158.02731256099997",
-    "latitude" : "21.498711271000047",
-    "human_address" : "{\"address\":\"128 LEHUA STREET\",\"city\":\"WAHIAWA\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "128 LEHUA STREET",
-  "provider_id" : "120004",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "HONOLULU",
-  "city" : "WAHIAWA"
-}
-, {
-  "hospital_name" : "HILO MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8089323000"
-  },
-  "zip_code" : "96720",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-155.11275283099997",
-    "latitude" : "19.71754745800007",
-    "human_address" : "{\"address\":\"1190 WAIANUENUE AVENUE\",\"city\":\"HILO\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "1190 WAIANUENUE AVENUE",
-  "provider_id" : "120005",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "HAWAII",
-  "city" : "HILO"
-}
-, {
-  "hospital_name" : "CASTLE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8082635500"
-  },
-  "zip_code" : "96734",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-157.75710362699996",
-    "latitude" : "21.381406678000076",
-    "human_address" : "{\"address\":\"640 ULUKAHIKI ST\",\"city\":\"KAILUA\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "640 ULUKAHIKI ST",
-  "provider_id" : "120006",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "HONOLULU",
-  "city" : "KAILUA"
-}
-, {
-  "hospital_name" : "KUAKINI MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8085362236"
-  },
-  "zip_code" : "96817",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-157.85638077199997",
-    "latitude" : "21.322371824000072",
-    "human_address" : "{\"address\":\"347 NORTH KUAKINI STREET\",\"city\":\"HONOLULU\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "347 NORTH KUAKINI STREET",
-  "provider_id" : "120007",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "HONOLULU",
-  "city" : "HONOLULU"
-}
-, {
-  "hospital_name" : "KAISER FOUNDATION HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8084320000"
-  },
-  "zip_code" : "96819",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-157.90029999299998",
-    "latitude" : "21.36248160100007",
-    "human_address" : "{\"address\":\"3288 MOANALUA RD\",\"city\":\"HONOLULU\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "3288 MOANALUA RD",
-  "provider_id" : "120011",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "HONOLULU",
-  "city" : "HONOLULU"
-}
-, {
-  "hospital_name" : "WILCOX MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8082451103"
-  },
-  "zip_code" : "96766",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-159.36638040999998",
-    "latitude" : "21.98562408400005",
-    "human_address" : "{\"address\":\"3-3420 KUHIO HIGHWAY\",\"city\":\"LIHUE\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "3-3420 KUHIO HIGHWAY",
-  "provider_id" : "120014",
-  "hospital_ownership" : "Government - Federal",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "KAUAI",
-  "city" : "LIHUE"
-}
-, {
-  "hospital_name" : "KONA COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8083229311"
-  },
-  "zip_code" : "96750",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-155.91960107099996",
-    "latitude" : "19.520304449000037",
-    "human_address" : "{\"address\":\"79-1019 HAUKAPILA STREET\",\"city\":\"KEALAKEKUA\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "79-1019 HAUKAPILA STREET",
-  "provider_id" : "120019",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "HAWAII",
-  "city" : "KEALAKEKUA"
-}
-, {
-  "hospital_name" : "STRAUB CLINIC AND HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8085224000"
-  },
-  "zip_code" : "96813",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-157.85062973299998",
-    "latitude" : "21.302206892000072",
-    "human_address" : "{\"address\":\"888 SO KING STREET\",\"city\":\"HONOLULU\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "888 SO KING STREET",
-  "provider_id" : "120022",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "HONOLULU",
-  "city" : "HONOLULU"
-}
-, {
-  "hospital_name" : "PALI MOMI MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8084866000"
-  },
-  "zip_code" : "96701",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-157.93777450199997",
-    "latitude" : "21.384055774000046",
-    "human_address" : "{\"address\":\"98-1079 MOANALUA ROAD\",\"city\":\"AIEA\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "98-1079 MOANALUA ROAD",
-  "provider_id" : "120026",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "HONOLULU",
-  "city" : "AIEA"
-}
-, {
-  "hospital_name" : "NORTH HAWAII COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8088854444"
-  },
-  "zip_code" : "96743",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-155.66902793999998",
-    "latitude" : "20.02031224800004",
-    "human_address" : "{\"address\":\"67 1125 MAMALAHOA HIGHWAY\",\"city\":\"KAMUELA\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "67 1125 MAMALAHOA HIGHWAY",
-  "provider_id" : "120028",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "HAWAII",
-  "city" : "KAMUELA"
-}
-, {
-  "hospital_name" : "KAUAI VETERANS MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8083389248"
-  },
-  "zip_code" : "96796",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-159.67048025599996",
-    "latitude" : "21.95968967700003",
-    "human_address" : "{\"address\":\"4643 WAIMEA CANYON DRIVE\",\"city\":\"WAIMEA\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "4643 WAIMEA CANYON DRIVE",
-  "provider_id" : "121300",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "KAUAI",
-  "city" : "WAIMEA"
-}
-, {
-  "hospital_name" : "KAU HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8089288331"
-  },
-  "zip_code" : "96777",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-155.47409658399997",
-    "latitude" : "19.20200946700004",
-    "human_address" : "{\"address\":\"1 KAMANI STREET\",\"city\":\"PAHALA\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "1 KAMANI STREET",
-  "provider_id" : "121301",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "HAWAII",
-  "city" : "PAHALA"
-}
-, {
-  "hospital_name" : "MOLOKAI GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8085535331"
-  },
-  "zip_code" : "96748",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-157.01786562999996",
-    "latitude" : "21.093877379000048",
-    "human_address" : "{\"address\":\"280 HOME OLU PLACE\",\"city\":\"KAUNAKAKAI\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "280 HOME OLU PLACE",
-  "provider_id" : "121303",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "MAUI",
-  "city" : "KAUNAKAKAI"
-}
-, {
-  "hospital_name" : "KAHUKU MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8082939221"
-  },
-  "zip_code" : "96731",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-157.95221866199998",
-    "latitude" : "21.677342124000063",
-    "human_address" : "{\"address\":\"56-117 PUALALEA STREET\",\"city\":\"KAHUKU\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "56-117 PUALALEA STREET",
-  "provider_id" : "121304",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "HONOLULU",
-  "city" : "KAHUKU"
-}
-, {
-  "hospital_name" : "SAMUEL MAHELONA MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8088224961"
-  },
-  "zip_code" : "96746",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-159.31413488799998",
-    "latitude" : "22.087705165000045",
-    "human_address" : "{\"address\":\"4800 KAWAIHAU ROAD\",\"city\":\"KAPAA\",\"state\":\"HI\",\"zip\":\"\"}"
-  },
-  "address" : "4800 KAWAIHAU ROAD",
-  "provider_id" : "121306",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "HI",
-  "emergency_services" : true,
-  "county_name" : "KAUAI",
-  "city" : "KAPAA"
-}
- ]
+[
+    {
+        "address": "221 MAHALANI STREET",
+        "city": "WAILUKU",
+        "county_name": "MAUI",
+        "emergency_services": true,
+        "hospital_name": "MAUI MEMORIAL MEDICAL CENTER",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -156.488693,
+                20.884006
+            ],
+            "type": "Point"
+        },
+        "location_address": "221 MAHALANI STREET",
+        "location_city": "WAILUKU",
+        "location_state": "HI",
+        "location_zip": "96793",
+        "phone_number": "8084425101",
+        "provider_id": "120002",
+        "state": "HI",
+        "zip_code": "96793"
+    },
+    {
+        "address": "888 SO KING STREET",
+        "city": "HONOLULU",
+        "county_name": "HONOLULU",
+        "emergency_services": true,
+        "hospital_name": "STRAUB CLINIC AND HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "888 SO KING STREET",
+        "location_city": "HONOLULU",
+        "location_state": "HI",
+        "location_zip": "96813",
+        "phone_number": "8085224000",
+        "provider_id": "120022",
+        "state": "HI",
+        "zip_code": "96813"
+    },
+    {
+        "address": "347 NORTH KUAKINI STREET",
+        "city": "HONOLULU",
+        "county_name": "HONOLULU",
+        "emergency_services": true,
+        "hospital_name": "KUAKINI MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -157.856394,
+                21.322405
+            ],
+            "type": "Point"
+        },
+        "location_address": "347 NORTH KUAKINI STREET",
+        "location_city": "HONOLULU",
+        "location_state": "HI",
+        "location_zip": "96817",
+        "phone_number": "8085362236",
+        "provider_id": "120007",
+        "state": "HI",
+        "zip_code": "96817"
+    },
+    {
+        "address": "100 KOKEA PLACE",
+        "city": "KULA",
+        "county_name": "MAUI",
+        "emergency_services": true,
+        "hospital_name": "KULA HOSPITAL",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -156.357099,
+                20.701994
+            ],
+            "type": "Point"
+        },
+        "location_address": "100 KOKEA PLACE",
+        "location_city": "KULA",
+        "location_state": "HI",
+        "location_zip": "96790",
+        "phone_number": "8088781221",
+        "provider_id": "121308",
+        "state": "HI",
+        "zip_code": "96790"
+    },
+    {
+        "address": "4800 KAWAIHAU ROAD",
+        "city": "KAPAA",
+        "county_name": "KAUAI",
+        "emergency_services": true,
+        "hospital_name": "SAMUEL MAHELONA MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -159.314147,
+                22.087604
+            ],
+            "type": "Point"
+        },
+        "location_address": "4800 KAWAIHAU ROAD",
+        "location_city": "KAPAA",
+        "location_state": "HI",
+        "location_zip": "96746",
+        "phone_number": "8088224961",
+        "provider_id": "121306",
+        "state": "HI",
+        "zip_code": "96746"
+    },
+    {
+        "address": "640 ULUKAHIKI ST",
+        "city": "KAILUA",
+        "county_name": "HONOLULU",
+        "emergency_services": true,
+        "hospital_name": "CASTLE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -157.757099,
+                21.381429
+            ],
+            "type": "Point"
+        },
+        "location_address": "640 ULUKAHIKI ST",
+        "location_city": "KAILUA",
+        "location_state": "HI",
+        "location_zip": "96734",
+        "phone_number": "8082635500",
+        "provider_id": "120006",
+        "state": "HI",
+        "zip_code": "96734"
+    },
+    {
+        "address": "4643 WAIMEA CANYON DRIVE",
+        "city": "WAIMEA",
+        "county_name": "KAUAI",
+        "emergency_services": true,
+        "hospital_name": "KAUAI VETERANS MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -159.670046,
+                21.960088
+            ],
+            "type": "Point"
+        },
+        "location_address": "4643 WAIMEA CANYON DRIVE",
+        "location_city": "WAIMEA",
+        "location_state": "HI",
+        "location_zip": "96796",
+        "phone_number": "8083389431",
+        "provider_id": "121300",
+        "state": "HI",
+        "zip_code": "96796"
+    },
+    {
+        "address": "79-1019 HAUKAPILA STREET",
+        "city": "KEALAKEKUA",
+        "county_name": "HAWAII",
+        "emergency_services": true,
+        "hospital_name": "KONA COMMUNITY HOSPITAL",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -155.918451,
+                19.520145
+            ],
+            "type": "Point"
+        },
+        "location_address": "79-1019 HAUKAPILA STREET",
+        "location_city": "KEALAKEKUA",
+        "location_state": "HI",
+        "location_zip": "96750",
+        "phone_number": "8083229311",
+        "provider_id": "120019",
+        "state": "HI",
+        "zip_code": "96750"
+    },
+    {
+        "address": "1190 WAIANUENUE AVENUE",
+        "city": "HILO",
+        "county_name": "HAWAII",
+        "emergency_services": true,
+        "hospital_name": "HILO MEDICAL CENTER",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -155.113286,
+                19.717493
+            ],
+            "type": "Point"
+        },
+        "location_address": "1190 WAIANUENUE AVENUE",
+        "location_city": "HILO",
+        "location_state": "HI",
+        "location_zip": "96720",
+        "phone_number": "8089323000",
+        "provider_id": "120005",
+        "state": "HI",
+        "zip_code": "96720"
+    },
+    {
+        "address": "3-3420 KUHIO HIGHWAY",
+        "city": "LIHUE",
+        "county_name": "KAUAI",
+        "emergency_services": true,
+        "hospital_name": "WILCOX MEMORIAL HOSPITAL",
+        "hospital_ownership": "Government - Federal",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -159.366304,
+                21.986163
+            ],
+            "type": "Point"
+        },
+        "location_address": "3-3420 KUHIO HIGHWAY",
+        "location_city": "LIHUE",
+        "location_state": "HI",
+        "location_zip": "96766",
+        "phone_number": "8082451103",
+        "provider_id": "120014",
+        "state": "HI",
+        "zip_code": "96766"
+    },
+    {
+        "address": "3288 MOANALUA RD",
+        "city": "HONOLULU",
+        "county_name": "HONOLULU",
+        "emergency_services": true,
+        "hospital_name": "KAISER FOUNDATION HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -157.9011,
+                21.363277
+            ],
+            "type": "Point"
+        },
+        "location_address": "3288 MOANALUA RD",
+        "location_city": "HONOLULU",
+        "location_state": "HI",
+        "location_zip": "96819",
+        "phone_number": "8084320000",
+        "provider_id": "120011",
+        "state": "HI",
+        "zip_code": "96819"
+    },
+    {
+        "address": "128 LEHUA STREET",
+        "city": "WAHIAWA",
+        "county_name": "HONOLULU",
+        "emergency_services": true,
+        "hospital_name": "WAHIAWA GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -158.02729,
+                21.498492
+            ],
+            "type": "Point"
+        },
+        "location_address": "128 LEHUA STREET",
+        "location_city": "WAHIAWA",
+        "location_state": "HI",
+        "location_zip": "96786",
+        "phone_number": "8086218411",
+        "provider_id": "120004",
+        "state": "HI",
+        "zip_code": "96786"
+    },
+    {
+        "address": "98-1079 MOANALUA ROAD",
+        "city": "AIEA",
+        "county_name": "HONOLULU",
+        "emergency_services": true,
+        "hospital_name": "PALI MOMI MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -157.937544,
+                21.383687
+            ],
+            "type": "Point"
+        },
+        "location_address": "98-1079 MOANALUA ROAD",
+        "location_city": "AIEA",
+        "location_state": "HI",
+        "location_zip": "96701",
+        "phone_number": "8084866000",
+        "provider_id": "120026",
+        "state": "HI",
+        "zip_code": "96701"
+    },
+    {
+        "address": "1 KAMANI STREET",
+        "city": "PAHALA",
+        "county_name": "HAWAII",
+        "emergency_services": true,
+        "hospital_name": "KAU HOSPITAL",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -155.471003,
+                19.199695
+            ],
+            "type": "Point"
+        },
+        "location_address": "1 KAMANI STREET",
+        "location_city": "PAHALA",
+        "location_state": "HI",
+        "location_zip": "96777",
+        "phone_number": "8089288331",
+        "provider_id": "121301",
+        "state": "HI",
+        "zip_code": "96777"
+    },
+    {
+        "address": "280 HOME OLU PLACE",
+        "city": "KAUNAKAKAI",
+        "county_name": "MAUI",
+        "emergency_services": true,
+        "hospital_name": "MOLOKAI GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "280 HOME OLU PLACE",
+        "location_city": "KAUNAKAKAI",
+        "location_state": "HI",
+        "location_zip": "96748",
+        "phone_number": "8085535331",
+        "provider_id": "121303",
+        "state": "HI",
+        "zip_code": "96748"
+    },
+    {
+        "address": "56-117 PUALALEA STREET",
+        "city": "KAHUKU",
+        "county_name": "HONOLULU",
+        "emergency_services": true,
+        "hospital_name": "KAHUKU MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -157.952265,
+                21.676942
+            ],
+            "type": "Point"
+        },
+        "location_address": "56-117 PUALALEA STREET",
+        "location_city": "KAHUKU",
+        "location_state": "HI",
+        "location_zip": "96731",
+        "phone_number": "8082939221",
+        "provider_id": "121304",
+        "state": "HI",
+        "zip_code": "96731"
+    },
+    {
+        "address": "1301 PUNCHBOWL ST",
+        "city": "HONOLULU",
+        "county_name": "HONOLULU",
+        "emergency_services": true,
+        "hospital_name": "THE QUEENS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -157.855051,
+                21.308063
+            ],
+            "type": "Point"
+        },
+        "location_address": "1301 PUNCHBOWL ST",
+        "location_city": "HONOLULU",
+        "location_state": "HI",
+        "location_zip": "96813",
+        "phone_number": "8085389011",
+        "provider_id": "120001",
+        "state": "HI",
+        "zip_code": "96813"
+    },
+    {
+        "address": "67 1125 MAMALAHOA HIGHWAY",
+        "city": "KAMUELA",
+        "county_name": "HAWAII",
+        "emergency_services": true,
+        "hospital_name": "NORTH HAWAII COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -155.665685,
+                20.023076
+            ],
+            "type": "Point"
+        },
+        "location_address": "67 1125 MAMALAHOA HIGHWAY",
+        "location_city": "KAMUELA",
+        "location_state": "HI",
+        "location_zip": "96743",
+        "phone_number": "8088854444",
+        "provider_id": "120028",
+        "state": "HI",
+        "zip_code": "96743"
+    }
+]

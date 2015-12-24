@@ -1,757 +1,807 @@
-[ {
-  "hospital_name" : "ST JOSEPH HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2072621000"
-  },
-  "zip_code" : "04401",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-68.77130271999994",
-    "latitude" : "44.81452887300003",
-    "human_address" : "{\"address\":\"360 BROADWAY\",\"city\":\"BANGOR\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "360 BROADWAY",
-  "provider_id" : "200001",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "PENOBSCOT",
-  "city" : "BANGOR"
-}
-, {
-  "hospital_name" : "MERCY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2078793000"
-  },
-  "zip_code" : "04101",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.26495845299996",
-    "latitude" : "43.651940909000075",
-    "human_address" : "{\"address\":\"144 STATE STREET\",\"city\":\"PORTLAND\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "144 STATE STREET",
-  "provider_id" : "200008",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "CUMBERLAND",
-  "city" : "PORTLAND"
-}
-, {
-  "hospital_name" : "MAINE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2076620111"
-  },
-  "zip_code" : "04102",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.27509493999997",
-    "latitude" : "43.652270144000056",
-    "human_address" : "{\"address\":\"22 BRAMHALL ST\",\"city\":\"PORTLAND\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "22 BRAMHALL ST",
-  "provider_id" : "200009",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "CUMBERLAND",
-  "city" : "PORTLAND"
-}
-, {
-  "hospital_name" : "AROOSTOOK MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2077684000"
-  },
-  "zip_code" : "04769",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-67.99828910599996",
-    "latitude" : "46.67656743900005",
-    "human_address" : "{\"address\":\"140 ACADEMY ST - PO BOX 151\",\"city\":\"PRESQUE ISLE\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "140 ACADEMY ST - PO BOX 151",
-  "provider_id" : "200018",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "AROOSTOOK",
-  "city" : "PRESQUE ISLE"
-}
-, {
-  "hospital_name" : "SOUTHERN MAINE HEALTH CARE",
-  "phone_number" : {
-    "phone_number" : "2072837000"
-  },
-  "zip_code" : "04005",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.49172424999995",
-    "latitude" : "43.47807219300006",
-    "human_address" : "{\"address\":\"1 MEDICAL CENTER DRIVE\",\"city\":\"BIDDEFORD\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "1 MEDICAL CENTER DRIVE",
-  "provider_id" : "200019",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "YORK",
-  "city" : "BIDDEFORD"
-}
-, {
-  "hospital_name" : "YORK HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2073634321"
-  },
-  "zip_code" : "03909",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.65092101299996",
-    "latitude" : "43.14262360600003",
-    "human_address" : "{\"address\":\"15 HOSPITAL DRIVE\",\"city\":\"YORK\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "15 HOSPITAL DRIVE",
-  "provider_id" : "200020",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "YORK",
-  "city" : "YORK"
-}
-, {
-  "hospital_name" : "MID COAST HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2077290181"
-  },
-  "zip_code" : "04011",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-69.89174187499998",
-    "latitude" : "43.90503656800007",
-    "human_address" : "{\"address\":\"123 MEDICAL CENTER DRIVE\",\"city\":\"BRUNSWICK\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "123 MEDICAL CENTER DRIVE",
-  "provider_id" : "200021",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "CUMBERLAND",
-  "city" : "BRUNSWICK"
-}
-, {
-  "hospital_name" : "CENTRAL MAINE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2077950111"
-  },
-  "zip_code" : "04240",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.21443534499997",
-    "latitude" : "44.10098480900007",
-    "human_address" : "{\"address\":\"300 MAIN STREET\",\"city\":\"LEWISTON\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "300 MAIN STREET",
-  "provider_id" : "200024",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "ANDROSCOGGIN",
-  "city" : "LEWISTON"
-}
-, {
-  "hospital_name" : "PARKVIEW ADVENTIST MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2073732000"
-  },
-  "zip_code" : "04011",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-69.96777991799996",
-    "latitude" : "43.91395272600005",
-    "human_address" : "{\"address\":\"329 MAIN ST\",\"city\":\"BRUNSWICK\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "329 MAIN ST",
-  "provider_id" : "200025",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "CUMBERLAND",
-  "city" : "BRUNSWICK"
-}
-, {
-  "hospital_name" : "CARY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2074983111"
-  },
-  "zip_code" : "04736",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-68.01106901999998",
-    "latitude" : "46.879600061000076",
-    "human_address" : "{\"address\":\"163 VAN BUREN RD, SUITE 1\",\"city\":\"CARIBOU\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "163 VAN BUREN RD, SUITE 1",
-  "provider_id" : "200031",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "AROOSTOOK",
-  "city" : "CARIBOU"
-}
-, {
-  "hospital_name" : "EASTERN MAINE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2079737000"
-  },
-  "zip_code" : "04401",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-68.74973105099997",
-    "latitude" : "44.80990752100007",
-    "human_address" : "{\"address\":\"489 STATE ST, PO BOX 404\",\"city\":\"BANGOR\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "489 STATE ST, PO BOX 404",
-  "provider_id" : "200033",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "PENOBSCOT",
-  "city" : "BANGOR"
-}
-, {
-  "hospital_name" : "ST MARYS REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2077778100"
-  },
-  "zip_code" : "04240",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.21834652399997",
-    "latitude" : "44.09855337500005",
-    "human_address" : "{\"address\":\"CAMPUS AVENUE - PO BOX 291\",\"city\":\"LEWISTON\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "CAMPUS AVENUE - PO BOX 291",
-  "provider_id" : "200034",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "ANDROSCOGGIN",
-  "city" : "LEWISTON"
-}
-, {
-  "hospital_name" : "FRANKLIN MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2077786031"
-  },
-  "zip_code" : "04938",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.16216113499996",
-    "latitude" : "44.62529200000006",
-    "human_address" : "{\"address\":\"111 FRANKLIN HEALTH COMMONS\",\"city\":\"FARMINGTON\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "111 FRANKLIN HEALTH COMMONS",
-  "provider_id" : "200037",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "FRANKLIN",
-  "city" : "FARMINGTON"
-}
-, {
-  "hospital_name" : "MAINEGENERAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2078721000"
-  },
-  "zip_code" : "04330",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-69.77620834199996",
-    "latitude" : "44.318030889000056",
-    "human_address" : "{\"address\":\"35 MEDICAL CENTER PARKWAY\",\"city\":\"AUGUSTA\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "35 MEDICAL CENTER PARKWAY",
-  "provider_id" : "200039",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "KENNEBEC",
-  "city" : "AUGUSTA"
-}
-, {
-  "hospital_name" : "TOGUS VA MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2076238411"
-  },
-  "zip_code" : "04330",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-69.77657589799998",
-    "latitude" : "44.307673032000025",
-    "human_address" : "{\"address\":\"1 VA CENTER\",\"city\":\"AUGUSTA\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "1 VA CENTER",
-  "provider_id" : "20003F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "ME",
-  "emergency_services" : false,
-  "county_name" : "KENNEBEC",
-  "city" : "AUGUSTA"
-}
-, {
-  "hospital_name" : "HENRIETTA D GOODALL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2073244310"
-  },
-  "zip_code" : "04073",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.76702605099996",
-    "latitude" : "43.447185157000035",
-    "human_address" : "{\"address\":\"25 JUNE STREET\",\"city\":\"SANFORD\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "25 JUNE STREET",
-  "provider_id" : "200040",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "YORK",
-  "city" : "SANFORD"
-}
-, {
-  "hospital_name" : "INLAND HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2078613012"
-  },
-  "zip_code" : "04901",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-69.66133444599996",
-    "latitude" : "44.54266178300003",
-    "human_address" : "{\"address\":\"200 KENNEDY MEMORIAL DRIVE\",\"city\":\"WATERVILLE\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "200 KENNEDY MEMORIAL DRIVE",
-  "provider_id" : "200041",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "KENNEBEC",
-  "city" : "WATERVILLE"
-}
-, {
-  "hospital_name" : "MAINE COAST MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2076675311"
-  },
-  "zip_code" : "04605",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-68.41568438799999",
-    "latitude" : "44.54637097800003",
-    "human_address" : "{\"address\":\"50 UNION STREET\",\"city\":\"ELLSWORTH\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "50 UNION STREET",
-  "provider_id" : "200050",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "HANCOCK",
-  "city" : "ELLSWORTH"
-}
-, {
-  "hospital_name" : "NORTHERN MAINE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2078343195"
-  },
-  "zip_code" : "04743",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-68.59139814699995",
-    "latitude" : "47.26577910800006",
-    "human_address" : "{\"address\":\"194 E MAIN STREET\",\"city\":\"FORT KENT\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "194 E MAIN STREET",
-  "provider_id" : "200052",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "AROOSTOOK",
-  "city" : "FORT KENT"
-}
-, {
-  "hospital_name" : "PENOBSCOT BAY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2075968000"
-  },
-  "zip_code" : "04856",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-69.08701381299994",
-    "latitude" : "44.145442255000034",
-    "human_address" : "{\"address\":\"6 GLEN COVE DRIVE\",\"city\":\"ROCKPORT\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "6 GLEN COVE DRIVE",
-  "provider_id" : "200063",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "KNOX",
-  "city" : "ROCKPORT"
-}
-, {
-  "hospital_name" : "BLUE HILL MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2073742836"
-  },
-  "zip_code" : "04614",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-68.58636346099996",
-    "latitude" : "44.411594800000046",
-    "human_address" : "{\"address\":\"57 WATER STREET\",\"city\":\"BLUE HILL\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "57 WATER STREET",
-  "provider_id" : "201300",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "HANCOCK",
-  "city" : "BLUE HILL"
-}
-, {
-  "hospital_name" : "CHARLES A DEAN MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2076955200"
-  },
-  "zip_code" : "04441",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-69.59036732999994",
-    "latitude" : "45.46083618700004",
-    "human_address" : "{\"address\":\"PRITHAM AVENUE PO BOX 1129\",\"city\":\"GREENVILLE\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "PRITHAM AVENUE PO BOX 1129",
-  "provider_id" : "201301",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "PISCATAQUIS",
-  "city" : "GREENVILLE"
-}
-, {
-  "hospital_name" : "ST ANDREWS HOSPITAL (LINCOLN COUNTY HEALTHCARE)",
-  "phone_number" : {
-    "phone_number" : "2076332121"
-  },
-  "zip_code" : "04538",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-69.63989743599996",
-    "latitude" : "43.850798713000074",
-    "human_address" : "{\"address\":\"6 ST ANDREWS LANE - PO BOX 417\",\"city\":\"BOOTHBAY HARBOR\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "6 ST ANDREWS LANE  - PO BOX 417",
-  "provider_id" : "201302",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "LINCOLN",
-  "city" : "BOOTHBAY HARBOR"
-}
-, {
-  "hospital_name" : "PENOBSCOT VALLEY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2077943321"
-  },
-  "zip_code" : "04457",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-68.51631546399994",
-    "latitude" : "45.34870826300005",
-    "human_address" : "{\"address\":\"7 TRANSALPINE ROAD, PO BOX 368\",\"city\":\"LINCOLN\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "7 TRANSALPINE ROAD, PO BOX 368",
-  "provider_id" : "201303",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "PENOBSCOT",
-  "city" : "LINCOLN"
-}
-, {
-  "hospital_name" : "MOUNT DESERT ISLAND HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2072885081"
-  },
-  "zip_code" : "04609",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-68.20160768199997",
-    "latitude" : "44.384549175000075",
-    "human_address" : "{\"address\":\"10 WAYMAN LANE, PO BOX 8\",\"city\":\"BAR HARBOR\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "10 WAYMAN LANE, PO BOX 8",
-  "provider_id" : "201304",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "HANCOCK",
-  "city" : "BAR HARBOR"
-}
-, {
-  "hospital_name" : "CALAIS REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2074547521"
-  },
-  "zip_code" : "04619",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-67.26972963799994",
-    "latitude" : "45.17984431200006",
-    "human_address" : "{\"address\":\"24 HOSPITAL LANE\",\"city\":\"CALAIS\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "24 HOSPITAL LANE",
-  "provider_id" : "201305",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "WASHINGTON",
-  "city" : "CALAIS"
-}
-, {
-  "hospital_name" : "RUMFORD  HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2073691000"
-  },
-  "zip_code" : "04276",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.55699648999996",
-    "latitude" : "44.55157454700003",
-    "human_address" : "{\"address\":\"420 FRANKLIN STREET\",\"city\":\"RUMFORD\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "420 FRANKLIN STREET",
-  "provider_id" : "201306",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "OXFORD",
-  "city" : "RUMFORD"
-}
-, {
-  "hospital_name" : "MILLINOCKET REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2077235161"
-  },
-  "zip_code" : "04462",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-68.71509612599993",
-    "latitude" : "45.65282045200007",
-    "human_address" : "{\"address\":\"200 SOMERSET STREET\",\"city\":\"MILLINOCKET\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "200 SOMERSET STREET",
-  "provider_id" : "201307",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "PENOBSCOT",
-  "city" : "MILLINOCKET"
-}
-, {
-  "hospital_name" : "HOULTON REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2075322900"
-  },
-  "zip_code" : "04730",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-67.84294194599994",
-    "latitude" : "46.132210386000054",
-    "human_address" : "{\"address\":\"20 HARTFORD STREET\",\"city\":\"HOULTON\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "20 HARTFORD STREET",
-  "provider_id" : "201308",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "AROOSTOOK",
-  "city" : "HOULTON"
-}
-, {
-  "hospital_name" : "MAYO REGIONAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2075644251"
-  },
-  "zip_code" : "04426",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-69.23859229499993",
-    "latitude" : "45.18660914000003",
-    "human_address" : "{\"address\":\"897 WEST MAIN STREET\",\"city\":\"DOVER FOXCROFT\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "897 WEST MAIN STREET",
-  "provider_id" : "201309",
-  "hospital_ownership" : "Government - Hospital District or Authority",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "PISCATAQUIS",
-  "city" : "DOVER FOXCROFT"
-}
-, {
-  "hospital_name" : "BRIDGTON HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2076476000"
-  },
-  "zip_code" : "04009",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.71290392599997",
-    "latitude" : "44.04718898800007",
-    "human_address" : "{\"address\":\"10 HOSPITAL DRIVE\",\"city\":\"BRIDGTON\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "10 HOSPITAL DRIVE",
-  "provider_id" : "201310",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "CUMBERLAND",
-  "city" : "BRIDGTON"
-}
-, {
-  "hospital_name" : "DOWN EAST COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2072553356"
-  },
-  "zip_code" : "04654",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-67.47694533999999",
-    "latitude" : "44.71366549800007",
-    "human_address" : "{\"address\":\"11 HOSPITAL DRIVE\",\"city\":\"MACHIAS\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "11 HOSPITAL DRIVE",
-  "provider_id" : "201311",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : false,
-  "county_name" : "WASHINGTON",
-  "city" : "MACHIAS"
-}
-, {
-  "hospital_name" : "WALDO COUNTY GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2073382500"
-  },
-  "zip_code" : "04915",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-69.00796590899995",
-    "latitude" : "44.42587131300007",
-    "human_address" : "{\"address\":\"PO BOX 287\",\"city\":\"BELFAST\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "PO BOX 287",
-  "provider_id" : "201312",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "WALDO",
-  "city" : "BELFAST"
-}
-, {
-  "hospital_name" : "SEBASTICOOK VALLEY HEALTH",
-  "phone_number" : {
-    "phone_number" : "2074875141"
-  },
-  "zip_code" : "04967",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-69.37135516799998",
-    "latitude" : "44.79077917500007",
-    "human_address" : "{\"address\":\"447 NORTH MAIN STREET\",\"city\":\"PITTSFIELD\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "447 NORTH MAIN STREET",
-  "provider_id" : "201313",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "SOMERSET",
-  "city" : "PITTSFIELD"
-}
-, {
-  "hospital_name" : "REDINGTON FAIRVIEW GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2074745121"
-  },
-  "zip_code" : "04976",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-69.71353972599996",
-    "latitude" : "44.75842309600006",
-    "human_address" : "{\"address\":\"46 FAIRVIEW AVE PO BOX 468\",\"city\":\"SKOWHEGAN\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "46 FAIRVIEW AVE   PO BOX 468",
-  "provider_id" : "201314",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "SOMERSET",
-  "city" : "SKOWHEGAN"
-}
-, {
-  "hospital_name" : "STEPHENS MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2077435933"
-  },
-  "zip_code" : "04268",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-70.53327531399998",
-    "latitude" : "44.21001991700007",
-    "human_address" : "{\"address\":\"181 MAIN STREET\",\"city\":\"NORWAY\",\"state\":\"ME\",\"zip\":\"\"}"
-  },
-  "address" : "181 MAIN STREET",
-  "provider_id" : "201315",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Critical Access Hospitals",
-  "state" : "ME",
-  "emergency_services" : true,
-  "county_name" : "OXFORD",
-  "city" : "NORWAY"
-}
- ]
+[
+    {
+        "address": "1 VA CENTER",
+        "city": "AUGUSTA",
+        "county_name": "KENNEBEC",
+        "emergency_services": false,
+        "hospital_name": "TOGUS VA MEDICAL CENTER",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -69.776647,
+                44.307575
+            ],
+            "type": "Point"
+        },
+        "location_address": "1 VA CENTER",
+        "location_city": "AUGUSTA",
+        "location_state": "ME",
+        "location_zip": "04330",
+        "phone_number": "2076238411",
+        "provider_id": "20003F",
+        "state": "ME",
+        "zip_code": "04330"
+    },
+    {
+        "address": "447 NORTH MAIN STREET",
+        "city": "PITTSFIELD",
+        "county_name": "SOMERSET",
+        "emergency_services": true,
+        "hospital_name": "SEBASTICOOK VALLEY HEALTH",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -69.370459,
+                44.790948
+            ],
+            "type": "Point"
+        },
+        "location_address": "447 NORTH MAIN STREET",
+        "location_city": "PITTSFIELD",
+        "location_state": "ME",
+        "location_zip": "04967",
+        "phone_number": "2074875141",
+        "provider_id": "201313",
+        "state": "ME",
+        "zip_code": "04967"
+    },
+    {
+        "address": "15 HOSPITAL DRIVE",
+        "city": "YORK",
+        "county_name": "YORK",
+        "emergency_services": true,
+        "hospital_name": "YORK HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.650786,
+                43.142594
+            ],
+            "type": "Point"
+        },
+        "location_address": "15 HOSPITAL DRIVE",
+        "location_city": "YORK",
+        "location_state": "ME",
+        "location_zip": "03909",
+        "phone_number": "2073634321",
+        "provider_id": "200020",
+        "state": "ME",
+        "zip_code": "03909"
+    },
+    {
+        "address": "PO BOX 404",
+        "city": "BANGOR",
+        "county_name": "PENOBSCOT",
+        "emergency_services": true,
+        "hospital_name": "EASTERN MAINE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "PO BOX 404",
+        "location_city": "BANGOR",
+        "location_state": "ME",
+        "location_zip": "04401",
+        "phone_number": "2079737000",
+        "provider_id": "200033",
+        "state": "ME",
+        "zip_code": "04401"
+    },
+    {
+        "address": "10 WAYMAN LANE, PO BOX 8",
+        "city": "BAR HARBOR",
+        "county_name": "HANCOCK",
+        "emergency_services": true,
+        "hospital_name": "MOUNT DESERT ISLAND HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -68.202045,
+                44.384414
+            ],
+            "type": "Point"
+        },
+        "location_address": "10 WAYMAN LANE, PO BOX 8",
+        "location_city": "BAR HARBOR",
+        "location_state": "ME",
+        "location_zip": "04609",
+        "phone_number": "2072885081",
+        "provider_id": "201304",
+        "state": "ME",
+        "zip_code": "04609"
+    },
+    {
+        "address": "24 HOSPITAL LANE",
+        "city": "CALAIS",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "CALAIS REGIONAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -67.270465,
+                45.180612
+            ],
+            "type": "Point"
+        },
+        "location_address": "24 HOSPITAL LANE",
+        "location_city": "CALAIS",
+        "location_state": "ME",
+        "location_zip": "04619",
+        "phone_number": "2074547521",
+        "provider_id": "201305",
+        "state": "ME",
+        "zip_code": "04619"
+    },
+    {
+        "address": "PO BOX 287",
+        "city": "BELFAST",
+        "county_name": "WALDO",
+        "emergency_services": true,
+        "hospital_name": "WALDO COUNTY GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "PO BOX 287",
+        "location_city": "BELFAST",
+        "location_state": "ME",
+        "location_zip": "04915",
+        "phone_number": "2073382500",
+        "provider_id": "201312",
+        "state": "ME",
+        "zip_code": "04915"
+    },
+    {
+        "address": "46 FAIRVIEW AVE   PO BOX 468",
+        "city": "SKOWHEGAN",
+        "county_name": "SOMERSET",
+        "emergency_services": true,
+        "hospital_name": "REDINGTON FAIRVIEW GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -69.713578,
+                44.758411
+            ],
+            "type": "Point"
+        },
+        "location_address": "46 FAIRVIEW AVE PO BOX 468",
+        "location_city": "SKOWHEGAN",
+        "location_state": "ME",
+        "location_zip": "04976",
+        "phone_number": "2074745121",
+        "provider_id": "201314",
+        "state": "ME",
+        "zip_code": "04976"
+    },
+    {
+        "address": "200 SOMERSET STREET",
+        "city": "MILLINOCKET",
+        "county_name": "PENOBSCOT",
+        "emergency_services": true,
+        "hospital_name": "MILLINOCKET REGIONAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -68.71425,
+                45.651649
+            ],
+            "type": "Point"
+        },
+        "location_address": "200 SOMERSET STREET",
+        "location_city": "MILLINOCKET",
+        "location_state": "ME",
+        "location_zip": "04462",
+        "phone_number": "2077235161",
+        "provider_id": "201307",
+        "state": "ME",
+        "zip_code": "04462"
+    },
+    {
+        "address": "420 FRANKLIN STREET",
+        "city": "RUMFORD",
+        "county_name": "OXFORD",
+        "emergency_services": true,
+        "hospital_name": "RUMFORD  HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -70.557148,
+                44.551703
+            ],
+            "type": "Point"
+        },
+        "location_address": "420 FRANKLIN STREET",
+        "location_city": "RUMFORD",
+        "location_state": "ME",
+        "location_zip": "04276",
+        "phone_number": "2073691000",
+        "provider_id": "201306",
+        "state": "ME",
+        "zip_code": "04276"
+    },
+    {
+        "address": "7 TRANSALPINE ROAD, PO BOX 368",
+        "city": "LINCOLN",
+        "county_name": "PENOBSCOT",
+        "emergency_services": true,
+        "hospital_name": "PENOBSCOT VALLEY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -68.516256,
+                45.348731
+            ],
+            "type": "Point"
+        },
+        "location_address": "7 TRANSALPINE ROAD, PO BOX 368",
+        "location_city": "LINCOLN",
+        "location_state": "ME",
+        "location_zip": "04457",
+        "phone_number": "2077943321",
+        "provider_id": "201303",
+        "state": "ME",
+        "zip_code": "04457"
+    },
+    {
+        "address": "300 MAIN STREET",
+        "city": "LEWISTON",
+        "county_name": "ANDROSCOGGIN",
+        "emergency_services": true,
+        "hospital_name": "CENTRAL MAINE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.214705,
+                44.100829
+            ],
+            "type": "Point"
+        },
+        "location_address": "300 MAIN STREET",
+        "location_city": "LEWISTON",
+        "location_state": "ME",
+        "location_zip": "04240",
+        "phone_number": "2077950111",
+        "provider_id": "200024",
+        "state": "ME",
+        "zip_code": "04240"
+    },
+    {
+        "address": "144 STATE STREET",
+        "city": "PORTLAND",
+        "county_name": "CUMBERLAND",
+        "emergency_services": true,
+        "hospital_name": "MERCY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.265322,
+                43.652114
+            ],
+            "type": "Point"
+        },
+        "location_address": "144 STATE STREET",
+        "location_city": "PORTLAND",
+        "location_state": "ME",
+        "location_zip": "04101",
+        "phone_number": "2078793000",
+        "provider_id": "200008",
+        "state": "ME",
+        "zip_code": "04101"
+    },
+    {
+        "address": "111 FRANKLIN HEALTH COMMONS",
+        "city": "FARMINGTON",
+        "county_name": "FRANKLIN",
+        "emergency_services": true,
+        "hospital_name": "FRANKLIN MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.161349,
+                44.625239
+            ],
+            "type": "Point"
+        },
+        "location_address": "111 FRANKLIN HEALTH COMMONS",
+        "location_city": "FARMINGTON",
+        "location_state": "ME",
+        "location_zip": "04938",
+        "phone_number": "2077786031",
+        "provider_id": "200037",
+        "state": "ME",
+        "zip_code": "04938"
+    },
+    {
+        "address": "897 WEST MAIN STREET",
+        "city": "DOVER FOXCROFT",
+        "county_name": "PISCATAQUIS",
+        "emergency_services": true,
+        "hospital_name": "MAYO REGIONAL HOSPITAL",
+        "hospital_ownership": "Government - Hospital District or Authority",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -69.237847,
+                45.186557
+            ],
+            "type": "Point"
+        },
+        "location_address": "897 WEST MAIN STREET",
+        "location_city": "DOVER FOXCROFT",
+        "location_state": "ME",
+        "location_zip": "04426",
+        "phone_number": "2075644251",
+        "provider_id": "201309",
+        "state": "ME",
+        "zip_code": "04426"
+    },
+    {
+        "address": "PO BOX 151",
+        "city": "PRESQUE ISLE",
+        "county_name": "AROOSTOOK",
+        "emergency_services": true,
+        "hospital_name": "AROOSTOOK MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "PO BOX 151",
+        "location_city": "PRESQUE ISLE",
+        "location_state": "ME",
+        "location_zip": "04769",
+        "phone_number": "2077684000",
+        "provider_id": "200018",
+        "state": "ME",
+        "zip_code": "04769"
+    },
+    {
+        "address": "200 KENNEDY MEMORIAL DRIVE",
+        "city": "WATERVILLE",
+        "county_name": "KENNEBEC",
+        "emergency_services": true,
+        "hospital_name": "INLAND HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -69.661405,
+                44.54269
+            ],
+            "type": "Point"
+        },
+        "location_address": "200 KENNEDY MEMORIAL DRIVE",
+        "location_city": "WATERVILLE",
+        "location_state": "ME",
+        "location_zip": "04901",
+        "phone_number": "2078613012",
+        "provider_id": "200041",
+        "state": "ME",
+        "zip_code": "04901"
+    },
+    {
+        "address": "329 MAIN ST",
+        "city": "BRUNSWICK",
+        "county_name": "CUMBERLAND",
+        "emergency_services": true,
+        "hospital_name": "PARKVIEW ADVENTIST MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -69.970038,
+                43.895968
+            ],
+            "type": "Point"
+        },
+        "location_address": "329 MAIN ST",
+        "location_city": "BRUNSWICK",
+        "location_state": "ME",
+        "location_zip": "04011",
+        "phone_number": "2073732000",
+        "provider_id": "200025",
+        "state": "ME",
+        "zip_code": "04011"
+    },
+    {
+        "address": "CAMPUS AVENUE - PO BOX 291 (HOSPITAL)",
+        "city": "LEWISTON",
+        "county_name": "ANDROSCOGGIN",
+        "emergency_services": true,
+        "hospital_name": "ST MARYS REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "CAMPUS AVENUE - PO BOX 291 (HOSPITAL)",
+        "location_city": "LEWISTON",
+        "location_state": "ME",
+        "location_zip": "04240",
+        "phone_number": "2077778100",
+        "provider_id": "200034",
+        "state": "ME",
+        "zip_code": "04240"
+    },
+    {
+        "address": "194 E MAIN STREET",
+        "city": "FORT KENT",
+        "county_name": "AROOSTOOK",
+        "emergency_services": true,
+        "hospital_name": "NORTHERN MAINE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -68.593828,
+                47.251498
+            ],
+            "type": "Point"
+        },
+        "location_address": "194 E MAIN STREET",
+        "location_city": "FORT KENT",
+        "location_state": "ME",
+        "location_zip": "04743",
+        "phone_number": "2078343195",
+        "provider_id": "200052",
+        "state": "ME",
+        "zip_code": "04743"
+    },
+    {
+        "address": "35 MEDICAL CENTER PARKWAY",
+        "city": "AUGUSTA",
+        "county_name": "KENNEBEC",
+        "emergency_services": true,
+        "hospital_name": "MAINEGENERAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -69.782828,
+                44.360834
+            ],
+            "type": "Point"
+        },
+        "location_address": "35 MEDICAL CENTER PARKWAY",
+        "location_city": "AUGUSTA",
+        "location_state": "ME",
+        "location_zip": "04330",
+        "phone_number": "2078721000",
+        "provider_id": "200039",
+        "state": "ME",
+        "zip_code": "04330"
+    },
+    {
+        "address": "57 WATER STREET",
+        "city": "BLUE HILL",
+        "county_name": "HANCOCK",
+        "emergency_services": true,
+        "hospital_name": "BLUE HILL MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -68.587812,
+                44.41293
+            ],
+            "type": "Point"
+        },
+        "location_address": "57 WATER STREET",
+        "location_city": "BLUE HILL",
+        "location_state": "ME",
+        "location_zip": "04614",
+        "phone_number": "2073742836",
+        "provider_id": "201300",
+        "state": "ME",
+        "zip_code": "04614"
+    },
+    {
+        "address": "10 HOSPITAL DRIVE",
+        "city": "BRIDGTON",
+        "county_name": "CUMBERLAND",
+        "emergency_services": true,
+        "hospital_name": "BRIDGTON HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -70.714224,
+                44.046523
+            ],
+            "type": "Point"
+        },
+        "location_address": "10 HOSPITAL DRIVE",
+        "location_city": "BRIDGTON",
+        "location_state": "ME",
+        "location_zip": "04009",
+        "phone_number": "2076476000",
+        "provider_id": "201310",
+        "state": "ME",
+        "zip_code": "04009"
+    },
+    {
+        "address": "35 MILES STREET",
+        "city": "DAMARISCOTTA",
+        "county_name": "LINCOLN",
+        "emergency_services": true,
+        "hospital_name": "ST ANDREWS HOSPITAL (LINCOLN COUNTY HEALTHCARE)",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -69.528109,
+                44.026133
+            ],
+            "type": "Point"
+        },
+        "location_address": "35 MILES STREET",
+        "location_city": "DAMARISCOTTA",
+        "location_state": "ME",
+        "location_zip": "04543",
+        "phone_number": "2075631234",
+        "provider_id": "201302",
+        "state": "ME",
+        "zip_code": "04543"
+    },
+    {
+        "address": "123 MEDICAL CENTER DRIVE",
+        "city": "BRUNSWICK",
+        "county_name": "CUMBERLAND",
+        "emergency_services": true,
+        "hospital_name": "MID COAST HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -69.892004,
+                43.905666
+            ],
+            "type": "Point"
+        },
+        "location_address": "123 MEDICAL CENTER DRIVE",
+        "location_city": "BRUNSWICK",
+        "location_state": "ME",
+        "location_zip": "04011",
+        "phone_number": "2077290181",
+        "provider_id": "200021",
+        "state": "ME",
+        "zip_code": "04011"
+    },
+    {
+        "address": "6 GLEN COVE DRIVE",
+        "city": "ROCKPORT",
+        "county_name": "KNOX",
+        "emergency_services": true,
+        "hospital_name": "PENOBSCOT BAY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -69.087853,
+                44.145848
+            ],
+            "type": "Point"
+        },
+        "location_address": "6 GLEN COVE DRIVE",
+        "location_city": "ROCKPORT",
+        "location_state": "ME",
+        "location_zip": "04856",
+        "phone_number": "2075968000",
+        "provider_id": "200063",
+        "state": "ME",
+        "zip_code": "04856"
+    },
+    {
+        "address": "11 HOSPITAL DRIVE",
+        "city": "MACHIAS",
+        "county_name": "WASHINGTON",
+        "emergency_services": false,
+        "hospital_name": "DOWN EAST COMMUNITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -67.47715,
+                44.71349
+            ],
+            "type": "Point"
+        },
+        "location_address": "11 HOSPITAL DRIVE",
+        "location_city": "MACHIAS",
+        "location_state": "ME",
+        "location_zip": "04654",
+        "phone_number": "2072553356",
+        "provider_id": "201311",
+        "state": "ME",
+        "zip_code": "04654"
+    },
+    {
+        "address": "360 BROADWAY",
+        "city": "BANGOR",
+        "county_name": "PENOBSCOT",
+        "emergency_services": true,
+        "hospital_name": "ST JOSEPH HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -68.77049,
+                44.813055
+            ],
+            "type": "Point"
+        },
+        "location_address": "360 BROADWAY",
+        "location_city": "BANGOR",
+        "location_state": "ME",
+        "location_zip": "04401",
+        "phone_number": "2072621000",
+        "provider_id": "200001",
+        "state": "ME",
+        "zip_code": "04401"
+    },
+    {
+        "address": "22 BRAMHALL ST",
+        "city": "PORTLAND",
+        "county_name": "CUMBERLAND",
+        "emergency_services": true,
+        "hospital_name": "MAINE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.27494,
+                43.652311
+            ],
+            "type": "Point"
+        },
+        "location_address": "22 BRAMHALL ST",
+        "location_city": "PORTLAND",
+        "location_state": "ME",
+        "location_zip": "04102",
+        "phone_number": "2076620111",
+        "provider_id": "200009",
+        "state": "ME",
+        "zip_code": "04102"
+    },
+    {
+        "address": "PRITHAM AVENUE PO BOX 1129",
+        "city": "GREENVILLE",
+        "county_name": "PISCATAQUIS",
+        "emergency_services": false,
+        "hospital_name": "CHARLES A DEAN MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "PRITHAM AVENUE PO BOX 1129",
+        "location_city": "GREENVILLE",
+        "location_state": "ME",
+        "location_zip": "04441",
+        "phone_number": "2076955200",
+        "provider_id": "201301",
+        "state": "ME",
+        "zip_code": "04441"
+    },
+    {
+        "address": "50 UNION STREET",
+        "city": "ELLSWORTH",
+        "county_name": "HANCOCK",
+        "emergency_services": true,
+        "hospital_name": "MAINE COAST MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -68.415371,
+                44.546828
+            ],
+            "type": "Point"
+        },
+        "location_address": "50 UNION STREET",
+        "location_city": "ELLSWORTH",
+        "location_state": "ME",
+        "location_zip": "04605",
+        "phone_number": "2076675311",
+        "provider_id": "200050",
+        "state": "ME",
+        "zip_code": "04605"
+    },
+    {
+        "address": "181 MAIN STREET",
+        "city": "NORWAY",
+        "county_name": "OXFORD",
+        "emergency_services": true,
+        "hospital_name": "STEPHENS MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -70.532997,
+                44.209597
+            ],
+            "type": "Point"
+        },
+        "location_address": "181 MAIN STREET",
+        "location_city": "NORWAY",
+        "location_state": "ME",
+        "location_zip": "04268",
+        "phone_number": "2077435933",
+        "provider_id": "201315",
+        "state": "ME",
+        "zip_code": "04268"
+    },
+    {
+        "address": "20 HARTFORD STREET",
+        "city": "HOULTON",
+        "county_name": "AROOSTOOK",
+        "emergency_services": true,
+        "hospital_name": "HOULTON REGIONAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -67.843332,
+                46.131562
+            ],
+            "type": "Point"
+        },
+        "location_address": "20 HARTFORD STREET",
+        "location_city": "HOULTON",
+        "location_state": "ME",
+        "location_zip": "04730",
+        "phone_number": "2075322900",
+        "provider_id": "201308",
+        "state": "ME",
+        "zip_code": "04730"
+    },
+    {
+        "address": "163 VAN BUREN RD, SUITE 1",
+        "city": "CARIBOU",
+        "county_name": "AROOSTOOK",
+        "emergency_services": true,
+        "hospital_name": "CARY MEDICAL CENTER",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -68.010306,
+                46.878905
+            ],
+            "type": "Point"
+        },
+        "location_address": "163 VAN BUREN RD, SUITE 1",
+        "location_city": "CARIBOU",
+        "location_state": "ME",
+        "location_zip": "04736",
+        "phone_number": "2074983111",
+        "provider_id": "200031",
+        "state": "ME",
+        "zip_code": "04736"
+    },
+    {
+        "address": "1 MEDICAL CENTER DRIVE",
+        "city": "BIDDEFORD",
+        "county_name": "YORK",
+        "emergency_services": true,
+        "hospital_name": "SOUTHERN MAINE HEALTH CARE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.492262,
+                43.478662
+            ],
+            "type": "Point"
+        },
+        "location_address": "1 MEDICAL CENTER DRIVE",
+        "location_city": "BIDDEFORD",
+        "location_state": "ME",
+        "location_zip": "04005",
+        "phone_number": "2072837000",
+        "provider_id": "200019",
+        "state": "ME",
+        "zip_code": "04005"
+    }
+]

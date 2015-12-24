@@ -1,1345 +1,1492 @@
-[ {
-  "hospital_name" : "HACKENSACK UNIVERSITY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2019962000"
-  },
-  "zip_code" : "07601",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.05778420499996",
-    "latitude" : "40.88432937300007",
-    "human_address" : "{\"address\":\"30 PROSPECT AVE\",\"city\":\"HACKENSACK\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "30 PROSPECT AVE",
-  "provider_id" : "310001",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "BERGEN",
-  "city" : "HACKENSACK"
-}
-, {
-  "hospital_name" : "NEWARK BETH ISRAEL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9739267850"
-  },
-  "zip_code" : "07112",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.21350068399994",
-    "latitude" : "40.70992869200006",
-    "human_address" : "{\"address\":\"201 LYONS AVE\",\"city\":\"NEWARK\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "201 LYONS AVE",
-  "provider_id" : "310002",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "ESSEX",
-  "city" : "NEWARK"
-}
-, {
-  "hospital_name" : "PALISADES MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2018545000"
-  },
-  "zip_code" : "07047",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-73.99749190599994",
-    "latitude" : "40.79342482800007",
-    "human_address" : "{\"address\":\"7600 RIVER RD\",\"city\":\"NORTH BERGEN\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "7600 RIVER RD",
-  "provider_id" : "310003",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "HUDSON",
-  "city" : "NORTH BERGEN"
-}
-, {
-  "hospital_name" : "HUNTERDON MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9087886100"
-  },
-  "zip_code" : "08822",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.86045215699994",
-    "latitude" : "40.53261207500003",
-    "human_address" : "{\"address\":\"2100 WESCOTT DRIVE\",\"city\":\"FLEMINGTON\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "2100 WESCOTT DRIVE",
-  "provider_id" : "310005",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "HUNTERDON",
-  "city" : "FLEMINGTON"
-}
-, {
-  "hospital_name" : "ST MARY'S HOSPITAL, PASSAIC",
-  "phone_number" : {
-    "phone_number" : "9733654300"
-  },
-  "zip_code" : "07055",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.13723244099998",
-    "latitude" : "40.85832318700005",
-    "human_address" : "{\"address\":\"350 BOULEVARD\",\"city\":\"PASSAIC\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "350 BOULEVARD",
-  "provider_id" : "310006",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "PASSAIC",
-  "city" : "PASSAIC"
-}
-, {
-  "hospital_name" : "HOLY NAME MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2018333000"
-  },
-  "zip_code" : "07666",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.00876928799994",
-    "latitude" : "40.882178182000075",
-    "human_address" : "{\"address\":\"718 TEANECK RD\",\"city\":\"TEANECK\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "718 TEANECK RD",
-  "provider_id" : "310008",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "BERGEN",
-  "city" : "TEANECK"
-}
-, {
-  "hospital_name" : "CLARA MAASS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9734502002"
-  },
-  "zip_code" : "07109",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.17616127499997",
-    "latitude" : "40.784229604000075",
-    "human_address" : "{\"address\":\"ONE CLARA MAAS DRIVE\",\"city\":\"BELLEVILLE\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "ONE CLARA MAAS DRIVE",
-  "provider_id" : "310009",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "ESSEX",
-  "city" : "BELLEVILLE"
-}
-, {
-  "hospital_name" : "UNIV MEDICAL CENTER OF PRINCETON AT PLAINSBORO",
-  "phone_number" : {
-    "phone_number" : "8664604776"
-  },
-  "zip_code" : "08536",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.59584884499998",
-    "latitude" : "40.33405253300003",
-    "human_address" : "{\"address\":\"ONE-FIVE PLAINSBORO ROAD\",\"city\":\"PLAINSBORO\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "ONE-FIVE PLAINSBORO ROAD",
-  "provider_id" : "310010",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MIDDLESEX",
-  "city" : "PLAINSBORO"
-}
-, {
-  "hospital_name" : "CAPE REGIONAL MEDICAL CENTER INC",
-  "phone_number" : {
-    "phone_number" : "6094632000"
-  },
-  "zip_code" : "08210",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.81855355399995",
-    "latitude" : "39.08738613700007",
-    "human_address" : "{\"address\":\"TWO STONE HARBOR BLVD\",\"city\":\"CAPE MAY COURT HOUSE\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "TWO STONE HARBOR BLVD",
-  "provider_id" : "310011",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "CAPE MAY",
-  "city" : "CAPE MAY COURT HOUSE"
-}
-, {
-  "hospital_name" : "VALLEY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2014478000"
-  },
-  "zip_code" : "07450",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.10174690799994",
-    "latitude" : "40.98300975500007",
-    "human_address" : "{\"address\":\"223 N VAN DIEN AVENUE\",\"city\":\"RIDGEWOOD\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "223 N VAN DIEN AVENUE",
-  "provider_id" : "310012",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "BERGEN",
-  "city" : "RIDGEWOOD"
-}
-, {
-  "hospital_name" : "COOPER UNIVERSITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "8563422000"
-  },
-  "zip_code" : "08103",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-75.11566790299997",
-    "latitude" : "39.94084938900005",
-    "human_address" : "{\"address\":\"1 COOPER PLAZA\",\"city\":\"CAMDEN\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "1 COOPER PLAZA",
-  "provider_id" : "310014",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "CAMDEN",
-  "city" : "CAMDEN"
-}
-, {
-  "hospital_name" : "MORRISTOWN MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9739715450"
-  },
-  "zip_code" : "07962",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.46562741299994",
-    "latitude" : "40.788068028000055",
-    "human_address" : "{\"address\":\"100 MADISON AVE\",\"city\":\"MORRISTOWN\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "100 MADISON AVE",
-  "provider_id" : "310015",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MORRIS",
-  "city" : "MORRISTOWN"
-}
-, {
-  "hospital_name" : "CAREPOINT HEALTH-CHRIST HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2017958200"
-  },
-  "zip_code" : "07306",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.05035283399997",
-    "latitude" : "40.73449252700004",
-    "human_address" : "{\"address\":\"176 PALISADE AVE\",\"city\":\"JERSEY CITY\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "176 PALISADE AVE",
-  "provider_id" : "310016",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "HUDSON",
-  "city" : "JERSEY CITY"
-}
-, {
-  "hospital_name" : "CHILTON MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9738315000"
-  },
-  "zip_code" : "07444",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.30787399199994",
-    "latitude" : "40.958668954000075",
-    "human_address" : "{\"address\":\"97 WEST PARKWAY\",\"city\":\"POMPTON PLAINS\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "97 WEST PARKWAY",
-  "provider_id" : "310017",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MORRIS",
-  "city" : "POMPTON PLAINS"
-}
-, {
-  "hospital_name" : "ST JOSEPH'S REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9737542010"
-  },
-  "zip_code" : "07503",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.16578671399998",
-    "latitude" : "40.90145927300006",
-    "human_address" : "{\"address\":\"703 MAIN ST\",\"city\":\"PATERSON\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "703 MAIN ST",
-  "provider_id" : "310019",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "PASSAIC",
-  "city" : "PATERSON"
-}
-, {
-  "hospital_name" : "VA NEW JERSEY HEALTH CARE SYSTEM",
-  "phone_number" : {
-    "phone_number" : "9736761000"
-  },
-  "zip_code" : "07018",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.24368613399997",
-    "latitude" : "40.759235474000036",
-    "human_address" : "{\"address\":\"385 TREMONT AVENUE\",\"city\":\"EAST ORANGE\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "385 TREMONT AVENUE",
-  "provider_id" : "31001F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "NJ",
-  "emergency_services" : false,
-  "county_name" : "ESSEX",
-  "city" : "EAST ORANGE"
-}
-, {
-  "hospital_name" : "ST FRANCIS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "6095995000"
-  },
-  "zip_code" : "08629",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.74197427299998",
-    "latitude" : "40.21726317900004",
-    "human_address" : "{\"address\":\"601 HAMILTON AVE\",\"city\":\"TRENTON\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "601 HAMILTON AVE",
-  "provider_id" : "310021",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MERCER",
-  "city" : "TRENTON"
-}
-, {
-  "hospital_name" : "VIRTUA WEST JERSEY HOSPITALS BERLIN",
-  "phone_number" : {
-    "phone_number" : "8563223200"
-  },
-  "zip_code" : "08009",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.91831557399996",
-    "latitude" : "39.783770694000054",
-    "human_address" : "{\"address\":\"WHITEHORSE PIKE AND TOWNSEND AVENUE\",\"city\":\"BERLIN\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "WHITEHORSE PIKE AND TOWNSEND AVENUE",
-  "provider_id" : "310022",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "CAMDEN",
-  "city" : "BERLIN"
-}
-, {
-  "hospital_name" : "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL AT RAHWAY",
-  "phone_number" : {
-    "phone_number" : "7323814200"
-  },
-  "zip_code" : "07065",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.29029708499996",
-    "latitude" : "40.612047604000054",
-    "human_address" : "{\"address\":\"865 STONE ST\",\"city\":\"RAHWAY\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "865 STONE ST",
-  "provider_id" : "310024",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "UNION",
-  "city" : "RAHWAY"
-}
-, {
-  "hospital_name" : "CAREPOINT HEALTH - BAYONNE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2018585000"
-  },
-  "zip_code" : "07002",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.11554778699997",
-    "latitude" : "40.66917658400007",
-    "human_address" : "{\"address\":\"29 EAST 29TH ST\",\"city\":\"BAYONNE\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "29 EAST 29TH ST",
-  "provider_id" : "310025",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "HUDSON",
-  "city" : "BAYONNE"
-}
-, {
-  "hospital_name" : "TRINITAS REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9089945000"
-  },
-  "zip_code" : "07207",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.21441777499996",
-    "latitude" : "40.65953942400006",
-    "human_address" : "{\"address\":\"225 WILLIAMSON STREET\",\"city\":\"ELIZABETH\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "225 WILLIAMSON STREET",
-  "provider_id" : "310027",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "UNION",
-  "city" : "ELIZABETH"
-}
-, {
-  "hospital_name" : "NEWTON MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9735798300"
-  },
-  "zip_code" : "07860",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.76507406599995",
-    "latitude" : "41.05561618400003",
-    "human_address" : "{\"address\":\"175 HIGH ST\",\"city\":\"NEWTON\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "175 HIGH ST",
-  "provider_id" : "310028",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "SUSSEX",
-  "city" : "NEWTON"
-}
-, {
-  "hospital_name" : "OUR LADY OF LOURDES MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "8567573500"
-  },
-  "zip_code" : "08103",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-75.09523519999993",
-    "latitude" : "39.92672441900004",
-    "human_address" : "{\"address\":\"1600 HADDON AVENUE\",\"city\":\"CAMDEN\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "1600 HADDON AVENUE",
-  "provider_id" : "310029",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "CAMDEN",
-  "city" : "CAMDEN"
-}
-, {
-  "hospital_name" : "DEBORAH HEART AND LUNG CENTER",
-  "phone_number" : {
-    "phone_number" : "6098936611"
-  },
-  "zip_code" : "08015",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.58564121499995",
-    "latitude" : "39.97642479600006",
-    "human_address" : "{\"address\":\"200 TRENTON ROAD\",\"city\":\"BROWNS MILLS\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "200 TRENTON ROAD",
-  "provider_id" : "310031",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : false,
-  "county_name" : "BURLINGTON",
-  "city" : "BROWNS MILLS"
-}
-, {
-  "hospital_name" : "INSPIRA MEDICAL CENTER VINELAND",
-  "phone_number" : {
-    "phone_number" : "8566416610"
-  },
-  "zip_code" : "08360",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-75.05916173599996",
-    "latitude" : "39.44750320600008",
-    "human_address" : "{\"address\":\"1505 W SHERMAN AVE\",\"city\":\"VINELAND\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "1505 W SHERMAN AVE",
-  "provider_id" : "310032",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "CUMBERLAND",
-  "city" : "VINELAND"
-}
-, {
-  "hospital_name" : "RIVERVIEW MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7327412700"
-  },
-  "zip_code" : "07701",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.06422093099997",
-    "latitude" : "40.35323008200004",
-    "human_address" : "{\"address\":\"ONE RIVERVIEW PLAZA\",\"city\":\"RED BANK\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "ONE RIVERVIEW PLAZA",
-  "provider_id" : "310034",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MONMOUTH",
-  "city" : "RED BANK"
-}
-, {
-  "hospital_name" : "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7329378900"
-  },
-  "zip_code" : "08901",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.45062853199994",
-    "latitude" : "40.49573818600004",
-    "human_address" : "{\"address\":\"ONE ROBERT WOOD JOHNSON PL\",\"city\":\"NEW BRUNSWICK\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "ONE ROBERT WOOD JOHNSON PL",
-  "provider_id" : "310038",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MIDDLESEX",
-  "city" : "NEW BRUNSWICK"
-}
-, {
-  "hospital_name" : "RARITAN BAY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7324423700"
-  },
-  "zip_code" : "08861",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.28148145599994",
-    "latitude" : "40.51888786500007",
-    "human_address" : "{\"address\":\"530 NEW BRUNSWICK AVE\",\"city\":\"PERTH AMBOY\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "530 NEW BRUNSWICK AVE",
-  "provider_id" : "310039",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MIDDLESEX",
-  "city" : "PERTH AMBOY"
-}
-, {
-  "hospital_name" : "CAREPOINT HEALTH-HOBOKEN UNIVERSITY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2018218701"
-  },
-  "zip_code" : "07030",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.03368748099996",
-    "latitude" : "40.74084817000005",
-    "human_address" : "{\"address\":\"308 WILLOW AVE\",\"city\":\"HOBOKEN\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "308 WILLOW AVE",
-  "provider_id" : "310040",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "HUDSON",
-  "city" : "HOBOKEN"
-}
-, {
-  "hospital_name" : "COMMUNITY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7325578000"
-  },
-  "zip_code" : "08755",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.21643466899997",
-    "latitude" : "39.965403181000056",
-    "human_address" : "{\"address\":\"99 RT 37 WEST\",\"city\":\"TOMS RIVER\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "99 RT 37 WEST",
-  "provider_id" : "310041",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "OCEAN",
-  "city" : "TOMS RIVER"
-}
-, {
-  "hospital_name" : "CAPITAL HEALTH MEDICAL CENTER - HOPEWELL",
-  "phone_number" : {
-    "phone_number" : "6093034000"
-  },
-  "zip_code" : "08534",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.80672615799995",
-    "latitude" : "40.29351946200006",
-    "human_address" : "{\"address\":\"ONE CAPITAL WAY\",\"city\":\"PENNINGTON\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "ONE CAPITAL WAY",
-  "provider_id" : "310044",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MERCER",
-  "city" : "PENNINGTON"
-}
-, {
-  "hospital_name" : "ENGLEWOOD HOSPITAL AND MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2018943000"
-  },
-  "zip_code" : "07631",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-73.96704481599994",
-    "latitude" : "40.904826710000066",
-    "human_address" : "{\"address\":\"350 ENGLE ST\",\"city\":\"ENGLEWOOD\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "350 ENGLE ST",
-  "provider_id" : "310045",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "BERGEN",
-  "city" : "ENGLEWOOD"
-}
-, {
-  "hospital_name" : "SHORE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "6096533545"
-  },
-  "zip_code" : "08244",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.59659573099998",
-    "latitude" : "39.31287391300003",
-    "human_address" : "{\"address\":\"100 MEDICAL CENTER WAY\",\"city\":\"SOMERS POINT\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "100 MEDICAL CENTER WAY",
-  "provider_id" : "310047",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "ATLANTIC",
-  "city" : "SOMERS POINT"
-}
-, {
-  "hospital_name" : "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL SOMERSET",
-  "phone_number" : {
-    "phone_number" : "9086852200"
-  },
-  "zip_code" : "08876",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.59578658299995",
-    "latitude" : "40.56838073200004",
-    "human_address" : "{\"address\":\"110 REHILL AVE\",\"city\":\"SOMERVILLE\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "110 REHILL AVE",
-  "provider_id" : "310048",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "SOMERSET",
-  "city" : "SOMERVILLE"
-}
-, {
-  "hospital_name" : "SAINT CLARE'S HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9736256000"
-  },
-  "zip_code" : "07834",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.46499107499994",
-    "latitude" : "40.89438776000003",
-    "human_address" : "{\"address\":\"25 POCONO ROAD\",\"city\":\"DENVILLE\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "25 POCONO ROAD",
-  "provider_id" : "310050",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MORRIS",
-  "city" : "DENVILLE"
-}
-, {
-  "hospital_name" : "OVERLOOK MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9085222000"
-  },
-  "zip_code" : "07902",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.35404842799994",
-    "latitude" : "40.71234444400005",
-    "human_address" : "{\"address\":\"99 BEAUVOIR AVENUE\",\"city\":\"SUMMIT\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "99 BEAUVOIR AVENUE",
-  "provider_id" : "310051",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "UNION",
-  "city" : "SUMMIT"
-}
-, {
-  "hospital_name" : "OCEAN MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7328402200"
-  },
-  "zip_code" : "08724",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.12976463999996",
-    "latitude" : "40.078334865000045",
-    "human_address" : "{\"address\":\"425 JACK MARTIN BLVD\",\"city\":\"BRICK\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "425 JACK MARTIN BLVD",
-  "provider_id" : "310052",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "OCEAN",
-  "city" : "BRICK"
-}
-, {
-  "hospital_name" : "HACKENSACK-UMC MOUNTAINSIDE",
-  "phone_number" : {
-    "phone_number" : "9734296000"
-  },
-  "zip_code" : "07042",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.21227890099993",
-    "latitude" : "40.81208121000003",
-    "human_address" : "{\"address\":\"BAY AND HIGHLAND AVE\",\"city\":\"MONTCLAIR\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "BAY AND HIGHLAND AVE",
-  "provider_id" : "310054",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "ESSEX",
-  "city" : "MONTCLAIR"
-}
-, {
-  "hospital_name" : "VIRTUA MEMORIAL HOSPITAL OF BURLINGTON COUNTY",
-  "phone_number" : {
-    "phone_number" : "6099146200"
-  },
-  "zip_code" : "08060",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.79550006799997",
-    "latitude" : "39.98627676700005",
-    "human_address" : "{\"address\":\"175 MADISON AVE\",\"city\":\"MOUNT HOLLY\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "175 MADISON AVE",
-  "provider_id" : "310057",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "BURLINGTON",
-  "city" : "MOUNT HOLLY"
-}
-, {
-  "hospital_name" : "BERGEN REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2019674000"
-  },
-  "zip_code" : "07652",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.06177799499994",
-    "latitude" : "40.95846946200004",
-    "human_address" : "{\"address\":\"230 EAST RIDGEWOOD AVE\",\"city\":\"PARAMUS\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "230 EAST RIDGEWOOD AVE",
-  "provider_id" : "310058",
-  "hospital_ownership" : "Government - Local",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "BERGEN",
-  "city" : "PARAMUS"
-}
-, {
-  "hospital_name" : "ST LUKE'S WARREN HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9088596700"
-  },
-  "zip_code" : "08865",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-75.17941156099994",
-    "latitude" : "40.70133792200005",
-    "human_address" : "{\"address\":\"185 ROSEBERRY ST\",\"city\":\"PHILLIPSBURG\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "185 ROSEBERRY ST",
-  "provider_id" : "310060",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "WARREN",
-  "city" : "PHILLIPSBURG"
-}
-, {
-  "hospital_name" : "LOURDES MEDICAL CENTER OF BURLINGTON COUNTY",
-  "phone_number" : {
-    "phone_number" : "6098352900"
-  },
-  "zip_code" : "08046",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.88292370599999",
-    "latitude" : "40.048536771000045",
-    "human_address" : "{\"address\":\"218A SUNSET ROAD\",\"city\":\"WILLINGBORO\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "218A SUNSET ROAD",
-  "provider_id" : "310061",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "BURLINGTON",
-  "city" : "WILLINGBORO"
-}
-, {
-  "hospital_name" : "ATLANTICARE REGIONAL MEDICAL CENTER - CITY DIV",
-  "phone_number" : {
-    "phone_number" : "6094418020"
-  },
-  "zip_code" : "08401",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.43368505899997",
-    "latitude" : "39.357907511000064",
-    "human_address" : "{\"address\":\"1925 PACIFIC AVE\",\"city\":\"ATLANTIC CITY\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "1925 PACIFIC AVE",
-  "provider_id" : "310064",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "ATLANTIC",
-  "city" : "ATLANTIC CITY"
-}
-, {
-  "hospital_name" : "INSPIRA MEDICAL CENTER ELMER",
-  "phone_number" : {
-    "phone_number" : "8563631000"
-  },
-  "zip_code" : "08318",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-75.17948991599997",
-    "latitude" : "39.58811615600007",
-    "human_address" : "{\"address\":\"501 WEST FRONT STREET\",\"city\":\"ELMER\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "501 WEST FRONT STREET",
-  "provider_id" : "310069",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "SALEM",
-  "city" : "ELMER"
-}
-, {
-  "hospital_name" : "SAINT PETER'S UNIVERSITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7327458600"
-  },
-  "zip_code" : "08901",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.45909023899998",
-    "latitude" : "40.50181456400003",
-    "human_address" : "{\"address\":\"254 EASTON AVE\",\"city\":\"NEW BRUNSWICK\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "254 EASTON AVE",
-  "provider_id" : "310070",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MIDDLESEX",
-  "city" : "NEW BRUNSWICK"
-}
-, {
-  "hospital_name" : "JERSEY SHORE UNIVERSITY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7327764900"
-  },
-  "zip_code" : "07754",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.04211076299998",
-    "latitude" : "40.207313949000024",
-    "human_address" : "{\"address\":\"1945 RTE 33\",\"city\":\"NEPTUNE\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "1945 RTE 33",
-  "provider_id" : "310073",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MONMOUTH",
-  "city" : "NEPTUNE"
-}
-, {
-  "hospital_name" : "JERSEY CITY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2019152000"
-  },
-  "zip_code" : "07302",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.05067432099997",
-    "latitude" : "40.71673355900003",
-    "human_address" : "{\"address\":\"355 GRAND STREET\",\"city\":\"JERSEY CITY\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "355 GRAND STREET",
-  "provider_id" : "310074",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "HUDSON",
-  "city" : "JERSEY CITY"
-}
-, {
-  "hospital_name" : "MONMOUTH MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7322225200"
-  },
-  "zip_code" : "07740",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-73.98364493499997",
-    "latitude" : "40.29546739400007",
-    "human_address" : "{\"address\":\"300 SECOND AVENUE\",\"city\":\"LONG BRANCH\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "300 SECOND AVENUE",
-  "provider_id" : "310075",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MONMOUTH",
-  "city" : "LONG BRANCH"
-}
-, {
-  "hospital_name" : "SAINT BARNABAS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9733225000"
-  },
-  "zip_code" : "07039",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.30260595599998",
-    "latitude" : "40.76345355500007",
-    "human_address" : "{\"address\":\"94 OLD SHORT HILLS ROAD\",\"city\":\"LIVINGSTON\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "94 OLD SHORT HILLS ROAD",
-  "provider_id" : "310076",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "ESSEX",
-  "city" : "LIVINGSTON"
-}
-, {
-  "hospital_name" : "INSPIRA MEDICAL CENTER WOODBURY",
-  "phone_number" : {
-    "phone_number" : "8568450100"
-  },
-  "zip_code" : "08096",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-75.14886341799996",
-    "latitude" : "39.84383168900007",
-    "human_address" : "{\"address\":\"509 N BROAD ST\",\"city\":\"WOODBURY\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "509 N BROAD ST",
-  "provider_id" : "310081",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "GLOUCESTER",
-  "city" : "WOODBURY"
-}
-, {
-  "hospital_name" : "EAST ORANGE GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9732664401"
-  },
-  "zip_code" : "07018",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.21378326799999",
-    "latitude" : "40.754095145000065",
-    "human_address" : "{\"address\":\"300 CENTRAL AVE\",\"city\":\"EAST ORANGE\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "300 CENTRAL AVE",
-  "provider_id" : "310083",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "ESSEX",
-  "city" : "EAST ORANGE"
-}
-, {
-  "hospital_name" : "MONMOUTH MEDICAL CENTER-SOUTHERN CAMPUS",
-  "phone_number" : {
-    "phone_number" : "7323631900"
-  },
-  "zip_code" : "08701",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.21742563099997",
-    "latitude" : "40.07389627600003",
-    "human_address" : "{\"address\":\"600 RIVER AVE\",\"city\":\"LAKEWOOD\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "600 RIVER AVE",
-  "provider_id" : "310084",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "OCEAN",
-  "city" : "LAKEWOOD"
-}
-, {
-  "hospital_name" : "KENNEDY UNIVERSITY HOSPITAL - STRATFORD DIV",
-  "phone_number" : {
-    "phone_number" : "8563466000"
-  },
-  "zip_code" : "08084",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-75.00900521299997",
-    "latitude" : "39.82856165000004",
-    "human_address" : "{\"address\":\"18 EAST LAUREL ROAD\",\"city\":\"STRATFORD\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "18 EAST LAUREL ROAD",
-  "provider_id" : "310086",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "CAMDEN",
-  "city" : "STRATFORD"
-}
-, {
-  "hospital_name" : "MEMORIAL HOSPITAL OF SALEM COUNTY",
-  "phone_number" : {
-    "phone_number" : "8569351000"
-  },
-  "zip_code" : "08079",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-75.44552610199997",
-    "latitude" : "39.59382073900008",
-    "human_address" : "{\"address\":\"310 WOODSTOWN ROAD\",\"city\":\"SALEM\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "310 WOODSTOWN ROAD",
-  "provider_id" : "310091",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "SALEM",
-  "city" : "SALEM"
-}
-, {
-  "hospital_name" : "CAPITAL HEALTH SYSTEM-FULD CAMPUS",
-  "phone_number" : {
-    "phone_number" : "6093946000"
-  },
-  "zip_code" : "08638",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.75269049399998",
-    "latitude" : "40.236124880000034",
-    "human_address" : "{\"address\":\"750 BRUNSWICK AVE\",\"city\":\"TRENTON\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "750 BRUNSWICK AVE",
-  "provider_id" : "310092",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MERCER",
-  "city" : "TRENTON"
-}
-, {
-  "hospital_name" : "SAINT MICHAEL'S MEDICAL CENTER, INC",
-  "phone_number" : {
-    "phone_number" : "9738775350"
-  },
-  "zip_code" : "07102",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.17434181399994",
-    "latitude" : "40.74300673700003",
-    "human_address" : "{\"address\":\"111 CENTRAL AVENUE\",\"city\":\"NEWARK\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "111 CENTRAL AVENUE",
-  "provider_id" : "310096",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "ESSEX",
-  "city" : "NEWARK"
-}
-, {
-  "hospital_name" : "JFK MEDICAL CTR - ANTHONY M. YELENCSICS COMMUNITY",
-  "phone_number" : {
-    "phone_number" : "7323217000"
-  },
-  "zip_code" : "08818",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.34988725799997",
-    "latitude" : "40.55782386000004",
-    "human_address" : "{\"address\":\"65 JAMES STREET\",\"city\":\"EDISON\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "65 JAMES STREET",
-  "provider_id" : "310108",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MIDDLESEX",
-  "city" : "EDISON"
-}
-, {
-  "hospital_name" : "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL HAMILTON",
-  "phone_number" : {
-    "phone_number" : "6095867900"
-  },
-  "zip_code" : "08690",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.67474615399993",
-    "latitude" : "40.21703824200006",
-    "human_address" : "{\"address\":\"ONE HAMILTON HEALTH PLACE\",\"city\":\"HAMILTON\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "ONE HAMILTON HEALTH PLACE",
-  "provider_id" : "310110",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MERCER",
-  "city" : "HAMILTON"
-}
-, {
-  "hospital_name" : "CENTRASTATE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "7324312000"
-  },
-  "zip_code" : "07728",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.31130663999994",
-    "latitude" : "40.236124880000034",
-    "human_address" : "{\"address\":\"901 WEST MAIN STREET\",\"city\":\"FREEHOLD\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "901 WEST MAIN STREET",
-  "provider_id" : "310111",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MONMOUTH",
-  "city" : "FREEHOLD"
-}
-, {
-  "hospital_name" : "BAYSHORE COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "7327395900"
-  },
-  "zip_code" : "07733",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.19334409399994",
-    "latitude" : "40.40424510200006",
-    "human_address" : "{\"address\":\"727 N BEERS ST\",\"city\":\"HOLMDEL\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "727 N BEERS ST",
-  "provider_id" : "310112",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "MONMOUTH",
-  "city" : "HOLMDEL"
-}
-, {
-  "hospital_name" : "SOUTHERN OCEAN MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "6095976011"
-  },
-  "zip_code" : "08050",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.28582507999994",
-    "latitude" : "39.71985999300006",
-    "human_address" : "{\"address\":\"1140 RT 72 W\",\"city\":\"MANAHAWKIN\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "1140 RT 72 W",
-  "provider_id" : "310113",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "OCEAN",
-  "city" : "MANAHAWKIN"
-}
-, {
-  "hospital_name" : "HACKETTSTOWN REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "9088525100"
-  },
-  "zip_code" : "07840",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.81518104099996",
-    "latitude" : "40.86044384300004",
-    "human_address" : "{\"address\":\"651 WILLOW GROVE ST\",\"city\":\"HACKETTSTOWN\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "651 WILLOW GROVE ST",
-  "provider_id" : "310115",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "WARREN",
-  "city" : "HACKETTSTOWN"
-}
-, {
-  "hospital_name" : "MEADOWLANDS HOSPITAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2013923200"
-  },
-  "zip_code" : "07094",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.07184404199995",
-    "latitude" : "40.791971800000056",
-    "human_address" : "{\"address\":\"55 MEADOWLANDS PKWY\",\"city\":\"SECAUCUS\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "55 MEADOWLANDS PKWY",
-  "provider_id" : "310118",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "HUDSON",
-  "city" : "SECAUCUS"
-}
-, {
-  "hospital_name" : "UNIVERSITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "9739725658"
-  },
-  "zip_code" : "07103",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-74.19246416699997",
-    "latitude" : "40.74022252300006",
-    "human_address" : "{\"address\":\"150 BERGEN ST\",\"city\":\"NEWARK\",\"state\":\"NJ\",\"zip\":\"\"}"
-  },
-  "address" : "150 BERGEN ST",
-  "provider_id" : "310119",
-  "hospital_ownership" : "Government - State",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "NJ",
-  "emergency_services" : true,
-  "county_name" : "ESSEX",
-  "city" : "NEWARK"
-}
- ]
+[
+    {
+        "address": "501 WEST FRONT STREET, POST OFFICE BOX  1090",
+        "city": "ELMER",
+        "county_name": "SALEM",
+        "emergency_services": true,
+        "hospital_name": "INSPIRA MEDICAL CENTER ELMER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.179518,
+                39.588012
+            ],
+            "type": "Point"
+        },
+        "location_address": "501 WEST FRONT STREET, POST OFFICE BOX 1090",
+        "location_city": "ELMER",
+        "location_state": "NJ",
+        "location_zip": "08318",
+        "phone_number": "8565754500",
+        "provider_id": "310069",
+        "state": "NJ",
+        "zip_code": "08318"
+    },
+    {
+        "address": "308 WILLOW AVE",
+        "city": "HOBOKEN",
+        "county_name": "HUDSON",
+        "emergency_services": true,
+        "hospital_name": "CAREPOINT HEALTH-HOBOKEN UNIVERSITY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.033708,
+                40.74072
+            ],
+            "type": "Point"
+        },
+        "location_address": "308 WILLOW AVE",
+        "location_city": "HOBOKEN",
+        "location_state": "NJ",
+        "location_zip": "07030",
+        "phone_number": "2014181000",
+        "provider_id": "310040",
+        "state": "NJ",
+        "zip_code": "07030"
+    },
+    {
+        "address": "385 TREMONT AVENUE",
+        "city": "EAST ORANGE",
+        "county_name": "ESSEX",
+        "emergency_services": false,
+        "hospital_name": "VA NEW JERSEY HEALTH CARE SYSTEM",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -74.234265,
+                40.753859
+            ],
+            "type": "Point"
+        },
+        "location_address": "385 TREMONT AVENUE",
+        "location_city": "EAST ORANGE",
+        "location_state": "NJ",
+        "location_zip": "07018",
+        "phone_number": "9736761000",
+        "provider_id": "31001F",
+        "state": "NJ",
+        "zip_code": "07018"
+    },
+    {
+        "address": "225 WILLIAMSON STREET",
+        "city": "ELIZABETH",
+        "county_name": "UNION",
+        "emergency_services": true,
+        "hospital_name": "TRINITAS REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.214418,
+                40.659859
+            ],
+            "type": "Point"
+        },
+        "location_address": "225 WILLIAMSON STREET",
+        "location_city": "ELIZABETH",
+        "location_state": "NJ",
+        "location_zip": "07207",
+        "phone_number": "9089945000",
+        "provider_id": "310027",
+        "state": "NJ",
+        "zip_code": "07207"
+    },
+    {
+        "address": "1945 RTE 33",
+        "city": "NEPTUNE",
+        "county_name": "MONMOUTH",
+        "emergency_services": true,
+        "hospital_name": "JERSEY SHORE UNIVERSITY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "1945 RTE 33",
+        "location_city": "NEPTUNE",
+        "location_state": "NJ",
+        "location_zip": "07754",
+        "phone_number": "7327764900",
+        "provider_id": "310073",
+        "state": "NJ",
+        "zip_code": "07754"
+    },
+    {
+        "address": "ONE HAMILTON HEALTH PLACE",
+        "city": "HAMILTON",
+        "county_name": "MERCER",
+        "emergency_services": true,
+        "hospital_name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL HAMILTON",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "ONE HAMILTON HEALTH PLACE",
+        "location_city": "HAMILTON",
+        "location_state": "NJ",
+        "location_zip": "08690",
+        "phone_number": "6095867900",
+        "provider_id": "310110",
+        "state": "NJ",
+        "zip_code": "08690"
+    },
+    {
+        "address": "110 REHILL AVE",
+        "city": "SOMERVILLE",
+        "county_name": "SOMERSET",
+        "emergency_services": true,
+        "hospital_name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL SOMERSET",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.595751,
+                40.568692
+            ],
+            "type": "Point"
+        },
+        "location_address": "110 REHILL AVE",
+        "location_city": "SOMERVILLE",
+        "location_state": "NJ",
+        "location_zip": "08876",
+        "phone_number": "9086852200",
+        "provider_id": "310048",
+        "state": "NJ",
+        "zip_code": "08876"
+    },
+    {
+        "address": "ONE ROBERT WOOD JOHNSON PLACE",
+        "city": "NEW BRUNSWICK",
+        "county_name": "MIDDLESEX",
+        "emergency_services": true,
+        "hospital_name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "ONE ROBERT WOOD JOHNSON PLACE",
+        "location_city": "NEW BRUNSWICK",
+        "location_state": "NJ",
+        "location_zip": "08901",
+        "phone_number": "7329378900",
+        "provider_id": "310038",
+        "state": "NJ",
+        "zip_code": "08901"
+    },
+    {
+        "address": "2100 WESCOTT DRIVE",
+        "city": "FLEMINGTON",
+        "county_name": "HUNTERDON",
+        "emergency_services": true,
+        "hospital_name": "HUNTERDON MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.86041,
+                40.532524
+            ],
+            "type": "Point"
+        },
+        "location_address": "2100 WESCOTT DRIVE",
+        "location_city": "FLEMINGTON",
+        "location_state": "NJ",
+        "location_zip": "08822",
+        "phone_number": "9087886100",
+        "provider_id": "310005",
+        "state": "NJ",
+        "zip_code": "08822"
+    },
+    {
+        "address": "100 MEDICAL CENTER WAY",
+        "city": "SOMERS POINT",
+        "county_name": "ATLANTIC",
+        "emergency_services": true,
+        "hospital_name": "SHORE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "100 MEDICAL CENTER WAY",
+        "location_city": "SOMERS POINT",
+        "location_state": "NJ",
+        "location_zip": "08244",
+        "phone_number": "6096533545",
+        "provider_id": "310047",
+        "state": "NJ",
+        "zip_code": "08244"
+    },
+    {
+        "address": "BAY AND HIGHLAND AVE",
+        "city": "MONTCLAIR",
+        "county_name": "ESSEX",
+        "emergency_services": true,
+        "hospital_name": "HACKENSACK-UMC MOUNTAINSIDE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "BAY AND HIGHLAND AVE",
+        "location_city": "MONTCLAIR",
+        "location_state": "NJ",
+        "location_zip": "07042",
+        "phone_number": "9734296000",
+        "provider_id": "310054",
+        "state": "NJ",
+        "zip_code": "07042"
+    },
+    {
+        "address": "WHITEHORSE PIKE AND TOWNSEND AVENUE",
+        "city": "BERLIN",
+        "county_name": "CAMDEN",
+        "emergency_services": true,
+        "hospital_name": "VIRTUA WEST JERSEY HOSPITALS BERLIN",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "WHITEHORSE PIKE AND TOWNSEND AVENUE",
+        "location_city": "BERLIN",
+        "location_state": "NJ",
+        "location_zip": "08009",
+        "phone_number": "8563223200",
+        "provider_id": "310022",
+        "state": "NJ",
+        "zip_code": "08009"
+    },
+    {
+        "address": "65 JAMES STREET",
+        "city": "EDISON",
+        "county_name": "MIDDLESEX",
+        "emergency_services": true,
+        "hospital_name": "JFK MEDICAL CTR - ANTHONY M. YELENCSICS COMMUNITY",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.348038,
+                40.557637
+            ],
+            "type": "Point"
+        },
+        "location_address": "65 JAMES STREET",
+        "location_city": "EDISON",
+        "location_state": "NJ",
+        "location_zip": "08818",
+        "phone_number": "7323217000",
+        "provider_id": "310108",
+        "state": "NJ",
+        "zip_code": "08818"
+    },
+    {
+        "address": "230 EAST RIDGEWOOD AVE",
+        "city": "PARAMUS",
+        "county_name": "BERGEN",
+        "emergency_services": true,
+        "hospital_name": "BERGEN REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.0619,
+                40.958533
+            ],
+            "type": "Point"
+        },
+        "location_address": "230 EAST RIDGEWOOD AVE",
+        "location_city": "PARAMUS",
+        "location_state": "NJ",
+        "location_zip": "07652",
+        "phone_number": "2019674000",
+        "provider_id": "310058",
+        "state": "NJ",
+        "zip_code": "07652"
+    },
+    {
+        "address": "25 POCONO ROAD",
+        "city": "DENVILLE",
+        "county_name": "MORRIS",
+        "emergency_services": true,
+        "hospital_name": "SAINT CLARE'S HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.465007,
+                40.894366
+            ],
+            "type": "Point"
+        },
+        "location_address": "25 POCONO ROAD",
+        "location_city": "DENVILLE",
+        "location_state": "NJ",
+        "location_zip": "07834",
+        "phone_number": "9736256000",
+        "provider_id": "310050",
+        "state": "NJ",
+        "zip_code": "07834"
+    },
+    {
+        "address": "TWO STONE HARBOR BLVD",
+        "city": "CAPE MAY COURT HOUSE",
+        "county_name": "CAPE MAY",
+        "emergency_services": true,
+        "hospital_name": "CAPE REGIONAL MEDICAL CENTER INC",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "TWO STONE HARBOR BLVD",
+        "location_city": "CAPE MAY COURT HOUSE",
+        "location_state": "NJ",
+        "location_zip": "08210",
+        "phone_number": "6094632000",
+        "provider_id": "310011",
+        "state": "NJ",
+        "zip_code": "08210"
+    },
+    {
+        "address": "718 TEANECK RD",
+        "city": "TEANECK",
+        "county_name": "BERGEN",
+        "emergency_services": true,
+        "hospital_name": "HOLY NAME MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.00865,
+                40.882338
+            ],
+            "type": "Point"
+        },
+        "location_address": "718 TEANECK RD",
+        "location_city": "TEANECK",
+        "location_state": "NJ",
+        "location_zip": "07666",
+        "phone_number": "2018333000",
+        "provider_id": "310008",
+        "state": "NJ",
+        "zip_code": "07666"
+    },
+    {
+        "address": "1140 RT 72 W",
+        "city": "MANAHAWKIN",
+        "county_name": "OCEAN",
+        "emergency_services": true,
+        "hospital_name": "SOUTHERN OCEAN MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.287799,
+                39.722365
+            ],
+            "type": "Point"
+        },
+        "location_address": "1140 RT 72 W",
+        "location_city": "MANAHAWKIN",
+        "location_state": "NJ",
+        "location_zip": "08050",
+        "phone_number": "6095976011",
+        "provider_id": "310113",
+        "state": "NJ",
+        "zip_code": "08050"
+    },
+    {
+        "address": "99 RT 37 WEST",
+        "city": "TOMS RIVER",
+        "county_name": "OCEAN",
+        "emergency_services": true,
+        "hospital_name": "COMMUNITY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.213979,
+                39.964983
+            ],
+            "type": "Point"
+        },
+        "location_address": "99 RT 37 WEST",
+        "location_city": "TOMS RIVER",
+        "location_state": "NJ",
+        "location_zip": "08755",
+        "phone_number": "7325578000",
+        "provider_id": "310041",
+        "state": "NJ",
+        "zip_code": "08755"
+    },
+    {
+        "address": "600 RIVER AVE",
+        "city": "LAKEWOOD",
+        "county_name": "OCEAN",
+        "emergency_services": true,
+        "hospital_name": "MONMOUTH MEDICAL CENTER-SOUTHERN CAMPUS",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.21735,
+                40.074178
+            ],
+            "type": "Point"
+        },
+        "location_address": "600 RIVER AVE",
+        "location_city": "LAKEWOOD",
+        "location_state": "NJ",
+        "location_zip": "08701",
+        "phone_number": "7323631900",
+        "provider_id": "310084",
+        "state": "NJ",
+        "zip_code": "08701"
+    },
+    {
+        "address": "201 LYONS AVE",
+        "city": "NEWARK",
+        "county_name": "ESSEX",
+        "emergency_services": true,
+        "hospital_name": "NEWARK BETH ISRAEL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.212097,
+                40.709131
+            ],
+            "type": "Point"
+        },
+        "location_address": "201 LYONS AVE",
+        "location_city": "NEWARK",
+        "location_state": "NJ",
+        "location_zip": "07112",
+        "phone_number": "9739267850",
+        "provider_id": "310002",
+        "state": "NJ",
+        "zip_code": "07112"
+    },
+    {
+        "address": "355 GRAND STREET",
+        "city": "JERSEY CITY",
+        "county_name": "HUDSON",
+        "emergency_services": true,
+        "hospital_name": "JERSEY CITY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.050096,
+                40.716684
+            ],
+            "type": "Point"
+        },
+        "location_address": "355 GRAND STREET",
+        "location_city": "JERSEY CITY",
+        "location_state": "NJ",
+        "location_zip": "07302",
+        "phone_number": "2019152000",
+        "provider_id": "310074",
+        "state": "NJ",
+        "zip_code": "07302"
+    },
+    {
+        "address": "300 CENTRAL AVE",
+        "city": "EAST ORANGE",
+        "county_name": "ESSEX",
+        "emergency_services": true,
+        "hospital_name": "EAST ORANGE GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.213077,
+                40.753598
+            ],
+            "type": "Point"
+        },
+        "location_address": "300 CENTRAL AVE",
+        "location_city": "EAST ORANGE",
+        "location_state": "NJ",
+        "location_zip": "07018",
+        "phone_number": "9732664401",
+        "provider_id": "310083",
+        "state": "NJ",
+        "zip_code": "07018"
+    },
+    {
+        "address": "ONE CLARA MAAS DRIVE",
+        "city": "BELLEVILLE",
+        "county_name": "ESSEX",
+        "emergency_services": true,
+        "hospital_name": "CLARA MAASS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "ONE CLARA MAAS DRIVE",
+        "location_city": "BELLEVILLE",
+        "location_state": "NJ",
+        "location_zip": "07109",
+        "phone_number": "9734502002",
+        "provider_id": "310009",
+        "state": "NJ",
+        "zip_code": "07109"
+    },
+    {
+        "address": "350 ENGLE ST",
+        "city": "ENGLEWOOD",
+        "county_name": "BERGEN",
+        "emergency_services": true,
+        "hospital_name": "ENGLEWOOD HOSPITAL AND MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -73.967993,
+                40.902855
+            ],
+            "type": "Point"
+        },
+        "location_address": "350 ENGLE ST",
+        "location_city": "ENGLEWOOD",
+        "location_state": "NJ",
+        "location_zip": "07631",
+        "phone_number": "2018943000",
+        "provider_id": "310045",
+        "state": "NJ",
+        "zip_code": "07631"
+    },
+    {
+        "address": "29 EAST 29TH ST",
+        "city": "BAYONNE",
+        "county_name": "HUDSON",
+        "emergency_services": true,
+        "hospital_name": "CAREPOINT HEALTH - BAYONNE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.112371,
+                40.667531
+            ],
+            "type": "Point"
+        },
+        "location_address": "29 EAST 29TH ST",
+        "location_city": "BAYONNE",
+        "location_state": "NJ",
+        "location_zip": "07002",
+        "phone_number": "2018585000",
+        "provider_id": "310025",
+        "state": "NJ",
+        "zip_code": "07002"
+    },
+    {
+        "address": "1505 W SHERMAN AVE",
+        "city": "VINELAND",
+        "county_name": "CUMBERLAND",
+        "emergency_services": true,
+        "hospital_name": "INSPIRA MEDICAL CENTER VINELAND",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.058638,
+                39.447505
+            ],
+            "type": "Point"
+        },
+        "location_address": "1505 W SHERMAN AVE",
+        "location_city": "VINELAND",
+        "location_state": "NJ",
+        "location_zip": "08360",
+        "phone_number": "8566416610",
+        "provider_id": "310032",
+        "state": "NJ",
+        "zip_code": "08360"
+    },
+    {
+        "address": "176 PALISADE AVE",
+        "city": "JERSEY CITY",
+        "county_name": "HUDSON",
+        "emergency_services": true,
+        "hospital_name": "CAREPOINT HEALTH-CHRIST HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.050272,
+                40.734674
+            ],
+            "type": "Point"
+        },
+        "location_address": "176 PALISADE AVE",
+        "location_city": "JERSEY CITY",
+        "location_state": "NJ",
+        "location_zip": "07306",
+        "phone_number": "2017958200",
+        "provider_id": "310016",
+        "state": "NJ",
+        "zip_code": "07306"
+    },
+    {
+        "address": "ONE RIVERVIEW PLAZA",
+        "city": "RED BANK",
+        "county_name": "MONMOUTH",
+        "emergency_services": true,
+        "hospital_name": "RIVERVIEW MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "ONE RIVERVIEW PLAZA",
+        "location_city": "RED BANK",
+        "location_state": "NJ",
+        "location_zip": "07701",
+        "phone_number": "7327412700",
+        "provider_id": "310034",
+        "state": "NJ",
+        "zip_code": "07701"
+    },
+    {
+        "address": "18 EAST LAUREL ROAD",
+        "city": "STRATFORD",
+        "county_name": "CAMDEN",
+        "emergency_services": true,
+        "hospital_name": "KENNEDY UNIVERSITY HOSPITAL - STRATFORD DIV",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.008886,
+                39.828719
+            ],
+            "type": "Point"
+        },
+        "location_address": "18 EAST LAUREL ROAD",
+        "location_city": "STRATFORD",
+        "location_state": "NJ",
+        "location_zip": "08084",
+        "phone_number": "8563467802",
+        "provider_id": "310086",
+        "state": "NJ",
+        "zip_code": "08084"
+    },
+    {
+        "address": "509 N BROAD ST",
+        "city": "WOODBURY",
+        "county_name": "GLOUCESTER",
+        "emergency_services": true,
+        "hospital_name": "INSPIRA MEDICAL CENTER WOODBURY",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.149055,
+                39.843518
+            ],
+            "type": "Point"
+        },
+        "location_address": "509 N BROAD ST",
+        "location_city": "WOODBURY",
+        "location_state": "NJ",
+        "location_zip": "08096",
+        "phone_number": "8566416616",
+        "provider_id": "310081",
+        "state": "NJ",
+        "zip_code": "08096"
+    },
+    {
+        "address": "1925 PACIFIC AVENUE",
+        "city": "ATLANTIC CITY",
+        "county_name": "ATLANTIC",
+        "emergency_services": true,
+        "hospital_name": "ATLANTICARE REGIONAL MEDICAL CENTER - CITY DIV",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.433732,
+                39.357876
+            ],
+            "type": "Point"
+        },
+        "location_address": "1925 PACIFIC AVENUE",
+        "location_city": "ATLANTIC CITY",
+        "location_state": "NJ",
+        "location_zip": "08401",
+        "phone_number": "6094418020",
+        "provider_id": "310064",
+        "state": "NJ",
+        "zip_code": "08401"
+    },
+    {
+        "address": "865 STONE ST",
+        "city": "RAHWAY",
+        "county_name": "UNION",
+        "emergency_services": true,
+        "hospital_name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL AT RAHWAY",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.291721,
+                40.612243
+            ],
+            "type": "Point"
+        },
+        "location_address": "865 STONE ST",
+        "location_city": "RAHWAY",
+        "location_state": "NJ",
+        "location_zip": "07065",
+        "phone_number": "7323814200",
+        "provider_id": "310024",
+        "state": "NJ",
+        "zip_code": "07065"
+    },
+    {
+        "address": "94 OLD SHORT HILLS ROAD",
+        "city": "LIVINGSTON",
+        "county_name": "ESSEX",
+        "emergency_services": true,
+        "hospital_name": "SAINT BARNABAS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.302334,
+                40.764045
+            ],
+            "type": "Point"
+        },
+        "location_address": "94 OLD SHORT HILLS ROAD",
+        "location_city": "LIVINGSTON",
+        "location_state": "NJ",
+        "location_zip": "07039",
+        "phone_number": "9733225000",
+        "provider_id": "310076",
+        "state": "NJ",
+        "zip_code": "07039"
+    },
+    {
+        "address": "703 MAIN ST",
+        "city": "PATERSON",
+        "county_name": "PASSAIC",
+        "emergency_services": true,
+        "hospital_name": "ST JOSEPH'S REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.166585,
+                40.902278
+            ],
+            "type": "Point"
+        },
+        "location_address": "703 MAIN ST",
+        "location_city": "PATERSON",
+        "location_state": "NJ",
+        "location_zip": "07503",
+        "phone_number": "9737542010",
+        "provider_id": "310019",
+        "state": "NJ",
+        "zip_code": "07503"
+    },
+    {
+        "address": "250 OLD HOOK ROAD",
+        "city": "WESTWOOD",
+        "county_name": "BERGEN",
+        "emergency_services": true,
+        "hospital_name": "HACKENSACK-UMC AT PASCACK VALLEY",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.014254,
+                40.983671
+            ],
+            "type": "Point"
+        },
+        "location_address": "250 OLD HOOK ROAD",
+        "location_city": "WESTWOOD",
+        "location_state": "NJ",
+        "location_zip": "07675",
+        "phone_number": "2013831074",
+        "provider_id": "310130",
+        "state": "NJ",
+        "zip_code": "07675"
+    },
+    {
+        "address": "150 BERGEN ST",
+        "city": "NEWARK",
+        "county_name": "ESSEX",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY HOSPITAL",
+        "hospital_ownership": "Government - State",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.192468,
+                40.740322
+            ],
+            "type": "Point"
+        },
+        "location_address": "150 BERGEN ST",
+        "location_city": "NEWARK",
+        "location_state": "NJ",
+        "location_zip": "07103",
+        "phone_number": "9739725658",
+        "provider_id": "310119",
+        "state": "NJ",
+        "zip_code": "07103"
+    },
+    {
+        "address": "1 COOPER PLAZA",
+        "city": "CAMDEN",
+        "county_name": "CAMDEN",
+        "emergency_services": true,
+        "hospital_name": "COOPER UNIVERSITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.115758,
+                39.940789
+            ],
+            "type": "Point"
+        },
+        "location_address": "1 COOPER PLAZA",
+        "location_city": "CAMDEN",
+        "location_state": "NJ",
+        "location_zip": "08103",
+        "phone_number": "8563422000",
+        "provider_id": "310014",
+        "state": "NJ",
+        "zip_code": "08103"
+    },
+    {
+        "address": "300 SECOND AVENUE",
+        "city": "LONG BRANCH",
+        "county_name": "MONMOUTH",
+        "emergency_services": true,
+        "hospital_name": "MONMOUTH MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -73.983598,
+                40.295448
+            ],
+            "type": "Point"
+        },
+        "location_address": "300 SECOND AVENUE",
+        "location_city": "LONG BRANCH",
+        "location_state": "NJ",
+        "location_zip": "07740",
+        "phone_number": "7322225200",
+        "provider_id": "310075",
+        "state": "NJ",
+        "zip_code": "07740"
+    },
+    {
+        "address": "ONE CAPITAL WAY",
+        "city": "PENNINGTON",
+        "county_name": "MERCER",
+        "emergency_services": true,
+        "hospital_name": "CAPITAL HEALTH MEDICAL CENTER - HOPEWELL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.81099,
+                40.29461
+            ],
+            "type": "Point"
+        },
+        "location_address": "ONE CAPITAL WAY",
+        "location_city": "PENNINGTON",
+        "location_state": "NJ",
+        "location_zip": "08534",
+        "phone_number": "6093034000",
+        "provider_id": "310044",
+        "state": "NJ",
+        "zip_code": "08534"
+    },
+    {
+        "address": "99 BEAUVOIR AVENUE",
+        "city": "SUMMIT",
+        "county_name": "UNION",
+        "emergency_services": true,
+        "hospital_name": "OVERLOOK MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.354008,
+                40.712418
+            ],
+            "type": "Point"
+        },
+        "location_address": "99 BEAUVOIR AVENUE",
+        "location_city": "SUMMIT",
+        "location_state": "NJ",
+        "location_zip": "07902",
+        "phone_number": "9085222000",
+        "provider_id": "310051",
+        "state": "NJ",
+        "zip_code": "07902"
+    },
+    {
+        "address": "30 PROSPECT AVE",
+        "city": "HACKENSACK",
+        "county_name": "BERGEN",
+        "emergency_services": true,
+        "hospital_name": "HACKENSACK UNIVERSITY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.057987,
+                40.88397
+            ],
+            "type": "Point"
+        },
+        "location_address": "30 PROSPECT AVE",
+        "location_city": "HACKENSACK",
+        "location_state": "NJ",
+        "location_zip": "07601",
+        "phone_number": "2019962000",
+        "provider_id": "310001",
+        "state": "NJ",
+        "zip_code": "07601"
+    },
+    {
+        "address": "97 WEST PARKWAY",
+        "city": "POMPTON PLAINS",
+        "county_name": "MORRIS",
+        "emergency_services": true,
+        "hospital_name": "CHILTON MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.150139,
+                40.994337
+            ],
+            "type": "Point"
+        },
+        "location_address": "97 WEST PARKWAY",
+        "location_city": "POMPTON PLAINS",
+        "location_state": "NJ",
+        "location_zip": "07444",
+        "phone_number": "9738315000",
+        "provider_id": "310017",
+        "state": "NJ",
+        "zip_code": "07444"
+    },
+    {
+        "address": "223 N VAN DIEN AVENUE",
+        "city": "RIDGEWOOD",
+        "county_name": "BERGEN",
+        "emergency_services": true,
+        "hospital_name": "VALLEY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.101761,
+                40.983204
+            ],
+            "type": "Point"
+        },
+        "location_address": "223 N VAN DIEN AVENUE",
+        "location_city": "RIDGEWOOD",
+        "location_state": "NJ",
+        "location_zip": "07450",
+        "phone_number": "2014478000",
+        "provider_id": "310012",
+        "state": "NJ",
+        "zip_code": "07450"
+    },
+    {
+        "address": "100 MADISON AVE",
+        "city": "MORRISTOWN",
+        "county_name": "MORRIS",
+        "emergency_services": true,
+        "hospital_name": "MORRISTOWN MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.463273,
+                40.787937
+            ],
+            "type": "Point"
+        },
+        "location_address": "100 MADISON AVE",
+        "location_city": "MORRISTOWN",
+        "location_state": "NJ",
+        "location_zip": "07962",
+        "phone_number": "9739715450",
+        "provider_id": "310015",
+        "state": "NJ",
+        "zip_code": "07962"
+    },
+    {
+        "address": "175 HIGH ST",
+        "city": "NEWTON",
+        "county_name": "SUSSEX",
+        "emergency_services": true,
+        "hospital_name": "NEWTON MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.765035,
+                41.055592
+            ],
+            "type": "Point"
+        },
+        "location_address": "175 HIGH ST",
+        "location_city": "NEWTON",
+        "location_state": "NJ",
+        "location_zip": "07860",
+        "phone_number": "9735798300",
+        "provider_id": "310028",
+        "state": "NJ",
+        "zip_code": "07860"
+    },
+    {
+        "address": "727 N BEERS ST",
+        "city": "HOLMDEL",
+        "county_name": "MONMOUTH",
+        "emergency_services": true,
+        "hospital_name": "BAYSHORE COMMUNITY HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.19418,
+                40.405264
+            ],
+            "type": "Point"
+        },
+        "location_address": "727 N BEERS ST",
+        "location_city": "HOLMDEL",
+        "location_state": "NJ",
+        "location_zip": "07733",
+        "phone_number": "7327395900",
+        "provider_id": "310112",
+        "state": "NJ",
+        "zip_code": "07733"
+    },
+    {
+        "address": "901 WEST MAIN STREET",
+        "city": "FREEHOLD",
+        "county_name": "MONMOUTH",
+        "emergency_services": true,
+        "hospital_name": "CENTRASTATE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.312025,
+                40.23566
+            ],
+            "type": "Point"
+        },
+        "location_address": "901 WEST MAIN STREET",
+        "location_city": "FREEHOLD",
+        "location_state": "NJ",
+        "location_zip": "07728",
+        "phone_number": "7324312000",
+        "provider_id": "310111",
+        "state": "NJ",
+        "zip_code": "07728"
+    },
+    {
+        "address": "254 EASTON AVE",
+        "city": "NEW BRUNSWICK",
+        "county_name": "MIDDLESEX",
+        "emergency_services": true,
+        "hospital_name": "SAINT PETER'S UNIVERSITY HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.458968,
+                40.501782
+            ],
+            "type": "Point"
+        },
+        "location_address": "254 EASTON AVE",
+        "location_city": "NEW BRUNSWICK",
+        "location_state": "NJ",
+        "location_zip": "08901",
+        "phone_number": "7327458600",
+        "provider_id": "310070",
+        "state": "NJ",
+        "zip_code": "08901"
+    },
+    {
+        "address": "530 NEW BRUNSWICK AVE",
+        "city": "PERTH AMBOY",
+        "county_name": "MIDDLESEX",
+        "emergency_services": true,
+        "hospital_name": "RARITAN BAY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.281538,
+                40.518857
+            ],
+            "type": "Point"
+        },
+        "location_address": "530 NEW BRUNSWICK AVE",
+        "location_city": "PERTH AMBOY",
+        "location_state": "NJ",
+        "location_zip": "08861",
+        "phone_number": "7324423700",
+        "provider_id": "310039",
+        "state": "NJ",
+        "zip_code": "08861"
+    },
+    {
+        "address": "350 BOULEVARD",
+        "city": "PASSAIC",
+        "county_name": "PASSAIC",
+        "emergency_services": true,
+        "hospital_name": "ST MARY'S GENERAL HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.137982,
+                40.85871
+            ],
+            "type": "Point"
+        },
+        "location_address": "350 BOULEVARD",
+        "location_city": "PASSAIC",
+        "location_state": "NJ",
+        "location_zip": "07055",
+        "phone_number": "9733654300",
+        "provider_id": "310006",
+        "state": "NJ",
+        "zip_code": "07055"
+    },
+    {
+        "address": "1600 HADDON AVENUE",
+        "city": "CAMDEN",
+        "county_name": "CAMDEN",
+        "emergency_services": true,
+        "hospital_name": "OUR LADY OF LOURDES MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.09571,
+                39.927037
+            ],
+            "type": "Point"
+        },
+        "location_address": "1600 HADDON AVENUE",
+        "location_city": "CAMDEN",
+        "location_state": "NJ",
+        "location_zip": "08103",
+        "phone_number": "8567573500",
+        "provider_id": "310029",
+        "state": "NJ",
+        "zip_code": "08103"
+    },
+    {
+        "address": "ONE-FIVE PLAINSBORO ROAD",
+        "city": "PLAINSBORO",
+        "county_name": "MIDDLESEX",
+        "emergency_services": true,
+        "hospital_name": "UNIV MEDICAL CENTER OF PRINCETON AT PLAINSBORO",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "ONE-FIVE PLAINSBORO ROAD",
+        "location_city": "PLAINSBORO",
+        "location_state": "NJ",
+        "location_zip": "08536",
+        "phone_number": "8664604776",
+        "provider_id": "310010",
+        "state": "NJ",
+        "zip_code": "08536"
+    },
+    {
+        "address": "425 JACK MARTIN BLVD",
+        "city": "BRICK",
+        "county_name": "OCEAN",
+        "emergency_services": true,
+        "hospital_name": "OCEAN MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.129786,
+                40.078346
+            ],
+            "type": "Point"
+        },
+        "location_address": "425 JACK MARTIN BLVD",
+        "location_city": "BRICK",
+        "location_state": "NJ",
+        "location_zip": "08724",
+        "phone_number": "7328402200",
+        "provider_id": "310052",
+        "state": "NJ",
+        "zip_code": "08724"
+    },
+    {
+        "address": "175 MADISON AVE",
+        "city": "MOUNT HOLLY",
+        "county_name": "BURLINGTON",
+        "emergency_services": true,
+        "hospital_name": "VIRTUA MEMORIAL HOSPITAL OF BURLINGTON COUNTY",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.795715,
+                39.985955
+            ],
+            "type": "Point"
+        },
+        "location_address": "175 MADISON AVE",
+        "location_city": "MOUNT HOLLY",
+        "location_state": "NJ",
+        "location_zip": "08060",
+        "phone_number": "6099146200",
+        "provider_id": "310057",
+        "state": "NJ",
+        "zip_code": "08060"
+    },
+    {
+        "address": "750 BRUNSWICK AVE",
+        "city": "TRENTON",
+        "county_name": "MERCER",
+        "emergency_services": true,
+        "hospital_name": "CAPITAL HEALTH SYSTEM-FULD CAMPUS",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.752705,
+                40.236123
+            ],
+            "type": "Point"
+        },
+        "location_address": "750 BRUNSWICK AVE",
+        "location_city": "TRENTON",
+        "location_state": "NJ",
+        "location_zip": "08638",
+        "phone_number": "6093946000",
+        "provider_id": "310092",
+        "state": "NJ",
+        "zip_code": "08638"
+    },
+    {
+        "address": "651 WILLOW GROVE ST",
+        "city": "HACKETTSTOWN",
+        "county_name": "WARREN",
+        "emergency_services": true,
+        "hospital_name": "HACKETTSTOWN REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.815135,
+                40.860461
+            ],
+            "type": "Point"
+        },
+        "location_address": "651 WILLOW GROVE ST",
+        "location_city": "HACKETTSTOWN",
+        "location_state": "NJ",
+        "location_zip": "07840",
+        "phone_number": "9088525100",
+        "provider_id": "310115",
+        "state": "NJ",
+        "zip_code": "07840"
+    },
+    {
+        "address": "111 CENTRAL AVENUE",
+        "city": "NEWARK",
+        "county_name": "ESSEX",
+        "emergency_services": true,
+        "hospital_name": "SAINT MICHAEL'S MEDICAL CENTER, INC",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.174503,
+                40.743034
+            ],
+            "type": "Point"
+        },
+        "location_address": "111 CENTRAL AVENUE",
+        "location_city": "NEWARK",
+        "location_state": "NJ",
+        "location_zip": "07102",
+        "phone_number": "9738775350",
+        "provider_id": "310096",
+        "state": "NJ",
+        "zip_code": "07102"
+    },
+    {
+        "address": "55 MEADOWLANDS PKWY",
+        "city": "SECAUCUS",
+        "county_name": "HUDSON",
+        "emergency_services": true,
+        "hospital_name": "MEADOWLANDS HOSPITAL MEDICAL CENTER",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.072165,
+                40.791736
+            ],
+            "type": "Point"
+        },
+        "location_address": "55 MEADOWLANDS PKWY",
+        "location_city": "SECAUCUS",
+        "location_state": "NJ",
+        "location_zip": "07094",
+        "phone_number": "2013923200",
+        "provider_id": "310118",
+        "state": "NJ",
+        "zip_code": "07094"
+    },
+    {
+        "address": "601 HAMILTON AVE",
+        "city": "TRENTON",
+        "county_name": "MERCER",
+        "emergency_services": true,
+        "hospital_name": "ST FRANCIS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.742576,
+                40.217126
+            ],
+            "type": "Point"
+        },
+        "location_address": "601 HAMILTON AVE",
+        "location_city": "TRENTON",
+        "location_state": "NJ",
+        "location_zip": "08629",
+        "phone_number": "6095995000",
+        "provider_id": "310021",
+        "state": "NJ",
+        "zip_code": "08629"
+    },
+    {
+        "address": "7600 RIVER RD",
+        "city": "NORTH BERGEN",
+        "county_name": "HUDSON",
+        "emergency_services": true,
+        "hospital_name": "PALISADES MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -73.997412,
+                40.793709
+            ],
+            "type": "Point"
+        },
+        "location_address": "7600 RIVER RD",
+        "location_city": "NORTH BERGEN",
+        "location_state": "NJ",
+        "location_zip": "07047",
+        "phone_number": "2018545000",
+        "provider_id": "310003",
+        "state": "NJ",
+        "zip_code": "07047"
+    },
+    {
+        "address": "310 WOODSTOWN ROAD",
+        "city": "SALEM",
+        "county_name": "SALEM",
+        "emergency_services": true,
+        "hospital_name": "MEMORIAL HOSPITAL OF SALEM COUNTY",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.317877,
+                39.718816
+            ],
+            "type": "Point"
+        },
+        "location_address": "310 WOODSTOWN ROAD",
+        "location_city": "SALEM",
+        "location_state": "NJ",
+        "location_zip": "08079",
+        "phone_number": "8569351000",
+        "provider_id": "310091",
+        "state": "NJ",
+        "zip_code": "08079"
+    },
+    {
+        "address": "218A SUNSET ROAD",
+        "city": "WILLINGBORO",
+        "county_name": "BURLINGTON",
+        "emergency_services": true,
+        "hospital_name": "LOURDES MEDICAL CENTER OF BURLINGTON COUNTY",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.881779,
+                40.04865
+            ],
+            "type": "Point"
+        },
+        "location_address": "218A SUNSET ROAD",
+        "location_city": "WILLINGBORO",
+        "location_state": "NJ",
+        "location_zip": "08046",
+        "phone_number": "6098352900",
+        "provider_id": "310061",
+        "state": "NJ",
+        "zip_code": "08046"
+    },
+    {
+        "address": "185 ROSEBERRY ST",
+        "city": "PHILLIPSBURG",
+        "county_name": "WARREN",
+        "emergency_services": true,
+        "hospital_name": "ST LUKE'S WARREN HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.179672,
+                40.701734
+            ],
+            "type": "Point"
+        },
+        "location_address": "185 ROSEBERRY ST",
+        "location_city": "PHILLIPSBURG",
+        "location_state": "NJ",
+        "location_zip": "08865",
+        "phone_number": "9088596700",
+        "provider_id": "310060",
+        "state": "NJ",
+        "zip_code": "08865"
+    },
+    {
+        "address": "200 TRENTON ROAD",
+        "city": "BROWNS MILLS",
+        "county_name": "BURLINGTON",
+        "emergency_services": false,
+        "hospital_name": "DEBORAH HEART AND LUNG CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -74.58621,
+                39.977274
+            ],
+            "type": "Point"
+        },
+        "location_address": "200 TRENTON ROAD",
+        "location_city": "BROWNS MILLS",
+        "location_state": "NJ",
+        "location_zip": "08015",
+        "phone_number": "6098936611",
+        "provider_id": "310031",
+        "state": "NJ",
+        "zip_code": "08015"
+    }
+]

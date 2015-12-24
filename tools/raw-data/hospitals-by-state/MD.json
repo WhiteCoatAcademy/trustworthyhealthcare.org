@@ -1,967 +1,1154 @@
-[ {
-  "hospital_name" : "MERITUS MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2403139500"
-  },
-  "zip_code" : "21742",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-77.68068683499996",
-    "latitude" : "39.62235051500005",
-    "human_address" : "{\"address\":\"11116 MEDICAL CAMPUS ROAD\",\"city\":\"HAGERSTOWN\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "11116 MEDICAL CAMPUS ROAD",
-  "provider_id" : "210001",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "WASHINGTON",
-  "city" : "HAGERSTOWN"
-}
-, {
-  "hospital_name" : "UNIVERSITY OF MARYLAND MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4103288667"
-  },
-  "zip_code" : "21201",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.62367582699994",
-    "latitude" : "39.288468727000065",
-    "human_address" : "{\"address\":\"22 SOUTH GREENE STREET\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "22 SOUTH  GREENE STREET",
-  "provider_id" : "210002",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE CITY",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "PRINCE GEORGES  HOSPITAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3016182000"
-  },
-  "zip_code" : "20785",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.91928616199993",
-    "latitude" : "38.93172104300004",
-    "human_address" : "{\"address\":\"3001 HOSPITAL DRIVE\",\"city\":\"CHEVERLY\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "3001 HOSPITAL DRIVE",
-  "provider_id" : "210003",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "PRINCE GEORGES",
-  "city" : "CHEVERLY"
-}
-, {
-  "hospital_name" : "HOLY CROSS HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3017547000"
-  },
-  "zip_code" : "20910",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-77.03429212199995",
-    "latitude" : "39.01604151200007",
-    "human_address" : "{\"address\":\"1500 FOREST GLEN ROAD\",\"city\":\"SILVER SPRING\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "1500 FOREST GLEN ROAD",
-  "provider_id" : "210004",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "MONTGOMERY",
-  "city" : "SILVER SPRING"
-}
-, {
-  "hospital_name" : "FREDERICK MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "2405663300"
-  },
-  "zip_code" : "21701",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-77.41408008099995",
-    "latitude" : "39.423733937000065",
-    "human_address" : "{\"address\":\"400 WEST SEVENTH ST\",\"city\":\"FREDERICK\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "400 WEST SEVENTH ST",
-  "provider_id" : "210005",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "FREDERICK",
-  "city" : "FREDERICK"
-}
-, {
-  "hospital_name" : "UNIVERSITY OF MARYLAND HARFORD MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4436433303"
-  },
-  "zip_code" : "21078",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.09151188999994",
-    "latitude" : "39.54339104400003",
-    "human_address" : "{\"address\":\"501 SOUTH UNION AVENUE\",\"city\":\"HAVRE DE GRACE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "501 SOUTH  UNION AVENUE",
-  "provider_id" : "210006",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "HARFORD",
-  "city" : "HAVRE DE GRACE"
-}
-, {
-  "hospital_name" : "MERCY MEDICAL CENTER INC",
-  "phone_number" : {
-    "phone_number" : "4103329237"
-  },
-  "zip_code" : "21202",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.61351500599994",
-    "latitude" : "39.29255356600004",
-    "human_address" : "{\"address\":\"301 SAINT PAUL PLACE\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "301 SAINT PAUL PLACE",
-  "provider_id" : "210008",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE CITY",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "JOHNS HOPKINS HOSPITAL, THE",
-  "phone_number" : {
-    "phone_number" : "4109559540"
-  },
-  "zip_code" : "21287",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.59085538399995",
-    "latitude" : "39.29745882900005",
-    "human_address" : "{\"address\":\"600 NORTH WOLFE STREET\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "600 NORTH  WOLFE STREET",
-  "provider_id" : "210009",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE CITY",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "SAINT AGNES HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4103682101"
-  },
-  "zip_code" : "21229",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.67133074599997",
-    "latitude" : "39.27353515400006",
-    "human_address" : "{\"address\":\"900 CATON AVENUE\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "900 CATON AVENUE",
-  "provider_id" : "210011",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE CITY",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "SINAI HOSPITAL OF BALTIMORE",
-  "phone_number" : {
-    "phone_number" : "4106015131"
-  },
-  "zip_code" : "21215",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.66225076499995",
-    "latitude" : "39.35468575300007",
-    "human_address" : "{\"address\":\"2401 WEST BELVEDERE AVENUE\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "2401 WEST BELVEDERE AVENUE",
-  "provider_id" : "210012",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE CITY",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "BON SECOURS HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4103623000"
-  },
-  "zip_code" : "21223",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.64910207699995",
-    "latitude" : "39.288097692000065",
-    "human_address" : "{\"address\":\"2000 W BALTIMORE STREET\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "2000 W BALTIMORE STREET",
-  "provider_id" : "210013",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE CITY",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "MEDSTAR FRANKLIN SQUARE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4437777850"
-  },
-  "zip_code" : "21237",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.60925984299996",
-    "latitude" : "39.290582950000044",
-    "human_address" : "{\"address\":\"9000 FRANKLIN SQUARE DRIVE\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "9000 FRANKLIN SQUARE DRIVE",
-  "provider_id" : "210015",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "ADVENTIST HEALTHCARE WASHINGTON ADVENTIST HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3018915651"
-  },
-  "zip_code" : "20912",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.99994538799996",
-    "latitude" : "38.983899902000076",
-    "human_address" : "{\"address\":\"7600 CARROLL AVENUE\",\"city\":\"TAKOMA PARK\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "7600 CARROLL AVENUE",
-  "provider_id" : "210016",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "MONTGOMERY",
-  "city" : "TAKOMA PARK"
-}
-, {
-  "hospital_name" : "GARRETT COUNTY MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3015334173"
-  },
-  "zip_code" : "21550",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-79.40241222799995",
-    "latitude" : "39.41361569000003",
-    "human_address" : "{\"address\":\"251 NORTH FOURTH STREET\",\"city\":\"OAKLAND\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "251 NORTH  FOURTH STREET",
-  "provider_id" : "210017",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "GARRETT",
-  "city" : "OAKLAND"
-}
-, {
-  "hospital_name" : "MEDSTAR MONTGOMERY MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3017748882"
-  },
-  "zip_code" : "20832",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-77.05669021599994",
-    "latitude" : "39.15232946800006",
-    "human_address" : "{\"address\":\"18101 PRINCE PHILIP DRIVE\",\"city\":\"OLNEY\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "18101 PRINCE PHILIP DRIVE",
-  "provider_id" : "210018",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "MONTGOMERY",
-  "city" : "OLNEY"
-}
-, {
-  "hospital_name" : "PENINSULA REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4105437111"
-  },
-  "zip_code" : "21801",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-75.59882126299993",
-    "latitude" : "38.363078717000064",
-    "human_address" : "{\"address\":\"100 EAST CARROLL AVENUE\",\"city\":\"SALISBURY\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "100 EAST CARROLL AVENUE",
-  "provider_id" : "210019",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "WICOMICO",
-  "city" : "SALISBURY"
-}
-, {
-  "hospital_name" : "SUBURBAN HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3018962576"
-  },
-  "zip_code" : "20814",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-77.10914683999994",
-    "latitude" : "38.996647782000025",
-    "human_address" : "{\"address\":\"8600 OLD GEORGETOWN ROAD\",\"city\":\"BETHESDA\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "8600 OLD GEORGETOWN ROAD",
-  "provider_id" : "210022",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "MONTGOMERY",
-  "city" : "BETHESDA"
-}
-, {
-  "hospital_name" : "ANNE ARUNDEL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4434811307"
-  },
-  "zip_code" : "21401",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.53618365899996",
-    "latitude" : "38.989104498000074",
-    "human_address" : "{\"address\":\"2001 MEDICAL PARKWAY\",\"city\":\"ANNAPOLIS\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "2001 MEDICAL PARKWAY",
-  "provider_id" : "210023",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "ANNE ARUNDEL",
-  "city" : "ANNAPOLIS"
-}
-, {
-  "hospital_name" : "MEDSTAR UNION MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4105542227"
-  },
-  "zip_code" : "21218",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.61495695699995",
-    "latitude" : "39.33065784200005",
-    "human_address" : "{\"address\":\"201 EAST UNIVERSITY PARKWAY\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "201 EAST UNIVERSITY PARKWAY",
-  "provider_id" : "210024",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE CITY",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "WESTERN MARYLAND REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2409648001"
-  },
-  "zip_code" : "21502",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-78.73160315299998",
-    "latitude" : "39.647136990000035",
-    "human_address" : "{\"address\":\"12500 WILLOWBROOK ROAD\",\"city\":\"CUMBERLAND\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "12500 WILLOWBROOK ROAD",
-  "provider_id" : "210027",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "ALLEGANY",
-  "city" : "CUMBERLAND"
-}
-, {
-  "hospital_name" : "MEDSTAR SAINT MARY'S HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3014756001"
-  },
-  "zip_code" : "20650",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.64002094399996",
-    "latitude" : "38.29914721500006",
-    "human_address" : "{\"address\":\"25500 POINT LOOKOUT ROAD\",\"city\":\"LEONARDTOWN\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "25500 POINT LOOKOUT ROAD",
-  "provider_id" : "210028",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "SAINT MARYS",
-  "city" : "LEONARDTOWN"
-}
-, {
-  "hospital_name" : "JOHNS HOPKINS BAYVIEW MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4105500123"
-  },
-  "zip_code" : "21224",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.55023201999995",
-    "latitude" : "39.28740110800004",
-    "human_address" : "{\"address\":\"4940 EASTERN AVENUE\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "4940 EASTERN AVENUE",
-  "provider_id" : "210029",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE CITY",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "UNIVERSITY OF MD SHORE MEDICAL CTR AT CHESTERTOWN",
-  "phone_number" : {
-    "phone_number" : "4107787668"
-  },
-  "zip_code" : "21620",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.06495949799995",
-    "latitude" : "39.21672018100003",
-    "human_address" : "{\"address\":\"100 BROWN STREET\",\"city\":\"CHESTERTOWN\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "100 BROWN STREET",
-  "provider_id" : "210030",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "KENT",
-  "city" : "CHESTERTOWN"
-}
-, {
-  "hospital_name" : "UNION HOSPITAL OF CECIL COUNTY",
-  "phone_number" : {
-    "phone_number" : "4103927009"
-  },
-  "zip_code" : "21921",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-75.83104356999996",
-    "latitude" : "39.608149067000056",
-    "human_address" : "{\"address\":\"106 BOW STREET\",\"city\":\"ELKTON\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "106 BOW STREET",
-  "provider_id" : "210032",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "CECIL",
-  "city" : "ELKTON"
-}
-, {
-  "hospital_name" : "CARROLL HOSPITAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4108483000"
-  },
-  "zip_code" : "21157",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.98990555599994",
-    "latitude" : "39.55778579400004",
-    "human_address" : "{\"address\":\"200 MEMORIAL AVE\",\"city\":\"WESTMINSTER\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "200 MEMORIAL AVE",
-  "provider_id" : "210033",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "CARROLL",
-  "city" : "WESTMINSTER"
-}
-, {
-  "hospital_name" : "MEDSTAR HARBOR HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4103503201"
-  },
-  "zip_code" : "21225",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.61537594099997",
-    "latitude" : "39.25186073300006",
-    "human_address" : "{\"address\":\"3001 SOUTH HANOVER STREET\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "3001 SOUTH  HANOVER STREET",
-  "provider_id" : "210034",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE CITY",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "UNIVERSITY OF MD CHARLES REGIONAL  MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3016094265"
-  },
-  "zip_code" : "20646",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.97115687099995",
-    "latitude" : "38.52960077600005",
-    "human_address" : "{\"address\":\"5 GARRETT AVENUE\",\"city\":\"LA PLATA\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "5 GARRETT AVENUE",
-  "provider_id" : "210035",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "CHARLES",
-  "city" : "LA PLATA"
-}
-, {
-  "hospital_name" : "UNIVERSITY OF MD SHORE MEDICAL CENTER AT EASTON",
-  "phone_number" : {
-    "phone_number" : "4108221000"
-  },
-  "zip_code" : "21601",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.07583479699997",
-    "latitude" : "38.76933244800006",
-    "human_address" : "{\"address\":\"219 SOUTH WASHINGTON STREET\",\"city\":\"EASTON\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "219 SOUTH  WASHINGTON STREET",
-  "provider_id" : "210037",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "TALBOT",
-  "city" : "EASTON"
-}
-, {
-  "hospital_name" : "UNIVERSITY OF MD MEDICAL CENTER MIDTOWN CAMPUS",
-  "phone_number" : {
-    "phone_number" : "4102258996"
-  },
-  "zip_code" : "21201",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.62076516299999",
-    "latitude" : "39.299352028000044",
-    "human_address" : "{\"address\":\"827 LINDEN AVENUE\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "827 LINDEN AVENUE",
-  "provider_id" : "210038",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE CITY",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "CALVERT MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4105358239"
-  },
-  "zip_code" : "20678",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.59657007499999",
-    "latitude" : "38.55905721500005",
-    "human_address" : "{\"address\":\"100 HOSPITAL ROAD\",\"city\":\"PRINCE FREDERICK\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "100 HOSPITAL ROAD",
-  "provider_id" : "210039",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "CALVERT",
-  "city" : "PRINCE FREDERICK"
-}
-, {
-  "hospital_name" : "NORTHWEST HOSPITAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4105215995"
-  },
-  "zip_code" : "21133",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.78195786599997",
-    "latitude" : "39.35955529600005",
-    "human_address" : "{\"address\":\"5401 OLD COURT ROAD\",\"city\":\"RANDALLSTOWN\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "5401 OLD COURT ROAD",
-  "provider_id" : "210040",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE",
-  "city" : "RANDALLSTOWN"
-}
-, {
-  "hospital_name" : "UNIVERITY OF MD BALTO WASHINGTON  MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4105951967"
-  },
-  "zip_code" : "21061",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.62447295999993",
-    "latitude" : "39.139492278000034",
-    "human_address" : "{\"address\":\"301 HOSPITAL DRIVE\",\"city\":\"GLEN BURNIE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "301 HOSPITAL DRIVE",
-  "provider_id" : "210043",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "ANNE ARUNDEL",
-  "city" : "GLEN BURNIE"
-}
-, {
-  "hospital_name" : "GREATER BALTIMORE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4438492000"
-  },
-  "zip_code" : "21204",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.62747826799995",
-    "latitude" : "39.38221507700007",
-    "human_address" : "{\"address\":\"6701 NORTH CHARLES STREET\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "6701 NORTH  CHARLES STREET",
-  "provider_id" : "210044",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "EDWARD MCCREADY MEMORIAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4107269496"
-  },
-  "zip_code" : "21817",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-75.85238271699995",
-    "latitude" : "37.99583530700005",
-    "human_address" : "{\"address\":\"201 HALL HIGHWAY\",\"city\":\"CRISFIELD\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "201 HALL HIGHWAY",
-  "provider_id" : "210045",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "SOMERSET",
-  "city" : "CRISFIELD"
-}
-, {
-  "hospital_name" : "HOWARD COUNTY GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4107407890"
-  },
-  "zip_code" : "21044",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.88712547499995",
-    "latitude" : "39.213966794000044",
-    "human_address" : "{\"address\":\"5755 CEDAR LANE\",\"city\":\"COLUMBIA\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "5755 CEDAR LANE",
-  "provider_id" : "210048",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "HOWARD",
-  "city" : "COLUMBIA"
-}
-, {
-  "hospital_name" : "UNIVERSITY OF M D UPPER CHESAPEAKE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4436433303"
-  },
-  "zip_code" : "21014",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.34575687499995",
-    "latitude" : "39.52044786500005",
-    "human_address" : "{\"address\":\"500 UPPER CHESAPEAKE DRIVE\",\"city\":\"BEL AIR\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "500 UPPER CHESAPEAKE DRIVE",
-  "provider_id" : "210049",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "HARFORD",
-  "city" : "BEL AIR"
-}
-, {
-  "hospital_name" : "DOCTORS'  COMMUNITY HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3015528085"
-  },
-  "zip_code" : "20706",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.86648306499995",
-    "latitude" : "38.980315104000056",
-    "human_address" : "{\"address\":\"8118 GOOD LUCK ROAD\",\"city\":\"LANHAM\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "8118 GOOD LUCK ROAD",
-  "provider_id" : "210051",
-  "hospital_ownership" : "Proprietary",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "PRINCE GEORGES",
-  "city" : "LANHAM"
-}
-, {
-  "hospital_name" : "LAUREL REGIONAL MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3017254300"
-  },
-  "zip_code" : "20707",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.88007567099999",
-    "latitude" : "39.085959099000036",
-    "human_address" : "{\"address\":\"7300 VAN DUSEN ROAD\",\"city\":\"LAUREL\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "7300 VAN DUSEN ROAD",
-  "provider_id" : "210055",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "PRINCE GEORGES",
-  "city" : "LAUREL"
-}
-, {
-  "hospital_name" : "MEDSTAR GOOD SAMARITAN HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4434443902"
-  },
-  "zip_code" : "21239",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.58887000199996",
-    "latitude" : "39.35887545000003",
-    "human_address" : "{\"address\":\"5601 LOCH RAVEN BOULEVARD\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "5601 LOCH RAVEN BOULEVARD",
-  "provider_id" : "210056",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE CITY",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "ADVENTIST HEALTHCARE SHADY GROVE MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "2408266517"
-  },
-  "zip_code" : "20850",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-77.19882577199996",
-    "latitude" : "39.09648820600006",
-    "human_address" : "{\"address\":\"9901 MEDICAL CENTER DRIVE\",\"city\":\"ROCKVILLE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "9901 MEDICAL CENTER DRIVE",
-  "provider_id" : "210057",
-  "hospital_ownership" : "Voluntary non-profit - Church",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "MONTGOMERY",
-  "city" : "ROCKVILLE"
-}
-, {
-  "hospital_name" : "UNIV OF MD REHABILITATION &  ORTHOPAEDIC INSTITUTE",
-  "phone_number" : {
-    "phone_number" : "4104486701"
-  },
-  "zip_code" : "21207",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.71069790799999",
-    "latitude" : "39.31337235500007",
-    "human_address" : "{\"address\":\"2200 KERNAN DRIVE\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "2200 KERNAN DRIVE",
-  "provider_id" : "210058",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : false,
-  "county_name" : "BALTIMORE CITY",
-  "city" : "BALTIMORE"
-}
-, {
-  "hospital_name" : "FORT WASHINGTON HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "3012927000"
-  },
-  "zip_code" : "20744",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.99134821299998",
-    "latitude" : "38.72834338400003",
-    "human_address" : "{\"address\":\"11711 LIVINGSTON ROAD\",\"city\":\"FORT WASHINGTON\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "11711 LIVINGSTON ROAD",
-  "provider_id" : "210060",
-  "hospital_ownership" : "Voluntary non-profit - Other",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "PRINCE GEORGES",
-  "city" : "FORT WASHINGTON"
-}
-, {
-  "hospital_name" : "ATLANTIC GENERAL HOSPITAL",
-  "phone_number" : {
-    "phone_number" : "4106419601"
-  },
-  "zip_code" : "21811",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-75.21040658899994",
-    "latitude" : "38.33872054100004",
-    "human_address" : "{\"address\":\"9733 HEALTHWAY DRIVE\",\"city\":\"BERLIN\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "9733 HEALTHWAY DRIVE",
-  "provider_id" : "210061",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "WORCESTER",
-  "city" : "BERLIN"
-}
-, {
-  "hospital_name" : "MEDSTAR SOUTHERN MARYLAND HOSPITAL CENTER",
-  "phone_number" : {
-    "phone_number" : "3018688000"
-  },
-  "zip_code" : "20735",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.87697268299996",
-    "latitude" : "38.750261634000026",
-    "human_address" : "{\"address\":\"7503 SURRATTS ROAD\",\"city\":\"CLINTON\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "7503 SURRATTS ROAD",
-  "provider_id" : "210062",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "PRINCE GEORGES",
-  "city" : "CLINTON"
-}
-, {
-  "hospital_name" : "UNIVERSITY OF MARYLAND ST JOSEPH MEDICAL CENTER",
-  "phone_number" : {
-    "phone_number" : "4103371000"
-  },
-  "zip_code" : "21204",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.61323625899996",
-    "latitude" : "39.38821027700004",
-    "human_address" : "{\"address\":\"7601 OSLER DRIVE\",\"city\":\"TOWSON\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "7601 OSLER DRIVE",
-  "provider_id" : "210063",
-  "hospital_ownership" : "Voluntary non-profit - Private",
-  "hospital_type" : "Acute Care Hospitals",
-  "state" : "MD",
-  "emergency_services" : true,
-  "county_name" : "BALTIMORE",
-  "city" : "TOWSON"
-}
-, {
-  "hospital_name" : "VA MARYLAND HEALTHCARE SYSTEM - BALTIMORE",
-  "phone_number" : {
-    "phone_number" : "4106057016"
-  },
-  "zip_code" : "21201",
-  "location" : {
-    "needs_recoding" : false,
-    "longitude" : "-76.62374611599995",
-    "latitude" : "39.28975813000005",
-    "human_address" : "{\"address\":\"10 NORTH GREENE STREET\",\"city\":\"BALTIMORE\",\"state\":\"MD\",\"zip\":\"\"}"
-  },
-  "address" : "10 NORTH GREENE STREET",
-  "provider_id" : "21020F",
-  "hospital_ownership" : "Government Federal",
-  "hospital_type" : "ACUTE CARE - VETERANS ADMINISTRATION",
-  "state" : "MD",
-  "emergency_services" : false,
-  "county_name" : "BALTIMORE CITY",
-  "city" : "BALTIMORE"
-}
- ]
+[
+    {
+        "address": "19801 OBSERVATION DRIVE",
+        "city": "GERMANTOWN",
+        "county_name": "MONTGOMERY",
+        "emergency_services": true,
+        "hospital_name": "HOLY CROSS GERMANTOWN HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -77.242662,
+                39.179289
+            ],
+            "type": "Point"
+        },
+        "location_address": "19801 OBSERVATION DRIVE",
+        "location_city": "GERMANTOWN",
+        "location_state": "MD",
+        "location_zip": "20876",
+        "phone_number": "3015551212",
+        "provider_id": "210065",
+        "state": "MD",
+        "zip_code": "20876"
+    },
+    {
+        "address": "900 CATON AVENUE",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE CITY",
+        "emergency_services": true,
+        "hospital_name": "SAINT AGNES HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.670816,
+                39.272628
+            ],
+            "type": "Point"
+        },
+        "location_address": "900 CATON AVENUE",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21229",
+        "phone_number": "4103682101",
+        "provider_id": "210011",
+        "state": "MD",
+        "zip_code": "21229"
+    },
+    {
+        "address": "100 HOSPITAL ROAD",
+        "city": "PRINCE FREDERICK",
+        "county_name": "CALVERT",
+        "emergency_services": true,
+        "hospital_name": "CALVERT MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.595602,
+                38.560214
+            ],
+            "type": "Point"
+        },
+        "location_address": "100 HOSPITAL ROAD",
+        "location_city": "PRINCE FREDERICK",
+        "location_state": "MD",
+        "location_zip": "20678",
+        "phone_number": "4105358239",
+        "provider_id": "210039",
+        "state": "MD",
+        "zip_code": "20678"
+    },
+    {
+        "address": "219 SOUTH  WASHINGTON STREET",
+        "city": "EASTON",
+        "county_name": "TALBOT",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY OF MD SHORE MEDICAL CENTER AT EASTON",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.075822,
+                38.769612
+            ],
+            "type": "Point"
+        },
+        "location_address": "219 SOUTH WASHINGTON STREET",
+        "location_city": "EASTON",
+        "location_state": "MD",
+        "location_zip": "21601",
+        "phone_number": "4108221000",
+        "provider_id": "210037",
+        "state": "MD",
+        "zip_code": "21601"
+    },
+    {
+        "address": "7300 VAN DUSEN ROAD",
+        "city": "LAUREL",
+        "county_name": "PRINCE GEORGES",
+        "emergency_services": true,
+        "hospital_name": "LAUREL REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.881591,
+                39.084742
+            ],
+            "type": "Point"
+        },
+        "location_address": "7300 VAN DUSEN ROAD",
+        "location_city": "LAUREL",
+        "location_state": "MD",
+        "location_zip": "20707",
+        "phone_number": "3017254300",
+        "provider_id": "210055",
+        "state": "MD",
+        "zip_code": "20707"
+    },
+    {
+        "address": "5 GARRETT AVENUE",
+        "city": "LA PLATA",
+        "county_name": "CHARLES",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY OF MD CHARLES REGIONAL  MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.970808,
+                38.529254
+            ],
+            "type": "Point"
+        },
+        "location_address": "5 GARRETT AVENUE",
+        "location_city": "LA PLATA",
+        "location_state": "MD",
+        "location_zip": "20646",
+        "phone_number": "3016094265",
+        "provider_id": "210035",
+        "state": "MD",
+        "zip_code": "20646"
+    },
+    {
+        "address": "5601 LOCH RAVEN BOULEVARD",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE CITY",
+        "emergency_services": true,
+        "hospital_name": "MEDSTAR GOOD SAMARITAN HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.588565,
+                39.359548
+            ],
+            "type": "Point"
+        },
+        "location_address": "5601 LOCH RAVEN BOULEVARD",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21239",
+        "phone_number": "4434443902",
+        "provider_id": "210056",
+        "state": "MD",
+        "zip_code": "21239"
+    },
+    {
+        "address": "4940 EASTERN AVENUE",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE CITY",
+        "emergency_services": true,
+        "hospital_name": "JOHNS HOPKINS BAYVIEW MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.554292,
+                39.287155
+            ],
+            "type": "Point"
+        },
+        "location_address": "4940 EASTERN AVENUE",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21224",
+        "phone_number": "4105500123",
+        "provider_id": "210029",
+        "state": "MD",
+        "zip_code": "21224"
+    },
+    {
+        "address": "8600 OLD GEORGETOWN ROAD",
+        "city": "BETHESDA",
+        "county_name": "MONTGOMERY",
+        "emergency_services": true,
+        "hospital_name": "SUBURBAN HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -77.109231,
+                38.997325
+            ],
+            "type": "Point"
+        },
+        "location_address": "8600 OLD GEORGETOWN ROAD",
+        "location_city": "BETHESDA",
+        "location_state": "MD",
+        "location_zip": "20814",
+        "phone_number": "3018962576",
+        "provider_id": "210022",
+        "state": "MD",
+        "zip_code": "20814"
+    },
+    {
+        "address": "11116 MEDICAL CAMPUS ROAD",
+        "city": "HAGERSTOWN",
+        "county_name": "WASHINGTON",
+        "emergency_services": true,
+        "hospital_name": "MERITUS MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -77.681154,
+                39.622789
+            ],
+            "type": "Point"
+        },
+        "location_address": "11116 MEDICAL CAMPUS ROAD",
+        "location_city": "HAGERSTOWN",
+        "location_state": "MD",
+        "location_zip": "21742",
+        "phone_number": "2403139500",
+        "provider_id": "210001",
+        "state": "MD",
+        "zip_code": "21742"
+    },
+    {
+        "address": "3001 HOSPITAL DRIVE",
+        "city": "CHEVERLY",
+        "county_name": "PRINCE GEORGES",
+        "emergency_services": true,
+        "hospital_name": "PRINCE GEORGES  HOSPITAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.922928,
+                38.92994
+            ],
+            "type": "Point"
+        },
+        "location_address": "3001 HOSPITAL DRIVE",
+        "location_city": "CHEVERLY",
+        "location_state": "MD",
+        "location_zip": "20785",
+        "phone_number": "3016182000",
+        "provider_id": "210003",
+        "state": "MD",
+        "zip_code": "20785"
+    },
+    {
+        "address": "3001 SOUTH  HANOVER STREET",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE CITY",
+        "emergency_services": true,
+        "hospital_name": "MEDSTAR HARBOR HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.615045,
+                39.251345
+            ],
+            "type": "Point"
+        },
+        "location_address": "3001 SOUTH HANOVER STREET",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21225",
+        "phone_number": "4103503201",
+        "provider_id": "210034",
+        "state": "MD",
+        "zip_code": "21225"
+    },
+    {
+        "address": "11711 LIVINGSTON ROAD",
+        "city": "FORT WASHINGTON",
+        "county_name": "PRINCE GEORGES",
+        "emergency_services": true,
+        "hospital_name": "FORT WASHINGTON HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.991389,
+                38.728435
+            ],
+            "type": "Point"
+        },
+        "location_address": "11711 LIVINGSTON ROAD",
+        "location_city": "FORT WASHINGTON",
+        "location_state": "MD",
+        "location_zip": "20744",
+        "phone_number": "3012927000",
+        "provider_id": "210060",
+        "state": "MD",
+        "zip_code": "20744"
+    },
+    {
+        "address": "10 NORTH GREENE STREET",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE CITY",
+        "emergency_services": false,
+        "hospital_name": "VA MARYLAND HEALTHCARE SYSTEM - BALTIMORE",
+        "hospital_ownership": "Government Federal",
+        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
+        "location": {
+            "coordinates": [
+                -76.62368,
+                39.289289
+            ],
+            "type": "Point"
+        },
+        "location_address": "10 NORTH GREENE STREET",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21201",
+        "phone_number": "4106057016",
+        "provider_id": "21020F",
+        "state": "MD",
+        "zip_code": "21201"
+    },
+    {
+        "address": "301 SAINT PAUL PLACE",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE CITY",
+        "emergency_services": true,
+        "hospital_name": "MERCY MEDICAL CENTER INC",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.61355,
+                39.29255
+            ],
+            "type": "Point"
+        },
+        "location_address": "301 SAINT PAUL PLACE",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21202",
+        "phone_number": "4103329237",
+        "provider_id": "210008",
+        "state": "MD",
+        "zip_code": "21202"
+    },
+    {
+        "address": "7503 SURRATTS ROAD",
+        "city": "CLINTON",
+        "county_name": "PRINCE GEORGES",
+        "emergency_services": true,
+        "hospital_name": "MEDSTAR SOUTHERN MARYLAND HOSPITAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.874997,
+                38.75025
+            ],
+            "type": "Point"
+        },
+        "location_address": "7503 SURRATTS ROAD",
+        "location_city": "CLINTON",
+        "location_state": "MD",
+        "location_zip": "20735",
+        "phone_number": "3018688000",
+        "provider_id": "210062",
+        "state": "MD",
+        "zip_code": "20735"
+    },
+    {
+        "address": "1500 FOREST GLEN ROAD",
+        "city": "SILVER SPRING",
+        "county_name": "MONTGOMERY",
+        "emergency_services": true,
+        "hospital_name": "HOLY CROSS HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -77.035469,
+                39.016011
+            ],
+            "type": "Point"
+        },
+        "location_address": "1500 FOREST GLEN ROAD",
+        "location_city": "SILVER SPRING",
+        "location_state": "MD",
+        "location_zip": "20910",
+        "phone_number": "3017547000",
+        "provider_id": "210004",
+        "state": "MD",
+        "zip_code": "20910"
+    },
+    {
+        "address": "8118 GOOD LUCK ROAD",
+        "city": "LANHAM",
+        "county_name": "PRINCE GEORGES",
+        "emergency_services": true,
+        "hospital_name": "DOCTORS'  COMMUNITY HOSPITAL",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.865171,
+                38.980457
+            ],
+            "type": "Point"
+        },
+        "location_address": "8118 GOOD LUCK ROAD",
+        "location_city": "LANHAM",
+        "location_state": "MD",
+        "location_zip": "20706",
+        "phone_number": "3015528085",
+        "provider_id": "210051",
+        "state": "MD",
+        "zip_code": "20706"
+    },
+    {
+        "address": "106 BOW STREET",
+        "city": "ELKTON",
+        "county_name": "CECIL",
+        "emergency_services": true,
+        "hospital_name": "UNION HOSPITAL OF CECIL COUNTY",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.831095,
+                39.608595
+            ],
+            "type": "Point"
+        },
+        "location_address": "106 BOW STREET",
+        "location_city": "ELKTON",
+        "location_state": "MD",
+        "location_zip": "21921",
+        "phone_number": "4103927009",
+        "provider_id": "210032",
+        "state": "MD",
+        "zip_code": "21921"
+    },
+    {
+        "address": "2434 WEST BELVEDERE AVENUE",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE",
+        "emergency_services": false,
+        "hospital_name": "LEVINDALE HEBREW GERIATRIC CENTER AND HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.664561,
+                39.353383
+            ],
+            "type": "Point"
+        },
+        "location_address": "2434 WEST BELVEDERE AVENUE",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21215",
+        "phone_number": "4106012400",
+        "provider_id": "210064",
+        "state": "MD",
+        "zip_code": "21215"
+    },
+    {
+        "address": "100 EAST CARROLL AVENUE",
+        "city": "SALISBURY",
+        "county_name": "WICOMICO",
+        "emergency_services": true,
+        "hospital_name": "PENINSULA REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.599489,
+                38.363068
+            ],
+            "type": "Point"
+        },
+        "location_address": "100 EAST CARROLL AVENUE",
+        "location_city": "SALISBURY",
+        "location_state": "MD",
+        "location_zip": "21801",
+        "phone_number": "4105437111",
+        "provider_id": "210019",
+        "state": "MD",
+        "zip_code": "21801"
+    },
+    {
+        "address": "5401 OLD COURT ROAD",
+        "city": "RANDALLSTOWN",
+        "county_name": "BALTIMORE",
+        "emergency_services": true,
+        "hospital_name": "NORTHWEST HOSPITAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.781681,
+                39.359734
+            ],
+            "type": "Point"
+        },
+        "location_address": "5401 OLD COURT ROAD",
+        "location_city": "RANDALLSTOWN",
+        "location_state": "MD",
+        "location_zip": "21133",
+        "phone_number": "4105215995",
+        "provider_id": "210040",
+        "state": "MD",
+        "zip_code": "21133"
+    },
+    {
+        "address": "22 SOUTH  GREENE STREET",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE CITY",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY OF MARYLAND MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.623661,
+                39.288956
+            ],
+            "type": "Point"
+        },
+        "location_address": "22 SOUTH GREENE STREET",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21201",
+        "phone_number": "4103288667",
+        "provider_id": "210002",
+        "state": "MD",
+        "zip_code": "21201"
+    },
+    {
+        "address": "18101 PRINCE PHILIP DRIVE",
+        "city": "OLNEY",
+        "county_name": "MONTGOMERY",
+        "emergency_services": true,
+        "hospital_name": "MEDSTAR MONTGOMERY MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -77.056712,
+                39.152975
+            ],
+            "type": "Point"
+        },
+        "location_address": "18101 PRINCE PHILIP DRIVE",
+        "location_city": "OLNEY",
+        "location_state": "MD",
+        "location_zip": "20832",
+        "phone_number": "3017748882",
+        "provider_id": "210018",
+        "state": "MD",
+        "zip_code": "20832"
+    },
+    {
+        "address": "2000 W BALTIMORE STREET",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE CITY",
+        "emergency_services": true,
+        "hospital_name": "BON SECOURS HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.649078,
+                39.288011
+            ],
+            "type": "Point"
+        },
+        "location_address": "2000 W BALTIMORE STREET",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21223",
+        "phone_number": "4103623000",
+        "provider_id": "210013",
+        "state": "MD",
+        "zip_code": "21223"
+    },
+    {
+        "address": "501 SOUTH  UNION AVENUE",
+        "city": "HAVRE DE GRACE",
+        "county_name": "HARFORD",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY OF MARYLAND HARFORD MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.091508,
+                39.542775
+            ],
+            "type": "Point"
+        },
+        "location_address": "501 SOUTH UNION AVENUE",
+        "location_city": "HAVRE DE GRACE",
+        "location_state": "MD",
+        "location_zip": "21078",
+        "phone_number": "4436433303",
+        "provider_id": "210006",
+        "state": "MD",
+        "zip_code": "21078"
+    },
+    {
+        "address": "12500 WILLOWBROOK ROAD",
+        "city": "CUMBERLAND",
+        "county_name": "ALLEGANY",
+        "emergency_services": true,
+        "hospital_name": "WESTERN MARYLAND REGIONAL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -78.732568,
+                39.649927
+            ],
+            "type": "Point"
+        },
+        "location_address": "12500 WILLOWBROOK ROAD",
+        "location_city": "CUMBERLAND",
+        "location_state": "MD",
+        "location_zip": "21502",
+        "phone_number": "2409648001",
+        "provider_id": "210027",
+        "state": "MD",
+        "zip_code": "21502"
+    },
+    {
+        "address": "301 HOSPITAL DRIVE",
+        "city": "GLEN BURNIE",
+        "county_name": "ANNE ARUNDEL",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY OF MD BALTO WASHINGTON  MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.623615,
+                39.139219
+            ],
+            "type": "Point"
+        },
+        "location_address": "301 HOSPITAL DRIVE",
+        "location_city": "GLEN BURNIE",
+        "location_state": "MD",
+        "location_zip": "21061",
+        "phone_number": "4105951967",
+        "provider_id": "210043",
+        "state": "MD",
+        "zip_code": "21061"
+    },
+    {
+        "address": "201 EAST UNIVERSITY PARKWAY",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE CITY",
+        "emergency_services": true,
+        "hospital_name": "MEDSTAR UNION MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.613776,
+                39.329994
+            ],
+            "type": "Point"
+        },
+        "location_address": "201 EAST UNIVERSITY PARKWAY",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21218",
+        "phone_number": "4105542227",
+        "provider_id": "210024",
+        "state": "MD",
+        "zip_code": "21218"
+    },
+    {
+        "address": "500 UPPER CHESAPEAKE DRIVE",
+        "city": "BEL AIR",
+        "county_name": "HARFORD",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY OF M D UPPER CHESAPEAKE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.348526,
+                39.519568
+            ],
+            "type": "Point"
+        },
+        "location_address": "500 UPPER CHESAPEAKE DRIVE",
+        "location_city": "BEL AIR",
+        "location_state": "MD",
+        "location_zip": "21014",
+        "phone_number": "4436433303",
+        "provider_id": "210049",
+        "state": "MD",
+        "zip_code": "21014"
+    },
+    {
+        "address": "7600 CARROLL AVENUE",
+        "city": "TAKOMA PARK",
+        "county_name": "MONTGOMERY",
+        "emergency_services": true,
+        "hospital_name": "ADVENTIST HEALTHCARE WASHINGTON ADVENTIST HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.99977,
+                38.983989
+            ],
+            "type": "Point"
+        },
+        "location_address": "7600 CARROLL AVENUE",
+        "location_city": "TAKOMA PARK",
+        "location_state": "MD",
+        "location_zip": "20912",
+        "phone_number": "3018915651",
+        "provider_id": "210016",
+        "state": "MD",
+        "zip_code": "20912"
+    },
+    {
+        "address": "25500 POINT LOOKOUT ROAD",
+        "city": "LEONARDTOWN",
+        "county_name": "SAINT MARYS",
+        "emergency_services": true,
+        "hospital_name": "MEDSTAR SAINT MARY'S HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.640565,
+                38.299309
+            ],
+            "type": "Point"
+        },
+        "location_address": "25500 POINT LOOKOUT ROAD",
+        "location_city": "LEONARDTOWN",
+        "location_state": "MD",
+        "location_zip": "20650",
+        "phone_number": "3014756001",
+        "provider_id": "210028",
+        "state": "MD",
+        "zip_code": "20650"
+    },
+    {
+        "address": "201 HALL HIGHWAY",
+        "city": "CRISFIELD",
+        "county_name": "SOMERSET",
+        "emergency_services": true,
+        "hospital_name": "EDWARD MCCREADY MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.853128,
+                37.997072
+            ],
+            "type": "Point"
+        },
+        "location_address": "201 HALL HIGHWAY",
+        "location_city": "CRISFIELD",
+        "location_state": "MD",
+        "location_zip": "21817",
+        "phone_number": "4107269496",
+        "provider_id": "210045",
+        "state": "MD",
+        "zip_code": "21817"
+    },
+    {
+        "address": "5755 CEDAR LANE",
+        "city": "COLUMBIA",
+        "county_name": "HOWARD",
+        "emergency_services": true,
+        "hospital_name": "HOWARD COUNTY GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.887294,
+                39.214552
+            ],
+            "type": "Point"
+        },
+        "location_address": "5755 CEDAR LANE",
+        "location_city": "COLUMBIA",
+        "location_state": "MD",
+        "location_zip": "21044",
+        "phone_number": "4107407890",
+        "provider_id": "210048",
+        "state": "MD",
+        "zip_code": "21044"
+    },
+    {
+        "address": "600 NORTH  WOLFE STREET",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE CITY",
+        "emergency_services": true,
+        "hospital_name": "JOHNS HOPKINS HOSPITAL, THE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.590781,
+                39.296892
+            ],
+            "type": "Point"
+        },
+        "location_address": "600 NORTH WOLFE STREET",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21287",
+        "phone_number": "4109559540",
+        "provider_id": "210009",
+        "state": "MD",
+        "zip_code": "21287"
+    },
+    {
+        "address": "2200 KERNAN DRIVE",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE CITY",
+        "emergency_services": false,
+        "hospital_name": "UNIV OF MD REHABILITATION &  ORTHOPAEDIC INSTITUTE",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.711697,
+                39.312874
+            ],
+            "type": "Point"
+        },
+        "location_address": "2200 KERNAN DRIVE",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21207",
+        "phone_number": "4104486701",
+        "provider_id": "210058",
+        "state": "MD",
+        "zip_code": "21207"
+    },
+    {
+        "address": "291 STONER AVENUE",
+        "city": "WESTMINSTER",
+        "county_name": "CARROLL",
+        "emergency_services": true,
+        "hospital_name": "CARROLL HOSPITAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.989339,
+                39.56155
+            ],
+            "type": "Point"
+        },
+        "location_address": "291 STONER AVENUE",
+        "location_city": "WESTMINSTER",
+        "location_state": "MD",
+        "location_zip": "21157",
+        "phone_number": "4108483000",
+        "provider_id": "210033",
+        "state": "MD",
+        "zip_code": "21157"
+    },
+    {
+        "address": "827 LINDEN AVENUE",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE CITY",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY OF MD MEDICAL CENTER MIDTOWN CAMPUS",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.620807,
+                39.299501
+            ],
+            "type": "Point"
+        },
+        "location_address": "827 LINDEN AVENUE",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21201",
+        "phone_number": "4102258996",
+        "provider_id": "210038",
+        "state": "MD",
+        "zip_code": "21201"
+    },
+    {
+        "address": "7601 OSLER DRIVE",
+        "city": "TOWSON",
+        "county_name": "BALTIMORE",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY OF MARYLAND ST JOSEPH MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.613278,
+                39.388123
+            ],
+            "type": "Point"
+        },
+        "location_address": "7601 OSLER DRIVE",
+        "location_city": "TOWSON",
+        "location_state": "MD",
+        "location_zip": "21204",
+        "phone_number": "4103371000",
+        "provider_id": "210063",
+        "state": "MD",
+        "zip_code": "21204"
+    },
+    {
+        "address": "2401 WEST BELVEDERE AVENUE",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE CITY",
+        "emergency_services": true,
+        "hospital_name": "SINAI HOSPITAL OF BALTIMORE",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.663247,
+                39.353928
+            ],
+            "type": "Point"
+        },
+        "location_address": "2401 WEST BELVEDERE AVENUE",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21215",
+        "phone_number": "4106015131",
+        "provider_id": "210012",
+        "state": "MD",
+        "zip_code": "21215"
+    },
+    {
+        "address": "251 NORTH  FOURTH STREET",
+        "city": "OAKLAND",
+        "county_name": "GARRETT",
+        "emergency_services": true,
+        "hospital_name": "GARRETT COUNTY MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -79.402147,
+                39.413962
+            ],
+            "type": "Point"
+        },
+        "location_address": "251 NORTH FOURTH STREET",
+        "location_city": "OAKLAND",
+        "location_state": "MD",
+        "location_zip": "21550",
+        "phone_number": "3015334173",
+        "provider_id": "210017",
+        "state": "MD",
+        "zip_code": "21550"
+    },
+    {
+        "address": "9901 MEDICAL CENTER DRIVE",
+        "city": "ROCKVILLE",
+        "county_name": "MONTGOMERY",
+        "emergency_services": true,
+        "hospital_name": "ADVENTIST HEALTHCARE SHADY GROVE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Church",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -77.200942,
+                39.097983
+            ],
+            "type": "Point"
+        },
+        "location_address": "9901 MEDICAL CENTER DRIVE",
+        "location_city": "ROCKVILLE",
+        "location_state": "MD",
+        "location_zip": "20850",
+        "phone_number": "2408266517",
+        "provider_id": "210057",
+        "state": "MD",
+        "zip_code": "20850"
+    },
+    {
+        "address": "9733 HEALTHWAY DRIVE",
+        "city": "BERLIN",
+        "county_name": "WORCESTER",
+        "emergency_services": true,
+        "hospital_name": "ATLANTIC GENERAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.209897,
+                38.337265
+            ],
+            "type": "Point"
+        },
+        "location_address": "9733 HEALTHWAY DRIVE",
+        "location_city": "BERLIN",
+        "location_state": "MD",
+        "location_zip": "21811",
+        "phone_number": "4106419601",
+        "provider_id": "210061",
+        "state": "MD",
+        "zip_code": "21811"
+    },
+    {
+        "address": "400 WEST SEVENTH ST",
+        "city": "FREDERICK",
+        "county_name": "FREDERICK",
+        "emergency_services": true,
+        "hospital_name": "FREDERICK MEMORIAL HOSPITAL",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -77.415057,
+                39.424177
+            ],
+            "type": "Point"
+        },
+        "location_address": "400 WEST SEVENTH ST",
+        "location_city": "FREDERICK",
+        "location_state": "MD",
+        "location_zip": "21701",
+        "phone_number": "2405663300",
+        "provider_id": "210005",
+        "state": "MD",
+        "zip_code": "21701"
+    },
+    {
+        "address": "6701 NORTH  CHARLES STREET",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE",
+        "emergency_services": true,
+        "hospital_name": "GREATER BALTIMORE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.628092,
+                39.393497
+            ],
+            "type": "Point"
+        },
+        "location_address": "6701 NORTH CHARLES STREET",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21204",
+        "phone_number": "4438492000",
+        "provider_id": "210044",
+        "state": "MD",
+        "zip_code": "21204"
+    },
+    {
+        "address": "2001 MEDICAL PARKWAY",
+        "city": "ANNAPOLIS",
+        "county_name": "ANNE ARUNDEL",
+        "emergency_services": true,
+        "hospital_name": "ANNE ARUNDEL MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.535163,
+                38.990616
+            ],
+            "type": "Point"
+        },
+        "location_address": "2001 MEDICAL PARKWAY",
+        "location_city": "ANNAPOLIS",
+        "location_state": "MD",
+        "location_zip": "21401",
+        "phone_number": "4434811307",
+        "provider_id": "210023",
+        "state": "MD",
+        "zip_code": "21401"
+    },
+    {
+        "address": "100 BROWN STREET",
+        "city": "CHESTERTOWN",
+        "county_name": "KENT",
+        "emergency_services": true,
+        "hospital_name": "UNIVERSITY OF MD SHORE MEDICAL CTR AT CHESTERTOWN",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.064938,
+                39.216662
+            ],
+            "type": "Point"
+        },
+        "location_address": "100 BROWN STREET",
+        "location_city": "CHESTERTOWN",
+        "location_state": "MD",
+        "location_zip": "21620",
+        "phone_number": "4107787668",
+        "provider_id": "210030",
+        "state": "MD",
+        "zip_code": "21620"
+    },
+    {
+        "address": "9000 FRANKLIN SQUARE DRIVE",
+        "city": "BALTIMORE",
+        "county_name": "BALTIMORE",
+        "emergency_services": false,
+        "hospital_name": "MEDSTAR FRANKLIN SQUARE MEDICAL CENTER",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -76.478683,
+                39.350486
+            ],
+            "type": "Point"
+        },
+        "location_address": "9000 FRANKLIN SQUARE DRIVE",
+        "location_city": "BALTIMORE",
+        "location_state": "MD",
+        "location_zip": "21237",
+        "phone_number": "4437777850",
+        "provider_id": "210015",
+        "state": "MD",
+        "zip_code": "21237"
+    }
+]
