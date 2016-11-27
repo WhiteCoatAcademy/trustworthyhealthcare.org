@@ -1,39 +1,51 @@
 {
-    "address": "911 N SHELBY ST",
-    "city": "SALEM",
-    "county_name": "WASHINGTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST VINCENT SALEM HOSPITAL INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "911 N SHELBY ST", 
+    "city": "SALEM", 
+    "county_name": "WASHINGTON", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST VINCENT SALEM HOSPITAL INC", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -86.107803,
-            38.613321
-        ],
+            -86.107802, 
+            38.613165
+        ], 
         "type": "Point"
-    },
-    "location_address": "911 N SHELBY ST",
-    "location_city": "SALEM",
-    "location_state": "IN",
-    "location_zip": "47167",
+    }, 
+    "location_address": "911 N SHELBY ST", 
+    "location_city": "SALEM", 
+    "location_state": "IN", 
+    "location_zip": "47167", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wcmhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8128835881",
-    "provider_id": "151314",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "8128835881", 
+    "provider_id": "151314", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "47167"
 }

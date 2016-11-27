@@ -1,41 +1,52 @@
 {
-    "address": "700 W. 7TH STREET",
-    "city": "BRISTOW",
-    "county_name": "CREEK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BRISTOW MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "700 W. 7TH STREET", 
+    "city": "BRISTOW", 
+    "county_name": "CREEK", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BRISTOW MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.401424,
-            35.832843
-        ],
+            -96.401121, 
+            35.833486
+        ], 
         "type": "Point"
-    },
-    "location_address": "700 W. 7TH STREET",
-    "location_city": "BRISTOW",
-    "location_state": "OK",
-    "location_zip": "74010",
+    }, 
+    "location_address": "700 W. 7TH STREET", 
+    "location_city": "BRISTOW", 
+    "location_state": "OK", 
+    "location_zip": "74010", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "bristowmedcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Partners, LLC",
+        "name": "Community Partners, LLC", 
         "websites": [
             "www.community-partners.com"
         ]
-    },
-    "phone_number": "9183672215",
-    "provider_id": "370041",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "9183672215", 
+    "provider_id": "370041", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "74010"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1227 EAST RUSHOLME STREET",
-    "city": "DAVENPORT",
-    "county_name": "SCOTT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GENESIS MEDICAL CENTER-DAVENPORT",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1227 EAST RUSHOLME STREET", 
+    "city": "DAVENPORT", 
+    "county_name": "SCOTT", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GENESIS MEDICAL CENTER-DAVENPORT", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.556408,
-            41.542832
-        ],
+            -90.556958, 
+            41.542837
+        ], 
         "type": "Point"
-    },
-    "location_address": "1227 EAST RUSHOLME STREET",
-    "location_city": "DAVENPORT",
-    "location_state": "IA",
-    "location_zip": "52803",
+    }, 
+    "location_address": "1227 EAST RUSHOLME STREET", 
+    "location_city": "DAVENPORT", 
+    "location_state": "IA", 
+    "location_zip": "52803", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.genesishealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Genesis Health System",
+        "name": "Genesis Health System", 
         "websites": [
             "www.genesishealth.com"
         ]
-    },
-    "phone_number": "5634211000",
-    "provider_id": "160033",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5634211000", 
+    "provider_id": "160033", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "52803"
 }

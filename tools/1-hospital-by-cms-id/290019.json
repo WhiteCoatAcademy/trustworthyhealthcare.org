@@ -1,39 +1,47 @@
 {
-    "address": "1600 MEDICAL PARKWAY",
-    "city": "CARSON CITY",
-    "county_name": "CARSON CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CARSON TAHOE REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1600 MEDICAL PARKWAY", 
+    "city": "CARSON CITY", 
+    "county_name": "CARSON CITY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CARSON TAHOE REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -119.781726,
-            39.201828
-        ],
+            -119.781729, 
+            39.201899
+        ], 
         "type": "Point"
-    },
-    "location_address": "1600 MEDICAL PARKWAY",
-    "location_city": "CARSON CITY",
-    "location_state": "NV",
-    "location_zip": "89703",
+    }, 
+    "location_address": "1600 MEDICAL PARKWAY", 
+    "location_city": "CARSON CITY", 
+    "location_state": "NV", 
+    "location_zip": "89703", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.carsontahoe.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7754458000",
-    "provider_id": "290019",
-    "raw_ratings": {},
-    "state": "NV",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7754458000", 
+    "provider_id": "290019", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NV", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "89703"
 }

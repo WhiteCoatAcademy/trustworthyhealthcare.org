@@ -1,39 +1,48 @@
 {
-    "address": "26520 CACTUS AVENUE",
-    "city": "MORENO VALLEY",
-    "county_name": "RIVERSIDE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "RIVERSIDE COUNTY REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "26520 CACTUS AVENUE", 
+    "city": "MORENO VALLEY", 
+    "county_name": "RIVERSIDE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "RIVERSIDE UNIVERSITY HEALTH SYSTEM-MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.200443,
-            33.910031
-        ],
+            -117.195824, 
+            33.910054
+        ], 
         "type": "Point"
-    },
-    "location_address": "26520 CACTUS AVENUE",
-    "location_city": "MORENO VALLEY",
-    "location_state": "CA",
-    "location_zip": "92555",
+    }, 
+    "location_address": "26520 CACTUS AVENUE", 
+    "location_city": "MORENO VALLEY", 
+    "location_state": "CA", 
+    "location_zip": "92555", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.rcrmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9514864000",
-    "provider_id": "050292",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9514864000", 
+    "provider_id": "050292", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "92555"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "914 S SCHEUBER ROAD",
-    "city": "CENTRALIA",
-    "county_name": "LEWIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PROVIDENCE CENTRALIA HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "914 S SCHEUBER ROAD", 
+    "city": "CENTRALIA", 
+    "county_name": "LEWIS", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PROVIDENCE CENTRALIA HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.986991,
-            46.712649
-        ],
+            -122.986991, 
+            46.712729
+        ], 
         "type": "Point"
-    },
-    "location_address": "914 S SCHEUBER ROAD",
-    "location_city": "CENTRALIA",
-    "location_state": "WA",
-    "location_zip": "98531",
+    }, 
+    "location_address": "914 S SCHEUBER ROAD", 
+    "location_city": "CENTRALIA", 
+    "location_state": "WA", 
+    "location_zip": "98531", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.providence.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Providence Health System",
+        "name": "Providence Health System", 
         "websites": [
             "www.providence.org"
         ]
-    },
-    "phone_number": "3607362803",
-    "provider_id": "500019",
-    "raw_ratings": {},
-    "state": "WA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3607362803", 
+    "provider_id": "500019", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "98531"
 }

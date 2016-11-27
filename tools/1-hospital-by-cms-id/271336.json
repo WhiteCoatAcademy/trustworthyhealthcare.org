@@ -1,39 +1,48 @@
 {
-    "address": "1600 HOSPITAL WAY",
-    "city": "WHITEFISH",
-    "county_name": "FLATHEAD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTH VALLEY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1600 HOSPITAL WAY", 
+    "city": "WHITEFISH", 
+    "county_name": "FLATHEAD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTH VALLEY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -114.332781,
-            48.381049
-        ],
+            -114.331326, 
+            48.381032
+        ], 
         "type": "Point"
-    },
-    "location_address": "1600 HOSPITAL WAY",
-    "location_city": "WHITEFISH",
-    "location_state": "MT",
-    "location_zip": "59937",
+    }, 
+    "location_address": "1600 HOSPITAL WAY", 
+    "location_city": "WHITEFISH", 
+    "location_state": "MT", 
+    "location_zip": "59937", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nvhosp.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4068633550",
-    "provider_id": "271336",
-    "raw_ratings": {},
-    "state": "MT",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4068633550", 
+    "provider_id": "271336", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MT", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "59937"
 }

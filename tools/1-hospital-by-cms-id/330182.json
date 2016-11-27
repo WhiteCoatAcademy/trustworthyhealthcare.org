@@ -1,40 +1,49 @@
 {
-    "address": "100 PORT WASHINGTON BOULEVARD",
-    "city": "ROSLYN",
-    "county_name": "NASSAU",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST FRANCIS HOSPITAL, ROSLYN",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 PORT WASHINGTON BOULEVARD", 
+    "city": "ROSLYN", 
+    "county_name": "NASSAU", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST FRANCIS HOSPITAL, ROSLYN", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"100 PORT WASHINGTON BOULEVARD\",\"city\":\"ROSLYN\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.80520114800004",
-        "longitude": "-73.66869520399996",
-        "needs_recoding": false
-    },
-    "location_address": "100 PORT WASHINGTON BOULEVARD",
-    "location_city": "ROSLYN",
-    "location_state": "NY",
-    "location_zip": "11576",
+        "coordinates": [
+            -73.672669, 
+            40.804505
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "100 PORT WASHINGTON BOULEVARD", 
+    "location_city": "ROSLYN", 
+    "location_state": "NY", 
+    "location_zip": "11576", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stfrancisheartcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Health Services of Long Island",
+        "name": "Catholic Health Services of Long Island", 
         "websites": [
             "www.chsli.org"
         ]
-    },
-    "phone_number": "5165626000",
-    "provider_id": "330182",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5165626000", 
+    "provider_id": "330182", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "11576"
 }

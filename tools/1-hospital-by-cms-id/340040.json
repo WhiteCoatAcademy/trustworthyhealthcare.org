@@ -1,41 +1,49 @@
 {
-    "address": "2100 STANTONSBURG RD",
-    "city": "GREENVILLE",
-    "county_name": "PITT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "VIDANT MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2100 STANTONSBURG RD", 
+    "city": "GREENVILLE", 
+    "county_name": "PITT", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "VIDANT MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.400952,
-            35.60581
-        ],
+            -77.404218, 
+            35.605475
+        ], 
         "type": "Point"
-    },
-    "location_address": "2100 STANTONSBURG RD",
-    "location_city": "GREENVILLE",
-    "location_state": "NC",
-    "location_zip": "27834",
+    }, 
+    "location_address": "2100 STANTONSBURG RD", 
+    "location_city": "GREENVILLE", 
+    "location_state": "NC", 
+    "location_zip": "27834", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.uhseast.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University Health Systems of Eastern Carolina",
+        "name": "University Health Systems of Eastern Carolina", 
         "websites": [
             "www.uhseast.com"
         ]
-    },
-    "phone_number": "2528474100",
-    "provider_id": "340040",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2528474100", 
+    "provider_id": "340040", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "27834"
 }

@@ -1,39 +1,49 @@
 {
-    "address": "1002 SOUTH LINCOLN STREET",
-    "city": "KNOXVILLE",
-    "county_name": "MARION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "KNOXVILLE HOSPITAL & CLINICS",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1002 SOUTH LINCOLN STREET", 
+    "city": "KNOXVILLE", 
+    "county_name": "MARION", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "KNOXVILLE HOSPITAL & CLINICS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -93.109504,
-            41.310285
-        ],
+            -93.109511, 
+            41.310986
+        ], 
         "type": "Point"
-    },
-    "location_address": "1002 SOUTH LINCOLN STREET",
-    "location_city": "KNOXVILLE",
-    "location_state": "IA",
-    "location_zip": "50138",
+    }, 
+    "location_address": "1002 SOUTH LINCOLN STREET", 
+    "location_city": "KNOXVILLE", 
+    "location_state": "IA", 
+    "location_zip": "50138", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.kach.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6418422151",
-    "provider_id": "161355",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6418422151", 
+    "provider_id": "161355", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "50138"
 }

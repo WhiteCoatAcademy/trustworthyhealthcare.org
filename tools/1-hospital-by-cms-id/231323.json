@@ -1,40 +1,50 @@
 {
-    "address": "300 N PATTERSON, PO BOX 75",
-    "city": "REED CITY",
-    "county_name": "OSCEOLA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SPECTRUM HEALTH REED CITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "300 N PATTERSON, PO BOX 75", 
+    "city": "REED CITY", 
+    "county_name": "OSCEOLA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SPECTRUM HEALTH REED CITY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"PO BOX 75, 300 N PATTERSON\",\"city\":\"REED CITY\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "43.86952195500004",
-        "longitude": "-85.50885788099998",
-        "needs_recoding": false
-    },
-    "location_address": "300 N PATTERSON, PO BOX 75",
-    "location_city": "REED CITY",
-    "location_state": "MI",
-    "location_zip": "49677",
+        "coordinates": [
+            -85.522916, 
+            43.87848
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "300 N PATTERSON, PO BOX 75", 
+    "location_city": "REED CITY", 
+    "location_state": "MI", 
+    "location_zip": "49677", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "reedcity.spectrum-health.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Spectrum Health",
+        "name": "Spectrum Health", 
         "websites": [
             "www.spectrum-health.org"
         ]
-    },
-    "phone_number": "2318323271",
-    "provider_id": "231323",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2318323271", 
+    "provider_id": "231323", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "49677"
 }

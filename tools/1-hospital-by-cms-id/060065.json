@@ -1,41 +1,49 @@
 {
-    "address": "9191 GRANT ST",
-    "city": "THORNTON",
-    "county_name": "ADAMS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTH SUBURBAN MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "9191 GRANT ST", 
+    "city": "THORNTON", 
+    "county_name": "ADAMS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTH SUBURBAN MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -104.984783,
+            -104.984783, 
             39.86438
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "9191 GRANT ST",
-    "location_city": "THORNTON",
-    "location_state": "CO",
-    "location_zip": "80229",
+    }, 
+    "location_address": "9191 GRANT ST", 
+    "location_city": "THORNTON", 
+    "location_state": "CO", 
+    "location_zip": "80229", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.northsuburban.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HealthONE",
+        "name": "HealthONE", 
         "websites": [
             "www.healthonecares.com"
         ]
-    },
-    "phone_number": "3034517800",
-    "provider_id": "060065",
-    "raw_ratings": {},
-    "state": "CO",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3034517800", 
+    "provider_id": "060065", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CO", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "80229"
 }

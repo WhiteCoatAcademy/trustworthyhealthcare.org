@@ -1,39 +1,47 @@
 {
-    "address": "205 N EAST AVE",
-    "city": "JACKSON",
-    "county_name": "JACKSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ALLEGIANCE HEALTH",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "205 N EAST AVE", 
+    "city": "JACKSON", 
+    "county_name": "JACKSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HENRY FORD ALLEGIANCE HEALTH", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.394005,
-            42.252648
-        ],
+            -84.393546, 
+            42.250206
+        ], 
         "type": "Point"
-    },
-    "location_address": "205 N EAST AVE",
-    "location_city": "JACKSON",
-    "location_state": "MI",
-    "location_zip": "49201",
+    }, 
+    "location_address": "205 N EAST AVE", 
+    "location_city": "JACKSON", 
+    "location_state": "MI", 
+    "location_zip": "49201", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.allegiancehealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5177884800",
-    "provider_id": "230092",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5177884800", 
+    "provider_id": "230092", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "49201"
 }

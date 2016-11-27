@@ -1,41 +1,49 @@
 {
-    "address": "2635 N 7TH STREET",
-    "city": "GRAND JUNCTION",
-    "county_name": "MESA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST MARYS  MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2635 N 7TH STREET", 
+    "city": "GRAND JUNCTION", 
+    "county_name": "MESA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST MARYS  MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -108.561604,
-            39.091217
-        ],
+            -108.561439, 
+            39.090604
+        ], 
         "type": "Point"
-    },
-    "location_address": "2635 N 7TH STREET",
-    "location_city": "GRAND JUNCTION",
-    "location_state": "CO",
-    "location_zip": "81502",
+    }, 
+    "location_address": "2635 N 7TH STREET", 
+    "location_city": "GRAND JUNCTION", 
+    "location_state": "CO", 
+    "location_zip": "81502", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stmarygj.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sisters of Charity of Leavenworth Health System",
+        "name": "Sisters of Charity of Leavenworth Health System", 
         "websites": [
             "www.sclhsc.org"
         ]
-    },
-    "phone_number": "9702981950",
-    "provider_id": "060023",
-    "raw_ratings": {},
-    "state": "CO",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9702981950", 
+    "provider_id": "060023", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "81502"
 }

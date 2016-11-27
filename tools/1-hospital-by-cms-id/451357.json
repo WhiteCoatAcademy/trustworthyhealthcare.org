@@ -1,41 +1,55 @@
 {
-    "address": "1700 BRAZOS",
-    "city": "ROCKDALE",
-    "county_name": "MILAM",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LITTLE RIVER HEALTHCARE",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1700 BRAZOS", 
+    "city": "ROCKDALE", 
+    "county_name": "MILAM", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LITTLE RIVER HEALTHCARE", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -97.020575,
-            30.650156
-        ],
+            -97.021854, 
+            30.650004
+        ], 
         "type": "Point"
-    },
-    "location_address": "1700 BRAZOS",
-    "location_city": "ROCKDALE",
-    "location_state": "TX",
-    "location_zip": "76567",
+    }, 
+    "location_address": "1700 BRAZOS", 
+    "location_city": "ROCKDALE", 
+    "location_state": "TX", 
+    "location_zip": "76567", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lrhealthcare.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Blackhawk Healthcare",
+        "name": "Blackhawk Healthcare", 
         "websites": [
             "www.blackhawkhealthcare.com"
         ]
-    },
-    "phone_number": "5124464500",
-    "provider_id": "451357",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "5124464500", 
+    "provider_id": "451357", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "76567"
 }

@@ -1,38 +1,50 @@
 {
-    "address": "1430 HIGHWAY 4 EAST / P O BOX 6000",
-    "city": "HOLLY SPRINGS",
-    "county_name": "MARSHALL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ALLIANCE HEALTHCARE SYSTEM",
-    "hospital_ownership": "Physician",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1430 HIGHWAY 4 EAST / P O BOX 6000", 
+    "city": "HOLLY SPRINGS", 
+    "county_name": "MARSHALL", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ALLIANCE HEALTHCARE SYSTEM", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Physician", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"1430 HIGHWAY 4 EAST / P O BOX 6000\",\"city\":\"HOLLY SPRINGS\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "34.78446366600008",
-        "longitude": "-89.41766138999998",
-        "needs_recoding": false
-    },
-    "location_address": "1430 HIGHWAY 4 EAST / P O BOX 6000",
-    "location_city": "HOLLY SPRINGS",
-    "location_state": "MS",
-    "location_zip": "38635",
+        "coordinates": [
+            -89.415027, 
+            34.786835
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "1430 HIGHWAY 4 EAST / P O BOX 6000", 
+    "location_city": "HOLLY SPRINGS", 
+    "location_state": "MS", 
+    "location_zip": "38635", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.alliancehealth.us"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6622521212",
-    "provider_id": "250012",
-    "raw_ratings": {},
-    "state": "MS",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6622521212", 
+    "provider_id": "250012", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MS", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "38635"
 }

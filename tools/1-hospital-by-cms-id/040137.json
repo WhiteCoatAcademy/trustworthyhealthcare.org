@@ -1,41 +1,49 @@
 {
-    "address": "2215 WILDWOOD AVENUE",
-    "city": "SHERWOOD",
-    "county_name": "PULASKI",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST VINCENT MEDICAL CENTER/NORTH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2215 WILDWOOD AVENUE", 
+    "city": "SHERWOOD", 
+    "county_name": "PULASKI", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST VINCENT MEDICAL CENTER/NORTH", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -92.208366,
+            -92.208392, 
             34.814389
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2215 WILDWOOD AVENUE",
-    "location_city": "SHERWOOD",
-    "location_state": "AR",
-    "location_zip": "72120",
+    }, 
+    "location_address": "2215 WILDWOOD AVENUE", 
+    "location_city": "SHERWOOD", 
+    "location_state": "AR", 
+    "location_zip": "72120", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stvincenthealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Health Initiatives",
+        "name": "Catholic Health Initiatives", 
         "websites": [
             "www.catholichealthinit.org"
         ]
-    },
-    "phone_number": "5015527100",
-    "provider_id": "040137",
-    "raw_ratings": {},
-    "state": "AR",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5015527100", 
+    "provider_id": "040137", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "AR", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "72120"
 }

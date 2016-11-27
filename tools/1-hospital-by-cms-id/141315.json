@@ -1,41 +1,51 @@
 {
-    "address": "640 W WASHINGTON",
-    "city": "PITTSFIELD",
-    "county_name": "PIKE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ILLINI COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "640 W WASHINGTON", 
+    "city": "PITTSFIELD", 
+    "county_name": "PIKE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ILLINI COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -90.814328,
+            -90.815085, 
             39.606793
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "640 W WASHINGTON",
-    "location_city": "PITTSFIELD",
-    "location_state": "IL",
-    "location_zip": "62363",
+    }, 
+    "location_address": "640 W WASHINGTON", 
+    "location_city": "PITTSFIELD", 
+    "location_state": "IL", 
+    "location_zip": "62363", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.blessinghospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Blessing Corporate Services, Inc.",
+        "name": "Blessing Corporate Services, Inc.", 
         "websites": [
             "www.blessinghospital.org"
         ]
-    },
-    "phone_number": "2172852113",
-    "provider_id": "141315",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2172852113", 
+    "provider_id": "141315", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "62363"
 }

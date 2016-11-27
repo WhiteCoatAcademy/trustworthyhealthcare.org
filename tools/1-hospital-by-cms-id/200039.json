@@ -1,41 +1,49 @@
 {
-    "address": "35 MEDICAL CENTER PARKWAY",
-    "city": "AUGUSTA",
-    "county_name": "KENNEBEC",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MAINEGENERAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "35 MEDICAL CENTER PARKWAY", 
+    "city": "AUGUSTA", 
+    "county_name": "KENNEBEC", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MAINEGENERAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -69.782828,
-            44.360834
-        ],
+            -69.785707, 
+            44.360855
+        ], 
         "type": "Point"
-    },
-    "location_address": "35 MEDICAL CENTER PARKWAY",
-    "location_city": "AUGUSTA",
-    "location_state": "ME",
-    "location_zip": "04330",
+    }, 
+    "location_address": "35 MEDICAL CENTER PARKWAY", 
+    "location_city": "AUGUSTA", 
+    "location_state": "ME", 
+    "location_zip": "04330", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mainegeneral.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "MaineGeneral Health",
+        "name": "MaineGeneral Health", 
         "websites": [
             "www.mainegeneral.org"
         ]
-    },
-    "phone_number": "2078721000",
-    "provider_id": "200039",
-    "raw_ratings": {},
-    "state": "ME",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2078721000", 
+    "provider_id": "200039", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "ME", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "04330"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1200 B  GALE WILSON BLVD",
-    "city": "FAIRFIELD",
-    "county_name": "SOLANO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTHBAY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1200 B  GALE WILSON BLVD", 
+    "city": "FAIRFIELD", 
+    "county_name": "SOLANO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTHBAY MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.047589,
-            38.261104
-        ],
+            -122.049052, 
+            38.261114
+        ], 
         "type": "Point"
-    },
-    "location_address": "1200 B GALE WILSON BLVD",
-    "location_city": "FAIRFIELD",
-    "location_state": "CA",
-    "location_zip": "94533",
+    }, 
+    "location_address": "1200 B GALE WILSON BLVD", 
+    "location_city": "FAIRFIELD", 
+    "location_state": "CA", 
+    "location_zip": "94533", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.northbay.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "NorthBay Healthcare System",
+        "name": "NorthBay Healthcare System", 
         "websites": [
             "www.northbay.org"
         ]
-    },
-    "phone_number": "7076465000",
-    "provider_id": "050367",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7076465000", 
+    "provider_id": "050367", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "94533"
 }

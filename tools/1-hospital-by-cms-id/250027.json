@@ -1,40 +1,52 @@
 {
-    "address": "923 SOUTH CHRUCH STREET",
-    "city": "LOUISVILLE",
-    "county_name": "WINSTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WINSTON MEDICAL CENTER & SWINGBED",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "923 SOUTH CHRUCH STREET", 
+    "city": "LOUISVILLE", 
+    "county_name": "WINSTON", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WINSTON MEDICAL CENTER & SWINGBED", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"562 EAST MAIN STREET\",\"city\":\"LOUISVILLE\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "33.124567152000054",
-        "longitude": "-89.03638238599996",
-        "needs_recoding": false
-    },
-    "location_address": "923 SOUTH CHRUCH STREET",
-    "location_city": "LOUISVILLE",
-    "location_state": "MS",
-    "location_zip": "39339",
+        "coordinates": [
+            -89.06339, 
+            33.090867
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "923 SOUTH CHRUCH STREET", 
+    "location_city": "LOUISVILLE", 
+    "location_state": "MS", 
+    "location_zip": "39339", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.winstonmedical.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "AMERIS Health Systems",
+        "name": "AMERIS Health Systems", 
         "websites": [
             "www.amerishealth.com"
         ]
-    },
-    "phone_number": "6627795124",
-    "provider_id": "250027",
-    "raw_ratings": {},
-    "state": "MS",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6627795124", 
+    "provider_id": "250027", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MS", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "39339"
 }

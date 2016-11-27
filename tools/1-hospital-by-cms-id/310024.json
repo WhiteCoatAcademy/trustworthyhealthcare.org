@@ -1,41 +1,49 @@
 {
-    "address": "865 STONE ST",
-    "city": "RAHWAY",
-    "county_name": "UNION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL AT RAHWAY",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "865 STONE ST", 
+    "city": "RAHWAY", 
+    "county_name": "UNION", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL AT RAHWAY", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.291721,
-            40.612243
-        ],
+            -74.291726, 
+            40.612244
+        ], 
         "type": "Point"
-    },
-    "location_address": "865 STONE ST",
-    "location_city": "RAHWAY",
-    "location_state": "NJ",
-    "location_zip": "07065",
+    }, 
+    "location_address": "865 STONE ST", 
+    "location_city": "RAHWAY", 
+    "location_state": "NJ", 
+    "location_zip": "07065", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.rwjuhr.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Robert Wood Johnson Health Network",
+        "name": "Robert Wood Johnson Health Network", 
         "websites": [
             "www.rwjhn.org"
         ]
-    },
-    "phone_number": "7323814200",
-    "provider_id": "310024",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7323814200", 
+    "provider_id": "310024", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "07065"
 }

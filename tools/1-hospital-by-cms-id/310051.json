@@ -1,41 +1,49 @@
 {
-    "address": "99 BEAUVOIR AVENUE",
-    "city": "SUMMIT",
-    "county_name": "UNION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OVERLOOK MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "99 BEAUVOIR AVENUE", 
+    "city": "SUMMIT", 
+    "county_name": "UNION", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OVERLOOK MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.354008,
-            40.712418
-        ],
+            -74.354023, 
+            40.712411
+        ], 
         "type": "Point"
-    },
-    "location_address": "99 BEAUVOIR AVENUE",
-    "location_city": "SUMMIT",
-    "location_state": "NJ",
-    "location_zip": "07902",
+    }, 
+    "location_address": "99 BEAUVOIR AVENUE", 
+    "location_city": "SUMMIT", 
+    "location_state": "NJ", 
+    "location_zip": "07902", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.overlookhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Atlantic Health System",
+        "name": "Atlantic Health System", 
         "websites": [
             "www.atlantichealth.org"
         ]
-    },
-    "phone_number": "9085222000",
-    "provider_id": "310051",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9085222000", 
+    "provider_id": "310051", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "07902"
 }

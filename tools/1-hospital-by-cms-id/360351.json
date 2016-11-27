@@ -1,39 +1,51 @@
 {
-    "address": "444 NORTH MAIN STREET",
-    "city": "AKRON",
-    "county_name": "SUMMIT",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "CRYSTAL CLINIC ORTHOPAEDIC CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "444 NORTH MAIN STREET", 
+    "city": "AKRON", 
+    "county_name": "SUMMIT", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "CRYSTAL CLINIC ORTHOPAEDIC CENTER", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.512142,
-            41.097097
-        ],
+            -81.512155, 
+            41.09707
+        ], 
         "type": "Point"
-    },
-    "location_address": "444 NORTH MAIN STREET",
-    "location_city": "AKRON",
-    "location_state": "OH",
-    "location_zip": "44310",
+    }, 
+    "location_address": "444 NORTH MAIN STREET", 
+    "location_city": "AKRON", 
+    "location_state": "OH", 
+    "location_zip": "44310", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ehealthconnection.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3306684040",
-    "provider_id": "360351",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3306684040", 
+    "provider_id": "360351", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "44310"
 }

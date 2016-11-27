@@ -1,39 +1,47 @@
 {
-    "address": "5200 HARRY HINES BLVD",
-    "city": "DALLAS",
-    "county_name": "DALLAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PARKLAND HEALTH AND HOSPITAL SYSTEM",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5200 HARRY HINES BLVD", 
+    "city": "DALLAS", 
+    "county_name": "DALLAS", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PARKLAND HEALTH AND HOSPITAL SYSTEM", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.836982,
-            32.811799
-        ],
+            -96.836942, 
+            32.811768
+        ], 
         "type": "Point"
-    },
-    "location_address": "5200 HARRY HINES BLVD",
-    "location_city": "DALLAS",
-    "location_state": "TX",
-    "location_zip": "75235",
+    }, 
+    "location_address": "5200 HARRY HINES BLVD", 
+    "location_city": "DALLAS", 
+    "location_state": "TX", 
+    "location_zip": "75235", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.parklandhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2145908000",
-    "provider_id": "450015",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2145908000", 
+    "provider_id": "450015", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "75235"
 }

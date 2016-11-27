@@ -1,39 +1,51 @@
 {
-    "address": "455 PLUMAS BLVD",
-    "city": "YUBA CITY",
-    "county_name": "SUTTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SUTTER SURGICAL HOSPITAL - NORTH VALLEY",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "455 PLUMAS BLVD", 
+    "city": "YUBA CITY", 
+    "county_name": "SUTTER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "SUTTER SURGICAL HOSPITAL - NORTH VALLEY", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Physician", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -121.613662,
-            39.131804
-        ],
+            -121.61399, 
+            39.130925
+        ], 
         "type": "Point"
-    },
-    "location_address": "455 PLUMAS BLVD",
-    "location_city": "YUBA CITY",
-    "location_state": "CA",
-    "location_zip": "95991",
+    }, 
+    "location_address": "455 PLUMAS BLVD", 
+    "location_city": "YUBA CITY", 
+    "location_state": "CA", 
+    "location_zip": "95991", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.montclair-hospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5307495700",
-    "provider_id": "050766",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5307495700", 
+    "provider_id": "050766", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "95991"
 }

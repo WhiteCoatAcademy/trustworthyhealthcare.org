@@ -1,41 +1,50 @@
 {
-    "address": "601 HAMILTON AVE",
-    "city": "TRENTON",
-    "county_name": "MERCER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST FRANCIS MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "601 HAMILTON AVE", 
+    "city": "TRENTON", 
+    "county_name": "MERCER", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST FRANCIS MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.742576,
+            -74.742576, 
             40.217126
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "601 HAMILTON AVE",
-    "location_city": "TRENTON",
-    "location_state": "NJ",
-    "location_zip": "08629",
+    }, 
+    "location_address": "601 HAMILTON AVE", 
+    "location_city": "TRENTON", 
+    "location_state": "NJ", 
+    "location_zip": "08629", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stfrancismedical.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Health East",
+        "name": "Catholic Health East", 
         "websites": [
             "www.che.org"
         ]
-    },
-    "phone_number": "6095995000",
-    "provider_id": "310021",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6095995000", 
+    "provider_id": "310021", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "08629"
 }

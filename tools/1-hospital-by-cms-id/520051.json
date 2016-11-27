@@ -1,41 +1,49 @@
 {
-    "address": "2323 N LAKE DR",
-    "city": "MILWAUKEE",
-    "county_name": "MILWAUKEE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COLUMBIA ST MARYS HOSPITAL MILWAUKEE",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2323 N LAKE DR", 
+    "city": "MILWAUKEE", 
+    "county_name": "MILWAUKEE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COLUMBIA ST MARYS HOSPITAL MILWAUKEE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.879882,
-            43.060636
-        ],
+            -87.879139, 
+            43.061411
+        ], 
         "type": "Point"
-    },
-    "location_address": "2323 N LAKE DR",
-    "location_city": "MILWAUKEE",
-    "location_state": "WI",
-    "location_zip": "53211",
+    }, 
+    "location_address": "2323 N LAKE DR", 
+    "location_city": "MILWAUKEE", 
+    "location_state": "WI", 
+    "location_zip": "53211", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.columbia-stmarys.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ascension Health",
+        "name": "Ascension Health", 
         "websites": [
             "www.ascensionhealth.org"
         ]
-    },
-    "phone_number": "4142911210",
-    "provider_id": "520051",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4142911000", 
+    "provider_id": "520051", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "53211"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "600 WEST RIDGE ROAD",
-    "city": "WYTHEVILLE",
-    "county_name": "WYTHE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WYTHE COUNTY COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "600 WEST RIDGE ROAD", 
+    "city": "WYTHEVILLE", 
+    "county_name": "WYTHE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WYTHE COUNTY COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.095288,
-            36.953247
-        ],
+            -81.09586, 
+            36.953117
+        ], 
         "type": "Point"
-    },
-    "location_address": "600 WEST RIDGE ROAD",
-    "location_city": "WYTHEVILLE",
-    "location_state": "VA",
-    "location_zip": "24382",
+    }, 
+    "location_address": "600 WEST RIDGE ROAD", 
+    "location_city": "WYTHEVILLE", 
+    "location_state": "VA", 
+    "location_zip": "24382", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wcch.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "2762280200",
-    "provider_id": "490111",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2762280200", 
+    "provider_id": "490111", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "24382"
 }

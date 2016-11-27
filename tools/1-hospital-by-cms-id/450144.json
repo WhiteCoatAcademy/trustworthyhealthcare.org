@@ -1,39 +1,50 @@
 {
-    "address": "720 HOSPITAL DRIVE",
-    "city": "ANDREWS",
-    "county_name": "ANDREWS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PERMIAN REGIONAL MEDICAL CENTER ANDREWS COUNTY HO",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "720 HOSPITAL DRIVE", 
+    "city": "ANDREWS", 
+    "county_name": "ANDREWS", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PERMIAN REGIONAL MEDICAL CENTER ANDREWS COUNTY HO", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -102.546362,
-            32.337144
-        ],
+            -102.546866, 
+            32.337424
+        ], 
         "type": "Point"
-    },
-    "location_address": "720 HOSPITAL DRIVE",
-    "location_city": "ANDREWS",
-    "location_state": "TX",
-    "location_zip": "79714",
+    }, 
+    "location_address": "720 HOSPITAL DRIVE", 
+    "location_city": "ANDREWS", 
+    "location_state": "TX", 
+    "location_zip": "79714", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.permianregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4325232200",
-    "provider_id": "450144",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4325232200", 
+    "provider_id": "450144", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "79714"
 }

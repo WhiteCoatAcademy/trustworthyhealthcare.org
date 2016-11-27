@@ -1,38 +1,50 @@
 {
-    "address": "1100 WEST BLUFF",
-    "city": "WOODVILLE",
-    "county_name": "TYLER",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "TYLER COUNTY HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1100 WEST BLUFF", 
+    "city": "WOODVILLE", 
+    "county_name": "TYLER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "TYLER COUNTY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"1100 WEST BLUFF\",\"city\":\"WOODVILLE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "30.775302141000054",
-        "longitude": "-94.42784557599998",
-        "needs_recoding": false
-    },
-    "location_address": "1100 WEST BLUFF",
-    "location_city": "WOODVILLE",
-    "location_state": "TX",
-    "location_zip": "75979",
+        "coordinates": [
+            -94.427709, 
+            30.775289
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "1100 WEST BLUFF", 
+    "location_city": "WOODVILLE", 
+    "location_state": "TX", 
+    "location_zip": "75979", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.tchospital.us"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4092838141",
-    "provider_id": "450460",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "4092838141", 
+    "provider_id": "450460", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "75979"
 }

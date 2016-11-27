@@ -1,41 +1,49 @@
 {
-    "address": "1650 COWLES STREET",
-    "city": "FAIRBANKS",
-    "county_name": "FAIRBANKS NORTH STAR",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FAIRBANKS MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1650 COWLES STREET", 
+    "city": "FAIRBANKS", 
+    "county_name": "FAIRBANKS NORTH STAR", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FAIRBANKS MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -147.741909,
-            64.832881
-        ],
+            -147.736254, 
+            64.83139
+        ], 
         "type": "Point"
-    },
-    "location_address": "1650 COWLES STREET",
-    "location_city": "FAIRBANKS",
-    "location_state": "AK",
-    "location_zip": "99701",
+    }, 
+    "location_address": "1650 COWLES STREET", 
+    "location_city": "FAIRBANKS", 
+    "location_state": "AK", 
+    "location_zip": "99701", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bannerhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Banner Health",
+        "name": "Banner Health", 
         "websites": [
             "www.bannerhealth.com"
         ]
-    },
-    "phone_number": "9074528181",
-    "provider_id": "020012",
-    "raw_ratings": {},
-    "state": "AK",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9074528181", 
+    "provider_id": "020012", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "AK", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "99701"
 }

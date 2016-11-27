@@ -1,39 +1,47 @@
 {
-    "address": "5000 KENTUCKY ROUTE 321",
-    "city": "PRESTONSBURG",
-    "county_name": "FLOYD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HIGHLANDS REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5000 KENTUCKY ROUTE 321", 
+    "city": "PRESTONSBURG", 
+    "county_name": "FLOYD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HIGHLANDS REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.77025,
+            -82.77025, 
             37.71054
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "5000 KENTUCKY ROUTE 321",
-    "location_city": "PRESTONSBURG",
-    "location_state": "KY",
-    "location_zip": "41653",
+    }, 
+    "location_address": "5000 KENTUCKY ROUTE 321", 
+    "location_city": "PRESTONSBURG", 
+    "location_state": "KY", 
+    "location_zip": "41653", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hrmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6068868511",
-    "provider_id": "180005",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6068868511", 
+    "provider_id": "180005", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "41653"
 }

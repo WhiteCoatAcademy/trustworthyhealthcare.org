@@ -1,41 +1,49 @@
 {
-    "address": "500 17TH AVENUE",
-    "city": "SEATTLE",
-    "county_name": "KING",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SWEDISH MEDICAL CENTER / CHERRY HILL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "500 17TH AVENUE", 
+    "city": "SEATTLE", 
+    "county_name": "KING", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SWEDISH MEDICAL CENTER / CHERRY HILL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.310234,
-            47.606569
-        ],
+            -122.310249, 
+            47.606225
+        ], 
         "type": "Point"
-    },
-    "location_address": "500 17TH AVENUE",
-    "location_city": "SEATTLE",
-    "location_state": "WA",
-    "location_zip": "98122",
+    }, 
+    "location_address": "500 17TH AVENUE", 
+    "location_city": "SEATTLE", 
+    "location_state": "WA", 
+    "location_zip": "98122", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.swedish.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Swedish Medical Center",
+        "name": "Swedish Medical Center", 
         "websites": [
             "www.swedish.org"
         ]
-    },
-    "phone_number": "2063202000",
-    "provider_id": "500025",
-    "raw_ratings": {},
-    "state": "WA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2063202000", 
+    "provider_id": "500025", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "WA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "98122"
 }

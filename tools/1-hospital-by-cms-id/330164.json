@@ -1,41 +1,49 @@
 {
-    "address": "1000 SOUTH AVENUE",
-    "city": "ROCHESTER",
-    "county_name": "MONROE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HIGHLAND HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1000 SOUTH AVENUE", 
+    "city": "ROCHESTER", 
+    "county_name": "MONROE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HIGHLAND HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.607745,
-            43.135184
-        ],
+            -77.607556, 
+            43.135955
+        ], 
         "type": "Point"
-    },
-    "location_address": "1000 SOUTH AVENUE",
-    "location_city": "ROCHESTER",
-    "location_state": "NY",
-    "location_zip": "14620",
+    }, 
+    "location_address": "1000 SOUTH AVENUE", 
+    "location_city": "ROCHESTER", 
+    "location_state": "NY", 
+    "location_zip": "14620", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.urmc.rochester.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "The University of Rochester Medical Center",
+        "name": "The University of Rochester Medical Center", 
         "websites": [
             "www.urmc.rochester.edu"
         ]
-    },
-    "phone_number": "5854732200",
-    "provider_id": "330164",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5854732200", 
+    "provider_id": "330164", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "14620"
 }

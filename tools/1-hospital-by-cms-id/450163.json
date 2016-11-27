@@ -1,41 +1,49 @@
 {
-    "address": "1311 EAST GENERAL CAVAZOS BLVD",
-    "city": "KINGSVILLE",
-    "county_name": "KLEBERG",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHRISTUS SPOHN HOSPITAL KLEBERG",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1311 EAST GENERAL CAVAZOS BLVD", 
+    "city": "KINGSVILLE", 
+    "county_name": "KLEBERG", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHRISTUS SPOHN HOSPITAL KLEBERG", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.850797,
-            27.491403
-        ],
+            -97.849552, 
+            27.491419
+        ], 
         "type": "Point"
-    },
-    "location_address": "1311 EAST GENERAL CAVAZOS BLVD",
-    "location_city": "KINGSVILLE",
-    "location_state": "TX",
-    "location_zip": "78363",
+    }, 
+    "location_address": "1311 EAST GENERAL CAVAZOS BLVD", 
+    "location_city": "KINGSVILLE", 
+    "location_state": "TX", 
+    "location_zip": "78363", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.christusspohn.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "CHRISTUS Health",
+        "name": "CHRISTUS Health", 
         "websites": [
             "www.christushealth.org"
         ]
-    },
-    "phone_number": "3615951661",
-    "provider_id": "450163",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3615951661", 
+    "provider_id": "450163", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "78363"
 }

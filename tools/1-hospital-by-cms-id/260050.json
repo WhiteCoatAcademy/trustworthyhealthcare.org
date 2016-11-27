@@ -1,41 +1,49 @@
 {
-    "address": "2016 SOUTH MAIN ST",
-    "city": "MARYVILLE",
-    "county_name": "NODAWAY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SSM HEALTH ST FRANCIS HOSPITAL - MARYVILLE",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2016 SOUTH MAIN ST", 
+    "city": "MARYVILLE", 
+    "county_name": "NODAWAY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SSM HEALTH ST FRANCIS HOSPITAL - MARYVILLE", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.874044,
-            40.325845
-        ],
+            -94.874089, 
+            40.324198
+        ], 
         "type": "Point"
-    },
-    "location_address": "2016 SOUTH MAIN ST",
-    "location_city": "MARYVILLE",
-    "location_state": "MO",
-    "location_zip": "64468",
+    }, 
+    "location_address": "2016 SOUTH MAIN ST", 
+    "location_city": "MARYVILLE", 
+    "location_state": "MO", 
+    "location_zip": "64468", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stfrancismaryville.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "SSM Health Care",
+        "name": "SSM Health Care", 
         "websites": [
             "www.ssmhc.com"
         ]
-    },
-    "phone_number": "6605622600",
-    "provider_id": "260050",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6605622600", 
+    "provider_id": "260050", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "64468"
 }

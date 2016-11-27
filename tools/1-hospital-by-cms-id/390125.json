@@ -1,39 +1,47 @@
 {
-    "address": "601 PARK STREET",
-    "city": "HONESDALE",
-    "county_name": "WAYNE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WAYNE MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "601 PARK STREET", 
+    "city": "HONESDALE", 
+    "county_name": "WAYNE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WAYNE MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -75.259945,
-            41.576188
-        ],
+            -75.260691, 
+            41.575715
+        ], 
         "type": "Point"
-    },
-    "location_address": "601 PARK STREET",
-    "location_city": "HONESDALE",
-    "location_state": "PA",
-    "location_zip": "18431",
+    }, 
+    "location_address": "601 PARK STREET", 
+    "location_city": "HONESDALE", 
+    "location_state": "PA", 
+    "location_zip": "18431", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wmh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5702538100",
-    "provider_id": "390125",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5702538100", 
+    "provider_id": "390125", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "18431"
 }

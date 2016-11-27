@@ -1,41 +1,49 @@
 {
-    "address": "169 RIVERSIDE DRIVE",
-    "city": "BINGHAMTON",
-    "county_name": "BROOME",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OUR LADY OF LOURDES MEMORIAL HOSPITAL, INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "169 RIVERSIDE DRIVE", 
+    "city": "BINGHAMTON", 
+    "county_name": "BROOME", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OUR LADY OF LOURDES MEMORIAL HOSPITAL, INC", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -75.935541,
-            42.092638
-        ],
+            -75.935558, 
+            42.09264
+        ], 
         "type": "Point"
-    },
-    "location_address": "169 RIVERSIDE DRIVE",
-    "location_city": "BINGHAMTON",
-    "location_state": "NY",
-    "location_zip": "13905",
+    }, 
+    "location_address": "169 RIVERSIDE DRIVE", 
+    "location_city": "BINGHAMTON", 
+    "location_state": "NY", 
+    "location_zip": "13905", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lourdes.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ascension Health",
+        "name": "Ascension Health", 
         "websites": [
             "www.ascensionhealth.org"
         ]
-    },
-    "phone_number": "6077985111",
-    "provider_id": "330011",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6077985111", 
+    "provider_id": "330011", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "13905"
 }

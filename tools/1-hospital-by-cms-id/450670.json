@@ -1,39 +1,47 @@
 {
-    "address": "605 HOLDERRIETH",
-    "city": "TOMBALL",
-    "county_name": "HARRIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TOMBALL REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "605 HOLDERRIETH", 
+    "city": "TOMBALL", 
+    "county_name": "HARRIS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TOMBALL REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.623972,
-            30.088849
-        ],
+            -95.623985, 
+            30.088708
+        ], 
         "type": "Point"
-    },
-    "location_address": "605 HOLDERRIETH",
-    "location_city": "TOMBALL",
-    "location_state": "TX",
-    "location_zip": "77375",
+    }, 
+    "location_address": "605 HOLDERRIETH", 
+    "location_city": "TOMBALL", 
+    "location_state": "TX", 
+    "location_zip": "77375", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.tomballhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2813511623",
-    "provider_id": "450670",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2813511623", 
+    "provider_id": "450670", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "77375"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "169 ASHLEY AVE",
-    "city": "CHARLESTON",
-    "county_name": "CHARLESTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MUSC MEDICAL CENTER",
-    "hospital_ownership": "Government - State",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "169 ASHLEY AVE", 
+    "city": "CHARLESTON", 
+    "county_name": "CHARLESTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MUSC MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - State", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -79.946559,
+            -79.946559, 
             32.7854
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "169 ASHLEY AVE",
-    "location_city": "CHARLESTON",
-    "location_state": "SC",
-    "location_zip": "29425",
+    }, 
+    "location_address": "169 ASHLEY AVE", 
+    "location_city": "CHARLESTON", 
+    "location_state": "SC", 
+    "location_zip": "29425", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.muschealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Medical University of South Carolina",
+        "name": "Medical University of South Carolina", 
         "websites": [
             "www.muschealth.com"
         ]
-    },
-    "phone_number": "8437922300",
-    "provider_id": "420004",
-    "raw_ratings": {},
-    "state": "SC",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8437922300", 
+    "provider_id": "420004", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "SC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "29425"
 }

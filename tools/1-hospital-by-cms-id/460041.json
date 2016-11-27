@@ -1,41 +1,49 @@
 {
-    "address": "1600 WEST ANTELOPE DRIVE",
-    "city": "LAYTON",
-    "county_name": "DAVIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DAVIS HOSPITAL AND MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1600 WEST ANTELOPE DRIVE", 
+    "city": "LAYTON", 
+    "county_name": "DAVIS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DAVIS HOSPITAL AND MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -111.995094,
-            41.089245
-        ],
+            -111.995471, 
+            41.089242
+        ], 
         "type": "Point"
-    },
-    "location_address": "1600 WEST ANTELOPE DRIVE",
-    "location_city": "LAYTON",
-    "location_state": "UT",
-    "location_zip": "84041",
+    }, 
+    "location_address": "1600 WEST ANTELOPE DRIVE", 
+    "location_city": "LAYTON", 
+    "location_state": "UT", 
+    "location_zip": "84041", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.davishospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "IASIS Healthcare",
+        "name": "IASIS Healthcare", 
         "websites": [
             "www.iasishealthcare.com"
         ]
-    },
-    "phone_number": "8018077001",
-    "provider_id": "460041",
-    "raw_ratings": {},
-    "state": "UT",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8018077001", 
+    "provider_id": "460041", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "UT", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "84041"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "20 YORK ST",
-    "city": "NEW HAVEN",
-    "county_name": "NEW HAVEN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "YALE-NEW HAVEN HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "20 YORK ST", 
+    "city": "NEW HAVEN", 
+    "county_name": "NEW HAVEN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "YALE-NEW HAVEN HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -72.934637,
-            41.30436
-        ],
+            -72.934689, 
+            41.304285
+        ], 
         "type": "Point"
-    },
-    "location_address": "20 YORK ST",
-    "location_city": "NEW HAVEN",
-    "location_state": "CT",
-    "location_zip": "06504",
+    }, 
+    "location_address": "20 YORK ST", 
+    "location_city": "NEW HAVEN", 
+    "location_state": "CT", 
+    "location_zip": "06504", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ynhh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Yale New Haven Health System",
+        "name": "Yale New Haven Health System", 
         "websites": [
             "yalenewhavenhealth.org"
         ]
-    },
-    "phone_number": "2036884242",
-    "provider_id": "070022",
-    "raw_ratings": {},
-    "state": "CT",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2036884242", 
+    "provider_id": "070022", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CT", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "06504"
 }

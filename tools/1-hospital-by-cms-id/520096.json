@@ -1,41 +1,49 @@
 {
-    "address": "3801 SPRING ST",
-    "city": "RACINE",
-    "county_name": "RACINE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WHEATON FRANCISCAN HEALTHCARE ALL SAINTS",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3801 SPRING ST", 
+    "city": "RACINE", 
+    "county_name": "RACINE", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WHEATON FRANCISCAN HEALTHCARE ALL SAINTS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.827876,
-            42.734687
-        ],
+            -87.825946, 
+            42.73375
+        ], 
         "type": "Point"
-    },
-    "location_address": "3801 SPRING ST",
-    "location_city": "RACINE",
-    "location_state": "WI",
-    "location_zip": "53405",
+    }, 
+    "location_address": "3801 SPRING ST", 
+    "location_city": "RACINE", 
+    "location_state": "WI", 
+    "location_zip": "53405", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mywheaton.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Wheaton Franciscan Services, Inc",
+        "name": "Wheaton Franciscan Services, Inc", 
         "websites": [
             "www.wfs-inc.org"
         ]
-    },
-    "phone_number": "2626874011",
-    "provider_id": "520096",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2626874011", 
+    "provider_id": "520096", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "53405"
 }

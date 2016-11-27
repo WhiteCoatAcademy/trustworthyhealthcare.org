@@ -1,41 +1,50 @@
 {
-    "address": "12634 OLIVE BOULEVARD",
-    "city": "CREVE COEUR",
-    "county_name": "SAINT LOUIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BARNES-JEWISH WEST COUNTY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "12634 OLIVE BOULEVARD", 
+    "city": "CREVE COEUR", 
+    "county_name": "SAINT LOUIS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BARNES-JEWISH WEST COUNTY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.466163,
-            38.67697
-        ],
+            -90.466227, 
+            38.676997
+        ], 
         "type": "Point"
-    },
-    "location_address": "12634 OLIVE BOULEVARD",
-    "location_city": "CREVE COEUR",
-    "location_state": "MO",
-    "location_zip": "63141",
+    }, 
+    "location_address": "12634 OLIVE BOULEVARD", 
+    "location_city": "CREVE COEUR", 
+    "location_state": "MO", 
+    "location_zip": "63141", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.barnesjewishwestcounty.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "BJC HealthCare",
+        "name": "BJC HealthCare", 
         "websites": [
             "www.bjc.org"
         ]
-    },
-    "phone_number": "3149968000",
-    "provider_id": "260162",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3149968000", 
+    "provider_id": "260162", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "63141"
 }

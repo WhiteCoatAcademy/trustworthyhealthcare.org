@@ -1,38 +1,47 @@
 {
-    "address": "600 E BLVD",
-    "city": "ELKHART",
-    "county_name": "ELKHART",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ELKHART GENERAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "600 E BLVD", 
+    "city": "ELKHART", 
+    "county_name": "ELKHART", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ELKHART GENERAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"600 E BLVD\",\"city\":\"ELKHART\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "41.67883557400006",
-        "longitude": "-85.99181374799997",
-        "needs_recoding": false
-    },
-    "location_address": "600 E BLVD",
-    "location_city": "ELKHART",
-    "location_state": "IN",
-    "location_zip": "46514",
+        "coordinates": [
+            -85.991833, 
+            41.678761
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "600 E BLVD", 
+    "location_city": "ELKHART", 
+    "location_state": "IN", 
+    "location_zip": "46514", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.egh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5742942621",
-    "provider_id": "150018",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5742942621", 
+    "provider_id": "150018", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "46514"
 }

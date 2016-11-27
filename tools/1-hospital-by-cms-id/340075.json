@@ -1,41 +1,49 @@
 {
-    "address": "2201 S STERLING ST",
-    "city": "MORGANTON",
-    "county_name": "BURKE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CAROLINAS HEALTHCARE SYSTEM-BLUE RIDGE",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2201 S STERLING ST", 
+    "city": "MORGANTON", 
+    "county_name": "BURKE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CAROLINAS HEALTHCARE SYSTEM-BLUE RIDGE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.657615,
-            35.723354
-        ],
+            -81.657656, 
+            35.723376
+        ], 
         "type": "Point"
-    },
-    "location_address": "2201 S STERLING ST",
-    "location_city": "MORGANTON",
-    "location_state": "NC",
-    "location_zip": "28655",
+    }, 
+    "location_address": "2201 S STERLING ST", 
+    "location_city": "MORGANTON", 
+    "location_state": "NC", 
+    "location_zip": "28655", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.carolinashealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Carolinas HealthCare System",
+        "name": "Carolinas HealthCare System", 
         "websites": [
             "www.carolinas.org"
         ]
-    },
-    "phone_number": "8285805000",
-    "provider_id": "340075",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8285805000", 
+    "provider_id": "340075", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "28655"
 }

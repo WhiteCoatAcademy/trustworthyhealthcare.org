@@ -1,41 +1,49 @@
 {
-    "address": "3000 HOSPITAL BOULEVARD",
-    "city": "ROSWELL",
-    "county_name": "FULTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTH FULTON HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3000 HOSPITAL BOULEVARD", 
+    "city": "ROSWELL", 
+    "county_name": "FULTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WELLSTAR NORTH FULTON HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.320496,
-            34.06229
-        ],
+            -84.322477, 
+            34.062989
+        ], 
         "type": "Point"
-    },
-    "location_address": "3000 HOSPITAL BOULEVARD",
-    "location_city": "ROSWELL",
-    "location_state": "GA",
-    "location_zip": "30076",
+    }, 
+    "location_address": "3000 HOSPITAL BOULEVARD", 
+    "location_city": "ROSWELL", 
+    "location_state": "GA", 
+    "location_zip": "30076", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.northfultonregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "TENET Healthcare",
+        "name": "TENET Healthcare", 
         "websites": [
             "www.tenethealth.com"
         ]
-    },
-    "phone_number": "7707512500",
-    "provider_id": "110198",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7707512500", 
+    "provider_id": "110198", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "30076"
 }

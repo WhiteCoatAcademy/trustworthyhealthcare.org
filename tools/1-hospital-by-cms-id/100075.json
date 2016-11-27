@@ -1,40 +1,49 @@
 {
-    "address": "3001 W MARTIN LUTHER KING JR BLVD",
-    "city": "TAMPA",
-    "county_name": "HILLSBOROUGH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOSEPHS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3001 W MARTIN LUTHER KING JR BLVD", 
+    "city": "TAMPA", 
+    "county_name": "HILLSBOROUGH", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JOSEPHS HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"3001 W MARTIN LUTHER KING JR BLVD\",\"city\":\"TAMPA\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "27.98136810300008",
-        "longitude": "-82.49285090599994",
-        "needs_recoding": false
-    },
-    "location_address": "3001 W MARTIN LUTHER KING JR BLVD",
-    "location_city": "TAMPA",
-    "location_state": "FL",
-    "location_zip": "33677",
+        "coordinates": [
+            -82.489373, 
+            27.981379
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "3001 W MARTIN LUTHER KING JR BLVD", 
+    "location_city": "TAMPA", 
+    "location_state": "FL", 
+    "location_zip": "33677", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sjbhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "BayCare Health System",
+        "name": "BayCare Health System", 
         "websites": [
             "www.baycare.org"
         ]
-    },
-    "phone_number": "8138704398",
-    "provider_id": "100075",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8138704398", 
+    "provider_id": "100075", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "33677"
 }

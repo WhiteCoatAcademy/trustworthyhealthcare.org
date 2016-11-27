@@ -1,38 +1,47 @@
 {
-    "address": "8745 N WICKHAM RD",
-    "city": "MELBOURNE",
-    "county_name": "BREVARD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "VIERA HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "8745 N WICKHAM RD", 
+    "city": "MELBOURNE", 
+    "county_name": "BREVARD", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "VIERA HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"8745 N WICKHAM RD\",\"city\":\"MELBOURNE\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.229713641000046",
-        "longitude": "-80.72830299699996",
-        "needs_recoding": false
-    },
-    "location_address": "8745 N WICKHAM RD",
-    "location_city": "MELBOURNE",
-    "location_state": "FL",
-    "location_zip": "32940",
+        "coordinates": [
+            -80.732477, 
+            28.229589
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "8745 N WICKHAM RD", 
+    "location_city": "MELBOURNE", 
+    "location_state": "FL", 
+    "location_zip": "32940", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stcloudregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3214349000",
-    "provider_id": "100315",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3214349000", 
+    "provider_id": "100315", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "32940"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "900 ILLINOIS AVE",
-    "city": "STEVENS POINT",
-    "county_name": "PORTAGE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MINISTRY ST MICHAELS HOSPITAL OF STEVENS POINT",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "900 ILLINOIS AVE", 
+    "city": "STEVENS POINT", 
+    "county_name": "PORTAGE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MINISTRY ST MICHAELS HOSPITAL OF STEVENS POINT", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.566197,
-            44.526164
-        ],
+            -89.566198, 
+            44.526345
+        ], 
         "type": "Point"
-    },
-    "location_address": "900 ILLINOIS AVE",
-    "location_city": "STEVENS POINT",
-    "location_state": "WI",
-    "location_zip": "54481",
+    }, 
+    "location_address": "900 ILLINOIS AVE", 
+    "location_city": "STEVENS POINT", 
+    "location_state": "WI", 
+    "location_zip": "54481", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.saintmichaelshospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Marian Health System",
+        "name": "Marian Health System", 
         "websites": [
             "www.marianhealthsystem.com"
         ]
-    },
-    "phone_number": "7153465000",
-    "provider_id": "520002",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7153465000", 
+    "provider_id": "520002", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "54481"
 }

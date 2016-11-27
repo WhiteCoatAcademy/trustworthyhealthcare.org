@@ -1,39 +1,49 @@
 {
-    "address": "616 E 13TH ST",
-    "city": "WINAMAC",
-    "county_name": "PULASKI",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PULASKI MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "616 E 13TH ST", 
+    "city": "WINAMAC", 
+    "county_name": "PULASKI", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PULASKI MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -86.595328,
-            41.057397
-        ],
+            -86.595641, 
+            41.057384
+        ], 
         "type": "Point"
-    },
-    "location_address": "616 E 13TH ST",
-    "location_city": "WINAMAC",
-    "location_state": "IN",
-    "location_zip": "46996",
+    }, 
+    "location_address": "616 E 13TH ST", 
+    "location_city": "WINAMAC", 
+    "location_state": "IN", 
+    "location_zip": "46996", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pulaskimemorial.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5749462100",
-    "provider_id": "151305",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5749462100", 
+    "provider_id": "151305", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "46996"
 }

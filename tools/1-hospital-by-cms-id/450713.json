@@ -1,41 +1,49 @@
 {
-    "address": "901 WEST BEN WHITE BLVD",
-    "city": "AUSTIN",
-    "county_name": "TRAVIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST DAVID'S SOUTH AUSTIN MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "901 WEST BEN WHITE BLVD", 
+    "city": "AUSTIN", 
+    "county_name": "TRAVIS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST DAVID'S SOUTH AUSTIN MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.773392,
-            30.227315
-        ],
+            -97.773944, 
+            30.227308
+        ], 
         "type": "Point"
-    },
-    "location_address": "901 WEST BEN WHITE BLVD",
-    "location_city": "AUSTIN",
-    "location_state": "TX",
-    "location_zip": "78704",
+    }, 
+    "location_address": "901 WEST BEN WHITE BLVD", 
+    "location_city": "AUSTIN", 
+    "location_state": "TX", 
+    "location_zip": "78704", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "stdavids.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint David's HealthCare Partnership",
+        "name": "Saint David's HealthCare Partnership", 
         "websites": [
             "www.stdavids.com"
         ]
-    },
-    "phone_number": "5124487107",
-    "provider_id": "450713",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5124487107", 
+    "provider_id": "450713", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "78704"
 }

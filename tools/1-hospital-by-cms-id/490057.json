@@ -1,41 +1,49 @@
 {
-    "address": "1060 FIRST COLONIAL ROAD",
-    "city": "VIRGINIA BEACH",
-    "county_name": "VIRGINIA BEACH CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SENTARA VIRGINIA BEACH GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1060 FIRST COLONIAL ROAD", 
+    "city": "VIRGINIA BEACH", 
+    "county_name": "VIRGINIA BEACH CITY", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SENTARA VIRGINIA BEACH GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.02844,
-            36.864366
-        ],
+            -76.028342, 
+            36.864158
+        ], 
         "type": "Point"
-    },
-    "location_address": "1060 FIRST COLONIAL ROAD",
-    "location_city": "VIRGINIA BEACH",
-    "location_state": "VA",
-    "location_zip": "23454",
+    }, 
+    "location_address": "1060 FIRST COLONIAL ROAD", 
+    "location_city": "VIRGINIA BEACH", 
+    "location_state": "VA", 
+    "location_zip": "23454", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sentara.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sentara Healthcare",
+        "name": "Sentara Healthcare", 
         "websites": [
             "www.sentara.com"
         ]
-    },
-    "phone_number": "7573958000",
-    "provider_id": "490057",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7573958000", 
+    "provider_id": "490057", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "23454"
 }

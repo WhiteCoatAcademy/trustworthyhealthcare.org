@@ -1,41 +1,49 @@
 {
-    "address": "2855 OLD HIGHWAY 5 NORTH",
-    "city": "BLUE RIDGE",
-    "county_name": "FANNIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FANNIN REGIONAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2855 OLD HIGHWAY 5 NORTH", 
+    "city": "BLUE RIDGE", 
+    "county_name": "FANNIN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FANNIN REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.375025,
-            34.916425
-        ],
+            -84.375863, 
+            34.917288
+        ], 
         "type": "Point"
-    },
-    "location_address": "2855 OLD HIGHWAY 5 NORTH",
-    "location_city": "BLUE RIDGE",
-    "location_state": "GA",
-    "location_zip": "30513",
+    }, 
+    "location_address": "2855 OLD HIGHWAY 5 NORTH", 
+    "location_city": "BLUE RIDGE", 
+    "location_state": "GA", 
+    "location_zip": "30513", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.fanninregionalhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "7066323711",
-    "provider_id": "110189",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7066323711", 
+    "provider_id": "110189", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "30513"
 }

@@ -1,38 +1,50 @@
 {
-    "address": "26136 US HIGHWAY 59, PO BOX 107",
-    "city": "FAIRFAX",
-    "county_name": "ATCHISON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COMMUNITY HOSPITAL ASSOCIATION",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "26136 US HIGHWAY 59, PO BOX 107", 
+    "city": "FAIRFAX", 
+    "county_name": "ATCHISON", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COMMUNITY HOSPITAL ASSOCIATION", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"26136 US HIGHWAY 59, PO BOX 107\",\"city\":\"FAIRFAX\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "40.33909400700003",
-        "longitude": "-95.39477990299997",
-        "needs_recoding": false
-    },
-    "location_address": "26136 US HIGHWAY 59, PO BOX 107",
-    "location_city": "FAIRFAX",
-    "location_state": "MO",
-    "location_zip": "64446",
+        "coordinates": [
+            -95.39731, 
+            40.349694
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "26136 US HIGHWAY 59, PO BOX 107", 
+    "location_city": "FAIRFAX", 
+    "location_state": "MO", 
+    "location_zip": "64446", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.chafx.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6606862111",
-    "provider_id": "261303",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6606862111", 
+    "provider_id": "261303", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "64446"
 }

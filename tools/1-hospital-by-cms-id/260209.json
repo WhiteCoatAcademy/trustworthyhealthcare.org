@@ -1,41 +1,53 @@
 {
-    "address": "10 SOUTH HOSPITAL DRIVE",
-    "city": "FULTON",
-    "county_name": "CALLAWAY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FULTON MEDICAL CENTER LLC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "10 SOUTH HOSPITAL DRIVE", 
+    "city": "FULTON", 
+    "county_name": "CALLAWAY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FULTON MEDICAL CENTER LLC", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -91.966108,
-            38.842258
-        ],
+            -91.966201, 
+            38.842247
+        ], 
         "type": "Point"
-    },
-    "location_address": "10 SOUTH HOSPITAL DRIVE",
-    "location_city": "FULTON",
-    "location_state": "MO",
-    "location_zip": "65251",
+    }, 
+    "location_address": "10 SOUTH HOSPITAL DRIVE", 
+    "location_city": "FULTON", 
+    "location_state": "MO", 
+    "location_zip": "65251", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cchfulton.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "SunLink Health Systems",
+        "name": "SunLink Health Systems", 
         "websites": [
             "www.sunlinkhealth.com"
         ]
-    },
-    "phone_number": "5736423376",
-    "provider_id": "260209",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "5736423376", 
+    "provider_id": "260209", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "65251"
 }

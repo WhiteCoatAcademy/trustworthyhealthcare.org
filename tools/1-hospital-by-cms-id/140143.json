@@ -1,41 +1,49 @@
 {
-    "address": "600 E 1ST ST",
-    "city": "SPRING VALLEY",
-    "county_name": "BUREAU",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST MARGARETS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "600 E 1ST ST", 
+    "city": "SPRING VALLEY", 
+    "county_name": "BUREAU", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST MARGARETS HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.192611,
+            -89.192633, 
             41.328409
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "600 E 1ST ST",
-    "location_city": "SPRING VALLEY",
-    "location_state": "IL",
-    "location_zip": "61362",
+    }, 
+    "location_address": "600 E 1ST ST", 
+    "location_city": "SPRING VALLEY", 
+    "location_state": "IL", 
+    "location_zip": "61362", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.st-margarets.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sisters of Mary of the Presentation Health System",
+        "name": "Sisters of Mary of the Presentation Health System", 
         "websites": [
             "www.smphs.org"
         ]
-    },
-    "phone_number": "8156641176",
-    "provider_id": "140143",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8156641176", 
+    "provider_id": "140143", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "61362"
 }

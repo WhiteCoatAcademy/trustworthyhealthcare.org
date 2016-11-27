@@ -1,41 +1,49 @@
 {
-    "address": "1200 EAST 3900 SOUTH",
-    "city": "SALT LAKE CITY",
-    "county_name": "SALT LAKE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST MARKS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1200 EAST 3900 SOUTH", 
+    "city": "SALT LAKE CITY", 
+    "county_name": "SALT LAKE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST MARKS HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -111.85757,
-            40.687061
-        ],
+            -111.857446, 
+            40.687062
+        ], 
         "type": "Point"
-    },
-    "location_address": "1200 EAST 3900 SOUTH",
-    "location_city": "SALT LAKE CITY",
-    "location_state": "UT",
-    "location_zip": "84124",
+    }, 
+    "location_address": "1200 EAST 3900 SOUTH", 
+    "location_city": "SALT LAKE CITY", 
+    "location_state": "UT", 
+    "location_zip": "84124", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stmarkshospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "8012687700",
-    "provider_id": "460047",
-    "raw_ratings": {},
-    "state": "UT",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8012687700", 
+    "provider_id": "460047", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "UT", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "84124"
 }

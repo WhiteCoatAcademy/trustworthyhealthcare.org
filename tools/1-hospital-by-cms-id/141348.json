@@ -1,41 +1,51 @@
 {
-    "address": "325 SPRING STREET",
-    "city": "RED BUD",
-    "county_name": "RANDOLPH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "RED BUD REGIONAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "325 SPRING STREET", 
+    "city": "RED BUD", 
+    "county_name": "RANDOLPH", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "RED BUD REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -89.996426,
-            38.209622
-        ],
+            -89.996408, 
+            38.209605
+        ], 
         "type": "Point"
-    },
-    "location_address": "325 SPRING STREET",
-    "location_city": "RED BUD",
-    "location_state": "IL",
-    "location_zip": "62278",
+    }, 
+    "location_address": "325 SPRING STREET", 
+    "location_city": "RED BUD", 
+    "location_state": "IL", 
+    "location_zip": "62278", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.redbudregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "6182823831",
-    "provider_id": "141348",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6182823831", 
+    "provider_id": "141348", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "62278"
 }

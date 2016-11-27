@@ -1,39 +1,47 @@
 {
-    "address": "110 REHILL AVE",
-    "city": "SOMERVILLE",
-    "county_name": "SOMERSET",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL SOMERSET",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "110 REHILL AVE", 
+    "city": "SOMERVILLE", 
+    "county_name": "SOMERSET", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL SOMERSET", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.595751,
-            40.568692
-        ],
+            -74.595847, 
+            40.568414
+        ], 
         "type": "Point"
-    },
-    "location_address": "110 REHILL AVE",
-    "location_city": "SOMERVILLE",
-    "location_state": "NJ",
-    "location_zip": "08876",
+    }, 
+    "location_address": "110 REHILL AVE", 
+    "location_city": "SOMERVILLE", 
+    "location_state": "NJ", 
+    "location_zip": "08876", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.somersetmedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9086852200",
-    "provider_id": "310048",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9086852200", 
+    "provider_id": "310048", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "08876"
 }

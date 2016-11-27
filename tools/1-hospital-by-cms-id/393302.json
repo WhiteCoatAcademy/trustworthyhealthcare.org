@@ -1,41 +1,56 @@
 {
-    "address": "4401 PENN AVENUE",
-    "city": "PITTSBURGH",
-    "county_name": "ALLEGHENY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHILDREN'S HOSPITAL OF PITTSBURGH OF UPMC",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Childrens",
+    "address": "4401 PENN AVENUE", 
+    "city": "PITTSBURGH", 
+    "county_name": "ALLEGHENY", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHILDREN'S HOSPITAL OF PITTSBURGH OF UPMC", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Childrens", 
     "location": {
         "coordinates": [
-            -79.953019,
-            40.466013
-        ],
+            -79.952992, 
+            40.466049
+        ], 
         "type": "Point"
-    },
-    "location_address": "4401 PENN AVENUE",
-    "location_city": "PITTSBURGH",
-    "location_state": "PA",
-    "location_zip": "15224",
+    }, 
+    "location_address": "4401 PENN AVENUE", 
+    "location_city": "PITTSBURGH", 
+    "location_state": "PA", 
+    "location_zip": "15224", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.chp.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University of Pittsburgh Medical Center",
+        "name": "University of Pittsburgh Medical Center", 
         "websites": [
             "www.upmc.com"
         ]
-    },
-    "phone_number": "4126925325",
-    "provider_id": "393302",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "4126925325", 
+    "provider_id": "393302", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "15224"
 }

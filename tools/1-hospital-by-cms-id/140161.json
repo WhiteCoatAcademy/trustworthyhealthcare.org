@@ -1,41 +1,49 @@
 {
-    "address": "2500 WEST REYNOLDS STREET",
-    "city": "PONTIAC",
-    "county_name": "LIVINGSTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAINT JAMES HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2500 WEST REYNOLDS STREET", 
+    "city": "PONTIAC", 
+    "county_name": "LIVINGSTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAINT JAMES HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.679588,
-            40.873395
-        ],
+            -88.680466, 
+            40.873388
+        ], 
         "type": "Point"
-    },
-    "location_address": "2500 WEST REYNOLDS STREET",
-    "location_city": "PONTIAC",
-    "location_state": "IL",
-    "location_zip": "61764",
+    }, 
+    "location_address": "2500 WEST REYNOLDS STREET", 
+    "location_city": "PONTIAC", 
+    "location_state": "IL", 
+    "location_zip": "61764", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.osfsaintjames.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "OSF Healthcare System",
+        "name": "OSF Healthcare System", 
         "websites": [
             "www.osfhealthcare.org"
         ]
-    },
-    "phone_number": "8158422828",
-    "provider_id": "140161",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8158422828", 
+    "provider_id": "140161", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "61764"
 }

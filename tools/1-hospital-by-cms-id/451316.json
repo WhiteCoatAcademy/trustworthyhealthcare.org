@@ -1,41 +1,55 @@
 {
-    "address": "100 WEST CROSS STREET",
-    "city": "MADISONVILLE",
-    "county_name": "MADISON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MADISON ST JOSEPH HEALTH CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "100 WEST CROSS STREET", 
+    "city": "MADISONVILLE", 
+    "county_name": "MADISON", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "MADISON ST JOSEPH HEALTH CENTER", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -95.909929,
-            30.942053
-        ],
+            -95.9114, 
+            30.941438
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 WEST CROSS STREET",
-    "location_city": "MADISONVILLE",
-    "location_state": "TX",
-    "location_zip": "77864",
+    }, 
+    "location_address": "100 WEST CROSS STREET", 
+    "location_city": "MADISONVILLE", 
+    "location_state": "TX", 
+    "location_zip": "77864", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.st-joseph.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Franciscan Services Corporation",
+        "name": "Franciscan Services Corporation", 
         "websites": [
             "www.fscsylvania.org"
         ]
-    },
-    "phone_number": "9363482631",
-    "provider_id": "451316",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "9363482631", 
+    "provider_id": "451316", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "77864"
 }

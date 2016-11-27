@@ -1,41 +1,49 @@
 {
-    "address": "2 BERNARDINE DRIVE",
-    "city": "NEWPORT NEWS",
-    "county_name": "NEWPORT NEWS CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MARY IMMACULATE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2 BERNARDINE DRIVE", 
+    "city": "NEWPORT NEWS", 
+    "county_name": "NEWPORT NEWS CITY", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MARY IMMACULATE HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.511657,
-            37.145055
-        ],
+            -76.513158, 
+            37.142978
+        ], 
         "type": "Point"
-    },
-    "location_address": "2 BERNARDINE DRIVE",
-    "location_city": "NEWPORT NEWS",
-    "location_state": "VA",
-    "location_zip": "23602",
+    }, 
+    "location_address": "2 BERNARDINE DRIVE", 
+    "location_city": "NEWPORT NEWS", 
+    "location_state": "VA", 
+    "location_zip": "23602", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bonsecourshamptonroads.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Bon Secours Health System, Inc.",
+        "name": "Bon Secours Health System, Inc.", 
         "websites": [
             "www.bshsi.com"
         ]
-    },
-    "phone_number": "7578866000",
-    "provider_id": "490041",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7578866000", 
+    "provider_id": "490041", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "23602"
 }

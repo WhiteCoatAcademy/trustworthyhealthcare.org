@@ -1,39 +1,47 @@
 {
-    "address": "5501 SOUTH MCCOLL",
-    "city": "EDINBURG",
-    "county_name": "HIDALGO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DOCTORS HOSPITAL AT RENAISSANCE",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5501 SOUTH MCCOLL", 
+    "city": "EDINBURG", 
+    "county_name": "HIDALGO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DOCTORS HOSPITAL AT RENAISSANCE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -98.204032,
-            26.252807
-        ],
+            -98.204109, 
+            26.252424
+        ], 
         "type": "Point"
-    },
-    "location_address": "5501 SOUTH MCCOLL",
-    "location_city": "EDINBURG",
-    "location_state": "TX",
-    "location_zip": "78539",
+    }, 
+    "location_address": "5501 SOUTH MCCOLL", 
+    "location_city": "EDINBURG", 
+    "location_state": "TX", 
+    "location_zip": "78539", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.dhr-rgv.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9563628677",
-    "provider_id": "450869",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9563628677", 
+    "provider_id": "450869", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "78539"
 }

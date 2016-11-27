@@ -1,41 +1,50 @@
 {
-    "address": "6800 N MACARTHUR BLVD",
-    "city": "IRVING",
-    "county_name": "DALLAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LAS COLINAS MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6800 N MACARTHUR BLVD", 
+    "city": "IRVING", 
+    "county_name": "DALLAS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LAS COLINAS MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.958677,
-            32.902165
-        ],
+            -96.95869, 
+            32.901478
+        ], 
         "type": "Point"
-    },
-    "location_address": "6800 N MACARTHUR BLVD",
-    "location_city": "IRVING",
-    "location_state": "TX",
-    "location_zip": "75039",
+    }, 
+    "location_address": "6800 N MACARTHUR BLVD", 
+    "location_city": "IRVING", 
+    "location_state": "TX", 
+    "location_zip": "75039", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lascolinasmedical.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "9729692000",
-    "provider_id": "450822",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9729692000", 
+    "provider_id": "450822", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "75039"
 }

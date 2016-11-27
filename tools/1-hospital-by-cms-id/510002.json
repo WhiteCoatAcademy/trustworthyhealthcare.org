@@ -1,41 +1,49 @@
 {
-    "address": "202 MAPLEWOOD AVENUE  PO BOX 497",
-    "city": "RONCEVERTE",
-    "county_name": "GREENBRIER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GREENBRIER VALLEY MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1320 MAPLEWOOD AVENUE", 
+    "city": "RONCEVERTE", 
+    "county_name": "GREENBRIER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GREENBRIER VALLEY MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.469288,
+            -80.469288, 
             37.771814
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "202 MAPLEWOOD AVENUE PO BOX 497",
-    "location_city": "RONCEVERTE",
-    "location_state": "WV",
-    "location_zip": "24970",
+    }, 
+    "location_address": "1320 MAPLEWOOD AVENUE", 
+    "location_city": "RONCEVERTE", 
+    "location_state": "WV", 
+    "location_zip": "24970", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.gvmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "3046474411",
-    "provider_id": "510002",
-    "raw_ratings": {},
-    "state": "WV",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3046474411", 
+    "provider_id": "510002", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "WV", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "24970"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "800 MERCY DRIVE",
-    "city": "COUNCIL BLUFFS",
-    "county_name": "POTTAWATTAMIE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHI HEALTH MERCY COUNCIL BLUFFS",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "800 MERCY DRIVE", 
+    "city": "COUNCIL BLUFFS", 
+    "county_name": "POTTAWATTAMIE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHI HEALTH MERCY COUNCIL BLUFFS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.835391,
-            41.267013
-        ],
+            -95.838201, 
+            41.269636
+        ], 
         "type": "Point"
-    },
-    "location_address": "800 MERCY DRIVE",
-    "location_city": "COUNCIL BLUFFS",
-    "location_state": "IA",
-    "location_zip": "51503",
+    }, 
+    "location_address": "800 MERCY DRIVE", 
+    "location_city": "COUNCIL BLUFFS", 
+    "location_state": "IA", 
+    "location_zip": "51503", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.alegent.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Alegent Health",
+        "name": "Alegent Health", 
         "websites": [
             "www.alegent.com"
         ]
-    },
-    "phone_number": "7123285000",
-    "provider_id": "160028",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7123285000", 
+    "provider_id": "160028", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "51503"
 }

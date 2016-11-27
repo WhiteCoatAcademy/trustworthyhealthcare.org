@@ -1,39 +1,48 @@
 {
-    "address": "200 TRENTON ROAD",
-    "city": "BROWNS MILLS",
-    "county_name": "BURLINGTON",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "DEBORAH HEART AND LUNG CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 TRENTON ROAD", 
+    "city": "BROWNS MILLS", 
+    "county_name": "BURLINGTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "DEBORAH HEART AND LUNG CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.58621,
-            39.977274
-        ],
+            -74.587035, 
+            39.978635
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 TRENTON ROAD",
-    "location_city": "BROWNS MILLS",
-    "location_state": "NJ",
-    "location_zip": "08015",
+    }, 
+    "location_address": "200 TRENTON ROAD", 
+    "location_city": "BROWNS MILLS", 
+    "location_state": "NJ", 
+    "location_zip": "08015", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.deborah.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6098936611",
-    "provider_id": "310031",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6098936611", 
+    "provider_id": "310031", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "08015"
 }

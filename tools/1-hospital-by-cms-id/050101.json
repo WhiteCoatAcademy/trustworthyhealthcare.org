@@ -1,41 +1,49 @@
 {
-    "address": "300 HOSPITAL DR",
-    "city": "VALLEJO",
-    "county_name": "SOLANO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SUTTER SOLANO MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "300 HOSPITAL DR", 
+    "city": "VALLEJO", 
+    "county_name": "SOLANO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SUTTER SOLANO MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.240455,
-            38.1309
-        ],
+            -122.238105, 
+            38.130893
+        ], 
         "type": "Point"
-    },
-    "location_address": "300 HOSPITAL DR",
-    "location_city": "VALLEJO",
-    "location_state": "CA",
-    "location_zip": "94589",
+    }, 
+    "location_address": "300 HOSPITAL DR", 
+    "location_city": "VALLEJO", 
+    "location_state": "CA", 
+    "location_zip": "94589", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.suttersolano.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sutter Health",
+        "name": "Sutter Health", 
         "websites": [
             "www.sutterhealth.org"
         ]
-    },
-    "phone_number": "7075545280",
-    "provider_id": "050101",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7075545280", 
+    "provider_id": "050101", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "94589"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1140 LEXINGTON ROAD",
-    "city": "GEORGETOWN",
-    "county_name": "SCOTT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GEORGETOWN COMMUNITY HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1140 LEXINGTON ROAD", 
+    "city": "GEORGETOWN", 
+    "county_name": "SCOTT", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GEORGETOWN COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.562459,
-            38.188493
-        ],
+            -84.562445, 
+            38.186223
+        ], 
         "type": "Point"
-    },
-    "location_address": "1140 LEXINGTON ROAD",
-    "location_city": "GEORGETOWN",
-    "location_state": "KY",
-    "location_zip": "40324",
+    }, 
+    "location_address": "1140 LEXINGTON ROAD", 
+    "location_city": "GEORGETOWN", 
+    "location_state": "KY", 
+    "location_zip": "40324", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.georgetowncommunityhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "5028681100",
-    "provider_id": "180101",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5028681100", 
+    "provider_id": "180101", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "40324"
 }

@@ -1,41 +1,50 @@
 {
-    "address": "300 SOUTH PRESTON STREET",
-    "city": "RANSON",
-    "county_name": "JEFFERSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JEFFERSON MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "300 SOUTH PRESTON STREET", 
+    "city": "RANSON", 
+    "county_name": "JEFFERSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JEFFERSON MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -77.858102,
-            39.29569
-        ],
+            -77.858145, 
+            39.295763
+        ], 
         "type": "Point"
-    },
-    "location_address": "300 SOUTH PRESTON STREET",
-    "location_city": "RANSON",
-    "location_state": "WV",
-    "location_zip": "25438",
+    }, 
+    "location_address": "300 SOUTH PRESTON STREET", 
+    "location_city": "RANSON", 
+    "location_state": "WV", 
+    "location_zip": "25438", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.jeffmem.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "West Virginia United Health System",
+        "name": "West Virginia United Health System", 
         "websites": [
             "www.wvunitedhealthsystem.org"
         ]
-    },
-    "phone_number": "3047281600",
-    "provider_id": "511319",
-    "raw_ratings": {},
-    "state": "WV",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3047281600", 
+    "provider_id": "511319", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WV", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "25438"
 }

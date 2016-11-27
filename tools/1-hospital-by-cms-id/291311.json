@@ -1,39 +1,51 @@
 {
-    "address": "360 SOUTH LOLA LANE",
-    "city": "PAHRUMP",
-    "county_name": "NYE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DESERT VIEW REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "360 SOUTH LOLA LANE", 
+    "city": "PAHRUMP", 
+    "county_name": "NYE", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DESERT VIEW REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -116.023482,
-            36.214381
-        ],
+            -116.023432, 
+            36.215338
+        ], 
         "type": "Point"
-    },
-    "location_address": "360 SOUTH LOLA LANE",
-    "location_city": "PAHRUMP",
-    "location_state": "NV",
-    "location_zip": "89048",
+    }, 
+    "location_address": "360 SOUTH LOLA LANE", 
+    "location_city": "PAHRUMP", 
+    "location_state": "NV", 
+    "location_zip": "89048", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.dvrmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7757517500",
-    "provider_id": "291311",
-    "raw_ratings": {},
-    "state": "NV",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "7757517500", 
+    "provider_id": "291311", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NV", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "89048"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "81 BALL PARK ROAD",
-    "city": "HARLAN",
-    "county_name": "HARLAN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HARLAN ARH HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "81 BALL PARK ROAD", 
+    "city": "HARLAN", 
+    "county_name": "HARLAN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HARLAN ARH HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.313123,
-            36.810178
-        ],
+            -83.313105, 
+            36.810183
+        ], 
         "type": "Point"
-    },
-    "location_address": "81 BALL PARK ROAD",
-    "location_city": "HARLAN",
-    "location_state": "KY",
-    "location_zip": "40831",
+    }, 
+    "location_address": "81 BALL PARK ROAD", 
+    "location_city": "HARLAN", 
+    "location_state": "KY", 
+    "location_zip": "40831", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.arh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Appalachian Regional Healthcare",
+        "name": "Appalachian Regional Healthcare", 
         "websites": [
             "www.arh.org"
         ]
-    },
-    "phone_number": "6065738100",
-    "provider_id": "180050",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6065738100", 
+    "provider_id": "180050", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "40831"
 }

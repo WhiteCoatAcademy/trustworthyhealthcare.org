@@ -1,40 +1,49 @@
 {
-    "address": "33-57 HARRISON STREET",
-    "city": "JOHNSON CITY",
-    "county_name": "BROOME",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNITED HEALTH SERVICES HOSPITALS, INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "10-42 MITCHELL AVENUE", 
+    "city": "BINGHAMTON", 
+    "county_name": "BROOME", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNITED HEALTH SERVICES HOSPITALS, INC", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"33-57 HARRISON STREET\",\"city\":\"JOHNSON CITY\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "42.11504826100003",
-        "longitude": "-75.95916022399996",
-        "needs_recoding": false
-    },
-    "location_address": "33-57 HARRISON STREET",
-    "location_city": "JOHNSON CITY",
-    "location_state": "NY",
-    "location_zip": "13790",
+        "coordinates": [
+            -75.914166, 
+            42.088097
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "10-42 MITCHELL AVENUE", 
+    "location_city": "BINGHAMTON", 
+    "location_state": "NY", 
+    "location_zip": "13903", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.uhs.net"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "United Health Services",
+        "name": "United Health Services", 
         "websites": [
             "www.uhs.net"
         ]
-    },
-    "phone_number": "6077636000",
-    "provider_id": "330394",
-    "raw_ratings": {},
-    "state": "NY",
-    "zip_code": "13790"
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6077636000", 
+    "provider_id": "330394", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
+    "zip_code": "13903"
 }

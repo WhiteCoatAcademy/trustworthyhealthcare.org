@@ -1,41 +1,55 @@
 {
-    "address": "20 SOUTH PLUM STREET",
-    "city": "VERMILLION",
-    "county_name": "CLAY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SANFORD VERMILLION HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "20 SOUTH PLUM STREET", 
+    "city": "VERMILLION", 
+    "county_name": "CLAY", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SANFORD VERMILLION HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -96.9199,
-            42.779219
-        ],
+            -96.919904, 
+            42.778636
+        ], 
         "type": "Point"
-    },
-    "location_address": "20 SOUTH PLUM STREET",
-    "location_city": "VERMILLION",
-    "location_state": "SD",
-    "location_zip": "57069",
+    }, 
+    "location_address": "20 SOUTH PLUM STREET", 
+    "location_city": "VERMILLION", 
+    "location_state": "SD", 
+    "location_zip": "57069", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sanfordvermillion.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sanford Health",
+        "name": "Sanford Health", 
         "websites": [
             "www.sanfordhealth.org"
         ]
-    },
-    "phone_number": "6056242611",
-    "provider_id": "431336",
-    "raw_ratings": {},
-    "state": "SD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6056242611", 
+    "provider_id": "431336", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "SD", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "57069"
 }

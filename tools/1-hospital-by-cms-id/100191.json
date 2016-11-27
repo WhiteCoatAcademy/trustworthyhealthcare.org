@@ -1,40 +1,49 @@
 {
-    "address": "9332 SR 54, STE 401",
-    "city": "TRINITY",
-    "county_name": "PASCO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEDICAL CENTER OF TRINITY",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "9330 SR 54, STE 401", 
+    "city": "TRINITY", 
+    "county_name": "PASCO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEDICAL CENTER OF TRINITY", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"9332 SR 54, STE 401\",\"city\":\"TRINITY\",\"state\":\"FL\",\"zip\":\"\"}",
-        "latitude": "28.205985915000042",
-        "longitude": "-82.66005388799994",
-        "needs_recoding": false
-    },
-    "location_address": "9332 SR 54, STE 401",
-    "location_city": "TRINITY",
-    "location_state": "FL",
-    "location_zip": "34655",
+        "coordinates": [
+            -82.660247, 
+            28.206019
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "9330 SR 54, STE 401", 
+    "location_city": "TRINITY", 
+    "location_state": "FL", 
+    "location_zip": "34655", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.communityhospitalnpr.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "7278481733",
-    "provider_id": "100191",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7278481733", 
+    "provider_id": "100191", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "34655"
 }

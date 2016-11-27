@@ -1,39 +1,47 @@
 {
-    "address": "1301 SOUTH CRISMON ROAD",
-    "city": "MESA",
-    "county_name": "MARICOPA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MOUNTAIN VISTA MEDICAL CENTER, LP",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1301 SOUTH CRISMON ROAD", 
+    "city": "MESA", 
+    "county_name": "MARICOPA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MOUNTAIN VISTA MEDICAL CENTER, LP", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -111.615331,
-            33.391253
-        ],
+            -111.615329, 
+            33.3911
+        ], 
         "type": "Point"
-    },
-    "location_address": "1301 SOUTH CRISMON ROAD",
-    "location_city": "MESA",
-    "location_state": "AZ",
-    "location_zip": "85209",
+    }, 
+    "location_address": "1301 SOUTH CRISMON ROAD", 
+    "location_city": "MESA", 
+    "location_state": "AZ", 
+    "location_zip": "85209", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.gilberter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4803586100",
-    "provider_id": "030121",
-    "raw_ratings": {},
-    "state": "AZ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4803586100", 
+    "provider_id": "030121", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "AZ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "85209"
 }

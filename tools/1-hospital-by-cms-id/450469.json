@@ -1,39 +1,47 @@
 {
-    "address": "500 N HIGHLAND AVENUE",
-    "city": "SHERMAN",
-    "county_name": "GRAYSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WILSON N JONES REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "500 N HIGHLAND AVENUE", 
+    "city": "SHERMAN", 
+    "county_name": "GRAYSON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WILSON N JONES REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.622864,
-            33.635677
-        ],
+            -96.622865, 
+            33.63568
+        ], 
         "type": "Point"
-    },
-    "location_address": "500 N HIGHLAND AVENUE",
-    "location_city": "SHERMAN",
-    "location_state": "TX",
-    "location_zip": "75091",
+    }, 
+    "location_address": "500 N HIGHLAND AVENUE", 
+    "location_city": "SHERMAN", 
+    "location_state": "TX", 
+    "location_zip": "75091", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wnj.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9038704611",
-    "provider_id": "450469",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9038704611", 
+    "provider_id": "450469", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "75091"
 }

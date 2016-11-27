@@ -1,39 +1,47 @@
 {
-    "address": "1100 BUTTE ST",
-    "city": "REDDING",
-    "county_name": "SHASTA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SHASTA REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1100 BUTTE ST", 
+    "city": "REDDING", 
+    "county_name": "SHASTA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SHASTA REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.388246,
-            40.584999
-        ],
+            -122.38685, 
+            40.585273
+        ], 
         "type": "Point"
-    },
-    "location_address": "1100 BUTTE ST",
-    "location_city": "REDDING",
-    "location_state": "CA",
-    "location_zip": "96001",
+    }, 
+    "location_address": "1100 BUTTE ST", 
+    "location_city": "REDDING", 
+    "location_state": "CA", 
+    "location_zip": "96001", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.montclair-hospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5302445454",
-    "provider_id": "050764",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5302445454", 
+    "provider_id": "050764", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "96001"
 }

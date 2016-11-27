@@ -1,41 +1,49 @@
 {
-    "address": "2900 W OKLAHOMA AVE",
-    "city": "MILWAUKEE",
-    "county_name": "MILWAUKEE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "AURORA ST LUKES MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2900 W OKLAHOMA AVE", 
+    "city": "MILWAUKEE", 
+    "county_name": "MILWAUKEE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "AURORA ST LUKES MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.950653,
-            42.988598
-        ],
+            -87.949346, 
+            42.988612
+        ], 
         "type": "Point"
-    },
-    "location_address": "2900 W OKLAHOMA AVE",
-    "location_city": "MILWAUKEE",
-    "location_state": "WI",
-    "location_zip": "53215",
+    }, 
+    "location_address": "2900 W OKLAHOMA AVE", 
+    "location_city": "MILWAUKEE", 
+    "location_state": "WI", 
+    "location_zip": "53215", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.aurorahealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Aurora Health Care",
+        "name": "Aurora Health Care", 
         "websites": [
             "www.aurorahealthcare.org"
         ]
-    },
-    "phone_number": "4146496000",
-    "provider_id": "520138",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4146496000", 
+    "provider_id": "520138", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "53215"
 }

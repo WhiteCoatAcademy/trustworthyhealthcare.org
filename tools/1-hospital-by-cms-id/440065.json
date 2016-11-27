@@ -1,39 +1,47 @@
 {
-    "address": "100 NORTHCREST DRIVE",
-    "city": "SPRINGFIELD",
-    "county_name": "ROBERTSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTHCREST MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 NORTHCREST DRIVE", 
+    "city": "SPRINGFIELD", 
+    "county_name": "ROBERTSON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTHCREST MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.889033,
-            36.479581
-        ],
+            -86.888861, 
+            36.479501
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 NORTHCREST DRIVE",
-    "location_city": "SPRINGFIELD",
-    "location_state": "TN",
-    "location_zip": "37172",
+    }, 
+    "location_address": "100 NORTHCREST DRIVE", 
+    "location_city": "SPRINGFIELD", 
+    "location_state": "TN", 
+    "location_zip": "37172", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.northcrest.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6153842411",
-    "provider_id": "440065",
-    "raw_ratings": {},
-    "state": "TN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6153842411", 
+    "provider_id": "440065", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "37172"
 }

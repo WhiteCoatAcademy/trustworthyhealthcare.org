@@ -1,41 +1,49 @@
 {
-    "address": "8110 GATEHOUSE ROAD, 400 WEST",
-    "city": "FALLS CHURCH",
-    "county_name": "FAIRFAX",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "INOVA FAIRFAX HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3300 GALLOWS ROAD", 
+    "city": "FALLS CHURCH", 
+    "county_name": "FAIRFAX", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "INOVA FAIRFAX HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.22442,
+            -77.22442, 
             38.86893
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "8110 GATEHOUSE ROAD, 400 WEST",
-    "location_city": "FALLS CHURCH",
-    "location_state": "VA",
-    "location_zip": "22042",
+    }, 
+    "location_address": "3300 GALLOWS ROAD", 
+    "location_city": "FALLS CHURCH", 
+    "location_state": "VA", 
+    "location_zip": "22042", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.inova.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Inova Health System",
+        "name": "Inova Health System", 
         "websites": [
             "www.inova.com"
         ]
-    },
-    "phone_number": "7037763332",
-    "provider_id": "490063",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7037764001", 
+    "provider_id": "490063", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "22042"
 }

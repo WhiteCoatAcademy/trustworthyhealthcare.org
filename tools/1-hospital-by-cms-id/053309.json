@@ -1,41 +1,55 @@
 {
-    "address": "2801 ATLANTIC AVENUE",
-    "city": "LONG BEACH",
-    "county_name": "LOS ANGELES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MILLER CHILDREN'S HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Childrens",
+    "address": "2801 ATLANTIC AVENUE", 
+    "city": "LONG BEACH", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MILLER CHILDREN'S HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Childrens", 
     "location": {
         "coordinates": [
-            -118.185092,
-            33.80801
-        ],
+            -118.185098, 
+            33.807107
+        ], 
         "type": "Point"
-    },
-    "location_address": "2801 ATLANTIC AVENUE",
-    "location_city": "LONG BEACH",
-    "location_state": "CA",
-    "location_zip": "90806",
+    }, 
+    "location_address": "2801 ATLANTIC AVENUE", 
+    "location_city": "LONG BEACH", 
+    "location_state": "CA", 
+    "location_zip": "90806", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.memorialcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "MemorialCare",
+        "name": "MemorialCare", 
         "websites": [
             "www.memorialcare.org"
         ]
-    },
-    "phone_number": "5629338001",
-    "provider_id": "053309",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "5629338001", 
+    "provider_id": "053309", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "90806"
 }

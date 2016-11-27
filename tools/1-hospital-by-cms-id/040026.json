@@ -1,41 +1,49 @@
 {
-    "address": "300 WERNER STREET",
-    "city": "HOT SPRINGS",
-    "county_name": "GARLAND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHI ST. VINCENT HOSPITAL HOT SPRINGS",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "300 WERNER STREET", 
+    "city": "HOT SPRINGS", 
+    "county_name": "GARLAND", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHI ST. VINCENT HOSPITAL HOT SPRINGS", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.067981,
-            34.466063
-        ],
+            -93.066396, 
+            34.466035
+        ], 
         "type": "Point"
-    },
-    "location_address": "300 WERNER STREET",
-    "location_city": "HOT SPRINGS",
-    "location_state": "AR",
-    "location_zip": "71903",
+    }, 
+    "location_address": "300 WERNER STREET", 
+    "location_city": "HOT SPRINGS", 
+    "location_state": "AR", 
+    "location_zip": "71903", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.saintjosephs.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sisters of Mercy Health System",
+        "name": "Sisters of Mercy Health System", 
         "websites": [
             "www.mercy.net"
         ]
-    },
-    "phone_number": "5016221000",
-    "provider_id": "040026",
-    "raw_ratings": {},
-    "state": "AR",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5016221000", 
+    "provider_id": "040026", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "AR", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "71903"
 }

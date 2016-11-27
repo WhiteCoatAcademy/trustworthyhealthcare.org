@@ -1,41 +1,49 @@
 {
-    "address": "303 CATLIN ST",
-    "city": "BUFFALO",
-    "county_name": "WRIGHT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BUFFALO HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "303 CATLIN ST", 
+    "city": "BUFFALO", 
+    "county_name": "WRIGHT", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BUFFALO HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.871025,
-            45.193199
-        ],
+            -93.871283, 
+            45.193198
+        ], 
         "type": "Point"
-    },
-    "location_address": "303 CATLIN ST",
-    "location_city": "BUFFALO",
-    "location_state": "MN",
-    "location_zip": "55313",
+    }, 
+    "location_address": "303 CATLIN ST", 
+    "location_city": "BUFFALO", 
+    "location_state": "MN", 
+    "location_zip": "55313", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.buffalohospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Allina Hospitals & Clinics",
+        "name": "Allina Hospitals & Clinics", 
         "websites": [
             "www.allina.com"
         ]
-    },
-    "phone_number": "7636841212",
-    "provider_id": "240076",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7636841212", 
+    "provider_id": "240076", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "55313"
 }

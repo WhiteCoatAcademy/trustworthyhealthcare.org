@@ -1,41 +1,49 @@
 {
-    "address": "157 UNION STREET",
-    "city": "MARLBOROUGH",
-    "county_name": "MIDDLESEX",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MARLBOROUGH HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "157 UNION STREET", 
+    "city": "MARLBOROUGH", 
+    "county_name": "MIDDLESEX", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MARLBOROUGH HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -71.553996,
+            -71.553996, 
             42.354246
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "157 UNION STREET",
-    "location_city": "MARLBOROUGH",
-    "location_state": "MA",
-    "location_zip": "01752",
+    }, 
+    "location_address": "157 UNION STREET", 
+    "location_city": "MARLBOROUGH", 
+    "location_state": "MA", 
+    "location_zip": "01752", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.umassmemorial.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "UMass Memorial Health Care",
+        "name": "UMass Memorial Health Care", 
         "websites": [
             "www.umassmemorial.org"
         ]
-    },
-    "phone_number": "5084815000",
-    "provider_id": "220049",
-    "raw_ratings": {},
-    "state": "MA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5084815000", 
+    "provider_id": "220049", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "01752"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "821 N COBB STREET  POST OFFICE BOX 690",
-    "city": "MILLEDGEVILLE",
-    "county_name": "BALDWIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OCONEE REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "821 N COBB STREET  POST OFFICE BOX 690", 
+    "city": "MILLEDGEVILLE", 
+    "county_name": "BALDWIN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OCONEE REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.244636,
-            33.088002
-        ],
+            -83.245145, 
+            33.088431
+        ], 
         "type": "Point"
-    },
-    "location_address": "821 N COBB STREET POST OFFICE BOX 690",
-    "location_city": "MILLEDGEVILLE",
-    "location_state": "GA",
-    "location_zip": "31061",
+    }, 
+    "location_address": "821 N COBB STREET POST OFFICE BOX 690", 
+    "location_city": "MILLEDGEVILLE", 
+    "location_state": "GA", 
+    "location_zip": "31061", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.oconeeregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4784543550",
-    "provider_id": "110150",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4784543550", 
+    "provider_id": "110150", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "31061"
 }

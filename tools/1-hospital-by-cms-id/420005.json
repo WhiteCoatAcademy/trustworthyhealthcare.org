@@ -1,41 +1,50 @@
 {
-    "address": "301 E JACKSON ST",
-    "city": "DILLON",
-    "county_name": "DILLON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MCLEOD MEDICAL CENTER - DILLON",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "301 E JACKSON STREET PO BOX 1327", 
+    "city": "DILLON", 
+    "county_name": "DILLON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MCLEOD MEDICAL CENTER - DILLON", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -79.366107,
-            34.421266
-        ],
+            -79.365091, 
+            34.420734
+        ], 
         "type": "Point"
-    },
-    "location_address": "301 E JACKSON ST",
-    "location_city": "DILLON",
-    "location_state": "SC",
-    "location_zip": "29536",
+    }, 
+    "location_address": "301 E JACKSON STREET PO BOX 1327", 
+    "location_city": "DILLON", 
+    "location_state": "SC", 
+    "location_zip": "29536", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mcleodhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "McLeod Health",
+        "name": "McLeod Health", 
         "websites": [
             "www.mcleodhealth.org"
         ]
-    },
-    "phone_number": "8437744111",
-    "provider_id": "420005",
-    "raw_ratings": {},
-    "state": "SC",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8437744111", 
+    "provider_id": "420005", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "SC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "29536"
 }

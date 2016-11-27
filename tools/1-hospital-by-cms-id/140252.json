@@ -1,39 +1,47 @@
 {
-    "address": "800 W CENTRAL ROAD",
-    "city": "ARLINGTON HEIGHTS",
-    "county_name": "COOK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTHWEST COMMUNITY HOSPITAL 1",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "800 W CENTRAL ROAD", 
+    "city": "ARLINGTON HEIGHTS", 
+    "county_name": "COOK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTHWEST COMMUNITY HOSPITAL 1", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.992216,
-            42.0666
-        ],
+            -87.992951, 
+            42.066604
+        ], 
         "type": "Point"
-    },
-    "location_address": "800 W CENTRAL ROAD",
-    "location_city": "ARLINGTON HEIGHTS",
-    "location_state": "IL",
-    "location_zip": "60005",
+    }, 
+    "location_address": "800 W CENTRAL ROAD", 
+    "location_city": "ARLINGTON HEIGHTS", 
+    "location_state": "IL", 
+    "location_zip": "60005", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nch.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8476181000",
-    "provider_id": "140252",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8476181000", 
+    "provider_id": "140252", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "60005"
 }

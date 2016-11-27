@@ -1,38 +1,50 @@
 {
-    "address": "18341 US HIGHWAY 41",
-    "city": "L' ANSE",
-    "county_name": "BARAGA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BARAGA COUNTY MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "18341 US HIGHWAY 41", 
+    "city": "L' ANSE", 
+    "county_name": "BARAGA", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BARAGA COUNTY MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"18341 US HIGHWAY 41\",\"city\":\"L' ANSE\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "46.73071900100007",
-        "longitude": "-88.42801874899999",
-        "needs_recoding": false
-    },
-    "location_address": "18341 US HIGHWAY 41",
-    "location_city": "L' ANSE",
-    "location_state": "MI",
-    "location_zip": "49946",
+        "coordinates": [
+            -88.428049, 
+            46.734789
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "18341 US HIGHWAY 41", 
+    "location_city": "L' ANSE", 
+    "location_state": "MI", 
+    "location_zip": "49946", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bcmh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9065243300",
-    "provider_id": "231307",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "9065243300", 
+    "provider_id": "231307", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "49946"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "3401 NORTH BROAD STREET",
-    "city": "PHILADELPHIA",
-    "county_name": "PHILADELPHIA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TEMPLE UNIVERSITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3401 NORTH BROAD STREET", 
+    "city": "PHILADELPHIA", 
+    "county_name": "PHILADELPHIA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TEMPLE UNIVERSITY HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -75.1522,
+            -75.1522, 
             40.004667
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "3401 NORTH BROAD STREET",
-    "location_city": "PHILADELPHIA",
-    "location_state": "PA",
-    "location_zip": "19140",
+    }, 
+    "location_address": "3401 NORTH BROAD STREET", 
+    "location_city": "PHILADELPHIA", 
+    "location_state": "PA", 
+    "location_zip": "19140", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "tuh.templehealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Temple University Health System",
+        "name": "Temple University Health System", 
         "websites": [
             "www.health.temple.edu"
         ]
-    },
-    "phone_number": "2157072000",
-    "provider_id": "390027",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2157072000", 
+    "provider_id": "390027", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "19140"
 }

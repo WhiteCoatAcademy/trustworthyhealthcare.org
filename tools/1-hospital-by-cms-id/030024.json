@@ -1,41 +1,49 @@
 {
-    "address": "350 WEST THOMAS ROAD",
-    "city": "PHOENIX",
-    "county_name": "MARICOPA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOSEPH'S HOSPITAL AND MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "350 WEST THOMAS ROAD", 
+    "city": "PHOENIX", 
+    "county_name": "MARICOPA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST. JOSEPH'S HOSPITAL AND MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -112.079235,
+            -112.079208, 
             33.480294
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "350 WEST THOMAS ROAD",
-    "location_city": "PHOENIX",
-    "location_state": "AZ",
-    "location_zip": "85013",
+    }, 
+    "location_address": "350 WEST THOMAS ROAD", 
+    "location_city": "PHOENIX", 
+    "location_state": "AZ", 
+    "location_zip": "85013", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ichosestjoes.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare West",
+        "name": "Catholic Healthcare West", 
         "websites": [
             "www.chwhealth.org"
         ]
-    },
-    "phone_number": "6024063000",
-    "provider_id": "030024",
-    "raw_ratings": {},
-    "state": "AZ",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6024065001", 
+    "provider_id": "030024", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "AZ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "85013"
 }

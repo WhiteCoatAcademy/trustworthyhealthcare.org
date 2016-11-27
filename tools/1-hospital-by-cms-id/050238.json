@@ -1,39 +1,47 @@
 {
-    "address": "300 W HUNTINGTON DR",
-    "city": "ARCADIA",
-    "county_name": "LOS ANGELES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "METHODIST HOSPITAL OF SOUTHERN CA",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "300 W HUNTINGTON DR", 
+    "city": "ARCADIA", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "METHODIST HOSPITAL OF SOUTHERN CA", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.042103,
-            34.13523
-        ],
+            -118.042448, 
+            34.13486
+        ], 
         "type": "Point"
-    },
-    "location_address": "300 W HUNTINGTON DR",
-    "location_city": "ARCADIA",
-    "location_state": "CA",
-    "location_zip": "91006",
+    }, 
+    "location_address": "300 W HUNTINGTON DR", 
+    "location_city": "ARCADIA", 
+    "location_state": "CA", 
+    "location_zip": "91006", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.methodisthospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6264454441",
-    "provider_id": "050238",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6264454441", 
+    "provider_id": "050238", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "91006"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "6200 W PARKER RD",
-    "city": "PLANO",
-    "county_name": "COLLIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL PLANO",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6200 W PARKER RD", 
+    "city": "PLANO", 
+    "county_name": "COLLIN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL PLANO", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.838515,
-            33.045127
-        ],
+            -96.837073, 
+            33.045125
+        ], 
         "type": "Point"
-    },
-    "location_address": "6200 W PARKER RD",
-    "location_city": "PLANO",
-    "location_state": "TX",
-    "location_zip": "75093",
+    }, 
+    "location_address": "6200 W PARKER RD", 
+    "location_city": "PLANO", 
+    "location_state": "TX", 
+    "location_zip": "75093", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.texashealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Texas Health Resources",
+        "name": "Texas Health Resources", 
         "websites": [
             "www.texashealth.org"
         ]
-    },
-    "phone_number": "9729818000",
-    "provider_id": "450771",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9729818000", 
+    "provider_id": "450771", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75093"
 }

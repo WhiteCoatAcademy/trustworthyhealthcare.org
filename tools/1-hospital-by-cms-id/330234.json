@@ -1,39 +1,47 @@
 {
-    "address": "100 WOODS RD",
-    "city": "VALHALLA",
-    "county_name": "WESTCHESTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WESTCHESTER MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 WOODS RD", 
+    "city": "VALHALLA", 
+    "county_name": "WESTCHESTER", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WESTCHESTER MEDICAL CENTER", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.803897,
+            -73.803897, 
             41.08768
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 WOODS RD",
-    "location_city": "VALHALLA",
-    "location_state": "NY",
-    "location_zip": "10595",
+    }, 
+    "location_address": "100 WOODS RD", 
+    "location_city": "VALHALLA", 
+    "location_state": "NY", 
+    "location_zip": "10595", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wcmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9142857017",
-    "provider_id": "330234",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9142857017", 
+    "provider_id": "330234", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "10595"
 }

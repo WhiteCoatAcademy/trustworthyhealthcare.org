@@ -1,41 +1,49 @@
 {
-    "address": "4401 WORNALL ROAD",
-    "city": "KANSAS CITY",
-    "county_name": "JACKSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST LUKES HOSPITAL OF KANSAS CITY",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4401 WORNALL ROAD", 
+    "city": "KANSAS CITY", 
+    "county_name": "JACKSON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST LUKES HOSPITAL OF KANSAS CITY", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.590077,
-            39.048719
-        ],
+            -94.590154, 
+            39.04597
+        ], 
         "type": "Point"
-    },
-    "location_address": "4401 WORNALL ROAD",
-    "location_city": "KANSAS CITY",
-    "location_state": "MO",
-    "location_zip": "64111",
+    }, 
+    "location_address": "4401 WORNALL ROAD", 
+    "location_city": "KANSAS CITY", 
+    "location_state": "MO", 
+    "location_zip": "64111", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.saintlukeshealthsystem.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Luke's Health System",
+        "name": "Saint Luke's Health System", 
         "websites": [
             "www.saintlukeshealthsystem.org"
         ]
-    },
-    "phone_number": "8169322000",
-    "provider_id": "260138",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8169322000", 
+    "provider_id": "260138", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "64111"
 }

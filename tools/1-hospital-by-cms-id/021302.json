@@ -1,41 +1,56 @@
 {
-    "address": "417 FIRST AVENUE, PO BOX 365",
-    "city": "SEWARD",
-    "county_name": "KENAI PENINSULA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PROVIDENCE SEWARD HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "417 FIRST AVENUE, PO BOX 365", 
+    "city": "SEWARD", 
+    "county_name": "KENAI PENINSULA", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PROVIDENCE SEWARD HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -149.445394,
-            60.105338
-        ],
+            -149.445383, 
+            60.105046
+        ], 
         "type": "Point"
-    },
-    "location_address": "417 FIRST AVENUE, PO BOX 365",
-    "location_city": "SEWARD",
-    "location_state": "AK",
-    "location_zip": "99664",
+    }, 
+    "location_address": "417 FIRST AVENUE, PO BOX 365", 
+    "location_city": "SEWARD", 
+    "location_state": "AK", 
+    "location_zip": "99664", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.providence.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Providence Health System",
+        "name": "Providence Health System", 
         "websites": [
             "www.providence.org"
         ]
-    },
-    "phone_number": "9072245205",
-    "provider_id": "021302",
-    "raw_ratings": {},
-    "state": "AK",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "9072245205", 
+    "provider_id": "021302", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "AK", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "99664"
 }

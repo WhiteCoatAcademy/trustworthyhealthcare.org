@@ -1,41 +1,49 @@
 {
-    "address": "65 JAMES STREET",
-    "city": "EDISON",
-    "county_name": "MIDDLESEX",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JFK MEDICAL CTR - ANTHONY M. YELENCSICS COMMUNITY",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "65 JAMES STREET", 
+    "city": "EDISON", 
+    "county_name": "MIDDLESEX", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JFK MEDICAL CTR - ANTHONY M. YELENCSICS COMMUNITY", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.348038,
-            40.557637
-        ],
+            -74.349499, 
+            40.55787
+        ], 
         "type": "Point"
-    },
-    "location_address": "65 JAMES STREET",
-    "location_city": "EDISON",
-    "location_state": "NJ",
-    "location_zip": "08818",
+    }, 
+    "location_address": "65 JAMES STREET", 
+    "location_city": "EDISON", 
+    "location_state": "NJ", 
+    "location_zip": "08818", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.jfkmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Solaris Health System",
+        "name": "Solaris Health System", 
         "websites": [
             "www.solarishs.org"
         ]
-    },
-    "phone_number": "7323217000",
-    "provider_id": "310108",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7323217000", 
+    "provider_id": "310108", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "08818"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1015 MEDICAL CENTER PARKWAY",
-    "city": "SELMA",
-    "county_name": "DALLAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "VAUGHAN REGIONAL MEDICAL CENTER PARKWAY CAMPUS",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1015 MEDICAL CENTER PARKWAY", 
+    "city": "SELMA", 
+    "county_name": "DALLAS", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "VAUGHAN REGIONAL MEDICAL CENTER PARKWAY CAMPUS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.055271,
-            32.430311
-        ],
+            -87.055174, 
+            32.430248
+        ], 
         "type": "Point"
-    },
-    "location_address": "1015 MEDICAL CENTER PARKWAY",
-    "location_city": "SELMA",
-    "location_state": "AL",
-    "location_zip": "36701",
+    }, 
+    "location_address": "1015 MEDICAL CENTER PARKWAY", 
+    "location_city": "SELMA", 
+    "location_state": "AL", 
+    "location_zip": "36701", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.vaughanregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "3344184100",
-    "provider_id": "010118",
-    "raw_ratings": {},
-    "state": "AL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3344184100", 
+    "provider_id": "010118", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "AL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "36701"
 }

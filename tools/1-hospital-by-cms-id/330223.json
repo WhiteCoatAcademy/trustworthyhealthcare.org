@@ -1,39 +1,47 @@
 {
-    "address": "1 HOSPITAL DRIVE",
-    "city": "MASSENA",
-    "county_name": "SAINT LAWRENCE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MASSENA MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1 HOSPITAL DRIVE", 
+    "city": "MASSENA", 
+    "county_name": "SAINT LAWRENCE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MASSENA MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.908572,
-            44.93712
-        ],
+            -74.907828, 
+            44.936344
+        ], 
         "type": "Point"
-    },
-    "location_address": "1 HOSPITAL DRIVE",
-    "location_city": "MASSENA",
-    "location_state": "NY",
-    "location_zip": "13662",
+    }, 
+    "location_address": "1 HOSPITAL DRIVE", 
+    "location_city": "MASSENA", 
+    "location_state": "NY", 
+    "location_zip": "13662", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.massenahospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3157641711",
-    "provider_id": "330223",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3157641711", 
+    "provider_id": "330223", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "13662"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "920 CHURCH ST N",
-    "city": "CONCORD",
-    "county_name": "CABARRUS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CAROLINAS MEDICAL CENTER-NORTHEAST",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "920 CHURCH ST N", 
+    "city": "CONCORD", 
+    "county_name": "CABARRUS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CAROLINAS HEALTHCARE SYSTEM NORTHEAST", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.603114,
-            35.434363
-        ],
+            -80.603181, 
+            35.434488
+        ], 
         "type": "Point"
-    },
-    "location_address": "920 CHURCH ST N",
-    "location_city": "CONCORD",
-    "location_state": "NC",
-    "location_zip": "28025",
+    }, 
+    "location_address": "920 CHURCH ST N", 
+    "location_city": "CONCORD", 
+    "location_state": "NC", 
+    "location_zip": "28025", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cmc-northeast.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Carolinas HealthCare System",
+        "name": "Carolinas HealthCare System", 
         "websites": [
             "www.carolinas.org"
         ]
-    },
-    "phone_number": "7047833000",
-    "provider_id": "340001",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7047833000", 
+    "provider_id": "340001", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "28025"
 }

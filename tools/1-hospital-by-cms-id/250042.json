@@ -1,41 +1,49 @@
 {
-    "address": "1970 HOSPITAL DRIVE",
-    "city": "CLARKSDALE",
-    "county_name": "COAHOMA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTHWEST MISSISSIPPI REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1970 HOSPITAL DRIVE", 
+    "city": "CLARKSDALE", 
+    "county_name": "COAHOMA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTHWEST MISSISSIPPI REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.552762,
-            34.197133
-        ],
+            -90.551643, 
+            34.197142
+        ], 
         "type": "Point"
-    },
-    "location_address": "1970 HOSPITAL DRIVE",
-    "location_city": "CLARKSDALE",
-    "location_state": "MS",
-    "location_zip": "38614",
+    }, 
+    "location_address": "1970 HOSPITAL DRIVE", 
+    "location_city": "CLARKSDALE", 
+    "location_state": "MS", 
+    "location_zip": "38614", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nwmsregionalmedcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Health Management Associates, Inc.",
+        "name": "Health Management Associates, Inc.", 
         "websites": [
             "www.hma.com"
         ]
-    },
-    "phone_number": "6626273211",
-    "provider_id": "250042",
-    "raw_ratings": {},
-    "state": "MS",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6626273211", 
+    "provider_id": "250042", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MS", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "38614"
 }

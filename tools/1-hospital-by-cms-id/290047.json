@@ -1,41 +1,49 @@
 {
-    "address": "9300 WEST SUNSET RD",
-    "city": "LAS VEGAS",
-    "county_name": "CLARK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOUTHERN HILLS HOSPITAL AND MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "9300 WEST SUNSET RD", 
+    "city": "LAS VEGAS", 
+    "county_name": "CLARK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTHERN HILLS HOSPITAL AND MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -115.295512,
-            36.070256
-        ],
+            -115.297065, 
+            36.070266
+        ], 
         "type": "Point"
-    },
-    "location_address": "9300 WEST SUNSET RD",
-    "location_city": "LAS VEGAS",
-    "location_state": "NV",
-    "location_zip": "89148",
+    }, 
+    "location_address": "9300 WEST SUNSET RD", 
+    "location_city": "LAS VEGAS", 
+    "location_state": "NV", 
+    "location_zip": "89148", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.southernhillshospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "7028802100",
-    "provider_id": "290047",
-    "raw_ratings": {},
-    "state": "NV",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7028802100", 
+    "provider_id": "290047", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NV", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "89148"
 }

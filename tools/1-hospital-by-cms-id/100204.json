@@ -1,41 +1,49 @@
 {
-    "address": "6500 NEWBERRY RD",
-    "city": "GAINESVILLE",
-    "county_name": "ALACHUA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTH FLORIDA REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6500 NEWBERRY RD", 
+    "city": "GAINESVILLE", 
+    "county_name": "ALACHUA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTH FLORIDA REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.412744,
-            29.659708
-        ],
+            -82.411975, 
+            29.6597
+        ], 
         "type": "Point"
-    },
-    "location_address": "6500 NEWBERRY RD",
-    "location_city": "GAINESVILLE",
-    "location_state": "FL",
-    "location_zip": "32605",
+    }, 
+    "location_address": "6500 NEWBERRY RD", 
+    "location_city": "GAINESVILLE", 
+    "location_state": "FL", 
+    "location_zip": "32605", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nfrmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "3523334100",
-    "provider_id": "100204",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3523334100", 
+    "provider_id": "100204", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "32605"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "148 CHESTNUT STREET",
-    "city": "NEEDHAM",
-    "county_name": "NORFOLK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "148 CHESTNUT STREET", 
+    "city": "NEEDHAM", 
+    "county_name": "NORFOLK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -71.23736,
-            42.277558
-        ],
+            -71.237361, 
+            42.277552
+        ], 
         "type": "Point"
-    },
-    "location_address": "148 CHESTNUT STREET",
-    "location_city": "NEEDHAM",
-    "location_state": "MA",
-    "location_zip": "02494",
+    }, 
+    "location_address": "148 CHESTNUT STREET", 
+    "location_city": "NEEDHAM", 
+    "location_state": "MA", 
+    "location_zip": "02494", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bidneedham.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "CareGroup Healthcare System",
+        "name": "CareGroup Healthcare System", 
         "websites": [
             "www.caregroup.org"
         ]
-    },
-    "phone_number": "7814533002",
-    "provider_id": "220083",
-    "raw_ratings": {},
-    "state": "MA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7814533002", 
+    "provider_id": "220083", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "02494"
 }

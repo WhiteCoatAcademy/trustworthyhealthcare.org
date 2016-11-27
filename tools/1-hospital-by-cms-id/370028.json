@@ -1,41 +1,49 @@
 {
-    "address": "3300 NORTHWEST EXPRESSWAY",
-    "city": "OKLAHOMA CITY",
-    "county_name": "OKLAHOMA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "INTEGRIS BAPTIST MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3300 NORTHWEST EXPRESSWAY", 
+    "city": "OKLAHOMA CITY", 
+    "county_name": "OKLAHOMA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "INTEGRIS BAPTIST MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.57455,
+            -97.57455, 
             35.52996
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "3300 NORTHWEST EXPRESSWAY",
-    "location_city": "OKLAHOMA CITY",
-    "location_state": "OK",
-    "location_zip": "73112",
+    }, 
+    "location_address": "3300 NORTHWEST EXPRESSWAY", 
+    "location_city": "OKLAHOMA CITY", 
+    "location_state": "OK", 
+    "location_zip": "73112", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.integris-health.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "INTEGRIS Health",
+        "name": "INTEGRIS Health", 
         "websites": [
             "www.integris-health.com"
         ]
-    },
-    "phone_number": "4059518110",
-    "provider_id": "370028",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4059518110", 
+    "provider_id": "370028", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "73112"
 }

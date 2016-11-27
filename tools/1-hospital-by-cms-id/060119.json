@@ -1,41 +1,49 @@
 {
-    "address": "2500 ROCKY MOUNTAIN AVENUE",
-    "city": "LOVELAND",
-    "county_name": "LARIMER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEDICAL CENTER OF THE ROCKIES",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2500 ROCKY MOUNTAIN AVENUE", 
+    "city": "LOVELAND", 
+    "county_name": "LARIMER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEDICAL CENTER OF THE ROCKIES", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -105.001661,
-            40.414889
-        ],
+            -105.001451, 
+            40.415194
+        ], 
         "type": "Point"
-    },
-    "location_address": "2500 ROCKY MOUNTAIN AVENUE",
-    "location_city": "LOVELAND",
-    "location_state": "CO",
-    "location_zip": "80538",
+    }, 
+    "location_address": "2500 ROCKY MOUNTAIN AVENUE", 
+    "location_city": "LOVELAND", 
+    "location_state": "CO", 
+    "location_zip": "80538", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pvhs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Poudre Valley Health System",
+        "name": "Poudre Valley Health System", 
         "websites": [
             "www.pvhs.org"
         ]
-    },
-    "phone_number": "9706242500",
-    "provider_id": "060119",
-    "raw_ratings": {},
-    "state": "CO",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9706242500", 
+    "provider_id": "060119", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CO", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "80538"
 }

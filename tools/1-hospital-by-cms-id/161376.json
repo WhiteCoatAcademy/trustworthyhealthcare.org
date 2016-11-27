@@ -1,39 +1,49 @@
 {
-    "address": "1501 EAST TENTH STREET",
-    "city": "ATLANTIC",
-    "county_name": "CASS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CASS COUNTY MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1501 EAST TENTH STREET", 
+    "city": "ATLANTIC", 
+    "county_name": "CASS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CASS COUNTY MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -94.992074,
-            41.402058
-        ],
+            -94.992608, 
+            41.401712
+        ], 
         "type": "Point"
-    },
-    "location_address": "1501 EAST TENTH STREET",
-    "location_city": "ATLANTIC",
-    "location_state": "IA",
-    "location_zip": "50022",
+    }, 
+    "location_address": "1501 EAST TENTH STREET", 
+    "location_city": "ATLANTIC", 
+    "location_state": "IA", 
+    "location_zip": "50022", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.casshealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7122433250",
-    "provider_id": "161376",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7122433250", 
+    "provider_id": "161376", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "50022"
 }

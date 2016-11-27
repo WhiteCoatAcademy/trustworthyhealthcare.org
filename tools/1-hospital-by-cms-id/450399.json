@@ -1,39 +1,50 @@
 {
-    "address": "705 EAST FELT STREET",
-    "city": "BROWNFIELD",
-    "county_name": "TERRY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BROWNFIELD REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "705 EAST FELT STREET", 
+    "city": "BROWNFIELD", 
+    "county_name": "TERRY", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BROWNFIELD REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -102.267668,
-            33.187101
-        ],
+            -102.267864, 
+            33.187102
+        ], 
         "type": "Point"
-    },
-    "location_address": "705 EAST FELT STREET",
-    "location_city": "BROWNFIELD",
-    "location_state": "TX",
-    "location_zip": "79316",
+    }, 
+    "location_address": "705 EAST FELT STREET", 
+    "location_city": "BROWNFIELD", 
+    "location_state": "TX", 
+    "location_zip": "79316", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.brownfield-rmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8066373551",
-    "provider_id": "450399",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "8066373551", 
+    "provider_id": "450399", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "79316"
 }

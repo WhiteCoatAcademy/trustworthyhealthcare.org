@@ -1,39 +1,51 @@
 {
-    "address": "444 BRUCE STREET",
-    "city": "YREKA",
-    "county_name": "SISKIYOU",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FAIRCHILD MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "444 BRUCE STREET", 
+    "city": "YREKA", 
+    "county_name": "SISKIYOU", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FAIRCHILD MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -122.644826,
-            41.718564
-        ],
+            -122.645691, 
+            41.718585
+        ], 
         "type": "Point"
-    },
-    "location_address": "444 BRUCE STREET",
-    "location_city": "YREKA",
-    "location_state": "CA",
-    "location_zip": "96097",
+    }, 
+    "location_address": "444 BRUCE STREET", 
+    "location_city": "YREKA", 
+    "location_state": "CA", 
+    "location_zip": "96097", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.fairchildmed.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5308424121",
-    "provider_id": "051316",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5308424121", 
+    "provider_id": "051316", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "96097"
 }

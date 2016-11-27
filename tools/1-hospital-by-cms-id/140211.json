@@ -1,39 +1,47 @@
 {
-    "address": "300 RANDALL RD",
-    "city": "GENEVA",
-    "county_name": "KANE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DELNOR COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "300 RANDALL RD", 
+    "city": "GENEVA", 
+    "county_name": "KANE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DELNOR COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.340443,
-            41.888685
-        ],
+            -88.340414, 
+            41.886345
+        ], 
         "type": "Point"
-    },
-    "location_address": "300 RANDALL RD",
-    "location_city": "GENEVA",
-    "location_state": "IL",
-    "location_zip": "60134",
+    }, 
+    "location_address": "300 RANDALL RD", 
+    "location_city": "GENEVA", 
+    "location_state": "IL", 
+    "location_zip": "60134", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.delnor.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6302083000",
-    "provider_id": "140211",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6302083000", 
+    "provider_id": "140211", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "60134"
 }

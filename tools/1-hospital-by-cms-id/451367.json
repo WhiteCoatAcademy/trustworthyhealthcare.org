@@ -1,41 +1,53 @@
 {
-    "address": "2701 US HWY 271 N",
-    "city": "PITTSBURG",
-    "county_name": "CAMP",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "EAST TEXAS MEDICAL CENTER PITTSBURG",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "2701 US HWY 271 N", 
+    "city": "PITTSBURG", 
+    "county_name": "CAMP", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "EAST TEXAS MEDICAL CENTER PITTSBURG", 
+    "hospital_overall_rating": "4", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -94.961069,
-            33.033685
-        ],
+            -94.962332, 
+            33.030187
+        ], 
         "type": "Point"
-    },
-    "location_address": "2701 US HWY 271 N",
-    "location_city": "PITTSBURG",
-    "location_state": "TX",
-    "location_zip": "75686",
+    }, 
+    "location_address": "2701 US HWY 271 N", 
+    "location_city": "PITTSBURG", 
+    "location_state": "TX", 
+    "location_zip": "75686", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.etmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "East Texas Medical Center Regional Healthcare System",
+        "name": "East Texas Medical Center Regional Healthcare System", 
         "websites": [
             "www.etmc.org"
         ]
-    },
-    "phone_number": "9038564520",
-    "provider_id": "451367",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9038564520", 
+    "provider_id": "451367", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "75686"
 }

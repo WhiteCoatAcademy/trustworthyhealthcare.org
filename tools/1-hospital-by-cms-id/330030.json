@@ -1,41 +1,50 @@
 {
-    "address": "111 DRIVING PARK AVENUE",
-    "city": "NEWARK",
-    "county_name": "WAYNE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NEWARK-WAYNE COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "111 DRIVING PARK AVENUE", 
+    "city": "NEWARK", 
+    "county_name": "WAYNE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NEWARK-WAYNE COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.099713,
-            43.060063
-        ],
+            -77.099731, 
+            43.060825
+        ], 
         "type": "Point"
-    },
-    "location_address": "111 DRIVING PARK AVENUE",
-    "location_city": "NEWARK",
-    "location_state": "NY",
-    "location_zip": "14513",
+    }, 
+    "location_address": "111 DRIVING PARK AVENUE", 
+    "location_city": "NEWARK", 
+    "location_state": "NY", 
+    "location_zip": "14513", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.newarkwaynecommunityhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "ViaHealth",
+        "name": "ViaHealth", 
         "websites": [
             "www.viahealth.org"
         ]
-    },
-    "phone_number": "3153322022",
-    "provider_id": "330030",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3153322022", 
+    "provider_id": "330030", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "14513"
 }

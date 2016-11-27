@@ -1,41 +1,49 @@
 {
-    "address": "700 HIGH STREET",
-    "city": "WILLIAMSPORT",
-    "county_name": "LYCOMING",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WILLIAMSPORT REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "700 HIGH STREET", 
+    "city": "WILLIAMSPORT", 
+    "county_name": "LYCOMING", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WILLIAMSPORT REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.01453,
-            41.24542
-        ],
+            -77.014432, 
+            41.24547
+        ], 
         "type": "Point"
-    },
-    "location_address": "700 HIGH STREET",
-    "location_city": "WILLIAMSPORT",
-    "location_state": "PA",
-    "location_zip": "17701",
+    }, 
+    "location_address": "700 HIGH STREET", 
+    "location_city": "WILLIAMSPORT", 
+    "location_state": "PA", 
+    "location_zip": "17701", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.shscares.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Susquehanna Health System",
+        "name": "Susquehanna Health System", 
         "websites": [
             "www.shscares.org"
         ]
-    },
-    "phone_number": "5703211000",
-    "provider_id": "390045",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5703211000", 
+    "provider_id": "390045", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "17701"
 }

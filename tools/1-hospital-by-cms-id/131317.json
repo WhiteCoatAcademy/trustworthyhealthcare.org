@@ -1,39 +1,51 @@
 {
-    "address": "229 SOUTH 7TH STREET",
-    "city": "ST MARIES",
-    "county_name": "BENEWAH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BENEWAH COMMUNITY HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "229 SOUTH 7TH STREET", 
+    "city": "ST MARIES", 
+    "county_name": "BENEWAH", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BENEWAH COMMUNITY HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -116.566682,
-            47.314716
-        ],
+            -116.566678, 
+            47.314613
+        ], 
         "type": "Point"
-    },
-    "location_address": "229 SOUTH 7TH STREET",
-    "location_city": "ST MARIES",
-    "location_state": "ID",
-    "location_zip": "83861",
+    }, 
+    "location_address": "229 SOUTH 7TH STREET", 
+    "location_city": "ST MARIES", 
+    "location_state": "ID", 
+    "location_zip": "83861", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bchmed.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2082457614",
-    "provider_id": "131317",
-    "raw_ratings": {},
-    "state": "ID",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2082457614", 
+    "provider_id": "131317", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "ID", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "83861"
 }

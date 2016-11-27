@@ -1,41 +1,50 @@
 {
-    "address": "601 DUBOCE AVE",
-    "city": "SAN FRANCISCO",
-    "county_name": "SAN FRANCISCO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CALIFORNIA PACIFIC MEDICAL CTR-DAVIES CAMPUS HOSP",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "601 DUBOCE AVE", 
+    "city": "SAN FRANCISCO", 
+    "county_name": "SAN FRANCISCO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CALIFORNIA PACIFIC MEDICAL CTR-DAVIES CAMPUS HOSP", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.434706,
-            37.769114
-        ],
+            -122.434656, 
+            37.769118
+        ], 
         "type": "Point"
-    },
-    "location_address": "601 DUBOCE AVE",
-    "location_city": "SAN FRANCISCO",
-    "location_state": "CA",
-    "location_zip": "94117",
+    }, 
+    "location_address": "601 DUBOCE AVE", 
+    "location_city": "SAN FRANCISCO", 
+    "location_state": "CA", 
+    "location_zip": "94117", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cpmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sutter Health",
+        "name": "Sutter Health", 
         "websites": [
             "www.sutterhealth.org"
         ]
-    },
-    "phone_number": "4156006000",
-    "provider_id": "050008",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4156006000", 
+    "provider_id": "050008", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "94117"
 }

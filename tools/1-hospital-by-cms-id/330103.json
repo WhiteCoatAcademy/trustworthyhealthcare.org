@@ -1,39 +1,47 @@
 {
-    "address": "515 MAIN STREET",
-    "city": "OLEAN",
-    "county_name": "CATTARAUGUS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OLEAN GENERAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "515 MAIN STREET", 
+    "city": "OLEAN", 
+    "county_name": "CATTARAUGUS", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OLEAN GENERAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -78.426977,
+            -78.426977, 
             42.089448
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "515 MAIN STREET",
-    "location_city": "OLEAN",
-    "location_state": "NY",
-    "location_zip": "14760",
+    }, 
+    "location_address": "515 MAIN STREET", 
+    "location_city": "OLEAN", 
+    "location_state": "NY", 
+    "location_zip": "14760", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ogh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7163732600",
-    "provider_id": "330103",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7163732600", 
+    "provider_id": "330103", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "14760"
 }

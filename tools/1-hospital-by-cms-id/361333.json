@@ -1,39 +1,48 @@
 {
-    "address": "725 SOUTH SHOOP AVENUE",
-    "city": "WAUSEON",
-    "county_name": "FULTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FULTON COUNTY HEALTH CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "725 SOUTH SHOOP AVENUE", 
+    "city": "WAUSEON", 
+    "county_name": "FULTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FULTON COUNTY HEALTH CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -84.134283,
-            41.539239
-        ],
+            -84.134279, 
+            41.53834
+        ], 
         "type": "Point"
-    },
-    "location_address": "725 SOUTH SHOOP AVENUE",
-    "location_city": "WAUSEON",
-    "location_state": "OH",
-    "location_zip": "43567",
+    }, 
+    "location_address": "725 SOUTH SHOOP AVENUE", 
+    "location_city": "WAUSEON", 
+    "location_state": "OH", 
+    "location_zip": "43567", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.fultoncountyhealthcenter.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4193352015",
-    "provider_id": "361333",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4193352015", 
+    "provider_id": "361333", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "43567"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "115 CASS AVE",
-    "city": "WOONSOCKET",
-    "county_name": "PROVIDENCE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LANDMARK MEDICAL CENTER,  INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "115 CASS AVE", 
+    "city": "WOONSOCKET", 
+    "county_name": "PROVIDENCE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LANDMARK MEDICAL CENTER,  INC", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -71.496115,
-            42.00534
-        ],
+            -71.49621, 
+            42.00532
+        ], 
         "type": "Point"
-    },
-    "location_address": "115 CASS AVE",
-    "location_city": "WOONSOCKET",
-    "location_state": "RI",
-    "location_zip": "02895",
+    }, 
+    "location_address": "115 CASS AVE", 
+    "location_city": "WOONSOCKET", 
+    "location_state": "RI", 
+    "location_zip": "02895", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.landmarkmedical.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4017694100",
-    "provider_id": "410011",
-    "raw_ratings": {},
-    "state": "RI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4017694100", 
+    "provider_id": "410011", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "RI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "02895"
 }

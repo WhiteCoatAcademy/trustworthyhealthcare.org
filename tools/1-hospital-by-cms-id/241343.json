@@ -1,39 +1,50 @@
 {
-    "address": "345 TENTH AVENUE",
-    "city": "GRANITE FALLS",
-    "county_name": "YELLOW MEDICINE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MUNICIPAL HOSPITAL AND GRANITE MANOR",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "345 TENTH AVENUE", 
+    "city": "GRANITE FALLS", 
+    "county_name": "YELLOW MEDICINE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MUNICIPAL HOSPITAL AND GRANITE MANOR", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -95.543569,
-            44.808885
-        ],
+            -95.542467, 
+            44.808737
+        ], 
         "type": "Point"
-    },
-    "location_address": "345 TENTH AVENUE",
-    "location_city": "GRANITE FALLS",
-    "location_state": "MN",
-    "location_zip": "56241",
+    }, 
+    "location_address": "345 TENTH AVENUE", 
+    "location_city": "GRANITE FALLS", 
+    "location_state": "MN", 
+    "location_zip": "56241", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.gfmhm.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3205643111",
-    "provider_id": "241343",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "3205643111", 
+    "provider_id": "241343", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "56241"
 }

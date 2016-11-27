@@ -1,41 +1,52 @@
 {
-    "address": "3100 TONGASS AVENUE",
-    "city": "KETCHIKAN",
-    "county_name": "KETCHIKAN GATEWAY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PEACEHEALTH KETCHIKAN MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "3100 TONGASS AVENUE", 
+    "city": "KETCHIKAN", 
+    "county_name": "KETCHIKAN GATEWAY", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PEACEHEALTH KETCHIKAN MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -131.686295,
-            55.352784
-        ],
+            -131.686966, 
+            55.352974
+        ], 
         "type": "Point"
-    },
-    "location_address": "3100 TONGASS AVENUE",
-    "location_city": "KETCHIKAN",
-    "location_state": "AK",
-    "location_zip": "99901",
+    }, 
+    "location_address": "3100 TONGASS AVENUE", 
+    "location_city": "KETCHIKAN", 
+    "location_state": "AK", 
+    "location_zip": "99901", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.peacehealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "PeaceHealth",
+        "name": "PeaceHealth", 
         "websites": [
             "www.peacehealth.org"
         ]
-    },
-    "phone_number": "9072255171",
-    "provider_id": "021311",
-    "raw_ratings": {},
-    "state": "AK",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9072255171", 
+    "provider_id": "021311", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "AK", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "99901"
 }

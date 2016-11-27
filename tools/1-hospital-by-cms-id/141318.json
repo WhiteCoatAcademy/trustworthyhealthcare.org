@@ -1,41 +1,52 @@
 {
-    "address": "1000 W HARLEM AVENUE",
-    "city": "MONMOUTH",
-    "county_name": "WARREN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OSF HOLY FAMILY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1000 W HARLEM AVENUE", 
+    "city": "MONMOUTH", 
+    "county_name": "WARREN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OSF HOLY FAMILY MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -90.659058,
-            40.921292
-        ],
+            -90.658986, 
+            40.921291
+        ], 
         "type": "Point"
-    },
-    "location_address": "1000 W HARLEM AVENUE",
-    "location_city": "MONMOUTH",
-    "location_state": "IL",
-    "location_zip": "61462",
+    }, 
+    "location_address": "1000 W HARLEM AVENUE", 
+    "location_city": "MONMOUTH", 
+    "location_state": "IL", 
+    "location_zip": "61462", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.osfholyfamily.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "OSF Healthcare System",
+        "name": "OSF Healthcare System", 
         "websites": [
             "www.osfhealthcare.org"
         ]
-    },
-    "phone_number": "3097343141",
-    "provider_id": "141318",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "3097343141", 
+    "provider_id": "141318", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "61462"
 }

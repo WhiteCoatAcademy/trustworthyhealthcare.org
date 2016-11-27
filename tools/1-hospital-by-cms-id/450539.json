@@ -1,41 +1,49 @@
 {
-    "address": "2601 DIMMITT RD",
-    "city": "PLAINVIEW",
-    "county_name": "HALE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COVENANT HOSPITAL PLAINVIEW",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2601 DIMMITT RD", 
+    "city": "PLAINVIEW", 
+    "county_name": "HALE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COVENANT HOSPITAL PLAINVIEW", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -101.731639,
-            34.207225
-        ],
+            -101.730095, 
+            34.206026
+        ], 
         "type": "Point"
-    },
-    "location_address": "2601 DIMMITT RD",
-    "location_city": "PLAINVIEW",
-    "location_state": "TX",
-    "location_zip": "79072",
+    }, 
+    "location_address": "2601 DIMMITT RD", 
+    "location_city": "PLAINVIEW", 
+    "location_state": "TX", 
+    "location_zip": "79072", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.covenantplainview.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Joseph Health System",
+        "name": "Saint Joseph Health System", 
         "websites": [
             "www.stjhs.org"
         ]
-    },
-    "phone_number": "8062965531",
-    "provider_id": "450539",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8062965531", 
+    "provider_id": "450539", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "79072"
 }

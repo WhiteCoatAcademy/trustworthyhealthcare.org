@@ -1,41 +1,51 @@
 {
-    "address": "101 S MAJOR ST",
-    "city": "EUREKA",
-    "county_name": "WOODFORD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ADVOCATE EUREKA  HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "101 S MAJOR ST", 
+    "city": "EUREKA", 
+    "county_name": "WOODFORD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ADVOCATE EUREKA  HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -89.271661,
+            -89.271661, 
             40.721405
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "101 S MAJOR ST",
-    "location_city": "EUREKA",
-    "location_state": "IL",
-    "location_zip": "61530",
+    }, 
+    "location_address": "101 S MAJOR ST", 
+    "location_city": "EUREKA", 
+    "location_state": "IL", 
+    "location_zip": "61530", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bromenn.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "BroMenn Healthcare",
+        "name": "BroMenn Healthcare", 
         "websites": [
             "www.bromenn.com"
         ]
-    },
-    "phone_number": "3094672371",
-    "provider_id": "141309",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "3094672371", 
+    "provider_id": "141309", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "61530"
 }

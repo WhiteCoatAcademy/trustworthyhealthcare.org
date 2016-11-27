@@ -1,39 +1,47 @@
 {
-    "address": "300 SINGLETON RIDGE ROAD",
-    "city": "CONWAY",
-    "county_name": "HORRY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CONWAY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "300 SINGLETON RIDGE ROAD", 
+    "city": "CONWAY", 
+    "county_name": "HORRY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CONWAY MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -79.001662,
-            33.787012
-        ],
+            -79.004225, 
+            33.78596
+        ], 
         "type": "Point"
-    },
-    "location_address": "300 SINGLETON RIDGE ROAD",
-    "location_city": "CONWAY",
-    "location_state": "SC",
-    "location_zip": "29526",
+    }, 
+    "location_address": "300 SINGLETON RIDGE ROAD", 
+    "location_city": "CONWAY", 
+    "location_state": "SC", 
+    "location_zip": "29526", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.conwaymedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8433478037",
-    "provider_id": "420049",
-    "raw_ratings": {},
-    "state": "SC",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8433478037", 
+    "provider_id": "420049", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "SC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "29526"
 }

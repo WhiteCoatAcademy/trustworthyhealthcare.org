@@ -1,41 +1,49 @@
 {
-    "address": "2901 N FOURTH ST",
-    "city": "LONGVIEW",
-    "county_name": "GREGG",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LONGVIEW REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2901 N FOURTH ST", 
+    "city": "LONGVIEW", 
+    "county_name": "GREGG", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LONGVIEW REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.728825,
+            -94.728825, 
             32.532039
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2901 N FOURTH ST",
-    "location_city": "LONGVIEW",
-    "location_state": "TX",
-    "location_zip": "75605",
+    }, 
+    "location_address": "2901 N FOURTH ST", 
+    "location_city": "LONGVIEW", 
+    "location_state": "TX", 
+    "location_zip": "75605", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.longviewregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "9037581818",
-    "provider_id": "450702",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9037581818", 
+    "provider_id": "450702", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75605"
 }

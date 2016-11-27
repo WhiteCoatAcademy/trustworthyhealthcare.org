@@ -1,41 +1,49 @@
 {
-    "address": "1301 CARLISLE ST",
-    "city": "NATRONA",
-    "county_name": "ALLEGHENY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ALLEGHENY VALLEY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1301 CARLISLE ST", 
+    "city": "NATRONA", 
+    "county_name": "ALLEGHENY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ALLEGHENY VALLEY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -79.737562,
+            -79.737562, 
             40.617196
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1301 CARLISLE ST",
-    "location_city": "NATRONA",
-    "location_state": "PA",
-    "location_zip": "15065",
+    }, 
+    "location_address": "1301 CARLISLE ST", 
+    "location_city": "NATRONA", 
+    "location_state": "PA", 
+    "location_zip": "15065", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wpahs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "West Penn Allegheny Health System",
+        "name": "West Penn Allegheny Health System", 
         "websites": [
             "www.wpahs.org"
         ]
-    },
-    "phone_number": "4122245100",
-    "provider_id": "390032",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4122245100", 
+    "provider_id": "390032", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "15065"
 }

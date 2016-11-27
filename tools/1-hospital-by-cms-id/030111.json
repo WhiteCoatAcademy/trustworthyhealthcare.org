@@ -1,39 +1,47 @@
 {
-    "address": "2800 EAST AJO WAY",
-    "city": "TUCSON",
-    "county_name": "PIMA",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "BANNER-UNIVERSITY MEDICAL CENTER SOUTH CAMPUS",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2800 EAST AJO WAY", 
+    "city": "TUCSON", 
+    "county_name": "PIMA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BANNER-UNIVERSITY MEDICAL CENTER SOUTH CAMPUS", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -110.930891,
+            -110.930891, 
             32.177882
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2800 EAST AJO WAY",
-    "location_city": "TUCSON",
-    "location_state": "AZ",
-    "location_zip": "85713",
+    }, 
+    "location_address": "2800 EAST AJO WAY", 
+    "location_city": "TUCSON", 
+    "location_state": "AZ", 
+    "location_zip": "85713", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.uphkino.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5202944471",
-    "provider_id": "030111",
-    "raw_ratings": {},
-    "state": "AZ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5202944471", 
+    "provider_id": "030111", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "AZ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "85713"
 }

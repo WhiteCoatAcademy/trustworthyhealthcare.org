@@ -1,41 +1,49 @@
 {
-    "address": "100 MICHIGAN ST NE",
-    "city": "GRAND RAPIDS",
-    "county_name": "KENT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SPECTRUM HEALTH - BUTTERWORTH CAMPUS",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 MICHIGAN ST NE", 
+    "city": "GRAND RAPIDS", 
+    "county_name": "KENT", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SPECTRUM HEALTH - BUTTERWORTH CAMPUS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.664642,
-            42.970468
-        ],
+            -85.665319, 
+            42.970527
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 MICHIGAN ST NE",
-    "location_city": "GRAND RAPIDS",
-    "location_state": "MI",
-    "location_zip": "49503",
+    }, 
+    "location_address": "100 MICHIGAN ST NE", 
+    "location_city": "GRAND RAPIDS", 
+    "location_state": "MI", 
+    "location_zip": "49503", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.spectrum-health.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Spectrum Health",
+        "name": "Spectrum Health", 
         "websites": [
             "www.spectrum-health.org"
         ]
-    },
-    "phone_number": "6163911774",
-    "provider_id": "230038",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6163911774", 
+    "provider_id": "230038", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "49503"
 }

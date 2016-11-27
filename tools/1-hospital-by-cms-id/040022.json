@@ -1,41 +1,49 @@
 {
-    "address": "609 WEST MAPLE AVENUE",
-    "city": "SPRINGDALE",
-    "county_name": "WASHINGTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTHWEST MEDICAL CENTER-SPRINGDALE",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "609 WEST MAPLE AVENUE", 
+    "city": "SPRINGDALE", 
+    "county_name": "WASHINGTON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTHWEST MEDICAL CENTER-SPRINGDALE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.136202,
-            36.181392
-        ],
+            -94.136464, 
+            36.181394
+        ], 
         "type": "Point"
-    },
-    "location_address": "609 WEST MAPLE AVENUE",
-    "location_city": "SPRINGDALE",
-    "location_state": "AR",
-    "location_zip": "72764",
+    }, 
+    "location_address": "609 WEST MAPLE AVENUE", 
+    "location_city": "SPRINGDALE", 
+    "location_state": "AR", 
+    "location_zip": "72764", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.northwesthealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "4797515711",
-    "provider_id": "040022",
-    "raw_ratings": {},
-    "state": "AR",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4797515711", 
+    "provider_id": "040022", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "AR", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "72764"
 }

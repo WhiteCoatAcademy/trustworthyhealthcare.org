@@ -1,39 +1,49 @@
 {
-    "address": "16088 SAN PEDRO",
-    "city": "SAN ANTONIO",
-    "county_name": "BEXAR",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BAPTIST EMERGENCY HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "16088 SAN PEDRO", 
+    "city": "SAN ANTONIO", 
+    "county_name": "BEXAR", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BAPTIST EMERGENCY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -98.474175,
-            29.588034
-        ],
+            -98.474188, 
+            29.587988
+        ], 
         "type": "Point"
-    },
-    "location_address": "16088 SAN PEDRO",
-    "location_city": "SAN ANTONIO",
-    "location_state": "TX",
-    "location_zip": "78232",
+    }, 
+    "location_address": "16088 SAN PEDRO", 
+    "location_city": "SAN ANTONIO", 
+    "location_state": "TX", 
+    "location_zip": "78232", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2104024092",
-    "provider_id": "670078",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2104024092", 
+    "provider_id": "670078", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "78232"
 }

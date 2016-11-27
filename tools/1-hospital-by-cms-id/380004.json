@@ -1,41 +1,49 @@
 {
-    "address": "9205 SW BARNES ROAD",
-    "city": "PORTLAND",
-    "county_name": "WASHINGTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PROVIDENCE ST VINCENT MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "9205 SW BARNES ROAD", 
+    "city": "PORTLAND", 
+    "county_name": "WASHINGTON", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PROVIDENCE ST VINCENT MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.75568,
-            45.513446
-        ],
+            -122.770657, 
+            45.50882
+        ], 
         "type": "Point"
-    },
-    "location_address": "9205 SW BARNES ROAD",
-    "location_city": "PORTLAND",
-    "location_state": "OR",
-    "location_zip": "97225",
+    }, 
+    "location_address": "9205 SW BARNES ROAD", 
+    "location_city": "PORTLAND", 
+    "location_state": "OR", 
+    "location_zip": "97225", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.providence.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Providence Health System",
+        "name": "Providence Health System", 
         "websites": [
             "www.providence.org"
         ]
-    },
-    "phone_number": "5032161234",
-    "provider_id": "380004",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5032162213", 
+    "provider_id": "380004", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "97225"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "6 GLEN COVE DRIVE",
-    "city": "ROCKPORT",
-    "county_name": "KNOX",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PENOBSCOT BAY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6 GLEN COVE DRIVE", 
+    "city": "ROCKPORT", 
+    "county_name": "KNOX", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PENOBSCOT BAY MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -69.087853,
-            44.145848
-        ],
+            -69.086537, 
+            44.144434
+        ], 
         "type": "Point"
-    },
-    "location_address": "6 GLEN COVE DRIVE",
-    "location_city": "ROCKPORT",
-    "location_state": "ME",
-    "location_zip": "04856",
+    }, 
+    "location_address": "6 GLEN COVE DRIVE", 
+    "location_city": "ROCKPORT", 
+    "location_state": "ME", 
+    "location_zip": "04856", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.penbayhealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2075968000",
-    "provider_id": "200063",
-    "raw_ratings": {},
-    "state": "ME",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2075968000", 
+    "provider_id": "200063", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "ME", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "04856"
 }

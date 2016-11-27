@@ -1,39 +1,47 @@
 {
-    "address": "1415 ROSS AVENUE",
-    "city": "EL CENTRO",
-    "county_name": "IMPERIAL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "EL CENTRO REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1415 ROSS AVENUE", 
+    "city": "EL CENTRO", 
+    "county_name": "IMPERIAL", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "EL CENTRO REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -115.56862,
+            -115.56862, 
             32.781498
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1415 ROSS AVENUE",
-    "location_city": "EL CENTRO",
-    "location_state": "CA",
-    "location_zip": "92243",
+    }, 
+    "location_address": "1415 ROSS AVENUE", 
+    "location_city": "EL CENTRO", 
+    "location_state": "CA", 
+    "location_zip": "92243", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ecrmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7603397100",
-    "provider_id": "050045",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7603397100", 
+    "provider_id": "050045", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "92243"
 }

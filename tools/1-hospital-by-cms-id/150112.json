@@ -1,39 +1,47 @@
 {
-    "address": "2400 E 17TH ST",
-    "city": "COLUMBUS",
-    "county_name": "BARTHOLOMEW",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COLUMBUS REGIONAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2400 E 17TH ST", 
+    "city": "COLUMBUS", 
+    "county_name": "BARTHOLOMEW", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COLUMBUS REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.896854,
-            39.215872
-        ],
+            -85.896217, 
+            39.215882
+        ], 
         "type": "Point"
-    },
-    "location_address": "2400 E 17TH ST",
-    "location_city": "COLUMBUS",
-    "location_state": "IN",
-    "location_zip": "47201",
+    }, 
+    "location_address": "2400 E 17TH ST", 
+    "location_city": "COLUMBUS", 
+    "location_state": "IN", 
+    "location_zip": "47201", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.crh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8123794441",
-    "provider_id": "150112",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8123794441", 
+    "provider_id": "150112", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "47201"
 }

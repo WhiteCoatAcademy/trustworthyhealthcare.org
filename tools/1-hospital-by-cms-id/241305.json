@@ -1,39 +1,50 @@
 {
-    "address": "200 BUNKER HILL DRIVE",
-    "city": "AITKIN",
-    "county_name": "AITKIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "RIVERWOOD HEALTHCARE CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "200 BUNKER HILL DRIVE", 
+    "city": "AITKIN", 
+    "county_name": "AITKIN", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "RIVERWOOD HEALTHCARE CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -93.696835,
-            46.528735
-        ],
+            -93.696772, 
+            46.528354
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 BUNKER HILL DRIVE",
-    "location_city": "AITKIN",
-    "location_state": "MN",
-    "location_zip": "56431",
+    }, 
+    "location_address": "200 BUNKER HILL DRIVE", 
+    "location_city": "AITKIN", 
+    "location_state": "MN", 
+    "location_zip": "56431", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.riverwoodhealthcare.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2189275501",
-    "provider_id": "241305",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2189275501", 
+    "provider_id": "241305", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "56431"
 }

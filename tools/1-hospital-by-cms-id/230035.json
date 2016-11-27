@@ -1,41 +1,49 @@
 {
-    "address": "615 S BOWER STREET",
-    "city": "GREENVILLE",
-    "county_name": "MONTCALM",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SPECTRUM HEALTH UNITED MEMORIAL - UNITED CAMPUS",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "615 S BOWER STREET", 
+    "city": "GREENVILLE", 
+    "county_name": "MONTCALM", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SPECTRUM HEALTH UNITED HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.26875,
-            43.175103
-        ],
+            -85.268781, 
+            43.175469
+        ], 
         "type": "Point"
-    },
-    "location_address": "615 S BOWER STREET",
-    "location_city": "GREENVILLE",
-    "location_state": "MI",
-    "location_zip": "48838",
+    }, 
+    "location_address": "615 S BOWER STREET", 
+    "location_city": "GREENVILLE", 
+    "location_state": "MI", 
+    "location_zip": "48838", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.um.spectrum-health.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Spectrum Health",
+        "name": "Spectrum Health", 
         "websites": [
             "www.spectrum-health.org"
         ]
-    },
-    "phone_number": "6167544691",
-    "provider_id": "230035",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6167544691", 
+    "provider_id": "230035", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "48838"
 }

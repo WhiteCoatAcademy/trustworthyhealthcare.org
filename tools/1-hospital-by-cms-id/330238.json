@@ -1,39 +1,47 @@
 {
-    "address": "111  CLARA BARTON STREET",
-    "city": "DANSVILLE",
-    "county_name": "LIVINGSTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NICHOLAS H NOYES MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "111  CLARA BARTON STREET", 
+    "city": "DANSVILLE", 
+    "county_name": "LIVINGSTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NICHOLAS H NOYES MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.700243,
-            42.551882
-        ],
+            -77.700356, 
+            42.55213
+        ], 
         "type": "Point"
-    },
-    "location_address": "111 CLARA BARTON STREET",
-    "location_city": "DANSVILLE",
-    "location_state": "NY",
-    "location_zip": "14437",
+    }, 
+    "location_address": "111 CLARA BARTON STREET", 
+    "location_city": "DANSVILLE", 
+    "location_state": "NY", 
+    "location_zip": "14437", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.noyes-health.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5853356001",
-    "provider_id": "330238",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5853356001", 
+    "provider_id": "330238", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "14437"
 }

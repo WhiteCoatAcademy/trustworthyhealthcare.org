@@ -1,41 +1,49 @@
 {
-    "address": "200 MEDICAL PARK BOULEVARD",
-    "city": "PETERSBURG",
-    "county_name": "PETERSBURG CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOUTHSIDE REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 MEDICAL PARK BOULEVARD", 
+    "city": "PETERSBURG", 
+    "county_name": "PETERSBURG CITY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTHSIDE REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.361466,
+            -77.361466, 
             37.183654
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 MEDICAL PARK BOULEVARD",
-    "location_city": "PETERSBURG",
-    "location_state": "VA",
-    "location_zip": "23805",
+    }, 
+    "location_address": "200 MEDICAL PARK BOULEVARD", 
+    "location_city": "PETERSBURG", 
+    "location_state": "VA", 
+    "location_zip": "23805", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.srmconline.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "8047655000",
-    "provider_id": "490067",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8047655000", 
+    "provider_id": "490067", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "23805"
 }

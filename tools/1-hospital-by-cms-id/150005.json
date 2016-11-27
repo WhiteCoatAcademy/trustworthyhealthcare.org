@@ -1,39 +1,47 @@
 {
-    "address": "1000 E MAIN ST",
-    "city": "DANVILLE",
-    "county_name": "HENDRICKS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HENDRICKS REGIONAL HEALTH",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1000 E MAIN ST", 
+    "city": "DANVILLE", 
+    "county_name": "HENDRICKS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HENDRICKS REGIONAL HEALTH", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.500743,
-            39.76077
-        ],
+            -86.500748, 
+            39.760769
+        ], 
         "type": "Point"
-    },
-    "location_address": "1000 E MAIN ST",
-    "location_city": "DANVILLE",
-    "location_state": "IN",
-    "location_zip": "46122",
+    }, 
+    "location_address": "1000 E MAIN ST", 
+    "location_city": "DANVILLE", 
+    "location_state": "IN", 
+    "location_zip": "46122", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hendrickshospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3177454451",
-    "provider_id": "150005",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3177454451", 
+    "provider_id": "150005", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "46122"
 }

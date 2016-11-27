@@ -1,39 +1,50 @@
 {
-    "address": "4007 GATEWAY BLVD",
-    "city": "NEWBURGH",
-    "county_name": "WARRICK",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "THE HEART HOSPITAL AT DEACONESS GATEWAY LLC",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4007 GATEWAY BLVD", 
+    "city": "NEWBURGH", 
+    "county_name": "WARRICK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "THE HEART HOSPITAL AT DEACONESS GATEWAY LLC", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.445927,
-            37.976275
-        ],
+            -87.44227, 
+            37.975196
+        ], 
         "type": "Point"
-    },
-    "location_address": "4007 GATEWAY BLVD",
-    "location_city": "NEWBURGH",
-    "location_state": "IN",
-    "location_zip": "47630",
+    }, 
+    "location_address": "4007 GATEWAY BLVD", 
+    "location_city": "NEWBURGH", 
+    "location_state": "IN", 
+    "location_zip": "47630", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.monroehospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8128424784",
-    "provider_id": "150175",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8128424784", 
+    "provider_id": "150175", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "47630"
 }

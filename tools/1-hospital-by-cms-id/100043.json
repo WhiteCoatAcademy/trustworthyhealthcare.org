@@ -1,41 +1,49 @@
 {
-    "address": "601 MAIN ST",
-    "city": "DUNEDIN",
-    "county_name": "PINELLAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEASE DUNEDIN HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "601 MAIN ST", 
+    "city": "DUNEDIN", 
+    "county_name": "PINELLAS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEASE DUNEDIN HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.783822,
+            -82.783822, 
             28.014032
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "601 MAIN ST",
-    "location_city": "DUNEDIN",
-    "location_state": "FL",
-    "location_zip": "34698",
+    }, 
+    "location_address": "601 MAIN ST", 
+    "location_city": "DUNEDIN", 
+    "location_state": "FL", 
+    "location_zip": "34698", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.measehospitals.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "BayCare Health System",
+        "name": "BayCare Health System", 
         "websites": [
             "www.baycare.org"
         ]
-    },
-    "phone_number": "7277331111",
-    "provider_id": "100043",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7277331111", 
+    "provider_id": "100043", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "34698"
 }

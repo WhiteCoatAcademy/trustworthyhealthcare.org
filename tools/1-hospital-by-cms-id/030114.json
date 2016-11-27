@@ -1,41 +1,49 @@
 {
-    "address": "1551 EAST TANGERINE ROAD",
-    "city": "ORO VALLEY",
-    "county_name": "PIMA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ORO VALLEY HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1551 EAST TANGERINE ROAD", 
+    "city": "ORO VALLEY", 
+    "county_name": "PIMA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ORO VALLEY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -110.951521,
-            32.426782
-        ],
+            -110.947967, 
+            32.427304
+        ], 
         "type": "Point"
-    },
-    "location_address": "1551 EAST TANGERINE ROAD",
-    "location_city": "ORO VALLEY",
-    "location_state": "AZ",
-    "location_zip": "85755",
+    }, 
+    "location_address": "1551 EAST TANGERINE ROAD", 
+    "location_city": "ORO VALLEY", 
+    "location_state": "AZ", 
+    "location_zip": "85755", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nmcorovalley.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "5209013549",
-    "provider_id": "030114",
-    "raw_ratings": {},
-    "state": "AZ",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5209013549", 
+    "provider_id": "030114", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "AZ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "85755"
 }

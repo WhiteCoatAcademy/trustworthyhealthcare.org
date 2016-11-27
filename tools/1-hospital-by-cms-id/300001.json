@@ -1,39 +1,47 @@
 {
-    "address": "250 PLEASANT ST",
-    "city": "CONCORD",
-    "county_name": "MERRIMACK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CONCORD HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "250 PLEASANT ST", 
+    "city": "CONCORD", 
+    "county_name": "MERRIMACK", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CONCORD HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -71.560369,
-            43.195963
-        ],
+            -71.562366, 
+            43.196329
+        ], 
         "type": "Point"
-    },
-    "location_address": "250 PLEASANT ST",
-    "location_city": "CONCORD",
-    "location_state": "NH",
-    "location_zip": "03301",
+    }, 
+    "location_address": "250 PLEASANT ST", 
+    "location_city": "CONCORD", 
+    "location_state": "NH", 
+    "location_zip": "03301", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.concordhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6032252711",
-    "provider_id": "300001",
-    "raw_ratings": {},
-    "state": "NH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6032252711", 
+    "provider_id": "300001", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NH", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "03301"
 }

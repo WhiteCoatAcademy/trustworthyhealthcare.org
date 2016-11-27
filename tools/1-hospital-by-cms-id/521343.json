@@ -1,39 +1,49 @@
 {
-    "address": "900 RIDGE ST",
-    "city": "STOUGHTON",
-    "county_name": "DANE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "STOUGHTON HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "900 RIDGE ST", 
+    "city": "STOUGHTON", 
+    "county_name": "DANE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "STOUGHTON HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -89.210266,
-            42.920323
-        ],
+            -89.211391, 
+            42.920331
+        ], 
         "type": "Point"
-    },
-    "location_address": "900 RIDGE ST",
-    "location_city": "STOUGHTON",
-    "location_state": "WI",
-    "location_zip": "53589",
+    }, 
+    "location_address": "900 RIDGE ST", 
+    "location_city": "STOUGHTON", 
+    "location_state": "WI", 
+    "location_zip": "53589", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stoughtonhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6088736611",
-    "provider_id": "521343",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6088736611", 
+    "provider_id": "521343", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "53589"
 }

@@ -1,41 +1,52 @@
 {
-    "address": "525 WEST MAIN STREET",
-    "city": "MELROSE",
-    "county_name": "STEARNS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CENTRACARE HEALTH SYSTEM - MELROSE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "525 WEST MAIN STREET", 
+    "city": "MELROSE", 
+    "county_name": "STEARNS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CENTRACARE HEALTH SYSTEM - MELROSE HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -94.82349,
-            45.674916
-        ],
+            -94.824799, 
+            45.6749
+        ], 
         "type": "Point"
-    },
-    "location_address": "525 WEST MAIN STREET",
-    "location_city": "MELROSE",
-    "location_state": "MN",
-    "location_zip": "56352",
+    }, 
+    "location_address": "525 WEST MAIN STREET", 
+    "location_city": "MELROSE", 
+    "location_state": "MN", 
+    "location_zip": "56352", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.centracare.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "CentraCare Health System",
+        "name": "CentraCare Health System", 
         "websites": [
             "www.centracare.com"
         ]
-    },
-    "phone_number": "3202564231",
-    "provider_id": "241330",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3202564231", 
+    "provider_id": "241330", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "56352"
 }

@@ -1,39 +1,48 @@
 {
-    "address": "6655 ALVARADO ROAD",
-    "city": "SAN DIEGO",
-    "county_name": "SAN DIEGO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ALVARADO HOSPITAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Federal",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6655 ALVARADO ROAD", 
+    "city": "SAN DIEGO", 
+    "county_name": "SAN DIEGO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ALVARADO HOSPITAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Federal", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.057301,
-            32.777253
-        ],
+            -117.056602, 
+            32.777136
+        ], 
         "type": "Point"
-    },
-    "location_address": "6655 ALVARADO ROAD",
-    "location_city": "SAN DIEGO",
-    "location_state": "CA",
-    "location_zip": "92120",
+    }, 
+    "location_address": "6655 ALVARADO ROAD", 
+    "location_city": "SAN DIEGO", 
+    "location_state": "CA", 
+    "location_zip": "92120", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.alvaradohospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6192293172",
-    "provider_id": "050757",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6192293172", 
+    "provider_id": "050757", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "92120"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "2300 OPITZ BOULEVARD",
-    "city": "WOODBRIDGE",
-    "county_name": "PRINCE WILLIAM",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SENTARA NORTHERN VIRGINIA MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2300 OPITZ BOULEVARD", 
+    "city": "WOODBRIDGE", 
+    "county_name": "PRINCE WILLIAM", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SENTARA NORTHERN VIRGINIA MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.283105,
-            38.634477
-        ],
+            -77.284211, 
+            38.634953
+        ], 
         "type": "Point"
-    },
-    "location_address": "2300 OPITZ BOULEVARD",
-    "location_city": "WOODBRIDGE",
-    "location_state": "VA",
-    "location_zip": "22191",
+    }, 
+    "location_address": "2300 OPITZ BOULEVARD", 
+    "location_city": "WOODBRIDGE", 
+    "location_state": "VA", 
+    "location_zip": "22191", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.potomachospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7035231000",
-    "provider_id": "490113",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7035231000", 
+    "provider_id": "490113", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "22191"
 }

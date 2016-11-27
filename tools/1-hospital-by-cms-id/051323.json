@@ -1,41 +1,55 @@
 {
-    "address": "1401 BAILEY AVE",
-    "city": "NEEDLES",
-    "county_name": "SAN BERNARDINO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COLORADO RIVER MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1401 BAILEY AVE", 
+    "city": "NEEDLES", 
+    "county_name": "SAN BERNARDINO", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COLORADO RIVER MEDICAL CENTER", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -114.618317,
-            34.832788
-        ],
+            -114.618319, 
+            34.83316
+        ], 
         "type": "Point"
-    },
-    "location_address": "1401 BAILEY AVE",
-    "location_city": "NEEDLES",
-    "location_state": "CA",
-    "location_zip": "92363",
+    }, 
+    "location_address": "1401 BAILEY AVE", 
+    "location_city": "NEEDLES", 
+    "location_state": "CA", 
+    "location_zip": "92363", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "7603264531",
-    "provider_id": "051323",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "7603264531", 
+    "provider_id": "051323", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "92363"
 }

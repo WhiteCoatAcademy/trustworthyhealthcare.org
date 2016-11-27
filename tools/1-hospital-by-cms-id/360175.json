@@ -1,39 +1,47 @@
 {
-    "address": "610 WEST MAIN STREET",
-    "city": "WILMINGTON",
-    "county_name": "CLINTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CLINTON MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "610 WEST MAIN STREET", 
+    "city": "WILMINGTON", 
+    "county_name": "CLINTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CLINTON MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.839166,
-            39.445547
-        ],
+            -83.841616, 
+            39.445501
+        ], 
         "type": "Point"
-    },
-    "location_address": "610 WEST MAIN STREET",
-    "location_city": "WILMINGTON",
-    "location_state": "OH",
-    "location_zip": "45177",
+    }, 
+    "location_address": "610 WEST MAIN STREET", 
+    "location_city": "WILMINGTON", 
+    "location_state": "OH", 
+    "location_zip": "45177", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cmhregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9373826611",
-    "provider_id": "360175",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9373826611", 
+    "provider_id": "360175", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "45177"
 }

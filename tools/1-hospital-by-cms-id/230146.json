@@ -1,41 +1,49 @@
 {
-    "address": "2333 BIDDLE AVE",
-    "city": "WYANDOTTE",
-    "county_name": "WAYNE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HENRY FORD WYANDOTTE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2333 BIDDLE AVE", 
+    "city": "WYANDOTTE", 
+    "county_name": "WAYNE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HENRY FORD WYANDOTTE HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.148776,
+            -83.148776, 
             42.209694
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2333 BIDDLE AVE",
-    "location_city": "WYANDOTTE",
-    "location_state": "MI",
-    "location_zip": "48192",
+    }, 
+    "location_address": "2333 BIDDLE AVE", 
+    "location_city": "WYANDOTTE", 
+    "location_state": "MI", 
+    "location_zip": "48192", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.henryfordhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Henry Ford Health System",
+        "name": "Henry Ford Health System", 
         "websites": [
             "www.henryfordhealth.org"
         ]
-    },
-    "phone_number": "7342466000",
-    "provider_id": "230146",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7342466000", 
+    "provider_id": "230146", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "48192"
 }

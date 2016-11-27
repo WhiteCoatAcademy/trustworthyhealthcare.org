@@ -1,41 +1,49 @@
 {
-    "address": "110 NORTH MAIN STREET",
-    "city": "GREENVILLE",
-    "county_name": "MERCER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UPMC HORIZON",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "110 NORTH MAIN STREET", 
+    "city": "GREENVILLE", 
+    "county_name": "MERCER", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UPMC HORIZON", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.371781,
-            41.411218
-        ],
+            -80.372201, 
+            41.411126
+        ], 
         "type": "Point"
-    },
-    "location_address": "110 NORTH MAIN STREET",
-    "location_city": "GREENVILLE",
-    "location_state": "PA",
-    "location_zip": "16125",
+    }, 
+    "location_address": "110 NORTH MAIN STREET", 
+    "location_city": "GREENVILLE", 
+    "location_state": "PA", 
+    "location_zip": "16125", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "horizon.upmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University of Pittsburgh Medical Center",
+        "name": "University of Pittsburgh Medical Center", 
         "websites": [
             "www.upmc.com"
         ]
-    },
-    "phone_number": "7245882100",
-    "provider_id": "390178",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7245882100", 
+    "provider_id": "390178", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "16125"
 }

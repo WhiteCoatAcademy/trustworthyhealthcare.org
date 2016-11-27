@@ -1,41 +1,52 @@
 {
-    "address": "1025 S ANAHEIM BLVD",
-    "city": "ANAHEIM",
-    "county_name": "ORANGE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ANAHEIM GLOBAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1025 S ANAHEIM BLVD", 
+    "city": "ANAHEIM", 
+    "county_name": "ORANGE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ANAHEIM GLOBAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.909002,
-            33.820566
-        ],
+            -117.908942, 
+            33.820365
+        ], 
         "type": "Point"
-    },
-    "location_address": "1025 S ANAHEIM BLVD",
-    "location_city": "ANAHEIM",
-    "location_state": "CA",
-    "location_zip": "92805",
+    }, 
+    "location_address": "1025 S ANAHEIM BLVD", 
+    "location_city": "ANAHEIM", 
+    "location_state": "CA", 
+    "location_zip": "92805", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.westernmedanaheim.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Integrated Healthcare Holdings",
+        "name": "Integrated Healthcare Holdings", 
         "websites": [
             "www.ihhioc.com"
         ]
-    },
-    "phone_number": "7145336220",
-    "provider_id": "050744",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7145336220", 
+    "provider_id": "050744", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "92805"
 }

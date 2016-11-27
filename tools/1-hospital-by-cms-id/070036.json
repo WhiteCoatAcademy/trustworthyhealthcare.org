@@ -1,39 +1,47 @@
 {
-    "address": "263 FARMINGTON AVE",
-    "city": "FARMINGTON",
-    "county_name": "HARTFORD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JOHN DEMPSEY HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "263 FARMINGTON AVE", 
+    "city": "FARMINGTON", 
+    "county_name": "HARTFORD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JOHN DEMPSEY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -72.79582,
+            -72.79582, 
             41.73509
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "263 FARMINGTON AVE",
-    "location_city": "FARMINGTON",
-    "location_state": "CT",
-    "location_zip": "06032",
+    }, 
+    "location_address": "263 FARMINGTON AVE", 
+    "location_city": "FARMINGTON", 
+    "location_state": "CT", 
+    "location_zip": "06032", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.uchc.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8606791145",
-    "provider_id": "070036",
-    "raw_ratings": {},
-    "state": "CT",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8606791145", 
+    "provider_id": "070036", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CT", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "06032"
 }

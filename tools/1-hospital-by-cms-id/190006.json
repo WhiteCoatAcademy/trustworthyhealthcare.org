@@ -1,41 +1,51 @@
 {
-    "address": "2390 WEST CONGRESS",
-    "city": "LAFAYETTE",
-    "county_name": "LAFAYETTE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY HOSPITAL & CLINICS",
-    "hospital_ownership": "Government - State",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2390 WEST CONGRESS", 
+    "city": "LAFAYETTE", 
+    "county_name": "LAFAYETTE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY HOSPITAL & CLINICS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -92.045675,
+            -92.045675, 
             30.215792
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2390 WEST CONGRESS",
-    "location_city": "LAFAYETTE",
-    "location_state": "LA",
-    "location_zip": "70506",
+    }, 
+    "location_address": "2390 WEST CONGRESS", 
+    "location_city": "LAFAYETTE", 
+    "location_state": "LA", 
+    "location_zip": "70506", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lsuhospitals.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Louisiana State University Health Care Services Division",
+        "name": "Louisiana State University Health Care Services Division", 
         "websites": [
             "www.lsuhospitals.org"
         ]
-    },
-    "phone_number": "3372616000",
-    "provider_id": "190006",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3372616000", 
+    "provider_id": "190006", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "70506"
 }

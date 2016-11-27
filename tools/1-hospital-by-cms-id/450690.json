@@ -1,39 +1,47 @@
 {
-    "address": "11937 US HIGHWAY 271",
-    "city": "TYLER",
-    "county_name": "SMITH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT TYLER",
-    "hospital_ownership": "Government - State",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "11937 US HIGHWAY 271", 
+    "city": "TYLER", 
+    "county_name": "SMITH", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER AT TYLER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - State", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.218309,
-            32.419948
-        ],
+            -95.209291, 
+            32.42369
+        ], 
         "type": "Point"
-    },
-    "location_address": "11937 US HIGHWAY 271",
-    "location_city": "TYLER",
-    "location_state": "TX",
-    "location_zip": "75708",
+    }, 
+    "location_address": "11937 US HIGHWAY 271", 
+    "location_city": "TYLER", 
+    "location_state": "TX", 
+    "location_zip": "75708", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.uthct.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9038777777",
-    "provider_id": "450690",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9038777777", 
+    "provider_id": "450690", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75708"
 }

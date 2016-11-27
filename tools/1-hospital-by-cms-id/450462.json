@@ -1,41 +1,49 @@
 {
-    "address": "8200 WALNUT HILL LANE",
-    "city": "DALLAS",
-    "county_name": "DALLAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL  DALLAS",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "8200 WALNUT HILL LANE", 
+    "city": "DALLAS", 
+    "county_name": "DALLAS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL  DALLAS", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.763901,
-            32.883056
-        ],
+            -96.76358, 
+            32.883138
+        ], 
         "type": "Point"
-    },
-    "location_address": "8200 WALNUT HILL LANE",
-    "location_city": "DALLAS",
-    "location_state": "TX",
-    "location_zip": "75231",
+    }, 
+    "location_address": "8200 WALNUT HILL LANE", 
+    "location_city": "DALLAS", 
+    "location_state": "TX", 
+    "location_zip": "75231", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.texashealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Texas Health Resources",
+        "name": "Texas Health Resources", 
         "websites": [
             "www.texashealth.org"
         ]
-    },
-    "phone_number": "2143456789",
-    "provider_id": "450462",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2143456789", 
+    "provider_id": "450462", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75231"
 }

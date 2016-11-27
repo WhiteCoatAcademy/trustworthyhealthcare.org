@@ -1,39 +1,50 @@
 {
-    "address": "400 EAST FIRST STREET, PO BOX 660",
-    "city": "MORRIS",
-    "county_name": "STEVENS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "STEVENS COMMUNITY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "400 EAST FIRST STREET, PO BOX 660", 
+    "city": "MORRIS", 
+    "county_name": "STEVENS", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "STEVENS COMMUNITY MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -95.905581,
-            45.585186
-        ],
+            -95.905063, 
+            45.585436
+        ], 
         "type": "Point"
-    },
-    "location_address": "400 EAST FIRST STREET, PO BOX 660",
-    "location_city": "MORRIS",
-    "location_state": "MN",
-    "location_zip": "56267",
+    }, 
+    "location_address": "400 EAST FIRST STREET, PO BOX 660", 
+    "location_city": "MORRIS", 
+    "location_state": "MN", 
+    "location_zip": "56267", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.scmcmorris.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3205891313",
-    "provider_id": "241363",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3205891313", 
+    "provider_id": "241363", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "56267"
 }

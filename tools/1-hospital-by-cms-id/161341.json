@@ -1,39 +1,50 @@
 {
-    "address": "1200 NORTH 7TH STREET",
-    "city": "CHARITON",
-    "county_name": "LUCAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LUCAS COUNTY HEALTH CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1200 NORTH 7TH STREET", 
+    "city": "CHARITON", 
+    "county_name": "LUCAS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LUCAS COUNTY HEALTH CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -93.303422,
-            41.027761
-        ],
+            -93.303421, 
+            41.027693
+        ], 
         "type": "Point"
-    },
-    "location_address": "1200 NORTH 7TH STREET",
-    "location_city": "CHARITON",
-    "location_state": "IA",
-    "location_zip": "50049",
+    }, 
+    "location_address": "1200 NORTH 7TH STREET", 
+    "location_city": "CHARITON", 
+    "location_state": "IA", 
+    "location_zip": "50049", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lchcia.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6417743000",
-    "provider_id": "161341",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6417743000", 
+    "provider_id": "161341", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "50049"
 }

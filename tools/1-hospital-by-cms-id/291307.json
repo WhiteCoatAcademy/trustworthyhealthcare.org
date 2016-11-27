@@ -1,41 +1,50 @@
 {
-    "address": "1299 BERTHA HOWE AVENUE",
-    "city": "MESQUITE",
-    "county_name": "CLARK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MESA VIEW REGIONAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1299 BERTHA HOWE AVENUE", 
+    "city": "MESQUITE", 
+    "county_name": "CLARK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MESA VIEW REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -114.114446,
-            36.808809
-        ],
+            -114.114456, 
+            36.808859
+        ], 
         "type": "Point"
-    },
-    "location_address": "1299 BERTHA HOWE AVENUE",
-    "location_city": "MESQUITE",
-    "location_state": "NV",
-    "location_zip": "89027",
+    }, 
+    "location_address": "1299 BERTHA HOWE AVENUE", 
+    "location_city": "MESQUITE", 
+    "location_state": "NV", 
+    "location_zip": "89027", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mesaviewhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "7023468040",
-    "provider_id": "291307",
-    "raw_ratings": {},
-    "state": "NV",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7023468040", 
+    "provider_id": "291307", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NV", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "89027"
 }

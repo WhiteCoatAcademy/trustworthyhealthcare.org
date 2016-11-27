@@ -1,39 +1,48 @@
 {
-    "address": "4422 THIRD AVENUE",
-    "city": "BRONX",
-    "county_name": "BRONX",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST BARNABAS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4422 THIRD AVENUE", 
+    "city": "BRONX", 
+    "county_name": "BRONX", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST BARNABAS HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.890909,
-            40.854123
-        ],
+            -73.892168, 
+            40.85277
+        ], 
         "type": "Point"
-    },
-    "location_address": "4422 THIRD AVENUE",
-    "location_city": "BRONX",
-    "location_state": "NY",
-    "location_zip": "10457",
+    }, 
+    "location_address": "4422 THIRD AVENUE", 
+    "location_city": "BRONX", 
+    "location_state": "NY", 
+    "location_zip": "10457", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stbarnabashospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2129609000",
-    "provider_id": "330399",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2129609000", 
+    "provider_id": "330399", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "10457"
 }

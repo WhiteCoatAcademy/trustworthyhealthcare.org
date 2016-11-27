@@ -1,41 +1,49 @@
 {
-    "address": "3580 WEST 9000 SOUTH",
-    "city": "WEST JORDAN",
-    "county_name": "SALT LAKE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JORDAN VALLEY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3580 WEST 9000 SOUTH", 
+    "city": "WEST JORDAN", 
+    "county_name": "SALT LAKE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JORDAN VALLEY MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -111.975037,
-            40.587958
-        ],
+            -111.975397, 
+            40.587951
+        ], 
         "type": "Point"
-    },
-    "location_address": "3580 WEST 9000 SOUTH",
-    "location_city": "WEST JORDAN",
-    "location_state": "UT",
-    "location_zip": "84088",
+    }, 
+    "location_address": "3580 WEST 9000 SOUTH", 
+    "location_city": "WEST JORDAN", 
+    "location_state": "UT", 
+    "location_zip": "84088", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.jordanvalleyhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "IASIS Healthcare",
+        "name": "IASIS Healthcare", 
         "websites": [
             "www.iasishealthcare.com"
         ]
-    },
-    "phone_number": "8015618888",
-    "provider_id": "460051",
-    "raw_ratings": {},
-    "state": "UT",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8015618888", 
+    "provider_id": "460051", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "UT", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "84088"
 }

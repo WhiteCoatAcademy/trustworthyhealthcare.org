@@ -1,40 +1,49 @@
 {
-    "address": "18300 HIGHWAY 18",
-    "city": "APPLE VALLEY",
-    "county_name": "SAN BERNARDINO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST MARY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "18300 HIGHWAY 18", 
+    "city": "APPLE VALLEY", 
+    "county_name": "SAN BERNARDINO", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST MARY MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"18300 HIGHWAY 18\",\"city\":\"APPLE VALLEY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.540588300000024",
-        "longitude": "-117.26566484099999",
-        "needs_recoding": false
-    },
-    "location_address": "18300 HIGHWAY 18",
-    "location_city": "APPLE VALLEY",
-    "location_state": "CA",
-    "location_zip": "92307",
+        "coordinates": [
+            -117.265542, 
+            34.540542
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "18300 HIGHWAY 18", 
+    "location_city": "APPLE VALLEY", 
+    "location_state": "CA", 
+    "location_zip": "92307", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stmary4health.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Joseph Health System",
+        "name": "Saint Joseph Health System", 
         "websites": [
             "www.stjhs.org"
         ]
-    },
-    "phone_number": "7602422311",
-    "provider_id": "050300",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7602422311", 
+    "provider_id": "050300", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "92307"
 }

@@ -1,41 +1,54 @@
 {
-    "address": "308 NORTH MAPLE AVENUE",
-    "city": "NEW HAMPTON",
-    "county_name": "CHICKASAW",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY MEDICAL CENTER-NEW HAMPTON",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "308 NORTH MAPLE AVENUE", 
+    "city": "NEW HAMPTON", 
+    "county_name": "CHICKASAW", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY MEDICAL CENTER-NEW HAMPTON", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -92.320436,
-            43.062063
-        ],
+            -92.320425, 
+            43.062677
+        ], 
         "type": "Point"
-    },
-    "location_address": "308 NORTH MAPLE AVENUE",
-    "location_city": "NEW HAMPTON",
-    "location_state": "IA",
-    "location_zip": "50659",
+    }, 
+    "location_address": "308 NORTH MAPLE AVENUE", 
+    "location_city": "NEW HAMPTON", 
+    "location_state": "IA", 
+    "location_zip": "50659", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mercynewhampton.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Mercy Health Network",
+        "name": "Mercy Health Network", 
         "websites": [
             "www.mercyhealthnetwork.com"
         ]
-    },
-    "phone_number": "6413944121",
-    "provider_id": "161331",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6413944121", 
+    "provider_id": "161331", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "50659"
 }

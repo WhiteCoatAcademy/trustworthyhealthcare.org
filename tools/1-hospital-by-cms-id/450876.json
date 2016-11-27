@@ -1,39 +1,47 @@
 {
-    "address": "4810 NORTH LOOP 289",
-    "city": "LUBBOCK",
-    "county_name": "LUBBOCK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LUBBOCK HEART HOSPITAL LP",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4810 NORTH LOOP 289", 
+    "city": "LUBBOCK", 
+    "county_name": "LUBBOCK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LUBBOCK HEART HOSPITAL LP", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -101.914918,
-            33.602124
-        ],
+            -101.914287, 
+            33.602527
+        ], 
         "type": "Point"
-    },
-    "location_address": "4810 NORTH LOOP 289",
-    "location_city": "LUBBOCK",
-    "location_state": "TX",
-    "location_zip": "79416",
+    }, 
+    "location_address": "4810 NORTH LOOP 289", 
+    "location_city": "LUBBOCK", 
+    "location_state": "TX", 
+    "location_zip": "79416", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lubbockheart.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8066877777",
-    "provider_id": "450876",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8066877777", 
+    "provider_id": "450876", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "79416"
 }

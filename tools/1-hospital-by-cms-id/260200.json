@@ -1,41 +1,49 @@
 {
-    "address": "100 MEDICAL PLAZA",
-    "city": "LAKE SAINT LOUIS",
-    "county_name": "SAINT CHARLES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SSM ST JOSEPH HOSPITAL WEST",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 MEDICAL PLAZA", 
+    "city": "LAKE SAINT LOUIS", 
+    "county_name": "SAINT CHARLES", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SSM HEALTH SAINT JOSEPH HOSPITAL-LAKE SAINT LOUIS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.774729,
-            38.803075
-        ],
+            -90.774903, 
+            38.803087
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 MEDICAL PLAZA",
-    "location_city": "LAKE SAINT LOUIS",
-    "location_state": "MO",
-    "location_zip": "63367",
+    }, 
+    "location_address": "100 MEDICAL PLAZA", 
+    "location_city": "LAKE SAINT LOUIS", 
+    "location_state": "MO", 
+    "location_zip": "63367", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ssmstjosephwest.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "SSM Health Care",
+        "name": "SSM Health Care", 
         "websites": [
             "www.ssmhc.com"
         ]
-    },
-    "phone_number": "6366255200",
-    "provider_id": "260200",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6366255200", 
+    "provider_id": "260200", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "63367"
 }

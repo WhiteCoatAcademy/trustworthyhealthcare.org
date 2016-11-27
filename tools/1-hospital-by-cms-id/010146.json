@@ -1,41 +1,50 @@
 {
-    "address": "1701 SOUTH PELHAM ROAD",
-    "city": "JACKSONVILLE",
-    "county_name": "CALHOUN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "RMC JACKSONVILLE",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1701 SOUTH PELHAM ROAD", 
+    "city": "JACKSONVILLE", 
+    "county_name": "CALHOUN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "RMC JACKSONVILLE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.761164,
-            33.785668
-        ],
+            -85.761319, 
+            33.784679
+        ], 
         "type": "Point"
-    },
-    "location_address": "1701 SOUTH PELHAM ROAD",
-    "location_city": "JACKSONVILLE",
-    "location_state": "AL",
-    "location_zip": "36265",
+    }, 
+    "location_address": "1701 SOUTH PELHAM ROAD", 
+    "location_city": "JACKSONVILLE", 
+    "location_state": "AL", 
+    "location_zip": "36265", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.jmchealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Capella Healthcare",
+        "name": "Capella Healthcare", 
         "websites": [
             "www.capellahealth.com"
         ]
-    },
-    "phone_number": "2567824538",
-    "provider_id": "010146",
-    "raw_ratings": {},
-    "state": "AL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2567824538", 
+    "provider_id": "010146", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "AL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "36265"
 }

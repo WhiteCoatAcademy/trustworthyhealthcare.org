@@ -1,41 +1,49 @@
 {
-    "address": "100 FAIRFIELD DRIVE",
-    "city": "SENECA",
-    "county_name": "VENANGO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UPMC NORTHWEST",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 FAIRFIELD DRIVE", 
+    "city": "SENECA", 
+    "county_name": "VENANGO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UPMC NORTHWEST", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -79.707926,
+            -79.707926, 
             41.360026
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 FAIRFIELD DRIVE",
-    "location_city": "SENECA",
-    "location_state": "PA",
-    "location_zip": "16346",
+    }, 
+    "location_address": "100 FAIRFIELD DRIVE", 
+    "location_city": "SENECA", 
+    "location_state": "PA", 
+    "location_zip": "16346", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "northwest.upmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University of Pittsburgh Medical Center",
+        "name": "University of Pittsburgh Medical Center", 
         "websites": [
             "www.upmc.com"
         ]
-    },
-    "phone_number": "8146767600",
-    "provider_id": "390091",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8146767600", 
+    "provider_id": "390091", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "16346"
 }

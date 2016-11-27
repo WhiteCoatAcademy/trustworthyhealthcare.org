@@ -1,39 +1,47 @@
 {
-    "address": "115 AIRPORT RD",
-    "city": "SULPHUR SPRINGS",
-    "county_name": "HOPKINS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HOPKINS COUNTY MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "115 AIRPORT RD", 
+    "city": "SULPHUR SPRINGS", 
+    "county_name": "HOPKINS", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HOPKINS COUNTY MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.599632,
-            33.156216
-        ],
+            -95.599648, 
+            33.15622
+        ], 
         "type": "Point"
-    },
-    "location_address": "115 AIRPORT RD",
-    "location_city": "SULPHUR SPRINGS",
-    "location_state": "TX",
-    "location_zip": "75482",
+    }, 
+    "location_address": "115 AIRPORT RD", 
+    "location_city": "SULPHUR SPRINGS", 
+    "location_state": "TX", 
+    "location_zip": "75482", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hcmh.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9038857671",
-    "provider_id": "450236",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9038857671", 
+    "provider_id": "450236", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "75482"
 }

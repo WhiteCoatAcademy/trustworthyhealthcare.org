@@ -1,41 +1,49 @@
 {
-    "address": "221 MAHALANI STREET",
-    "city": "WAILUKU",
-    "county_name": "MAUI",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MAUI MEMORIAL MEDICAL CENTER",
-    "hospital_ownership": "Government - State",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "221 MAHALANI STREET", 
+    "city": "WAILUKU", 
+    "county_name": "MAUI", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MAUI MEMORIAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - State", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -156.488693,
-            20.884006
-        ],
+            -156.488087, 
+            20.884455
+        ], 
         "type": "Point"
-    },
-    "location_address": "221 MAHALANI STREET",
-    "location_city": "WAILUKU",
-    "location_state": "HI",
-    "location_zip": "96793",
+    }, 
+    "location_address": "221 MAHALANI STREET", 
+    "location_city": "WAILUKU", 
+    "location_state": "HI", 
+    "location_zip": "96793", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mmmc.hhsc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Hawaii Health Systems Corporation",
+        "name": "Hawaii Health Systems Corporation", 
         "websites": [
             "www.hhsc.org"
         ]
-    },
-    "phone_number": "8084425101",
-    "provider_id": "120002",
-    "raw_ratings": {},
-    "state": "HI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8084425101", 
+    "provider_id": "120002", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "HI", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "96793"
 }

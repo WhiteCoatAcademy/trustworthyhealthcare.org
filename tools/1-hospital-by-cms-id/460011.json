@@ -1,41 +1,49 @@
 {
-    "address": "300 NORTH HOSPITAL DRIVE",
-    "city": "PRICE",
-    "county_name": "CARBON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CASTLEVIEW HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "300 NORTH HOSPITAL DRIVE", 
+    "city": "PRICE", 
+    "county_name": "CARBON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CASTLEVIEW HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -110.832182,
-            39.605806
-        ],
+            -110.83219, 
+            39.605788
+        ], 
         "type": "Point"
-    },
-    "location_address": "300 NORTH HOSPITAL DRIVE",
-    "location_city": "PRICE",
-    "location_state": "UT",
-    "location_zip": "84501",
+    }, 
+    "location_address": "300 NORTH HOSPITAL DRIVE", 
+    "location_city": "PRICE", 
+    "location_state": "UT", 
+    "location_zip": "84501", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.castleviewhospital.net"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "4356374800",
-    "provider_id": "460011",
-    "raw_ratings": {},
-    "state": "UT",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4356374800", 
+    "provider_id": "460011", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "UT", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "84501"
 }

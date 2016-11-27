@@ -1,41 +1,50 @@
 {
-    "address": "2400 LEE HIGHWAY",
-    "city": "PULASKI",
-    "county_name": "PULASKI",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LEWISGALE HOSPITAL PULASKI",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2400 LEE HIGHWAY", 
+    "city": "PULASKI", 
+    "county_name": "PULASKI", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LEWISGALE HOSPITAL PULASKI", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.758003,
-            37.069306
-        ],
+            -80.758807, 
+            37.068744
+        ], 
         "type": "Point"
-    },
-    "location_address": "2400 LEE HIGHWAY",
-    "location_city": "PULASKI",
-    "location_state": "VA",
-    "location_zip": "24301",
+    }, 
+    "location_address": "2400 LEE HIGHWAY", 
+    "location_city": "PULASKI", 
+    "location_state": "VA", 
+    "location_zip": "24301", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pch-va.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "5409948100",
-    "provider_id": "490116",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5409948100", 
+    "provider_id": "490116", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "24301"
 }

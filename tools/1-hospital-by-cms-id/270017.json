@@ -1,41 +1,49 @@
 {
-    "address": "400 S CLARK ST",
-    "city": "BUTTE",
-    "county_name": "SILVER BOW",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JAMES HEALTHCARE",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "400 S CLARK ST", 
+    "city": "BUTTE", 
+    "county_name": "SILVER BOW", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JAMES HEALTHCARE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -112.546375,
-            46.008582
-        ],
+            -112.546317, 
+            46.008433
+        ], 
         "type": "Point"
-    },
-    "location_address": "400 S CLARK ST",
-    "location_city": "BUTTE",
-    "location_state": "MT",
-    "location_zip": "59701",
+    }, 
+    "location_address": "400 S CLARK ST", 
+    "location_city": "BUTTE", 
+    "location_state": "MT", 
+    "location_zip": "59701", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stjameshealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sisters of Charity of Leavenworth Health System",
+        "name": "Sisters of Charity of Leavenworth Health System", 
         "websites": [
             "www.sclhsc.org"
         ]
-    },
-    "phone_number": "4067232500",
-    "provider_id": "270017",
-    "raw_ratings": {},
-    "state": "MT",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4067232500", 
+    "provider_id": "270017", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MT", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "59701"
 }

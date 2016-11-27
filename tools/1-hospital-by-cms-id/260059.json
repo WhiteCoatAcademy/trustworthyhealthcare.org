@@ -1,41 +1,49 @@
 {
-    "address": "100 HOSPITAL DRIVE",
-    "city": "LEBANON",
-    "county_name": "LACLEDE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY HOSPITAL LEBANON",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 HOSPITAL DRIVE", 
+    "city": "LEBANON", 
+    "county_name": "LACLEDE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY HOSPITAL LEBANON", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -92.635875,
-            37.681437
-        ],
+            -92.635599, 
+            37.68067
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 HOSPITAL DRIVE",
-    "location_city": "LEBANON",
-    "location_state": "MO",
-    "location_zip": "65536",
+    }, 
+    "location_address": "100 HOSPITAL DRIVE", 
+    "location_city": "LEBANON", 
+    "location_state": "MO", 
+    "location_zip": "65536", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stjohnslebanon.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sisters of Mercy Health System",
+        "name": "Sisters of Mercy Health System", 
         "websites": [
             "www.mercy.net"
         ]
-    },
-    "phone_number": "4175336100",
-    "provider_id": "260059",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4175336100", 
+    "provider_id": "260059", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "65536"
 }

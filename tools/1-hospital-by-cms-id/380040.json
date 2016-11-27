@@ -1,41 +1,50 @@
 {
-    "address": "1253 N CANAL BLVD",
-    "city": "REDMOND",
-    "county_name": "DESCHUTES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST CHARLES MEDICAL CENTER - REDMOND",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1253 N CANAL BLVD", 
+    "city": "REDMOND", 
+    "county_name": "DESCHUTES", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST CHARLES MEDICAL CENTER - REDMOND", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -121.168858,
-            44.28814
-        ],
+            -121.168558, 
+            44.288703
+        ], 
         "type": "Point"
-    },
-    "location_address": "1253 N CANAL BLVD",
-    "location_city": "REDMOND",
-    "location_state": "OR",
-    "location_zip": "97756",
+    }, 
+    "location_address": "1253 N CANAL BLVD", 
+    "location_city": "REDMOND", 
+    "location_state": "OR", 
+    "location_zip": "97756", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cascadehealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Cascade Healthcare Community, Inc.",
+        "name": "Cascade Healthcare Community, Inc.", 
         "websites": [
             "www.cascadehealthcare.org"
         ]
-    },
-    "phone_number": "5415488131",
-    "provider_id": "380040",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5415488131", 
+    "provider_id": "380040", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "97756"
 }

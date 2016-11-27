@@ -1,41 +1,49 @@
 {
-    "address": "13207 RAVENNA RD",
-    "city": "CHARDON",
-    "county_name": "GEAUGA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UH GEAUGA MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "13207 RAVENNA RD", 
+    "city": "CHARDON", 
+    "county_name": "GEAUGA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "UH GEAUGA MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.193619,
-            41.50887
-        ],
+            -81.193601, 
+            41.507669
+        ], 
         "type": "Point"
-    },
-    "location_address": "13207 RAVENNA RD",
-    "location_city": "CHARDON",
-    "location_state": "OH",
-    "location_zip": "44024",
+    }, 
+    "location_address": "13207 RAVENNA RD", 
+    "location_city": "CHARDON", 
+    "location_state": "OH", 
+    "location_zip": "44024", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.uhhsgrh.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University Hospitals Health Systems",
+        "name": "University Hospitals Health Systems", 
         "websites": [
             "www.uhhospitals.org"
         ]
-    },
-    "phone_number": "4402696000",
-    "provider_id": "360192",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4402696000", 
+    "provider_id": "360192", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "44024"
 }

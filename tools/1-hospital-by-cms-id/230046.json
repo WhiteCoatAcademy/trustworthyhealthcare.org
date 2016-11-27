@@ -1,41 +1,49 @@
 {
-    "address": "1500 E MEDICAL CENTER DRIVE, SPC 5474",
-    "city": "ANN ARBOR",
-    "county_name": "WASHTENAW",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY OF MICHIGAN HEALTH SYSTEM",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1500 E MEDICAL CENTER DRIVE, SPC 5474", 
+    "city": "ANN ARBOR", 
+    "county_name": "WASHTENAW", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY OF MICHIGAN HEALTH SYSTEM", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.730657,
-            42.281446
-        ],
+            -83.72904, 
+            42.28534
+        ], 
         "type": "Point"
-    },
-    "location_address": "1500 E MEDICAL CENTER DRIVE, SPC 5474",
-    "location_city": "ANN ARBOR",
-    "location_state": "MI",
-    "location_zip": "48109",
+    }, 
+    "location_address": "1500 E MEDICAL CENTER DRIVE, SPC 5474", 
+    "location_city": "ANN ARBOR", 
+    "location_state": "MI", 
+    "location_zip": "48109", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.med.umich.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University of Michigan Health System",
+        "name": "University of Michigan Health System", 
         "websites": [
             "www.med.umich.edu"
         ]
-    },
-    "phone_number": "7347641505",
-    "provider_id": "230046",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7347641505", 
+    "provider_id": "230046", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "48109"
 }

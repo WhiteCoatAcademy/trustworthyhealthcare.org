@@ -1,41 +1,49 @@
 {
-    "address": "800 S WASHINGTON AVENUE",
-    "city": "SAGINAW",
-    "county_name": "SAGINAW",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST MARY'S OF MICHIGAN MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "800 S WASHINGTON AVENUE", 
+    "city": "SAGINAW", 
+    "county_name": "SAGINAW", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST MARY'S OF MICHIGAN MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.94201,
-            43.425889
-        ],
+            -83.941936, 
+            43.426012
+        ], 
         "type": "Point"
-    },
-    "location_address": "800 S WASHINGTON AVENUE",
-    "location_city": "SAGINAW",
-    "location_state": "MI",
-    "location_zip": "48601",
+    }, 
+    "location_address": "800 S WASHINGTON AVENUE", 
+    "location_city": "SAGINAW", 
+    "location_state": "MI", 
+    "location_zip": "48601", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stmarysofmichigan.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ascension Health",
+        "name": "Ascension Health", 
         "websites": [
             "www.ascensionhealth.org"
         ]
-    },
-    "phone_number": "9897768000",
-    "provider_id": "230077",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9897768000", 
+    "provider_id": "230077", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "48601"
 }

@@ -1,41 +1,50 @@
 {
-    "address": "14445 OLIVE VIEW DRIVE",
-    "city": "SYLMAR",
-    "county_name": "LOS ANGELES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LAC/OLIVE VIEW-UCLA MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "14445 OLIVE VIEW DRIVE", 
+    "city": "SYLMAR", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LAC/OLIVE VIEW-UCLA MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.445513,
+            -118.445513, 
             34.325912
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "14445 OLIVE VIEW DRIVE",
-    "location_city": "SYLMAR",
-    "location_state": "CA",
-    "location_zip": "91342",
+    }, 
+    "location_address": "14445 OLIVE VIEW DRIVE", 
+    "location_city": "SYLMAR", 
+    "location_state": "CA", 
+    "location_zip": "91342", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ladhs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Los Angeles County, Department of Health Services",
+        "name": "Los Angeles County, Department of Health Services", 
         "websites": [
             "www.ladhs.org"
         ]
-    },
-    "phone_number": "8183641555",
-    "provider_id": "050040",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8183641555", 
+    "provider_id": "050040", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "91342"
 }

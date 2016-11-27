@@ -1,41 +1,50 @@
 {
-    "address": "85 SOUTH STREET",
-    "city": "WARE",
-    "county_name": "HAMPSHIRE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BAYSTATE MARY LANE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "85 SOUTH STREET", 
+    "city": "WARE", 
+    "county_name": "HAMPSHIRE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BAYSTATE MARY LANE HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -72.241542,
-            42.25276
-        ],
+            -72.241399, 
+            42.252903
+        ], 
         "type": "Point"
-    },
-    "location_address": "85 SOUTH STREET",
-    "location_city": "WARE",
-    "location_state": "MA",
-    "location_zip": "01082",
+    }, 
+    "location_address": "85 SOUTH STREET", 
+    "location_city": "WARE", 
+    "location_state": "MA", 
+    "location_zip": "01082", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baystatehealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Baystate Health System, Inc",
+        "name": "Baystate Health System, Inc", 
         "websites": [
             "www.baystatehealth.com"
         ]
-    },
-    "phone_number": "4139676211",
-    "provider_id": "220050",
-    "raw_ratings": {},
-    "state": "MA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4139676211", 
+    "provider_id": "220050", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "01082"
 }

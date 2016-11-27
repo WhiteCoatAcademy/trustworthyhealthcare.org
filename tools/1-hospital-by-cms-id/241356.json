@@ -1,39 +1,50 @@
 {
-    "address": "200 NORTH ELM STREET",
-    "city": "ONAMIA",
-    "county_name": "MILLE LACS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MILLE LACS HEALTH SYSTEM",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "200 NORTH ELM STREET", 
+    "city": "ONAMIA", 
+    "county_name": "MILLE LACS", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MILLE LACS HEALTH SYSTEM", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -93.661815,
-            46.073093
-        ],
+            -93.661823, 
+            46.072467
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 NORTH ELM STREET",
-    "location_city": "ONAMIA",
-    "location_state": "MN",
-    "location_zip": "56359",
+    }, 
+    "location_address": "200 NORTH ELM STREET", 
+    "location_city": "ONAMIA", 
+    "location_state": "MN", 
+    "location_zip": "56359", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.millelacshealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3205323154",
-    "provider_id": "241356",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3205323154", 
+    "provider_id": "241356", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "56359"
 }

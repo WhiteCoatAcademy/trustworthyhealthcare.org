@@ -1,41 +1,49 @@
 {
-    "address": "449 W 23RD ST",
-    "city": "PANAMA CITY",
-    "county_name": "BAY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GULF COAST REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "449 W 23RD ST", 
+    "city": "PANAMA CITY", 
+    "county_name": "BAY", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GULF COAST REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.665874,
-            30.189678
-        ],
+            -85.666124, 
+            30.189682
+        ], 
         "type": "Point"
-    },
-    "location_address": "449 W 23RD ST",
-    "location_city": "PANAMA CITY",
-    "location_state": "FL",
-    "location_zip": "32405",
+    }, 
+    "location_address": "449 W 23RD ST", 
+    "location_city": "PANAMA CITY", 
+    "location_state": "FL", 
+    "location_zip": "32405", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.egulfcoastmedical.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "8507477926",
-    "provider_id": "100242",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8507477926", 
+    "provider_id": "100242", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "32405"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "475 SEAVIEW AVENUE",
-    "city": "STATEN ISLAND",
-    "county_name": "RICHMOND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "STATEN ISLAND UNIVERSITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "475 SEAVIEW AVENUE", 
+    "city": "STATEN ISLAND", 
+    "county_name": "RICHMOND", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "STATEN ISLAND UNIVERSITY HOSPITAL", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.085416,
-            40.583245
-        ],
+            -74.087013, 
+            40.584082
+        ], 
         "type": "Point"
-    },
-    "location_address": "475 SEAVIEW AVENUE",
-    "location_city": "STATEN ISLAND",
-    "location_state": "NY",
-    "location_zip": "10305",
+    }, 
+    "location_address": "475 SEAVIEW AVENUE", 
+    "location_city": "STATEN ISLAND", 
+    "location_state": "NY", 
+    "location_zip": "10305", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.siuh.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "North Shore-Long Island Jewish Health System",
+        "name": "North Shore-Long Island Jewish Health System", 
         "websites": [
             "www.northshorelij.com"
         ]
-    },
-    "phone_number": "7182269000",
-    "provider_id": "330160",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7182269000", 
+    "provider_id": "330160", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "10305"
 }

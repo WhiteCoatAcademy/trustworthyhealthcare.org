@@ -1,39 +1,48 @@
 {
-    "address": "721 E COURT STREET",
-    "city": "PARIS",
-    "county_name": "EDGAR",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PARIS COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "721 E COURT STREET", 
+    "city": "PARIS", 
+    "county_name": "EDGAR", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PARIS COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -87.679364,
-            39.607227
-        ],
+            -87.678148, 
+            39.606631
+        ], 
         "type": "Point"
-    },
-    "location_address": "721 E COURT STREET",
-    "location_city": "PARIS",
-    "location_state": "IL",
-    "location_zip": "61944",
+    }, 
+    "location_address": "721 E COURT STREET", 
+    "location_city": "PARIS", 
+    "location_state": "IL", 
+    "location_zip": "61944", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pariscommunityhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2174654141",
-    "provider_id": "141320",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2174654141", 
+    "provider_id": "141320", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "61944"
 }

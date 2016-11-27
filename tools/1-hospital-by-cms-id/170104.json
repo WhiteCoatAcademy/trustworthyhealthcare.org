@@ -1,41 +1,49 @@
 {
-    "address": "9100 W 74TH STREET",
-    "city": "SHAWNEE MISSION",
-    "county_name": "JOHNSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SHAWNEE MISSION MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "9100 W 74TH STREET", 
+    "city": "SHAWNEE MISSION", 
+    "county_name": "JOHNSON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SHAWNEE MISSION MEDICAL CENTER", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.692586,
-            38.995129
-        ],
+            -94.69204, 
+            38.995137
+        ], 
         "type": "Point"
-    },
-    "location_address": "9100 W 74TH STREET",
-    "location_city": "SHAWNEE MISSION",
-    "location_state": "KS",
-    "location_zip": "66204",
+    }, 
+    "location_address": "9100 W 74TH STREET", 
+    "location_city": "SHAWNEE MISSION", 
+    "location_state": "KS", 
+    "location_zip": "66204", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.shawneemission.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Adventist Health System",
+        "name": "Adventist Health System", 
         "websites": [
             "www.ahss.org"
         ]
-    },
-    "phone_number": "9136762151",
-    "provider_id": "170104",
-    "raw_ratings": {},
-    "state": "KS",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9136762151", 
+    "provider_id": "170104", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "KS", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "66204"
 }

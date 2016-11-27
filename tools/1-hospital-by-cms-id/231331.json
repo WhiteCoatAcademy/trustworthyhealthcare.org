@@ -1,39 +1,48 @@
 {
-    "address": "3565 S STATE ROAD",
-    "city": "IONIA",
-    "county_name": "IONIA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SPARROW IONIA HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "3565 S STATE ROAD", 
+    "city": "IONIA", 
+    "county_name": "IONIA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SPARROW IONIA HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -85.074781,
-            42.934881
-        ],
+            -85.074776, 
+            42.935723
+        ], 
         "type": "Point"
-    },
-    "location_address": "3565 S STATE ROAD",
-    "location_city": "IONIA",
-    "location_state": "MI",
-    "location_zip": "48846",
+    }, 
+    "location_address": "3565 S STATE ROAD", 
+    "location_city": "IONIA", 
+    "location_state": "MI", 
+    "location_zip": "48846", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ioniahospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6165274200",
-    "provider_id": "231331",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6165274200", 
+    "provider_id": "231331", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "48846"
 }

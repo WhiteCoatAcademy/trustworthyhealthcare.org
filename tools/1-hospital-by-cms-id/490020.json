@@ -1,41 +1,49 @@
 {
-    "address": "411 WEST RANDOLPH ROAD",
-    "city": "HOPEWELL",
-    "county_name": "HOPEWELL CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JOHN RANDOLPH MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "411 WEST RANDOLPH ROAD", 
+    "city": "HOPEWELL", 
+    "county_name": "HOPEWELL CITY", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JOHN RANDOLPH MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.291153,
-            37.306863
-        ],
+            -77.292349, 
+            37.307576
+        ], 
         "type": "Point"
-    },
-    "location_address": "411 WEST RANDOLPH ROAD",
-    "location_city": "HOPEWELL",
-    "location_state": "VA",
-    "location_zip": "23860",
+    }, 
+    "location_address": "411 WEST RANDOLPH ROAD", 
+    "location_city": "HOPEWELL", 
+    "location_state": "VA", 
+    "location_zip": "23860", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.johnrandolphmed.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "8045411600",
-    "provider_id": "490020",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8045411600", 
+    "provider_id": "490020", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "23860"
 }

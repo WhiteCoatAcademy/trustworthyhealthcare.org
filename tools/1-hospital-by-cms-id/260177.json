@@ -1,39 +1,47 @@
 {
-    "address": "2525 GLENN HENDREN DR",
-    "city": "LIBERTY",
-    "county_name": "CLAY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LIBERTY HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2525 GLENN HENDREN DR", 
+    "city": "LIBERTY", 
+    "county_name": "CLAY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LIBERTY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.424894,
-            39.276422
-        ],
+            -94.424343, 
+            39.276757
+        ], 
         "type": "Point"
-    },
-    "location_address": "2525 GLENN HENDREN DR",
-    "location_city": "LIBERTY",
-    "location_state": "MO",
-    "location_zip": "64069",
+    }, 
+    "location_address": "2525 GLENN HENDREN DR", 
+    "location_city": "LIBERTY", 
+    "location_state": "MO", 
+    "location_zip": "64069", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.libertyhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8167817200",
-    "provider_id": "260177",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8167817200", 
+    "provider_id": "260177", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "64069"
 }

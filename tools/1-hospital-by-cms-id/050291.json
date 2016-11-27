@@ -1,41 +1,49 @@
 {
-    "address": "30 MARK WEST SPRINGS ROAD",
-    "city": "SANTA ROSA",
-    "county_name": "SONOMA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SUTTER SANTA ROSA REGIONAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "30 MARK WEST SPRINGS ROAD", 
+    "city": "SANTA ROSA", 
+    "county_name": "SONOMA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SUTTER SANTA ROSA REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.75204,
-            38.496343
-        ],
+            -122.751874, 
+            38.496267
+        ], 
         "type": "Point"
-    },
-    "location_address": "30 MARK WEST SPRINGS ROAD",
-    "location_city": "SANTA ROSA",
-    "location_state": "CA",
-    "location_zip": "95403",
+    }, 
+    "location_address": "30 MARK WEST SPRINGS ROAD", 
+    "location_city": "SANTA ROSA", 
+    "location_state": "CA", 
+    "location_zip": "95403", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.suttersantarosa.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sutter Health",
+        "name": "Sutter Health", 
         "websites": [
             "www.sutterhealth.org"
         ]
-    },
-    "phone_number": "7075764000",
-    "provider_id": "050291",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7075764000", 
+    "provider_id": "050291", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "95403"
 }

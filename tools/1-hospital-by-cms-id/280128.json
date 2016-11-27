@@ -1,39 +1,49 @@
 {
-    "address": "7500 SOUTH 91ST ST",
-    "city": "LINCOLN",
-    "county_name": "LANCASTER",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "CHI HEALTH NEBRASKA HEART",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "7500 SOUTH 91ST ST", 
+    "city": "LINCOLN", 
+    "county_name": "LANCASTER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "CHI HEALTH NEBRASKA HEART", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.595045,
-            40.736113
-        ],
+            -96.595675, 
+            40.737095
+        ], 
         "type": "Point"
-    },
-    "location_address": "7500 SOUTH 91ST ST",
-    "location_city": "LINCOLN",
-    "location_state": "NE",
-    "location_zip": "68526",
+    }, 
+    "location_address": "7500 SOUTH 91ST ST", 
+    "location_city": "LINCOLN", 
+    "location_state": "NE", 
+    "location_zip": "68526", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.neheart.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4023283000",
-    "provider_id": "280128",
-    "raw_ratings": {},
-    "state": "NE",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4023283000", 
+    "provider_id": "280128", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NE", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "68526"
 }

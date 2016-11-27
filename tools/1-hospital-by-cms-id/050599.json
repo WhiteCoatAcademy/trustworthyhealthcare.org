@@ -1,39 +1,47 @@
 {
-    "address": "2315 STOCKTON BOULEVARD",
-    "city": "SACRAMENTO",
-    "county_name": "SACRAMENTO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY OF CALIFORNIA DAVIS MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2315 STOCKTON BOULEVARD", 
+    "city": "SACRAMENTO", 
+    "county_name": "SACRAMENTO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY OF CALIFORNIA DAVIS MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -121.457535,
+            -121.457535, 
             38.554375
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2315 STOCKTON BOULEVARD",
-    "location_city": "SACRAMENTO",
-    "location_state": "CA",
-    "location_zip": "95817",
+    }, 
+    "location_address": "2315 STOCKTON BOULEVARD", 
+    "location_city": "SACRAMENTO", 
+    "location_state": "CA", 
+    "location_zip": "95817", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ucdmc.ucdavis.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9167342011",
-    "provider_id": "050599",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9167342011", 
+    "provider_id": "050599", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "95817"
 }

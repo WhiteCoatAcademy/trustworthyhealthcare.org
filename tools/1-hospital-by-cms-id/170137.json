@@ -1,39 +1,47 @@
 {
-    "address": "325 MAINE STREET",
-    "city": "LAWRENCE",
-    "county_name": "DOUGLAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LAWRENCE MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "325 MAINE STREET", 
+    "city": "LAWRENCE", 
+    "county_name": "DOUGLAS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LAWRENCE MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.247648,
-            38.978894
-        ],
+            -95.247649, 
+            38.97815
+        ], 
         "type": "Point"
-    },
-    "location_address": "325 MAINE STREET",
-    "location_city": "LAWRENCE",
-    "location_state": "KS",
-    "location_zip": "66044",
+    }, 
+    "location_address": "325 MAINE STREET", 
+    "location_city": "LAWRENCE", 
+    "location_state": "KS", 
+    "location_zip": "66044", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lmh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7855056100",
-    "provider_id": "170137",
-    "raw_ratings": {},
-    "state": "KS",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7855056100", 
+    "provider_id": "170137", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "KS", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "66044"
 }

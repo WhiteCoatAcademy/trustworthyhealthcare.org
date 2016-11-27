@@ -1,39 +1,47 @@
 {
-    "address": "1313 E 32ND ST",
-    "city": "SILVER CITY",
-    "county_name": "GRANT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GILA REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1313 E 32ND ST", 
+    "city": "SILVER CITY", 
+    "county_name": "GRANT", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GILA REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -108.262432,
-            32.795578
-        ],
+            -108.260407, 
+            32.795422
+        ], 
         "type": "Point"
-    },
-    "location_address": "1313 E 32ND ST",
-    "location_city": "SILVER CITY",
-    "location_state": "NM",
-    "location_zip": "88061",
+    }, 
+    "location_address": "1313 E 32ND ST", 
+    "location_city": "SILVER CITY", 
+    "location_state": "NM", 
+    "location_zip": "88061", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.grmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5755384000",
-    "provider_id": "320016",
-    "raw_ratings": {},
-    "state": "NM",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5755384000", 
+    "provider_id": "320016", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NM", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "88061"
 }

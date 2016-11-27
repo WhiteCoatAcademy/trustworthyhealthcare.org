@@ -1,41 +1,49 @@
 {
-    "address": "601 JOHN STREET 42",
-    "city": "KALAMAZOO",
-    "county_name": "KALAMAZOO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BRONSON METHODIST HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "601 JOHN STREET", 
+    "city": "KALAMAZOO", 
+    "county_name": "KALAMAZOO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BRONSON METHODIST HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.581333,
+            -85.581333, 
             42.286165
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "601 JOHN STREET 42",
-    "location_city": "KALAMAZOO",
-    "location_state": "MI",
-    "location_zip": "49007",
+    }, 
+    "location_address": "601 JOHN STREET", 
+    "location_city": "KALAMAZOO", 
+    "location_state": "MI", 
+    "location_zip": "49007", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bronsonhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Bronson Healthcare Group",
+        "name": "Bronson Healthcare Group", 
         "websites": [
             "www.bronsonhealth.com"
         ]
-    },
-    "phone_number": "2693416000",
-    "provider_id": "230017",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2693416000", 
+    "provider_id": "230017", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "49007"
 }

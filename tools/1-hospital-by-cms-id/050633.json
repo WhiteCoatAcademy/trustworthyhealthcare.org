@@ -1,41 +1,49 @@
 {
-    "address": "1100 LAS TABLAS RD",
-    "city": "TEMPLETON",
-    "county_name": "SAN LUIS OBISPO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TWIN CITIES COMMUNITY HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1100 LAS TABLAS RD", 
+    "city": "TEMPLETON", 
+    "county_name": "SAN LUIS OBISPO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TWIN CITIES COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -120.720652,
-            35.554384
-        ],
+            -120.72013, 
+            35.554389
+        ], 
         "type": "Point"
-    },
-    "location_address": "1100 LAS TABLAS RD",
-    "location_city": "TEMPLETON",
-    "location_state": "CA",
-    "location_zip": "93465",
+    }, 
+    "location_address": "1100 LAS TABLAS RD", 
+    "location_city": "TEMPLETON", 
+    "location_state": "CA", 
+    "location_zip": "93465", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.twincitieshospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "TENET Healthcare",
+        "name": "TENET Healthcare", 
         "websites": [
             "www.tenethealth.com"
         ]
-    },
-    "phone_number": "8054343500",
-    "provider_id": "050633",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8054343500", 
+    "provider_id": "050633", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "93465"
 }

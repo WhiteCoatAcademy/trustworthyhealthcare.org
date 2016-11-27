@@ -1,39 +1,47 @@
 {
-    "address": "701 PARK AVENUE",
-    "city": "MINNEAPOLIS",
-    "county_name": "HENNEPIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HENNEPIN COUNTY MEDICAL CENTER 1",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "701 PARK AVENUE", 
+    "city": "MINNEAPOLIS", 
+    "county_name": "HENNEPIN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HENNEPIN COUNTY MEDICAL CENTER 1", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.262707,
+            -93.262707, 
             44.97285
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "701 PARK AVENUE",
-    "location_city": "MINNEAPOLIS",
-    "location_state": "MN",
-    "location_zip": "55415",
+    }, 
+    "location_address": "701 PARK AVENUE", 
+    "location_city": "MINNEAPOLIS", 
+    "location_state": "MN", 
+    "location_zip": "55415", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hcmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6128732338",
-    "provider_id": "240004",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6128732338", 
+    "provider_id": "240004", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "55415"
 }

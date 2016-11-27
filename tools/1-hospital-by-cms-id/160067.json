@@ -1,41 +1,49 @@
 {
-    "address": "3421 WEST NINTH STREET",
-    "city": "WATERLOO",
-    "county_name": "BLACK HAWK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COVENANT MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3421 WEST NINTH STREET", 
+    "city": "WATERLOO", 
+    "county_name": "BLACK HAWK", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COVENANT MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -92.346249,
-            42.463521
-        ],
+            -92.346529, 
+            42.463316
+        ], 
         "type": "Point"
-    },
-    "location_address": "3421 WEST NINTH STREET",
-    "location_city": "WATERLOO",
-    "location_state": "IA",
-    "location_zip": "50702",
+    }, 
+    "location_address": "3421 WEST NINTH STREET", 
+    "location_city": "WATERLOO", 
+    "location_state": "IA", 
+    "location_zip": "50702", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.covhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Wheaton Franciscan Services, Inc",
+        "name": "Wheaton Franciscan Services, Inc", 
         "websites": [
             "www.wfs-inc.org"
         ]
-    },
-    "phone_number": "3192728000",
-    "provider_id": "160067",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3192728000", 
+    "provider_id": "160067", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "50702"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "3700 E SOUTH ST",
-    "city": "LAKEWOOD",
-    "county_name": "LOS ANGELES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LAKEWOOD REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3700 E SOUTH ST", 
+    "city": "LAKEWOOD", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LAKEWOOD REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.147613,
-            33.860228
-        ],
+            -118.148086, 
+            33.860226
+        ], 
         "type": "Point"
-    },
-    "location_address": "3700 E SOUTH ST",
-    "location_city": "LAKEWOOD",
-    "location_state": "CA",
-    "location_zip": "90712",
+    }, 
+    "location_address": "3700 E SOUTH ST", 
+    "location_city": "LAKEWOOD", 
+    "location_state": "CA", 
+    "location_zip": "90712", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lakewoodregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "TENET Healthcare",
+        "name": "TENET Healthcare", 
         "websites": [
             "www.tenethealth.com"
         ]
-    },
-    "phone_number": "5626026751",
-    "provider_id": "050581",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5626026751", 
+    "provider_id": "050581", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "90712"
 }

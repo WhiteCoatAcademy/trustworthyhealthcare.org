@@ -1,39 +1,51 @@
 {
-    "address": "1700 W LINDBERG DRIVE",
-    "city": "SLIDELL",
-    "county_name": "SAINT TAMMANY",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "SOUTHERN SURGICAL HOSPITAL",
-    "hospital_ownership": "Physician",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1700 W LINDBERG DRIVE", 
+    "city": "SLIDELL", 
+    "county_name": "SAINT TAMMANY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTHERN SURGICAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Physician", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.75453,
-            30.27373
-        ],
+            -89.754498, 
+            30.273779
+        ], 
         "type": "Point"
-    },
-    "location_address": "1700 W LINDBERG DRIVE",
-    "location_city": "SLIDELL",
-    "location_state": "LA",
-    "location_zip": "70458",
+    }, 
+    "location_address": "1700 W LINDBERG DRIVE", 
+    "location_city": "SLIDELL", 
+    "location_state": "LA", 
+    "location_zip": "70458", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sshla.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9856410600",
-    "provider_id": "190270",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9856410600", 
+    "provider_id": "190270", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "70458"
 }

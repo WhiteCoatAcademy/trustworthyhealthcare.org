@@ -1,41 +1,56 @@
 {
-    "address": "18101 PRINCE PHILIP DRIVE",
-    "city": "OLNEY",
-    "county_name": "MONTGOMERY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEDSTAR MONTGOMERY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "18101 PRINCE PHILIP DRIVE", 
+    "city": "OLNEY", 
+    "county_name": "MONTGOMERY", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEDSTAR MONTGOMERY MEDICAL CENTER", 
+    "hospital_overall_rating_footnote": "Data suppressed by CMS for one or more quarters", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.056712,
-            39.152975
-        ],
+            -77.056819, 
+            39.153858
+        ], 
         "type": "Point"
-    },
-    "location_address": "18101 PRINCE PHILIP DRIVE",
-    "location_city": "OLNEY",
-    "location_state": "MD",
-    "location_zip": "20832",
+    }, 
+    "location_address": "18101 PRINCE PHILIP DRIVE", 
+    "location_city": "OLNEY", 
+    "location_state": "MD", 
+    "location_zip": "20832", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.montgomerygeneral.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "MedStar Health",
+        "name": "MedStar Health", 
         "websites": [
             "www.medstarhealth.org"
         ]
-    },
-    "phone_number": "3017748882",
-    "provider_id": "210018",
-    "raw_ratings": {},
-    "state": "MD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "phone_number": "3017748882", 
+    "provider_id": "210018", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "state": "MD", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "zip_code": "20832"
 }

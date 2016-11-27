@@ -1,39 +1,47 @@
 {
-    "address": "1201 PLEASANT VALLEY ROAD",
-    "city": "OWENSBORO",
-    "county_name": "DAVIESS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OWENSBORO HEALTH REGIONAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1201 PLEASANT VALLEY ROAD", 
+    "city": "OWENSBORO", 
+    "county_name": "DAVIESS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OWENSBORO HEALTH REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.069958,
+            -87.069958, 
             37.777296
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1201 PLEASANT VALLEY ROAD",
-    "location_city": "OWENSBORO",
-    "location_state": "KY",
-    "location_zip": "42303",
+    }, 
+    "location_address": "1201 PLEASANT VALLEY ROAD", 
+    "location_city": "OWENSBORO", 
+    "location_state": "KY", 
+    "location_zip": "42303", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.omhs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2704172000",
-    "provider_id": "180038",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2704172000", 
+    "provider_id": "180038", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "42303"
 }

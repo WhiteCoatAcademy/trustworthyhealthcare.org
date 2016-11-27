@@ -1,41 +1,49 @@
 {
-    "address": "2500 N STATE ST",
-    "city": "JACKSON",
-    "county_name": "HINDS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY OF MISSISSIPPI MED CENTER",
-    "hospital_ownership": "Government - State",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2500 N STATE ST", 
+    "city": "JACKSON", 
+    "county_name": "HINDS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY OF MISSISSIPPI MED CENTER", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Government - State", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.175582,
-            32.328655
-        ],
+            -90.17558, 
+            32.328812
+        ], 
         "type": "Point"
-    },
-    "location_address": "2500 N STATE ST",
-    "location_city": "JACKSON",
-    "location_state": "MS",
-    "location_zip": "39216",
+    }, 
+    "location_address": "2500 N STATE ST", 
+    "location_city": "JACKSON", 
+    "location_state": "MS", 
+    "location_zip": "39216", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.umc.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University of Mississippi Medical Center",
+        "name": "University of Mississippi Medical Center", 
         "websites": [
             "www.umc.edu"
         ]
-    },
-    "phone_number": "6019844100",
-    "provider_id": "250001",
-    "raw_ratings": {},
-    "state": "MS",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6019844100", 
+    "provider_id": "250001", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MS", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "39216"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "3901 W 15TH ST",
-    "city": "PLANO",
-    "county_name": "COLLIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEDICAL CENTER OF PLANO",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3901 W 15TH ST", 
+    "city": "PLANO", 
+    "county_name": "COLLIN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEDICAL CENTER OF PLANO", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.765907,
+            -96.765906, 
             33.019359
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "3901 W 15TH ST",
-    "location_city": "PLANO",
-    "location_state": "TX",
-    "location_zip": "75075",
+    }, 
+    "location_address": "3901 W 15TH ST", 
+    "location_city": "PLANO", 
+    "location_state": "TX", 
+    "location_zip": "75075", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.medicalcenterplano.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "9725966800",
-    "provider_id": "450651",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9725966800", 
+    "provider_id": "450651", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "75075"
 }

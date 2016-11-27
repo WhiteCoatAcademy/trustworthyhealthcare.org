@@ -1,41 +1,49 @@
 {
-    "address": "235 W 6TH ST",
-    "city": "RENO",
-    "county_name": "WASHOE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAINT MARY'S REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "235 W 6TH ST", 
+    "city": "RENO", 
+    "county_name": "WASHOE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAINT MARY'S REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -119.817864,
-            39.5317
-        ],
+            -119.818227, 
+            39.531623
+        ], 
         "type": "Point"
-    },
-    "location_address": "235 W 6TH ST",
-    "location_city": "RENO",
-    "location_state": "NV",
-    "location_zip": "89503",
+    }, 
+    "location_address": "235 W 6TH ST", 
+    "location_city": "RENO", 
+    "location_state": "NV", 
+    "location_zip": "89503", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.saintmarysreno.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare West",
+        "name": "Catholic Healthcare West", 
         "websites": [
             "www.chwhealth.org"
         ]
-    },
-    "phone_number": "7757703000",
-    "provider_id": "290009",
-    "raw_ratings": {},
-    "state": "NV",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7757703000", 
+    "provider_id": "290009", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NV", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "89503"
 }

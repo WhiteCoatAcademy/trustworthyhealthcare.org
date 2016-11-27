@@ -1,41 +1,49 @@
 {
-    "address": "415 SIXTH STREET",
-    "city": "LEWISTON",
-    "county_name": "NEZ PERCE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOSEPH REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "415 SIXTH STREET", 
+    "city": "LEWISTON", 
+    "county_name": "NEZ PERCE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JOSEPH REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.024956,
-            46.41649
-        ],
+            -117.024997, 
+            46.417121
+        ], 
         "type": "Point"
-    },
-    "location_address": "415 SIXTH STREET",
-    "location_city": "LEWISTON",
-    "location_state": "ID",
-    "location_zip": "83501",
+    }, 
+    "location_address": "415 SIXTH STREET", 
+    "location_city": "LEWISTON", 
+    "location_state": "ID", 
+    "location_zip": "83501", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sjrmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ascension Health",
+        "name": "Ascension Health", 
         "websites": [
             "www.ascensionhealth.org"
         ]
-    },
-    "phone_number": "2087995300",
-    "provider_id": "130003",
-    "raw_ratings": {},
-    "state": "ID",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2087995300", 
+    "provider_id": "130003", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "ID", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "83501"
 }

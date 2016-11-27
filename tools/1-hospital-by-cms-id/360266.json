@@ -1,40 +1,53 @@
 {
-    "address": "7333 SMITH'S MILL ROAD",
-    "city": "NEW ALBANY",
-    "county_name": "FRANKLIN",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "MOUNT CARMEL NEW ALBANY SURGICAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "7333 SMITH'S MILL ROAD", 
+    "city": "NEW ALBANY", 
+    "county_name": "FRANKLIN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "MOUNT CARMEL NEW ALBANY SURGICAL HOSPITAL", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"7333 SMITH'S MILL ROAD\",\"city\":\"NEW ALBANY\",\"state\":\"OH\",\"zip\":\"\"}",
-        "latitude": "40.087150973000064",
-        "longitude": "-82.78934569199998",
-        "needs_recoding": false
-    },
-    "location_address": "7333 SMITH'S MILL ROAD",
-    "location_city": "NEW ALBANY",
-    "location_state": "OH",
-    "location_zip": "43054",
+        "coordinates": [
+            -82.788793, 
+            40.086303
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "7333 SMITH'S MILL ROAD", 
+    "location_city": "NEW ALBANY", 
+    "location_state": "OH", 
+    "location_zip": "43054", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mountcarmelhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Trinity Health",
+        "name": "Trinity Health", 
         "websites": [
             "www.trinity-health.org"
         ]
-    },
-    "phone_number": "6147756600",
-    "provider_id": "360266",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6147756600", 
+    "provider_id": "360266", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "43054"
 }

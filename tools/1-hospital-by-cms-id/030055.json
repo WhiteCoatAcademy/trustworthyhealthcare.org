@@ -1,39 +1,47 @@
 {
-    "address": "3269 STOCKTON HILL ROAD",
-    "city": "KINGMAN",
-    "county_name": "MOHAVE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "KINGMAN REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3269 STOCKTON HILL ROAD", 
+    "city": "KINGMAN", 
+    "county_name": "MOHAVE", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "KINGMAN REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -114.035835,
-            35.220135
-        ],
+            -114.035789, 
+            35.219666
+        ], 
         "type": "Point"
-    },
-    "location_address": "3269 STOCKTON HILL ROAD",
-    "location_city": "KINGMAN",
-    "location_state": "AZ",
-    "location_zip": "86409",
+    }, 
+    "location_address": "3269 STOCKTON HILL ROAD", 
+    "location_city": "KINGMAN", 
+    "location_state": "AZ", 
+    "location_zip": "86409", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.azkrmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9287572101",
-    "provider_id": "030055",
-    "raw_ratings": {},
-    "state": "AZ",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9287572101", 
+    "provider_id": "030055", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "AZ", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "86409"
 }

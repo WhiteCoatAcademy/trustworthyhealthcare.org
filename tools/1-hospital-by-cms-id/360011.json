@@ -1,41 +1,49 @@
 {
-    "address": "1000 MCKINLEY PARK DRIVE",
-    "city": "MARION",
-    "county_name": "MARION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MARION GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1000 MCKINLEY PARK DRIVE", 
+    "city": "MARION", 
+    "county_name": "MARION", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MARION GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.128048,
+            -83.128048, 
             40.571602
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1000 MCKINLEY PARK DRIVE",
-    "location_city": "MARION",
-    "location_state": "OH",
-    "location_zip": "43302",
+    }, 
+    "location_address": "1000 MCKINLEY PARK DRIVE", 
+    "location_city": "MARION", 
+    "location_state": "OH", 
+    "location_zip": "43302", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mariongeneral.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "OhioHealth",
+        "name": "OhioHealth", 
         "websites": [
             "www.ohiohealth.com"
         ]
-    },
-    "phone_number": "7403838400",
-    "provider_id": "360011",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7403838400", 
+    "provider_id": "360011", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "43302"
 }

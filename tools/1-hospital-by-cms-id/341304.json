@@ -1,40 +1,52 @@
 {
-    "address": "1403 SOUTH KINGS STREET",
-    "city": "WINDSOR",
-    "county_name": "BERTIE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "VIDANT BERTIE  HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1403 SOUTH KINGS STREET", 
+    "city": "WINDSOR", 
+    "county_name": "BERTIE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "VIDANT BERTIE  HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"1403 SOUTH KINGS STREET\",\"city\":\"WINDSOR\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.98934300700006",
-        "longitude": "-76.92848202199997",
-        "needs_recoding": false
-    },
-    "location_address": "1403 SOUTH KINGS STREET",
-    "location_city": "WINDSOR",
-    "location_state": "NC",
-    "location_zip": "27983",
+        "coordinates": [
+            -76.928229, 
+            35.989358
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "1403 SOUTH KINGS STREET", 
+    "location_city": "WINDSOR", 
+    "location_state": "NC", 
+    "location_zip": "27983", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.uhseast.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University Health Systems of Eastern Carolina",
+        "name": "University Health Systems of Eastern Carolina", 
         "websites": [
             "www.uhseast.com"
         ]
-    },
-    "phone_number": "2527946600",
-    "provider_id": "341304",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2527946600", 
+    "provider_id": "341304", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "27983"
 }

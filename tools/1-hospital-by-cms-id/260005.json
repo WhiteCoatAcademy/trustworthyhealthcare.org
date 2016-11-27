@@ -1,41 +1,49 @@
 {
-    "address": "300 1ST CAPITOL DR",
-    "city": "SAINT CHARLES",
-    "county_name": "SAINT CHARLES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SSM ST JOSEPH HEALTH CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "300 1ST CAPITOL DR", 
+    "city": "SAINT CHARLES", 
+    "county_name": "SAINT CHARLES", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SSM HEALTH ST JOSEPH HOSPITAL-ST CHARLES", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.484017,
-            38.780224
-        ],
+            -90.484508, 
+            38.780377
+        ], 
         "type": "Point"
-    },
-    "location_address": "300 1ST CAPITOL DR",
-    "location_city": "SAINT CHARLES",
-    "location_state": "MO",
-    "location_zip": "63301",
+    }, 
+    "location_address": "300 1ST CAPITOL DR", 
+    "location_city": "SAINT CHARLES", 
+    "location_state": "MO", 
+    "location_zip": "63301", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ssmstjoseph.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "SSM Health Care",
+        "name": "SSM Health Care", 
         "websites": [
             "www.ssmhc.com"
         ]
-    },
-    "phone_number": "6369475000",
-    "provider_id": "260005",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6369475000", 
+    "provider_id": "260005", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "63301"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "299 KINGS DAUGHTERS DRIVE",
-    "city": "FRANKFORT",
-    "county_name": "FRANKLIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FRANKFORT REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "299 KINGS DAUGHTERS DRIVE", 
+    "city": "FRANKFORT", 
+    "county_name": "FRANKLIN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FRANKFORT REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.902777,
-            38.164798
-        ],
+            -84.905317, 
+            38.160111
+        ], 
         "type": "Point"
-    },
-    "location_address": "299 KINGS DAUGHTERS DRIVE",
-    "location_city": "FRANKFORT",
-    "location_state": "KY",
-    "location_zip": "40601",
+    }, 
+    "location_address": "299 KINGS DAUGHTERS DRIVE", 
+    "location_city": "FRANKFORT", 
+    "location_state": "KY", 
+    "location_zip": "40601", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.frankfortregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "5028755240",
-    "provider_id": "180127",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5028755240", 
+    "provider_id": "180127", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "40601"
 }

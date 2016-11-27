@@ -1,39 +1,47 @@
 {
-    "address": "801 NORTH 4TH STREET",
-    "city": "BURLINGTON",
-    "county_name": "COFFEY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COFFEY COUNTY HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "801 NORTH 4TH STREET", 
+    "city": "BURLINGTON", 
+    "county_name": "COFFEY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COFFEY COUNTY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.738569,
-            38.201744
-        ],
+            -95.738567, 
+            38.20156
+        ], 
         "type": "Point"
-    },
-    "location_address": "801 NORTH 4TH STREET",
-    "location_city": "BURLINGTON",
-    "location_state": "KS",
-    "location_zip": "66839",
+    }, 
+    "location_address": "801 NORTH 4TH STREET", 
+    "location_city": "BURLINGTON", 
+    "location_state": "KS", 
+    "location_zip": "66839", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.coffeyhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6203642121",
-    "provider_id": "170094",
-    "raw_ratings": {},
-    "state": "KS",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6203642121", 
+    "provider_id": "170094", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "KS", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "66839"
 }

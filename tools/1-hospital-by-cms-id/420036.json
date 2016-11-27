@@ -1,41 +1,49 @@
 {
-    "address": "800 W MEETING ST",
-    "city": "LANCASTER",
-    "county_name": "LANCASTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SPRINGS MEMORIAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "800 W MEETING ST", 
+    "city": "LANCASTER", 
+    "county_name": "LANCASTER", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SPRINGS MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.786842,
-            34.716906
-        ],
+            -80.790137, 
+            34.716374
+        ], 
         "type": "Point"
-    },
-    "location_address": "800 W MEETING ST",
-    "location_city": "LANCASTER",
-    "location_state": "SC",
-    "location_zip": "29720",
+    }, 
+    "location_address": "800 W MEETING ST", 
+    "location_city": "LANCASTER", 
+    "location_state": "SC", 
+    "location_zip": "29720", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.springsmemorial.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "8032861481",
-    "provider_id": "420036",
-    "raw_ratings": {},
-    "state": "SC",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8032861481", 
+    "provider_id": "420036", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "SC", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "29720"
 }

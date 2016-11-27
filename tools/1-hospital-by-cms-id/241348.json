@@ -1,41 +1,56 @@
 {
-    "address": "240 WILLOW STREET",
-    "city": "TYLER",
-    "county_name": "LINCOLN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TYLER HEALTHCARE CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "240 WILLOW STREET", 
+    "city": "TYLER", 
+    "county_name": "LINCOLN", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "AVERA TYLER HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -96.130943,
-            44.272274
-        ],
+            -96.130956, 
+            44.272465
+        ], 
         "type": "Point"
-    },
-    "location_address": "240 WILLOW STREET",
-    "location_city": "TYLER",
-    "location_state": "MN",
-    "location_zip": "56178",
+    }, 
+    "location_address": "240 WILLOW STREET", 
+    "location_city": "TYLER", 
+    "location_state": "MN", 
+    "location_zip": "56178", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.tylerhealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Avera Health",
+        "name": "Avera Health", 
         "websites": [
             "www.avera.org"
         ]
-    },
-    "phone_number": "5072475521",
-    "provider_id": "241348",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "5072475521", 
+    "provider_id": "241348", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "56178"
 }

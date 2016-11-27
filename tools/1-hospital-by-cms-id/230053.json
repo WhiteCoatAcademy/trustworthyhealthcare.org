@@ -1,41 +1,49 @@
 {
-    "address": "2799 W GRAND BLVD",
-    "city": "DETROIT",
-    "county_name": "WAYNE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HENRY FORD HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2799 W GRAND BLVD", 
+    "city": "DETROIT", 
+    "county_name": "WAYNE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HENRY FORD HOSPITAL", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.084592,
+            -83.084592, 
             42.366114
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2799 W GRAND BLVD",
-    "location_city": "DETROIT",
-    "location_state": "MI",
-    "location_zip": "48202",
+    }, 
+    "location_address": "2799 W GRAND BLVD", 
+    "location_city": "DETROIT", 
+    "location_state": "MI", 
+    "location_zip": "48202", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.henryfordhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Henry Ford Health System",
+        "name": "Henry Ford Health System", 
         "websites": [
             "www.henryfordhealth.org"
         ]
-    },
-    "phone_number": "3139162600",
-    "provider_id": "230053",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3139162600", 
+    "provider_id": "230053", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "48202"
 }

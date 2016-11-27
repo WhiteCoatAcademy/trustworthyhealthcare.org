@@ -1,40 +1,51 @@
 {
-    "address": "EAST MAIN AND SOUTH 20TH STREET",
-    "city": "VAN BUREN",
-    "county_name": "CRAWFORD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SPARKS MEDICAL CENTER - VAN BUREN",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "EAST MAIN AND SOUTH 20TH STREET", 
+    "city": "VAN BUREN", 
+    "county_name": "CRAWFORD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SPARKS MEDICAL CENTER - VAN BUREN", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"EAST MAIN AND SOUTH 20TH STREET\",\"city\":\"VAN BUREN\",\"state\":\"AR\",\"zip\":\"\"}",
-        "latitude": "35.43652079900005",
-        "longitude": "-94.33810810799997",
-        "needs_recoding": false
-    },
-    "location_address": "EAST MAIN AND SOUTH 20TH STREET",
-    "location_city": "VAN BUREN",
-    "location_state": "AR",
-    "location_zip": "72956",
+        "coordinates": [
+            -94.338154, 
+            35.436511
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "EAST MAIN AND SOUTH 20TH STREET", 
+    "location_city": "VAN BUREN", 
+    "location_state": "AR", 
+    "location_zip": "72956", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.summitmedicalcenter.net"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Health Management Associates, Inc.",
+        "name": "Health Management Associates, Inc.", 
         "websites": [
             "www.hma.com"
         ]
-    },
-    "phone_number": "4794743401",
-    "provider_id": "040018",
-    "raw_ratings": {},
-    "state": "AR",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4794743401", 
+    "provider_id": "040018", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "AR", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "72956"
 }

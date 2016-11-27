@@ -1,41 +1,49 @@
 {
-    "address": "1305 W 18TH ST  POST OFFICE BOX 5039",
-    "city": "SIOUX FALLS",
-    "county_name": "MINNEHAHA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SANFORD USD MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1305 W 18TH ST  POST OFFICE BOX 5039", 
+    "city": "SIOUX FALLS", 
+    "county_name": "MINNEHAHA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SANFORD USD MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.743372,
-            43.53668
-        ],
+            -96.743388, 
+            43.536676
+        ], 
         "type": "Point"
-    },
-    "location_address": "1305 W 18TH ST POST OFFICE BOX 5039",
-    "location_city": "SIOUX FALLS",
-    "location_state": "SD",
-    "location_zip": "57117",
+    }, 
+    "location_address": "1305 W 18TH ST POST OFFICE BOX 5039", 
+    "location_city": "SIOUX FALLS", 
+    "location_state": "SD", 
+    "location_zip": "57117", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sanfordhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sanford Health",
+        "name": "Sanford Health", 
         "websites": [
             "www.sanfordhealth.org"
         ]
-    },
-    "phone_number": "6053331000",
-    "provider_id": "430027",
-    "raw_ratings": {},
-    "state": "SD",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6053331000", 
+    "provider_id": "430027", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "SD", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "57117"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "6308 EIGHTH AVE",
-    "city": "KENOSHA",
-    "county_name": "KENOSHA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNITED HOSPITAL SYSTEM",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6308 EIGHTH AVE", 
+    "city": "KENOSHA", 
+    "county_name": "KENOSHA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNITED HOSPITAL SYSTEM", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.819278,
-            42.577036
-        ],
+            -87.819285, 
+            42.577712
+        ], 
         "type": "Point"
-    },
-    "location_address": "6308 EIGHTH AVE",
-    "location_city": "KENOSHA",
-    "location_state": "WI",
-    "location_zip": "53143",
+    }, 
+    "location_address": "6308 EIGHTH AVE", 
+    "location_city": "KENOSHA", 
+    "location_state": "WI", 
+    "location_zip": "53143", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.unitedhospitalsystem.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Wheaton Franciscan Services, Inc",
+        "name": "Wheaton Franciscan Services, Inc", 
         "websites": [
             "www.wfs-inc.org"
         ]
-    },
-    "phone_number": "2626562011",
-    "provider_id": "520021",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2626562011", 
+    "provider_id": "520021", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "53143"
 }

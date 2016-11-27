@@ -1,41 +1,49 @@
 {
-    "address": "900 17TH STREET",
-    "city": "WOODWARD",
-    "county_name": "WOODWARD",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "ALLIANCEHEALTH WOODWARD",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "900 17TH STREET", 
+    "city": "WOODWARD", 
+    "county_name": "WOODWARD", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "ALLIANCEHEALTH WOODWARD", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -99.400957,
-            36.437636
-        ],
+            -99.400953, 
+            36.438338
+        ], 
         "type": "Point"
-    },
-    "location_address": "900 17TH STREET",
-    "location_city": "WOODWARD",
-    "location_state": "OK",
-    "location_zip": "73801",
+    }, 
+    "location_address": "900 17TH STREET", 
+    "location_city": "WOODWARD", 
+    "location_state": "OK", 
+    "location_zip": "73801", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.woodwardhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "5802548492",
-    "provider_id": "370002",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5802548492", 
+    "provider_id": "370002", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "73801"
 }

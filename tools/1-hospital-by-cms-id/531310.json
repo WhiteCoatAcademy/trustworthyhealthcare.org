@@ -1,39 +1,51 @@
 {
-    "address": "777 AVENUE H",
-    "city": "POWELL",
-    "county_name": "PARK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "POWELL VALLEY HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "777 AVENUE H", 
+    "city": "POWELL", 
+    "county_name": "PARK", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "POWELL VALLEY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -108.770443,
-            44.756616
-        ],
+            -108.769974, 
+            44.756674
+        ], 
         "type": "Point"
-    },
-    "location_address": "777 AVENUE H",
-    "location_city": "POWELL",
-    "location_state": "WY",
-    "location_zip": "82435",
+    }, 
+    "location_address": "777 AVENUE H", 
+    "location_city": "POWELL", 
+    "location_state": "WY", 
+    "location_zip": "82435", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pvhc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3077542267",
-    "provider_id": "531310",
-    "raw_ratings": {},
-    "state": "WY",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3077542267", 
+    "provider_id": "531310", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "82435"
 }

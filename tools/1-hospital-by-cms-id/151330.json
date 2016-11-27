@@ -1,39 +1,48 @@
 {
-    "address": "1100 MERCER AVE",
-    "city": "DECATUR",
-    "county_name": "ADAMS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ADAMS MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1100 MERCER AVE", 
+    "city": "DECATUR", 
+    "county_name": "ADAMS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ADAMS MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -84.912022,
-            40.817521
-        ],
+            -84.912535, 
+            40.817966
+        ], 
         "type": "Point"
-    },
-    "location_address": "1100 MERCER AVE",
-    "location_city": "DECATUR",
-    "location_state": "IN",
-    "location_zip": "46733",
+    }, 
+    "location_address": "1100 MERCER AVE", 
+    "location_city": "DECATUR", 
+    "location_state": "IN", 
+    "location_zip": "46733", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.adamshospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2607242145",
-    "provider_id": "151330",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2607242145", 
+    "provider_id": "151330", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "46733"
 }

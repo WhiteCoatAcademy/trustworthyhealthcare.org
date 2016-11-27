@@ -1,41 +1,49 @@
 {
-    "address": "1 MEDICAL PARK",
-    "city": "WHEELING",
-    "county_name": "OHIO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WHEELING HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1 MEDICAL PARK", 
+    "city": "WHEELING", 
+    "county_name": "OHIO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WHEELING HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.684022,
+            -80.684022, 
             40.060074
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1 MEDICAL PARK",
-    "location_city": "WHEELING",
-    "location_state": "WV",
-    "location_zip": "26003",
+    }, 
+    "location_address": "1 MEDICAL PARK", 
+    "location_city": "WHEELING", 
+    "location_state": "WV", 
+    "location_zip": "26003", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wheelinghospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Wheeling Hospital, Inc.",
+        "name": "Wheeling Hospital, Inc.", 
         "websites": [
             "www.wheelinghospital.com"
         ]
-    },
-    "phone_number": "3042433000",
-    "provider_id": "510050",
-    "raw_ratings": {},
-    "state": "WV",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3042433000", 
+    "provider_id": "510050", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "WV", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "26003"
 }

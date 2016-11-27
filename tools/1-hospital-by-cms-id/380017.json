@@ -1,41 +1,49 @@
 {
-    "address": "1015 NW 22ND AVENUE, W121",
-    "city": "PORTLAND",
-    "county_name": "MULTNOMAH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LEGACY GOOD SAMARITAN MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1015 NW 22ND AVENUE, W121", 
+    "city": "PORTLAND", 
+    "county_name": "MULTNOMAH", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LEGACY GOOD SAMARITAN MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.696572,
-            45.530056
-        ],
+            -122.696589, 
+            45.530549
+        ], 
         "type": "Point"
-    },
-    "location_address": "1015 NW 22ND AVENUE, W121",
-    "location_city": "PORTLAND",
-    "location_state": "OR",
-    "location_zip": "97210",
+    }, 
+    "location_address": "1015 NW 22ND AVENUE, W121", 
+    "location_city": "PORTLAND", 
+    "location_state": "OR", 
+    "location_zip": "97210", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.legacyhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Legacy Health System",
+        "name": "Legacy Health System", 
         "websites": [
             "www.legacyhealth.org"
         ]
-    },
-    "phone_number": "5034137682",
-    "provider_id": "380017",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5034137682", 
+    "provider_id": "380017", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "97210"
 }

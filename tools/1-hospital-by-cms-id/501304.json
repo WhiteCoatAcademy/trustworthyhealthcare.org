@@ -1,39 +1,50 @@
 {
-    "address": "600 EAST MAIN STREET",
-    "city": "ELMA",
-    "county_name": "GRAYS HARBOR",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SUMMIT PACIFIC MEDICAL CENTER-SWING BED UNIT",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "600 EAST MAIN STREET", 
+    "city": "ELMA", 
+    "county_name": "GRAYS HARBOR", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SUMMIT PACIFIC MEDICAL CENTER-SWING BED UNIT", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -123.39085,
-            47.006706
-        ],
+            -123.391001, 
+            47.00661
+        ], 
         "type": "Point"
-    },
-    "location_address": "600 EAST MAIN STREET",
-    "location_city": "ELMA",
-    "location_state": "WA",
-    "location_zip": "98541",
+    }, 
+    "location_address": "600 EAST MAIN STREET", 
+    "location_city": "ELMA", 
+    "location_state": "WA", 
+    "location_zip": "98541", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.markreedhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3603462222",
-    "provider_id": "501304",
-    "raw_ratings": {},
-    "state": "WA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "3603462222", 
+    "provider_id": "501304", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "98541"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "10401 WEST THUNDERBIRD BOULEVARD",
-    "city": "SUN CITY",
-    "county_name": "MARICOPA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BANNER BOSWELL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "10401 WEST THUNDERBIRD BOULEVARD", 
+    "city": "SUN CITY", 
+    "county_name": "MARICOPA", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BANNER BOSWELL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -112.282544,
-            33.604798
-        ],
+            -112.28344, 
+            33.604802
+        ], 
         "type": "Point"
-    },
-    "location_address": "10401 WEST THUNDERBIRD BOULEVARD",
-    "location_city": "SUN CITY",
-    "location_state": "AZ",
-    "location_zip": "85351",
+    }, 
+    "location_address": "10401 WEST THUNDERBIRD BOULEVARD", 
+    "location_city": "SUN CITY", 
+    "location_state": "AZ", 
+    "location_zip": "85351", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bannerhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Banner Health",
+        "name": "Banner Health", 
         "websites": [
             "www.bannerhealth.com"
         ]
-    },
-    "phone_number": "6238324000",
-    "provider_id": "030061",
-    "raw_ratings": {},
-    "state": "AZ",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6238324000", 
+    "provider_id": "030061", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "AZ", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "85351"
 }

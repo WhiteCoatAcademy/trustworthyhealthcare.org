@@ -1,41 +1,49 @@
 {
-    "address": "2100 SE BLUE PARKWAY",
-    "city": "LEES SUMMIT",
-    "county_name": "JACKSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LEE'S SUMMIT MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2100 SE BLUE PARKWAY", 
+    "city": "LEES SUMMIT", 
+    "county_name": "JACKSON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LEE'S SUMMIT MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.323381,
-            38.902017
-        ],
+            -94.333249, 
+            38.90233
+        ], 
         "type": "Point"
-    },
-    "location_address": "2100 SE BLUE PARKWAY",
-    "location_city": "LEES SUMMIT",
-    "location_state": "MO",
-    "location_zip": "64063",
+    }, 
+    "location_address": "2100 SE BLUE PARKWAY", 
+    "location_city": "LEES SUMMIT", 
+    "location_state": "MO", 
+    "location_zip": "64063", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.leessummitmedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "8162825000",
-    "provider_id": "260190",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8162825000", 
+    "provider_id": "260190", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "64063"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "12251 SOUTH 80TH AVENUE",
-    "city": "PALOS HEIGHTS",
-    "county_name": "COOK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PALOS COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "12251 SOUTH 80TH AVENUE", 
+    "city": "PALOS HEIGHTS", 
+    "county_name": "COOK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PALOS COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.815976,
+            -87.815976, 
             41.668955
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "12251 SOUTH 80TH AVENUE",
-    "location_city": "PALOS HEIGHTS",
-    "location_state": "IL",
-    "location_zip": "60463",
+    }, 
+    "location_address": "12251 SOUTH 80TH AVENUE", 
+    "location_city": "PALOS HEIGHTS", 
+    "location_state": "IL", 
+    "location_zip": "60463", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.paloshospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7089234000",
-    "provider_id": "140062",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7089234000", 
+    "provider_id": "140062", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "60463"
 }

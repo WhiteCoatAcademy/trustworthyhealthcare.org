@@ -1,41 +1,49 @@
 {
-    "address": "3555 SOUTH VAL VISTA DRIVE",
-    "city": "GILBERT",
-    "county_name": "MARICOPA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY GILBERT MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3555 SOUTH VAL VISTA DRIVE", 
+    "city": "GILBERT", 
+    "county_name": "MARICOPA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY GILBERT MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -111.755311,
+            -111.755311, 
             33.286661
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "3555 SOUTH VAL VISTA DRIVE",
-    "location_city": "GILBERT",
-    "location_state": "AZ",
-    "location_zip": "85296",
+    }, 
+    "location_address": "3555 SOUTH VAL VISTA DRIVE", 
+    "location_city": "GILBERT", 
+    "location_state": "AZ", 
+    "location_zip": "85296", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mercygilbert.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare West",
+        "name": "Catholic Healthcare West", 
         "websites": [
             "www.chwhealth.org"
         ]
-    },
-    "phone_number": "4807288000",
-    "provider_id": "030119",
-    "raw_ratings": {},
-    "state": "AZ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4807288000", 
+    "provider_id": "030119", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "AZ", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "85296"
 }

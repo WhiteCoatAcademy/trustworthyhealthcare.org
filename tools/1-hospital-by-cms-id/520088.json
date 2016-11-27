@@ -1,41 +1,49 @@
 {
-    "address": "430 E DIVISON ST",
-    "city": "FOND DU LAC",
-    "county_name": "FOND DU LAC",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST AGNES HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "430 E DIVISON ST", 
+    "city": "FOND DU LAC", 
+    "county_name": "FOND DU LAC", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST AGNES HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.431215,
-            43.778692
-        ],
+            -88.431179, 
+            43.778691
+        ], 
         "type": "Point"
-    },
-    "location_address": "430 E DIVISON ST",
-    "location_city": "FOND DU LAC",
-    "location_state": "WI",
-    "location_zip": "54935",
+    }, 
+    "location_address": "430 E DIVISON ST", 
+    "location_city": "FOND DU LAC", 
+    "location_state": "WI", 
+    "location_zip": "54935", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.agnesian.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Agnesian Healthcare",
+        "name": "Agnesian Healthcare", 
         "websites": [
             "www.agnesian.com"
         ]
-    },
-    "phone_number": "9209292300",
-    "provider_id": "520088",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9209292300", 
+    "provider_id": "520088", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "54935"
 }

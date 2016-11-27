@@ -1,39 +1,48 @@
 {
-    "address": "855 S MAIN ST",
-    "city": "OCONTO FALLS",
-    "county_name": "OCONTO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HSHS ST CLARE MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "855 S MAIN ST", 
+    "city": "OCONTO FALLS", 
+    "county_name": "OCONTO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HSHS ST CLARE MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -88.127595,
-            44.866202
-        ],
+            -88.127084, 
+            44.865899
+        ], 
         "type": "Point"
-    },
-    "location_address": "855 S MAIN ST",
-    "location_city": "OCONTO FALLS",
-    "location_state": "WI",
-    "location_zip": "54154",
+    }, 
+    "location_address": "855 S MAIN ST", 
+    "location_city": "OCONTO FALLS", 
+    "location_state": "WI", 
+    "location_zip": "54154", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cmhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9208463444",
-    "provider_id": "521310",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9208463444", 
+    "provider_id": "521310", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "54154"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "550 FIRST AVENUE",
-    "city": "NEW YORK",
-    "county_name": "NEW YORK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NYU HOSPITALS CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "550 FIRST AVENUE", 
+    "city": "NEW YORK", 
+    "county_name": "NEW YORK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NYU HOSPITALS CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.974225,
-            40.742871
-        ],
+            -73.974661, 
+            40.74226
+        ], 
         "type": "Point"
-    },
-    "location_address": "550 FIRST AVENUE",
-    "location_city": "NEW YORK",
-    "location_state": "NY",
-    "location_zip": "10016",
+    }, 
+    "location_address": "550 FIRST AVENUE", 
+    "location_city": "NEW YORK", 
+    "location_state": "NY", 
+    "location_zip": "10016", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.med.nyu.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "New York University Elaine A. and Kenneth G. Langone Medical Center",
+        "name": "New York University Elaine A. and Kenneth G. Langone Medical Center", 
         "websites": [
             "www.med.nyu.edu"
         ]
-    },
-    "phone_number": "2122637300",
-    "provider_id": "330214",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2122637300", 
+    "provider_id": "330214", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "10016"
 }

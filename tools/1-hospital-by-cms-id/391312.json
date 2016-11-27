@@ -1,39 +1,49 @@
 {
-    "address": "100 HOSPITAL ROAD",
-    "city": "BROOKVILLE",
-    "county_name": "JEFFERSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PENN HIGHLANDS BROOKVILLE",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "100 HOSPITAL ROAD", 
+    "city": "BROOKVILLE", 
+    "county_name": "JEFFERSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PENN HIGHLANDS BROOKVILLE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -79.093379,
-            41.156616
-        ],
+            -79.092879, 
+            41.156525
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 HOSPITAL ROAD",
-    "location_city": "BROOKVILLE",
-    "location_state": "PA",
-    "location_zip": "15825",
+    }, 
+    "location_address": "100 HOSPITAL ROAD", 
+    "location_city": "BROOKVILLE", 
+    "location_state": "PA", 
+    "location_zip": "15825", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.brookvillehospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8148492312",
-    "provider_id": "391312",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8148492312", 
+    "provider_id": "391312", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "15825"
 }

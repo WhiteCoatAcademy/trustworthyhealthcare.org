@@ -1,39 +1,50 @@
 {
-    "address": "815 N VIRGINIA STREET",
-    "city": "PORT LAVACA",
-    "county_name": "CALHOUN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEMORIAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "815 N VIRGINIA STREET", 
+    "city": "PORT LAVACA", 
+    "county_name": "CALHOUN", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEMORIAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -96.6315,
-            28.62087
-        ],
+            -96.631537, 
+            28.620912
+        ], 
         "type": "Point"
-    },
-    "location_address": "815 N VIRGINIA STREET",
-    "location_city": "PORT LAVACA",
-    "location_state": "TX",
-    "location_zip": "77979",
+    }, 
+    "location_address": "815 N VIRGINIA STREET", 
+    "location_city": "PORT LAVACA", 
+    "location_state": "TX", 
+    "location_zip": "77979", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mmcportlavaca.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3615526713",
-    "provider_id": "451356",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3615526713", 
+    "provider_id": "451356", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "77979"
 }

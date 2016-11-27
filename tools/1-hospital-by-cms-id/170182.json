@@ -1,41 +1,49 @@
 {
-    "address": "5721 WEST 119TH STREET",
-    "city": "OVERLAND PARK",
-    "county_name": "JOHNSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MENORAH MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5721 WEST 119TH STREET", 
+    "city": "OVERLAND PARK", 
+    "county_name": "JOHNSON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MENORAH MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.652084,
-            38.912834
-        ],
+            -94.651473, 
+            38.912835
+        ], 
         "type": "Point"
-    },
-    "location_address": "5721 WEST 119TH STREET",
-    "location_city": "OVERLAND PARK",
-    "location_state": "KS",
-    "location_zip": "66209",
+    }, 
+    "location_address": "5721 WEST 119TH STREET", 
+    "location_city": "OVERLAND PARK", 
+    "location_state": "KS", 
+    "location_zip": "66209", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.menorahmedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "9134986773",
-    "provider_id": "170182",
-    "raw_ratings": {},
-    "state": "KS",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9134986773", 
+    "provider_id": "170182", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "KS", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "66209"
 }

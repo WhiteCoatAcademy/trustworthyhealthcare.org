@@ -1,39 +1,47 @@
 {
-    "address": "1102 W MACARTHUR",
-    "city": "SHAWNEE",
-    "county_name": "POTTAWATOMIE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST ANTHONY SHAWNEE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1102 W MACARTHUR", 
+    "city": "SHAWNEE", 
+    "county_name": "POTTAWATOMIE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST ANTHONY SHAWNEE HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.937639,
+            -96.937587, 
             35.361768
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1102 W MACARTHUR",
-    "location_city": "SHAWNEE",
-    "location_state": "OK",
-    "location_zip": "74804",
+    }, 
+    "location_address": "1102 W MACARTHUR", 
+    "location_city": "SHAWNEE", 
+    "location_state": "OK", 
+    "location_zip": "74804", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.unityhealthcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4052732270",
-    "provider_id": "370149",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4052732270", 
+    "provider_id": "370149", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "74804"
 }

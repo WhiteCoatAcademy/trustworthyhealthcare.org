@@ -1,39 +1,49 @@
 {
-    "address": "8885 SR 237",
-    "city": "TELL CITY",
-    "county_name": "PERRY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PERRY COUNTY MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "8885 SR 237", 
+    "city": "TELL CITY", 
+    "county_name": "PERRY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PERRY COUNTY MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -86.735534,
-            37.971692
-        ],
+            -86.728679, 
+            37.967556
+        ], 
         "type": "Point"
-    },
-    "location_address": "8885 SR 237",
-    "location_city": "TELL CITY",
-    "location_state": "IN",
-    "location_zip": "47586",
+    }, 
+    "location_address": "8885 SR 237", 
+    "location_city": "TELL CITY", 
+    "location_state": "IN", 
+    "location_zip": "47586", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pchospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8125477011",
-    "provider_id": "151322",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8125477011", 
+    "provider_id": "151322", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "47586"
 }

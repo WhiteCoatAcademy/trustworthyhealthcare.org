@@ -1,38 +1,56 @@
 {
-    "address": "113 WEST HICKORY STREET",
-    "city": "NEOSHO",
-    "county_name": "NEWTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FREEMAN NEOSHO HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "113 WEST HICKORY STREET", 
+    "city": "NEOSHO", 
+    "county_name": "NEWTON", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FREEMAN NEOSHO HOSPITAL", 
+    "hospital_overall_rating_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"113 WEST HICKORY STREET\",\"city\":\"NEOSHO\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "36.86756851400003",
-        "longitude": "-94.36886766799995",
-        "needs_recoding": false
-    },
+        "coordinates": [
+            -94.368787, 
+            36.867614
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "113 WEST HICKORY STREET", 
+    "location_city": "NEOSHO", 
+    "location_state": "MO", 
+    "location_zip": "64850", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.freemanhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Freeman Health System",
+        "name": "Freeman Health System", 
         "websites": [
             "www.freemanhealth.com"
         ]
-    },
-    "phone_number": {
-        "phone_number": "4174511234"
-    },
-    "provider_id": "261331",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "phone_number": "4174511234", 
+    "provider_id": "261331", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
     "zip_code": "64850"
 }

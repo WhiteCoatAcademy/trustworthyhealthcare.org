@@ -1,39 +1,48 @@
 {
-    "address": "3001 BROADMOOR BLVD NE",
-    "city": "RIO RANCHO",
-    "county_name": "SANDOVAL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNM SANDOVAL REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3001 BROADMOOR BLVD NE", 
+    "city": "RIO RANCHO", 
+    "county_name": "SANDOVAL", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNM SANDOVAL REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -106.676997,
-            35.307062
-        ],
+            -106.677003, 
+            35.307351
+        ], 
         "type": "Point"
-    },
-    "location_address": "3001 BROADMOOR BLVD NE",
-    "location_city": "RIO RANCHO",
-    "location_state": "NM",
-    "location_zip": "87144",
+    }, 
+    "location_address": "3001 BROADMOOR BLVD NE", 
+    "location_city": "RIO RANCHO", 
+    "location_state": "NM", 
+    "location_zip": "87144", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mountainviewregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5052728087",
-    "provider_id": "320089",
-    "raw_ratings": {},
-    "state": "NM",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5052728087", 
+    "provider_id": "320089", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NM", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "87144"
 }

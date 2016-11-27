@@ -1,41 +1,49 @@
 {
-    "address": "4800 EAST JOHNSON AVENUE",
-    "city": "JONESBORO",
-    "county_name": "CRAIGHEAD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NEA BAPTIST MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4800 EAST JOHNSON AVENUE", 
+    "city": "JONESBORO", 
+    "county_name": "CRAIGHEAD", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NEA BAPTIST MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.639107,
+            -90.639107, 
             35.864204
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "4800 EAST JOHNSON AVENUE",
-    "location_city": "JONESBORO",
-    "location_state": "AR",
-    "location_zip": "72401",
+    }, 
+    "location_address": "4800 EAST JOHNSON AVENUE", 
+    "location_city": "JONESBORO", 
+    "location_state": "AR", 
+    "location_zip": "72401", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.neamedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Baptist Memorial Health Care Corporation",
+        "name": "Baptist Memorial Health Care Corporation", 
         "websites": [
             "www.bmhcc.org"
         ]
-    },
-    "phone_number": "8709727000",
-    "provider_id": "040118",
-    "raw_ratings": {},
-    "state": "AR",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8709727000", 
+    "provider_id": "040118", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "AR", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "72401"
 }

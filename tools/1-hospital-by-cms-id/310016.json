@@ -1,39 +1,47 @@
 {
-    "address": "176 PALISADE AVE",
-    "city": "JERSEY CITY",
-    "county_name": "HUDSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CAREPOINT HEALTH-CHRIST HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "176 PALISADE AVE", 
+    "city": "JERSEY CITY", 
+    "county_name": "HUDSON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CAREPOINT HEALTH-CHRIST HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.050272,
-            40.734674
-        ],
+            -74.050142, 
+            40.734876
+        ], 
         "type": "Point"
-    },
-    "location_address": "176 PALISADE AVE",
-    "location_city": "JERSEY CITY",
-    "location_state": "NJ",
-    "location_zip": "07306",
+    }, 
+    "location_address": "176 PALISADE AVE", 
+    "location_city": "JERSEY CITY", 
+    "location_state": "NJ", 
+    "location_zip": "07306", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.christhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2017958200",
-    "provider_id": "310016",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2017958200", 
+    "provider_id": "310016", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "07306"
 }

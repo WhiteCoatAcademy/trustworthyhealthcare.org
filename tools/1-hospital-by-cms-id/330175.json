@@ -1,39 +1,47 @@
 {
-    "address": "134 HOMER AVENUE",
-    "city": "CORTLAND",
-    "county_name": "CORTLAND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CORTLAND REGIONAL MEDICAL CENTER, INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "134 HOMER AVENUE", 
+    "city": "CORTLAND", 
+    "county_name": "CORTLAND", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CORTLAND REGIONAL MEDICAL CENTER, INC", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.186119,
-            42.609031
-        ],
+            -76.186117, 
+            42.608997
+        ], 
         "type": "Point"
-    },
-    "location_address": "134 HOMER AVENUE",
-    "location_city": "CORTLAND",
-    "location_state": "NY",
-    "location_zip": "13045",
+    }, 
+    "location_address": "134 HOMER AVENUE", 
+    "location_city": "CORTLAND", 
+    "location_state": "NY", 
+    "location_zip": "13045", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cortlandhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6077563500",
-    "provider_id": "330175",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6077563500", 
+    "provider_id": "330175", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "13045"
 }

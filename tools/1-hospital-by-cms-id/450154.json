@@ -1,39 +1,47 @@
 {
-    "address": "801 BEDELL AVE",
-    "city": "DEL RIO",
-    "county_name": "VAL VERDE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "VAL VERDE REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "801 BEDELL AVE", 
+    "city": "DEL RIO", 
+    "county_name": "VAL VERDE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "VAL VERDE REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -100.89314,
-            29.374519
-        ],
+            -100.893034, 
+            29.374425
+        ], 
         "type": "Point"
-    },
-    "location_address": "801 BEDELL AVE",
-    "location_city": "DEL RIO",
-    "location_state": "TX",
-    "location_zip": "78840",
+    }, 
+    "location_address": "801 BEDELL AVE", 
+    "location_city": "DEL RIO", 
+    "location_state": "TX", 
+    "location_zip": "78840", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.vvrmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8307758566",
-    "provider_id": "450154",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8307758566", 
+    "provider_id": "450154", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "78840"
 }

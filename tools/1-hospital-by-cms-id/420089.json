@@ -1,41 +1,49 @@
 {
-    "address": "2000 HOSPITAL DR",
-    "city": "MOUNT PLEASANT",
-    "county_name": "CHARLESTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "EAST COOPER MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2000 HOSPITAL DR", 
+    "city": "MOUNT PLEASANT", 
+    "county_name": "CHARLESTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "EAST COOPER MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -79.8496,
-            32.820879
-        ],
+            -79.849738, 
+            32.821401
+        ], 
         "type": "Point"
-    },
-    "location_address": "2000 HOSPITAL DR",
-    "location_city": "MOUNT PLEASANT",
-    "location_state": "SC",
-    "location_zip": "29464",
+    }, 
+    "location_address": "2000 HOSPITAL DR", 
+    "location_city": "MOUNT PLEASANT", 
+    "location_state": "SC", 
+    "location_zip": "29464", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.eastcoopermedctr.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "TENET Healthcare",
+        "name": "TENET Healthcare", 
         "websites": [
             "www.tenethealth.com"
         ]
-    },
-    "phone_number": "8438810100",
-    "provider_id": "420089",
-    "raw_ratings": {},
-    "state": "SC",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8438810100", 
+    "provider_id": "420089", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "SC", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "29464"
 }

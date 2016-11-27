@@ -1,41 +1,49 @@
 {
-    "address": "14502 WEST MEEKER BOULEVARD",
-    "city": "SUN CITY WEST",
-    "county_name": "MARICOPA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BANNER DEL E WEBB MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "14502 WEST MEEKER BOULEVARD", 
+    "city": "SUN CITY WEST", 
+    "county_name": "MARICOPA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BANNER DEL E WEBB MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -112.371828,
-            33.658371
-        ],
+            -112.371939, 
+            33.658307
+        ], 
         "type": "Point"
-    },
-    "location_address": "14502 WEST MEEKER BOULEVARD",
-    "location_city": "SUN CITY WEST",
-    "location_state": "AZ",
-    "location_zip": "85375",
+    }, 
+    "location_address": "14502 WEST MEEKER BOULEVARD", 
+    "location_city": "SUN CITY WEST", 
+    "location_state": "AZ", 
+    "location_zip": "85375", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bannerhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Banner Health",
+        "name": "Banner Health", 
         "websites": [
             "www.bannerhealth.com"
         ]
-    },
-    "phone_number": "6232144000",
-    "provider_id": "030093",
-    "raw_ratings": {},
-    "state": "AZ",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6232144000", 
+    "provider_id": "030093", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "AZ", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "85375"
 }

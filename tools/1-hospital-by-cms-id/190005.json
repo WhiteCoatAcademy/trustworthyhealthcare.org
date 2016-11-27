@@ -1,39 +1,47 @@
 {
-    "address": "2000 CANAL STREET",
-    "city": "NEW ORLEANS",
-    "county_name": "ORLEANS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY MEDICAL CENTER NEW ORLEANS",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2000 CANAL STREET", 
+    "city": "NEW ORLEANS", 
+    "county_name": "ORLEANS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY MEDICAL CENTER NEW ORLEANS", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.080858,
-            29.961056
-        ],
+            -90.080941, 
+            29.961113
+        ], 
         "type": "Point"
-    },
-    "location_address": "2000 CANAL STREET",
-    "location_city": "NEW ORLEANS",
-    "location_state": "LA",
-    "location_zip": "70112",
+    }, 
+    "location_address": "2000 CANAL STREET", 
+    "location_city": "NEW ORLEANS", 
+    "location_state": "LA", 
+    "location_zip": "70112", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.thibodaux.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5049033000",
-    "provider_id": "190005",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5049033000", 
+    "provider_id": "190005", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "70112"
 }

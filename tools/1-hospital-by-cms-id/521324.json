@@ -1,41 +1,52 @@
 {
-    "address": "135 S GIBSON ST",
-    "city": "MEDFORD",
-    "county_name": "TAYLOR",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ASPIRUS MEDFORD HOSPITAL & CLINICS, INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "135 S GIBSON ST", 
+    "city": "MEDFORD", 
+    "county_name": "TAYLOR", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ASPIRUS MEDFORD HOSPITAL & CLINICS, INC", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -90.353998,
-            45.135642
-        ],
+            -90.354042, 
+            45.135393
+        ], 
         "type": "Point"
-    },
-    "location_address": "135 S GIBSON ST",
-    "location_city": "MEDFORD",
-    "location_state": "WI",
-    "location_zip": "54451",
+    }, 
+    "location_address": "135 S GIBSON ST", 
+    "location_city": "MEDFORD", 
+    "location_state": "WI", 
+    "location_zip": "54451", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.memhc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Aspirus",
+        "name": "Aspirus", 
         "websites": [
             "aspirus.org"
         ]
-    },
-    "phone_number": "7157488100",
-    "provider_id": "521324",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7157488100", 
+    "provider_id": "521324", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "54451"
 }

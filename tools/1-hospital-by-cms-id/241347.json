@@ -1,41 +1,55 @@
 {
-    "address": "112 ST OLAF AVENUE SOUTH",
-    "city": "CANBY",
-    "county_name": "YELLOW MEDICINE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SANFORD CANBY MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "112 ST OLAF AVENUE SOUTH", 
+    "city": "CANBY", 
+    "county_name": "YELLOW MEDICINE", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SANFORD CANBY MEDICAL CENTER", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -96.277201,
-            44.708157
-        ],
+            -96.278057, 
+            44.707421
+        ], 
         "type": "Point"
-    },
-    "location_address": "112 ST OLAF AVENUE SOUTH",
-    "location_city": "CANBY",
-    "location_state": "MN",
-    "location_zip": "56220",
+    }, 
+    "location_address": "112 ST OLAF AVENUE SOUTH", 
+    "location_city": "CANBY", 
+    "location_state": "MN", 
+    "location_zip": "56220", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sanfordcanby.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sanford Health",
+        "name": "Sanford Health", 
         "websites": [
             "www.sanfordhealth.org"
         ]
-    },
-    "phone_number": "5072237277",
-    "provider_id": "241347",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "5072237277", 
+    "provider_id": "241347", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "56220"
 }

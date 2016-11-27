@@ -1,39 +1,47 @@
 {
-    "address": "625 EAST BROADWAY",
-    "city": "JACKSON",
-    "county_name": "TETON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOHNS MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "625 EAST BROADWAY", 
+    "city": "JACKSON", 
+    "county_name": "TETON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JOHNS MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -110.74908,
-            43.479689
-        ],
+            -110.748923, 
+            43.479687
+        ], 
         "type": "Point"
-    },
-    "location_address": "625 EAST BROADWAY",
-    "location_city": "JACKSON",
-    "location_state": "WY",
-    "location_zip": "83001",
+    }, 
+    "location_address": "625 EAST BROADWAY", 
+    "location_city": "JACKSON", 
+    "location_state": "WY", 
+    "location_zip": "83001", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.tetonhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3077333636",
-    "provider_id": "530015",
-    "raw_ratings": {},
-    "state": "WY",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3077333636", 
+    "provider_id": "530015", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WY", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "83001"
 }

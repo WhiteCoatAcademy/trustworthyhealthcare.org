@@ -1,39 +1,47 @@
 {
-    "address": "865 SOUTH FIRST STREET",
-    "city": "JESUP",
-    "county_name": "WAYNE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WAYNE MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "865 SOUTH FIRST STREET", 
+    "city": "JESUP", 
+    "county_name": "WAYNE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WAYNE MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.898737,
-            31.602794
-        ],
+            -81.899094, 
+            31.602952
+        ], 
         "type": "Point"
-    },
-    "location_address": "865 SOUTH FIRST STREET",
-    "location_city": "JESUP",
-    "location_state": "GA",
-    "location_zip": "31545",
+    }, 
+    "location_address": "865 SOUTH FIRST STREET", 
+    "location_city": "JESUP", 
+    "location_state": "GA", 
+    "location_zip": "31545", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wmhweb.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9125303302",
-    "provider_id": "110124",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9125303302", 
+    "provider_id": "110124", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "31545"
 }

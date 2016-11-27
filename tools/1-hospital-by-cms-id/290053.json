@@ -1,41 +1,49 @@
 {
-    "address": "8280 W WARM SPRINGS ROAD",
-    "city": "LAS VEGAS",
-    "county_name": "CLARK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST ROSE DOMINICAN HOSPITALS - SAN MARTIN CAMPUS",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "8280 W WARM SPRINGS ROAD", 
+    "city": "LAS VEGAS", 
+    "county_name": "CLARK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST ROSE DOMINICAN HOSPITALS - SAN MARTIN CAMPUS", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -115.271876,
-            36.055544
-        ],
+            -115.271272, 
+            36.055545
+        ], 
         "type": "Point"
-    },
-    "location_address": "8280 W WARM SPRINGS ROAD",
-    "location_city": "LAS VEGAS",
-    "location_state": "NV",
-    "location_zip": "89113",
+    }, 
+    "location_address": "8280 W WARM SPRINGS ROAD", 
+    "location_city": "LAS VEGAS", 
+    "location_state": "NV", 
+    "location_zip": "89113", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.strosehospitals.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare West",
+        "name": "Catholic Healthcare West", 
         "websites": [
             "www.chwhealth.org"
         ]
-    },
-    "phone_number": "7024928509",
-    "provider_id": "290053",
-    "raw_ratings": {},
-    "state": "NV",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7024928509", 
+    "provider_id": "290053", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NV", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "89113"
 }

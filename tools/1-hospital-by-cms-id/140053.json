@@ -1,41 +1,49 @@
 {
-    "address": "800 E CARPENTER ST",
-    "city": "SPRINGFIELD",
-    "county_name": "SANGAMON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOHNS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "800 E CARPENTER ST", 
+    "city": "SPRINGFIELD", 
+    "county_name": "SANGAMON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JOHNS HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.644833,
+            -89.644833, 
             39.807289
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "800 E CARPENTER ST",
-    "location_city": "SPRINGFIELD",
-    "location_state": "IL",
-    "location_zip": "62769",
+    }, 
+    "location_address": "800 E CARPENTER ST", 
+    "location_city": "SPRINGFIELD", 
+    "location_state": "IL", 
+    "location_zip": "62769", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.st-johns.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Hospital Sisters Health System",
+        "name": "Hospital Sisters Health System", 
         "websites": [
             "www.hshs.org"
         ]
-    },
-    "phone_number": "2175446464",
-    "provider_id": "140053",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2175446464", 
+    "provider_id": "140053", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "62769"
 }

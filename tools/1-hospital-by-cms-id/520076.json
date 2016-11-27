@@ -1,39 +1,47 @@
 {
-    "address": "707 S UNIVERSITY AVE",
-    "city": "BEAVER DAM",
-    "county_name": "DODGE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BEAVER DAM COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "707 S UNIVERSITY AVE", 
+    "city": "BEAVER DAM", 
+    "county_name": "DODGE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BEAVER DAM COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.828099,
-            43.448085
-        ],
+            -88.828212, 
+            43.448538
+        ], 
         "type": "Point"
-    },
-    "location_address": "707 S UNIVERSITY AVE",
-    "location_city": "BEAVER DAM",
-    "location_state": "WI",
-    "location_zip": "53916",
+    }, 
+    "location_address": "707 S UNIVERSITY AVE", 
+    "location_city": "BEAVER DAM", 
+    "location_state": "WI", 
+    "location_zip": "53916", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bdch.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9208877181",
-    "provider_id": "520076",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9208877181", 
+    "provider_id": "520076", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "53916"
 }

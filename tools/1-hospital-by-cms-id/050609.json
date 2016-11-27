@@ -1,41 +1,54 @@
 {
-    "address": "3440 E LA PALMA AVE",
-    "city": "ANAHEIM",
-    "county_name": "ORANGE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "KAISER FOUNDATION HOSPITAL - ORANGE COUNTY - ANAHE",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3440 E LA PALMA AVE", 
+    "city": "ANAHEIM", 
+    "county_name": "ORANGE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "KAISER FOUNDATION HOSPITAL - ORANGE COUNTY - ANAHE", 
+    "hospital_overall_rating": "4", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.84411,
+            -117.84411, 
             33.854441
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "3440 E LA PALMA AVE",
-    "location_city": "ANAHEIM",
-    "location_state": "CA",
-    "location_zip": "92806",
+    }, 
+    "location_address": "3440 E LA PALMA AVE", 
+    "location_city": "ANAHEIM", 
+    "location_state": "CA", 
+    "location_zip": "92806", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "members.kaiserpermanente.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Kaiser Foundation Hospitals",
+        "name": "Kaiser Foundation Hospitals", 
         "websites": [
             "www.kaiserpermanente.org"
         ]
-    },
-    "phone_number": "7142794000",
-    "provider_id": "050609",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7142794000", 
+    "provider_id": "050609", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "92806"
 }

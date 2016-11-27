@@ -1,39 +1,49 @@
 {
-    "address": "17400 ST LUKES WAY",
-    "city": "THE WOODLANDS",
-    "county_name": "MONTGOMERY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST LUKES LAKESIDE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "17400 ST LUKES WAY", 
+    "city": "THE WOODLANDS", 
+    "county_name": "MONTGOMERY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST LUKES LAKESIDE HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.459386,
-            30.199789
-        ],
+            -95.459482, 
+            30.203132
+        ], 
         "type": "Point"
-    },
-    "location_address": "17400 ST LUKES WAY",
-    "location_city": "THE WOODLANDS",
-    "location_state": "TX",
-    "location_zip": "77384",
+    }, 
+    "location_address": "17400 ST LUKES WAY", 
+    "location_city": "THE WOODLANDS", 
+    "location_state": "TX", 
+    "location_zip": "77384", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9362664055",
-    "provider_id": "670059",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9362664055", 
+    "provider_id": "670059", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "77384"
 }

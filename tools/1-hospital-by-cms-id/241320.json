@@ -1,39 +1,49 @@
 {
-    "address": "323 SOUTH MINNESOTA",
-    "city": "CROOKSTON",
-    "county_name": "POLK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "RIVERVIEW HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "323 SOUTH MINNESOTA", 
+    "city": "CROOKSTON", 
+    "county_name": "POLK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "RIVERVIEW HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -96.618061,
-            47.774491
-        ],
+            -96.618108, 
+            47.772028
+        ], 
         "type": "Point"
-    },
-    "location_address": "323 SOUTH MINNESOTA",
-    "location_city": "CROOKSTON",
-    "location_state": "MN",
-    "location_zip": "56716",
+    }, 
+    "location_address": "323 SOUTH MINNESOTA", 
+    "location_city": "CROOKSTON", 
+    "location_state": "MN", 
+    "location_zip": "56716", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.riverviewhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2182819200",
-    "provider_id": "241320",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2182819200", 
+    "provider_id": "241320", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "56716"
 }

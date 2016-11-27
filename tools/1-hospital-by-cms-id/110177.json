@@ -1,41 +1,49 @@
 {
-    "address": "3651 WHEELER ROAD",
-    "city": "AUGUSTA",
-    "county_name": "RICHMOND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DOCTORS HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3651 WHEELER ROAD", 
+    "city": "AUGUSTA", 
+    "county_name": "RICHMOND", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DOCTORS HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.089893,
-            33.48239
-        ],
+            -82.094793, 
+            33.482889
+        ], 
         "type": "Point"
-    },
-    "location_address": "3651 WHEELER ROAD",
-    "location_city": "AUGUSTA",
-    "location_state": "GA",
-    "location_zip": "30909",
+    }, 
+    "location_address": "3651 WHEELER ROAD", 
+    "location_city": "AUGUSTA", 
+    "location_state": "GA", 
+    "location_zip": "30909", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.doctors-hospital.net"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "7066516008",
-    "provider_id": "110177",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7066516008", 
+    "provider_id": "110177", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "30909"
 }

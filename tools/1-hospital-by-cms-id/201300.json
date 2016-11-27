@@ -1,41 +1,52 @@
 {
-    "address": "57 WATER STREET",
-    "city": "BLUE HILL",
-    "county_name": "HANCOCK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BLUE HILL MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "57 WATER STREET", 
+    "city": "BLUE HILL", 
+    "county_name": "HANCOCK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BLUE HILL MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -68.587812,
-            44.41293
-        ],
+            -68.586213, 
+            44.41142
+        ], 
         "type": "Point"
-    },
-    "location_address": "57 WATER STREET",
-    "location_city": "BLUE HILL",
-    "location_state": "ME",
-    "location_zip": "04614",
+    }, 
+    "location_address": "57 WATER STREET", 
+    "location_city": "BLUE HILL", 
+    "location_state": "ME", 
+    "location_zip": "04614", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bhmh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Eastern Maine Healthcare Systems",
+        "name": "Eastern Maine Healthcare Systems", 
         "websites": [
             "www.emh.org"
         ]
-    },
-    "phone_number": "2073742836",
-    "provider_id": "201300",
-    "raw_ratings": {},
-    "state": "ME",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2073742836", 
+    "provider_id": "201300", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "ME", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "04614"
 }

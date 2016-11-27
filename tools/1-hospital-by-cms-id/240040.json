@@ -1,41 +1,49 @@
 {
-    "address": "750 EAST 34TH ST",
-    "city": "HIBBING",
-    "county_name": "SAINT LOUIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY MEDICAL CENTER-MESABI/ MESABA CLINICS",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "750 EAST 34TH ST", 
+    "city": "HIBBING", 
+    "county_name": "SAINT LOUIS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY MEDICAL CENTER-MESABI/ MESABA CLINICS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -92.931762,
-            47.411202
-        ],
+            -92.928396, 
+            47.410524
+        ], 
         "type": "Point"
-    },
-    "location_address": "750 EAST 34TH ST",
-    "location_city": "HIBBING",
-    "location_state": "MN",
-    "location_zip": "55746",
+    }, 
+    "location_address": "750 EAST 34TH ST", 
+    "location_city": "HIBBING", 
+    "location_state": "MN", 
+    "location_zip": "55746", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.range.fairview.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Fairview Health Services",
+        "name": "Fairview Health Services", 
         "websites": [
             "www.fairview.org"
         ]
-    },
-    "phone_number": "2183626659",
-    "provider_id": "240040",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2183626659", 
+    "provider_id": "240040", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "55746"
 }

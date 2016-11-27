@@ -1,41 +1,52 @@
 {
-    "address": "118 NORTH 7TH AVENUE",
-    "city": "SHELDON",
-    "county_name": "OBRIEN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SANFORD SHELDON MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "118 NORTH 7TH AVENUE", 
+    "city": "SHELDON", 
+    "county_name": "OBRIEN", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SANFORD SHELDON MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -95.847182,
-            43.186329
-        ],
+            -95.847268, 
+            43.186307
+        ], 
         "type": "Point"
-    },
-    "location_address": "118 NORTH 7TH AVENUE",
-    "location_city": "SHELDON",
-    "location_state": "IA",
-    "location_zip": "51201",
+    }, 
+    "location_address": "118 NORTH 7TH AVENUE", 
+    "location_city": "SHELDON", 
+    "location_state": "IA", 
+    "location_zip": "51201", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sanfordsheldon.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sanford Health",
+        "name": "Sanford Health", 
         "websites": [
             "www.sanfordhealth.org"
         ]
-    },
-    "phone_number": "7123245041",
-    "provider_id": "161381",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7123245041", 
+    "provider_id": "161381", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "51201"
 }

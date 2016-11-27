@@ -1,41 +1,49 @@
 {
-    "address": "201 E GROVER ST",
-    "city": "SHELBY",
-    "county_name": "CLEVELAND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CAROLINAS HEALTHCARE SYSTEM CLEVELAND",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "201 E GROVER ST", 
+    "city": "SHELBY", 
+    "county_name": "CLEVELAND", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CAROLINAS HEALTHCARE SYSTEM CLEVELAND", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.535343,
+            -81.535343, 
             35.301837
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "201 E GROVER ST",
-    "location_city": "SHELBY",
-    "location_state": "NC",
-    "location_zip": "28150",
+    }, 
+    "location_address": "201 E GROVER ST", 
+    "location_city": "SHELBY", 
+    "location_state": "NC", 
+    "location_zip": "28150", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.clevelandregional.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Carolinas HealthCare System",
+        "name": "Carolinas HealthCare System", 
         "websites": [
             "www.carolinas.org"
         ]
-    },
-    "phone_number": "7044873000",
-    "provider_id": "340021",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7044873000", 
+    "provider_id": "340021", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "28150"
 }

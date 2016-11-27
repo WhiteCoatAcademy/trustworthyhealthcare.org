@@ -1,41 +1,49 @@
 {
-    "address": "1266 HIGHWAY 515 SOUTH",
-    "city": "JASPER",
-    "county_name": "PICKENS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PIEDMONT MOUNTAINSIDE HOSPITAL INC",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1266 HIGHWAY 515 SOUTH", 
+    "city": "JASPER", 
+    "county_name": "PICKENS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PIEDMONT MOUNTAINSIDE HOSPITAL INC", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.445191,
-            34.446548
-        ],
+            -84.445923, 
+            34.446873
+        ], 
         "type": "Point"
-    },
-    "location_address": "1266 HIGHWAY 515 SOUTH",
-    "location_city": "JASPER",
-    "location_state": "GA",
-    "location_zip": "30143",
+    }, 
+    "location_address": "1266 HIGHWAY 515 SOUTH", 
+    "location_city": "JASPER", 
+    "location_state": "GA", 
+    "location_zip": "30143", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.piedmontmountainsidehospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Piedmont Healthcare",
+        "name": "Piedmont Healthcare", 
         "websites": [
             "www.piedmont.org"
         ]
-    },
-    "phone_number": "7063015269",
-    "provider_id": "110225",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7063015269", 
+    "provider_id": "110225", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "30143"
 }

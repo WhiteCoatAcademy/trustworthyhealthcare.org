@@ -1,41 +1,49 @@
 {
-    "address": "6401 FRANCE AVENUE SOUTH",
-    "city": "EDINA",
-    "county_name": "HENNEPIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FAIRVIEW SOUTHDALE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6401 FRANCE AVENUE SOUTH", 
+    "city": "EDINA", 
+    "county_name": "HENNEPIN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FAIRVIEW SOUTHDALE HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.328857,
+            -93.328857, 
             44.886279
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "6401 FRANCE AVENUE SOUTH",
-    "location_city": "EDINA",
-    "location_state": "MN",
-    "location_zip": "55435",
+    }, 
+    "location_address": "6401 FRANCE AVENUE SOUTH", 
+    "location_city": "EDINA", 
+    "location_state": "MN", 
+    "location_zip": "55435", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.southdale.fairview.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Fairview Health Services",
+        "name": "Fairview Health Services", 
         "websites": [
             "www.fairview.org"
         ]
-    },
-    "phone_number": "9529245000",
-    "provider_id": "240078",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9529245000", 
+    "provider_id": "240078", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "55435"
 }

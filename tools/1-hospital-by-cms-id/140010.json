@@ -1,41 +1,49 @@
 {
-    "address": "2650 RIDGE AVE",
-    "city": "EVANSTON",
-    "county_name": "COOK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "EVANSTON HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2650 RIDGE AVE", 
+    "city": "EVANSTON", 
+    "county_name": "COOK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "EVANSTON HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.683168,
-            42.065977
-        ],
+            -87.683283, 
+            42.065359
+        ], 
         "type": "Point"
-    },
-    "location_address": "2650 RIDGE AVE",
-    "location_city": "EVANSTON",
-    "location_state": "IL",
-    "location_zip": "60201",
+    }, 
+    "location_address": "2650 RIDGE AVE", 
+    "location_city": "EVANSTON", 
+    "location_state": "IL", 
+    "location_zip": "60201", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.enh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Evanston Northwestern Healthcare",
+        "name": "Evanston Northwestern Healthcare", 
         "websites": [
             "www.enh.org"
         ]
-    },
-    "phone_number": "8474328000",
-    "provider_id": "140010",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8474328000", 
+    "provider_id": "140010", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "60201"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1153 CENTRE STREET",
-    "city": "BOSTON",
-    "county_name": "SUFFOLK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1153 CENTRE STREET", 
+    "city": "BOSTON", 
+    "county_name": "SUFFOLK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -71.127428,
-            42.300641
-        ],
+            -71.127432, 
+            42.30066
+        ], 
         "type": "Point"
-    },
-    "location_address": "1153 CENTRE STREET",
-    "location_city": "BOSTON",
-    "location_state": "MA",
-    "location_zip": "02130",
+    }, 
+    "location_address": "1153 CENTRE STREET", 
+    "location_city": "BOSTON", 
+    "location_state": "MA", 
+    "location_zip": "02130", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.faulknerhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Partners HealthCare System",
+        "name": "Partners HealthCare System", 
         "websites": [
             "www.partners.org"
         ]
-    },
-    "phone_number": "6179837000",
-    "provider_id": "220119",
-    "raw_ratings": {},
-    "state": "MA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6179837000", 
+    "provider_id": "220119", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "02130"
 }

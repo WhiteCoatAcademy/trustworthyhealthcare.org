@@ -1,39 +1,47 @@
 {
-    "address": "800 N FANT ST",
-    "city": "ANDERSON",
-    "county_name": "ANDERSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ANMED HEALTH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "800 N FANT ST", 
+    "city": "ANDERSON", 
+    "county_name": "ANDERSON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ANMED HEALTH", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.647355,
+            -82.647355, 
             34.511071
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "800 N FANT ST",
-    "location_city": "ANDERSON",
-    "location_state": "SC",
-    "location_zip": "29621",
+    }, 
+    "location_address": "800 N FANT ST", 
+    "location_city": "ANDERSON", 
+    "location_state": "SC", 
+    "location_zip": "29621", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.anmed.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8642611109",
-    "provider_id": "420027",
-    "raw_ratings": {},
-    "state": "SC",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8642611109", 
+    "provider_id": "420027", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "SC", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "29621"
 }

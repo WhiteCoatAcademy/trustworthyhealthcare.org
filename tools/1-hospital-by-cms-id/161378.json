@@ -1,41 +1,56 @@
 {
-    "address": "1111 3RD STREET SW",
-    "city": "DYERSVILLE",
-    "county_name": "DUBUQUE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY MEDICAL CENTER-DYERSVILLE",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1111 3RD STREET SW", 
+    "city": "DYERSVILLE", 
+    "county_name": "DUBUQUE", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY MEDICAL CENTER-DYERSVILLE", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -91.129635,
-            42.475915
-        ],
+            -91.129885, 
+            42.474937
+        ], 
         "type": "Point"
-    },
-    "location_address": "1111 3RD STREET SW",
-    "location_city": "DYERSVILLE",
-    "location_state": "IA",
-    "location_zip": "52040",
+    }, 
+    "location_address": "1111 3RD STREET SW", 
+    "location_city": "DYERSVILLE", 
+    "location_state": "IA", 
+    "location_zip": "52040", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mercydubuque.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Mercy Health Network",
+        "name": "Mercy Health Network", 
         "websites": [
             "www.mercyhealthnetwork.com"
         ]
-    },
-    "phone_number": "5638757101",
-    "provider_id": "161378",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "5638757101", 
+    "provider_id": "161378", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "52040"
 }

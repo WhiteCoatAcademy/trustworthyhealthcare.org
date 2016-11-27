@@ -1,41 +1,49 @@
 {
-    "address": "99 RT 37 WEST",
-    "city": "TOMS RIVER",
-    "county_name": "OCEAN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COMMUNITY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "99 RT 37 WEST", 
+    "city": "TOMS RIVER", 
+    "county_name": "OCEAN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COMMUNITY MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.213979,
-            39.964983
-        ],
+            -74.214107, 
+            39.965023
+        ], 
         "type": "Point"
-    },
-    "location_address": "99 RT 37 WEST",
-    "location_city": "TOMS RIVER",
-    "location_state": "NJ",
-    "location_zip": "08755",
+    }, 
+    "location_address": "99 RT 37 WEST", 
+    "location_city": "TOMS RIVER", 
+    "location_state": "NJ", 
+    "location_zip": "08755", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sbhcs.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Barnabas Health Care System",
+        "name": "Saint Barnabas Health Care System", 
         "websites": [
             "www.sbhcs.com"
         ]
-    },
-    "phone_number": "7325578000",
-    "provider_id": "310041",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7325578000", 
+    "provider_id": "310041", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "08755"
 }

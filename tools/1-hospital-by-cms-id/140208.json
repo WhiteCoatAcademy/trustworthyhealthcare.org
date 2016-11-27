@@ -1,41 +1,49 @@
 {
-    "address": "4440 W 95TH STREET",
-    "city": "OAK LAWN",
-    "county_name": "COOK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ADVOCATE CHRIST HOSPITAL & MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4440 W 95TH STREET", 
+    "city": "OAK LAWN", 
+    "county_name": "COOK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ADVOCATE CHRIST HOSPITAL & MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.732862,
-            41.720308
-        ],
+            -87.732364, 
+            41.720316
+        ], 
         "type": "Point"
-    },
-    "location_address": "4440 W 95TH STREET",
-    "location_city": "OAK LAWN",
-    "location_state": "IL",
-    "location_zip": "60453",
+    }, 
+    "location_address": "4440 W 95TH STREET", 
+    "location_city": "OAK LAWN", 
+    "location_state": "IL", 
+    "location_zip": "60453", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.advocatehealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Advocate Health Care",
+        "name": "Advocate Health Care", 
         "websites": [
             "www.advocatehealth.com"
         ]
-    },
-    "phone_number": "7086848000",
-    "provider_id": "140208",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7086848000", 
+    "provider_id": "140208", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "60453"
 }

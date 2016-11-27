@@ -1,41 +1,49 @@
 {
-    "address": "400 N MCDOWELL BLVD",
-    "city": "PETALUMA",
-    "county_name": "SONOMA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PETALUMA VALLEY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "400 N MCDOWELL BLVD", 
+    "city": "PETALUMA", 
+    "county_name": "SONOMA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PETALUMA VALLEY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.632081,
-            38.252762
-        ],
+            -122.63286, 
+            38.253183
+        ], 
         "type": "Point"
-    },
-    "location_address": "400 N MCDOWELL BLVD",
-    "location_city": "PETALUMA",
-    "location_state": "CA",
-    "location_zip": "94954",
+    }, 
+    "location_address": "400 N MCDOWELL BLVD", 
+    "location_city": "PETALUMA", 
+    "location_state": "CA", 
+    "location_zip": "94954", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.petalumavalleyhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Joseph Health System",
+        "name": "Saint Joseph Health System", 
         "websites": [
             "www.stjhs.org"
         ]
-    },
-    "phone_number": "7077781111",
-    "provider_id": "050136",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7077781111", 
+    "provider_id": "050136", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "94954"
 }

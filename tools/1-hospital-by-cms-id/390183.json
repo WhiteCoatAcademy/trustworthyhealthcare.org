@@ -1,41 +1,49 @@
 {
-    "address": "360 W RUDDLE STREET",
-    "city": "COALDALE",
-    "county_name": "SCHUYLKILL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST LUKE'S MINERS MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "360 W RUDDLE STREET", 
+    "city": "COALDALE", 
+    "county_name": "SCHUYLKILL", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST LUKE'S MINERS MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -75.914666,
-            40.821424
-        ],
+            -75.914152, 
+            40.821619
+        ], 
         "type": "Point"
-    },
-    "location_address": "360 W RUDDLE STREET",
-    "location_city": "COALDALE",
-    "location_state": "PA",
-    "location_zip": "18218",
+    }, 
+    "location_address": "360 W RUDDLE STREET", 
+    "location_city": "COALDALE", 
+    "location_state": "PA", 
+    "location_zip": "18218", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mystlukesonline.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Luke's Hospital & Health Network",
+        "name": "Saint Luke's Hospital & Health Network", 
         "websites": [
             "www.mystlukesonline.org"
         ]
-    },
-    "phone_number": "5706452131",
-    "provider_id": "390183",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5706452131", 
+    "provider_id": "390183", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "18218"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "200 HAWTHORNE LANE BOX 33549",
-    "city": "CHARLOTTE",
-    "county_name": "MECKLENBURG",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NOVANT HEALTH PRESBYTERIAN MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 HAWTHORNE LANE BOX 33549", 
+    "city": "CHARLOTTE", 
+    "county_name": "MECKLENBURG", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NOVANT HEALTH PRESBYTERIAN MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.825589,
+            -80.8256, 
             35.2129
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 HAWTHORNE LANE BOX 33549",
-    "location_city": "CHARLOTTE",
-    "location_state": "NC",
-    "location_zip": "28233",
+    }, 
+    "location_address": "200 HAWTHORNE LANE BOX 33549", 
+    "location_city": "CHARLOTTE", 
+    "location_state": "NC", 
+    "location_zip": "28233", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.presbyterian.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Novant Health",
+        "name": "Novant Health", 
         "websites": [
             "www.novanthealth.org"
         ]
-    },
-    "phone_number": "7043844000",
-    "provider_id": "340053",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7043844000", 
+    "provider_id": "340053", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "28233"
 }

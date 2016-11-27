@@ -1,39 +1,51 @@
 {
-    "address": "44 N CUMMINGS",
-    "city": "BELLVILLE",
-    "county_name": "AUSTIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BELLVILLE GENERAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "44 N CUMMINGS", 
+    "city": "BELLVILLE", 
+    "county_name": "AUSTIN", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BELLVILLE GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.260414,
-            29.952858
-        ],
+            -96.260747, 
+            29.952265
+        ], 
         "type": "Point"
-    },
-    "location_address": "44 N CUMMINGS",
-    "location_city": "BELLVILLE",
-    "location_state": "TX",
-    "location_zip": "77418",
+    }, 
+    "location_address": "44 N CUMMINGS", 
+    "location_city": "BELLVILLE", 
+    "location_state": "TX", 
+    "location_zip": "77418", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bellvillehospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9798653141",
-    "provider_id": "450253",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "9798653141", 
+    "provider_id": "450253", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "77418"
 }

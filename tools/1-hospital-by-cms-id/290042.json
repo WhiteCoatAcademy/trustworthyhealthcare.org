@@ -1,38 +1,56 @@
 {
-    "address": "2170 EAST HARMON AVENUE",
-    "city": "LAS VEGAS",
-    "county_name": "CLARK",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "HARMON HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2170 EAST HARMON AVENUE", 
+    "city": "LAS VEGAS", 
+    "county_name": "CLARK", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "HARMON HOSPITAL", 
+    "hospital_overall_rating_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"2170 EAST HARMON AVENUE\",\"city\":\"LAS VEGAS\",\"state\":\"NV\",\"zip\":\"\"}",
-        "latitude": "36.107443568000065",
-        "longitude": "-115.12416562099997",
-        "needs_recoding": false
-    },
+        "coordinates": [
+            -115.121992, 
+            36.107369
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "2170 EAST HARMON AVENUE", 
+    "location_city": "LAS VEGAS", 
+    "location_state": "NV", 
+    "location_zip": "89119", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.fundltc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Fundamental Long Term Care Companies",
+        "name": "Fundamental Long Term Care Companies", 
         "websites": [
             "www.fundltc.com"
         ]
-    },
-    "phone_number": {
-        "phone_number": "7027940100"
-    },
-    "provider_id": "290042",
-    "raw_ratings": {},
-    "state": "NV",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "phone_number": "7027940100", 
+    "provider_id": "290042", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "state": "NV", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
     "zip_code": "89119"
 }

@@ -1,39 +1,49 @@
 {
-    "address": "901 ADAMS STREET",
-    "city": "AFTON",
-    "county_name": "LINCOLN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "STAR VALLEY MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "901 ADAMS STREET", 
+    "city": "AFTON", 
+    "county_name": "LINCOLN", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "STAR VALLEY MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -110.931009,
-            42.718962
-        ],
+            -110.931455, 
+            42.717384
+        ], 
         "type": "Point"
-    },
-    "location_address": "901 ADAMS STREET",
-    "location_city": "AFTON",
-    "location_state": "WY",
-    "location_zip": "83110",
+    }, 
+    "location_address": "901 ADAMS STREET", 
+    "location_city": "AFTON", 
+    "location_state": "WY", 
+    "location_zip": "83110", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.svmcwy.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3078855800",
-    "provider_id": "531313",
-    "raw_ratings": {},
-    "state": "WY",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3078855800", 
+    "provider_id": "531313", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "83110"
 }

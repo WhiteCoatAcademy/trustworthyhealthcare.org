@@ -1,39 +1,47 @@
 {
-    "address": "200 HAWKINS DRIVE",
-    "city": "IOWA CITY",
-    "county_name": "JOHNSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY OF IOWA HOSPITAL & CLINICS",
-    "hospital_ownership": "Government - State",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 HAWKINS DRIVE", 
+    "city": "IOWA CITY", 
+    "county_name": "JOHNSON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY OF IOWA HOSPITAL & CLINICS", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - State", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -91.550262,
-            41.660238
-        ],
+            -91.550828, 
+            41.661342
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 HAWKINS DRIVE",
-    "location_city": "IOWA CITY",
-    "location_state": "IA",
-    "location_zip": "52242",
+    }, 
+    "location_address": "200 HAWKINS DRIVE", 
+    "location_city": "IOWA CITY", 
+    "location_state": "IA", 
+    "location_zip": "52242", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.uihealthcare.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3193561616",
-    "provider_id": "160058",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3193561616", 
+    "provider_id": "160058", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "52242"
 }

@@ -1,41 +1,50 @@
 {
-    "address": "9515 HOLY CROSS LN",
-    "city": "BREESE",
-    "county_name": "CLINTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOSEPHS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "9515 HOLY CROSS LN", 
+    "city": "BREESE", 
+    "county_name": "CLINTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JOSEPHS HOSPITAL", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.523299,
-            38.625106
-        ],
+            -89.524944, 
+            38.625153
+        ], 
         "type": "Point"
-    },
-    "location_address": "9515 HOLY CROSS LN",
-    "location_city": "BREESE",
-    "location_state": "IL",
-    "location_zip": "62230",
+    }, 
+    "location_address": "9515 HOLY CROSS LN", 
+    "location_city": "BREESE", 
+    "location_state": "IL", 
+    "location_zip": "62230", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stjoebreese.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Hospital Sisters Health System",
+        "name": "Hospital Sisters Health System", 
         "websites": [
             "www.hshs.org"
         ]
-    },
-    "phone_number": "6185264511",
-    "provider_id": "140145",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6185264511", 
+    "provider_id": "140145", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "62230"
 }

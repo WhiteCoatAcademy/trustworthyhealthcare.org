@@ -1,41 +1,49 @@
 {
-    "address": "250 SOUTH 21ST STREET",
-    "city": "EASTON",
-    "county_name": "NORTHAMPTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "EASTON HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "250 SOUTH 21ST STREET", 
+    "city": "EASTON", 
+    "county_name": "NORTHAMPTON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "EASTON HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -75.242894,
-            40.686379
-        ],
+            -75.242897, 
+            40.686518
+        ], 
         "type": "Point"
-    },
-    "location_address": "250 SOUTH 21ST STREET",
-    "location_city": "EASTON",
-    "location_state": "PA",
-    "location_zip": "18042",
+    }, 
+    "location_address": "250 SOUTH 21ST STREET", 
+    "location_city": "EASTON", 
+    "location_state": "PA", 
+    "location_zip": "18042", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.easton-hospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "6102504076",
-    "provider_id": "390162",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6102504076", 
+    "provider_id": "390162", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "18042"
 }

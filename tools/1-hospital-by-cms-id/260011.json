@@ -1,41 +1,49 @@
 {
-    "address": "2505 MISSION DRIVE",
-    "city": "JEFFERSON CITY",
-    "county_name": "COLE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SSM HEALTH ST. MARY'S HOSPITAL - JEFFERSON CITY",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2505 MISSION DRIVE", 
+    "city": "JEFFERSON CITY", 
+    "county_name": "COLE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SSM HEALTH ST. MARY'S HOSPITAL - JEFFERSON CITY", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -92.220281,
-            38.560142
-        ],
+            -92.221073, 
+            38.559954
+        ], 
         "type": "Point"
-    },
-    "location_address": "2505 MISSION DRIVE",
-    "location_city": "JEFFERSON CITY",
-    "location_state": "MO",
-    "location_zip": "65109",
+    }, 
+    "location_address": "2505 MISSION DRIVE", 
+    "location_city": "JEFFERSON CITY", 
+    "location_state": "MO", 
+    "location_zip": "65109", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lethealingbegin.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "SSM Health Care",
+        "name": "SSM Health Care", 
         "websites": [
             "www.ssmhc.com"
         ]
-    },
-    "phone_number": "5736813000",
-    "provider_id": "260011",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5736813000", 
+    "provider_id": "260011", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "65109"
 }

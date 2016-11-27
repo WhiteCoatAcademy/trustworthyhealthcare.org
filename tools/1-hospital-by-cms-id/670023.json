@@ -1,41 +1,49 @@
 {
-    "address": "2700 E BROAD STREET",
-    "city": "MANSFIELD",
-    "county_name": "TARRANT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "METHODIST MANSFIELD MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2700 E BROAD STREET", 
+    "city": "MANSFIELD", 
+    "county_name": "TARRANT", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "METHODIST MANSFIELD MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.096962,
-            32.568584
-        ],
+            -97.095934, 
+            32.569085
+        ], 
         "type": "Point"
-    },
-    "location_address": "2700 E BROAD STREET",
-    "location_city": "MANSFIELD",
-    "location_state": "TX",
-    "location_zip": "76063",
+    }, 
+    "location_address": "2700 E BROAD STREET", 
+    "location_city": "MANSFIELD", 
+    "location_state": "TX", 
+    "location_zip": "76063", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.methodisthealthsystem.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Methodist Health System",
+        "name": "Methodist Health System", 
         "websites": [
             "www.methodisthealthsystem.org"
         ]
-    },
-    "phone_number": "6826222059",
-    "provider_id": "670023",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6826222059", 
+    "provider_id": "670023", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "76063"
 }

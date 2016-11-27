@@ -1,41 +1,50 @@
 {
-    "address": "1100 NEAL ZICK ROAD",
-    "city": "WILLARD",
-    "county_name": "HURON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY WILLARD HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1100 NEAL ZICK ROAD", 
+    "city": "WILLARD", 
+    "county_name": "HURON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY WILLARD HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -82.724,
+            -82.724, 
             41.048589
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1100 NEAL ZICK ROAD",
-    "location_city": "WILLARD",
-    "location_state": "OH",
-    "location_zip": "44890",
+    }, 
+    "location_address": "1100 NEAL ZICK ROAD", 
+    "location_city": "WILLARD", 
+    "location_state": "OH", 
+    "location_zip": "44890", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ehealthconnection.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare Partners",
+        "name": "Catholic Healthcare Partners", 
         "websites": [
             "www.health-partners.org"
         ]
-    },
-    "phone_number": "4199645000",
-    "provider_id": "361310",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4199645000", 
+    "provider_id": "361310", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "44890"
 }

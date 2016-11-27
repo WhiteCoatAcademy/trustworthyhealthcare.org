@@ -1,39 +1,48 @@
 {
-    "address": "200 SAINT CLAIR STREET",
-    "city": "SAINT MARYS",
-    "county_name": "AUGLAIZE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GRAND LAKE HEALTH SYSTEM",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 SAINT CLAIR STREET", 
+    "city": "SAINT MARYS", 
+    "county_name": "AUGLAIZE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GRAND LAKE HEALTH SYSTEM", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.369837,
-            40.545212
-        ],
+            -84.369836, 
+            40.545147
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 SAINT CLAIR STREET",
-    "location_city": "SAINT MARYS",
-    "location_state": "OH",
-    "location_zip": "45885",
+    }, 
+    "location_address": "200 SAINT CLAIR STREET", 
+    "location_city": "SAINT MARYS", 
+    "location_state": "OH", 
+    "location_zip": "45885", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.grandlakehealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4193943335",
-    "provider_id": "360032",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4193943335", 
+    "provider_id": "360032", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "45885"
 }

@@ -1,38 +1,47 @@
 {
-    "address": "126 HIGHWAY 280 W",
-    "city": "AMERICUS",
-    "county_name": "SUMTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PHOEBE SUMTER MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "126 HIGHWAY 280 W", 
+    "city": "AMERICUS", 
+    "county_name": "SUMTER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PHOEBE SUMTER MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"126 HIGHWAY 280 W\",\"city\":\"AMERICUS\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.063850853000076",
-        "longitude": "-84.25711580399997",
-        "needs_recoding": false
-    },
-    "location_address": "126 HIGHWAY 280 W",
-    "location_city": "AMERICUS",
-    "location_state": "GA",
-    "location_zip": "31719",
+        "coordinates": [
+            -84.25491, 
+            32.064365
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "126 HIGHWAY 280 W", 
+    "location_city": "AMERICUS", 
+    "location_state": "GA", 
+    "location_zip": "31719", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "sumter.fastcommand.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2299311280",
-    "provider_id": "110044",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2299311280", 
+    "provider_id": "110044", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "31719"
 }

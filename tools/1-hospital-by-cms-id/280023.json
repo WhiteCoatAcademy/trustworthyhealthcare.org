@@ -1,41 +1,50 @@
 {
-    "address": "2620 WEST FAIDLEY AVE",
-    "city": "GRAND ISLAND",
-    "county_name": "HALL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHI HEALTH ST FRANCIS",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2620 WEST FAIDLEY AVE", 
+    "city": "GRAND ISLAND", 
+    "county_name": "HALL", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHI HEALTH ST FRANCIS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -98.371692,
-            40.92428
-        ],
+            -98.370887, 
+            40.924267
+        ], 
         "type": "Point"
-    },
-    "location_address": "2620 WEST FAIDLEY AVE",
-    "location_city": "GRAND ISLAND",
-    "location_state": "NE",
-    "location_zip": "68803",
+    }, 
+    "location_address": "2620 WEST FAIDLEY AVE", 
+    "location_city": "GRAND ISLAND", 
+    "location_state": "NE", 
+    "location_zip": "68803", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.saintfrancisgi.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Health Initiatives",
+        "name": "Catholic Health Initiatives", 
         "websites": [
             "www.catholichealthinit.org"
         ]
-    },
-    "phone_number": "3083844600",
-    "provider_id": "280023",
-    "raw_ratings": {},
-    "state": "NE",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3083844600", 
+    "provider_id": "280023", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NE", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "68803"
 }

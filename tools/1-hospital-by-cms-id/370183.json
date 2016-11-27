@@ -1,40 +1,52 @@
 {
-    "address": "2401 W MAIN DEWEY BARTLETT AND MAIN",
-    "city": "HENRYETTA",
-    "county_name": "OKMULGEE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HILLCREST HOSPITAL HENRYETTA",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2401 W MAIN DEWEY BARTLETT AND MAIN", 
+    "city": "HENRYETTA", 
+    "county_name": "OKMULGEE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HILLCREST HOSPITAL HENRYETTA", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"DEWEY BARTLETT ST AND MAIN ST\",\"city\":\"HENRYETTA\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.43979340000004",
-        "longitude": "-96.01683737399998",
-        "needs_recoding": false
-    },
-    "location_address": "2401 W MAIN DEWEY BARTLETT AND MAIN",
-    "location_city": "HENRYETTA",
-    "location_state": "OK",
-    "location_zip": "74437",
+        "coordinates": [
+            -96.015496, 
+            35.439738
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "2401 W MAIN DEWEY BARTLETT AND MAIN", 
+    "location_city": "HENRYETTA", 
+    "location_state": "OK", 
+    "location_zip": "74437", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hillcrest.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ardent Health Services",
+        "name": "Ardent Health Services", 
         "websites": [
             "www.ardenthealth.com"
         ]
-    },
-    "phone_number": "9186151100",
-    "provider_id": "370183",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "9186501511", 
+    "provider_id": "370183", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "74437"
 }

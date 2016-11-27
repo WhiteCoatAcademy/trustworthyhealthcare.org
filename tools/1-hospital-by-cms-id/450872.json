@@ -1,39 +1,50 @@
 {
-    "address": "801 W INTERSTATE 20",
-    "city": "ARLINGTON",
-    "county_name": "TARRANT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "USMD HOSPITAL AT ARLINGTON L P",
-    "hospital_ownership": "Physician",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "801 W INTERSTATE 20", 
+    "city": "ARLINGTON", 
+    "county_name": "TARRANT", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "USMD HOSPITAL AT ARLINGTON L P", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Physician", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.117732,
-            32.678855
-        ],
+            -97.115971, 
+            32.679151
+        ], 
         "type": "Point"
-    },
-    "location_address": "801 W INTERSTATE 20",
-    "location_city": "ARLINGTON",
-    "location_state": "TX",
-    "location_zip": "76017",
+    }, 
+    "location_address": "801 W INTERSTATE 20", 
+    "location_city": "ARLINGTON", 
+    "location_state": "TX", 
+    "location_zip": "76017", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.usmdarlington.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8174723400",
-    "provider_id": "450872",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8174723400", 
+    "provider_id": "450872", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "76017"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "ONE CAPITAL WAY",
-    "city": "PENNINGTON",
-    "county_name": "MERCER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CAPITAL HEALTH MEDICAL CENTER - HOPEWELL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "ONE CAPITAL WAY", 
+    "city": "PENNINGTON", 
+    "county_name": "MERCER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CAPITAL HEALTH MEDICAL CENTER - HOPEWELL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.81099,
+            -74.81099, 
             40.29461
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "ONE CAPITAL WAY",
-    "location_city": "PENNINGTON",
-    "location_state": "NJ",
-    "location_zip": "08534",
+    }, 
+    "location_address": "ONE CAPITAL WAY", 
+    "location_city": "PENNINGTON", 
+    "location_state": "NJ", 
+    "location_zip": "08534", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.capitalhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Capital Health System",
+        "name": "Capital Health System", 
         "websites": [
             "www.capitalhealth.org"
         ]
-    },
-    "phone_number": "6093034000",
-    "provider_id": "310044",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6093034000", 
+    "provider_id": "310044", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "08534"
 }

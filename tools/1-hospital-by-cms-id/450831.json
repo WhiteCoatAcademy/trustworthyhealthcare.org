@@ -1,40 +1,55 @@
 {
-    "address": "4301 B VISTA",
-    "city": "PASADENA",
-    "county_name": "HARRIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SURGERY SPECIALTY HOSPITALS OF AMERICA SE HOUSTON",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4301 B VISTA", 
+    "city": "PASADENA", 
+    "county_name": "HARRIS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SURGERY SPECIALTY HOSPITALS OF AMERICA SE HOUSTON", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"4301 B VISTA\",\"city\":\"PASADENA\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "29.658711804000063",
-        "longitude": "-95.17787610299996",
-        "needs_recoding": false
-    },
-    "location_address": "4301 B VISTA",
-    "location_city": "PASADENA",
-    "location_state": "TX",
-    "location_zip": "77504",
+        "coordinates": [
+            -95.178161, 
+            29.658717
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "4301 B VISTA", 
+    "location_city": "PASADENA", 
+    "location_state": "TX", 
+    "location_zip": "77504", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.dynacq.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Dynacq Healthcare, Inc.",
+        "name": "Dynacq Healthcare, Inc.", 
         "websites": [
             "www.dynacq.com"
         ]
-    },
-    "phone_number": "7133783000",
-    "provider_id": "450831",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "7133783000", 
+    "provider_id": "450831", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "77504"
 }

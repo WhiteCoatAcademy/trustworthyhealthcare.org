@@ -1,39 +1,50 @@
 {
-    "address": "205 N CHERRY ST",
-    "city": "MAGNOLIA",
-    "county_name": "PIKE",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "BEACHAM MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "205 N CHERRY STREET", 
+    "city": "MAGNOLIA", 
+    "county_name": "PIKE", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "BEACHAM MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.459297,
-            31.145613
-        ],
+            -90.459291, 
+            31.145626
+        ], 
         "type": "Point"
-    },
-    "location_address": "205 N CHERRY ST",
-    "location_city": "MAGNOLIA",
-    "location_state": "MS",
-    "location_zip": "39652",
+    }, 
+    "location_address": "205 N CHERRY STREET", 
+    "location_city": "MAGNOLIA", 
+    "location_state": "MS", 
+    "location_zip": "39652", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.beachammemhos.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6017832351",
-    "provider_id": "250049",
-    "raw_ratings": {},
-    "state": "MS",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6017832353", 
+    "provider_id": "250049", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MS", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "39652"
 }

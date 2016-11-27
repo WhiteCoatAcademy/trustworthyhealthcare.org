@@ -1,39 +1,47 @@
 {
-    "address": "995 9TH AVENUE SOUTHWEST",
-    "city": "BESSEMER",
-    "county_name": "JEFFERSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEDICAL WEST, AN AFFILIATE OF UAB HEALTH SYSTEM",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "995 9TH AVENUE SOUTHWEST", 
+    "city": "BESSEMER", 
+    "county_name": "JEFFERSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEDICAL WEST, AN AFFILIATE OF UAB HEALTH SYSTEM", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.986239,
-            33.379573
-        ],
+            -86.991709, 
+            33.373086
+        ], 
         "type": "Point"
-    },
-    "location_address": "995 9TH AVENUE SOUTHWEST",
-    "location_city": "BESSEMER",
-    "location_state": "AL",
-    "location_zip": "35021",
+    }, 
+    "location_address": "995 9TH AVENUE SOUTHWEST", 
+    "location_city": "BESSEMER", 
+    "location_state": "AL", 
+    "location_zip": "35021", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.health.uab.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2054817000",
-    "provider_id": "010114",
-    "raw_ratings": {},
-    "state": "AL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2054817000", 
+    "provider_id": "010114", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "AL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "35021"
 }

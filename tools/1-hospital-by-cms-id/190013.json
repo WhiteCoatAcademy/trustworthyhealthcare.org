@@ -1,39 +1,47 @@
 {
-    "address": "701 EAST CYPRESS STREET",
-    "city": "SULPHUR",
-    "county_name": "CALCASIEU",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WEST CALCASIEU CAMERON HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "701 EAST CYPRESS STREET", 
+    "city": "SULPHUR", 
+    "county_name": "CALCASIEU", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WEST CALCASIEU CAMERON HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.368718,
+            -93.368718, 
             30.231058
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "701 EAST CYPRESS STREET",
-    "location_city": "SULPHUR",
-    "location_state": "LA",
-    "location_zip": "70663",
+    }, 
+    "location_address": "701 EAST CYPRESS STREET", 
+    "location_city": "SULPHUR", 
+    "location_state": "LA", 
+    "location_zip": "70663", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wcch.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3375277034",
-    "provider_id": "190013",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3375277034", 
+    "provider_id": "190013", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "70663"
 }

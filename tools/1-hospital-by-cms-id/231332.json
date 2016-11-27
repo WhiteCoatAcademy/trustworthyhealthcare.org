@@ -1,39 +1,48 @@
 {
-    "address": "408 HAZEN STREET",
-    "city": "PAW PAW",
-    "county_name": "VAN BUREN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BRONSON LAKEVIEW HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "408 HAZEN STREET", 
+    "city": "PAW PAW", 
+    "county_name": "VAN BUREN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BRONSON LAKEVIEW HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -85.897994,
-            42.221651
-        ],
+            -85.897993, 
+            42.221002
+        ], 
         "type": "Point"
-    },
-    "location_address": "408 HAZEN STREET",
-    "location_city": "PAW PAW",
-    "location_state": "MI",
-    "location_zip": "49079",
+    }, 
+    "location_address": "408 HAZEN STREET", 
+    "location_city": "PAW PAW", 
+    "location_state": "MI", 
+    "location_zip": "49079", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lakeviewcares.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2696571400",
-    "provider_id": "231332",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2696571400", 
+    "provider_id": "231332", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "49079"
 }

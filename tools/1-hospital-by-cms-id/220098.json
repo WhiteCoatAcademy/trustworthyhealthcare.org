@@ -1,41 +1,49 @@
 {
-    "address": "200 GROTON ROAD",
-    "city": "AYER",
-    "county_name": "MIDDLESEX",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NASHOBA VALLEY MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 GROTON ROAD", 
+    "city": "AYER", 
+    "county_name": "MIDDLESEX", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NASHOBA VALLEY MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -71.573063,
-            42.576384
-        ],
+            -71.573053, 
+            42.576412
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 GROTON ROAD",
-    "location_city": "AYER",
-    "location_state": "MA",
-    "location_zip": "01432",
+    }, 
+    "location_address": "200 GROTON ROAD", 
+    "location_city": "AYER", 
+    "location_state": "MA", 
+    "location_zip": "01432", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nashobamed.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Essent Healthcare",
+        "name": "Essent Healthcare", 
         "websites": [
             "www.essenthealthcare.com"
         ]
-    },
-    "phone_number": "9787849000",
-    "provider_id": "220098",
-    "raw_ratings": {},
-    "state": "MA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9787849000", 
+    "provider_id": "220098", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "01432"
 }

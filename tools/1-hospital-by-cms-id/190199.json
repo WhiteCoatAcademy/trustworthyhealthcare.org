@@ -1,41 +1,55 @@
 {
-    "address": "5002 HIGHWAY 10",
-    "city": "JACKSON",
-    "county_name": "EAST FELICIANA",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "VILLA FELICIANA MEDICAL COMPLEX",
-    "hospital_ownership": "Government - State",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5002 HIGHWAY 10", 
+    "city": "JACKSON", 
+    "county_name": "EAST FELICIANA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "VILLA FELICIANA MEDICAL COMPLEX", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Government - State", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -91.178356,
-            30.831248
-        ],
+            -91.157855, 
+            30.829622
+        ], 
         "type": "Point"
-    },
-    "location_address": "5002 HIGHWAY 10",
-    "location_city": "JACKSON",
-    "location_state": "LA",
-    "location_zip": "70748",
+    }, 
+    "location_address": "5002 HIGHWAY 10", 
+    "location_city": "JACKSON", 
+    "location_state": "LA", 
+    "location_zip": "70748", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.dhh.louisiana.gov"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Louisiana Department of Health and Hospitals",
+        "name": "Louisiana Department of Health and Hospitals", 
         "websites": [
             "www.dhh.louisiana.gov"
         ]
-    },
-    "phone_number": "2256344010",
-    "provider_id": "190199",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2256344010", 
+    "provider_id": "190199", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "70748"
 }

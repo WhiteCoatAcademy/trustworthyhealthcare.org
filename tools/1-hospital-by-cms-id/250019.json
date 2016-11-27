@@ -1,38 +1,47 @@
 {
-    "address": "4500 13TH ST-P O BOX 1810",
-    "city": "GULFPORT",
-    "county_name": "HARRISON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEMORIAL HOSPITAL AT GULFPORT",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4500 13TH ST-P O BOX 1810", 
+    "city": "GULFPORT", 
+    "county_name": "HARRISON", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEMORIAL HOSPITAL AT GULFPORT", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"4500 13TH ST-P O BOX 1810\",\"city\":\"GULFPORT\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "30.367292930000076",
-        "longitude": "-89.11375447799998",
-        "needs_recoding": false
-    },
-    "location_address": "4500 13TH ST-P O BOX 1810",
-    "location_city": "GULFPORT",
-    "location_state": "MS",
-    "location_zip": "39502",
+        "coordinates": [
+            -89.114904, 
+            30.366929
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "4500 13TH ST-P O BOX 1810", 
+    "location_city": "GULFPORT", 
+    "location_state": "MS", 
+    "location_zip": "39502", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.gulfportmemorial.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2288674000",
-    "provider_id": "250019",
-    "raw_ratings": {},
-    "state": "MS",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2288674000", 
+    "provider_id": "250019", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MS", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "39502"
 }

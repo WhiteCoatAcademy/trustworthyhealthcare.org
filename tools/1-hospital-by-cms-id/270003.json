@@ -1,39 +1,47 @@
 {
-    "address": "2475 BROADWAY",
-    "city": "HELENA",
-    "county_name": "LEWIS AND CLARK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST PETER'S HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2475 BROADWAY", 
+    "city": "HELENA", 
+    "county_name": "LEWIS AND CLARK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST PETER'S HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -111.994817,
-            46.584234
-        ],
+            -111.99754, 
+            46.584192
+        ], 
         "type": "Point"
-    },
-    "location_address": "2475 BROADWAY",
-    "location_city": "HELENA",
-    "location_state": "MT",
-    "location_zip": "59601",
+    }, 
+    "location_address": "2475 BROADWAY", 
+    "location_city": "HELENA", 
+    "location_state": "MT", 
+    "location_zip": "59601", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stpetes.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4064422480",
-    "provider_id": "270003",
-    "raw_ratings": {},
-    "state": "MT",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4064422480", 
+    "provider_id": "270003", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MT", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "59601"
 }

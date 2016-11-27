@@ -1,39 +1,51 @@
 {
-    "address": "9032 HARRY HINES BLVD",
-    "city": "DALLAS",
-    "county_name": "DALLAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PINE CREEK MEDICAL CENTER LLP",
-    "hospital_ownership": "Physician",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "9032 HARRY HINES BLVD", 
+    "city": "DALLAS", 
+    "county_name": "DALLAS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PINE CREEK MEDICAL CENTER LLP", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Physician", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.868953,
-            32.84026
-        ],
+            -96.869493, 
+            32.840714
+        ], 
         "type": "Point"
-    },
-    "location_address": "9032 HARRY HINES BLVD",
-    "location_city": "DALLAS",
-    "location_state": "TX",
-    "location_zip": "75235",
+    }, 
+    "location_address": "9032 HARRY HINES BLVD", 
+    "location_city": "DALLAS", 
+    "location_state": "TX", 
+    "location_zip": "75235", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pinecreekmedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2142312273",
-    "provider_id": "450894",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2142312273", 
+    "provider_id": "450894", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "75235"
 }

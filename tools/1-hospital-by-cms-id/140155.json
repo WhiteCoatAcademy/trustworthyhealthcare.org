@@ -1,41 +1,49 @@
 {
-    "address": "500 W COURT ST",
-    "city": "KANKAKEE",
-    "county_name": "KANKAKEE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PRESENCE ST MARYS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "500 W COURT ST", 
+    "city": "KANKAKEE", 
+    "county_name": "KANKAKEE", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PRESENCE ST MARYS HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.871754,
-            41.121136
-        ],
+            -87.871768, 
+            41.121113
+        ], 
         "type": "Point"
-    },
-    "location_address": "500 W COURT ST",
-    "location_city": "KANKAKEE",
-    "location_state": "IL",
-    "location_zip": "60901",
+    }, 
+    "location_address": "500 W COURT ST", 
+    "location_city": "KANKAKEE", 
+    "location_state": "IL", 
+    "location_zip": "60901", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.provena.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Provena Health",
+        "name": "Provena Health", 
         "websites": [
             "www.provena.org"
         ]
-    },
-    "phone_number": "8159372490",
-    "provider_id": "140155",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8159372490", 
+    "provider_id": "140155", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "60901"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "1201 7TH STREET SE",
-    "city": "DECATUR",
-    "county_name": "MORGAN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DECATUR MORGAN HOSPITAL-DECATUR CAMPUS",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1201 7TH STREET SE", 
+    "city": "DECATUR", 
+    "county_name": "MORGAN", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DECATUR MORGAN HOSPITAL-DECATUR CAMPUS", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.972786,
-            34.591169
-        ],
+            -86.972621, 
+            34.591168
+        ], 
         "type": "Point"
-    },
-    "location_address": "1201 7TH STREET SE",
-    "location_city": "DECATUR",
-    "location_state": "AL",
-    "location_zip": "35601",
+    }, 
+    "location_address": "1201 7TH STREET SE", 
+    "location_city": "DECATUR", 
+    "location_state": "AL", 
+    "location_zip": "35601", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.decaturgeneral.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2563412000",
-    "provider_id": "010085",
-    "raw_ratings": {},
-    "state": "AL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2563412000", 
+    "provider_id": "010085", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "AL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "35601"
 }

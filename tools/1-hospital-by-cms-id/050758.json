@@ -1,41 +1,50 @@
 {
-    "address": "5000 SAN BERNARDINO ST",
-    "city": "MONTCLAIR",
-    "county_name": "SAN BERNARDINO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MONTCLAIR HOSPITAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5000 SAN BERNARDINO ST", 
+    "city": "MONTCLAIR", 
+    "county_name": "SAN BERNARDINO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MONTCLAIR HOSPITAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.695812,
-            34.077663
-        ],
+            -117.696098, 
+            34.077662
+        ], 
         "type": "Point"
-    },
-    "location_address": "5000 SAN BERNARDINO ST",
-    "location_city": "MONTCLAIR",
-    "location_state": "CA",
-    "location_zip": "91763",
+    }, 
+    "location_address": "5000 SAN BERNARDINO ST", 
+    "location_city": "MONTCLAIR", 
+    "location_state": "CA", 
+    "location_zip": "91763", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.montclair-hospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Prime Healthcare Services, Inc.",
+        "name": "Prime Healthcare Services, Inc.", 
         "websites": [
             "www.primehealthcareservices.com"
         ]
-    },
-    "phone_number": "9096258300",
-    "provider_id": "050758",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9096258300", 
+    "provider_id": "050758", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "91763"
 }

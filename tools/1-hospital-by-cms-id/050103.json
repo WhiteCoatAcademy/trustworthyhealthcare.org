@@ -1,40 +1,49 @@
 {
-    "address": "1720 E CESAR AVENUE",
-    "city": "LOS ANGELES",
-    "county_name": "LOS ANGELES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WHITE MEMORIAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1720 E CESAR AVENUE", 
+    "city": "LOS ANGELES", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WHITE MEMORIAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"1720 E CESAR AVENUE\",\"city\":\"LOS ANGELES\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.05349148300007",
-        "longitude": "-118.24531979399995",
-        "needs_recoding": false
-    },
-    "location_address": "1720 E CESAR AVENUE",
-    "location_city": "LOS ANGELES",
-    "location_state": "CA",
-    "location_zip": "90033",
+        "coordinates": [
+            -118.212841, 
+            34.057391
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "1720 E CESAR AVENUE", 
+    "location_city": "LOS ANGELES", 
+    "location_state": "CA", 
+    "location_zip": "90033", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.whitememorial.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Adventist Health",
+        "name": "Adventist Health", 
         "websites": [
             "www.adventisthealth.com"
         ]
-    },
-    "phone_number": "3232685000",
-    "provider_id": "050103",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3232685000", 
+    "provider_id": "050103", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "90033"
 }

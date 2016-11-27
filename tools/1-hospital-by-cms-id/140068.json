@@ -1,39 +1,48 @@
 {
-    "address": "45 W 111TH STREET",
-    "city": "CHICAGO",
-    "county_name": "COOK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ROSELAND COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "45 W 111TH STREET", 
+    "city": "CHICAGO", 
+    "county_name": "COOK", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ROSELAND COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.625565,
-            41.692554
-        ],
+            -87.624734, 
+            41.692562
+        ], 
         "type": "Point"
-    },
-    "location_address": "45 W 111TH STREET",
-    "location_city": "CHICAGO",
-    "location_state": "IL",
-    "location_zip": "60628",
+    }, 
+    "location_address": "45 W 111TH STREET", 
+    "location_city": "CHICAGO", 
+    "location_state": "IL", 
+    "location_zip": "60628", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.roselandhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7739953000",
-    "provider_id": "140068",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7739953000", 
+    "provider_id": "140068", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "60628"
 }

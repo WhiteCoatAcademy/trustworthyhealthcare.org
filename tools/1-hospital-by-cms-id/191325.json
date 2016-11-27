@@ -1,39 +1,51 @@
 {
-    "address": "200 WEST 134TH PLACE",
-    "city": "CUT OFF",
-    "county_name": "LAFOURCHE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LADY OF THE SEA GENERAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "200 WEST 134TH PLACE", 
+    "city": "CUT OFF", 
+    "county_name": "LAFOURCHE", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LADY OF THE SEA GENERAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -90.31268,
-            29.455513
-        ],
+            -90.31043, 
+            29.456719
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 WEST 134TH PLACE",
-    "location_city": "CUT OFF",
-    "location_state": "LA",
-    "location_zip": "70345",
+    }, 
+    "location_address": "200 WEST 134TH PLACE", 
+    "location_city": "CUT OFF", 
+    "location_state": "LA", 
+    "location_zip": "70345", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.losgh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9856326401",
-    "provider_id": "191325",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9856326401", 
+    "provider_id": "191325", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "70345"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "27200 CALAROGA AVE",
-    "city": "HAYWARD",
-    "county_name": "ALAMEDA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST ROSE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "27200 CALAROGA AVE", 
+    "city": "HAYWARD", 
+    "county_name": "ALAMEDA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST ROSE HOSPITAL", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.089812,
-            37.633409
-        ],
+            -122.089742, 
+            37.63291
+        ], 
         "type": "Point"
-    },
-    "location_address": "27200 CALAROGA AVE",
-    "location_city": "HAYWARD",
-    "location_state": "CA",
-    "location_zip": "94545",
+    }, 
+    "location_address": "27200 CALAROGA AVE", 
+    "location_city": "HAYWARD", 
+    "location_state": "CA", 
+    "location_zip": "94545", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.strosehospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5107826200",
-    "provider_id": "050002",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5107826200", 
+    "provider_id": "050002", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "94545"
 }

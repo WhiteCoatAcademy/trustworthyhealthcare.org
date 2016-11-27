@@ -1,39 +1,47 @@
 {
-    "address": "600 MEDICAL CENTER DRIVE",
-    "city": "NEWTON",
-    "county_name": "HARVEY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NEWTON MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "600 MEDICAL CENTER DRIVE", 
+    "city": "NEWTON", 
+    "county_name": "HARVEY", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NEWTON MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.33654,
-            38.023034
-        ],
+            -97.335937, 
+            38.023035
+        ], 
         "type": "Point"
-    },
-    "location_address": "600 MEDICAL CENTER DRIVE",
-    "location_city": "NEWTON",
-    "location_state": "KS",
-    "location_zip": "67114",
+    }, 
+    "location_address": "600 MEDICAL CENTER DRIVE", 
+    "location_city": "NEWTON", 
+    "location_state": "KS", 
+    "location_zip": "67114", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.newtonmedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3162832700",
-    "provider_id": "170103",
-    "raw_ratings": {},
-    "state": "KS",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3162832700", 
+    "provider_id": "170103", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "KS", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "67114"
 }

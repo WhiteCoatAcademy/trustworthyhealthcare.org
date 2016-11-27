@@ -1,41 +1,49 @@
 {
-    "address": "2142 NORTH COVE BOULEVARD",
-    "city": "TOLEDO",
-    "county_name": "LUCAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TOLEDO HOSPITAL THE",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2142 NORTH COVE BOULEVARD", 
+    "city": "TOLEDO", 
+    "county_name": "LUCAS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TOLEDO HOSPITAL THE", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.594074,
-            41.671343
-        ],
+            -83.594834, 
+            41.670821
+        ], 
         "type": "Point"
-    },
-    "location_address": "2142 NORTH COVE BOULEVARD",
-    "location_city": "TOLEDO",
-    "location_state": "OH",
-    "location_zip": "43606",
+    }, 
+    "location_address": "2142 NORTH COVE BOULEVARD", 
+    "location_city": "TOLEDO", 
+    "location_state": "OH", 
+    "location_zip": "43606", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.promedica.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "ProMedica Health System",
+        "name": "ProMedica Health System", 
         "websites": [
             "www.promedica.org"
         ]
-    },
-    "phone_number": "4192917463",
-    "provider_id": "360068",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4192917463", 
+    "provider_id": "360068", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "43606"
 }

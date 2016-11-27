@@ -1,41 +1,49 @@
 {
-    "address": "501 WEST FRONT STREET, POST OFFICE BOX  1090",
-    "city": "ELMER",
-    "county_name": "SALEM",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "INSPIRA MEDICAL CENTER ELMER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "501 WEST FRONT STREET, POST OFFICE BOX  1090", 
+    "city": "ELMER", 
+    "county_name": "SALEM", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "INSPIRA MEDICAL CENTER ELMER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -75.179518,
-            39.588012
-        ],
+            -75.179457, 
+            39.588142
+        ], 
         "type": "Point"
-    },
-    "location_address": "501 WEST FRONT STREET, POST OFFICE BOX 1090",
-    "location_city": "ELMER",
-    "location_state": "NJ",
-    "location_zip": "08318",
+    }, 
+    "location_address": "501 WEST FRONT STREET, POST OFFICE BOX 1090", 
+    "location_city": "ELMER", 
+    "location_state": "NJ", 
+    "location_zip": "08318", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sjhs.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "South Jersey Healthcare",
+        "name": "South Jersey Healthcare", 
         "websites": [
             "www.sjhs.com"
         ]
-    },
-    "phone_number": "8565754500",
-    "provider_id": "310069",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8565754500", 
+    "provider_id": "310069", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "08318"
 }

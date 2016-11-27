@@ -1,41 +1,50 @@
 {
-    "address": "125 PARKER HILL AVENUE",
-    "city": "BOSTON",
-    "county_name": "SUFFOLK",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "NEW ENGLAND BAPTIST HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "125 PARKER HILL AVENUE", 
+    "city": "BOSTON", 
+    "county_name": "SUFFOLK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "NEW ENGLAND BAPTIST HOSPITAL", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -71.106294,
-            42.330025
-        ],
+            -71.107617, 
+            42.330368
+        ], 
         "type": "Point"
-    },
-    "location_address": "125 PARKER HILL AVENUE",
-    "location_city": "BOSTON",
-    "location_state": "MA",
-    "location_zip": "02120",
+    }, 
+    "location_address": "125 PARKER HILL AVENUE", 
+    "location_city": "BOSTON", 
+    "location_state": "MA", 
+    "location_zip": "02120", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nebh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "CareGroup Healthcare System",
+        "name": "CareGroup Healthcare System", 
         "websites": [
             "www.caregroup.org"
         ]
-    },
-    "phone_number": "6177545800",
-    "provider_id": "220088",
-    "raw_ratings": {},
-    "state": "MA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6177545800", 
+    "provider_id": "220088", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "02120"
 }

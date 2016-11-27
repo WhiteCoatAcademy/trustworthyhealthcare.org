@@ -1,41 +1,49 @@
 {
-    "address": "2949 WEST FRONT STREET",
-    "city": "RICHLANDS",
-    "county_name": "TAZEWELL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CLINCH VALLEY MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6801 GOVERNOR GC PERRY HIGHWAY", 
+    "city": "RICHLANDS", 
+    "county_name": "TAZEWELL", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CLINCH VALLEY MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.811633,
-            37.092442
-        ],
+            -81.819444, 
+            37.093978
+        ], 
         "type": "Point"
-    },
-    "location_address": "2949 WEST FRONT STREET",
-    "location_city": "RICHLANDS",
-    "location_state": "VA",
-    "location_zip": "24641",
+    }, 
+    "location_address": "6801 GOVERNOR GC PERRY HIGHWAY", 
+    "location_city": "RICHLANDS", 
+    "location_state": "VA", 
+    "location_zip": "24641", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.clinchvalleymedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "2765966000",
-    "provider_id": "490060",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2765966000", 
+    "provider_id": "490060", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "24641"
 }

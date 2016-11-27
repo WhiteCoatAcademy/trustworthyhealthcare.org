@@ -1,39 +1,50 @@
 {
-    "address": "621 3RD ST S",
-    "city": "GLASGOW",
-    "county_name": "VALLEY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FRANCES MAHON DEACONESS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "621 3RD ST S", 
+    "city": "GLASGOW", 
+    "county_name": "VALLEY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FRANCES MAHON DEACONESS HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -106.636382,
-            48.189871
-        ],
+            -106.636381, 
+            48.189437
+        ], 
         "type": "Point"
-    },
-    "location_address": "621 3RD ST S",
-    "location_city": "GLASGOW",
-    "location_state": "MT",
-    "location_zip": "59230",
+    }, 
+    "location_address": "621 3RD ST S", 
+    "location_city": "GLASGOW", 
+    "location_state": "MT", 
+    "location_zip": "59230", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.fmdh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4062283500",
-    "provider_id": "271316",
-    "raw_ratings": {},
-    "state": "MT",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4062283500", 
+    "provider_id": "271316", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MT", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "59230"
 }

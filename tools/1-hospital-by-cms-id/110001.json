@@ -1,41 +1,49 @@
 {
-    "address": "1200 MEMORIAL DRIVE",
-    "city": "DALTON",
-    "county_name": "WHITFIELD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HAMILTON MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1200 MEMORIAL DRIVE", 
+    "city": "DALTON", 
+    "county_name": "WHITFIELD", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HAMILTON MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.983657,
+            -84.983657, 
             34.788884
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1200 MEMORIAL DRIVE",
-    "location_city": "DALTON",
-    "location_state": "GA",
-    "location_zip": "30720",
+    }, 
+    "location_address": "1200 MEMORIAL DRIVE", 
+    "location_city": "DALTON", 
+    "location_state": "GA", 
+    "location_zip": "30720", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hamiltonhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Hamilton Health Care System",
+        "name": "Hamilton Health Care System", 
         "websites": [
             "www.hamiltonhealth.com"
         ]
-    },
-    "phone_number": "7062726105",
-    "provider_id": "110001",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7062726105", 
+    "provider_id": "110001", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "30720"
 }

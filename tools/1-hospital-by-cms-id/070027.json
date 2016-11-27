@@ -1,41 +1,49 @@
 {
-    "address": "71 HAYNES ST",
-    "city": "MANCHESTER",
-    "county_name": "HARTFORD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MANCHESTER MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "71 HAYNES ST", 
+    "city": "MANCHESTER", 
+    "county_name": "HARTFORD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MANCHESTER MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -72.525291,
-            41.781079
-        ],
+            -72.525221, 
+            41.781087
+        ], 
         "type": "Point"
-    },
-    "location_address": "71 HAYNES ST",
-    "location_city": "MANCHESTER",
-    "location_state": "CT",
-    "location_zip": "06040",
+    }, 
+    "location_address": "71 HAYNES ST", 
+    "location_city": "MANCHESTER", 
+    "location_state": "CT", 
+    "location_zip": "06040", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.echn.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Eastern Connecticut Health Network",
+        "name": "Eastern Connecticut Health Network", 
         "websites": [
             "www.echn.org"
         ]
-    },
-    "phone_number": "8606474780",
-    "provider_id": "070027",
-    "raw_ratings": {},
-    "state": "CT",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8606474780", 
+    "provider_id": "070027", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CT", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "06040"
 }

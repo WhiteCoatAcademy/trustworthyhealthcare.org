@@ -1,41 +1,53 @@
 {
-    "address": "1171 WEST TARGET RANGE ROAD",
-    "city": "NOGALES",
-    "county_name": "SANTA CRUZ",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HOLY CROSS HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1171 WEST TARGET RANGE ROAD", 
+    "city": "NOGALES", 
+    "county_name": "SANTA CRUZ", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HOLY CROSS HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -110.958787,
-            31.341113
-        ],
+            -110.955743, 
+            31.341614
+        ], 
         "type": "Point"
-    },
-    "location_address": "1171 WEST TARGET RANGE ROAD",
-    "location_city": "NOGALES",
-    "location_state": "AZ",
-    "location_zip": "85621",
+    }, 
+    "location_address": "1171 WEST TARGET RANGE ROAD", 
+    "location_city": "NOGALES", 
+    "location_state": "AZ", 
+    "location_zip": "85621", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.carondelet.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ascension Health",
+        "name": "Ascension Health", 
         "websites": [
             "www.ascensionhealth.org"
         ]
-    },
-    "phone_number": "5202853000",
-    "provider_id": "031313",
-    "raw_ratings": {},
-    "state": "AZ",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5202853000", 
+    "provider_id": "031313", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "AZ", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "85621"
 }

@@ -1,38 +1,48 @@
 {
-    "address": "5402 KELL WEST BOULEVARD",
-    "city": "WICHITA FALLS",
-    "county_name": "WICHITA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "KELL WEST REGIONAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5402 KELL WEST BOULEVARD", 
+    "city": "WICHITA FALLS", 
+    "county_name": "WICHITA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "KELL WEST REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"5402 KELL WEST BOULEVARD\",\"city\":\"WICHITA FALLS\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.87237726800004",
-        "longitude": "-98.57876286199996",
-        "needs_recoding": false
-    },
-    "location_address": "5402 KELL WEST BOULEVARD",
-    "location_city": "WICHITA FALLS",
-    "location_state": "TX",
-    "location_zip": "76310",
+        "coordinates": [
+            -98.578537, 
+            33.872379
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "5402 KELL WEST BOULEVARD", 
+    "location_city": "WICHITA FALLS", 
+    "location_state": "TX", 
+    "location_zip": "76310", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.kellwest.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9406925888",
-    "provider_id": "450827",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9406925888", 
+    "provider_id": "450827", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "76310"
 }

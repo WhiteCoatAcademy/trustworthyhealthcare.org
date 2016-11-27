@@ -1,41 +1,49 @@
 {
-    "address": "2700 DOLBEER ST",
-    "city": "EUREKA",
-    "county_name": "HUMBOLDT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOSEPH HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2700 DOLBEER ST", 
+    "city": "EUREKA", 
+    "county_name": "HUMBOLDT", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JOSEPH HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -124.142047,
-            40.782346
-        ],
+            -124.142041, 
+            40.782899
+        ], 
         "type": "Point"
-    },
-    "location_address": "2700 DOLBEER ST",
-    "location_city": "EUREKA",
-    "location_state": "CA",
-    "location_zip": "95501",
+    }, 
+    "location_address": "2700 DOLBEER ST", 
+    "location_city": "EUREKA", 
+    "location_state": "CA", 
+    "location_zip": "95501", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stjosepheureka.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Joseph Health System",
+        "name": "Saint Joseph Health System", 
         "websites": [
             "www.stjhs.org"
         ]
-    },
-    "phone_number": "7074458121",
-    "provider_id": "050006",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7074458121", 
+    "provider_id": "050006", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "95501"
 }

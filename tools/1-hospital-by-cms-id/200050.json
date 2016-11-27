@@ -1,39 +1,47 @@
 {
-    "address": "50 UNION STREET",
-    "city": "ELLSWORTH",
-    "county_name": "HANCOCK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MAINE COAST MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "50 UNION STREET", 
+    "city": "ELLSWORTH", 
+    "county_name": "HANCOCK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MAINE COAST MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -68.415371,
-            44.546828
-        ],
+            -68.415526, 
+            44.546574
+        ], 
         "type": "Point"
-    },
-    "location_address": "50 UNION STREET",
-    "location_city": "ELLSWORTH",
-    "location_state": "ME",
-    "location_zip": "04605",
+    }, 
+    "location_address": "50 UNION STREET", 
+    "location_city": "ELLSWORTH", 
+    "location_state": "ME", 
+    "location_zip": "04605", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mainehospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2076675311",
-    "provider_id": "200050",
-    "raw_ratings": {},
-    "state": "ME",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2076675311", 
+    "provider_id": "200050", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "ME", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "04605"
 }

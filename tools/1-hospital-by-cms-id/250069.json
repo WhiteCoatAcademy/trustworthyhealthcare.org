@@ -1,41 +1,49 @@
 {
-    "address": "1314 19TH AVE",
-    "city": "MERIDIAN",
-    "county_name": "LAUDERDALE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "RUSH FOUNDATION HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1314 19TH AVE", 
+    "city": "MERIDIAN", 
+    "county_name": "LAUDERDALE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "RUSH FOUNDATION HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.697785,
-            32.369974
-        ],
+            -88.697781, 
+            32.370478
+        ], 
         "type": "Point"
-    },
-    "location_address": "1314 19TH AVE",
-    "location_city": "MERIDIAN",
-    "location_state": "MS",
-    "location_zip": "39301",
+    }, 
+    "location_address": "1314 19TH AVE", 
+    "location_city": "MERIDIAN", 
+    "location_state": "MS", 
+    "location_zip": "39301", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.rushhealthsystems.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Rush Health Systems",
+        "name": "Rush Health Systems", 
         "websites": [
             "www.rushhealthsystems.org"
         ]
-    },
-    "phone_number": "6014830011",
-    "provider_id": "250069",
-    "raw_ratings": {},
-    "state": "MS",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6014830011", 
+    "provider_id": "250069", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MS", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "39301"
 }

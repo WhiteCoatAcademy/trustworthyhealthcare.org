@@ -1,39 +1,49 @@
 {
-    "address": "520 MEDICAL DRIVE",
-    "city": "GUYMON",
-    "county_name": "TEXAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEMORIAL HOSPITAL OF TEXAS COUNTY",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "520 MEDICAL DRIVE", 
+    "city": "GUYMON", 
+    "county_name": "TEXAS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEMORIAL HOSPITAL OF TEXAS COUNTY AUTHORITY", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -101.475105,
-            36.690725
-        ],
+            -101.475312, 
+            36.690729
+        ], 
         "type": "Point"
-    },
-    "location_address": "520 MEDICAL DRIVE",
-    "location_city": "GUYMON",
-    "location_state": "OK",
-    "location_zip": "73942",
+    }, 
+    "location_address": "520 MEDICAL DRIVE", 
+    "location_city": "GUYMON", 
+    "location_state": "OK", 
+    "location_zip": "73942", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mhtcguymon.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5803386515",
-    "provider_id": "370138",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5803386515", 
+    "provider_id": "370138", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "73942"
 }

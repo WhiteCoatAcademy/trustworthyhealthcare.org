@@ -1,40 +1,53 @@
 {
-    "address": "331 NORTH 400 WEST",
-    "city": "OREM",
-    "county_name": "UTAH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OREM COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "331 NORTH 400 WEST", 
+    "city": "OREM", 
+    "county_name": "UTAH", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OREM COMMUNITY HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"331 NORTH 400 WEST\",\"city\":\"OREM\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "40.30326027600006",
-        "longitude": "-111.70545684599995",
-        "needs_recoding": false
-    },
-    "location_address": "331 NORTH 400 WEST",
-    "location_city": "OREM",
-    "location_state": "UT",
-    "location_zip": "84057",
+        "coordinates": [
+            -111.705407, 
+            40.303255
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "331 NORTH 400 WEST", 
+    "location_city": "OREM", 
+    "location_state": "UT", 
+    "location_zip": "84057", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Intermountain Health Care, Inc",
+        "name": "Intermountain Health Care, Inc", 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "phone_number": "8017143307",
-    "provider_id": "460043",
-    "raw_ratings": {},
-    "state": "UT",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8017143307", 
+    "provider_id": "460043", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "UT", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "84057"
 }

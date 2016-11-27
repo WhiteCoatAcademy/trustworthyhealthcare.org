@@ -1,39 +1,47 @@
 {
-    "address": "500 E MARKET STREET",
-    "city": "IOWA CITY",
-    "county_name": "JOHNSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "500 E MARKET STREET", 
+    "city": "IOWA CITY", 
+    "county_name": "JOHNSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY HOSPITAL", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -91.528684,
+            -91.528653, 
             41.663541
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "500 E MARKET STREET",
-    "location_city": "IOWA CITY",
-    "location_state": "IA",
-    "location_zip": "52245",
+    }, 
+    "location_address": "500 E MARKET STREET", 
+    "location_city": "IOWA CITY", 
+    "location_state": "IA", 
+    "location_zip": "52245", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mercyic.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3193390300",
-    "provider_id": "160029",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3193390300", 
+    "provider_id": "160029", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "52245"
 }

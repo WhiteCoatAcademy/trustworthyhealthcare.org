@@ -1,39 +1,47 @@
 {
-    "address": "3280 JOE BATTLE BLVD",
-    "city": "EL PASO",
-    "county_name": "EL PASO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SIERRA PROVIDENCE EAST MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3280 JOE BATTLE BLVD", 
+    "city": "EL PASO", 
+    "county_name": "EL PASO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SIERRA PROVIDENCE EAST MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -106.267642,
-            31.790511
-        ],
+            -106.267644, 
+            31.790435
+        ], 
         "type": "Point"
-    },
-    "location_address": "3280 JOE BATTLE BLVD",
-    "location_city": "EL PASO",
-    "location_state": "TX",
-    "location_zip": "79938",
+    }, 
+    "location_address": "3280 JOE BATTLE BLVD", 
+    "location_city": "EL PASO", 
+    "location_state": "TX", 
+    "location_zip": "79938", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9158567349",
-    "provider_id": "670047",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9158567349", 
+    "provider_id": "670047", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "79938"
 }

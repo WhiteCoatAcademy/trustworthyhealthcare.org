@@ -1,41 +1,55 @@
 {
-    "address": "375 LAGUNA HONDA BLVD",
-    "city": "SAN FRANCISCO",
-    "county_name": "SAN FRANCISCO",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "LAGUNA HONDA HOSPITAL & REHABILITATION CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "375 LAGUNA HONDA BLVD", 
+    "city": "SAN FRANCISCO", 
+    "county_name": "SAN FRANCISCO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "LAGUNA HONDA HOSPITAL & REHABILITATION CENTER", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.458778,
-            37.74755
-        ],
+            -122.458636, 
+            37.747824
+        ], 
         "type": "Point"
-    },
-    "location_address": "375 LAGUNA HONDA BLVD",
-    "location_city": "SAN FRANCISCO",
-    "location_state": "CA",
-    "location_zip": "94116",
+    }, 
+    "location_address": "375 LAGUNA HONDA BLVD", 
+    "location_city": "SAN FRANCISCO", 
+    "location_state": "CA", 
+    "location_zip": "94116", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.dph.sf.ca.us"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "San Francisco Department of Public Health",
+        "name": "San Francisco Department of Public Health", 
         "websites": [
             "www.dph.sf.ca.us"
         ]
-    },
-    "phone_number": "4157592300",
-    "provider_id": "050668",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "4157592300", 
+    "provider_id": "050668", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "94116"
 }

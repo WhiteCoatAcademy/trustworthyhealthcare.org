@@ -1,39 +1,47 @@
 {
-    "address": "1300 ANNE ST NW",
-    "city": "BEMIDJI",
-    "county_name": "BELTRAMI",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SANFORD BEMIDJI MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1300 ANNE ST NW", 
+    "city": "BEMIDJI", 
+    "county_name": "BELTRAMI", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SANFORD BEMIDJI MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.898428,
-            47.505011
-        ],
+            -94.898125, 
+            47.505009
+        ], 
         "type": "Point"
-    },
-    "location_address": "1300 ANNE ST NW",
-    "location_city": "BEMIDJI",
-    "location_state": "MN",
-    "location_zip": "56601",
+    }, 
+    "location_address": "1300 ANNE ST NW", 
+    "location_city": "BEMIDJI", 
+    "location_state": "MN", 
+    "location_zip": "56601", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nchs.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2187515430",
-    "provider_id": "240100",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2187515430", 
+    "provider_id": "240100", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "56601"
 }

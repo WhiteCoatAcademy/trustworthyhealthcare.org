@@ -1,41 +1,49 @@
 {
-    "address": "5501 NORTH PORTLAND AVENUE",
-    "city": "OKLAHOMA CITY",
-    "county_name": "OKLAHOMA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ALLIANCEHEALTH DEACONESS",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5501 NORTH PORTLAND AVENUE", 
+    "city": "OKLAHOMA CITY", 
+    "county_name": "OKLAHOMA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ALLIANCEHEALTH DEACONESS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.583433,
-            35.525314
-        ],
+            -97.583441, 
+            35.526214
+        ], 
         "type": "Point"
-    },
-    "location_address": "5501 NORTH PORTLAND AVENUE",
-    "location_city": "OKLAHOMA CITY",
-    "location_state": "OK",
-    "location_zip": "73112",
+    }, 
+    "location_address": "5501 NORTH PORTLAND AVENUE", 
+    "location_city": "OKLAHOMA CITY", 
+    "location_state": "OK", 
+    "location_zip": "73112", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.deaconessokc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "4056046109",
-    "provider_id": "370032",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4056046109", 
+    "provider_id": "370032", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "73112"
 }

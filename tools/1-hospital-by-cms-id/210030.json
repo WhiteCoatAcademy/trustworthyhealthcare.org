@@ -1,41 +1,56 @@
 {
-    "address": "100 BROWN STREET",
-    "city": "CHESTERTOWN",
-    "county_name": "KENT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY OF MD SHORE MEDICAL CTR AT CHESTERTOWN",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 BROWN STREET", 
+    "city": "CHESTERTOWN", 
+    "county_name": "KENT", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY OF MD SHORE MEDICAL CTR AT CHESTERTOWN", 
+    "hospital_overall_rating_footnote": "Data suppressed by CMS for one or more quarters", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.064938,
-            39.216662
-        ],
+            -76.064527, 
+            39.21683
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 BROWN STREET",
-    "location_city": "CHESTERTOWN",
-    "location_state": "MD",
-    "location_zip": "21620",
+    }, 
+    "location_address": "100 BROWN STREET", 
+    "location_city": "CHESTERTOWN", 
+    "location_state": "MD", 
+    "location_zip": "21620", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.chesterriverhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University of Maryland Medical System",
+        "name": "University of Maryland Medical System", 
         "websites": [
             "www.umms.org"
         ]
-    },
-    "phone_number": "4107787668",
-    "provider_id": "210030",
-    "raw_ratings": {},
-    "state": "MD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "phone_number": "4107787668", 
+    "provider_id": "210030", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "state": "MD", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "zip_code": "21620"
 }

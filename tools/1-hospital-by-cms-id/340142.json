@@ -1,39 +1,47 @@
 {
-    "address": "3500 ARENDELL ST",
-    "city": "MOREHEAD CITY",
-    "county_name": "CARTERET",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CARTERET GENERAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3500 ARENDELL ST", 
+    "city": "MOREHEAD CITY", 
+    "county_name": "CARTERET", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CARTERET GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.754148,
-            34.724692
-        ],
+            -76.754134, 
+            34.724815
+        ], 
         "type": "Point"
-    },
-    "location_address": "3500 ARENDELL ST",
-    "location_city": "MOREHEAD CITY",
-    "location_state": "NC",
-    "location_zip": "28557",
+    }, 
+    "location_address": "3500 ARENDELL ST", 
+    "location_city": "MOREHEAD CITY", 
+    "location_state": "NC", 
+    "location_zip": "28557", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ccgh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2528086000",
-    "provider_id": "340142",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2528086000", 
+    "provider_id": "340142", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "28557"
 }

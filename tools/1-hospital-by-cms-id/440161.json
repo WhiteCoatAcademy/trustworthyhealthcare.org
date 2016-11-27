@@ -1,41 +1,49 @@
 {
-    "address": "2300 PATTERSON STREET",
-    "city": "NASHVILLE",
-    "county_name": "DAVIDSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TRISTAR CENTENNIAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2300 PATTERSON STREET", 
+    "city": "NASHVILLE", 
+    "county_name": "DAVIDSON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TRISTAR CENTENNIAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.808599,
-            36.152463
-        ],
+            -86.807646, 
+            36.152907
+        ], 
         "type": "Point"
-    },
-    "location_address": "2300 PATTERSON STREET",
-    "location_city": "NASHVILLE",
-    "location_state": "TN",
-    "location_zip": "37203",
+    }, 
+    "location_address": "2300 PATTERSON STREET", 
+    "location_city": "NASHVILLE", 
+    "location_state": "TN", 
+    "location_zip": "37203", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.centennialmedctr.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "6153421000",
-    "provider_id": "440161",
-    "raw_ratings": {},
-    "state": "TN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6153421000", 
+    "provider_id": "440161", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "37203"
 }

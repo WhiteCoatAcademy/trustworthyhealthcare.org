@@ -1,41 +1,49 @@
 {
-    "address": "1001 PROVIDENCE DRIVE",
-    "city": "NEWBERG",
-    "county_name": "YAMHILL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PROVIDENCE NEWBERG MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1001 PROVIDENCE DRIVE", 
+    "city": "NEWBERG", 
+    "county_name": "YAMHILL", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PROVIDENCE NEWBERG MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.933955,
-            45.308689
-        ],
+            -122.933913, 
+            45.308552
+        ], 
         "type": "Point"
-    },
-    "location_address": "1001 PROVIDENCE DRIVE",
-    "location_city": "NEWBERG",
-    "location_state": "OR",
-    "location_zip": "97132",
+    }, 
+    "location_address": "1001 PROVIDENCE DRIVE", 
+    "location_city": "NEWBERG", 
+    "location_state": "OR", 
+    "location_zip": "97132", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.providence.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Providence Health System",
+        "name": "Providence Health System", 
         "websites": [
             "www.providence.org"
         ]
-    },
-    "phone_number": "5035371555",
-    "provider_id": "380037",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5035371555", 
+    "provider_id": "380037", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "97132"
 }

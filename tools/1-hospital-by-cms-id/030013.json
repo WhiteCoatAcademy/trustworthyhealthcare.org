@@ -1,39 +1,47 @@
 {
-    "address": "2400 SOUTH AVENUE A",
-    "city": "YUMA",
-    "county_name": "YUMA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "YUMA REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2400 SOUTH AVENUE A", 
+    "city": "YUMA", 
+    "county_name": "YUMA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "YUMA REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -114.633239,
-            32.683963
-        ],
+            -114.633238, 
+            32.683899
+        ], 
         "type": "Point"
-    },
-    "location_address": "2400 SOUTH AVENUE A",
-    "location_city": "YUMA",
-    "location_state": "AZ",
-    "location_zip": "85364",
+    }, 
+    "location_address": "2400 SOUTH AVENUE A", 
+    "location_city": "YUMA", 
+    "location_state": "AZ", 
+    "location_zip": "85364", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.yumaregional.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9283367275",
-    "provider_id": "030013",
-    "raw_ratings": {},
-    "state": "AZ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9283367600", 
+    "provider_id": "030013", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "AZ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "85364"
 }

@@ -1,41 +1,52 @@
 {
-    "address": "101 DUDLEY STREET",
-    "city": "PROVIDENCE",
-    "county_name": "PROVIDENCE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WOMEN AND INFANTS HOSPITAL OF RHODE ISLAND",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "101 DUDLEY STREET", 
+    "city": "PROVIDENCE", 
+    "county_name": "PROVIDENCE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WOMEN AND INFANTS HOSPITAL OF RHODE ISLAND", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -71.411209,
-            41.810239
-        ],
+            -71.411562, 
+            41.8102
+        ], 
         "type": "Point"
-    },
-    "location_address": "101 DUDLEY STREET",
-    "location_city": "PROVIDENCE",
-    "location_state": "RI",
-    "location_zip": "02905",
+    }, 
+    "location_address": "101 DUDLEY STREET", 
+    "location_city": "PROVIDENCE", 
+    "location_state": "RI", 
+    "location_zip": "02905", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.womenandinfants.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Care New England Health System",
+        "name": "Care New England Health System", 
         "websites": [
             "www.carenewengland.org"
         ]
-    },
-    "phone_number": "4012741100",
-    "provider_id": "410010",
-    "raw_ratings": {},
-    "state": "RI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4012741100", 
+    "provider_id": "410010", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "RI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "02905"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "2501 NORTH PATTERSON STREET, PO BOX 1727",
-    "city": "VALDOSTA",
-    "county_name": "LOWNDES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOUTH GEORGIA MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2501 NORTH PATTERSON STREET, PO BOX 1727", 
+    "city": "VALDOSTA", 
+    "county_name": "LOWNDES", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTH GEORGIA MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.288877,
-            30.860933
-        ],
+            -83.288863, 
+            30.86175
+        ], 
         "type": "Point"
-    },
-    "location_address": "2501 NORTH PATTERSON STREET, PO BOX 1727",
-    "location_city": "VALDOSTA",
-    "location_state": "GA",
-    "location_zip": "31603",
+    }, 
+    "location_address": "2501 NORTH PATTERSON STREET, PO BOX 1727", 
+    "location_city": "VALDOSTA", 
+    "location_state": "GA", 
+    "location_zip": "31603", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sgmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2293331020",
-    "provider_id": "110122",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2293331020", 
+    "provider_id": "110122", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "31603"
 }

@@ -1,40 +1,49 @@
 {
-    "address": "1402 E COUNTY LINE RD S",
-    "city": "INDIANAPOLIS",
-    "county_name": "MARION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COMMUNITY HOSPITAL SOUTH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1402 E COUNTY LINE RD S", 
+    "city": "INDIANAPOLIS", 
+    "county_name": "MARION", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COMMUNITY HOSPITAL SOUTH", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"1402 E COUNTY LINE RD S\",\"city\":\"INDIANAPOLIS\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.63557749200004",
-        "longitude": "-86.13257038899997",
-        "needs_recoding": false
-    },
-    "location_address": "1402 E COUNTY LINE RD S",
-    "location_city": "INDIANAPOLIS",
-    "location_state": "IN",
-    "location_zip": "46227",
+        "coordinates": [
+            -86.133908, 
+            39.635538
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "1402 E COUNTY LINE RD S", 
+    "location_city": "INDIANAPOLIS", 
+    "location_state": "IN", 
+    "location_zip": "46227", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ecommunity.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Network",
+        "name": "Community Health Network", 
         "websites": [
             "www.ecommunity.com"
         ]
-    },
-    "phone_number": "3178877000",
-    "provider_id": "150128",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3178877000", 
+    "provider_id": "150128", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "46227"
 }

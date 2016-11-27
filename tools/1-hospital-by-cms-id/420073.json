@@ -1,39 +1,47 @@
 {
-    "address": "2720 SUNSET BLVD",
-    "city": "WEST COLUMBIA",
-    "county_name": "LEXINGTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LEXINGTON MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2720 SUNSET BLVD", 
+    "city": "WEST COLUMBIA", 
+    "county_name": "LEXINGTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LEXINGTON MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.114848,
-            34.004483
-        ],
+            -81.114361, 
+            34.004403
+        ], 
         "type": "Point"
-    },
-    "location_address": "2720 SUNSET BLVD",
-    "location_city": "WEST COLUMBIA",
-    "location_state": "SC",
-    "location_zip": "29169",
+    }, 
+    "location_address": "2720 SUNSET BLVD", 
+    "location_city": "WEST COLUMBIA", 
+    "location_state": "SC", 
+    "location_zip": "29169", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lexmed.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8037912000",
-    "provider_id": "420073",
-    "raw_ratings": {},
-    "state": "SC",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8037912000", 
+    "provider_id": "420073", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "SC", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "29169"
 }

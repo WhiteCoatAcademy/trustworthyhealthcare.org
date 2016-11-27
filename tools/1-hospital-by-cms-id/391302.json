@@ -1,41 +1,53 @@
 {
-    "address": "200 HOSPITAL DRIVE",
-    "city": "MYERSDALE",
-    "county_name": "SOMERSET",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEYERSDALE MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "200 HOSPITAL DRIVE", 
+    "city": "MYERSDALE", 
+    "county_name": "SOMERSET", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEYERSDALE MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -79.026068,
-            39.80843
-        ],
+            -79.025423, 
+            39.809217
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 HOSPITAL DRIVE",
-    "location_city": "MYERSDALE",
-    "location_state": "PA",
-    "location_zip": "15552",
+    }, 
+    "location_address": "200 HOSPITAL DRIVE", 
+    "location_city": "MYERSDALE", 
+    "location_state": "PA", 
+    "location_zip": "15552", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.conemaugh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Conemaugh Health System",
+        "name": "Conemaugh Health System", 
         "websites": [
             "www.conemaugh.org"
         ]
-    },
-    "phone_number": "8146345911",
-    "provider_id": "391302",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "8146345911", 
+    "provider_id": "391302", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "15552"
 }

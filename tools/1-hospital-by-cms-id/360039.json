@@ -1,41 +1,49 @@
 {
-    "address": "2951 MAPLE AVENUE",
-    "city": "ZANESVILLE",
-    "county_name": "MUSKINGUM",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GENESIS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2951 MAPLE AVENUE", 
+    "city": "ZANESVILLE", 
+    "county_name": "MUSKINGUM", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GENESIS HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.013473,
-            39.975279
-        ],
+            -82.013639, 
+            39.975378
+        ], 
         "type": "Point"
-    },
-    "location_address": "2951 MAPLE AVENUE",
-    "location_city": "ZANESVILLE",
-    "location_state": "OH",
-    "location_zip": "43701",
+    }, 
+    "location_address": "2951 MAPLE AVENUE", 
+    "location_city": "ZANESVILLE", 
+    "location_state": "OH", 
+    "location_zip": "43701", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.genesishcs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Genesis HealthCare System",
+        "name": "Genesis HealthCare System", 
         "websites": [
             "www.genesishcs.org"
         ]
-    },
-    "phone_number": "7404545000",
-    "provider_id": "360039",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7404545000", 
+    "provider_id": "360039", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "43701"
 }

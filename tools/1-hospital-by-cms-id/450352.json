@@ -1,41 +1,49 @@
 {
-    "address": "4215 JOE RAMSEY BLVD",
-    "city": "GREENVILLE",
-    "county_name": "HUNT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HUNT REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4215 JOE RAMSEY BLVD", 
+    "city": "GREENVILLE", 
+    "county_name": "HUNT", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HUNT REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.123204,
-            33.123657
-        ],
+            -96.123229, 
+            33.123429
+        ], 
         "type": "Point"
-    },
-    "location_address": "4215 JOE RAMSEY BLVD",
-    "location_city": "GREENVILLE",
-    "location_state": "TX",
-    "location_zip": "75401",
+    }, 
+    "location_address": "4215 JOE RAMSEY BLVD", 
+    "location_city": "GREENVILLE", 
+    "location_state": "TX", 
+    "location_zip": "75401", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hmhd.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Hunt Memorial Hospital District",
+        "name": "Hunt Memorial Hospital District", 
         "websites": [
             "www.hmhd.org"
         ]
-    },
-    "phone_number": "9034085000",
-    "provider_id": "450352",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9034085000", 
+    "provider_id": "450352", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75401"
 }

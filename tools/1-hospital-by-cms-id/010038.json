@@ -1,41 +1,49 @@
 {
-    "address": "301 EAST 18TH ST",
-    "city": "ANNISTON",
-    "county_name": "CALHOUN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "STRINGFELLOW MEMORIAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "301 EAST 18TH ST", 
+    "city": "ANNISTON", 
+    "county_name": "CALHOUN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "STRINGFELLOW MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.825025,
+            -85.825025, 
             33.667701
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "301 EAST 18TH ST",
-    "location_city": "ANNISTON",
-    "location_state": "AL",
-    "location_zip": "36201",
+    }, 
+    "location_address": "301 EAST 18TH ST", 
+    "location_city": "ANNISTON", 
+    "location_state": "AL", 
+    "location_zip": "36201", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.smhhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Health Management Associates, Inc.",
+        "name": "Health Management Associates, Inc.", 
         "websites": [
             "www.hma.com"
         ]
-    },
-    "phone_number": "2562358900",
-    "provider_id": "010038",
-    "raw_ratings": {},
-    "state": "AL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2562358900", 
+    "provider_id": "010038", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "AL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "36201"
 }

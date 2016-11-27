@@ -1,41 +1,49 @@
 {
-    "address": "1401 W SEMINOLE BLVD",
-    "city": "SANFORD",
-    "county_name": "SEMINOLE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CENTRAL FLORIDA REGIONAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1401 W SEMINOLE BLVD", 
+    "city": "SANFORD", 
+    "county_name": "SEMINOLE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CENTRAL FLORIDA REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.283623,
-            28.816185
-        ],
+            -81.283577, 
+            28.816202
+        ], 
         "type": "Point"
-    },
-    "location_address": "1401 W SEMINOLE BLVD",
-    "location_city": "SANFORD",
-    "location_state": "FL",
-    "location_zip": "32771",
+    }, 
+    "location_address": "1401 W SEMINOLE BLVD", 
+    "location_city": "SANFORD", 
+    "location_state": "FL", 
+    "location_zip": "32771", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.centralfloridaregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "4073214500",
-    "provider_id": "100161",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4073214500", 
+    "provider_id": "100161", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "32771"
 }

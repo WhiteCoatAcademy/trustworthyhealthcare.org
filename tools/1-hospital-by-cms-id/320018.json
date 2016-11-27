@@ -1,41 +1,49 @@
 {
-    "address": "2450 SOUTH TELSHOR BLVD",
-    "city": "LAS CRUCES",
-    "county_name": "DONA ANA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEMORIAL MEDICAL CENTER INC",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2450 SOUTH TELSHOR BLVD", 
+    "city": "LAS CRUCES", 
+    "county_name": "DONA ANA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEMORIAL MEDICAL CENTER INC", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -106.735018,
+            -106.735018, 
             32.291993
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2450 SOUTH TELSHOR BLVD",
-    "location_city": "LAS CRUCES",
-    "location_state": "NM",
-    "location_zip": "88011",
+    }, 
+    "location_address": "2450 SOUTH TELSHOR BLVD", 
+    "location_city": "LAS CRUCES", 
+    "location_state": "NM", 
+    "location_zip": "88011", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mmclc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "5755228641",
-    "provider_id": "320018",
-    "raw_ratings": {},
-    "state": "NM",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5755228641", 
+    "provider_id": "320018", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NM", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "88011"
 }

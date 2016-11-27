@@ -1,39 +1,47 @@
 {
-    "address": "1020 SOUTH STATE HIGHWAY 16",
-    "city": "FREDERICKSBURG",
-    "county_name": "GILLESPIE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HILL COUNTRY MEMORIAL HOSPITAL INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1020 SOUTH STATE HIGHWAY 16", 
+    "city": "FREDERICKSBURG", 
+    "county_name": "GILLESPIE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HILL COUNTRY MEMORIAL HOSPITAL INC", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -98.87925,
-            30.26328
-        ],
+            -98.880763, 
+            30.262004
+        ], 
         "type": "Point"
-    },
-    "location_address": "1020 SOUTH STATE HIGHWAY 16",
-    "location_city": "FREDERICKSBURG",
-    "location_state": "TX",
-    "location_zip": "78624",
+    }, 
+    "location_address": "1020 SOUTH STATE HIGHWAY 16", 
+    "location_city": "FREDERICKSBURG", 
+    "location_state": "TX", 
+    "location_zip": "78624", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hillcountrymemorial.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8309974353",
-    "provider_id": "450604",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8309974353", 
+    "provider_id": "450604", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "78624"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "743 SPRING STREET",
-    "city": "GAINESVILLE",
-    "county_name": "HALL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTHEAST GEORGIA MEDICAL CENTER, INC",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "743 SPRING STREET", 
+    "city": "GAINESVILLE", 
+    "county_name": "HALL", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTHEAST GEORGIA MEDICAL CENTER, INC", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.81737,
+            -83.81737, 
             34.30335
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "743 SPRING STREET",
-    "location_city": "GAINESVILLE",
-    "location_state": "GA",
-    "location_zip": "30501",
+    }, 
+    "location_address": "743 SPRING STREET", 
+    "location_city": "GAINESVILLE", 
+    "location_state": "GA", 
+    "location_zip": "30501", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nghs.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Northeast Georgia Medical Center and Health System",
+        "name": "Northeast Georgia Medical Center and Health System", 
         "websites": [
             "www.nghs.com"
         ]
-    },
-    "phone_number": "7705353553",
-    "provider_id": "110029",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7705353553", 
+    "provider_id": "110029", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "30501"
 }

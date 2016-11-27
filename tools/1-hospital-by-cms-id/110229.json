@@ -1,41 +1,49 @@
 {
-    "address": "745 POPLAR ROAD",
-    "city": "NEWNAN",
-    "county_name": "COWETA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PIEDMONT NEWNAN HOSPITAL, INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "745 POPLAR ROAD", 
+    "city": "NEWNAN", 
+    "county_name": "COWETA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PIEDMONT NEWNAN HOSPITAL, INC", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.754178,
-            33.359375
-        ],
+            -84.753678, 
+            33.359316
+        ], 
         "type": "Point"
-    },
-    "location_address": "745 POPLAR ROAD",
-    "location_city": "NEWNAN",
-    "location_state": "GA",
-    "location_zip": "30265",
+    }, 
+    "location_address": "745 POPLAR ROAD", 
+    "location_city": "NEWNAN", 
+    "location_state": "GA", 
+    "location_zip": "30265", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.piedmontnewnan.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Piedmont Healthcare",
+        "name": "Piedmont Healthcare", 
         "websites": [
             "www.piedmont.org"
         ]
-    },
-    "phone_number": "7704002300",
-    "provider_id": "110229",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7704002300", 
+    "provider_id": "110229", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "30265"
 }

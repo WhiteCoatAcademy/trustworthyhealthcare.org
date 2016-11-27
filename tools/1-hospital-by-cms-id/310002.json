@@ -1,41 +1,49 @@
 {
-    "address": "201 LYONS AVE",
-    "city": "NEWARK",
-    "county_name": "ESSEX",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NEWARK BETH ISRAEL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "201 LYONS AVE", 
+    "city": "NEWARK", 
+    "county_name": "ESSEX", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NEWARK BETH ISRAEL MEDICAL CENTER", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.212097,
-            40.709131
-        ],
+            -74.213787, 
+            40.710054
+        ], 
         "type": "Point"
-    },
-    "location_address": "201 LYONS AVE",
-    "location_city": "NEWARK",
-    "location_state": "NJ",
-    "location_zip": "07112",
+    }, 
+    "location_address": "201 LYONS AVE", 
+    "location_city": "NEWARK", 
+    "location_state": "NJ", 
+    "location_zip": "07112", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sbhcs.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Barnabas Health Care System",
+        "name": "Saint Barnabas Health Care System", 
         "websites": [
             "www.sbhcs.com"
         ]
-    },
-    "phone_number": "9739267850",
-    "provider_id": "310002",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9739267850", 
+    "provider_id": "310002", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "07112"
 }

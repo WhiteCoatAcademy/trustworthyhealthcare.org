@@ -1,41 +1,53 @@
 {
-    "address": "230 EAST RIDGEWOOD AVE",
-    "city": "PARAMUS",
-    "county_name": "BERGEN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BERGEN REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "230 EAST RIDGEWOOD AVE", 
+    "city": "PARAMUS", 
+    "county_name": "BERGEN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BERGEN REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.0619,
-            40.958533
-        ],
+            -74.063153, 
+            40.958876
+        ], 
         "type": "Point"
-    },
-    "location_address": "230 EAST RIDGEWOOD AVE",
-    "location_city": "PARAMUS",
-    "location_state": "NJ",
-    "location_zip": "07652",
+    }, 
+    "location_address": "230 EAST RIDGEWOOD AVE", 
+    "location_city": "PARAMUS", 
+    "location_state": "NJ", 
+    "location_zip": "07652", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bergenregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "New Jersey Department of Mental Health Services",
+        "name": "New Jersey Department of Mental Health Services", 
         "websites": [
             "www.state.nj.us"
         ]
-    },
-    "phone_number": "2019674000",
-    "provider_id": "310058",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2019674000", 
+    "provider_id": "310058", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "07652"
 }

@@ -1,39 +1,50 @@
 {
-    "address": "1067 PEACHTREE ST",
-    "city": "LOUISVILLE",
-    "county_name": "JEFFERSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JEFFERSON HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1067 PEACHTREE ST", 
+    "city": "LOUISVILLE", 
+    "county_name": "JEFFERSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JEFFERSON HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.404349,
-            33.010363
-        ],
+            -82.404384, 
+            33.00976
+        ], 
         "type": "Point"
-    },
-    "location_address": "1067 PEACHTREE ST",
-    "location_city": "LOUISVILLE",
-    "location_state": "GA",
-    "location_zip": "30434",
+    }, 
+    "location_address": "1067 PEACHTREE ST", 
+    "location_city": "LOUISVILLE", 
+    "location_state": "GA", 
+    "location_zip": "30434", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.jeffersonhosp.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4786257000",
-    "provider_id": "110100",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "4786257000", 
+    "provider_id": "110100", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "30434"
 }

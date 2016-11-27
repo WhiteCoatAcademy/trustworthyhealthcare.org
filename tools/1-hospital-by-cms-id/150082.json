@@ -1,41 +1,49 @@
 {
-    "address": "600 MARY ST",
-    "city": "EVANSVILLE",
-    "county_name": "VANDERBURGH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DEACONESS HOSPITAL INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "600 MARY ST", 
+    "city": "EVANSVILLE", 
+    "county_name": "VANDERBURGH", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DEACONESS HOSPITAL INC", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.571057,
-            37.984794
-        ],
+            -87.570726, 
+            37.983252
+        ], 
         "type": "Point"
-    },
-    "location_address": "600 MARY ST",
-    "location_city": "EVANSVILLE",
-    "location_state": "IN",
-    "location_zip": "47747",
+    }, 
+    "location_address": "600 MARY ST", 
+    "location_city": "EVANSVILLE", 
+    "location_state": "IN", 
+    "location_zip": "47747", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.deaconess.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Deaconess Health System",
+        "name": "Deaconess Health System", 
         "websites": [
             "www.deaconess.com"
         ]
-    },
-    "phone_number": "8124505000",
-    "provider_id": "150082",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8124505000", 
+    "provider_id": "150082", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "47747"
 }

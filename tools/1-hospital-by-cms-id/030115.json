@@ -1,41 +1,49 @@
 {
-    "address": "9201 WEST THOMAS ROAD",
-    "city": "PHOENIX",
-    "county_name": "MARICOPA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BANNER ESTRELLA MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "9201 WEST THOMAS ROAD", 
+    "city": "PHOENIX", 
+    "county_name": "MARICOPA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BANNER ESTRELLA MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -112.257657,
-            33.479565
-        ],
+            -112.257936, 
+            33.479558
+        ], 
         "type": "Point"
-    },
-    "location_address": "9201 WEST THOMAS ROAD",
-    "location_city": "PHOENIX",
-    "location_state": "AZ",
-    "location_zip": "85037",
+    }, 
+    "location_address": "9201 WEST THOMAS ROAD", 
+    "location_city": "PHOENIX", 
+    "location_state": "AZ", 
+    "location_zip": "85037", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bannerestrella.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Banner Health",
+        "name": "Banner Health", 
         "websites": [
             "www.bannerhealth.com"
         ]
-    },
-    "phone_number": "6233274000",
-    "provider_id": "030115",
-    "raw_ratings": {},
-    "state": "AZ",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6233274000", 
+    "provider_id": "030115", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "AZ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "85037"
 }

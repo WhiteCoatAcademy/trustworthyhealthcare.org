@@ -1,39 +1,51 @@
 {
-    "address": "2200 N SECTION ST",
-    "city": "SULLIVAN",
-    "county_name": "SULLIVAN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SULLIVAN COUNTY COMMUNITY HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "2200 N SECTION ST", 
+    "city": "SULLIVAN", 
+    "county_name": "SULLIVAN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SULLIVAN COUNTY COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -87.409219,
-            39.116488
-        ],
+            -87.409083, 
+            39.126254
+        ], 
         "type": "Point"
-    },
-    "location_address": "2200 N SECTION ST",
-    "location_city": "SULLIVAN",
-    "location_state": "IN",
-    "location_zip": "47882",
+    }, 
+    "location_address": "2200 N SECTION ST", 
+    "location_city": "SULLIVAN", 
+    "location_state": "IN", 
+    "location_zip": "47882", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.schosp.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8122684311",
-    "provider_id": "151327",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "8122684311", 
+    "provider_id": "151327", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "47882"
 }

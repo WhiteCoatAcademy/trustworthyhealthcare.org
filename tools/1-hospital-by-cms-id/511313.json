@@ -1,39 +1,49 @@
 {
-    "address": "701 MADISON AVENUE",
-    "city": "MADISON",
-    "county_name": "BOONE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BOONE MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "701 MADISON AVENUE", 
+    "city": "MADISON", 
+    "county_name": "BOONE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BOONE MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -81.782109,
-            38.035905
-        ],
+            -81.807158, 
+            38.047934
+        ], 
         "type": "Point"
-    },
-    "location_address": "701 MADISON AVENUE",
-    "location_city": "MADISON",
-    "location_state": "WV",
-    "location_zip": "25130",
+    }, 
+    "location_address": "701 MADISON AVENUE", 
+    "location_city": "MADISON", 
+    "location_state": "WV", 
+    "location_zip": "25130", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bmh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3043691230",
-    "provider_id": "511313",
-    "raw_ratings": {},
-    "state": "WV",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "3043691230", 
+    "provider_id": "511313", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WV", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "25130"
 }

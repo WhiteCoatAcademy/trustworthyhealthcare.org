@@ -1,41 +1,49 @@
 {
-    "address": "1601 NEWCASTLE ROAD",
-    "city": "FORREST CITY",
-    "county_name": "SAINT FRANCIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FORREST CITY MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1601 NEWCASTLE ROAD", 
+    "city": "FORREST CITY", 
+    "county_name": "SAINT FRANCIS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FORREST CITY MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.776192,
-            35.026618
-        ],
+            -90.771894, 
+            35.039275
+        ], 
         "type": "Point"
-    },
-    "location_address": "1601 NEWCASTLE ROAD",
-    "location_city": "FORREST CITY",
-    "location_state": "AR",
-    "location_zip": "72335",
+    }, 
+    "location_address": "1601 NEWCASTLE ROAD", 
+    "location_city": "FORREST CITY", 
+    "location_state": "AR", 
+    "location_zip": "72335", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.forrestcitymedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "8702610000",
-    "provider_id": "040019",
-    "raw_ratings": {},
-    "state": "AR",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8702610000", 
+    "provider_id": "040019", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "AR", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "72335"
 }

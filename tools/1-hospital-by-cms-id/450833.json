@@ -1,41 +1,50 @@
 {
-    "address": "2201 WEST LAMPASAS STREET",
-    "city": "ENNIS",
-    "county_name": "ELLIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ENNIS REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2201 WEST LAMPASAS STREET", 
+    "city": "ENNIS", 
+    "county_name": "ELLIS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ENNIS REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.64225,
-            32.30843
-        ],
+            -96.642, 
+            32.308554
+        ], 
         "type": "Point"
-    },
-    "location_address": "2201 WEST LAMPASAS STREET",
-    "location_city": "ENNIS",
-    "location_state": "TX",
-    "location_zip": "75119",
+    }, 
+    "location_address": "2201 WEST LAMPASAS STREET", 
+    "location_city": "ENNIS", 
+    "location_state": "TX", 
+    "location_zip": "75119", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ennisregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "9728750900",
-    "provider_id": "450833",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9728750900", 
+    "provider_id": "450833", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75119"
 }

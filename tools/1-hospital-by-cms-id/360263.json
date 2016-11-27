@@ -1,39 +1,51 @@
 {
-    "address": "801 MEDICAL DRIVE, SUITE B",
-    "city": "LIMA",
-    "county_name": "ALLEN",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "INSTITUTE FOR ORTHOPAEDIC SURGERY",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "801 MEDICAL DRIVE, SUITE B", 
+    "city": "LIMA", 
+    "county_name": "ALLEN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "INSTITUTE FOR ORTHOPAEDIC SURGERY", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.088217,
-            40.697389
-        ],
+            -84.08658, 
+            40.697989
+        ], 
         "type": "Point"
-    },
-    "location_address": "801 MEDICAL DRIVE, SUITE B",
-    "location_city": "LIMA",
-    "location_state": "OH",
-    "location_zip": "45804",
+    }, 
+    "location_address": "801 MEDICAL DRIVE, SUITE B", 
+    "location_city": "LIMA", 
+    "location_state": "OH", 
+    "location_zip": "45804", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.orthoohio.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4192247586",
-    "provider_id": "360263",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4192247586", 
+    "provider_id": "360263", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "45804"
 }

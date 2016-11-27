@@ -1,39 +1,50 @@
 {
-    "address": "1500 S MAIN STREET",
-    "city": "EATON RAPIDS",
-    "county_name": "EATON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "EATON RAPIDS MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1500 S MAIN STREET", 
+    "city": "EATON RAPIDS", 
+    "county_name": "EATON", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "EATON RAPIDS MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -84.657539,
-            42.496021
-        ],
+            -84.65816, 
+            42.494444
+        ], 
         "type": "Point"
-    },
-    "location_address": "1500 S MAIN STREET",
-    "location_city": "EATON RAPIDS",
-    "location_state": "MI",
-    "location_zip": "48827",
+    }, 
+    "location_address": "1500 S MAIN STREET", 
+    "location_city": "EATON RAPIDS", 
+    "location_state": "MI", 
+    "location_zip": "48827", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.eatonrapidsmedicalcenter.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5176632671",
-    "provider_id": "231324",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "5176632671", 
+    "provider_id": "231324", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "48827"
 }

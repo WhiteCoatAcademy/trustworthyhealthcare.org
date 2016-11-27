@@ -1,39 +1,47 @@
 {
-    "address": "680 CENTER STREET",
-    "city": "BROCKTON",
-    "county_name": "PLYMOUTH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SIGNATURE HEALTHCARE BROCKTON HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "680 CENTER STREET", 
+    "city": "BROCKTON", 
+    "county_name": "PLYMOUTH", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SIGNATURE HEALTHCARE BROCKTON HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -70.991188,
-            42.086197
-        ],
+            -70.991083, 
+            42.08621
+        ], 
         "type": "Point"
-    },
-    "location_address": "680 CENTER STREET",
-    "location_city": "BROCKTON",
-    "location_state": "MA",
-    "location_zip": "02302",
+    }, 
+    "location_address": "680 CENTER STREET", 
+    "location_city": "BROCKTON", 
+    "location_state": "MA", 
+    "location_zip": "02302", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.signature-healthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5089417000",
-    "provider_id": "220052",
-    "raw_ratings": {},
-    "state": "MA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5089417000", 
+    "provider_id": "220052", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "02302"
 }

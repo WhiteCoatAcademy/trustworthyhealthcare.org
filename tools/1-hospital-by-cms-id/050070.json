@@ -1,41 +1,54 @@
 {
-    "address": "1200 EL CAMINO REAL",
-    "city": "SOUTH SAN FRANCISCO",
-    "county_name": "SAN MATEO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "KAISER FOUNDATION HOSPITAL - SOUTH SAN FRANCISCO",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1200 EL CAMINO REAL", 
+    "city": "SOUTH SAN FRANCISCO", 
+    "county_name": "SAN MATEO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "KAISER FOUNDATION HOSPITAL - SOUTH SAN FRANCISCO", 
+    "hospital_overall_rating": "3", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.437658,
-            37.657535
-        ],
+            -122.439205, 
+            37.658376
+        ], 
         "type": "Point"
-    },
-    "location_address": "1200 EL CAMINO REAL",
-    "location_city": "SOUTH SAN FRANCISCO",
-    "location_state": "CA",
-    "location_zip": "94080",
+    }, 
+    "location_address": "1200 EL CAMINO REAL", 
+    "location_city": "SOUTH SAN FRANCISCO", 
+    "location_state": "CA", 
+    "location_zip": "94080", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "members.kaiserpermanente.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Kaiser Foundation Hospitals",
+        "name": "Kaiser Foundation Hospitals", 
         "websites": [
             "www.kaiserpermanente.org"
         ]
-    },
-    "phone_number": "6507423200",
-    "provider_id": "050070",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6507423200", 
+    "provider_id": "050070", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "94080"
 }

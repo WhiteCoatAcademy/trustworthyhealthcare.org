@@ -1,41 +1,52 @@
 {
-    "address": "125 NEWMAN ST",
-    "city": "FAIRFIELD",
-    "county_name": "FREESTONE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "EAST TEXAS MEDICAL CENTER - FAIRFIELD",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "125 NEWMAN ST", 
+    "city": "FAIRFIELD", 
+    "county_name": "FREESTONE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "EAST TEXAS MEDICAL CENTER - FAIRFIELD", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.169619,
-            31.725902
-        ],
+            -96.169583, 
+            31.725013
+        ], 
         "type": "Point"
-    },
-    "location_address": "125 NEWMAN ST",
-    "location_city": "FAIRFIELD",
-    "location_state": "TX",
-    "location_zip": "75840",
+    }, 
+    "location_address": "125 NEWMAN ST", 
+    "location_city": "FAIRFIELD", 
+    "location_state": "TX", 
+    "location_zip": "75840", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.etmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "East Texas Medical Center Regional Healthcare System",
+        "name": "East Texas Medical Center Regional Healthcare System", 
         "websites": [
             "www.etmc.org"
         ]
-    },
-    "phone_number": "9033891612",
-    "provider_id": "450658",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "9033891612", 
+    "provider_id": "450658", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "75840"
 }

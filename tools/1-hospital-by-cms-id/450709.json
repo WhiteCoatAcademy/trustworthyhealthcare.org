@@ -1,41 +1,50 @@
 {
-    "address": "18300 ST JOHN DRIVE",
-    "city": "NASSAU BAY",
-    "county_name": "HARRIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HOUSTON METHODIST ST JOHN HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "18300 ST JOHN DRIVE", 
+    "city": "NASSAU BAY", 
+    "county_name": "HARRIS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HOUSTON METHODIST ST JOHN HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.085116,
-            29.549553
-        ],
+            -95.085203, 
+            29.549771
+        ], 
         "type": "Point"
-    },
-    "location_address": "18300 ST JOHN DRIVE",
-    "location_city": "NASSAU BAY",
-    "location_state": "TX",
-    "location_zip": "77058",
+    }, 
+    "location_address": "18300 ST JOHN DRIVE", 
+    "location_city": "NASSAU BAY", 
+    "location_state": "TX", 
+    "location_zip": "77058", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.christusstjohn.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "CHRISTUS Health",
+        "name": "CHRISTUS Health", 
         "websites": [
             "www.christushealth.org"
         ]
-    },
-    "phone_number": "2813335503",
-    "provider_id": "450709",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2813335503", 
+    "provider_id": "450709", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "77058"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "424 SAVANNAH RD",
-    "city": "LEWES",
-    "county_name": "SUSSEX",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BEEBE MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "424 SAVANNAH RD", 
+    "city": "LEWES", 
+    "county_name": "SUSSEX", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BEEBE MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -75.143049,
-            38.770627
-        ],
+            -75.14222, 
+            38.771441
+        ], 
         "type": "Point"
-    },
-    "location_address": "424 SAVANNAH RD",
-    "location_city": "LEWES",
-    "location_state": "DE",
-    "location_zip": "19958",
+    }, 
+    "location_address": "424 SAVANNAH RD", 
+    "location_city": "LEWES", 
+    "location_state": "DE", 
+    "location_zip": "19958", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.beebemed.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3026453300",
-    "provider_id": "080007",
-    "raw_ratings": {},
-    "state": "DE",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3026453300", 
+    "provider_id": "080007", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "DE", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "19958"
 }

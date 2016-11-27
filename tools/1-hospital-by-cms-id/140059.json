@@ -1,39 +1,49 @@
 {
-    "address": "400 MAPLE SUMMIT ROAD",
-    "city": "JERSEYVILLE",
-    "county_name": "JERSEY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JERSEY COMMUNITY HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "400 MAPLE SUMMIT ROAD", 
+    "city": "JERSEYVILLE", 
+    "county_name": "JERSEY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JERSEY COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.341608,
-            39.110375
-        ],
+            -90.341622, 
+            39.109906
+        ], 
         "type": "Point"
-    },
-    "location_address": "400 MAPLE SUMMIT ROAD",
-    "location_city": "JERSEYVILLE",
-    "location_state": "IL",
-    "location_zip": "62052",
+    }, 
+    "location_address": "400 MAPLE SUMMIT ROAD", 
+    "location_city": "JERSEYVILLE", 
+    "location_state": "IL", 
+    "location_zip": "62052", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.jch.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6184986402",
-    "provider_id": "140059",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6184986402", 
+    "provider_id": "140059", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "62052"
 }

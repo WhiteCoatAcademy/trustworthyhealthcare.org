@@ -1,39 +1,47 @@
 {
-    "address": "1400 WEST MAIN STREET",
-    "city": "BELLEVUE",
-    "county_name": "SANDUSKY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BELLEVUE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1400 WEST MAIN STREET", 
+    "city": "BELLEVUE", 
+    "county_name": "SANDUSKY", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BELLEVUE HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.883552,
-            41.285355
-        ],
+            -82.882559, 
+            41.28508
+        ], 
         "type": "Point"
-    },
-    "location_address": "1400 WEST MAIN STREET",
-    "location_city": "BELLEVUE",
-    "location_state": "OH",
-    "location_zip": "44811",
+    }, 
+    "location_address": "1400 WEST MAIN STREET", 
+    "location_city": "BELLEVUE", 
+    "location_state": "OH", 
+    "location_zip": "44811", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bellevuehospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4194834040",
-    "provider_id": "360107",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4194834040", 
+    "provider_id": "360107", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "44811"
 }

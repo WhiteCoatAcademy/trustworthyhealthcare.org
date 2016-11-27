@@ -1,39 +1,47 @@
 {
-    "address": "2000 NORTH AVENUE",
-    "city": "NORTHFIELD",
-    "county_name": "DAKOTA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTHFIELD HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2000 NORTH AVENUE", 
+    "city": "NORTHFIELD", 
+    "county_name": "DAKOTA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTHFIELD HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.191166,
+            -93.191159, 
             44.471386
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2000 NORTH AVENUE",
-    "location_city": "NORTHFIELD",
-    "location_state": "MN",
-    "location_zip": "55057",
+    }, 
+    "location_address": "2000 NORTH AVENUE", 
+    "location_city": "NORTHFIELD", 
+    "location_state": "MN", 
+    "location_zip": "55057", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.northfieldhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5076461001",
-    "provider_id": "240014",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5076461001", 
+    "provider_id": "240014", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "55057"
 }

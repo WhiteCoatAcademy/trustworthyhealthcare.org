@@ -1,41 +1,49 @@
 {
-    "address": "325 9TH AVENUE",
-    "city": "SEATTLE",
-    "county_name": "KING",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HARBORVIEW MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "325 9TH AVENUE", 
+    "city": "SEATTLE", 
+    "county_name": "KING", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HARBORVIEW MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.322954,
-            47.603598
-        ],
+            -122.323372, 
+            47.604084
+        ], 
         "type": "Point"
-    },
-    "location_address": "325 9TH AVENUE",
-    "location_city": "SEATTLE",
-    "location_state": "WA",
-    "location_zip": "98104",
+    }, 
+    "location_address": "325 9TH AVENUE", 
+    "location_city": "SEATTLE", 
+    "location_state": "WA", 
+    "location_zip": "98104", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.uwmedicine.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University of Washington Medicine",
+        "name": "University of Washington Medicine", 
         "websites": [
             "www.uwmedicine.org"
         ]
-    },
-    "phone_number": "2067313000",
-    "provider_id": "500064",
-    "raw_ratings": {},
-    "state": "WA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2067313000", 
+    "provider_id": "500064", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "98104"
 }

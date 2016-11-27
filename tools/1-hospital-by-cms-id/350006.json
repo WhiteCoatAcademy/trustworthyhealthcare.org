@@ -1,39 +1,47 @@
 {
-    "address": "407 3RD ST SE",
-    "city": "MINOT",
-    "county_name": "WARD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TRINITY HOSPITALS",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "407 3RD ST SE", 
+    "city": "MINOT", 
+    "county_name": "WARD", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TRINITY HOSPITALS", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -101.288452,
-            48.232479
-        ],
+            -101.28847, 
+            48.231756
+        ], 
         "type": "Point"
-    },
-    "location_address": "407 3RD ST SE",
-    "location_city": "MINOT",
-    "location_state": "ND",
-    "location_zip": "58701",
+    }, 
+    "location_address": "407 3RD ST SE", 
+    "location_city": "MINOT", 
+    "location_state": "ND", 
+    "location_zip": "58701", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.trinityhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7018575000",
-    "provider_id": "350006",
-    "raw_ratings": {},
-    "state": "ND",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7018575000", 
+    "provider_id": "350006", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "ND", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "58701"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "2811 TIETON DRIVE",
-    "city": "YAKIMA",
-    "county_name": "YAKIMA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "YAKIMA VALLEY MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2811 TIETON DRIVE", 
+    "city": "YAKIMA", 
+    "county_name": "YAKIMA", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "YAKIMA VALLEY MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -120.547439,
-            46.592708
-        ],
+            -120.546186, 
+            46.592698
+        ], 
         "type": "Point"
-    },
-    "location_address": "2811 TIETON DRIVE",
-    "location_city": "YAKIMA",
-    "location_state": "WA",
-    "location_zip": "98902",
+    }, 
+    "location_address": "2811 TIETON DRIVE", 
+    "location_city": "YAKIMA", 
+    "location_state": "WA", 
+    "location_zip": "98902", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.yakimamemorialhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5095758000",
-    "provider_id": "500036",
-    "raw_ratings": {},
-    "state": "WA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5095758000", 
+    "provider_id": "500036", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "WA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "98902"
 }

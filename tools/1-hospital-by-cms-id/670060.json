@@ -1,39 +1,47 @@
 {
-    "address": "231 SOUTH COLLINS ROAD",
-    "city": "SUNNYVALE",
-    "county_name": "DALLAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TEXAS REGIONAL MEDICAL CENTER AT SUNNYVALE",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "231 SOUTH COLLINS ROAD", 
+    "city": "SUNNYVALE", 
+    "county_name": "DALLAS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BAYLOR SCOTT AND WHITE MEDICAL CENTER SUNNYVALE", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.565611,
-            32.780308
-        ],
+            -96.567178, 
+            32.77834
+        ], 
         "type": "Point"
-    },
-    "location_address": "231 SOUTH COLLINS ROAD",
-    "location_city": "SUNNYVALE",
-    "location_state": "TX",
-    "location_zip": "75182",
+    }, 
+    "location_address": "231 SOUTH COLLINS ROAD", 
+    "location_city": "SUNNYVALE", 
+    "location_state": "TX", 
+    "location_zip": "75182", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9728923000",
-    "provider_id": "670060",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9728923000", 
+    "provider_id": "670060", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "75182"
 }

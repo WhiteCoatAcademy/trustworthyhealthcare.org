@@ -1,40 +1,49 @@
 {
-    "address": "115 MALL DRIVE",
-    "city": "HANFORD",
-    "county_name": "KINGS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ADVENTIST MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "115 MALL DRIVE", 
+    "city": "HANFORD", 
+    "county_name": "KINGS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ADVENTIST MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"115 MALL DRIVE\",\"city\":\"HANFORD\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.325674234000076",
-        "longitude": "-119.66841920699994",
-        "needs_recoding": false
-    },
-    "location_address": "115 MALL DRIVE",
-    "location_city": "HANFORD",
-    "location_state": "CA",
-    "location_zip": "93230",
+        "coordinates": [
+            -119.669005, 
+            36.323877
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "115 MALL DRIVE", 
+    "location_city": "HANFORD", 
+    "location_state": "CA", 
+    "location_zip": "93230", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hanfordhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Adventist Health",
+        "name": "Adventist Health", 
         "websites": [
             "www.adventisthealth.com"
         ]
-    },
-    "phone_number": "2094107200",
-    "provider_id": "050121",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2094107200", 
+    "provider_id": "050121", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "93230"
 }

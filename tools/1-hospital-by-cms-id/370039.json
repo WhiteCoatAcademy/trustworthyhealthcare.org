@@ -1,41 +1,49 @@
 {
-    "address": "1202 N MUSKOGEE PLACE",
-    "city": "CLAREMORE",
-    "county_name": "ROGERS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HILLCREST HOSPITAL CLAREMORE",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1202 N MUSKOGEE PLACE", 
+    "city": "CLAREMORE", 
+    "county_name": "ROGERS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HILLCREST HOSPITAL CLAREMORE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.605333,
-            36.321875
-        ],
+            -95.605336, 
+            36.322521
+        ], 
         "type": "Point"
-    },
-    "location_address": "1202 N MUSKOGEE PLACE",
-    "location_city": "CLAREMORE",
-    "location_state": "OK",
-    "location_zip": "74017",
+    }, 
+    "location_address": "1202 N MUSKOGEE PLACE", 
+    "location_city": "CLAREMORE", 
+    "location_state": "OK", 
+    "location_zip": "74017", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.claremorereghospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "9183412556",
-    "provider_id": "370039",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9183412556", 
+    "provider_id": "370039", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "74017"
 }

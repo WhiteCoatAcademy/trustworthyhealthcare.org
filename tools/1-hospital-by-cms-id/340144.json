@@ -1,40 +1,49 @@
 {
-    "address": "218 OLD MOCKSBVILLE RD PO BOX 1823",
-    "city": "STATESVILLE",
-    "county_name": "IREDELL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DAVIS REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "218 OLD MOCKSBVILLE RD PO BOX 1823", 
+    "city": "STATESVILLE", 
+    "county_name": "IREDELL", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DAVIS REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"218 OLD MOCKSBVILLE RD PO BOX 1823\",\"city\":\"STATESVILLE\",\"state\":\"NC\",\"zip\":\"\"}",
-        "latitude": "35.785771382000064",
-        "longitude": "-80.88891577499999",
-        "needs_recoding": false
-    },
-    "location_address": "218 OLD MOCKSBVILLE RD PO BOX 1823",
-    "location_city": "STATESVILLE",
-    "location_state": "NC",
-    "location_zip": "28687",
+        "coordinates": [
+            -80.831, 
+            35.818119
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "218 OLD MOCKSBVILLE RD PO BOX 1823", 
+    "location_city": "STATESVILLE", 
+    "location_state": "NC", 
+    "location_zip": "28687", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.davisregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Health Management Associates, Inc.",
+        "name": "Health Management Associates, Inc.", 
         "websites": [
             "www.hma.com"
         ]
-    },
-    "phone_number": "7048730281",
-    "provider_id": "340144",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7048730281", 
+    "provider_id": "340144", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "28687"
 }

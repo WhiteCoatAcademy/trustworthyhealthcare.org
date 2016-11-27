@@ -1,41 +1,49 @@
 {
-    "address": "100 MERCY WAY",
-    "city": "JOPLIN",
-    "county_name": "JASPER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY HOSPITAL JOPLIN",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 MERCY WAY", 
+    "city": "JOPLIN", 
+    "county_name": "JASPER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY HOSPITAL JOPLIN", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.511799,
+            -94.511799, 
             37.034697
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 MERCY WAY",
-    "location_city": "JOPLIN",
-    "location_state": "MO",
-    "location_zip": "64804",
+    }, 
+    "location_address": "100 MERCY WAY", 
+    "location_city": "JOPLIN", 
+    "location_state": "MO", 
+    "location_zip": "64804", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stj.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Health Initiatives",
+        "name": "Catholic Health Initiatives", 
         "websites": [
             "www.catholichealthinit.org"
         ]
-    },
-    "phone_number": "4177812727",
-    "provider_id": "260001",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4177812727", 
+    "provider_id": "260001", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "64804"
 }

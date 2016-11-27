@@ -1,38 +1,47 @@
 {
-    "address": "565 COAL VALLEY RD",
-    "city": "PITTSBURGH",
-    "county_name": "ALLEGHENY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JEFFERSON REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "565 COAL VALLEY ROAD", 
+    "city": "JEFFERSON HILLS", 
+    "county_name": "ALLEGHENY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JEFFERSON HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"565 COAL VALLEY RD\",\"city\":\"PITTSBURGH\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.438480620000064",
-        "longitude": "-79.88132703699995",
-        "needs_recoding": false
-    },
-    "location_address": "565 COAL VALLEY RD",
-    "location_city": "PITTSBURGH",
-    "location_state": "PA",
-    "location_zip": "15236",
+        "coordinates": [
+            -79.934685, 
+            40.31904
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "565 COAL VALLEY ROAD", 
+    "location_city": "JEFFERSON HILLS", 
+    "location_state": "PA", 
+    "location_zip": "15025", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.jeffersonregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4124695000",
-    "provider_id": "390265",
-    "raw_ratings": {},
-    "state": "PA",
-    "zip_code": "15236"
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4124695000", 
+    "provider_id": "390265", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
+    "zip_code": "15025"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "501 MORRIS STREET",
-    "city": "CHARLESTON",
-    "county_name": "KANAWHA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHARLESTON AREA MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "501 MORRIS STREET", 
+    "city": "CHARLESTON", 
+    "county_name": "KANAWHA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHARLESTON AREA MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.626144,
-            38.347134
-        ],
+            -81.626183, 
+            38.34712
+        ], 
         "type": "Point"
-    },
-    "location_address": "501 MORRIS STREET",
-    "location_city": "CHARLESTON",
-    "location_state": "WV",
-    "location_zip": "25301",
+    }, 
+    "location_address": "501 MORRIS STREET", 
+    "location_city": "CHARLESTON", 
+    "location_state": "WV", 
+    "location_zip": "25301", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.camc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Charleston Area Medical Center Health System",
+        "name": "Charleston Area Medical Center Health System", 
         "websites": [
             "www.camc.org"
         ]
-    },
-    "phone_number": "3043885432",
-    "provider_id": "510022",
-    "raw_ratings": {},
-    "state": "WV",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3043885432", 
+    "provider_id": "510022", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "WV", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "25301"
 }

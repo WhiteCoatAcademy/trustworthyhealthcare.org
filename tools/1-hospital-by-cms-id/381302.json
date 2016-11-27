@@ -1,41 +1,50 @@
 {
-    "address": "3043 NE 28TH STREET",
-    "city": "LINCOLN CITY",
-    "county_name": "LINCOLN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAMARITAN NORTH LINCOLN HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "3043 NE 28TH STREET", 
+    "city": "LINCOLN CITY", 
+    "county_name": "LINCOLN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAMARITAN NORTH LINCOLN HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -123.996061,
-            44.985172
-        ],
+            -123.995454, 
+            44.985179
+        ], 
         "type": "Point"
-    },
-    "location_address": "3043 NE 28TH STREET",
-    "location_city": "LINCOLN CITY",
-    "location_state": "OR",
-    "location_zip": "97367",
+    }, 
+    "location_address": "3043 NE 28TH STREET", 
+    "location_city": "LINCOLN CITY", 
+    "location_state": "OR", 
+    "location_zip": "97367", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.samhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Samaritan Health Services",
+        "name": "Samaritan Health Services", 
         "websites": [
             "www.samhealth.org"
         ]
-    },
-    "phone_number": "5419943661",
-    "provider_id": "381302",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5419943661", 
+    "provider_id": "381302", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "97367"
 }

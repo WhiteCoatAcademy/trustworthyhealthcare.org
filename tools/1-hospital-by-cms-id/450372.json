@@ -1,40 +1,49 @@
 {
-    "address": "2400 N INTERSTATE HIGHWAY 35E",
-    "city": "WAXAHACHIE",
-    "county_name": "ELLIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BAYLOR SCOTT & WHITE MEDICAL CENTER- WAXAHACHIE",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2400 N INTERSTATE HIGHWAY 35E", 
+    "city": "WAXAHACHIE", 
+    "county_name": "ELLIS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BAYLOR SCOTT & WHITE MEDICAL CENTER- WAXAHACHIE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"1405 W JEFFERSON ST\",\"city\":\"WAXAHACHIE\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "32.39664699300005",
-        "longitude": "-96.86474576299997",
-        "needs_recoding": false
-    },
-    "location_address": "2400 N INTERSTATE HIGHWAY 35E",
-    "location_city": "WAXAHACHIE",
-    "location_state": "TX",
-    "location_zip": "75165",
+        "coordinates": [
+            -96.859736, 
+            32.429621
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "2400 N INTERSTATE HIGHWAY 35E", 
+    "location_city": "WAXAHACHIE", 
+    "location_state": "TX", 
+    "location_zip": "75165", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Baylor Health Care System",
+        "name": "Baylor Health Care System", 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "phone_number": "9729237000",
-    "provider_id": "450372",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9729237000", 
+    "provider_id": "450372", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75165"
 }

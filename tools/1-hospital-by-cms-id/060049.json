@@ -1,39 +1,48 @@
 {
-    "address": "1024 CENTRAL PARK DR",
-    "city": "STEAMBOAT SPRINGS",
-    "county_name": "ROUTT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "YAMPA VALLEY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1024 CENTRAL PARK DR", 
+    "city": "STEAMBOAT SPRINGS", 
+    "county_name": "ROUTT", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "YAMPA VALLEY MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -106.814347,
-            40.462457
-        ],
+            -106.81442, 
+            40.462413
+        ], 
         "type": "Point"
-    },
-    "location_address": "1024 CENTRAL PARK DR",
-    "location_city": "STEAMBOAT SPRINGS",
-    "location_state": "CO",
-    "location_zip": "80487",
+    }, 
+    "location_address": "1024 CENTRAL PARK DR", 
+    "location_city": "STEAMBOAT SPRINGS", 
+    "location_state": "CO", 
+    "location_zip": "80487", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.yvmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9708791322",
-    "provider_id": "060049",
-    "raw_ratings": {},
-    "state": "CO",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9708791322", 
+    "provider_id": "060049", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CO", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "80487"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "2615 CHESTER AVENUE",
-    "city": "BAKERSFIELD",
-    "county_name": "KERN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAN JOAQUIN COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2615 CHESTER AVENUE", 
+    "city": "BAKERSFIELD", 
+    "county_name": "KERN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAN JOAQUIN COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -119.018768,
-            35.383051
-        ],
+            -119.018857, 
+            35.383049
+        ], 
         "type": "Point"
-    },
-    "location_address": "2615 CHESTER AVENUE",
-    "location_city": "BAKERSFIELD",
-    "location_state": "CA",
-    "location_zip": "93301",
+    }, 
+    "location_address": "2615 CHESTER AVENUE", 
+    "location_city": "BAKERSFIELD", 
+    "location_state": "CA", 
+    "location_zip": "93301", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sanjoaquinhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Adventist Health",
+        "name": "Adventist Health", 
         "websites": [
             "www.adventisthealth.com"
         ]
-    },
-    "phone_number": "6613953000",
-    "provider_id": "050455",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6613953000", 
+    "provider_id": "050455", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "93301"
 }

@@ -1,39 +1,48 @@
 {
-    "address": "235 STATE STREET",
-    "city": "SAINT CROIX FALLS",
-    "county_name": "POLK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST CROIX REGIONAL MEDICAL CTR",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "235 STATE STREET", 
+    "city": "SAINT CROIX FALLS", 
+    "county_name": "POLK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST CROIX REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -92.643477,
-            45.409614
-        ],
+            -92.642218, 
+            45.409134
+        ], 
         "type": "Point"
-    },
-    "location_address": "235 STATE STREET",
-    "location_city": "SAINT CROIX FALLS",
-    "location_state": "WI",
-    "location_zip": "54024",
+    }, 
+    "location_address": "235 STATE STREET", 
+    "location_city": "SAINT CROIX FALLS", 
+    "location_state": "WI", 
+    "location_zip": "54024", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.scrmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7154833261",
-    "provider_id": "521337",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7154833261", 
+    "provider_id": "521337", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "54024"
 }

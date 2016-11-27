@@ -1,39 +1,48 @@
 {
-    "address": "1500 NORTH GREEN AVENUE",
-    "city": "PURCELL",
-    "county_name": "MCCLAIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PURCELL MUNICIPAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1500 NORTH GREEN AVENUE", 
+    "city": "PURCELL", 
+    "county_name": "MCCLAIN", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PURCELL MUNICIPAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.365655,
-            35.027832
-        ],
+            -97.365753, 
+            35.028408
+        ], 
         "type": "Point"
-    },
-    "location_address": "1500 NORTH GREEN AVENUE",
-    "location_city": "PURCELL",
-    "location_state": "OK",
-    "location_zip": "73080",
+    }, 
+    "location_address": "1500 NORTH GREEN AVENUE", 
+    "location_city": "PURCELL", 
+    "location_state": "OK", 
+    "location_zip": "73080", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.purcellhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4055276524",
-    "provider_id": "370158",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4055276524", 
+    "provider_id": "370158", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "73080"
 }

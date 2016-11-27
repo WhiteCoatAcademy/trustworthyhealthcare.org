@@ -1,40 +1,51 @@
 {
-    "address": "3001 SANFORD PARKWAY",
-    "city": "THIEF RIVER FALLS",
-    "county_name": "PENNINGTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SANFORD MEDICAL CENTER THIEF RIVER FALLS",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "3001 SANFORD PARKWAY", 
+    "city": "THIEF RIVER FALLS", 
+    "county_name": "PENNINGTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SANFORD MEDICAL CENTER THIEF RIVER FALLS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"120 LABREE AVENUE SOUTH\",\"city\":\"THIEF RIVER FALLS\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "48.11688466600003",
-        "longitude": "-96.17996948699994",
-        "needs_recoding": false
-    },
-    "location_address": "3001 SANFORD PARKWAY",
-    "location_city": "THIEF RIVER FALLS",
-    "location_state": "MN",
-    "location_zip": "56701",
+        "coordinates": [
+            -96.198964, 
+            48.088871
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "3001 SANFORD PARKWAY", 
+    "location_city": "THIEF RIVER FALLS", 
+    "location_state": "MN", 
+    "location_zip": "56701", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.meritcare.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "MeritCare Health System",
+        "name": "MeritCare Health System", 
         "websites": [
             "www.meritcare.com"
         ]
-    },
-    "phone_number": "2186814240",
-    "provider_id": "241381",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2186814240", 
+    "provider_id": "241381", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "56701"
 }

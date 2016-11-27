@@ -1,39 +1,47 @@
 {
-    "address": "202 S PARK ST",
-    "city": "MADISON",
-    "county_name": "DANE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERITER HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "202 S PARK ST", 
+    "city": "MADISON", 
+    "county_name": "DANE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNITYPOINT HEALTH - MERITER", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.400912,
-            43.065857
-        ],
+            -89.400896, 
+            43.065385
+        ], 
         "type": "Point"
-    },
-    "location_address": "202 S PARK ST",
-    "location_city": "MADISON",
-    "location_state": "WI",
-    "location_zip": "53715",
+    }, 
+    "location_address": "202 S PARK ST", 
+    "location_city": "MADISON", 
+    "location_state": "WI", 
+    "location_zip": "53715", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.meriter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6084176000",
-    "provider_id": "520089",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6084176000", 
+    "provider_id": "520089", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "53715"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "730 WEST MARKET STREET",
-    "city": "LIMA",
-    "county_name": "ALLEN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST RITA'S MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "730 WEST MARKET STREET", 
+    "city": "LIMA", 
+    "county_name": "ALLEN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST RITA'S MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.117393,
+            -84.11745, 
             40.739998
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "730 WEST MARKET STREET",
-    "location_city": "LIMA",
-    "location_state": "OH",
-    "location_zip": "45801",
+    }, 
+    "location_address": "730 WEST MARKET STREET", 
+    "location_city": "LIMA", 
+    "location_state": "OH", 
+    "location_zip": "45801", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stritas.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare Partners",
+        "name": "Catholic Healthcare Partners", 
         "websites": [
             "www.health-partners.org"
         ]
-    },
-    "phone_number": "4192273361",
-    "provider_id": "360066",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4192273361", 
+    "provider_id": "360066", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "45801"
 }

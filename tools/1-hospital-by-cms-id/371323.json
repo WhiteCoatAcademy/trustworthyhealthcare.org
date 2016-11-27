@@ -1,39 +1,51 @@
 {
-    "address": "3701 E MAIN",
-    "city": "WEATHERFORD",
-    "county_name": "CUSTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WEATHERFORD REGIONAL HOSPITAL, INC OF WEATHERFORD",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "3701 E MAIN", 
+    "city": "WEATHERFORD", 
+    "county_name": "CUSTER", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WEATHERFORD REGIONAL HOSPITAL, INC OF WEATHERFORD", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -98.661204,
-            35.536922
-        ],
+            -98.661556, 
+            35.536869
+        ], 
         "type": "Point"
-    },
-    "location_address": "3701 E MAIN",
-    "location_city": "WEATHERFORD",
-    "location_state": "OK",
-    "location_zip": "73096",
+    }, 
+    "location_address": "3701 E MAIN", 
+    "location_city": "WEATHERFORD", 
+    "location_state": "OK", 
+    "location_zip": "73096", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.weatherfordhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5807725551",
-    "provider_id": "371323",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "5807725551", 
+    "provider_id": "371323", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "73096"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "211 S THIRD ST",
-    "city": "BELLEVILLE",
-    "county_name": "SAINT CLAIR",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST ELIZABETH HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "211 S THIRD ST", 
+    "city": "BELLEVILLE", 
+    "county_name": "SAINT CLAIR", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST ELIZABETH HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.988247,
+            -89.988247, 
             38.510748
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "211 S THIRD ST",
-    "location_city": "BELLEVILLE",
-    "location_state": "IL",
-    "location_zip": "62220",
+    }, 
+    "location_address": "211 S THIRD ST", 
+    "location_city": "BELLEVILLE", 
+    "location_state": "IL", 
+    "location_zip": "62220", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.steliz.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Hospital Sisters Health System",
+        "name": "Hospital Sisters Health System", 
         "websites": [
             "www.hshs.org"
         ]
-    },
-    "phone_number": "6182342120",
-    "provider_id": "140187",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6182342120", 
+    "provider_id": "140187", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "62220"
 }

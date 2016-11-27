@@ -1,41 +1,49 @@
 {
-    "address": "2000 CHURCH ST",
-    "city": "NASHVILLE",
-    "county_name": "DAVIDSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAINT THOMAS MIDTOWN HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2000 CHURCH ST", 
+    "city": "NASHVILLE", 
+    "county_name": "DAVIDSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAINT THOMAS MIDTOWN HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.800835,
+            -86.800835, 
             36.1534
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2000 CHURCH ST",
-    "location_city": "NASHVILLE",
-    "location_state": "TN",
-    "location_zip": "37236",
+    }, 
+    "location_address": "2000 CHURCH ST", 
+    "location_city": "NASHVILLE", 
+    "location_state": "TN", 
+    "location_zip": "37236", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baptisthospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ascension Health",
+        "name": "Ascension Health", 
         "websites": [
             "www.ascensionhealth.org"
         ]
-    },
-    "phone_number": "6152845555",
-    "provider_id": "440133",
-    "raw_ratings": {},
-    "state": "TN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6152845555", 
+    "provider_id": "440133", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "37236"
 }

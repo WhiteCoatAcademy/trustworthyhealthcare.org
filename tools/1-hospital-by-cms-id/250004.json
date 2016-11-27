@@ -1,41 +1,49 @@
 {
-    "address": "830 S GLOSTER",
-    "city": "TUPELO",
-    "county_name": "LEE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTH MISSISSIPPI MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "830 S GLOSTER", 
+    "city": "TUPELO", 
+    "county_name": "LEE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTH MISSISSIPPI MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.717758,
-            34.242203
-        ],
+            -88.717518, 
+            34.243672
+        ], 
         "type": "Point"
-    },
-    "location_address": "830 S GLOSTER",
-    "location_city": "TUPELO",
-    "location_state": "MS",
-    "location_zip": "38801",
+    }, 
+    "location_address": "830 S GLOSTER", 
+    "location_city": "TUPELO", 
+    "location_state": "MS", 
+    "location_zip": "38801", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nmhs.net"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "North Mississippi Medical Center",
+        "name": "North Mississippi Medical Center", 
         "websites": [
             "www.nmhs.net"
         ]
-    },
-    "phone_number": "6623773000",
-    "provider_id": "250004",
-    "raw_ratings": {},
-    "state": "MS",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6623773000", 
+    "provider_id": "250004", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MS", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "38801"
 }

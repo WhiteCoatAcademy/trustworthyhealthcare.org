@@ -1,41 +1,49 @@
 {
-    "address": "2100 BAPTISTE DRIVE",
-    "city": "PAOLA",
-    "county_name": "MIAMI",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MIAMI COUNTY MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2100 BAPTISTE DRIVE", 
+    "city": "PAOLA", 
+    "county_name": "MIAMI", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MIAMI COUNTY MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.85047,
-            38.568355
-        ],
+            -94.849354, 
+            38.567463
+        ], 
         "type": "Point"
-    },
-    "location_address": "2100 BAPTISTE DRIVE",
-    "location_city": "PAOLA",
-    "location_state": "KS",
-    "location_zip": "66071",
+    }, 
+    "location_address": "2100 BAPTISTE DRIVE", 
+    "location_city": "PAOLA", 
+    "location_state": "KS", 
+    "location_zip": "66071", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ohsi.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Olathe Health System, Inc.",
+        "name": "Olathe Health System, Inc.", 
         "websites": [
             "www.omci.com"
         ]
-    },
-    "phone_number": "9135574385",
-    "provider_id": "170109",
-    "raw_ratings": {},
-    "state": "KS",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9135574385", 
+    "provider_id": "170109", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "KS", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "66071"
 }

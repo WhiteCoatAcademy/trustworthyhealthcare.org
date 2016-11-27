@@ -1,38 +1,49 @@
 {
-    "address": "SOUTH ADAMS ST, PO BOX 160",
-    "city": "CARTHAGE",
-    "county_name": "HANCOCK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEMORIAL HOSPITAL L",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1454 N COUNTY ROAD 2050", 
+    "city": "CARTHAGE", 
+    "county_name": "HANCOCK", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"SOUTH ADAMS ST, PO BOX 160\",\"city\":\"CARTHAGE\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "40.416263240000035",
-        "longitude": "-91.13585892399999",
-        "needs_recoding": false
-    },
-    "location_address": "SOUTH ADAMS ST, PO BOX 160",
-    "location_city": "CARTHAGE",
-    "location_state": "IL",
-    "location_zip": "62321",
+        "coordinates": [
+            -91.111319, 
+            40.409306
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "1454 N COUNTY ROAD 2050", 
+    "location_city": "CARTHAGE", 
+    "location_state": "IL", 
+    "location_zip": "62321", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mhtlc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2173573131",
-    "provider_id": "141305",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2173578850", 
+    "provider_id": "141305", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "62321"
 }

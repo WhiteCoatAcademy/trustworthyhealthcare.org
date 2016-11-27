@@ -1,39 +1,47 @@
 {
-    "address": "607 BEAMAN ST",
-    "city": "CLINTON",
-    "county_name": "SAMPSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAMPSON REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "607 BEAMAN ST", 
+    "city": "CLINTON", 
+    "county_name": "SAMPSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAMPSON REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -78.323547,
-            35.007552
-        ],
+            -78.323712, 
+            35.007981
+        ], 
         "type": "Point"
-    },
-    "location_address": "607 BEAMAN ST",
-    "location_city": "CLINTON",
-    "location_state": "NC",
-    "location_zip": "28328",
+    }, 
+    "location_address": "607 BEAMAN ST", 
+    "location_city": "CLINTON", 
+    "location_state": "NC", 
+    "location_zip": "28328", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sampsonrmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9105928511",
-    "provider_id": "340024",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9105928511", 
+    "provider_id": "340024", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "28328"
 }

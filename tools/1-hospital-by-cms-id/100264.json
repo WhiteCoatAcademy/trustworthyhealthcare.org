@@ -1,41 +1,49 @@
 {
-    "address": "11375 CORTEZ BLVD",
-    "city": "BROOKSVILLE",
-    "county_name": "HERNANDO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OAK HILL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "11375 CORTEZ BLVD", 
+    "city": "BROOKSVILLE", 
+    "county_name": "HERNANDO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OAK HILL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.534496,
+            -82.534495, 
             28.533305
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "11375 CORTEZ BLVD",
-    "location_city": "BROOKSVILLE",
-    "location_state": "FL",
-    "location_zip": "34613",
+    }, 
+    "location_address": "11375 CORTEZ BLVD", 
+    "location_city": "BROOKSVILLE", 
+    "location_state": "FL", 
+    "location_zip": "34613", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.oakhillhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "3525966632",
-    "provider_id": "100264",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3525966632", 
+    "provider_id": "100264", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "34613"
 }

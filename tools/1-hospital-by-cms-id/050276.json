@@ -1,39 +1,47 @@
 {
-    "address": "2500 ALHAMBRA AVE",
-    "city": "MARTINEZ",
-    "county_name": "CONTRA COSTA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CONTRA COSTA REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2500 ALHAMBRA AVENUE", 
+    "city": "MARTINEZ", 
+    "county_name": "CONTRA COSTA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CONTRA COSTA REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.130891,
+            -122.130891, 
             38.006467
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2500 ALHAMBRA AVE",
-    "location_city": "MARTINEZ",
-    "location_state": "CA",
-    "location_zip": "94553",
+    }, 
+    "location_address": "2500 ALHAMBRA AVENUE", 
+    "location_city": "MARTINEZ", 
+    "location_state": "CA", 
+    "location_zip": "94553", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cchealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9253705000",
-    "provider_id": "050276",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9253705000", 
+    "provider_id": "050276", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "94553"
 }

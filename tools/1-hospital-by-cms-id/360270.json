@@ -1,39 +1,48 @@
 {
-    "address": "1404 EAST SECOND STREET",
-    "city": "DEFIANCE",
-    "county_name": "DEFIANCE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY HOSPITAL OF DEFIANCE",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1404 EAST SECOND STREET", 
+    "city": "DEFIANCE", 
+    "county_name": "DEFIANCE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY HOSPITAL OF DEFIANCE", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.339886,
-            41.282695
-        ],
+            -84.339467, 
+            41.282693
+        ], 
         "type": "Point"
-    },
-    "location_address": "1404 EAST SECOND STREET",
-    "location_city": "DEFIANCE",
-    "location_state": "OH",
-    "location_zip": "43512",
+    }, 
+    "location_address": "1404 EAST SECOND STREET", 
+    "location_city": "DEFIANCE", 
+    "location_state": "OH", 
+    "location_zip": "43512", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ehealthconnection.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4197828444",
-    "provider_id": "360270",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4197828444", 
+    "provider_id": "360270", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "43512"
 }

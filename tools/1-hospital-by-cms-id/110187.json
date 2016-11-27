@@ -1,41 +1,49 @@
 {
-    "address": "227 MOUNTAIN DR",
-    "city": "DAHLONEGA",
-    "county_name": "LUMPKIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHESTATEE REGIONAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "227 MOUNTAIN DR", 
+    "city": "DAHLONEGA", 
+    "county_name": "LUMPKIN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHESTATEE REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.976425,
-            34.522759
-        ],
+            -83.976073, 
+            34.523492
+        ], 
         "type": "Point"
-    },
-    "location_address": "227 MOUNTAIN DR",
-    "location_city": "DAHLONEGA",
-    "location_state": "GA",
-    "location_zip": "30533",
+    }, 
+    "location_address": "227 MOUNTAIN DR", 
+    "location_city": "DAHLONEGA", 
+    "location_state": "GA", 
+    "location_zip": "30533", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.chestateeregionalhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "SunLink Health Systems",
+        "name": "SunLink Health Systems", 
         "websites": [
             "www.sunlinkhealth.com"
         ]
-    },
-    "phone_number": "7068646136",
-    "provider_id": "110187",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7068646136", 
+    "provider_id": "110187", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "30533"
 }

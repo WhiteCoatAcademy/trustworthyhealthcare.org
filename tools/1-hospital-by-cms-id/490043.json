@@ -1,41 +1,49 @@
 {
-    "address": "44045 RIVERSIDE PARKWAY",
-    "city": "LEESBURG",
-    "county_name": "LOUDOUN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "INOVA LOUDOUN HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "44045 RIVERSIDE PARKWAY", 
+    "city": "LEESBURG", 
+    "county_name": "LOUDOUN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "INOVA LOUDOUN HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.475227,
-            39.074609
-        ],
+            -77.474914, 
+            39.073975
+        ], 
         "type": "Point"
-    },
-    "location_address": "44045 RIVERSIDE PARKWAY",
-    "location_city": "LEESBURG",
-    "location_state": "VA",
-    "location_zip": "20176",
+    }, 
+    "location_address": "44045 RIVERSIDE PARKWAY", 
+    "location_city": "LEESBURG", 
+    "location_state": "VA", 
+    "location_zip": "20176", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.inova.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Inova Health System",
+        "name": "Inova Health System", 
         "websites": [
             "www.inova.com"
         ]
-    },
-    "phone_number": "7038586600",
-    "provider_id": "490043",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7038586600", 
+    "provider_id": "490043", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "20176"
 }

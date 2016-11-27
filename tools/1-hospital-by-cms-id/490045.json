@@ -1,39 +1,47 @@
 {
-    "address": "8700 SUDLEY RD",
-    "city": "MANASSAS",
-    "county_name": "MANASSAS CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NOVANT HEALTH PRINCE WILLIAM MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "8700 SUDLEY RD", 
+    "city": "MANASSAS", 
+    "county_name": "MANASSAS CITY", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NOVANT HEALTH UVA  PRINCE WILLIAM MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.484936,
+            -77.484936, 
             38.767458
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "8700 SUDLEY RD",
-    "location_city": "MANASSAS",
-    "location_state": "VA",
-    "location_zip": "20110",
+    }, 
+    "location_address": "8700 SUDLEY RD", 
+    "location_city": "MANASSAS", 
+    "location_state": "VA", 
+    "location_zip": "20110", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pwhs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7033698000",
-    "provider_id": "490045",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7033698000", 
+    "provider_id": "490045", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "20110"
 }

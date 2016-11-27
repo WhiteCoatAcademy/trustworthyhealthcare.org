@@ -1,39 +1,47 @@
 {
-    "address": "2233 STATE ROUTE 86",
-    "city": "SARANAC LAKE",
-    "county_name": "FRANKLIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ADIRONDACK MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2233 STATE ROUTE 86", 
+    "city": "SARANAC LAKE", 
+    "county_name": "FRANKLIN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ADIRONDACK MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.144441,
-            44.343914
-        ],
+            -74.144635, 
+            44.345789
+        ], 
         "type": "Point"
-    },
-    "location_address": "2233 STATE ROUTE 86",
-    "location_city": "SARANAC LAKE",
-    "location_state": "NY",
-    "location_zip": "12983",
+    }, 
+    "location_address": "2233 STATE ROUTE 86", 
+    "location_city": "SARANAC LAKE", 
+    "location_state": "NY", 
+    "location_zip": "12983", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.amccares.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5188914141",
-    "provider_id": "330079",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5188914141", 
+    "provider_id": "330079", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "12983"
 }

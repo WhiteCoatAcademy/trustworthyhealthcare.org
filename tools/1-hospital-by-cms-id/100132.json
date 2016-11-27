@@ -1,41 +1,49 @@
 {
-    "address": "301 N ALEXANDER ST",
-    "city": "PLANT CITY",
-    "county_name": "HILLSBOROUGH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOUTH FLORIDA BAPTIST HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "301 N ALEXANDER ST", 
+    "city": "PLANT CITY", 
+    "county_name": "HILLSBOROUGH", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTH FLORIDA BAPTIST HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.137999,
-            28.015806
-        ],
+            -82.138002, 
+            28.016163
+        ], 
         "type": "Point"
-    },
-    "location_address": "301 N ALEXANDER ST",
-    "location_city": "PLANT CITY",
-    "location_state": "FL",
-    "location_zip": "33563",
+    }, 
+    "location_address": "301 N ALEXANDER ST", 
+    "location_city": "PLANT CITY", 
+    "location_state": "FL", 
+    "location_zip": "33563", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sjbhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "BayCare Health System",
+        "name": "BayCare Health System", 
         "websites": [
             "www.baycare.org"
         ]
-    },
-    "phone_number": "8137571200",
-    "provider_id": "100132",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8137571200", 
+    "provider_id": "100132", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "33563"
 }

@@ -1,41 +1,51 @@
 {
-    "address": "410 PILGRIM BLVD",
-    "city": "HARTFORD CITY",
-    "county_name": "BLACKFORD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "INDIANA UNIVERSITY HEALTH BLACKFORD HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "410 PILGRIM BLVD", 
+    "city": "HARTFORD CITY", 
+    "county_name": "BLACKFORD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "INDIANA UNIVERSITY HEALTH BLACKFORD HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -85.373482,
-            40.468642
-        ],
+            -85.372027, 
+            40.468905
+        ], 
         "type": "Point"
-    },
-    "location_address": "410 PILGRIM BLVD",
-    "location_city": "HARTFORD CITY",
-    "location_state": "IN",
-    "location_zip": "47348",
+    }, 
+    "location_address": "410 PILGRIM BLVD", 
+    "location_city": "HARTFORD CITY", 
+    "location_state": "IN", 
+    "location_zip": "47348", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.blackfordcommunityhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Cardinal Health System",
+        "name": "Cardinal Health System", 
         "websites": [
             "accesschs.org"
         ]
-    },
-    "phone_number": "7653480300",
-    "provider_id": "151302",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "7653480300", 
+    "provider_id": "151302", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "47348"
 }

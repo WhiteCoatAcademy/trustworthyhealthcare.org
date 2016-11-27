@@ -1,39 +1,51 @@
 {
-    "address": "1185 N 1000 W",
-    "city": "LINTON",
-    "county_name": "GREENE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GREENE COUNTY GENERAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1185 N 1000 W", 
+    "city": "LINTON", 
+    "county_name": "GREENE", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GREENE COUNTY GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -87.129172,
-            39.040035
-        ],
+            -87.129176, 
+            39.040496
+        ], 
         "type": "Point"
-    },
-    "location_address": "1185 N 1000 W",
-    "location_city": "LINTON",
-    "location_state": "IN",
-    "location_zip": "47441",
+    }, 
+    "location_address": "1185 N 1000 W", 
+    "location_city": "LINTON", 
+    "location_state": "IN", 
+    "location_zip": "47441", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.greenecountyhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8128472281",
-    "provider_id": "151317",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8128472281", 
+    "provider_id": "151317", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "47441"
 }

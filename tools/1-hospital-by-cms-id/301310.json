@@ -1,39 +1,51 @@
 {
-    "address": "59 PAGE HILL ROAD",
-    "city": "BERLIN",
-    "county_name": "COOS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ANDROSCOGGIN VALLEY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "59 PAGE HILL ROAD", 
+    "city": "BERLIN", 
+    "county_name": "COOS", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ANDROSCOGGIN VALLEY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -71.158977,
-            44.488035
-        ],
+            -71.156548, 
+            44.487099
+        ], 
         "type": "Point"
-    },
-    "location_address": "59 PAGE HILL ROAD",
-    "location_city": "BERLIN",
-    "location_state": "NH",
-    "location_zip": "03570",
+    }, 
+    "location_address": "59 PAGE HILL ROAD", 
+    "location_city": "BERLIN", 
+    "location_state": "NH", 
+    "location_zip": "03570", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.avhnh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6037522200",
-    "provider_id": "301310",
-    "raw_ratings": {},
-    "state": "NH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6037522200", 
+    "provider_id": "301310", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NH", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "03570"
 }

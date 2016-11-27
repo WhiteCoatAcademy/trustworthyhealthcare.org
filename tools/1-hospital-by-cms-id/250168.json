@@ -1,38 +1,47 @@
 {
-    "address": "960 AVENT DRIVE",
-    "city": "GRENADA",
-    "county_name": "GRENADA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY OF MISSISSIPPI MEDICAL CENTER- GRENADA",
-    "hospital_ownership": "Government - State",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "960 AVENT DRIVE", 
+    "city": "GRENADA", 
+    "county_name": "GRENADA", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY OF MISSISSIPPI MEDICAL CENTER- GRENADA", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - State", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"960 AVENT DRIVE\",\"city\":\"GRENADA\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "33.78398156000003",
-        "longitude": "-89.80999564999996",
-        "needs_recoding": false
-    },
-    "location_address": "960 AVENT DRIVE",
-    "location_city": "GRENADA",
-    "location_state": "MS",
-    "location_zip": "38901",
+        "coordinates": [
+            -89.81834, 
+            33.763293
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "960 AVENT DRIVE", 
+    "location_city": "GRENADA", 
+    "location_state": "MS", 
+    "location_zip": "38901", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mmrcrehab.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6622277000",
-    "provider_id": "250168",
-    "raw_ratings": {},
-    "state": "MS",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6622277000", 
+    "provider_id": "250168", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MS", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "38901"
 }

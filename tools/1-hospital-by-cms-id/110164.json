@@ -1,41 +1,49 @@
 {
-    "address": "350 HOSPITAL DRIVE",
-    "city": "MACON",
-    "county_name": "BIBB",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COLISEUM MEDICAL CENTERS",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "350 HOSPITAL DRIVE", 
+    "city": "MACON", 
+    "county_name": "BIBB", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COLISEUM MEDICAL CENTERS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.617823,
-            32.845999
-        ],
+            -83.62027, 
+            32.847315
+        ], 
         "type": "Point"
-    },
-    "location_address": "350 HOSPITAL DRIVE",
-    "location_city": "MACON",
-    "location_state": "GA",
-    "location_zip": "31217",
+    }, 
+    "location_address": "350 HOSPITAL DRIVE", 
+    "location_city": "MACON", 
+    "location_state": "GA", 
+    "location_zip": "31217", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.coliseumhealthsystem.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "4787657000",
-    "provider_id": "110164",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4787657000", 
+    "provider_id": "110164", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "31217"
 }

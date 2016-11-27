@@ -1,39 +1,48 @@
 {
-    "address": "1250 E ALMOND AVE",
-    "city": "MADERA",
-    "county_name": "MADERA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MADERA COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1250 E ALMOND AVE", 
+    "city": "MADERA", 
+    "county_name": "MADERA", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MADERA COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -120.045781,
-            36.945433
-        ],
+            -120.043184, 
+            36.944576
+        ], 
         "type": "Point"
-    },
-    "location_address": "1250 E ALMOND AVE",
-    "location_city": "MADERA",
-    "location_state": "CA",
-    "location_zip": "93637",
+    }, 
+    "location_address": "1250 E ALMOND AVE", 
+    "location_city": "MADERA", 
+    "location_state": "CA", 
+    "location_zip": "93637", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.maderahospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5596755555",
-    "provider_id": "050568",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5596755555", 
+    "provider_id": "050568", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "93637"
 }

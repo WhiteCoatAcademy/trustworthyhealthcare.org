@@ -1,41 +1,49 @@
 {
-    "address": "100 S RAYMOND AVE",
-    "city": "ALHAMBRA",
-    "county_name": "LOS ANGELES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ALHAMBRA HOSPITAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 S RAYMOND AVE", 
+    "city": "ALHAMBRA", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ALHAMBRA HOSPITAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.145019,
-            34.09048
-        ],
+            -118.145017, 
+            34.090156
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 S RAYMOND AVE",
-    "location_city": "ALHAMBRA",
-    "location_state": "CA",
-    "location_zip": "91801",
+    }, 
+    "location_address": "100 S RAYMOND AVE", 
+    "location_city": "ALHAMBRA", 
+    "location_state": "CA", 
+    "location_zip": "91801", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.alhambrahospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Alhambra Hospital Medical Center",
+        "name": "Alhambra Hospital Medical Center", 
         "websites": [
             "www.alhambrahospital.com"
         ]
-    },
-    "phone_number": "6265701606",
-    "provider_id": "050281",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6265701606", 
+    "provider_id": "050281", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "91801"
 }

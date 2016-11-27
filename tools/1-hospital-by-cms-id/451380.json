@@ -1,39 +1,48 @@
 {
-    "address": "117 WINNSBORO STREET",
-    "city": "QUITMAN",
-    "county_name": "WOOD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "EAST TEXAS MEDICAL CENTER QUITMAN",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "117 WINNSBORO STREET", 
+    "city": "QUITMAN", 
+    "county_name": "WOOD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "EAST TEXAS MEDICAL CENTER QUITMAN", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -95.445402,
-            32.795804
-        ],
+            -95.445305, 
+            32.796141
+        ], 
         "type": "Point"
-    },
-    "location_address": "117 WINNSBORO STREET",
-    "location_city": "QUITMAN",
-    "location_state": "TX",
-    "location_zip": "75783",
+    }, 
+    "location_address": "117 WINNSBORO STREET", 
+    "location_city": "QUITMAN", 
+    "location_state": "TX", 
+    "location_zip": "75783", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.reevescountyhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9037634500",
-    "provider_id": "451380",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9037634500", 
+    "provider_id": "451380", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75783"
 }

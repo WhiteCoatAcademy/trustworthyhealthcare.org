@@ -1,41 +1,49 @@
 {
-    "address": "620 BYRON RD",
-    "city": "HOWELL",
-    "county_name": "LIVINGSTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAINT JOSEPH MERCY LIVINGSTON HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "620 BYRON RD", 
+    "city": "HOWELL", 
+    "county_name": "LIVINGSTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAINT JOSEPH MERCY LIVINGSTON HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.939437,
-            42.615593
-        ],
+            -83.939356, 
+            42.615373
+        ], 
         "type": "Point"
-    },
-    "location_address": "620 BYRON RD",
-    "location_city": "HOWELL",
-    "location_state": "MI",
-    "location_zip": "48843",
+    }, 
+    "location_address": "620 BYRON RD", 
+    "location_city": "HOWELL", 
+    "location_state": "MI", 
+    "location_zip": "48843", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sjmercyhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Trinity Health",
+        "name": "Trinity Health", 
         "websites": [
             "www.trinity-health.org"
         ]
-    },
-    "phone_number": "5175456000",
-    "provider_id": "230069",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5175456000", 
+    "provider_id": "230069", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "48843"
 }

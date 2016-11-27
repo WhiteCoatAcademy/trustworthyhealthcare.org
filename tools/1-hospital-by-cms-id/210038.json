@@ -1,41 +1,56 @@
 {
-    "address": "827 LINDEN AVENUE",
-    "city": "BALTIMORE",
-    "county_name": "BALTIMORE CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY OF MD MEDICAL CENTER MIDTOWN CAMPUS",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "827 LINDEN AVENUE", 
+    "city": "BALTIMORE", 
+    "county_name": "BALTIMORE CITY", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY OF MD MEDICAL CENTER MIDTOWN CAMPUS", 
+    "hospital_overall_rating_footnote": "Data suppressed by CMS for one or more quarters", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.620807,
-            39.299501
-        ],
+            -76.620783, 
+            39.298773
+        ], 
         "type": "Point"
-    },
-    "location_address": "827 LINDEN AVENUE",
-    "location_city": "BALTIMORE",
-    "location_state": "MD",
-    "location_zip": "21201",
+    }, 
+    "location_address": "827 LINDEN AVENUE", 
+    "location_city": "BALTIMORE", 
+    "location_state": "MD", 
+    "location_zip": "21201", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.marylandgeneral.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University of Maryland Medical System",
+        "name": "University of Maryland Medical System", 
         "websites": [
             "www.umms.org"
         ]
-    },
-    "phone_number": "4102258996",
-    "provider_id": "210038",
-    "raw_ratings": {},
-    "state": "MD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "phone_number": "4102258996", 
+    "provider_id": "210038", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "state": "MD", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "zip_code": "21201"
 }

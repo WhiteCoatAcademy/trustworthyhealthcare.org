@@ -1,39 +1,47 @@
 {
-    "address": "401 NORTH EWING STREET",
-    "city": "LANCASTER",
-    "county_name": "FAIRFIELD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FAIRFIELD MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "401 NORTH EWING STREET", 
+    "city": "LANCASTER", 
+    "county_name": "FAIRFIELD", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "FAIRFIELD MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.576684,
-            39.717053
-        ],
+            -82.576653, 
+            39.717197
+        ], 
         "type": "Point"
-    },
-    "location_address": "401 NORTH EWING STREET",
-    "location_city": "LANCASTER",
-    "location_state": "OH",
-    "location_zip": "43130",
+    }, 
+    "location_address": "401 NORTH EWING STREET", 
+    "location_city": "LANCASTER", 
+    "location_state": "OH", 
+    "location_zip": "43130", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.fmchealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7406878009",
-    "provider_id": "360072",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7406878009", 
+    "provider_id": "360072", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "43130"
 }

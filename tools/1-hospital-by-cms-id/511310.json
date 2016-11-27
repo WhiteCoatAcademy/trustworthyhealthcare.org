@@ -1,40 +1,54 @@
 {
-    "address": "TERRACE STREET   P O BOX 940",
-    "city": "HINTON",
-    "county_name": "SUMMERS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SUMMERS COUNTY ARH HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "115 SUMMERS HOSPITAL ROAD", 
+    "city": "HINTON", 
+    "county_name": "SUMMERS", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SUMMERS COUNTY ARH HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"TERRACE STREET P O BOX 940\",\"city\":\"HINTON\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "37.67484379800004",
-        "longitude": "-80.88825780399998",
-        "needs_recoding": false
-    },
-    "location_address": "TERRACE STREET P O BOX 940",
-    "location_city": "HINTON",
-    "location_state": "WV",
-    "location_zip": "25951",
+        "coordinates": [
+            -80.89145, 
+            37.674714
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "115 SUMMERS HOSPITAL ROAD", 
+    "location_city": "HINTON", 
+    "location_state": "WV", 
+    "location_zip": "25951", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.arh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Appalachian Regional Healthcare",
+        "name": "Appalachian Regional Healthcare", 
         "websites": [
             "www.arh.org"
         ]
-    },
-    "phone_number": "3044661000",
-    "provider_id": "511310",
-    "raw_ratings": {},
-    "state": "WV",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "3044661000", 
+    "provider_id": "511310", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WV", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "25951"
 }

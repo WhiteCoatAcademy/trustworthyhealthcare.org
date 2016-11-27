@@ -1,41 +1,49 @@
 {
-    "address": "619 SOUTH 19TH STREET",
-    "city": "BIRMINGHAM",
-    "county_name": "JEFFERSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY OF ALABAMA HOSPITAL",
-    "hospital_ownership": "Government - State",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "619 SOUTH 19TH STREET", 
+    "city": "BIRMINGHAM", 
+    "county_name": "JEFFERSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY OF ALABAMA HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - State", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.801922,
+            -86.801922, 
             33.506129
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "619 SOUTH 19TH STREET",
-    "location_city": "BIRMINGHAM",
-    "location_state": "AL",
-    "location_zip": "35233",
+    }, 
+    "location_address": "619 SOUTH 19TH STREET", 
+    "location_city": "BIRMINGHAM", 
+    "location_state": "AL", 
+    "location_zip": "35233", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.health.uab.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "UAB Health System",
+        "name": "UAB Health System", 
         "websites": [
             "www.health.uab.edu"
         ]
-    },
-    "phone_number": "2059344011",
-    "provider_id": "010033",
-    "raw_ratings": {},
-    "state": "AL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2059344011", 
+    "provider_id": "010033", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "AL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "35233"
 }

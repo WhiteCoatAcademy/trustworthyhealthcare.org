@@ -1,41 +1,51 @@
 {
-    "address": "3917 WEST ROAD",
-    "city": "LOS ALAMOS",
-    "county_name": "LOS ALAMOS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LOS ALAMOS MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3917 WEST ROAD", 
+    "city": "LOS ALAMOS", 
+    "county_name": "LOS ALAMOS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LOS ALAMOS MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -106.319762,
-            35.882215
-        ],
+            -106.319768, 
+            35.882164
+        ], 
         "type": "Point"
-    },
-    "location_address": "3917 WEST ROAD",
-    "location_city": "LOS ALAMOS",
-    "location_state": "NM",
-    "location_zip": "87544",
+    }, 
+    "location_address": "3917 WEST ROAD", 
+    "location_city": "LOS ALAMOS", 
+    "location_state": "NM", 
+    "location_zip": "87544", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.losalamosmedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "5056624201",
-    "provider_id": "320033",
-    "raw_ratings": {},
-    "state": "NM",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5056624201", 
+    "provider_id": "320033", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NM", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "87544"
 }

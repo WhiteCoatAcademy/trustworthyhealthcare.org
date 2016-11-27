@@ -1,41 +1,49 @@
 {
-    "address": "1701 N SENATE BLVD",
-    "city": "INDIANAPOLIS",
-    "county_name": "MARION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "INDIANA UNIVERSITY HEALTH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1701 N SENATE BLVD", 
+    "city": "INDIANAPOLIS", 
+    "county_name": "MARION", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "INDIANA UNIVERSITY HEALTH", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.165064,
-            39.790935
-        ],
+            -86.165078, 
+            39.79091
+        ], 
         "type": "Point"
-    },
-    "location_address": "1701 N SENATE BLVD",
-    "location_city": "INDIANAPOLIS",
-    "location_state": "IN",
-    "location_zip": "46202",
+    }, 
+    "location_address": "1701 N SENATE BLVD", 
+    "location_city": "INDIANAPOLIS", 
+    "location_state": "IN", 
+    "location_zip": "46202", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.clarian.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Clarian Health Partners",
+        "name": "Clarian Health Partners", 
         "websites": [
             "www.clarian.org"
         ]
-    },
-    "phone_number": "3179622000",
-    "provider_id": "150056",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3179625900", 
+    "provider_id": "150056", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "46202"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "1701 E 23RD AVENUE",
-    "city": "HUTCHINSON",
-    "county_name": "RENO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HUTCHINSON REGIONAL MEDICAL CENTER INC",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1701 E 23RD AVENUE", 
+    "city": "HUTCHINSON", 
+    "county_name": "RENO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HUTCHINSON REGIONAL MEDICAL CENTER INC", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.894601,
-            38.079454
-        ],
+            -97.892275, 
+            38.079485
+        ], 
         "type": "Point"
-    },
-    "location_address": "1701 E 23RD AVENUE",
-    "location_city": "HUTCHINSON",
-    "location_state": "KS",
-    "location_zip": "67502",
+    }, 
+    "location_address": "1701 E 23RD AVENUE", 
+    "location_city": "HUTCHINSON", 
+    "location_state": "KS", 
+    "location_zip": "67502", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hutchinsonhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6206652001",
-    "provider_id": "170020",
-    "raw_ratings": {},
-    "state": "KS",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6206652001", 
+    "provider_id": "170020", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "KS", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "67502"
 }

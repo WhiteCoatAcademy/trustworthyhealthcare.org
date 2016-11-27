@@ -1,41 +1,49 @@
 {
-    "address": "1555 N BARRINGTON RD",
-    "city": "HOFFMAN ESTATES",
-    "county_name": "COOK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST ALEXIUS MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1555 N BARRINGTON RD", 
+    "city": "HOFFMAN ESTATES", 
+    "county_name": "COOK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST ALEXIUS MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.144445,
-            42.052111
-        ],
+            -88.144445, 
+            42.052409
+        ], 
         "type": "Point"
-    },
-    "location_address": "1555 N BARRINGTON RD",
-    "location_city": "HOFFMAN ESTATES",
-    "location_state": "IL",
-    "location_zip": "60194",
+    }, 
+    "location_address": "1555 N BARRINGTON RD", 
+    "location_city": "HOFFMAN ESTATES", 
+    "location_state": "IL", 
+    "location_zip": "60194", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stalexius.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Alexian Brothers Health System",
+        "name": "Alexian Brothers Health System", 
         "websites": [
             "www.alexianhealthsystem.org"
         ]
-    },
-    "phone_number": "8478432000",
-    "provider_id": "140290",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8478432000", 
+    "provider_id": "140290", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "60194"
 }

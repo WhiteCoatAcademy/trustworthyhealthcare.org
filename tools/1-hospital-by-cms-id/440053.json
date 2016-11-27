@@ -1,41 +1,49 @@
 {
-    "address": "1700 MEDICAL CENTER PARKWAY",
-    "city": "MURFREESBORO",
-    "county_name": "RUTHERFORD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAINT THOMAS RUTHERFORD HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1700 MEDICAL CENTER PARKWAY", 
+    "city": "MURFREESBORO", 
+    "county_name": "RUTHERFORD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAINT THOMAS RUTHERFORD HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.424241,
-            35.85864
-        ],
+            -86.425972, 
+            35.857801
+        ], 
         "type": "Point"
-    },
-    "location_address": "1700 MEDICAL CENTER PARKWAY",
-    "location_city": "MURFREESBORO",
-    "location_state": "TN",
-    "location_zip": "37129",
+    }, 
+    "location_address": "1700 MEDICAL CENTER PARKWAY", 
+    "location_city": "MURFREESBORO", 
+    "location_state": "TN", 
+    "location_zip": "37129", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mtmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ascension Health",
+        "name": "Ascension Health", 
         "websites": [
             "www.ascensionhealth.org"
         ]
-    },
-    "phone_number": "6153964100",
-    "provider_id": "440053",
-    "raw_ratings": {},
-    "state": "TN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6153964100", 
+    "provider_id": "440053", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "37129"
 }

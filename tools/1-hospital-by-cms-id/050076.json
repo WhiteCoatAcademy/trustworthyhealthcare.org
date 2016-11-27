@@ -1,41 +1,54 @@
 {
-    "address": "2425 GEARY BLVD",
-    "city": "SAN FRANCISCO",
-    "county_name": "SAN FRANCISCO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "KAISER FOUNDATION HOSPITAL - SAN FRANCISCO",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2425 GEARY BLVD", 
+    "city": "SAN FRANCISCO", 
+    "county_name": "SAN FRANCISCO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "KAISER FOUNDATION HOSPITAL - SAN FRANCISCO", 
+    "hospital_overall_rating": "3", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.443564,
-            37.782741
-        ],
+            -122.443222, 
+            37.782778
+        ], 
         "type": "Point"
-    },
-    "location_address": "2425 GEARY BLVD",
-    "location_city": "SAN FRANCISCO",
-    "location_state": "CA",
-    "location_zip": "94115",
+    }, 
+    "location_address": "2425 GEARY BLVD", 
+    "location_city": "SAN FRANCISCO", 
+    "location_state": "CA", 
+    "location_zip": "94115", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "members.kaiserpermanente.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Kaiser Foundation Hospitals",
+        "name": "Kaiser Foundation Hospitals", 
         "websites": [
             "www.kaiserpermanente.org"
         ]
-    },
-    "phone_number": "4158332646",
-    "provider_id": "050076",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4158332646", 
+    "provider_id": "050076", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "94115"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "925 WEST ST",
-    "city": "PERU",
-    "county_name": "LA SALLE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ILLINOIS VALLEY COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "925 WEST ST", 
+    "city": "PERU", 
+    "county_name": "LA SALLE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ILLINOIS VALLEY COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.125181,
-            41.328761
-        ],
+            -89.125191, 
+            41.329234
+        ], 
         "type": "Point"
-    },
-    "location_address": "925 WEST ST",
-    "location_city": "PERU",
-    "location_state": "IL",
-    "location_zip": "61354",
+    }, 
+    "location_address": "925 WEST ST", 
+    "location_city": "PERU", 
+    "location_state": "IL", 
+    "location_zip": "61354", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ivch.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8152233300",
-    "provider_id": "140234",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8152233300", 
+    "provider_id": "140234", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "61354"
 }

@@ -1,41 +1,50 @@
 {
-    "address": "506 LENOX AVENUE",
-    "city": "NEW YORK",
-    "county_name": "NEW YORK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HARLEM HOSPITAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "506 LENOX AVENUE", 
+    "city": "NEW YORK", 
+    "county_name": "NEW YORK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HARLEM HOSPITAL CENTER", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.940579,
-            40.814367
-        ],
+            -73.940495, 
+            40.814482
+        ], 
         "type": "Point"
-    },
-    "location_address": "506 LENOX AVENUE",
-    "location_city": "NEW YORK",
-    "location_state": "NY",
-    "location_zip": "10037",
+    }, 
+    "location_address": "506 LENOX AVENUE", 
+    "location_city": "NEW YORK", 
+    "location_state": "NY", 
+    "location_zip": "10037", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nyc.gov"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "New York City Health and Hospitals Corporation",
+        "name": "New York City Health and Hospitals Corporation", 
         "websites": [
             "www.nyc.gov"
         ]
-    },
-    "phone_number": "2124918400",
-    "provider_id": "330240",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2124918400", 
+    "provider_id": "330240", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "10037"
 }

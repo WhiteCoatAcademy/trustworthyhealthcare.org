@@ -1,40 +1,50 @@
 {
-    "address": "275 GUTHRIE DRIVE",
-    "city": "TROY",
-    "county_name": "BRADFORD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TROY COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "275 GUTHRIE DRIVE", 
+    "city": "TROY", 
+    "county_name": "BRADFORD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TROY COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"275 GUTHRIE DRIVE\",\"city\":\"TROY\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "41.78682402900006",
-        "longitude": "-76.78557806999999",
-        "needs_recoding": false
-    },
-    "location_address": "275 GUTHRIE DRIVE",
-    "location_city": "TROY",
-    "location_state": "PA",
-    "location_zip": "16947",
+        "coordinates": [
+            -76.794222, 
+            41.792963
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "275 GUTHRIE DRIVE", 
+    "location_city": "TROY", 
+    "location_state": "PA", 
+    "location_zip": "16947", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.guthrie.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Guthrie Healthcare System",
+        "name": "Guthrie Healthcare System", 
         "websites": [
             "www.guthrie.org"
         ]
-    },
-    "phone_number": "5702972121",
-    "provider_id": "391305",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5702972121", 
+    "provider_id": "391305", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "16947"
 }

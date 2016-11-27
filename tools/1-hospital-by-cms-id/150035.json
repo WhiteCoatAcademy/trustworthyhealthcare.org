@@ -1,41 +1,49 @@
 {
-    "address": "85 EAST US HWY 6",
-    "city": "VALPARAISO",
-    "county_name": "PORTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PORTER REGIONAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "85 EAST US HWY 6", 
+    "city": "VALPARAISO", 
+    "county_name": "PORTER", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PORTER REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.051316,
+            -87.051316, 
             41.55007
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "85 EAST US HWY 6",
-    "location_city": "VALPARAISO",
-    "location_state": "IN",
-    "location_zip": "46383",
+    }, 
+    "location_address": "85 EAST US HWY 6", 
+    "location_city": "VALPARAISO", 
+    "location_state": "IN", 
+    "location_zip": "46383", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.porterhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "2199838300",
-    "provider_id": "150035",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2199838300", 
+    "provider_id": "150035", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "46383"
 }

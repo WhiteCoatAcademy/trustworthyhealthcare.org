@@ -1,40 +1,49 @@
 {
-    "address": "17065 S 71 HIGHWAY",
-    "city": "BELTON",
-    "county_name": "CASS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BELTON REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "17065 S 71 HIGHWAY", 
+    "city": "BELTON", 
+    "county_name": "CASS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BELTON REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"17065 S 71 HIGHWAY\",\"city\":\"BELTON\",\"state\":\"MO\",\"zip\":\"\"}",
-        "latitude": "38.81081154100008",
-        "longitude": "-94.53095840899994",
-        "needs_recoding": false
-    },
-    "location_address": "17065 S 71 HIGHWAY",
-    "location_city": "BELTON",
-    "location_state": "MO",
-    "location_zip": "64012",
+        "coordinates": [
+            -94.50211, 
+            38.813849
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "17065 S 71 HIGHWAY", 
+    "location_city": "BELTON", 
+    "location_state": "MO", 
+    "location_zip": "64012", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.researchbeltonhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "8163481236",
-    "provider_id": "260214",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8163481236", 
+    "provider_id": "260214", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "64012"
 }

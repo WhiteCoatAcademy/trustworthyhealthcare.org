@@ -1,41 +1,54 @@
 {
-    "address": "3325 POCAHONTAS ROAD",
-    "city": "BAKER CITY",
-    "county_name": "BAKER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST ALPHONSUS MEDICAL CENTER - BAKER CITY, INC",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "3325 POCAHONTAS ROAD", 
+    "city": "BAKER CITY", 
+    "county_name": "BAKER", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAINT ALPHONSUS MEDICAL CENTER - BAKER CITY, INC", 
+    "hospital_overall_rating": "4", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -117.847454,
-            44.796118
-        ],
+            -117.846893, 
+            44.796113
+        ], 
         "type": "Point"
-    },
-    "location_address": "3325 POCAHONTAS ROAD",
-    "location_city": "BAKER CITY",
-    "location_state": "OR",
-    "location_zip": "97814",
+    }, 
+    "location_address": "3325 POCAHONTAS ROAD", 
+    "location_city": "BAKER CITY", 
+    "location_state": "OR", 
+    "location_zip": "97814", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stelizabethhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Health Initiatives",
+        "name": "Catholic Health Initiatives", 
         "websites": [
             "www.catholichealthinit.org"
         ]
-    },
-    "phone_number": "5415236461",
-    "provider_id": "381315",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5415236461", 
+    "provider_id": "381315", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "97814"
 }

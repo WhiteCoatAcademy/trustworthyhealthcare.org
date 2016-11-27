@@ -1,41 +1,49 @@
 {
-    "address": "2000 SUTTER PLACE",
-    "city": "DAVIS",
-    "county_name": "YOLO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SUTTER DAVIS HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2000 SUTTER PLACE", 
+    "city": "DAVIS", 
+    "county_name": "YOLO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SUTTER DAVIS HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -121.772611,
-            38.56131
-        ],
+            -121.772522, 
+            38.562923
+        ], 
         "type": "Point"
-    },
-    "location_address": "2000 SUTTER PLACE",
-    "location_city": "DAVIS",
-    "location_state": "CA",
-    "location_zip": "95616",
+    }, 
+    "location_address": "2000 SUTTER PLACE", 
+    "location_city": "DAVIS", 
+    "location_state": "CA", 
+    "location_zip": "95616", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sutterdavis.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sutter Health",
+        "name": "Sutter Health", 
         "websites": [
             "www.sutterhealth.org"
         ]
-    },
-    "phone_number": "5307566440",
-    "provider_id": "050537",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5307566440", 
+    "provider_id": "050537", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "95616"
 }

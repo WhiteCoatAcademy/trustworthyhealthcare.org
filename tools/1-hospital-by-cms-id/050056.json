@@ -1,39 +1,47 @@
 {
-    "address": "1600 W AVE J",
-    "city": "LANCASTER",
-    "county_name": "LOS ANGELES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ANTELOPE VALLEY HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1600 W AVE J", 
+    "city": "LANCASTER", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ANTELOPE VALLEY HOSPITAL", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.157996,
-            34.689374
-        ],
+            -118.158981, 
+            34.689372
+        ], 
         "type": "Point"
-    },
-    "location_address": "1600 W AVE J",
-    "location_city": "LANCASTER",
-    "location_state": "CA",
-    "location_zip": "93534",
+    }, 
+    "location_address": "1600 W AVE J", 
+    "location_city": "LANCASTER", 
+    "location_state": "CA", 
+    "location_zip": "93534", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.avhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6619495000",
-    "provider_id": "050056",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6619495000", 
+    "provider_id": "050056", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "93534"
 }

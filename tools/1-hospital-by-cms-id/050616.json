@@ -1,41 +1,49 @@
 {
-    "address": "2309 ANTONIO AVE",
-    "city": "CAMARILLO",
-    "county_name": "VENTURA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOHNS PLEASANT VALLEY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2309 ANTONIO AVE", 
+    "city": "CAMARILLO", 
+    "county_name": "VENTURA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JOHNS PLEASANT VALLEY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -119.019137,
-            34.244396
-        ],
+            -119.018306, 
+            34.242965
+        ], 
         "type": "Point"
-    },
-    "location_address": "2309 ANTONIO AVE",
-    "location_city": "CAMARILLO",
-    "location_state": "CA",
-    "location_zip": "93010",
+    }, 
+    "location_address": "2309 ANTONIO AVE", 
+    "location_city": "CAMARILLO", 
+    "location_state": "CA", 
+    "location_zip": "93010", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stjohnshealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare West",
+        "name": "Catholic Healthcare West", 
         "websites": [
             "www.chwhealth.org"
         ]
-    },
-    "phone_number": "8053895800",
-    "provider_id": "050616",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8053895800", 
+    "provider_id": "050616", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "93010"
 }

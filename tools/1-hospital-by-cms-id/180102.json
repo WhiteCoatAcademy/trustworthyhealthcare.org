@@ -1,41 +1,49 @@
 {
-    "address": "1530 LONE OAK ROAD",
-    "city": "PADUCAH",
-    "county_name": "MCCRACKEN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LOURDES HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1530 LONE OAK ROAD", 
+    "city": "PADUCAH", 
+    "county_name": "MCCRACKEN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LOURDES HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.652375,
-            37.050207
-        ],
+            -88.648522, 
+            37.052624
+        ], 
         "type": "Point"
-    },
-    "location_address": "1530 LONE OAK ROAD",
-    "location_city": "PADUCAH",
-    "location_state": "KY",
-    "location_zip": "42003",
+    }, 
+    "location_address": "1530 LONE OAK ROAD", 
+    "location_city": "PADUCAH", 
+    "location_state": "KY", 
+    "location_zip": "42003", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lourdes-pad.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare Partners",
+        "name": "Catholic Healthcare Partners", 
         "websites": [
             "www.health-partners.org"
         ]
-    },
-    "phone_number": "2704442444",
-    "provider_id": "180102",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2704442444", 
+    "provider_id": "180102", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "42003"
 }

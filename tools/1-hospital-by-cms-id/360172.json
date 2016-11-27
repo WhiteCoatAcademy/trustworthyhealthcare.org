@@ -1,41 +1,49 @@
 {
-    "address": "3700 KOLBE ROAD",
-    "city": "LORAIN",
-    "county_name": "LORAIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3700 KOLBE ROAD", 
+    "city": "LORAIN", 
+    "county_name": "LORAIN", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.235247,
-            41.436857
-        ],
+            -82.235212, 
+            41.436002
+        ], 
         "type": "Point"
-    },
-    "location_address": "3700 KOLBE ROAD",
-    "location_city": "LORAIN",
-    "location_state": "OH",
-    "location_zip": "44053",
+    }, 
+    "location_address": "3700 KOLBE ROAD", 
+    "location_city": "LORAIN", 
+    "location_state": "OH", 
+    "location_zip": "44053", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ehealthconnection.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare Partners",
+        "name": "Catholic Healthcare Partners", 
         "websites": [
             "www.health-partners.org"
         ]
-    },
-    "phone_number": "4409604000",
-    "provider_id": "360172",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4409604000", 
+    "provider_id": "360172", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "44053"
 }

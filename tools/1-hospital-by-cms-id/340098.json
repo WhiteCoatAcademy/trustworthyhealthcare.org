@@ -1,41 +1,49 @@
 {
-    "address": "10628 PARK RD",
-    "city": "CHARLOTTE",
-    "county_name": "MECKLENBURG",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CAROLINAS HEALTHCARE SYSTEM PINEVILLE",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "10628 PARK RD", 
+    "city": "CHARLOTTE", 
+    "county_name": "MECKLENBURG", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CAROLINAS HEALTHCARE SYSTEM PINEVILLE", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.869569,
+            -80.869569, 
             35.091285
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "10628 PARK RD",
-    "location_city": "CHARLOTTE",
-    "location_state": "NC",
-    "location_zip": "28210",
+    }, 
+    "location_address": "10628 PARK RD", 
+    "location_city": "CHARLOTTE", 
+    "location_state": "NC", 
+    "location_zip": "28210", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.carolinas.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Carolinas HealthCare System",
+        "name": "Carolinas HealthCare System", 
         "websites": [
             "www.carolinas.org"
         ]
-    },
-    "phone_number": "7043795000",
-    "provider_id": "340098",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7043795000", 
+    "provider_id": "340098", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "28210"
 }

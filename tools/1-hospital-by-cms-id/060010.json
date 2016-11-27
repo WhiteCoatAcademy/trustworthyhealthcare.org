@@ -1,41 +1,49 @@
 {
-    "address": "1024 S LEMAY AVE",
-    "city": "FORT COLLINS",
-    "county_name": "LARIMER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "POUDRE VALLEY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1024 S LEMAY AVE", 
+    "city": "FORT COLLINS", 
+    "county_name": "LARIMER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "POUDRE VALLEY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -105.057875,
-            40.571241
-        ],
+            -105.05786, 
+            40.573727
+        ], 
         "type": "Point"
-    },
-    "location_address": "1024 S LEMAY AVE",
-    "location_city": "FORT COLLINS",
-    "location_state": "CO",
-    "location_zip": "80524",
+    }, 
+    "location_address": "1024 S LEMAY AVE", 
+    "location_city": "FORT COLLINS", 
+    "location_state": "CO", 
+    "location_zip": "80524", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pvhs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Poudre Valley Health System",
+        "name": "Poudre Valley Health System", 
         "websites": [
             "www.pvhs.org"
         ]
-    },
-    "phone_number": "9704957000",
-    "provider_id": "060010",
-    "raw_ratings": {},
-    "state": "CO",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9704957000", 
+    "provider_id": "060010", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CO", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "80524"
 }

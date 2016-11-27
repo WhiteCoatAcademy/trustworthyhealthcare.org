@@ -1,41 +1,49 @@
 {
-    "address": "703 N FLAMINGO RD",
-    "city": "PEMBROKE PINES",
-    "county_name": "BROWARD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEMORIAL HOSPITAL WEST",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "703 N FLAMINGO RD", 
+    "city": "PEMBROKE PINES", 
+    "county_name": "BROWARD", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEMORIAL HOSPITAL WEST", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.31195,
-            26.012252
-        ],
+            -80.311994, 
+            26.013933
+        ], 
         "type": "Point"
-    },
-    "location_address": "703 N FLAMINGO RD",
-    "location_city": "PEMBROKE PINES",
-    "location_state": "FL",
-    "location_zip": "33028",
+    }, 
+    "location_address": "703 N FLAMINGO RD", 
+    "location_city": "PEMBROKE PINES", 
+    "location_state": "FL", 
+    "location_zip": "33028", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.memorialwest.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Memorial Healthcare System",
+        "name": "Memorial Healthcare System", 
         "websites": [
             "www.mhs.net"
         ]
-    },
-    "phone_number": "9544365000",
-    "provider_id": "100281",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9544365000", 
+    "provider_id": "100281", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "33028"
 }

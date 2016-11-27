@@ -1,40 +1,49 @@
 {
-    "address": "2175 ROSALINE AVE, CLAIRMONT HGTS",
-    "city": "REDDING",
-    "county_name": "SHASTA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY MEDICAL CENTER REDDING",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2175 ROSALINE AVE, CLAIRMONT HGTS", 
+    "city": "REDDING", 
+    "county_name": "SHASTA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY MEDICAL CENTER REDDING", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"2175 ROSALINE AVE, CLAIRMONT HGTS\",\"city\":\"REDDING\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "40.57287463100005",
-        "longitude": "-122.39560965399994",
-        "needs_recoding": false
-    },
-    "location_address": "2175 ROSALINE AVE, CLAIRMONT HGTS",
-    "location_city": "REDDING",
-    "location_state": "CA",
-    "location_zip": "96001",
+        "coordinates": [
+            -122.37395, 
+            40.581036
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "2175 ROSALINE AVE, CLAIRMONT HGTS", 
+    "location_city": "REDDING", 
+    "location_state": "CA", 
+    "location_zip": "96001", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "redding.mercy.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare West",
+        "name": "Catholic Healthcare West", 
         "websites": [
             "www.chwhealth.org"
         ]
-    },
-    "phone_number": "5302256102",
-    "provider_id": "050280",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5302256102", 
+    "provider_id": "050280", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "96001"
 }

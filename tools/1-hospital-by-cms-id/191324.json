@@ -1,41 +1,51 @@
 {
-    "address": "4608 HIGHWAY 1",
-    "city": "RACELAND",
-    "county_name": "LAFOURCHE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OCHSNER ST ANNE GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "4608 HIGHWAY 1", 
+    "city": "RACELAND", 
+    "county_name": "LAFOURCHE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OCHSNER ST ANNE GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -90.563348,
-            29.702908
-        ],
+            -90.565235, 
+            29.704105
+        ], 
         "type": "Point"
-    },
-    "location_address": "4608 HIGHWAY 1",
-    "location_city": "RACELAND",
-    "location_state": "LA",
-    "location_zip": "70394",
+    }, 
+    "location_address": "4608 HIGHWAY 1", 
+    "location_city": "RACELAND", 
+    "location_state": "LA", 
+    "location_zip": "70394", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ochsner.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ochsner Health System",
+        "name": "Ochsner Health System", 
         "websites": [
             "www.ochsner.org"
         ]
-    },
-    "phone_number": "9855378377",
-    "provider_id": "191324",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9855378377", 
+    "provider_id": "191324", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "70394"
 }

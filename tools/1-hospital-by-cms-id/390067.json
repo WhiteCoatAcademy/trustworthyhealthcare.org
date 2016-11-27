@@ -1,41 +1,49 @@
 {
-    "address": "409 SOUTH SECOND STREET",
-    "city": "HARRISBURG",
-    "county_name": "DAUPHIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PINNACLE HEALTH HOSPITALS",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "409 SOUTH SECOND STREET", 
+    "city": "HARRISBURG", 
+    "county_name": "DAUPHIN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PINNACLE HEALTH HOSPITALS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.83211,
-            40.229944
-        ],
+            -76.875324, 
+            40.256255
+        ], 
         "type": "Point"
-    },
-    "location_address": "409 SOUTH SECOND STREET",
-    "location_city": "HARRISBURG",
-    "location_state": "PA",
-    "location_zip": "17105",
+    }, 
+    "location_address": "409 SOUTH SECOND STREET", 
+    "location_city": "HARRISBURG", 
+    "location_state": "PA", 
+    "location_zip": "17105", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pinnaclehealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Pinnacle Health",
+        "name": "Pinnacle Health", 
         "websites": [
             "www.pinnaclehealth.org"
         ]
-    },
-    "phone_number": "7177825181",
-    "provider_id": "390067",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7177825181", 
+    "provider_id": "390067", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "17105"
 }

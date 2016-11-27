@@ -1,41 +1,52 @@
 {
-    "address": "15 AIKEN AVENUE",
-    "city": "FRANKLIN",
-    "county_name": "MERRIMACK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FRANKLIN REGIONAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "15 AIKEN AVENUE", 
+    "city": "FRANKLIN", 
+    "county_name": "MERRIMACK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FRANKLIN REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -71.642801,
-            43.447764
-        ],
+            -71.64369, 
+            43.448053
+        ], 
         "type": "Point"
-    },
-    "location_address": "15 AIKEN AVENUE",
-    "location_city": "FRANKLIN",
-    "location_state": "NH",
-    "location_zip": "03235",
+    }, 
+    "location_address": "15 AIKEN AVENUE", 
+    "location_city": "FRANKLIN", 
+    "location_state": "NH", 
+    "location_zip": "03235", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lrgh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LRGHealthcare",
+        "name": "LRGHealthcare", 
         "websites": [
             "www.lrgh.org"
         ]
-    },
-    "phone_number": "6039342060",
-    "provider_id": "301306",
-    "raw_ratings": {},
-    "state": "NH",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6039342060", 
+    "provider_id": "301306", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "03235"
 }

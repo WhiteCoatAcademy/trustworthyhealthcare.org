@@ -1,41 +1,49 @@
 {
-    "address": "1653 WEST CONGRESS PARKWAY",
-    "city": "CHICAGO",
-    "county_name": "COOK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "RUSH UNIVERSITY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1653 WEST CONGRESS PARKWAY", 
+    "city": "CHICAGO", 
+    "county_name": "COOK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "RUSH UNIVERSITY MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.669133,
-            41.875158
-        ],
+            -87.66851, 
+            41.875166
+        ], 
         "type": "Point"
-    },
-    "location_address": "1653 WEST CONGRESS PARKWAY",
-    "location_city": "CHICAGO",
-    "location_state": "IL",
-    "location_zip": "60612",
+    }, 
+    "location_address": "1653 WEST CONGRESS PARKWAY", 
+    "location_city": "CHICAGO", 
+    "location_state": "IL", 
+    "location_zip": "60612", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.rush.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Rush System for Health",
+        "name": "Rush System for Health", 
         "websites": [
             "www.rush.edu"
         ]
-    },
-    "phone_number": "3129425000",
-    "provider_id": "140119",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3129425000", 
+    "provider_id": "140119", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "60612"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1155 MILL STREET",
-    "city": "RENO",
-    "county_name": "WASHOE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "RENOWN REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1155 MILL STREET", 
+    "city": "RENO", 
+    "county_name": "WASHOE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "RENOWN REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -119.796626,
-            39.524706
-        ],
+            -119.796721, 
+            39.524747
+        ], 
         "type": "Point"
-    },
-    "location_address": "1155 MILL STREET",
-    "location_city": "RENO",
-    "location_state": "NV",
-    "location_zip": "89502",
+    }, 
+    "location_address": "1155 MILL STREET", 
+    "location_city": "RENO", 
+    "location_state": "NV", 
+    "location_zip": "89502", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.renown.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Renown Health",
+        "name": "Renown Health", 
         "websites": [
             "www.renown.org"
         ]
-    },
-    "phone_number": "7759824100",
-    "provider_id": "290001",
-    "raw_ratings": {},
-    "state": "NV",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7759824100", 
+    "provider_id": "290001", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NV", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "89502"
 }

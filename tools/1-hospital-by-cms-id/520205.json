@@ -1,39 +1,51 @@
 {
-    "address": "10101 SOUTH 27TH ST  2ND FLOOR",
-    "city": "FRANKLIN",
-    "county_name": "MILWAUKEE",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "MIDWEST ORTHOPEDIC SPECIALTY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "10101 SOUTH 27TH ST  2ND FLOOR", 
+    "city": "FRANKLIN", 
+    "county_name": "MILWAUKEE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "MIDWEST ORTHOPEDIC SPECIALTY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.951727,
-            42.859942
-        ],
+            -87.951672, 
+            42.861865
+        ], 
         "type": "Point"
-    },
-    "location_address": "10101 SOUTH 27TH ST 2ND FLOOR",
-    "location_city": "FRANKLIN",
-    "location_state": "WI",
-    "location_zip": "53132",
+    }, 
+    "location_address": "10101 SOUTH 27TH ST 2ND FLOOR", 
+    "location_city": "FRANKLIN", 
+    "location_state": "WI", 
+    "location_zip": "53132", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ministryhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4148175800",
-    "provider_id": "520205",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4148175800", 
+    "provider_id": "520205", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "53132"
 }

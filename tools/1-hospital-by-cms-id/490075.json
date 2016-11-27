@@ -1,41 +1,49 @@
 {
-    "address": "142 SOUTH MAIN STREET",
-    "city": "DANVILLE",
-    "county_name": "DANVILLE CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DANVILLE REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "142 SOUTH MAIN STREET", 
+    "city": "DANVILLE", 
+    "county_name": "DANVILLE CITY", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DANVILLE REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -79.40468,
-            36.577337
-        ],
+            -79.40481, 
+            36.577072
+        ], 
         "type": "Point"
-    },
-    "location_address": "142 SOUTH MAIN STREET",
-    "location_city": "DANVILLE",
-    "location_state": "VA",
-    "location_zip": "24541",
+    }, 
+    "location_address": "142 SOUTH MAIN STREET", 
+    "location_city": "DANVILLE", 
+    "location_state": "VA", 
+    "location_zip": "24541", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.danvilleregional.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "4347992100",
-    "provider_id": "490075",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4347992100", 
+    "provider_id": "490075", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "24541"
 }

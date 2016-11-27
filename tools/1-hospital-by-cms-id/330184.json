@@ -1,41 +1,50 @@
 {
-    "address": "16 GUION PLACE",
-    "city": "NEW ROCHELLE",
-    "county_name": "WESTCHESTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MONTEFIORE NEW ROCHELLE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "16 GUION PLACE", 
+    "city": "NEW ROCHELLE", 
+    "county_name": "WESTCHESTER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MONTEFIORE NEW ROCHELLE HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.786985,
-            40.912931
-        ],
+            -73.786997, 
+            40.912968
+        ], 
         "type": "Point"
-    },
-    "location_address": "16 GUION PLACE",
-    "location_city": "NEW ROCHELLE",
-    "location_state": "NY",
-    "location_zip": "10802",
+    }, 
+    "location_address": "16 GUION PLACE", 
+    "location_city": "NEW ROCHELLE", 
+    "location_state": "NY", 
+    "location_zip": "10802", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ssmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sound Shore Health System",
+        "name": "Sound Shore Health System", 
         "websites": [
             "www.ssmc.org"
         ]
-    },
-    "phone_number": "9146325000",
-    "provider_id": "330184",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9146325000", 
+    "provider_id": "330184", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "10802"
 }

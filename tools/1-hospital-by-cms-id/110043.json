@@ -1,41 +1,49 @@
 {
-    "address": "11705 MERCY BOULEVARD",
-    "city": "SAVANNAH",
-    "county_name": "CHATHAM",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOSEPH'S HOSPITAL - SAVANNAH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "11705 MERCY BOULEVARD", 
+    "city": "SAVANNAH", 
+    "county_name": "CHATHAM", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JOSEPH'S HOSPITAL - SAVANNAH", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.152792,
+            -81.152792, 
             31.985079
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "11705 MERCY BOULEVARD",
-    "location_city": "SAVANNAH",
-    "location_state": "GA",
-    "location_zip": "31419",
+    }, 
+    "location_address": "11705 MERCY BOULEVARD", 
+    "location_city": "SAVANNAH", 
+    "location_state": "GA", 
+    "location_zip": "31419", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sjchs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Joseph's/Candler",
+        "name": "Saint Joseph's/Candler", 
         "websites": [
             "www.sjchs.org"
         ]
-    },
-    "phone_number": "9128194100",
-    "provider_id": "110043",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9128194100", 
+    "provider_id": "110043", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "31419"
 }

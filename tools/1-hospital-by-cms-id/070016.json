@@ -1,39 +1,47 @@
 {
-    "address": "56 FRANKLIN ST",
-    "city": "WATERBURY",
-    "county_name": "NEW HAVEN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAINT MARYS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "56 FRANKLIN ST", 
+    "city": "WATERBURY", 
+    "county_name": "NEW HAVEN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAINT MARYS HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.035948,
-            41.552609
-        ],
+            -73.036041, 
+            41.552251
+        ], 
         "type": "Point"
-    },
-    "location_address": "56 FRANKLIN ST",
-    "location_city": "WATERBURY",
-    "location_state": "CT",
-    "location_zip": "06706",
+    }, 
+    "location_address": "56 FRANKLIN ST", 
+    "location_city": "WATERBURY", 
+    "location_state": "CT", 
+    "location_zip": "06706", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stmh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2035746000",
-    "provider_id": "070016",
-    "raw_ratings": {},
-    "state": "CT",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2035746000", 
+    "provider_id": "070016", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CT", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "06706"
 }

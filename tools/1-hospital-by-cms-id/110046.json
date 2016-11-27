@@ -1,41 +1,50 @@
 {
-    "address": "2151 WEST SPRING STREET",
-    "city": "MONROE",
-    "county_name": "WALTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CLEARVIEW  REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2151 WEST SPRING STREET", 
+    "city": "MONROE", 
+    "county_name": "WALTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CLEARVIEW  REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.746332,
-            33.798652
-        ],
+            -83.746319, 
+            33.798638
+        ], 
         "type": "Point"
-    },
-    "location_address": "2151 WEST SPRING STREET",
-    "location_city": "MONROE",
-    "location_state": "GA",
-    "location_zip": "30655",
+    }, 
+    "location_address": "2151 WEST SPRING STREET", 
+    "location_city": "MONROE", 
+    "location_state": "GA", 
+    "location_zip": "30655", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.walton.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Health Management Associates, Inc.",
+        "name": "Health Management Associates, Inc.", 
         "websites": [
             "www.hma.com"
         ]
-    },
-    "phone_number": "7702678461",
-    "provider_id": "110046",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7702678461", 
+    "provider_id": "110046", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "30655"
 }

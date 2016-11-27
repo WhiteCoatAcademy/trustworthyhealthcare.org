@@ -1,38 +1,50 @@
 {
-    "address": "49725 COUNTY ROAD 83",
-    "city": "STAPLES",
-    "county_name": "TODD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LAKEWOOD HEALTH SYSTEM",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "49725 COUNTY ROAD 83", 
+    "city": "STAPLES", 
+    "county_name": "TODD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LAKEWOOD HEALTH SYSTEM", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"49725 COUNTY ROAD 83\",\"city\":\"STAPLES\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "46.35057575900004",
-        "longitude": "-94.74849112999999",
-        "needs_recoding": false
-    },
-    "location_address": "49725 COUNTY ROAD 83",
-    "location_city": "STAPLES",
-    "location_state": "MN",
-    "location_zip": "56479",
+        "coordinates": [
+            -94.748393, 
+            46.350869
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "49725 COUNTY ROAD 83", 
+    "location_city": "STAPLES", 
+    "location_state": "MN", 
+    "location_zip": "56479", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lakewoodhealthsystem.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2188941515",
-    "provider_id": "241329",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2188941515", 
+    "provider_id": "241329", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "56479"
 }

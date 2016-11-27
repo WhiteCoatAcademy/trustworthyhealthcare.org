@@ -1,41 +1,49 @@
 {
-    "address": "1500 E HOUSTON HWY",
-    "city": "BEEVILLE",
-    "county_name": "BEE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHRISTUS SPOHN HOSPITAL BEEVILLE",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1500 E HOUSTON HWY", 
+    "city": "BEEVILLE", 
+    "county_name": "BEE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHRISTUS SPOHN HOSPITAL BEEVILLE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.732159,
-            28.408247
-        ],
+            -97.731925, 
+            28.408353
+        ], 
         "type": "Point"
-    },
-    "location_address": "1500 E HOUSTON HWY",
-    "location_city": "BEEVILLE",
-    "location_state": "TX",
-    "location_zip": "78102",
+    }, 
+    "location_address": "1500 E HOUSTON HWY", 
+    "location_city": "BEEVILLE", 
+    "location_state": "TX", 
+    "location_zip": "78102", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.christusspohn.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "CHRISTUS Health",
+        "name": "CHRISTUS Health", 
         "websites": [
             "www.christushealth.org"
         ]
-    },
-    "phone_number": "3613542000",
-    "provider_id": "450082",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3613542000", 
+    "provider_id": "450082", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "78102"
 }

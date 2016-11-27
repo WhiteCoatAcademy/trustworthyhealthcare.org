@@ -1,39 +1,47 @@
 {
-    "address": "1101 NOTT STREET",
-    "city": "SCHENECTADY",
-    "county_name": "SCHENECTADY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ELLIS HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1101 NOTT STREET", 
+    "city": "SCHENECTADY", 
+    "county_name": "SCHENECTADY", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ELLIS HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.91653,
-            42.8191
-        ],
+            -73.918883, 
+            42.819818
+        ], 
         "type": "Point"
-    },
-    "location_address": "1101 NOTT STREET",
-    "location_city": "SCHENECTADY",
-    "location_state": "NY",
-    "location_zip": "12308",
+    }, 
+    "location_address": "1101 NOTT STREET", 
+    "location_city": "SCHENECTADY", 
+    "location_state": "NY", 
+    "location_zip": "12308", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ellishospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5182434196",
-    "provider_id": "330153",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5182434000", 
+    "provider_id": "330153", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "12308"
 }

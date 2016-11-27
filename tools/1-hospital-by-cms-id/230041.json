@@ -1,41 +1,49 @@
 {
-    "address": "1900 COLUMBUS AVE",
-    "city": "BAY CITY",
-    "county_name": "BAY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MCLAREN BAY REGION",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1900 COLUMBUS AVE", 
+    "city": "BAY CITY", 
+    "county_name": "BAY", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MCLAREN BAY REGION", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.868741,
-            43.589386
-        ],
+            -83.868688, 
+            43.589393
+        ], 
         "type": "Point"
-    },
-    "location_address": "1900 COLUMBUS AVE",
-    "location_city": "BAY CITY",
-    "location_state": "MI",
-    "location_zip": "48708",
+    }, 
+    "location_address": "1900 COLUMBUS AVE", 
+    "location_city": "BAY CITY", 
+    "location_state": "MI", 
+    "location_zip": "48708", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baymed.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "McLaren Health Care",
+        "name": "McLaren Health Care", 
         "websites": [
             "www.mclarenhealthcare.org"
         ]
-    },
-    "phone_number": "9898943000",
-    "provider_id": "230041",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9898943000", 
+    "provider_id": "230041", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "48708"
 }

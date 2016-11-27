@@ -1,41 +1,56 @@
 {
-    "address": "22 SOUTH  GREENE STREET",
-    "city": "BALTIMORE",
-    "county_name": "BALTIMORE CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY OF MARYLAND MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "22 SOUTH  GREENE STREET", 
+    "city": "BALTIMORE", 
+    "county_name": "BALTIMORE CITY", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY OF MARYLAND MEDICAL CENTER", 
+    "hospital_overall_rating_footnote": "Data suppressed by CMS for one or more quarters", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.623661,
-            39.288956
-        ],
+            -76.623577, 
+            39.28747
+        ], 
         "type": "Point"
-    },
-    "location_address": "22 SOUTH GREENE STREET",
-    "location_city": "BALTIMORE",
-    "location_state": "MD",
-    "location_zip": "21201",
+    }, 
+    "location_address": "22 SOUTH GREENE STREET", 
+    "location_city": "BALTIMORE", 
+    "location_state": "MD", 
+    "location_zip": "21201", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.umm.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University of Maryland Medical System",
+        "name": "University of Maryland Medical System", 
         "websites": [
             "www.umms.org"
         ]
-    },
-    "phone_number": "4103288667",
-    "provider_id": "210002",
-    "raw_ratings": {},
-    "state": "MD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "phone_number": "4103288667", 
+    "provider_id": "210002", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "state": "MD", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "zip_code": "21201"
 }

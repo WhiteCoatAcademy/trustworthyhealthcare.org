@@ -1,41 +1,56 @@
 {
-    "address": "2525 CHICAGO AVENUE SOUTH",
-    "city": "MINNEAPOLIS",
-    "county_name": "HENNEPIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHILDREN'S HOSPITALS & CLINICS OF MN",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Childrens",
+    "address": "2525 CHICAGO AVENUE SOUTH", 
+    "city": "MINNEAPOLIS", 
+    "county_name": "HENNEPIN", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHILDREN'S HOSPITALS & CLINICS OF MN", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Childrens", 
     "location": {
         "coordinates": [
-            -93.262588,
-            44.956009
-        ],
+            -93.262588, 
+            44.956237
+        ], 
         "type": "Point"
-    },
-    "location_address": "2525 CHICAGO AVENUE SOUTH",
-    "location_city": "MINNEAPOLIS",
-    "location_state": "MN",
-    "location_zip": "55404",
+    }, 
+    "location_address": "2525 CHICAGO AVENUE SOUTH", 
+    "location_city": "MINNEAPOLIS", 
+    "location_state": "MN", 
+    "location_zip": "55404", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.childrensmn.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Children's Hospitals and Clinics of Minnesota",
+        "name": "Children's Hospitals and Clinics of Minnesota", 
         "websites": [
             "www.childrensmn.org"
         ]
-    },
-    "phone_number": "6128136112",
-    "provider_id": "243302",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6128136112", 
+    "provider_id": "243302", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "55404"
 }

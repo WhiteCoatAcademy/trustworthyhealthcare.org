@@ -1,41 +1,49 @@
 {
-    "address": "1925 PACIFIC AVENUE",
-    "city": "ATLANTIC CITY",
-    "county_name": "ATLANTIC",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ATLANTICARE REGIONAL MEDICAL CENTER - CITY DIV",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1925 PACIFIC AVENUE", 
+    "city": "ATLANTIC CITY", 
+    "county_name": "ATLANTIC", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ATLANTICARE REGIONAL MEDICAL CENTER - CITY CAMPUS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.433732,
-            39.357876
-        ],
+            -74.433942, 
+            39.357791
+        ], 
         "type": "Point"
-    },
-    "location_address": "1925 PACIFIC AVENUE",
-    "location_city": "ATLANTIC CITY",
-    "location_state": "NJ",
-    "location_zip": "08401",
+    }, 
+    "location_address": "1925 PACIFIC AVENUE", 
+    "location_city": "ATLANTIC CITY", 
+    "location_state": "NJ", 
+    "location_zip": "08401", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.atlanticare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "AtlantiCare, Inc.",
+        "name": "AtlantiCare, Inc.", 
         "websites": [
             "www.atlanticare.org"
         ]
-    },
-    "phone_number": "6094418020",
-    "provider_id": "310064",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6094418020", 
+    "provider_id": "310064", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "08401"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "234 GOODMAN STREET",
-    "city": "CINCINNATI",
-    "county_name": "HAMILTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY OF CINCINNATI MEDICAL CENTER, LLC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "234 GOODMAN STREET", 
+    "city": "CINCINNATI", 
+    "county_name": "HAMILTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY OF CINCINNATI MEDICAL CENTER, LLC", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.502372,
-            39.136716
-        ],
+            -84.502562, 
+            39.136728
+        ], 
         "type": "Point"
-    },
-    "location_address": "234 GOODMAN STREET",
-    "location_city": "CINCINNATI",
-    "location_state": "OH",
-    "location_zip": "45219",
+    }, 
+    "location_address": "234 GOODMAN STREET", 
+    "location_city": "CINCINNATI", 
+    "location_state": "OH", 
+    "location_zip": "45219", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.universityhospitalcincinnati.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Health Alliance",
+        "name": "Health Alliance", 
         "websites": [
             "www.health-alliance.com"
         ]
-    },
-    "phone_number": "5135841000",
-    "provider_id": "360003",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5135841000", 
+    "provider_id": "360003", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "45219"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1915 LAKE AVE",
-    "city": "PLYMOUTH",
-    "county_name": "MARSHALL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAINT JOSEPH REGIONAL MEDICAL CENTER - PLYMOUTH",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1915 LAKE AVE", 
+    "city": "PLYMOUTH", 
+    "county_name": "MARSHALL", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAINT JOSEPH REGIONAL MEDICAL CENTER - PLYMOUTH", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.333446,
-            41.333327
-        ],
+            -86.331617, 
+            41.335562
+        ], 
         "type": "Point"
-    },
-    "location_address": "1915 LAKE AVE",
-    "location_city": "PLYMOUTH",
-    "location_state": "IN",
-    "location_zip": "46563",
+    }, 
+    "location_address": "1915 LAKE AVE", 
+    "location_city": "PLYMOUTH", 
+    "location_state": "IN", 
+    "location_zip": "46563", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sjmed.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Trinity Health",
+        "name": "Trinity Health", 
         "websites": [
             "www.trinity-health.org"
         ]
-    },
-    "phone_number": "5749484000",
-    "provider_id": "150076",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5749484000", 
+    "provider_id": "150076", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "46563"
 }

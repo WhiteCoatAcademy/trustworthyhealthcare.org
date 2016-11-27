@@ -1,41 +1,49 @@
 {
-    "address": "1414 KUHL AVE",
-    "city": "ORLANDO",
-    "county_name": "ORANGE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ORLANDO HEALTH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "52 W UNDERWOOD ST", 
+    "city": "ORLANDO", 
+    "county_name": "ORANGE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ORLANDO HEALTH", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.378093,
-            28.524911
-        ],
+            -81.378203, 
+            28.526925
+        ], 
         "type": "Point"
-    },
-    "location_address": "1414 KUHL AVE",
-    "location_city": "ORLANDO",
-    "location_state": "FL",
-    "location_zip": "32806",
+    }, 
+    "location_address": "52 W UNDERWOOD ST", 
+    "location_city": "ORLANDO", 
+    "location_state": "FL", 
+    "location_zip": "32806", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.orlandohealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Orlando Health",
+        "name": "Orlando Health", 
         "websites": [
             "www.orlandohealth.com"
         ]
-    },
-    "phone_number": "3218438000",
-    "provider_id": "100006",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3218438000", 
+    "provider_id": "100006", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "32806"
 }

@@ -1,41 +1,54 @@
 {
-    "address": "1039 MONTGOMERY STREET",
-    "city": "CUSTER",
-    "county_name": "CUSTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CUSTER REGIONAL HOSPITAL - CAH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1039 MONTGOMERY STREET", 
+    "city": "CUSTER", 
+    "county_name": "CUSTER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CUSTER REGIONAL HOSPITAL - CAH", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -103.593355,
-            43.772139
-        ],
+            -103.59287, 
+            43.772267
+        ], 
         "type": "Point"
-    },
-    "location_address": "1039 MONTGOMERY STREET",
-    "location_city": "CUSTER",
-    "location_state": "SD",
-    "location_zip": "57730",
+    }, 
+    "location_address": "1039 MONTGOMERY STREET", 
+    "location_city": "CUSTER", 
+    "location_state": "SD", 
+    "location_zip": "57730", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.rcrh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Regional Health, Inc.",
+        "name": "Regional Health, Inc.", 
         "websites": [
             "www.rcrh.org"
         ]
-    },
-    "phone_number": "6056739400",
-    "provider_id": "431323",
-    "raw_ratings": {},
-    "state": "SD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6056739400", 
+    "provider_id": "431323", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "SD", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "57730"
 }

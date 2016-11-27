@@ -1,41 +1,49 @@
 {
-    "address": "7901 FROST ST",
-    "city": "SAN DIEGO",
-    "county_name": "SAN DIEGO",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "SHARP MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "7901 FROST ST", 
+    "city": "SAN DIEGO", 
+    "county_name": "SAN DIEGO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SHARP MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.154391,
-            32.800257
-        ],
+            -117.154133, 
+            32.800255
+        ], 
         "type": "Point"
-    },
-    "location_address": "7901 FROST ST",
-    "location_city": "SAN DIEGO",
-    "location_state": "CA",
-    "location_zip": "92123",
+    }, 
+    "location_address": "7901 FROST ST", 
+    "location_city": "SAN DIEGO", 
+    "location_state": "CA", 
+    "location_zip": "92123", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sharp.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sharp Healthcare",
+        "name": "Sharp Healthcare", 
         "websites": [
             "www.sharp.com"
         ]
-    },
-    "phone_number": "8589393400",
-    "provider_id": "050100",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8589393400", 
+    "provider_id": "050100", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "92123"
 }

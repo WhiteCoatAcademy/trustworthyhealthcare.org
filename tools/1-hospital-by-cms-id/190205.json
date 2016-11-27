@@ -1,41 +1,49 @@
 {
-    "address": "2810 AMBASSADOR CAFFERY PARKWAY",
-    "city": "LAFAYETTE",
-    "county_name": "LAFAYETTE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "THE REGIONAL MEDICAL CENTER OF ACADIANA",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4600 AMBASSADOR CAFFERY PARKWAY", 
+    "city": "LAFAYETTE", 
+    "county_name": "LAFAYETTE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WOMEN'S AND CHILDREN'S HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -92.075264,
-            30.198006
-        ],
+            -92.045679, 
+            30.154239
+        ], 
         "type": "Point"
-    },
-    "location_address": "2810 AMBASSADOR CAFFERY PARKWAY",
-    "location_city": "LAFAYETTE",
-    "location_state": "LA",
-    "location_zip": "70506",
+    }, 
+    "location_address": "4600 AMBASSADOR CAFFERY PARKWAY", 
+    "location_city": "LAFAYETTE", 
+    "location_state": "LA", 
+    "location_zip": "70508", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.medicalcentersw.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "3379812949",
-    "provider_id": "190205",
-    "raw_ratings": {},
-    "state": "LA",
-    "zip_code": "70506"
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3379812949", 
+    "provider_id": "190205", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
+    "zip_code": "70508"
 }

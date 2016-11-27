@@ -1,41 +1,49 @@
 {
-    "address": "2701 17TH ST",
-    "city": "ROCK ISLAND",
-    "county_name": "ROCK ISLAND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TRINITY ROCK ISLAND",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2701 17TH ST", 
+    "city": "ROCK ISLAND", 
+    "county_name": "ROCK ISLAND", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TRINITY ROCK ISLAND", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.572785,
-            41.481971
-        ],
+            -90.572799, 
+            41.483649
+        ], 
         "type": "Point"
-    },
-    "location_address": "2701 17TH ST",
-    "location_city": "ROCK ISLAND",
-    "location_state": "IL",
-    "location_zip": "61201",
+    }, 
+    "location_address": "2701 17TH ST", 
+    "location_city": "ROCK ISLAND", 
+    "location_state": "IL", 
+    "location_zip": "61201", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.trinityqc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Trinity Regional Health System",
+        "name": "Trinity Regional Health System", 
         "websites": [
             "www.trinityqc.com"
         ]
-    },
-    "phone_number": "3097795000",
-    "provider_id": "140280",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3097795000", 
+    "provider_id": "140280", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "61201"
 }

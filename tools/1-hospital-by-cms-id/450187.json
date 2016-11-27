@@ -1,41 +1,49 @@
 {
-    "address": "700 MEDICAL PARKWAY",
-    "city": "BRENHAM",
-    "county_name": "WASHINGTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SCOTT & WHITE HOSPITAL BRENHAM",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "700 MEDICAL PARKWAY", 
+    "city": "BRENHAM", 
+    "county_name": "WASHINGTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SCOTT & WHITE HOSPITAL BRENHAM", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.398828,
-            30.145217
-        ],
+            -96.398937, 
+            30.145082
+        ], 
         "type": "Point"
-    },
-    "location_address": "700 MEDICAL PARKWAY",
-    "location_city": "BRENHAM",
-    "location_state": "TX",
-    "location_zip": "77833",
+    }, 
+    "location_address": "700 MEDICAL PARKWAY", 
+    "location_city": "BRENHAM", 
+    "location_state": "TX", 
+    "location_zip": "77833", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.trinitymed.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Franciscan Services Corporation",
+        "name": "Franciscan Services Corporation", 
         "websites": [
             "www.fscsylvania.org"
         ]
-    },
-    "phone_number": "9798366173",
-    "provider_id": "450187",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9798366173", 
+    "provider_id": "450187", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "77833"
 }

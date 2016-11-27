@@ -1,41 +1,49 @@
 {
-    "address": "1509 E WILSON TERRACE",
-    "city": "GLENDALE",
-    "county_name": "LOS ANGELES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GLENDALE ADVENTIST MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1509 E WILSON TERRACE", 
+    "city": "GLENDALE", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GLENDALE ADVENTIST MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.231078,
-            34.149471
-        ],
+            -118.230354, 
+            34.149161
+        ], 
         "type": "Point"
-    },
-    "location_address": "1509 E WILSON TERRACE",
-    "location_city": "GLENDALE",
-    "location_state": "CA",
-    "location_zip": "91206",
+    }, 
+    "location_address": "1509 E WILSON TERRACE", 
+    "location_city": "GLENDALE", 
+    "location_state": "CA", 
+    "location_zip": "91206", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.glendaleadventist.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Adventist Health",
+        "name": "Adventist Health", 
         "websites": [
             "www.adventisthealth.com"
         ]
-    },
-    "phone_number": "8184098202",
-    "provider_id": "050239",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8184098202", 
+    "provider_id": "050239", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "91206"
 }

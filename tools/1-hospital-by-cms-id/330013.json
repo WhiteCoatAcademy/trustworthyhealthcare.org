@@ -1,39 +1,47 @@
 {
-    "address": "43 NEW SCOTLAND AVENUE",
-    "city": "ALBANY",
-    "county_name": "ALBANY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ALBANY MEDICAL CENTER HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "43 NEW SCOTLAND AVENUE", 
+    "city": "ALBANY", 
+    "county_name": "ALBANY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ALBANY MEDICAL CENTER HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.773775,
-            42.653333
-        ],
+            -73.77386, 
+            42.653254
+        ], 
         "type": "Point"
-    },
-    "location_address": "43 NEW SCOTLAND AVENUE",
-    "location_city": "ALBANY",
-    "location_state": "NY",
-    "location_zip": "12208",
+    }, 
+    "location_address": "43 NEW SCOTLAND AVENUE", 
+    "location_city": "ALBANY", 
+    "location_state": "NY", 
+    "location_zip": "12208", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.amc.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5182623125",
-    "provider_id": "330013",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5182623000", 
+    "provider_id": "330013", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "12208"
 }

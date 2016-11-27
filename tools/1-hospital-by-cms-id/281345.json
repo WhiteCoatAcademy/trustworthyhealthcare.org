@@ -1,39 +1,51 @@
 {
-    "address": "1200 PROVIDENCE RD",
-    "city": "WAYNE",
-    "county_name": "WAYNE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PROVIDENCE MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1200 PROVIDENCE RD", 
+    "city": "WAYNE", 
+    "county_name": "WAYNE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PROVIDENCE MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -97.008069,
-            42.240694
-        ],
+            -97.008061, 
+            42.241705
+        ], 
         "type": "Point"
-    },
-    "location_address": "1200 PROVIDENCE RD",
-    "location_city": "WAYNE",
-    "location_state": "NE",
-    "location_zip": "68787",
+    }, 
+    "location_address": "1200 PROVIDENCE RD", 
+    "location_city": "WAYNE", 
+    "location_state": "NE", 
+    "location_zip": "68787", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.providencemedical.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4023753800",
-    "provider_id": "281345",
-    "raw_ratings": {},
-    "state": "NE",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "4023753800", 
+    "provider_id": "281345", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NE", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "68787"
 }

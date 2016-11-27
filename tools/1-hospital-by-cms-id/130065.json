@@ -1,39 +1,50 @@
 {
-    "address": "2325 CORONADO STREET",
-    "city": "IDAHO FALLS",
-    "county_name": "BONNEVILLE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MOUNTAIN VIEW HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2325 CORONADO STREET", 
+    "city": "IDAHO FALLS", 
+    "county_name": "BONNEVILLE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MOUNTAIN VIEW HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -111.987748,
-            43.472521
-        ],
+            -111.988717, 
+            43.472524
+        ], 
         "type": "Point"
-    },
-    "location_address": "2325 CORONADO STREET",
-    "location_city": "IDAHO FALLS",
-    "location_state": "ID",
-    "location_zip": "83404",
+    }, 
+    "location_address": "2325 CORONADO STREET", 
+    "location_city": "IDAHO FALLS", 
+    "location_state": "ID", 
+    "location_zip": "83404", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mountainviewhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2085572711",
-    "provider_id": "130065",
-    "raw_ratings": {},
-    "state": "ID",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2085572700", 
+    "provider_id": "130065", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "ID", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "83404"
 }

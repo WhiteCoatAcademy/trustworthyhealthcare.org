@@ -1,41 +1,50 @@
 {
-    "address": "500 WEST MAIN STREET",
-    "city": "LEWISVILLE",
-    "county_name": "DENTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEDICAL CENTER OF LEWISVILLE",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "500 WEST MAIN STREET", 
+    "city": "LEWISVILLE", 
+    "county_name": "DENTON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEDICAL CENTER OF LEWISVILLE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.004207,
+            -97.004207, 
             33.046306
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "500 WEST MAIN STREET",
-    "location_city": "LEWISVILLE",
-    "location_state": "TX",
-    "location_zip": "75057",
+    }, 
+    "location_address": "500 WEST MAIN STREET", 
+    "location_city": "LEWISVILLE", 
+    "location_state": "TX", 
+    "location_zip": "75057", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lewisvillemedical.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "9724201000",
-    "provider_id": "450669",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9724201000", 
+    "provider_id": "450669", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "75057"
 }

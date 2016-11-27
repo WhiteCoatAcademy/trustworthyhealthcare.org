@@ -1,41 +1,49 @@
 {
-    "address": "1400 WEST PARK AVENUE",
-    "city": "URBANA",
-    "county_name": "CHAMPAIGN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PRESENCE COVENANT MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1400 WEST PARK AVENUE", 
+    "city": "URBANA", 
+    "county_name": "CHAMPAIGN", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PRESENCE COVENANT MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.227123,
+            -88.227123, 
             40.117391
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1400 WEST PARK AVENUE",
-    "location_city": "URBANA",
-    "location_state": "IL",
-    "location_zip": "61801",
+    }, 
+    "location_address": "1400 WEST PARK AVENUE", 
+    "location_city": "URBANA", 
+    "location_state": "IL", 
+    "location_zip": "61801", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.provena.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Provena Health",
+        "name": "Provena Health", 
         "websites": [
             "www.provena.org"
         ]
-    },
-    "phone_number": "2173372000",
-    "provider_id": "140113",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2173372000", 
+    "provider_id": "140113", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "61801"
 }

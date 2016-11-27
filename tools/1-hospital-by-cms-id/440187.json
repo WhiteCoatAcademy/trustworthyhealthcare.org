@@ -1,41 +1,49 @@
 {
-    "address": "315 OAK ST BOX 550",
-    "city": "LIVINGSTON",
-    "county_name": "OVERTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LIVINGSTON REGIONAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "315 OAK ST BOX 550", 
+    "city": "LIVINGSTON", 
+    "county_name": "OVERTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LIVINGSTON REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.328086,
-            36.384664
-        ],
+            -85.328097, 
+            36.384695
+        ], 
         "type": "Point"
-    },
-    "location_address": "315 OAK ST BOX 550",
-    "location_city": "LIVINGSTON",
-    "location_state": "TN",
-    "location_zip": "38570",
+    }, 
+    "location_address": "315 OAK ST BOX 550", 
+    "location_city": "LIVINGSTON", 
+    "location_state": "TN", 
+    "location_zip": "38570", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.livingstonregionalhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "9318235611",
-    "provider_id": "440187",
-    "raw_ratings": {},
-    "state": "TN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9318235611", 
+    "provider_id": "440187", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "TN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "38570"
 }

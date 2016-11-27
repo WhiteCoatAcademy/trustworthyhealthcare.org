@@ -1,41 +1,49 @@
 {
-    "address": "1000 SOUTH BECKHAM STREET",
-    "city": "TYLER",
-    "county_name": "SMITH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "EAST TEXAS MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1000 SOUTH BECKHAM STREET", 
+    "city": "TYLER", 
+    "county_name": "SMITH", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "EAST TEXAS MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.291862,
+            -95.291862, 
             32.338102
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1000 SOUTH BECKHAM STREET",
-    "location_city": "TYLER",
-    "location_state": "TX",
-    "location_zip": "75701",
+    }, 
+    "location_address": "1000 SOUTH BECKHAM STREET", 
+    "location_city": "TYLER", 
+    "location_state": "TX", 
+    "location_zip": "75701", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.etmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "East Texas Medical Center Regional Healthcare System",
+        "name": "East Texas Medical Center Regional Healthcare System", 
         "websites": [
             "www.etmc.org"
         ]
-    },
-    "phone_number": "9035970351",
-    "provider_id": "450083",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9035970351", 
+    "provider_id": "450083", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75701"
 }

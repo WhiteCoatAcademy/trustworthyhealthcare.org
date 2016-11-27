@@ -1,41 +1,49 @@
 {
-    "address": "1601 W 11TH PLACE",
-    "city": "BIG SPRING",
-    "county_name": "HOWARD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SCENIC MOUNTAIN MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1601 W 11TH PLACE", 
+    "city": "BIG SPRING", 
+    "county_name": "HOWARD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SCENIC MOUNTAIN MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -101.494337,
-            32.239603
-        ],
+            -101.494049, 
+            32.239665
+        ], 
         "type": "Point"
-    },
-    "location_address": "1601 W 11TH PLACE",
-    "location_city": "BIG SPRING",
-    "location_state": "TX",
-    "location_zip": "79720",
+    }, 
+    "location_address": "1601 W 11TH PLACE", 
+    "location_city": "BIG SPRING", 
+    "location_state": "TX", 
+    "location_zip": "79720", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.smmccares.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "4322631211",
-    "provider_id": "450653",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4322631211", 
+    "provider_id": "450653", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "79720"
 }

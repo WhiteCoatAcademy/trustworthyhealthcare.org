@@ -1,41 +1,50 @@
 {
-    "address": "1777 CURTIS DRIVE",
-    "city": "IUKA",
-    "county_name": "TISHOMINGO",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "TISHOMINGO HEALTH SERVICES INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1777 CURTIS DRIVE", 
+    "city": "IUKA", 
+    "county_name": "TISHOMINGO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TISHOMINGO HEALTH SERVICES INC", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.208438,
-            34.803672
-        ],
+            -88.209218, 
+            34.803686
+        ], 
         "type": "Point"
-    },
-    "location_address": "1777 CURTIS DRIVE",
-    "location_city": "IUKA",
-    "location_state": "MS",
-    "location_zip": "38852",
+    }, 
+    "location_address": "1777 CURTIS DRIVE", 
+    "location_city": "IUKA", 
+    "location_state": "MS", 
+    "location_zip": "38852", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nmhs.net"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "North Mississippi Medical Center",
+        "name": "North Mississippi Medical Center", 
         "websites": [
             "www.nmhs.net"
         ]
-    },
-    "phone_number": "6624236051",
-    "provider_id": "250002",
-    "raw_ratings": {},
-    "state": "MS",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6624236051", 
+    "provider_id": "250002", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MS", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "38852"
 }

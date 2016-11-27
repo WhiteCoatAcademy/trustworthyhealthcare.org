@@ -1,39 +1,47 @@
 {
-    "address": "6000 HOSPITAL DR",
-    "city": "HANNIBAL",
-    "county_name": "MARION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HANNIBAL REGIONAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6000 HOSPITAL DR", 
+    "city": "HANNIBAL", 
+    "county_name": "MARION", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HANNIBAL REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -91.449829,
-            39.710492
-        ],
+            -91.443967, 
+            39.710595
+        ], 
         "type": "Point"
-    },
-    "location_address": "6000 HOSPITAL DR",
-    "location_city": "HANNIBAL",
-    "location_state": "MO",
-    "location_zip": "63401",
+    }, 
+    "location_address": "6000 HOSPITAL DR", 
+    "location_city": "HANNIBAL", 
+    "location_state": "MO", 
+    "location_zip": "63401", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hrhonline.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5732481300",
-    "provider_id": "260025",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5732481300", 
+    "provider_id": "260025", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "63401"
 }

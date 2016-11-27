@@ -1,41 +1,49 @@
 {
-    "address": "2300 MARIE CURIE DRIVE",
-    "city": "GARLAND",
-    "county_name": "DALLAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BAYLOR SCOTT & WHITE MEDICAL CENTER GARLAND",
-    "hospital_ownership": "Government - Federal",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2300 MARIE CURIE DRIVE", 
+    "city": "GARLAND", 
+    "county_name": "DALLAS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BAYLOR SCOTT & WHITE MEDICAL CENTER GARLAND", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Federal", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.661092,
-            32.918601
-        ],
+            -96.661874, 
+            32.918596
+        ], 
         "type": "Point"
-    },
-    "location_address": "2300 MARIE CURIE DRIVE",
-    "location_city": "GARLAND",
-    "location_state": "TX",
-    "location_zip": "75042",
+    }, 
+    "location_address": "2300 MARIE CURIE DRIVE", 
+    "location_city": "GARLAND", 
+    "location_state": "TX", 
+    "location_zip": "75042", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Baylor Health Care System",
+        "name": "Baylor Health Care System", 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "phone_number": "9724875000",
-    "provider_id": "450280",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9724875000", 
+    "provider_id": "450280", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "75042"
 }

@@ -1,39 +1,50 @@
 {
-    "address": "6130 PARKWAY DRIVE",
-    "city": "CORPUS CHRISTI",
-    "county_name": "NUECES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOUTH TEXAS SURGICAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6130 PARKWAY DRIVE", 
+    "city": "CORPUS CHRISTI", 
+    "county_name": "NUECES", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTH TEXAS SURGICAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.374867,
-            27.687208
-        ],
+            -97.374297, 
+            27.68775
+        ], 
         "type": "Point"
-    },
-    "location_address": "6130 PARKWAY DRIVE",
-    "location_city": "CORPUS CHRISTI",
-    "location_state": "TX",
-    "location_zip": "78414",
+    }, 
+    "location_address": "6130 PARKWAY DRIVE", 
+    "location_city": "CORPUS CHRISTI", 
+    "location_state": "TX", 
+    "location_zip": "78414", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3619932000",
-    "provider_id": "670061",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3619932000", 
+    "provider_id": "670061", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "78414"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "3600 FLORIDA STREET",
-    "city": "BATON ROUGE",
-    "county_name": "EAST BATON ROUGE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BATON ROUGE GENERAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3600 FLORIDA STREET", 
+    "city": "BATON ROUGE", 
+    "county_name": "EAST BATON ROUGE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BATON ROUGE GENERAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -91.154638,
+            -91.154638, 
             30.450336
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "3600 FLORIDA STREET",
-    "location_city": "BATON ROUGE",
-    "location_state": "LA",
-    "location_zip": "70806",
+    }, 
+    "location_address": "3600 FLORIDA STREET", 
+    "location_city": "BATON ROUGE", 
+    "location_state": "LA", 
+    "location_zip": "70806", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.generalhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "General Health System",
+        "name": "General Health System", 
         "websites": [
             "www.generalhealthsystem.org"
         ]
-    },
-    "phone_number": "2253877767",
-    "provider_id": "190065",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2253877767", 
+    "provider_id": "190065", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "70806"
 }

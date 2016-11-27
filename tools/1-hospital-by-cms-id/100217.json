@@ -1,41 +1,49 @@
 {
-    "address": "13695 US HWY 1",
-    "city": "SEBASTIAN",
-    "county_name": "INDIAN RIVER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SEBASTIAN RIVER MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "13695 US HWY 1", 
+    "city": "SEBASTIAN", 
+    "county_name": "INDIAN RIVER", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SEBASTIAN RIVER MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.488128,
+            -80.488128, 
             27.844359
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "13695 US HWY 1",
-    "location_city": "SEBASTIAN",
-    "location_state": "FL",
-    "location_zip": "32978",
+    }, 
+    "location_address": "13695 US HWY 1", 
+    "location_city": "SEBASTIAN", 
+    "location_state": "FL", 
+    "location_zip": "32978", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.srmcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Health Management Associates, Inc.",
+        "name": "Health Management Associates, Inc.", 
         "websites": [
             "www.hma.com"
         ]
-    },
-    "phone_number": "7725893187",
-    "provider_id": "100217",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7725893187", 
+    "provider_id": "100217", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "32978"
 }

@@ -1,39 +1,51 @@
 {
-    "address": "607 W MAIN STREET",
-    "city": "GRANGEVILLE",
-    "county_name": "IDAHO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SYRINGA GENERAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "607 W MAIN STREET", 
+    "city": "GRANGEVILLE", 
+    "county_name": "IDAHO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SYRINGA GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -116.127519,
-            45.926791
-        ],
+            -116.126994, 
+            45.926789
+        ], 
         "type": "Point"
-    },
-    "location_address": "607 W MAIN STREET",
-    "location_city": "GRANGEVILLE",
-    "location_state": "ID",
-    "location_zip": "83530",
+    }, 
+    "location_address": "607 W MAIN STREET", 
+    "location_city": "GRANGEVILLE", 
+    "location_state": "ID", 
+    "location_zip": "83530", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.syringahospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2089831700",
-    "provider_id": "131315",
-    "raw_ratings": {},
-    "state": "ID",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2089831700", 
+    "provider_id": "131315", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "ID", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "83530"
 }

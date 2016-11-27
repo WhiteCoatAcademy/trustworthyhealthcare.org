@@ -1,39 +1,47 @@
 {
-    "address": "401 MATTHEW STREET",
-    "city": "MARIETTA",
-    "county_name": "WASHINGTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MARIETTA MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "401 MATTHEW STREET", 
+    "city": "MARIETTA", 
+    "county_name": "WASHINGTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MARIETTA MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.465074,
-            39.430679
-        ],
+            -81.464717, 
+            39.431621
+        ], 
         "type": "Point"
-    },
-    "location_address": "401 MATTHEW STREET",
-    "location_city": "MARIETTA",
-    "location_state": "OH",
-    "location_zip": "45750",
+    }, 
+    "location_address": "401 MATTHEW STREET", 
+    "location_city": "MARIETTA", 
+    "location_state": "OH", 
+    "location_zip": "45750", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mmhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7403741400",
-    "provider_id": "360147",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7403741400", 
+    "provider_id": "360147", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "45750"
 }

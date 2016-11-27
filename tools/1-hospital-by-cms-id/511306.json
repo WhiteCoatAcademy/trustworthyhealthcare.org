@@ -1,39 +1,51 @@
 {
-    "address": "200 HOSPITAL DRIVE",
-    "city": "SPENCER",
-    "county_name": "ROANE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ROANE GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "200 HOSPITAL DRIVE", 
+    "city": "SPENCER", 
+    "county_name": "ROANE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ROANE GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -81.367867,
-            38.811881
-        ],
+            -81.36887, 
+            38.813653
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 HOSPITAL DRIVE",
-    "location_city": "SPENCER",
-    "location_state": "WV",
-    "location_zip": "25276",
+    }, 
+    "location_address": "200 HOSPITAL DRIVE", 
+    "location_city": "SPENCER", 
+    "location_state": "WV", 
+    "location_zip": "25276", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.roanegeneralhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3049274444",
-    "provider_id": "511306",
-    "raw_ratings": {},
-    "state": "WV",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "3049274444", 
+    "provider_id": "511306", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WV", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "25276"
 }

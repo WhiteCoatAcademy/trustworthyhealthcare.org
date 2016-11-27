@@ -1,41 +1,49 @@
 {
-    "address": "1920 ATHERHOLT ROAD",
-    "city": "LYNCHBURG",
-    "county_name": "LYNCHBURG CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CENTRA  HEALTH, INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1901 TATE SPRINGS ROAD", 
+    "city": "LYNCHBURG", 
+    "county_name": "LYNCHBURG CITY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CENTRA  HEALTH, INC", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -79.169688,
-            37.413946
-        ],
+            -79.169753, 
+            37.416648
+        ], 
         "type": "Point"
-    },
-    "location_address": "1920 ATHERHOLT ROAD",
-    "location_city": "LYNCHBURG",
-    "location_state": "VA",
-    "location_zip": "24501",
+    }, 
+    "location_address": "1901 TATE SPRINGS ROAD", 
+    "location_city": "LYNCHBURG", 
+    "location_state": "VA", 
+    "location_zip": "24501", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.centrahealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Centra Health",
+        "name": "Centra Health", 
         "websites": [
             "www.centrahealth.com"
         ]
-    },
-    "phone_number": "4342004789",
-    "provider_id": "490021",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4342004789", 
+    "provider_id": "490021", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "24501"
 }

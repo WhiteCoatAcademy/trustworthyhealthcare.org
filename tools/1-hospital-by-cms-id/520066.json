@@ -1,41 +1,49 @@
 {
-    "address": "1000 MINERAL POINT AVE",
-    "city": "JANESVILLE",
-    "county_name": "ROCK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY HEALTH SYSTEM CORP",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1000 MINERAL POINT AVE", 
+    "city": "JANESVILLE", 
+    "county_name": "ROCK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY HEALTH SYSTEM CORP", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.0331,
-            42.686742
-        ],
+            -89.032725, 
+            42.686744
+        ], 
         "type": "Point"
-    },
-    "location_address": "1000 MINERAL POINT AVE",
-    "location_city": "JANESVILLE",
-    "location_state": "WI",
-    "location_zip": "53548",
+    }, 
+    "location_address": "1000 MINERAL POINT AVE", 
+    "location_city": "JANESVILLE", 
+    "location_state": "WI", 
+    "location_zip": "53548", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mercyhealthsystem.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Mercy Health System",
+        "name": "Mercy Health System", 
         "websites": [
             "www.mercyhealthsystem.org"
         ]
-    },
-    "phone_number": "6087566080",
-    "provider_id": "520066",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6087566080", 
+    "provider_id": "520066", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "53548"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1000 HARRINGTON BLVD",
-    "city": "MOUNT CLEMENS",
-    "county_name": "MACOMB",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MCLAREN MACOMB",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1000 HARRINGTON BLVD", 
+    "city": "MOUNT CLEMENS", 
+    "county_name": "MACOMB", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MCLAREN MACOMB", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.897089,
-            42.586815
-        ],
+            -82.896919, 
+            42.586795
+        ], 
         "type": "Point"
-    },
-    "location_address": "1000 HARRINGTON BLVD",
-    "location_city": "MOUNT CLEMENS",
-    "location_state": "MI",
-    "location_zip": "48043",
+    }, 
+    "location_address": "1000 HARRINGTON BLVD", 
+    "location_city": "MOUNT CLEMENS", 
+    "location_state": "MI", 
+    "location_zip": "48043", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mcrmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "McLaren Health Care",
+        "name": "McLaren Health Care", 
         "websites": [
             "www.mclarenhealthcare.org"
         ]
-    },
-    "phone_number": "5864938000",
-    "provider_id": "230227",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5864938000", 
+    "provider_id": "230227", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "48043"
 }

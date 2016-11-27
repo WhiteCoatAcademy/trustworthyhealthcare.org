@@ -1,41 +1,49 @@
 {
-    "address": "301 W BOUNDARY STREET",
-    "city": "WINNFIELD",
-    "county_name": "WINN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WINN PARISH MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "301 W BOUNDARY STREET", 
+    "city": "WINNFIELD", 
+    "county_name": "WINN", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WINN PARISH MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -92.645139,
-            31.924979
-        ],
+            -92.645123, 
+            31.924212
+        ], 
         "type": "Point"
-    },
-    "location_address": "301 W BOUNDARY STREET",
-    "location_city": "WINNFIELD",
-    "location_state": "LA",
-    "location_zip": "71483",
+    }, 
+    "location_address": "301 W BOUNDARY STREET", 
+    "location_city": "WINNFIELD", 
+    "location_state": "LA", 
+    "location_zip": "71483", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.winnparishmedical.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "3186483000",
-    "provider_id": "190090",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3186483000", 
+    "provider_id": "190090", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "71483"
 }

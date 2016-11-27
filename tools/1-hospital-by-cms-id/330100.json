@@ -1,41 +1,55 @@
 {
-    "address": "310 EAST 14TH STREET",
-    "city": "NEW YORK",
-    "county_name": "NEW YORK",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "N Y EYE AND EAR INFIRMARY",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "310 EAST 14TH STREET", 
+    "city": "NEW YORK", 
+    "county_name": "NEW YORK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "N Y EYE AND EAR INFIRMARY", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.984761,
+            -73.984761, 
             40.732269
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "310 EAST 14TH STREET",
-    "location_city": "NEW YORK",
-    "location_state": "NY",
-    "location_zip": "10003",
+    }, 
+    "location_address": "310 EAST 14TH STREET", 
+    "location_city": "NEW YORK", 
+    "location_state": "NY", 
+    "location_zip": "10003", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nyee.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Continuum Health Partners",
+        "name": "Continuum Health Partners", 
         "websites": [
             "www.wehealny.org"
         ]
-    },
-    "phone_number": "2129794000",
-    "provider_id": "330100",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2129794000", 
+    "provider_id": "330100", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "10003"
 }

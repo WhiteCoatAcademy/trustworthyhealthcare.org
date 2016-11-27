@@ -1,41 +1,49 @@
 {
-    "address": "3600 NW SAMARITAN DRIVE",
-    "city": "CORVALLIS",
-    "county_name": "BENTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GOOD SAMARITAN REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3600 NW SAMARITAN DRIVE", 
+    "city": "CORVALLIS", 
+    "county_name": "BENTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GOOD SAMARITAN REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -123.249671,
-            44.600903
-        ],
+            -123.251104, 
+            44.604624
+        ], 
         "type": "Point"
-    },
-    "location_address": "3600 NW SAMARITAN DRIVE",
-    "location_city": "CORVALLIS",
-    "location_state": "OR",
-    "location_zip": "97330",
+    }, 
+    "location_address": "3600 NW SAMARITAN DRIVE", 
+    "location_city": "CORVALLIS", 
+    "location_state": "OR", 
+    "location_zip": "97330", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.samhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Samaritan Health Services",
+        "name": "Samaritan Health Services", 
         "websites": [
             "www.samhealth.org"
         ]
-    },
-    "phone_number": "5417685111",
-    "provider_id": "380014",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5417685111", 
+    "provider_id": "380014", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "97330"
 }

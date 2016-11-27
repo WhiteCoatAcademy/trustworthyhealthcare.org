@@ -1,41 +1,49 @@
 {
-    "address": "306 STANAFORD ROAD",
-    "city": "BECKLEY",
-    "county_name": "RALEIGH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BECKLEY ARH HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "306 STANAFORD ROAD", 
+    "city": "BECKLEY", 
+    "county_name": "RALEIGH", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BECKLEY ARH HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.169059,
-            37.799237
-        ],
+            -81.169489, 
+            37.798757
+        ], 
         "type": "Point"
-    },
-    "location_address": "306 STANAFORD ROAD",
-    "location_city": "BECKLEY",
-    "location_state": "WV",
-    "location_zip": "25801",
+    }, 
+    "location_address": "306 STANAFORD ROAD", 
+    "location_city": "BECKLEY", 
+    "location_state": "WV", 
+    "location_zip": "25801", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.arh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Appalachian Regional Healthcare",
+        "name": "Appalachian Regional Healthcare", 
         "websites": [
             "www.arh.org"
         ]
-    },
-    "phone_number": "3042553456",
-    "provider_id": "510062",
-    "raw_ratings": {},
-    "state": "WV",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3042553456", 
+    "provider_id": "510062", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "WV", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "25801"
 }

@@ -1,41 +1,55 @@
 {
-    "address": "1202 HIGHWAY 60 WEST",
-    "city": "SOCORRO",
-    "county_name": "SOCORRO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOCORRO GENERAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1202 HIGHWAY 60 WEST", 
+    "city": "SOCORRO", 
+    "county_name": "SOCORRO", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOCORRO GENERAL HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -106.919358,
-            34.027937
-        ],
+            -106.912468, 
+            34.038056
+        ], 
         "type": "Point"
-    },
-    "location_address": "1202 HIGHWAY 60 WEST",
-    "location_city": "SOCORRO",
-    "location_state": "NM",
-    "location_zip": "87801",
+    }, 
+    "location_address": "1202 HIGHWAY 60 WEST", 
+    "location_city": "SOCORRO", 
+    "location_state": "NM", 
+    "location_zip": "87801", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.phs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Presbyterian Healthcare Services",
+        "name": "Presbyterian Healthcare Services", 
         "websites": [
             "www.phs.org"
         ]
-    },
-    "phone_number": "5758351140",
-    "provider_id": "321301",
-    "raw_ratings": {},
-    "state": "NM",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "5758358700", 
+    "provider_id": "321301", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NM", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "87801"
 }

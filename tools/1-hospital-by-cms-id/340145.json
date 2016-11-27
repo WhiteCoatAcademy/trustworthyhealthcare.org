@@ -1,41 +1,49 @@
 {
-    "address": "433 MCALISTER RD",
-    "city": "LINCOLNTON",
-    "county_name": "LINCOLN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CAROLINAS HEALTHCARE SYSTEM LINCOLN",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "433 MCALISTER RD", 
+    "city": "LINCOLNTON", 
+    "county_name": "LINCOLN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CAROLINAS HEALTHCARE SYSTEM LINCOLN", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.20123,
-            35.488447
-        ],
+            -81.201213, 
+            35.488459
+        ], 
         "type": "Point"
-    },
-    "location_address": "433 MCALISTER RD",
-    "location_city": "LINCOLNTON",
-    "location_state": "NC",
-    "location_zip": "28092",
+    }, 
+    "location_address": "433 MCALISTER RD", 
+    "location_city": "LINCOLNTON", 
+    "location_state": "NC", 
+    "location_zip": "28092", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lincolnmedical.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Carolinas HealthCare System",
+        "name": "Carolinas HealthCare System", 
         "websites": [
             "www.carolinas.org"
         ]
-    },
-    "phone_number": "9802122000",
-    "provider_id": "340145",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9802122000", 
+    "provider_id": "340145", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "28092"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "70 DUBOIS STREET",
-    "city": "NEWBURGH",
-    "county_name": "ORANGE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST LUKE'S CORNWALL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "70 DUBOIS STREET", 
+    "city": "NEWBURGH", 
+    "county_name": "ORANGE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST LUKE'S CORNWALL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.015205,
-            41.50286
-        ],
+            -74.015175, 
+            41.50375
+        ], 
         "type": "Point"
-    },
-    "location_address": "70 DUBOIS STREET",
-    "location_city": "NEWBURGH",
-    "location_state": "NY",
-    "location_zip": "12550",
+    }, 
+    "location_address": "70 DUBOIS STREET", 
+    "location_city": "NEWBURGH", 
+    "location_state": "NY", 
+    "location_zip": "12550", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stlukescornwallhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Luke's Cornwall Hospital",
+        "name": "Saint Luke's Cornwall Hospital", 
         "websites": [
             "www.stlukescornwallhospital.org"
         ]
-    },
-    "phone_number": "8455614400",
-    "provider_id": "330264",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8455614400", 
+    "provider_id": "330264", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "12550"
 }

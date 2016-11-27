@@ -1,41 +1,49 @@
 {
-    "address": "9660 SOUTH 1300 EAST",
-    "city": "SANDY",
-    "county_name": "SALT LAKE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ALTA VIEW HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "9660 SOUTH 1300 EAST", 
+    "city": "SANDY", 
+    "county_name": "SALT LAKE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ALTA VIEW HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -111.85319,
-            40.574927
-        ],
+            -111.85319, 
+            40.575455
+        ], 
         "type": "Point"
-    },
-    "location_address": "9660 SOUTH 1300 EAST",
-    "location_city": "SANDY",
-    "location_state": "UT",
-    "location_zip": "84094",
+    }, 
+    "location_address": "9660 SOUTH 1300 EAST", 
+    "location_city": "SANDY", 
+    "location_state": "UT", 
+    "location_zip": "84094", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Intermountain Health Care, Inc",
+        "name": "Intermountain Health Care, Inc", 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "phone_number": "8015012600",
-    "provider_id": "460044",
-    "raw_ratings": {},
-    "state": "UT",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8015012600", 
+    "provider_id": "460044", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "UT", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "84094"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "97 WEST PARKWAY",
-    "city": "POMPTON PLAINS",
-    "county_name": "MORRIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHILTON MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "97 WEST PARKWAY", 
+    "city": "POMPTON PLAINS", 
+    "county_name": "MORRIS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHILTON MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.150139,
-            40.994337
-        ],
+            -74.307835, 
+            40.958586
+        ], 
         "type": "Point"
-    },
-    "location_address": "97 WEST PARKWAY",
-    "location_city": "POMPTON PLAINS",
-    "location_state": "NJ",
-    "location_zip": "07444",
+    }, 
+    "location_address": "97 WEST PARKWAY", 
+    "location_city": "POMPTON PLAINS", 
+    "location_state": "NJ", 
+    "location_zip": "07444", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.chiltonmemorial.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9738315000",
-    "provider_id": "310017",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9738315000", 
+    "provider_id": "310017", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "07444"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1501 HILAND AVENUE SUITE F",
-    "city": "BURLEY",
-    "county_name": "CASSIA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CASSIA REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1501 HILAND AVENUE", 
+    "city": "BURLEY", 
+    "county_name": "CASSIA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CASSIA REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -113.783419,
-            42.534179
-        ],
+            -113.783416, 
+            42.535526
+        ], 
         "type": "Point"
-    },
-    "location_address": "1501 HILAND AVENUE SUITE F",
-    "location_city": "BURLEY",
-    "location_state": "ID",
-    "location_zip": "83318",
+    }, 
+    "location_address": "1501 HILAND AVENUE", 
+    "location_city": "BURLEY", 
+    "location_state": "ID", 
+    "location_zip": "83318", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Intermountain Health Care, Inc",
+        "name": "Intermountain Health Care, Inc", 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "phone_number": "2086784444",
-    "provider_id": "131326",
-    "raw_ratings": {},
-    "state": "ID",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2086784444", 
+    "provider_id": "131326", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "ID", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "83318"
 }

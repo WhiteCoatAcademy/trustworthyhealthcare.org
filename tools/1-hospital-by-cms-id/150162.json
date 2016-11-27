@@ -1,41 +1,49 @@
 {
-    "address": "8111 S EMERSON AVE",
-    "city": "INDIANAPOLIS",
-    "county_name": "MARION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FRANCISCAN ST FRANCIS HEALTH - INDIANAPOLIS",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "8111 S EMERSON AVE", 
+    "city": "INDIANAPOLIS", 
+    "county_name": "MARION", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FRANCISCAN ST FRANCIS HEALTH - INDIANAPOLIS", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.082674,
-            39.648472
-        ],
+            -86.082674, 
+            39.648365
+        ], 
         "type": "Point"
-    },
-    "location_address": "8111 S EMERSON AVE",
-    "location_city": "INDIANAPOLIS",
-    "location_state": "IN",
-    "location_zip": "46237",
+    }, 
+    "location_address": "8111 S EMERSON AVE", 
+    "location_city": "INDIANAPOLIS", 
+    "location_state": "IN", 
+    "location_zip": "46237", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stfrancishospitals.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sisters of Saint Francis Health Services, Inc.",
+        "name": "Sisters of Saint Francis Health Services, Inc.", 
         "websites": [
             "www.ssfhs.org"
         ]
-    },
-    "phone_number": "3175285000",
-    "provider_id": "150162",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3175285000", 
+    "provider_id": "150162", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "46237"
 }

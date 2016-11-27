@@ -1,39 +1,47 @@
 {
-    "address": "163 HOSPITAL DRIVE",
-    "city": "TOCCOA",
-    "county_name": "STEPHENS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "STEPHENS COUNTY HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "163 HOSPITAL DRIVE", 
+    "city": "TOCCOA", 
+    "county_name": "STEPHENS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "STEPHENS COUNTY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.347229,
-            34.593049
-        ],
+            -83.347172, 
+            34.59302
+        ], 
         "type": "Point"
-    },
-    "location_address": "163 HOSPITAL DRIVE",
-    "location_city": "TOCCOA",
-    "location_state": "GA",
-    "location_zip": "30577",
+    }, 
+    "location_address": "163 HOSPITAL DRIVE", 
+    "location_city": "TOCCOA", 
+    "location_state": "GA", 
+    "location_zip": "30577", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stephenscountyhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7062824250",
-    "provider_id": "110032",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7062824250", 
+    "provider_id": "110032", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "30577"
 }

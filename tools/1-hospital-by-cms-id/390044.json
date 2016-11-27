@@ -1,38 +1,47 @@
 {
-    "address": "SIXTH AVENUE AND SPRUCE ST",
-    "city": "READING",
-    "county_name": "BERKS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "READING HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "SIXTH AVENUE AND SPRUCE ST", 
+    "city": "READING", 
+    "county_name": "BERKS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "READING HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"SIXTH AVENUE AND SPRUCE ST\",\"city\":\"READING\",\"state\":\"PA\",\"zip\":\"\"}",
-        "latitude": "40.332434017000026",
-        "longitude": "-75.95000863199994",
-        "needs_recoding": false
-    },
-    "location_address": "SIXTH AVENUE AND SPRUCE ST",
-    "location_city": "READING",
-    "location_state": "PA",
-    "location_zip": "19603",
+        "coordinates": [
+            -75.950021, 
+            40.332428
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "SIXTH AVENUE AND SPRUCE ST", 
+    "location_city": "READING", 
+    "location_state": "PA", 
+    "location_zip": "19603", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.readinghospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6109888000",
-    "provider_id": "390044",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6109888000", 
+    "provider_id": "390044", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "19603"
 }

@@ -1,39 +1,51 @@
 {
-    "address": "243 CHARLES STREET",
-    "city": "BOSTON",
-    "county_name": "SUFFOLK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MASSACHUSETTS EYE AND EAR INFIRMARY",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "243 CHARLES STREET", 
+    "city": "BOSTON", 
+    "county_name": "SUFFOLK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MASSACHUSETTS EYE AND EAR INFIRMARY", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -71.070396,
-            42.363111
-        ],
+            -71.070375, 
+            42.36315
+        ], 
         "type": "Point"
-    },
-    "location_address": "243 CHARLES STREET",
-    "location_city": "BOSTON",
-    "location_state": "MA",
-    "location_zip": "02114",
+    }, 
+    "location_address": "243 CHARLES STREET", 
+    "location_city": "BOSTON", 
+    "location_state": "MA", 
+    "location_zip": "02114", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.meei.harvard.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6175237900",
-    "provider_id": "220075",
-    "raw_ratings": {},
-    "state": "MA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6175237900", 
+    "provider_id": "220075", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "02114"
 }

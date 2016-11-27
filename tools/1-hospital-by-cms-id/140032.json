@@ -1,41 +1,49 @@
 {
-    "address": "503 N MAPLE STREET",
-    "city": "EFFINGHAM",
-    "county_name": "EFFINGHAM",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST ANTHONYS MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "503 N MAPLE STREET", 
+    "city": "EFFINGHAM", 
+    "county_name": "EFFINGHAM", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST ANTHONYS MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.549252,
-            39.125791
-        ],
+            -88.549274, 
+            39.124494
+        ], 
         "type": "Point"
-    },
-    "location_address": "503 N MAPLE STREET",
-    "location_city": "EFFINGHAM",
-    "location_state": "IL",
-    "location_zip": "62401",
+    }, 
+    "location_address": "503 N MAPLE STREET", 
+    "location_city": "EFFINGHAM", 
+    "location_state": "IL", 
+    "location_zip": "62401", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stanthonyshospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Hospital Sisters Health System",
+        "name": "Hospital Sisters Health System", 
         "websites": [
             "www.hshs.org"
         ]
-    },
-    "phone_number": "2173422121",
-    "provider_id": "140032",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2173422121", 
+    "provider_id": "140032", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "62401"
 }

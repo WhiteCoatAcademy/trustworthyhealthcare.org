@@ -1,41 +1,49 @@
 {
-    "address": "600 GRESHAM DR",
-    "city": "NORFOLK",
-    "county_name": "NORFOLK CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SENTARA NORFOLK GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "600 GRESHAM DR", 
+    "city": "NORFOLK", 
+    "county_name": "NORFOLK CITY", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SENTARA NORFOLK GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.304268,
-            36.863435
-        ],
+            -76.30482, 
+            36.859728
+        ], 
         "type": "Point"
-    },
-    "location_address": "600 GRESHAM DR",
-    "location_city": "NORFOLK",
-    "location_state": "VA",
-    "location_zip": "23507",
+    }, 
+    "location_address": "600 GRESHAM DR", 
+    "location_city": "NORFOLK", 
+    "location_state": "VA", 
+    "location_zip": "23507", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sentara.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sentara Healthcare",
+        "name": "Sentara Healthcare", 
         "websites": [
             "www.sentara.com"
         ]
-    },
-    "phone_number": "7573883000",
-    "provider_id": "490007",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7573883000", 
+    "provider_id": "490007", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "23507"
 }

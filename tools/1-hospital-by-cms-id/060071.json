@@ -1,39 +1,47 @@
 {
-    "address": "1501 E 3RD STREET",
-    "city": "DELTA",
-    "county_name": "DELTA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DELTA COUNTY MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1501 E 3RD STREET", 
+    "city": "DELTA", 
+    "county_name": "DELTA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DELTA COUNTY MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -108.047341,
-            38.743165
-        ],
+            -108.047515, 
+            38.743166
+        ], 
         "type": "Point"
-    },
-    "location_address": "1501 E 3RD STREET",
-    "location_city": "DELTA",
-    "location_state": "CO",
-    "location_zip": "81416",
+    }, 
+    "location_address": "1501 E 3RD STREET", 
+    "location_city": "DELTA", 
+    "location_state": "CO", 
+    "location_zip": "81416", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.deltahospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9708747681",
-    "provider_id": "060071",
-    "raw_ratings": {},
-    "state": "CO",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9708747681", 
+    "provider_id": "060071", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CO", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "81416"
 }

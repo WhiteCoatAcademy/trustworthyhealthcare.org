@@ -1,41 +1,49 @@
 {
-    "address": "401 W POPLAR ST",
-    "city": "WALLA WALLA",
-    "county_name": "WALLA WALLA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PROVIDENCE ST MARY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "401 W POPLAR ST", 
+    "city": "WALLA WALLA", 
+    "county_name": "WALLA WALLA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PROVIDENCE ST MARY MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.341053,
-            46.063771
-        ],
+            -118.343618, 
+            46.062744
+        ], 
         "type": "Point"
-    },
-    "location_address": "401 W POPLAR ST",
-    "location_city": "WALLA WALLA",
-    "location_state": "WA",
-    "location_zip": "99362",
+    }, 
+    "location_address": "401 W POPLAR ST", 
+    "location_city": "WALLA WALLA", 
+    "location_state": "WA", 
+    "location_zip": "99362", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.smmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Providence Health System",
+        "name": "Providence Health System", 
         "websites": [
             "www.providence.org"
         ]
-    },
-    "phone_number": "5095225900",
-    "provider_id": "500002",
-    "raw_ratings": {},
-    "state": "WA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5095225900", 
+    "provider_id": "500002", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "99362"
 }

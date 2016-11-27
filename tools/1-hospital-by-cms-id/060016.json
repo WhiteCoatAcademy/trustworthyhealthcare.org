@@ -1,41 +1,49 @@
 {
-    "address": "1338 PHAY AVE",
-    "city": "CANON CITY",
-    "county_name": "FREMONT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CENTURA HEALTH-ST THOMAS MORE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1338 PHAY AVE", 
+    "city": "CANON CITY", 
+    "county_name": "FREMONT", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CENTURA HEALTH-ST THOMAS MORE HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -105.230064,
-            38.455748
-        ],
+            -105.230264, 
+            38.455747
+        ], 
         "type": "Point"
-    },
-    "location_address": "1338 PHAY AVE",
-    "location_city": "CANON CITY",
-    "location_state": "CO",
-    "location_zip": "81212",
+    }, 
+    "location_address": "1338 PHAY AVE", 
+    "location_city": "CANON CITY", 
+    "location_state": "CO", 
+    "location_zip": "81212", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stthomasmorehosp.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Centura Health",
+        "name": "Centura Health", 
         "websites": [
             "www.centura.org"
         ]
-    },
-    "phone_number": "7192852000",
-    "provider_id": "060016",
-    "raw_ratings": {},
-    "state": "CO",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7192852000", 
+    "provider_id": "060016", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "81212"
 }

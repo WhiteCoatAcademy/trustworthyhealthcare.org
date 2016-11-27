@@ -1,39 +1,50 @@
 {
-    "address": "213 EAST REDWOOD",
-    "city": "SALLISAW",
-    "county_name": "SEQUOYAH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SEQUOYAH COUNTY CITY OF SALLISAW HOSPITAL AUTHORIT",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "213 EAST REDWOOD", 
+    "city": "SALLISAW", 
+    "county_name": "SEQUOYAH", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SEQUOYAH COUNTY-CITY OF SALLISAW HOSPITAL AUTHORIT", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.78885,
-            35.46343
-        ],
+            -94.789041, 
+            35.463587
+        ], 
         "type": "Point"
-    },
-    "location_address": "213 EAST REDWOOD",
-    "location_city": "SALLISAW",
-    "location_state": "OK",
-    "location_zip": "74955",
+    }, 
+    "location_address": "213 EAST REDWOOD", 
+    "location_city": "SALLISAW", 
+    "location_state": "OK", 
+    "location_zip": "74955", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sequoyahmemorial.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9187741100",
-    "provider_id": "370112",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "9187741100", 
+    "provider_id": "370112", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "74955"
 }

@@ -1,39 +1,50 @@
 {
-    "address": "1711 WEST TEMPLE STREET",
-    "city": "LOS ANGELES",
-    "county_name": "LOS ANGELES",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "SILVER LAKE MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1711 WEST TEMPLE STREET", 
+    "city": "LOS ANGELES", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "SILVER LAKE MEDICAL CENTER", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.263235,
-            34.068688
-        ],
+            -118.26356, 
+            34.06879
+        ], 
         "type": "Point"
-    },
-    "location_address": "1711 WEST TEMPLE STREET",
-    "location_city": "LOS ANGELES",
-    "location_state": "CA",
-    "location_zip": "90026",
+    }, 
+    "location_address": "1711 WEST TEMPLE STREET", 
+    "location_city": "LOS ANGELES", 
+    "location_state": "CA", 
+    "location_zip": "90026", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.montclair-hospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2139896123",
-    "provider_id": "050763",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2139896123", 
+    "provider_id": "050763", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "90026"
 }

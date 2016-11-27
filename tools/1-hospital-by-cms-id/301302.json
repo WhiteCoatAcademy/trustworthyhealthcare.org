@@ -1,39 +1,51 @@
 {
-    "address": "600 ST JOHNSBURY ROAD",
-    "city": "LITTLETON",
-    "county_name": "GRAFTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LITTLETON REGIONAL HEALTHCARE",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "600 ST JOHNSBURY ROAD", 
+    "city": "LITTLETON", 
+    "county_name": "GRAFTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LITTLETON REGIONAL HEALTHCARE", 
+    "hospital_overall_rating": "4", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -71.82442,
-            44.31666
-        ],
+            -71.82741, 
+            44.315543
+        ], 
         "type": "Point"
-    },
-    "location_address": "600 ST JOHNSBURY ROAD",
-    "location_city": "LITTLETON",
-    "location_state": "NH",
-    "location_zip": "03561",
+    }, 
+    "location_address": "600 ST JOHNSBURY ROAD", 
+    "location_city": "LITTLETON", 
+    "location_state": "NH", 
+    "location_zip": "03561", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.littletonhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6034449000",
-    "provider_id": "301302",
-    "raw_ratings": {},
-    "state": "NH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6034449000", 
+    "provider_id": "301302", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NH", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "03561"
 }

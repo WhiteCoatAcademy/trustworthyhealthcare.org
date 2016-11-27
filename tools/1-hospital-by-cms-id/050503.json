@@ -1,41 +1,49 @@
 {
-    "address": "354 SANTA FE DRIVE",
-    "city": "ENCINITAS",
-    "county_name": "SAN DIEGO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SCRIPPS MEMORIAL HOSPITAL - ENCINITAS",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "354 SANTA FE DRIVE", 
+    "city": "ENCINITAS", 
+    "county_name": "SAN DIEGO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SCRIPPS MEMORIAL HOSPITAL - ENCINITAS", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.283218,
-            33.036274
-        ],
+            -117.284237, 
+            33.036272
+        ], 
         "type": "Point"
-    },
-    "location_address": "354 SANTA FE DRIVE",
-    "location_city": "ENCINITAS",
-    "location_state": "CA",
-    "location_zip": "92024",
+    }, 
+    "location_address": "354 SANTA FE DRIVE", 
+    "location_city": "ENCINITAS", 
+    "location_state": "CA", 
+    "location_zip": "92024", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.scripps.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Scripps Health",
+        "name": "Scripps Health", 
         "websites": [
             "www.scripps.org"
         ]
-    },
-    "phone_number": "7607536501",
-    "provider_id": "050503",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7607536501", 
+    "provider_id": "050503", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "92024"
 }

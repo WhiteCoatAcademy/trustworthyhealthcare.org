@@ -1,41 +1,49 @@
 {
-    "address": "933 EAST PIERCE STREET",
-    "city": "COUNCIL BLUFFS",
-    "county_name": "POTTAWATTAMIE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "METHODIST JENNIE EDMUNDSON",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "933 EAST PIERCE STREET", 
+    "city": "COUNCIL BLUFFS", 
+    "county_name": "POTTAWATTAMIE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "METHODIST JENNIE EDMUNDSON", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.836045,
-            41.268398
-        ],
+            -95.836128, 
+            41.268309
+        ], 
         "type": "Point"
-    },
-    "location_address": "933 EAST PIERCE STREET",
-    "location_city": "COUNCIL BLUFFS",
-    "location_state": "IA",
-    "location_zip": "51503",
+    }, 
+    "location_address": "933 EAST PIERCE STREET", 
+    "location_city": "COUNCIL BLUFFS", 
+    "location_state": "IA", 
+    "location_zip": "51503", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bestcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Methodist Health System",
+        "name": "Methodist Health System", 
         "websites": [
             "www.bestcare.org"
         ]
-    },
-    "phone_number": "7123966000",
-    "provider_id": "160047",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7123966000", 
+    "provider_id": "160047", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "51503"
 }

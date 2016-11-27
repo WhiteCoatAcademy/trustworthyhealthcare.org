@@ -1,40 +1,49 @@
 {
-    "address": "2100 N MARTIN LUTHER KING, JR, BLVD",
-    "city": "CLOVIS",
-    "county_name": "CURRY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PLAINS REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Federal",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2100 N MARTIN LUTHER KING, JR, BLVD", 
+    "city": "CLOVIS", 
+    "county_name": "CURRY", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PLAINS REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Federal", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"2100 N MARTIN LUTHER KING, JR, BLVD\",\"city\":\"CLOVIS\",\"state\":\"NM\",\"zip\":\"\"}",
-        "latitude": "34.419411887000024",
-        "longitude": "-103.23176000699999",
-        "needs_recoding": false
-    },
-    "location_address": "2100 N MARTIN LUTHER KING, JR, BLVD",
-    "location_city": "CLOVIS",
-    "location_state": "NM",
-    "location_zip": "88101",
+        "coordinates": [
+            -103.231763, 
+            34.42049
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "2100 N MARTIN LUTHER KING, JR, BLVD", 
+    "location_city": "CLOVIS", 
+    "location_state": "NM", 
+    "location_zip": "88101", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.phs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Presbyterian Healthcare Services",
+        "name": "Presbyterian Healthcare Services", 
         "websites": [
             "www.phs.org"
         ]
-    },
-    "phone_number": "5757697155",
-    "provider_id": "320022",
-    "raw_ratings": {},
-    "state": "NM",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5757697155", 
+    "provider_id": "320022", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NM", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "88101"
 }

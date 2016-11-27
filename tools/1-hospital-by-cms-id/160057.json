@@ -1,39 +1,47 @@
 {
-    "address": "1221 SOUTH GEAR AVENUE",
-    "city": "WEST BURLINGTON",
-    "county_name": "DES MOINES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GREAT RIVER MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1221 SOUTH GEAR AVENUE", 
+    "city": "WEST BURLINGTON", 
+    "county_name": "DES MOINES", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GREAT RIVER MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -91.170306,
-            40.805881
-        ],
+            -91.170231, 
+            40.810201
+        ], 
         "type": "Point"
-    },
-    "location_address": "1221 SOUTH GEAR AVENUE",
-    "location_city": "WEST BURLINGTON",
-    "location_state": "IA",
-    "location_zip": "52655",
+    }, 
+    "location_address": "1221 SOUTH GEAR AVENUE", 
+    "location_city": "WEST BURLINGTON", 
+    "location_state": "IA", 
+    "location_zip": "52655", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.greatrivermedical.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3197681000",
-    "provider_id": "160057",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3197681000", 
+    "provider_id": "160057", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "52655"
 }

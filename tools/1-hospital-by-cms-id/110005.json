@@ -1,41 +1,49 @@
 {
-    "address": "1200 NORTHSIDE FORSYTH DRIVE",
-    "city": "CUMMING",
-    "county_name": "FORSYTH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTHSIDE HOSPITAL FORSYTH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1200 NORTHSIDE FORSYTH DRIVE", 
+    "city": "CUMMING", 
+    "county_name": "FORSYTH", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTHSIDE HOSPITAL FORSYTH", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.139554,
-            34.178338
-        ],
+            -84.139402, 
+            34.178461
+        ], 
         "type": "Point"
-    },
-    "location_address": "1200 NORTHSIDE FORSYTH DRIVE",
-    "location_city": "CUMMING",
-    "location_state": "GA",
-    "location_zip": "30041",
+    }, 
+    "location_address": "1200 NORTHSIDE FORSYTH DRIVE", 
+    "location_city": "CUMMING", 
+    "location_state": "GA", 
+    "location_zip": "30041", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.northside.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Northside Hospital",
+        "name": "Northside Hospital", 
         "websites": [
             "www.northside.com"
         ]
-    },
-    "phone_number": "4048518700",
-    "provider_id": "110005",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7708443200", 
+    "provider_id": "110005", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "30041"
 }

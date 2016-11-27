@@ -1,41 +1,49 @@
 {
-    "address": "504 MEDICAL CENTER BLVD",
-    "city": "CONROE",
-    "county_name": "MONTGOMERY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CONROE REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "504 MEDICAL CENTER BLVD", 
+    "city": "CONROE", 
+    "county_name": "MONTGOMERY", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CONROE REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.46936,
-            30.283054
-        ],
+            -95.468722, 
+            30.284022
+        ], 
         "type": "Point"
-    },
-    "location_address": "504 MEDICAL CENTER BLVD",
-    "location_city": "CONROE",
-    "location_state": "TX",
-    "location_zip": "77304",
+    }, 
+    "location_address": "504 MEDICAL CENTER BLVD", 
+    "location_city": "CONROE", 
+    "location_state": "TX", 
+    "location_zip": "77304", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.conroeregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "9365391111",
-    "provider_id": "450222",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9365391111", 
+    "provider_id": "450222", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "77304"
 }

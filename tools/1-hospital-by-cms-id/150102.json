@@ -1,41 +1,51 @@
 {
-    "address": "102 E CULVER RD",
-    "city": "KNOX",
-    "county_name": "STARKE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "INDIANA UNIVERSITY HEALTH STARKE HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "102 E CULVER RD", 
+    "city": "KNOX", 
+    "county_name": "STARKE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "STARKE HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.621937,
-            41.288064
-        ],
+            -86.621744, 
+            41.288063
+        ], 
         "type": "Point"
-    },
-    "location_address": "102 E CULVER RD",
-    "location_city": "KNOX",
-    "location_state": "IN",
-    "location_zip": "46534",
+    }, 
+    "location_address": "102 E CULVER RD", 
+    "location_city": "KNOX", 
+    "location_state": "IN", 
+    "location_zip": "46534", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.starkememorial.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "5747721102",
-    "provider_id": "150102",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "5747721102", 
+    "provider_id": "150102", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "46534"
 }

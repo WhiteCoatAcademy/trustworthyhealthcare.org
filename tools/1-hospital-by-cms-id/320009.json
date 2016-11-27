@@ -1,41 +1,49 @@
 {
-    "address": "601 DR MARTIN LUTHER KING JR AVE NE",
-    "city": "ALBUQUERQUE",
-    "county_name": "BERNALILLO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LOVELACE MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "601 DR MARTIN LUTHER KING JR AVE NE", 
+    "city": "ALBUQUERQUE", 
+    "county_name": "BERNALILLO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LOVELACE MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -106.639595,
-            35.085606
-        ],
+            -106.639767, 
+            35.085622
+        ], 
         "type": "Point"
-    },
-    "location_address": "601 DR MARTIN LUTHER KING JR AVE NE",
-    "location_city": "ALBUQUERQUE",
-    "location_state": "NM",
-    "location_zip": "87102",
+    }, 
+    "location_address": "601 DR MARTIN LUTHER KING JR AVE NE", 
+    "location_city": "ALBUQUERQUE", 
+    "location_state": "NM", 
+    "location_zip": "87102", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lovelace.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ardent Health Services",
+        "name": "Ardent Health Services", 
         "websites": [
             "www.ardenthealth.com"
         ]
-    },
-    "phone_number": "5057278000",
-    "provider_id": "320009",
-    "raw_ratings": {},
-    "state": "NM",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5057278000", 
+    "provider_id": "320009", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NM", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "87102"
 }

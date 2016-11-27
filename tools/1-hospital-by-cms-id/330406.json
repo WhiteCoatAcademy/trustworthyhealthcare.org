@@ -1,41 +1,55 @@
 {
-    "address": "1270 BELMONT AVENUE",
-    "city": "SCHENECTADY",
-    "county_name": "SCHENECTADY",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "SUNNYVIEW HOSPITAL AND REHABILITATION CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1270 BELMONT AVENUE", 
+    "city": "SCHENECTADY", 
+    "county_name": "SCHENECTADY", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "SUNNYVIEW HOSPITAL AND REHABILITATION CENTER", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.91367,
-            42.822134
-        ],
+            -73.91386, 
+            42.822229
+        ], 
         "type": "Point"
-    },
-    "location_address": "1270 BELMONT AVENUE",
-    "location_city": "SCHENECTADY",
-    "location_state": "NY",
-    "location_zip": "12308",
+    }, 
+    "location_address": "1270 BELMONT AVENUE", 
+    "location_city": "SCHENECTADY", 
+    "location_state": "NY", 
+    "location_zip": "12308", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sunnyview.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Northeast Health",
+        "name": "Northeast Health", 
         "websites": [
             "www.nehealth.com"
         ]
-    },
-    "phone_number": "5183863580",
-    "provider_id": "330406",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "5183863580", 
+    "provider_id": "330406", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "12308"
 }

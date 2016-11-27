@@ -1,39 +1,47 @@
 {
-    "address": "116 INTERSTATE PARKWAY",
-    "city": "BRADFORD",
-    "county_name": "MCKEAN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BRADFORD REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "116 INTERSTATE PARKWAY", 
+    "city": "BRADFORD", 
+    "county_name": "MCKEAN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BRADFORD REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -78.660094,
-            41.960825
-        ],
+            -78.66065, 
+            41.961592
+        ], 
         "type": "Point"
-    },
-    "location_address": "116 INTERSTATE PARKWAY",
-    "location_city": "BRADFORD",
-    "location_state": "PA",
-    "location_zip": "16701",
+    }, 
+    "location_address": "116 INTERSTATE PARKWAY", 
+    "location_city": "BRADFORD", 
+    "location_state": "PA", 
+    "location_zip": "16701", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.brmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8143684143",
-    "provider_id": "390118",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8143684143", 
+    "provider_id": "390118", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "16701"
 }

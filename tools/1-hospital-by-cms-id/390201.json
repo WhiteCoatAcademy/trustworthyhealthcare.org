@@ -1,39 +1,47 @@
 {
-    "address": "206 EAST BROWN STREET",
-    "city": "EAST STROUDSBURG",
-    "county_name": "MONROE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "POCONO MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "206 EAST BROWN STREET", 
+    "city": "EAST STROUDSBURG", 
+    "county_name": "MONROE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "POCONO MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -75.1747,
-            40.992232
-        ],
+            -75.174327, 
+            40.992284
+        ], 
         "type": "Point"
-    },
-    "location_address": "206 EAST BROWN STREET",
-    "location_city": "EAST STROUDSBURG",
-    "location_state": "PA",
-    "location_zip": "18301",
+    }, 
+    "location_address": "206 EAST BROWN STREET", 
+    "location_city": "EAST STROUDSBURG", 
+    "location_state": "PA", 
+    "location_zip": "18301", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pmchealthsystem.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5704763348",
-    "provider_id": "390201",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5704763348", 
+    "provider_id": "390201", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "18301"
 }

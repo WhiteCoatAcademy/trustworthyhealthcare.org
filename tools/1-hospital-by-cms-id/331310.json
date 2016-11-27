@@ -1,39 +1,50 @@
 {
-    "address": "10 HEALTHY WAY",
-    "city": "ELLENVILLE",
-    "county_name": "ULSTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ELLENVILLE REGIONAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "10 HEALTHY WAY", 
+    "city": "ELLENVILLE", 
+    "county_name": "ULSTER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ELLENVILLE REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -74.379592,
-            41.733206
-        ],
+            -74.380624, 
+            41.732351
+        ], 
         "type": "Point"
-    },
-    "location_address": "10 HEALTHY WAY",
-    "location_city": "ELLENVILLE",
-    "location_state": "NY",
-    "location_zip": "12428",
+    }, 
+    "location_address": "10 HEALTHY WAY", 
+    "location_city": "ELLENVILLE", 
+    "location_state": "NY", 
+    "location_zip": "12428", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ellenvilleregional.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8456476400",
-    "provider_id": "331310",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "8456476400", 
+    "provider_id": "331310", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "12428"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "2222 N NEVADA AVE",
-    "city": "COLORADO SPRINGS",
-    "county_name": "EL PASO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CENTURA HEALTH-PENROSE ST FRANCIS HEALTH SERVICES",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2222 N NEVADA AVE", 
+    "city": "COLORADO SPRINGS", 
+    "county_name": "EL PASO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CENTURA HEALTH-PENROSE ST FRANCIS HEALTH SERVICES", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -104.820123,
+            -104.820123, 
             38.865568
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2222 N NEVADA AVE",
-    "location_city": "COLORADO SPRINGS",
-    "location_state": "CO",
-    "location_zip": "80907",
+    }, 
+    "location_address": "2222 N NEVADA AVE", 
+    "location_city": "COLORADO SPRINGS", 
+    "location_state": "CO", 
+    "location_zip": "80907", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.penrosestfrancis.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Centura Health",
+        "name": "Centura Health", 
         "websites": [
             "www.centura.org"
         ]
-    },
-    "phone_number": "7197765000",
-    "provider_id": "060031",
-    "raw_ratings": {},
-    "state": "CO",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7197765000", 
+    "provider_id": "060031", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "80907"
 }

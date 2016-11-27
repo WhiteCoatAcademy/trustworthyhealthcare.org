@@ -1,39 +1,48 @@
 {
-    "address": "900 W ASH",
-    "city": "DEMING",
-    "county_name": "LUNA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MIMBRES MEMORIAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "900 W ASH", 
+    "city": "DEMING", 
+    "county_name": "LUNA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MIMBRES MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -107.768748,
-            32.26125
-        ],
+            -107.768275, 
+            32.261229
+        ], 
         "type": "Point"
-    },
-    "location_address": "900 W ASH",
-    "location_city": "DEMING",
-    "location_state": "NM",
-    "location_zip": "88031",
+    }, 
+    "location_address": "900 W ASH", 
+    "location_city": "DEMING", 
+    "location_state": "NM", 
+    "location_zip": "88031", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.phs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5755465803",
-    "provider_id": "321309",
-    "raw_ratings": {},
-    "state": "NM",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5755465803", 
+    "provider_id": "321309", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NM", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "88031"
 }

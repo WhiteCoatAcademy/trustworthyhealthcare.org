@@ -1,39 +1,50 @@
 {
-    "address": "901 ADAMS BLVD",
-    "city": "BOULDER CITY",
-    "county_name": "CLARK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BOULDER CITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "901 ADAMS BLVD", 
+    "city": "BOULDER CITY", 
+    "county_name": "CLARK", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BOULDER CITY HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -114.843405,
-            35.968358
-        ],
+            -114.843486, 
+            35.968359
+        ], 
         "type": "Point"
-    },
-    "location_address": "901 ADAMS BLVD",
-    "location_city": "BOULDER CITY",
-    "location_state": "NV",
-    "location_zip": "89005",
+    }, 
+    "location_address": "901 ADAMS BLVD", 
+    "location_city": "BOULDER CITY", 
+    "location_state": "NV", 
+    "location_zip": "89005", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bouldercityhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7022934111",
-    "provider_id": "291309",
-    "raw_ratings": {},
-    "state": "NV",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "7022934111", 
+    "provider_id": "291309", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NV", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "89005"
 }

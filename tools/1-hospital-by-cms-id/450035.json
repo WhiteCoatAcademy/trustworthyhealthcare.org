@@ -1,41 +1,49 @@
 {
-    "address": "1401 ST. JOSEPH PARKWAY",
-    "city": "HOUSTON",
-    "county_name": "HARRIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOSEPH MEDICAL CENTER",
-    "hospital_ownership": "Physician",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1401 ST. JOSEPH PARKWAY", 
+    "city": "HOUSTON", 
+    "county_name": "HARRIS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JOSEPH MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.366182,
-            29.747785
-        ],
+            -95.36639, 
+            29.747898
+        ], 
         "type": "Point"
-    },
-    "location_address": "1401 ST. JOSEPH PARKWAY",
-    "location_city": "HOUSTON",
-    "location_state": "TX",
-    "location_zip": "77002",
+    }, 
+    "location_address": "1401 ST. JOSEPH PARKWAY", 
+    "location_city": "HOUSTON", 
+    "location_state": "TX", 
+    "location_zip": "77002", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sjmctx.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Hospital Partners of America",
+        "name": "Hospital Partners of America", 
         "websites": [
             "www.hospitalpartners.com"
         ]
-    },
-    "phone_number": "7137571000",
-    "provider_id": "450035",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7137571000", 
+    "provider_id": "450035", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "77002"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1900 KILDARE FARM ROAD",
-    "city": "CARY",
-    "county_name": "WAKE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WAKEMED, CARY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1900 KILDARE FARM ROAD", 
+    "city": "CARY", 
+    "county_name": "WAKE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WAKEMED, CARY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -78.780217,
-            35.741314
-        ],
+            -78.779983, 
+            35.740086
+        ], 
         "type": "Point"
-    },
-    "location_address": "1900 KILDARE FARM ROAD",
-    "location_city": "CARY",
-    "location_state": "NC",
-    "location_zip": "27518",
+    }, 
+    "location_address": "1900 KILDARE FARM ROAD", 
+    "location_city": "CARY", 
+    "location_state": "NC", 
+    "location_zip": "27518", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wakemed.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "WakeMed",
+        "name": "WakeMed", 
         "websites": [
             "www.wakemed.org"
         ]
-    },
-    "phone_number": "9193502550",
-    "provider_id": "340173",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9193502550", 
+    "provider_id": "340173", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "27518"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1200 PLEASANT STREET",
-    "city": "DES MOINES",
-    "county_name": "POLK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "IOWA METHODIST MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1200 PLEASANT STREET", 
+    "city": "DES MOINES", 
+    "county_name": "POLK", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "IOWA METHODIST MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.631819,
-            41.588848
-        ],
+            -93.633131, 
+            41.590777
+        ], 
         "type": "Point"
-    },
-    "location_address": "1200 PLEASANT STREET",
-    "location_city": "DES MOINES",
-    "location_state": "IA",
-    "location_zip": "50309",
+    }, 
+    "location_address": "1200 PLEASANT STREET", 
+    "location_city": "DES MOINES", 
+    "location_state": "IA", 
+    "location_zip": "50309", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.iowahealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Iowa Health System",
+        "name": "Iowa Health System", 
         "websites": [
             "www.ihs.org"
         ]
-    },
-    "phone_number": "5152416212",
-    "provider_id": "160082",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5152416212", 
+    "provider_id": "160082", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "50309"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "110 IRVING ST NW",
-    "city": "WASHINGTON",
-    "county_name": "DISTRICT OF COLUMBIA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEDSTAR WASHINGTON HOSPITAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "110 IRVING ST NW", 
+    "city": "WASHINGTON", 
+    "county_name": "DISTRICT OF COLUMBIA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEDSTAR WASHINGTON HOSPITAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.013142,
+            -77.013142, 
             38.931165
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "110 IRVING ST NW",
-    "location_city": "WASHINGTON",
-    "location_state": "DC",
-    "location_zip": "20010",
+    }, 
+    "location_address": "110 IRVING ST NW", 
+    "location_city": "WASHINGTON", 
+    "location_state": "DC", 
+    "location_zip": "20010", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.whcenter.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "MedStar Health",
+        "name": "MedStar Health", 
         "websites": [
             "www.medstarhealth.org"
         ]
-    },
-    "phone_number": "2028777000",
-    "provider_id": "090011",
-    "raw_ratings": {},
-    "state": "DC",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2028777000", 
+    "provider_id": "090011", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "DC", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "20010"
 }

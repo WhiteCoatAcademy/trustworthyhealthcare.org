@@ -1,41 +1,50 @@
 {
-    "address": "191 IOWA BOULEVARD",
-    "city": "TRENTON",
-    "county_name": "GRUNDY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WRIGHT MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "191 IOWA BOULEVARD", 
+    "city": "TRENTON", 
+    "county_name": "GRUNDY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WRIGHT MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -93.579936,
-            40.068251
-        ],
+            -93.579936, 
+            40.068275
+        ], 
         "type": "Point"
-    },
-    "location_address": "191 IOWA BOULEVARD",
-    "location_city": "TRENTON",
-    "location_state": "MO",
-    "location_zip": "64683",
+    }, 
+    "location_address": "191 IOWA BOULEVARD", 
+    "location_city": "TRENTON", 
+    "location_state": "MO", 
+    "location_zip": "64683", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.saintlukeshealthsystem.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Luke's Health System",
+        "name": "Saint Luke's Health System", 
         "websites": [
             "www.saintlukeshealthsystem.org"
         ]
-    },
-    "phone_number": "6603595621",
-    "provider_id": "261309",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6603595621", 
+    "provider_id": "261309", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "64683"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1901 SW 172ND AVE",
-    "city": "MIRAMAR",
-    "county_name": "BROWARD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEMORIAL HOSPITAL MIRAMAR",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1901 SW 172ND AVE", 
+    "city": "MIRAMAR", 
+    "county_name": "BROWARD", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEMORIAL HOSPITAL MIRAMAR", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.375996,
-            25.990744
-        ],
+            -80.376005, 
+            25.991087
+        ], 
         "type": "Point"
-    },
-    "location_address": "1901 SW 172ND AVE",
-    "location_city": "MIRAMAR",
-    "location_state": "FL",
-    "location_zip": "33029",
+    }, 
+    "location_address": "1901 SW 172ND AVE", 
+    "location_city": "MIRAMAR", 
+    "location_state": "FL", 
+    "location_zip": "33029", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.memorialmiramar.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Memorial Healthcare System",
+        "name": "Memorial Healthcare System", 
         "websites": [
             "www.mhs.net"
         ]
-    },
-    "phone_number": "9545384810",
-    "provider_id": "100285",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9545384810", 
+    "provider_id": "100285", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "33029"
 }

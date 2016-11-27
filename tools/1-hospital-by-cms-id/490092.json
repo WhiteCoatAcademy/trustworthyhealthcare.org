@@ -1,41 +1,49 @@
 {
-    "address": "100 FAIRVIEW DRIVE - PO BOX 817",
-    "city": "FRANKLIN",
-    "county_name": "FRANKLIN CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOUTHAMPTON MEMORIAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 FAIRVIEW DRIVE - PO BOX 817", 
+    "city": "FRANKLIN", 
+    "county_name": "FRANKLIN CITY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTHAMPTON MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.934942,
-            36.691171
-        ],
+            -76.93612, 
+            36.690956
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 FAIRVIEW DRIVE - PO BOX 817",
-    "location_city": "FRANKLIN",
-    "location_state": "VA",
-    "location_zip": "23851",
+    }, 
+    "location_address": "100 FAIRVIEW DRIVE - PO BOX 817", 
+    "location_city": "FRANKLIN", 
+    "location_state": "VA", 
+    "location_zip": "23851", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.smhfranklin.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "7575696100",
-    "provider_id": "490092",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7575696100", 
+    "provider_id": "490092", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "23851"
 }

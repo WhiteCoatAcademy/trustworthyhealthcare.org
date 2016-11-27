@@ -1,41 +1,54 @@
 {
-    "address": "603 ROSARY DRIVE",
-    "city": "CORNING",
-    "county_name": "ADAMS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHI HEALTH  - MERCY CORNING",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "603 ROSARY DRIVE", 
+    "city": "CORNING", 
+    "county_name": "ADAMS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHI HEALTH  - MERCY CORNING", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -94.747914,
-            40.988599
-        ],
+            -94.747914, 
+            40.988375
+        ], 
         "type": "Point"
-    },
-    "location_address": "603 ROSARY DRIVE",
-    "location_city": "CORNING",
-    "location_state": "IA",
-    "location_zip": "50841",
+    }, 
+    "location_address": "603 ROSARY DRIVE", 
+    "location_city": "CORNING", 
+    "location_state": "IA", 
+    "location_zip": "50841", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.alegent.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Alegent Health",
+        "name": "Alegent Health", 
         "websites": [
             "www.alegent.com"
         ]
-    },
-    "phone_number": "6413223121",
-    "provider_id": "161304",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6413223121", 
+    "provider_id": "161304", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "50841"
 }

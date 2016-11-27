@@ -1,41 +1,50 @@
 {
-    "address": "600 PLEASANT AVENUE",
-    "city": "PARK RAPIDS",
-    "county_name": "HUBBARD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOSEPHS AREA  HEALTH SERVICES",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "600 PLEASANT AVENUE", 
+    "city": "PARK RAPIDS", 
+    "county_name": "HUBBARD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JOSEPHS AREA  HEALTH SERVICES", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -95.061507,
-            46.915845
-        ],
+            -95.061504, 
+            46.9157
+        ], 
         "type": "Point"
-    },
-    "location_address": "600 PLEASANT AVENUE",
-    "location_city": "PARK RAPIDS",
-    "location_state": "MN",
-    "location_zip": "56470",
+    }, 
+    "location_address": "600 PLEASANT AVENUE", 
+    "location_city": "PARK RAPIDS", 
+    "location_state": "MN", 
+    "location_zip": "56470", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sjahs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Health Initiatives",
+        "name": "Catholic Health Initiatives", 
         "websites": [
             "www.catholichealthinit.org"
         ]
-    },
-    "phone_number": "2187323311",
-    "provider_id": "241380",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2187323311", 
+    "provider_id": "241380", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "56470"
 }

@@ -1,39 +1,49 @@
 {
-    "address": "1001 MCARTHUR ST",
-    "city": "MANCHESTER",
-    "county_name": "COFFEE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNITED REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "481 INTERSTATE DRIVE", 
+    "city": "MANCHESTER", 
+    "county_name": "COFFEE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNITY MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.084939,
-            35.469529
-        ],
+            -86.078141, 
+            35.497932
+        ], 
         "type": "Point"
-    },
-    "location_address": "1001 MCARTHUR ST",
-    "location_city": "MANCHESTER",
-    "location_state": "TN",
-    "location_zip": "37355",
+    }, 
+    "location_address": "481 INTERSTATE DRIVE", 
+    "location_city": "MANCHESTER", 
+    "location_state": "TN", 
+    "location_zip": "37355", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.urmchealthcare.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9317283586",
-    "provider_id": "440007",
-    "raw_ratings": {},
-    "state": "TN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9317283586", 
+    "provider_id": "440007", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "37355"
 }

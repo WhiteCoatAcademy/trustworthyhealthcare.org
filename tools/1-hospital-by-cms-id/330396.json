@@ -1,41 +1,50 @@
 {
-    "address": "760 BROADWAY",
-    "city": "BROOKLYN",
-    "county_name": "KINGS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WOODHULL MEDICAL AND MENTAL HEALTH CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "760 BROADWAY", 
+    "city": "BROOKLYN", 
+    "county_name": "KINGS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WOODHULL MEDICAL AND MENTAL HEALTH CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.94168,
-            40.700582
-        ],
+            -73.941557, 
+            40.700512
+        ], 
         "type": "Point"
-    },
-    "location_address": "760 BROADWAY",
-    "location_city": "BROOKLYN",
-    "location_state": "NY",
-    "location_zip": "11206",
+    }, 
+    "location_address": "760 BROADWAY", 
+    "location_city": "BROOKLYN", 
+    "location_state": "NY", 
+    "location_zip": "11206", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nyc.gov"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "New York City Health and Hospitals Corporation",
+        "name": "New York City Health and Hospitals Corporation", 
         "websites": [
             "www.nyc.gov"
         ]
-    },
-    "phone_number": "7189638100",
-    "provider_id": "330396",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7189638100", 
+    "provider_id": "330396", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "11206"
 }

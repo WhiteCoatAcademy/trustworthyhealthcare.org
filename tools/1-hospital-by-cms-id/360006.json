@@ -1,41 +1,49 @@
 {
-    "address": "3535 OLENTANGY RIVER RD",
-    "city": "COLUMBUS",
-    "county_name": "FRANKLIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "RIVERSIDE METHODIST HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3535 OLENTANGY RIVER RD", 
+    "city": "COLUMBUS", 
+    "county_name": "FRANKLIN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "RIVERSIDE METHODIST HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.031317,
-            40.03203
-        ],
+            -83.031294, 
+            40.031962
+        ], 
         "type": "Point"
-    },
-    "location_address": "3535 OLENTANGY RIVER RD",
-    "location_city": "COLUMBUS",
-    "location_state": "OH",
-    "location_zip": "43214",
+    }, 
+    "location_address": "3535 OLENTANGY RIVER RD", 
+    "location_city": "COLUMBUS", 
+    "location_state": "OH", 
+    "location_zip": "43214", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ohiohealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "OhioHealth",
+        "name": "OhioHealth", 
         "websites": [
             "www.ohiohealth.com"
         ]
-    },
-    "phone_number": "6145665000",
-    "provider_id": "360006",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6145665000", 
+    "provider_id": "360006", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "43214"
 }

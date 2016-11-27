@@ -1,41 +1,49 @@
 {
-    "address": "1650 CREEKSIDE DRIVE",
-    "city": "FOLSOM",
-    "county_name": "SACRAMENTO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY HOSPITAL OF FOLSOM",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1650 CREEKSIDE DRIVE", 
+    "city": "FOLSOM", 
+    "county_name": "SACRAMENTO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY HOSPITAL OF FOLSOM", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -121.146682,
-            38.670751
-        ],
+            -121.149933, 
+            38.667599
+        ], 
         "type": "Point"
-    },
-    "location_address": "1650 CREEKSIDE DRIVE",
-    "location_city": "FOLSOM",
-    "location_state": "CA",
-    "location_zip": "95630",
+    }, 
+    "location_address": "1650 CREEKSIDE DRIVE", 
+    "location_city": "FOLSOM", 
+    "location_state": "CA", 
+    "location_zip": "95630", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mercyfolsom.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare West",
+        "name": "Catholic Healthcare West", 
         "websites": [
             "www.chwhealth.org"
         ]
-    },
-    "phone_number": "9169837400",
-    "provider_id": "050414",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9169837400", 
+    "provider_id": "050414", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "95630"
 }

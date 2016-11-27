@@ -1,40 +1,49 @@
 {
-    "address": "3601 W THIRTEEN MILE RD",
-    "city": "ROYAL OAK",
-    "county_name": "OAKLAND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BEAUMONT HOSPITAL, ROYAL OAK",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3601 W THIRTEEN MILE RD", 
+    "city": "ROYAL OAK", 
+    "county_name": "OAKLAND", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BEAUMONT HOSPITAL, ROYAL OAK", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"3601 W THIRTEEN MILE RD\",\"city\":\"ROYAL OAK\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.51773160000005",
-        "longitude": "-83.19144019299995",
-        "needs_recoding": false
-    },
-    "location_address": "3601 W THIRTEEN MILE RD",
-    "location_city": "ROYAL OAK",
-    "location_state": "MI",
-    "location_zip": "48073",
+        "coordinates": [
+            -83.192142, 
+            42.517687
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "3601 W THIRTEEN MILE RD", 
+    "location_city": "ROYAL OAK", 
+    "location_state": "MI", 
+    "location_zip": "48073", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.beaumonthospitals.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Beaumont Hospitals",
+        "name": "Beaumont Hospitals", 
         "websites": [
             "www.beaumonthospitals.com"
         ]
-    },
-    "phone_number": "2488985000",
-    "provider_id": "230130",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2488985000", 
+    "provider_id": "230130", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "48073"
 }

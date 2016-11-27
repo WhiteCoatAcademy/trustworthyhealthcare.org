@@ -1,39 +1,47 @@
 {
-    "address": "3999 RICHMOND ROAD",
-    "city": "BEACHWOOD",
-    "county_name": "CUYAHOGA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY HOSPITALS AHUJA MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3999 RICHMOND ROAD", 
+    "city": "BEACHWOOD", 
+    "county_name": "CUYAHOGA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY HOSPITALS AHUJA MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.497709,
-            41.453791
-        ],
+            -81.497708, 
+            41.453271
+        ], 
         "type": "Point"
-    },
-    "location_address": "3999 RICHMOND ROAD",
-    "location_city": "BEACHWOOD",
-    "location_state": "OH",
-    "location_zip": "44122",
+    }, 
+    "location_address": "3999 RICHMOND ROAD", 
+    "location_city": "BEACHWOOD", 
+    "location_state": "OH", 
+    "location_zip": "44122", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ehealthconnection.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2167678793",
-    "provider_id": "360359",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2165935510", 
+    "provider_id": "360359", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "44122"
 }

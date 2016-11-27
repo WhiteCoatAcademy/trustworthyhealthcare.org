@@ -1,41 +1,49 @@
 {
-    "address": "2600 GREENWOOD ROAD",
-    "city": "SHREVEPORT",
-    "county_name": "CADDO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WILLIS KNIGHTON MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2600 GREENWOOD ROAD", 
+    "city": "SHREVEPORT", 
+    "county_name": "CADDO", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WILLIS KNIGHTON MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.778797,
-            32.483912
-        ],
+            -93.778748, 
+            32.483923
+        ], 
         "type": "Point"
-    },
-    "location_address": "2600 GREENWOOD ROAD",
-    "location_city": "SHREVEPORT",
-    "location_state": "LA",
-    "location_zip": "71103",
+    }, 
+    "location_address": "2600 GREENWOOD ROAD", 
+    "location_city": "SHREVEPORT", 
+    "location_state": "LA", 
+    "location_zip": "71103", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wkmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Willis-Knighton Health System",
+        "name": "Willis-Knighton Health System", 
         "websites": [
             "www.wkhs.com"
         ]
-    },
-    "phone_number": "3182124000",
-    "provider_id": "190111",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3182124000", 
+    "provider_id": "190111", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "71103"
 }

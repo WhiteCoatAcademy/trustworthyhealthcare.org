@@ -1,41 +1,49 @@
 {
-    "address": "2629 N 7TH ST",
-    "city": "SHEBOYGAN",
-    "county_name": "SHEBOYGAN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "AURORA SHEBOYGAN MEMORIAL MEDICAL CTR",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2629 N 7TH ST", 
+    "city": "SHEBOYGAN", 
+    "county_name": "SHEBOYGAN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "AURORA SHEBOYGAN MEMORIAL MEDICAL CTR", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.711206,
-            43.772588
-        ],
+            -87.711206, 
+            43.772568
+        ], 
         "type": "Point"
-    },
-    "location_address": "2629 N 7TH ST",
-    "location_city": "SHEBOYGAN",
-    "location_state": "WI",
-    "location_zip": "53083",
+    }, 
+    "location_address": "2629 N 7TH ST", 
+    "location_city": "SHEBOYGAN", 
+    "location_state": "WI", 
+    "location_zip": "53083", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.aurorahealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Aurora Health Care",
+        "name": "Aurora Health Care", 
         "websites": [
             "www.aurorahealthcare.org"
         ]
-    },
-    "phone_number": "9204515000",
-    "provider_id": "520035",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9204515000", 
+    "provider_id": "520035", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "53083"
 }

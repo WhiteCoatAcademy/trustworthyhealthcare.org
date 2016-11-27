@@ -1,41 +1,50 @@
 {
-    "address": "400 9TH STREET",
-    "city": "FLORENCE",
-    "county_name": "LANE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PEACE HARBOR MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "400 9TH STREET", 
+    "city": "FLORENCE", 
+    "county_name": "LANE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PEACE HARBOR MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -124.119339,
-            43.975335
-        ],
+            -124.117464, 
+            43.974586
+        ], 
         "type": "Point"
-    },
-    "location_address": "400 9TH STREET",
-    "location_city": "FLORENCE",
-    "location_state": "OR",
-    "location_zip": "97439",
+    }, 
+    "location_address": "400 9TH STREET", 
+    "location_city": "FLORENCE", 
+    "location_state": "OR", 
+    "location_zip": "97439", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.peacehealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "PeaceHealth",
+        "name": "PeaceHealth", 
         "websites": [
             "www.peacehealth.org"
         ]
-    },
-    "phone_number": "5419978412",
-    "provider_id": "381316",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5419978412", 
+    "provider_id": "381316", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "97439"
 }

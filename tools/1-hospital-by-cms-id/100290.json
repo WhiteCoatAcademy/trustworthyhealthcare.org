@@ -1,39 +1,47 @@
 {
-    "address": "1451 EL CAMINO REAL",
-    "city": "THE VILLAGES",
-    "county_name": "SUMTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "VILLAGES REGIONAL HOSPITAL, THE",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1451 EL CAMINO REAL", 
+    "city": "THE VILLAGES", 
+    "county_name": "SUMTER", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "VILLAGES REGIONAL HOSPITAL, THE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.958428,
-            28.949433
-        ],
+            -81.958131, 
+            28.94944
+        ], 
         "type": "Point"
-    },
-    "location_address": "1451 EL CAMINO REAL",
-    "location_city": "THE VILLAGES",
-    "location_state": "FL",
-    "location_zip": "32159",
+    }, 
+    "location_address": "1451 EL CAMINO REAL", 
+    "location_city": "THE VILLAGES", 
+    "location_state": "FL", 
+    "location_zip": "32159", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.tvrh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3527518000",
-    "provider_id": "100290",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3527518000", 
+    "provider_id": "100290", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "32159"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "411 W TIPTON ST",
-    "city": "SEYMOUR",
-    "county_name": "JACKSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SCHNECK MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "411 W TIPTON ST", 
+    "city": "SEYMOUR", 
+    "county_name": "JACKSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SCHNECK MEDICAL CENTER", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.891268,
-            38.956754
-        ],
+            -85.891527, 
+            38.956693
+        ], 
         "type": "Point"
-    },
-    "location_address": "411 W TIPTON ST",
-    "location_city": "SEYMOUR",
-    "location_state": "IN",
-    "location_zip": "47274",
+    }, 
+    "location_address": "411 W TIPTON ST", 
+    "location_city": "SEYMOUR", 
+    "location_state": "IN", 
+    "location_zip": "47274", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.schneckmed.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8125222349",
-    "provider_id": "150065",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8125222349", 
+    "provider_id": "150065", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "47274"
 }

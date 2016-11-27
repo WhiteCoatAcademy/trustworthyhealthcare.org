@@ -1,41 +1,49 @@
 {
-    "address": "501 EAST MAIN ST",
-    "city": "WAYNESBORO",
-    "county_name": "FRANKLIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WAYNESBORO HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "501 EAST MAIN ST", 
+    "city": "WAYNESBORO", 
+    "county_name": "FRANKLIN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WAYNESBORO HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.574023,
-            39.753538
-        ],
+            -77.569909, 
+            39.751559
+        ], 
         "type": "Point"
-    },
-    "location_address": "501 EAST MAIN ST",
-    "location_city": "WAYNESBORO",
-    "location_state": "PA",
-    "location_zip": "17268",
+    }, 
+    "location_address": "501 EAST MAIN ST", 
+    "location_city": "WAYNESBORO", 
+    "location_state": "PA", 
+    "location_zip": "17268", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.summithealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Summit Health",
+        "name": "Summit Health", 
         "websites": [
             "www.summithealth.org"
         ]
-    },
-    "phone_number": "7177654000",
-    "provider_id": "390138",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7177654000", 
+    "provider_id": "390138", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "17268"
 }

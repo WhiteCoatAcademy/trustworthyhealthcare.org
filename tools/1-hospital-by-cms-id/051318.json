@@ -1,41 +1,54 @@
 {
-    "address": "3300 RENNER DRIVE",
-    "city": "FORTUNA",
-    "county_name": "HUMBOLDT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "REDWOOD MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "3300 RENNER DRIVE", 
+    "city": "FORTUNA", 
+    "county_name": "HUMBOLDT", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "REDWOOD MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -124.135547,
-            40.582575
-        ],
+            -124.135624, 
+            40.582564
+        ], 
         "type": "Point"
-    },
-    "location_address": "3300 RENNER DRIVE",
-    "location_city": "FORTUNA",
-    "location_state": "CA",
-    "location_zip": "95540",
+    }, 
+    "location_address": "3300 RENNER DRIVE", 
+    "location_city": "FORTUNA", 
+    "location_state": "CA", 
+    "location_zip": "95540", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stjosepheureka.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Joseph Health System",
+        "name": "Saint Joseph Health System", 
         "websites": [
             "www.stjhs.org"
         ]
-    },
-    "phone_number": "7074458121",
-    "provider_id": "051318",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "7074458121", 
+    "provider_id": "051318", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "95540"
 }

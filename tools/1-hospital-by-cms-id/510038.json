@@ -1,39 +1,47 @@
 {
-    "address": "230 HOSPITAL PLAZA",
-    "city": "WESTON",
-    "county_name": "LEWIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "STONEWALL JACKSON MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "230 HOSPITAL PLAZA", 
+    "city": "WESTON", 
+    "county_name": "LEWIS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "STONEWALL JACKSON MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.492767,
-            39.047801
-        ],
+            -80.49274, 
+            39.048283
+        ], 
         "type": "Point"
-    },
-    "location_address": "230 HOSPITAL PLAZA",
-    "location_city": "WESTON",
-    "location_state": "WV",
-    "location_zip": "26452",
+    }, 
+    "location_address": "230 HOSPITAL PLAZA", 
+    "location_city": "WESTON", 
+    "location_state": "WV", 
+    "location_zip": "26452", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stonewallhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3042698080",
-    "provider_id": "510038",
-    "raw_ratings": {},
-    "state": "WV",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3042698080", 
+    "provider_id": "510038", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WV", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "26452"
 }

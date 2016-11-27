@@ -1,41 +1,49 @@
 {
-    "address": "240 MEETING HOUSE LANE",
-    "city": "SOUTHAMPTON",
-    "county_name": "SUFFOLK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOUTHAMPTON HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "240 MEETING HOUSE LANE", 
+    "city": "SOUTHAMPTON", 
+    "county_name": "SUFFOLK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTHAMPTON HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -72.380281,
-            40.885931
-        ],
+            -72.380983, 
+            40.885734
+        ], 
         "type": "Point"
-    },
-    "location_address": "240 MEETING HOUSE LANE",
-    "location_city": "SOUTHAMPTON",
-    "location_state": "NY",
-    "location_zip": "11968",
+    }, 
+    "location_address": "240 MEETING HOUSE LANE", 
+    "location_city": "SOUTHAMPTON", 
+    "location_state": "NY", 
+    "location_zip": "11968", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.southamptonhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "New York-Presbyterian Healthcare System",
+        "name": "New York-Presbyterian Healthcare System", 
         "websites": [
             "www.nypsystem.org"
         ]
-    },
-    "phone_number": "5167268200",
-    "provider_id": "330340",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5167268200", 
+    "provider_id": "330340", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "11968"
 }

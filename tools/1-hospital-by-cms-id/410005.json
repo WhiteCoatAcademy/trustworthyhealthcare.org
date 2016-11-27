@@ -1,39 +1,47 @@
 {
-    "address": "200 HIGH SERVICE AVENUE",
-    "city": "NORTH PROVIDENCE",
-    "county_name": "PROVIDENCE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OUR LADY OF FATIMA HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 HIGH SERVICE AVENUE", 
+    "city": "NORTH PROVIDENCE", 
+    "county_name": "PROVIDENCE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OUR LADY OF FATIMA HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -71.460041,
-            41.856558
-        ],
+            -71.458481, 
+            41.855768
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 HIGH SERVICE AVENUE",
-    "location_city": "NORTH PROVIDENCE",
-    "location_state": "RI",
-    "location_zip": "02904",
+    }, 
+    "location_address": "200 HIGH SERVICE AVENUE", 
+    "location_city": "NORTH PROVIDENCE", 
+    "location_state": "RI", 
+    "location_zip": "02904", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.fatimahospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4014563000",
-    "provider_id": "410005",
-    "raw_ratings": {},
-    "state": "RI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4014563000", 
+    "provider_id": "410005", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "RI", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "02904"
 }

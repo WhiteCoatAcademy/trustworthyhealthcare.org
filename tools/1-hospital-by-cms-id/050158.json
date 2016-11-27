@@ -1,39 +1,48 @@
 {
-    "address": "16237 VENTURA BLVD",
-    "city": "ENCINO",
-    "county_name": "LOS ANGELES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ENCINO HOSPITAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "16237 VENTURA BLVD", 
+    "city": "ENCINO", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ENCINO HOSPITAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.485748,
-            34.156654
-        ],
+            -118.486948, 
+            34.156826
+        ], 
         "type": "Point"
-    },
-    "location_address": "16237 VENTURA BLVD",
-    "location_city": "ENCINO",
-    "location_state": "CA",
-    "location_zip": "91436",
+    }, 
+    "location_address": "16237 VENTURA BLVD", 
+    "location_city": "ENCINO", 
+    "location_state": "CA", 
+    "location_zip": "91436", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": []
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Prime Healthcare Services, Inc.",
+        "name": "Prime Healthcare Services, Inc.", 
         "websites": [
             "www.primehealthcareservices.com"
         ]
-    },
-    "phone_number": "8189955000",
-    "provider_id": "050158",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8189955000", 
+    "provider_id": "050158", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "91436"
 }

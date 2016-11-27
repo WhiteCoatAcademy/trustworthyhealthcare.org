@@ -1,41 +1,49 @@
 {
-    "address": "506 E SAN ANTONIO ST",
-    "city": "VICTORIA",
-    "county_name": "VICTORIA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DETAR HOSPITAL NAVARRO",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "506 E SAN ANTONIO ST", 
+    "city": "VICTORIA", 
+    "county_name": "VICTORIA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DETAR HOSPITAL NAVARRO", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.99946,
-            28.807595
-        ],
+            -97.00021, 
+            28.807549
+        ], 
         "type": "Point"
-    },
-    "location_address": "506 E SAN ANTONIO ST",
-    "location_city": "VICTORIA",
-    "location_state": "TX",
-    "location_zip": "77902",
+    }, 
+    "location_address": "506 E SAN ANTONIO ST", 
+    "location_city": "VICTORIA", 
+    "location_state": "TX", 
+    "location_zip": "77902", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.detar.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "3615757441",
-    "provider_id": "450147",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3615757441", 
+    "provider_id": "450147", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "77902"
 }

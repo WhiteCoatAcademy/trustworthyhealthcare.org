@@ -1,41 +1,49 @@
 {
-    "address": "809 82ND PARKWAY",
-    "city": "MYRTLE BEACH",
-    "county_name": "HORRY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GRAND STRAND REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "809 82ND PARKWAY", 
+    "city": "MYRTLE BEACH", 
+    "county_name": "HORRY", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GRAND STRAND REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -78.816423,
-            33.757825
-        ],
+            -78.817079, 
+            33.754763
+        ], 
         "type": "Point"
-    },
-    "location_address": "809 82ND PARKWAY",
-    "location_city": "MYRTLE BEACH",
-    "location_state": "SC",
-    "location_zip": "29572",
+    }, 
+    "location_address": "809 82ND PARKWAY", 
+    "location_city": "MYRTLE BEACH", 
+    "location_state": "SC", 
+    "location_zip": "29572", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.grandstrandmed.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "8436921000",
-    "provider_id": "420085",
-    "raw_ratings": {},
-    "state": "SC",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8436921000", 
+    "provider_id": "420085", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "SC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "29572"
 }

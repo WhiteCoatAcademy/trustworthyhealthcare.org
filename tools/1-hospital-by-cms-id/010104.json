@@ -1,41 +1,49 @@
 {
-    "address": "800 MONTCLAIR RD",
-    "city": "BIRMINGHAM",
-    "county_name": "JEFFERSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TRINITY MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3690 GRANDVIEW PARKWAY", 
+    "city": "BIRMINGHAM", 
+    "county_name": "JEFFERSON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GRANDVIEW MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.74741,
-            33.514854
-        ],
+            -86.723028, 
+            33.43248
+        ], 
         "type": "Point"
-    },
-    "location_address": "800 MONTCLAIR RD",
-    "location_city": "BIRMINGHAM",
-    "location_state": "AL",
-    "location_zip": "35213",
+    }, 
+    "location_address": "3690 GRANDVIEW PARKWAY", 
+    "location_city": "BIRMINGHAM", 
+    "location_state": "AL", 
+    "location_zip": "35243", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.trinitymedicalonline.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "2055921000",
-    "provider_id": "010104",
-    "raw_ratings": {},
-    "state": "AL",
-    "zip_code": "35213"
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2055921000", 
+    "provider_id": "010104", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "AL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
+    "zip_code": "35243"
 }

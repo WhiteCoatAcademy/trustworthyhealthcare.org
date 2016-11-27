@@ -1,41 +1,49 @@
 {
-    "address": "530 NE GLEN OAK AVE",
-    "city": "PEORIA",
-    "county_name": "PEORIA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAINT FRANCIS MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "530 NE GLEN OAK AVE", 
+    "city": "PEORIA", 
+    "county_name": "PEORIA", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAINT FRANCIS MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.590243,
-            40.702627
-        ],
+            -89.590445, 
+            40.702526
+        ], 
         "type": "Point"
-    },
-    "location_address": "530 NE GLEN OAK AVE",
-    "location_city": "PEORIA",
-    "location_state": "IL",
-    "location_zip": "61637",
+    }, 
+    "location_address": "530 NE GLEN OAK AVE", 
+    "location_city": "PEORIA", 
+    "location_state": "IL", 
+    "location_zip": "61637", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.osfsaintfrancis.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "OSF Healthcare System",
+        "name": "OSF Healthcare System", 
         "websites": [
             "www.osfhealthcare.org"
         ]
-    },
-    "phone_number": "3096552000",
-    "provider_id": "140067",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3096552000", 
+    "provider_id": "140067", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "61637"
 }

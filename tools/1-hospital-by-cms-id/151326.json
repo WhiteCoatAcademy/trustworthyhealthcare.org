@@ -1,41 +1,51 @@
 {
-    "address": "801 S MAIN ST",
-    "city": "CLINTON",
-    "county_name": "VERMILLION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNION HOSPITAL CLINTON",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "801 S MAIN ST", 
+    "city": "CLINTON", 
+    "county_name": "VERMILLION", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNION HOSPITAL CLINTON", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -87.398213,
-            39.652926
-        ],
+            -87.398214, 
+            39.653226
+        ], 
         "type": "Point"
-    },
-    "location_address": "801 S MAIN ST",
-    "location_city": "CLINTON",
-    "location_state": "IN",
-    "location_zip": "47842",
+    }, 
+    "location_address": "801 S MAIN ST", 
+    "location_city": "CLINTON", 
+    "location_state": "IN", 
+    "location_zip": "47842", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.uhhg.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Union Hospital Health Group",
+        "name": "Union Hospital Health Group", 
         "websites": [
             "www.uhhg.org"
         ]
-    },
-    "phone_number": "7658321234",
-    "provider_id": "151326",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7658321234", 
+    "provider_id": "151326", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "47842"
 }

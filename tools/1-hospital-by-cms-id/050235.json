@@ -1,40 +1,49 @@
 {
-    "address": "501 SOUTH BUENA VISTA",
-    "city": "BURBANK",
-    "county_name": "LOS ANGELES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PROVIDENCE SAINT JOSEPH MEDICAL CTR",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "501 SOUTH BUENA VISTA", 
+    "city": "BURBANK", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PROVIDENCE SAINT JOSEPH MEDICAL CTR", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"501 SOUTH BUENA VISTA\",\"city\":\"BURBANK\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "34.15480665300004",
-        "longitude": "-118.32652807399995",
-        "needs_recoding": false
-    },
-    "location_address": "501 SOUTH BUENA VISTA",
-    "location_city": "BURBANK",
-    "location_state": "CA",
-    "location_zip": "91505",
+        "coordinates": [
+            -118.327824, 
+            34.15761
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "501 SOUTH BUENA VISTA", 
+    "location_city": "BURBANK", 
+    "location_state": "CA", 
+    "location_zip": "91505", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.providence.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Providence Health System",
+        "name": "Providence Health System", 
         "websites": [
             "www.providence.org"
         ]
-    },
-    "phone_number": "8188435111",
-    "provider_id": "050235",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8188435111", 
+    "provider_id": "050235", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "91505"
 }

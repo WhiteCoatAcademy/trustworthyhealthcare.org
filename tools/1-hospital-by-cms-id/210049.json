@@ -1,41 +1,56 @@
 {
-    "address": "500 UPPER CHESAPEAKE DRIVE",
-    "city": "BEL AIR",
-    "county_name": "HARFORD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY OF M D UPPER CHESAPEAKE MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "500 UPPER CHESAPEAKE DRIVE", 
+    "city": "BEL AIR", 
+    "county_name": "HARFORD", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY OF M D UPPER CHESAPEAKE MEDICAL CENTER", 
+    "hospital_overall_rating_footnote": "Data suppressed by CMS for one or more quarters", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.348526,
-            39.519568
-        ],
+            -76.348354, 
+            39.519469
+        ], 
         "type": "Point"
-    },
-    "location_address": "500 UPPER CHESAPEAKE DRIVE",
-    "location_city": "BEL AIR",
-    "location_state": "MD",
-    "location_zip": "21014",
+    }, 
+    "location_address": "500 UPPER CHESAPEAKE DRIVE", 
+    "location_city": "BEL AIR", 
+    "location_state": "MD", 
+    "location_zip": "21014", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.uchs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Upper Chesapeake Health System",
+        "name": "Upper Chesapeake Health System", 
         "websites": [
             "www.uchs.org"
         ]
-    },
-    "phone_number": "4436433303",
-    "provider_id": "210049",
-    "raw_ratings": {},
-    "state": "MD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "phone_number": "4436433303", 
+    "provider_id": "210049", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "state": "MD", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "zip_code": "21014"
 }

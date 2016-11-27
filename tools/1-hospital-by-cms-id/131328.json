@@ -1,39 +1,48 @@
 {
-    "address": "520 NORTH THIRD AVENUE",
-    "city": "SANDPOINT",
-    "county_name": "BONNER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BONNER GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "520 NORTH THIRD AVENUE", 
+    "city": "SANDPOINT", 
+    "county_name": "BONNER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BONNER GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -116.550314,
-            48.277403
-        ],
+            -116.550314, 
+            48.277485
+        ], 
         "type": "Point"
-    },
-    "location_address": "520 NORTH THIRD AVENUE",
-    "location_city": "SANDPOINT",
-    "location_state": "ID",
-    "location_zip": "83864",
+    }, 
+    "location_address": "520 NORTH THIRD AVENUE", 
+    "location_city": "SANDPOINT", 
+    "location_state": "ID", 
+    "location_zip": "83864", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.gritman.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2082631441",
-    "provider_id": "131328",
-    "raw_ratings": {},
-    "state": "ID",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2082631441", 
+    "provider_id": "131328", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "ID", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "83864"
 }

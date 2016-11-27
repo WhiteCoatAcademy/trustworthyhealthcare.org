@@ -1,41 +1,49 @@
 {
-    "address": "31 UNION ST",
-    "city": "ROCKVILLE",
-    "county_name": "TOLLAND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ROCKVILLE GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "31 UNION ST", 
+    "city": "ROCKVILLE", 
+    "county_name": "TOLLAND", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ROCKVILLE GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -72.451083,
-            41.866959
-        ],
+            -72.451043, 
+            41.86696
+        ], 
         "type": "Point"
-    },
-    "location_address": "31 UNION ST",
-    "location_city": "ROCKVILLE",
-    "location_state": "CT",
-    "location_zip": "06066",
+    }, 
+    "location_address": "31 UNION ST", 
+    "location_city": "ROCKVILLE", 
+    "location_state": "CT", 
+    "location_zip": "06066", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.echn.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Eastern Connecticut Health Network",
+        "name": "Eastern Connecticut Health Network", 
         "websites": [
             "www.echn.org"
         ]
-    },
-    "phone_number": "8608725160",
-    "provider_id": "070012",
-    "raw_ratings": {},
-    "state": "CT",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8608725160", 
+    "provider_id": "070012", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CT", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "06066"
 }

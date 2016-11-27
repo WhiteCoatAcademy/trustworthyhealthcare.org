@@ -1,41 +1,49 @@
 {
-    "address": "305 SOUTH 5TH STREET",
-    "city": "ENID",
-    "county_name": "GARFIELD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST MARY'S REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "305 SOUTH 5TH STREET", 
+    "city": "ENID", 
+    "county_name": "GARFIELD", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST MARY'S REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.871777,
-            36.393907
-        ],
+            -97.871777, 
+            36.394154
+        ], 
         "type": "Point"
-    },
-    "location_address": "305 SOUTH 5TH STREET",
-    "location_city": "ENID",
-    "location_state": "OK",
-    "location_zip": "73701",
+    }, 
+    "location_address": "305 SOUTH 5TH STREET", 
+    "location_city": "ENID", 
+    "location_state": "OK", 
+    "location_zip": "73701", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stmarysregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Universal Health Services, Inc.",
+        "name": "Universal Health Services, Inc.", 
         "websites": [
             "www.uhsinc.com"
         ]
-    },
-    "phone_number": "5802336100",
-    "provider_id": "370026",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5802336100", 
+    "provider_id": "370026", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "73701"
 }

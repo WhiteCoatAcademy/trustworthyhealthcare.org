@@ -1,41 +1,50 @@
 {
-    "address": "473 E GREENVILLE AVE",
-    "city": "WINCHESTER",
-    "county_name": "RANDOLPH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST VINCENT RANDOLPH HOSPITAL INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "473 E GREENVILLE AVE", 
+    "city": "WINCHESTER", 
+    "county_name": "RANDOLPH", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST VINCENT RANDOLPH HOSPITAL INC", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -84.970587,
-            40.168018
-        ],
+            -84.970293, 
+            40.167807
+        ], 
         "type": "Point"
-    },
-    "location_address": "473 E GREENVILLE AVE",
-    "location_city": "WINCHESTER",
-    "location_state": "IN",
-    "location_zip": "47394",
+    }, 
+    "location_address": "473 E GREENVILLE AVE", 
+    "location_city": "WINCHESTER", 
+    "location_state": "IN", 
+    "location_zip": "47394", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stvincent.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ascension Health",
+        "name": "Ascension Health", 
         "websites": [
             "www.ascensionhealth.org"
         ]
-    },
-    "phone_number": "7655840004",
-    "provider_id": "151301",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7655840004", 
+    "provider_id": "151301", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "47394"
 }

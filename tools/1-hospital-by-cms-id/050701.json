@@ -1,41 +1,49 @@
 {
-    "address": "25500 MEDICAL CENTER DRIVE",
-    "city": "MURRIETA",
-    "county_name": "RIVERSIDE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOUTHWEST HEALTHCARE SYSTEM",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "25500 MEDICAL CENTER DRIVE", 
+    "city": "MURRIETA", 
+    "county_name": "RIVERSIDE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTHWEST HEALTHCARE SYSTEM", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.183112,
-            33.558122
-        ],
+            -117.18487, 
+            33.557703
+        ], 
         "type": "Point"
-    },
-    "location_address": "25500 MEDICAL CENTER DRIVE",
-    "location_city": "MURRIETA",
-    "location_state": "CA",
-    "location_zip": "92562",
+    }, 
+    "location_address": "25500 MEDICAL CENTER DRIVE", 
+    "location_city": "MURRIETA", 
+    "location_state": "CA", 
+    "location_zip": "92562", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ivrmc-rsmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Universal Health Services, Inc.",
+        "name": "Universal Health Services, Inc.", 
         "websites": [
             "www.uhsinc.com"
         ]
-    },
-    "phone_number": "9516966000",
-    "provider_id": "050701",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9516966000", 
+    "provider_id": "050701", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "92562"
 }

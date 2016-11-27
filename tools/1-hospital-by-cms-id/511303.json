@@ -1,39 +1,50 @@
 {
-    "address": "186 HOSPITAL DRIVE",
-    "city": "GRANTSVILLE",
-    "county_name": "CALHOUN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MINNIE HAMILTON HEALTH CARE CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "186 HOSPITAL DRIVE", 
+    "city": "GRANTSVILLE", 
+    "county_name": "CALHOUN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MINNIE HAMILTON HEALTH CARE CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -81.092258,
-            38.922536
-        ],
+            -81.091896, 
+            38.923787
+        ], 
         "type": "Point"
-    },
-    "location_address": "186 HOSPITAL DRIVE",
-    "location_city": "GRANTSVILLE",
-    "location_state": "WV",
-    "location_zip": "26147",
+    }, 
+    "location_address": "186 HOSPITAL DRIVE", 
+    "location_city": "GRANTSVILLE", 
+    "location_state": "WV", 
+    "location_zip": "26147", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mhhcc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3043549244",
-    "provider_id": "511303",
-    "raw_ratings": {},
-    "state": "WV",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "3043549244", 
+    "provider_id": "511303", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WV", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "26147"
 }

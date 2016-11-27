@@ -1,39 +1,48 @@
 {
-    "address": "1000 S MAIN ST",
-    "city": "TIPTON",
-    "county_name": "TIPTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "INDIANA UNIVERSITY HEALTH TIPTON HOSPITAL INC",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1000 S MAIN ST", 
+    "city": "TIPTON", 
+    "county_name": "TIPTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "INDIANA UNIVERSITY HEALTH TIPTON HOSPITAL INC", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -86.041105,
-            40.272518
-        ],
+            -86.041101, 
+            40.272124
+        ], 
         "type": "Point"
-    },
-    "location_address": "1000 S MAIN ST",
-    "location_city": "TIPTON",
-    "location_state": "IN",
-    "location_zip": "46072",
+    }, 
+    "location_address": "1000 S MAIN ST", 
+    "location_city": "TIPTON", 
+    "location_state": "IN", 
+    "location_zip": "46072", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.tiptonhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7656758500",
-    "provider_id": "151311",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7656758500", 
+    "provider_id": "151311", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "46072"
 }

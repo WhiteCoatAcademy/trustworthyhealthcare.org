@@ -1,39 +1,47 @@
 {
-    "address": "601 COLLIERS WAY",
-    "city": "WEIRTON",
-    "county_name": "HANCOCK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WEIRTON MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "601 COLLIERS WAY", 
+    "city": "WEIRTON", 
+    "county_name": "HANCOCK", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WEIRTON MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.529667,
-            40.393733
-        ],
+            -80.529739, 
+            40.393726
+        ], 
         "type": "Point"
-    },
-    "location_address": "601 COLLIERS WAY",
-    "location_city": "WEIRTON",
-    "location_state": "WV",
-    "location_zip": "26062",
+    }, 
+    "location_address": "601 COLLIERS WAY", 
+    "location_city": "WEIRTON", 
+    "location_state": "WV", 
+    "location_zip": "26062", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.weirtonmedical.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3047976000",
-    "provider_id": "510023",
-    "raw_ratings": {},
-    "state": "WV",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3047976000", 
+    "provider_id": "510023", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "WV", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "26062"
 }

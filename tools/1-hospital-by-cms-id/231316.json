@@ -1,39 +1,48 @@
 {
-    "address": "4675 HILL STREET",
-    "city": "CASS CITY",
-    "county_name": "TUSCOLA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HILLS & DALES GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "4675 HILL STREET", 
+    "city": "CASS CITY", 
+    "county_name": "TUSCOLA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HILLS & DALES GENERAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -83.180623,
-            43.602044
-        ],
+            -83.181126, 
+            43.604308
+        ], 
         "type": "Point"
-    },
-    "location_address": "4675 HILL STREET",
-    "location_city": "CASS CITY",
-    "location_state": "MI",
-    "location_zip": "48726",
+    }, 
+    "location_address": "4675 HILL STREET", 
+    "location_city": "CASS CITY", 
+    "location_state": "MI", 
+    "location_zip": "48726", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hillsanddales.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9898722121",
-    "provider_id": "231316",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9898722121", 
+    "provider_id": "231316", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "48726"
 }

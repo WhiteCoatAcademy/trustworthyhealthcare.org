@@ -1,41 +1,49 @@
 {
-    "address": "636 DEL PRADO BLVD",
-    "city": "CAPE CORAL",
-    "county_name": "LEE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CAPE CORAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "636 DEL PRADO BLVD", 
+    "city": "CAPE CORAL", 
+    "county_name": "LEE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CAPE CORAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.940951,
-            26.639677
-        ],
+            -81.940946, 
+            26.639321
+        ], 
         "type": "Point"
-    },
-    "location_address": "636 DEL PRADO BLVD",
-    "location_city": "CAPE CORAL",
-    "location_state": "FL",
-    "location_zip": "33990",
+    }, 
+    "location_address": "636 DEL PRADO BLVD", 
+    "location_city": "CAPE CORAL", 
+    "location_state": "FL", 
+    "location_zip": "33990", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.leememorial.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Lee Memorial Health System",
+        "name": "Lee Memorial Health System", 
         "websites": [
             "www.leememorial.org"
         ]
-    },
-    "phone_number": "2395742323",
-    "provider_id": "100244",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2395742323", 
+    "provider_id": "100244", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "33990"
 }

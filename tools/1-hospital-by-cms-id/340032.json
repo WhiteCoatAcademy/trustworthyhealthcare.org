@@ -1,39 +1,47 @@
 {
-    "address": "2525 COURT DR",
-    "city": "GASTONIA",
-    "county_name": "GASTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CAROMONT REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2525 COURT DR", 
+    "city": "GASTONIA", 
+    "county_name": "GASTON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CAROMONT REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.139078,
-            35.275208
-        ],
+            -81.143023, 
+            35.274593
+        ], 
         "type": "Point"
-    },
-    "location_address": "2525 COURT DR",
-    "location_city": "GASTONIA",
-    "location_state": "NC",
-    "location_zip": "28052",
+    }, 
+    "location_address": "2525 COURT DR", 
+    "location_city": "GASTONIA", 
+    "location_state": "NC", 
+    "location_zip": "28052", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.caromont.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7048344891",
-    "provider_id": "340032",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7048344891", 
+    "provider_id": "340032", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "28052"
 }

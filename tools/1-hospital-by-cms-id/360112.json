@@ -1,41 +1,49 @@
 {
-    "address": "2213 CHERRY STREET",
-    "city": "TOLEDO",
-    "county_name": "LUCAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY ST VINCENT MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2213 CHERRY STREET", 
+    "city": "TOLEDO", 
+    "county_name": "LUCAS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY ST VINCENT MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.541688,
-            41.668448
-        ],
+            -83.541918, 
+            41.668726
+        ], 
         "type": "Point"
-    },
-    "location_address": "2213 CHERRY STREET",
-    "location_city": "TOLEDO",
-    "location_state": "OH",
-    "location_zip": "43608",
+    }, 
+    "location_address": "2213 CHERRY STREET", 
+    "location_city": "TOLEDO", 
+    "location_state": "OH", 
+    "location_zip": "43608", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ehealthconnection.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare Partners",
+        "name": "Catholic Healthcare Partners", 
         "websites": [
             "www.health-partners.org"
         ]
-    },
-    "phone_number": "4192513232",
-    "provider_id": "360112",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4192513232", 
+    "provider_id": "360112", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "43608"
 }

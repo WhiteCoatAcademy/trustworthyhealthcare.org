@@ -1,36 +1,54 @@
 {
-    "address": "151 AVE OSVALDO MOLINA",
-    "city": "FAJARDO",
-    "county_name": "FAJARDO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CARIBBEAN MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "151 AVE OSVALDO MOLINA", 
+    "city": "FAJARDO", 
+    "county_name": "FAJARDO", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CARIBBEAN MEDICAL CENTER", 
+    "hospital_overall_rating_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"151 AVE OSVALDO MOLINA\",\"city\":\"FAJARDO\",\"state\":\"PR\",\"zip\":\"\"}",
-        "latitude": "18.33237743500007",
-        "longitude": "-65.65036647499994",
-        "needs_recoding": false
-    },
+        "coordinates": [
+            -65.651424, 
+            18.332857
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "151 AVE OSVALDO MOLINA", 
+    "location_city": "FAJARDO", 
+    "location_state": "PR", 
+    "location_zip": "00738", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.paviahospitalhatorey.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": {
-        "phone_number": "7878010081"
-    },
-    "provider_id": "400131",
-    "raw_ratings": {},
-    "state": "PR",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "phone_number": "7878010081", 
+    "provider_id": "400131", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
+    "state": "PR", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs", 
     "zip_code": "00738"
 }

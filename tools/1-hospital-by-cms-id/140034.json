@@ -1,41 +1,49 @@
 {
-    "address": "400 NORTH PLEASANT AVENUE",
-    "city": "CENTRALIA",
-    "county_name": "MARION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SSM HEALTH ST MARY'S HOSPITAL -CENTRALIA",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "400 NORTH PLEASANT AVENUE", 
+    "city": "CENTRALIA", 
+    "county_name": "MARION", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SSM HEALTH ST MARY'S HOSPITAL -CENTRALIA", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.115999,
-            38.530815
-        ],
+            -89.115999, 
+            38.530809
+        ], 
         "type": "Point"
-    },
-    "location_address": "400 NORTH PLEASANT AVENUE",
-    "location_city": "CENTRALIA",
-    "location_state": "IL",
-    "location_zip": "62801",
+    }, 
+    "location_address": "400 NORTH PLEASANT AVENUE", 
+    "location_city": "CENTRALIA", 
+    "location_state": "IL", 
+    "location_zip": "62801", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.smgsi.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "SSM Health Care",
+        "name": "SSM Health Care", 
         "websites": [
             "www.ssmhc.com"
         ]
-    },
-    "phone_number": "6184366519",
-    "provider_id": "140034",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6184366519", 
+    "provider_id": "140034", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "62801"
 }

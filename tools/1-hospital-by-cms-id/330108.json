@@ -1,39 +1,47 @@
 {
-    "address": "555 ST JOSEPH'S BLVD",
-    "city": "ELMIRA",
-    "county_name": "CHEMUNG",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOSEPH'S HOSPITAL, INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "555 ST JOSEPH'S BLVD", 
+    "city": "ELMIRA", 
+    "county_name": "CHEMUNG", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JOSEPH'S HOSPITAL, INC", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.796843,
-            42.091393
-        ],
+            -76.797081, 
+            42.091324
+        ], 
         "type": "Point"
-    },
-    "location_address": "555 ST JOSEPH'S BLVD",
-    "location_city": "ELMIRA",
-    "location_state": "NY",
-    "location_zip": "14902",
+    }, 
+    "location_address": "555 ST JOSEPH'S BLVD", 
+    "location_city": "ELMIRA", 
+    "location_state": "NY", 
+    "location_zip": "14902", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stjosephs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6077336541",
-    "provider_id": "330108",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6077336541", 
+    "provider_id": "330108", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "14902"
 }

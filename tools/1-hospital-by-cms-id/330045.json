@@ -1,41 +1,49 @@
 {
-    "address": "270 PARK AVENUE",
-    "city": "HUNTINGTON",
-    "county_name": "SUFFOLK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HUNTINGTON HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "270 PARK AVENUE", 
+    "city": "HUNTINGTON", 
+    "county_name": "SUFFOLK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HUNTINGTON HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.417599,
-            40.880096
-        ],
+            -73.417488, 
+            40.879201
+        ], 
         "type": "Point"
-    },
-    "location_address": "270 PARK AVENUE",
-    "location_city": "HUNTINGTON",
-    "location_state": "NY",
-    "location_zip": "11743",
+    }, 
+    "location_address": "270 PARK AVENUE", 
+    "location_city": "HUNTINGTON", 
+    "location_state": "NY", 
+    "location_zip": "11743", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hunthosp.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "North Shore-Long Island Jewish Health System",
+        "name": "North Shore-Long Island Jewish Health System", 
         "websites": [
             "www.northshorelij.com"
         ]
-    },
-    "phone_number": "6313512000",
-    "provider_id": "330045",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6313512000", 
+    "provider_id": "330045", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "11743"
 }

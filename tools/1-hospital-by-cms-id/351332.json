@@ -1,39 +1,51 @@
 {
-    "address": "800 S MAIN AVE",
-    "city": "RUGBY",
-    "county_name": "PIERCE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HEART OF AMERICA MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "800 S MAIN AVE", 
+    "city": "RUGBY", 
+    "county_name": "PIERCE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HEART OF AMERICA MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -99.996111,
-            48.36351
-        ],
+            -99.996111, 
+            48.363491
+        ], 
         "type": "Point"
-    },
-    "location_address": "800 S MAIN AVE",
-    "location_city": "RUGBY",
-    "location_state": "ND",
-    "location_zip": "58368",
+    }, 
+    "location_address": "800 S MAIN AVE", 
+    "location_city": "RUGBY", 
+    "location_state": "ND", 
+    "location_zip": "58368", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wrhs.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7017765261",
-    "provider_id": "351332",
-    "raw_ratings": {},
-    "state": "ND",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "7017765261", 
+    "provider_id": "351332", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "ND", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "58368"
 }

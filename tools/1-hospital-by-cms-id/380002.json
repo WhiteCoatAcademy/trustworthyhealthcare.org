@@ -1,40 +1,49 @@
 {
-    "address": "500 SW RAMSEY AVENUE",
-    "city": "GRANTS PASS",
-    "county_name": "JOSEPHINE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ASANTE THREE RIVERS MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "500 SW RAMSEY AVENUE", 
+    "city": "GRANTS PASS", 
+    "county_name": "JOSEPHINE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ASANTE THREE RIVERS MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"500 SW RAMSEY AVENUE\",\"city\":\"GRANTS PASS\",\"state\":\"OR\",\"zip\":\"\"}",
-        "latitude": "42.42144852400003",
-        "longitude": "-123.33958402699994",
-        "needs_recoding": false
-    },
-    "location_address": "500 SW RAMSEY AVENUE",
-    "location_city": "GRANTS PASS",
-    "location_state": "OR",
-    "location_zip": "97527",
+        "coordinates": [
+            -123.342585, 
+            42.419827
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "500 SW RAMSEY AVENUE", 
+    "location_city": "GRANTS PASS", 
+    "location_state": "OR", 
+    "location_zip": "97527", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.asante.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Asante Health System",
+        "name": "Asante Health System", 
         "websites": [
             "www.asante.org"
         ]
-    },
-    "phone_number": "5414727000",
-    "provider_id": "380002",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5414727000", 
+    "provider_id": "380002", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "97527"
 }

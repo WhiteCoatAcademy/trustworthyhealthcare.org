@@ -1,41 +1,49 @@
 {
-    "address": "3600 JOSEPH SIEWICK DRIVE",
-    "city": "FAIRFAX",
-    "county_name": "FAIRFAX",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "INOVA FAIR OAKS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3600 JOSEPH SIEWICK DRIVE", 
+    "city": "FAIRFAX", 
+    "county_name": "FAIRFAX", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "INOVA FAIR OAKS HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.379027,
-            38.884731
-        ],
+            -77.382511, 
+            38.882229
+        ], 
         "type": "Point"
-    },
-    "location_address": "3600 JOSEPH SIEWICK DRIVE",
-    "location_city": "FAIRFAX",
-    "location_state": "VA",
-    "location_zip": "22033",
+    }, 
+    "location_address": "3600 JOSEPH SIEWICK DRIVE", 
+    "location_city": "FAIRFAX", 
+    "location_state": "VA", 
+    "location_zip": "22033", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.inova.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Inova Health System",
+        "name": "Inova Health System", 
         "websites": [
             "www.inova.com"
         ]
-    },
-    "phone_number": "7033914170",
-    "provider_id": "490101",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7033914170", 
+    "provider_id": "490101", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "22033"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1506 S ONEIDA ST",
-    "city": "APPLETON",
-    "county_name": "OUTAGAMIE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST ELIZABETH HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1506 S ONEIDA ST", 
+    "city": "APPLETON", 
+    "county_name": "OUTAGAMIE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST ELIZABETH HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.404141,
-            44.247879
-        ],
+            -88.404135, 
+            44.248739
+        ], 
         "type": "Point"
-    },
-    "location_address": "1506 S ONEIDA ST",
-    "location_city": "APPLETON",
-    "location_state": "WI",
-    "location_zip": "54915",
+    }, 
+    "location_address": "1506 S ONEIDA ST", 
+    "location_city": "APPLETON", 
+    "location_state": "WI", 
+    "location_zip": "54915", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.affinityhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Affinity Health System",
+        "name": "Affinity Health System", 
         "websites": [
             "www.affinityhealth.org"
         ]
-    },
-    "phone_number": "9207382000",
-    "provider_id": "520009",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9207382000", 
+    "provider_id": "520009", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "54915"
 }

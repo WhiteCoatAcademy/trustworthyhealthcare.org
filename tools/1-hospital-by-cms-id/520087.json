@@ -1,39 +1,47 @@
 {
-    "address": "1910 SOUTH AVE",
-    "city": "LA CROSSE",
-    "county_name": "LA CROSSE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GUNDERSEN LUTHERAN MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1910 SOUTH AVE", 
+    "city": "LA CROSSE", 
+    "county_name": "LA CROSSE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GUNDERSEN LUTHERAN MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -91.24621,
-            43.794742
-        ],
+            -91.246506, 
+            43.794924
+        ], 
         "type": "Point"
-    },
-    "location_address": "1910 SOUTH AVE",
-    "location_city": "LA CROSSE",
-    "location_state": "WI",
-    "location_zip": "54601",
+    }, 
+    "location_address": "1910 SOUTH AVE", 
+    "location_city": "LA CROSSE", 
+    "location_state": "WI", 
+    "location_zip": "54601", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.gundluth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6087827300",
-    "provider_id": "520087",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6087827300", 
+    "provider_id": "520087", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "54601"
 }

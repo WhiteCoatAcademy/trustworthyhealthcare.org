@@ -1,40 +1,49 @@
 {
-    "address": "PO BOX 1484",
-    "city": "ELKINS",
-    "county_name": "RANDOLPH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DAVIS MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "812 GORMAN AVENUE", 
+    "city": "ELKINS", 
+    "county_name": "RANDOLPH", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DAVIS MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"PO BOX 1484\",\"city\":\"ELKINS\",\"state\":\"WV\",\"zip\":\"\"}",
-        "latitude": "38.92402242400004",
-        "longitude": "-79.84448591099994",
-        "needs_recoding": false
-    },
-    "location_address": "PO BOX 1484",
-    "location_city": "ELKINS",
-    "location_state": "WV",
-    "location_zip": "26241",
+        "coordinates": [
+            -79.85341, 
+            38.928092
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "812 GORMAN AVENUE", 
+    "location_city": "ELKINS", 
+    "location_state": "WV", 
+    "location_zip": "26241", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.davishealthcare.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Davis Health System",
+        "name": "Davis Health System", 
         "websites": [
             "www.davishealthsystem.org"
         ]
-    },
-    "phone_number": "3046363300",
-    "provider_id": "510030",
-    "raw_ratings": {},
-    "state": "WV",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3046363300", 
+    "provider_id": "510030", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "WV", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "26241"
 }

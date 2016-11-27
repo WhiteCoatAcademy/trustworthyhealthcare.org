@@ -1,41 +1,49 @@
 {
-    "address": "2251 NORTH SHORE DR",
-    "city": "RHINELANDER",
-    "county_name": "ONEIDA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MINISTRY SAINT MARYS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2251 NORTH SHORE DR", 
+    "city": "RHINELANDER", 
+    "county_name": "ONEIDA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MINISTRY SAINT MARYS HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.374618,
-            45.637123
-        ],
+            -89.374294, 
+            45.637134
+        ], 
         "type": "Point"
-    },
-    "location_address": "2251 NORTH SHORE DR",
-    "location_city": "RHINELANDER",
-    "location_state": "WI",
-    "location_zip": "54501",
+    }, 
+    "location_address": "2251 NORTH SHORE DR", 
+    "location_city": "RHINELANDER", 
+    "location_state": "WI", 
+    "location_zip": "54501", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ministryhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Marian Health System",
+        "name": "Marian Health System", 
         "websites": [
             "www.marianhealthsystem.com"
         ]
-    },
-    "phone_number": "7153612000",
-    "provider_id": "520019",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7153612000", 
+    "provider_id": "520019", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "54501"
 }

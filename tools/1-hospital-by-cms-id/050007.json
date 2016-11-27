@@ -1,41 +1,49 @@
 {
-    "address": "1501 TROUSDALE DRIVE",
-    "city": "BURLINGAME",
-    "county_name": "SAN MATEO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MILLS-PENINSULA MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1501 TROUSDALE DRIVE", 
+    "city": "BURLINGAME", 
+    "county_name": "SAN MATEO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MILLS-PENINSULA MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.385318,
-            37.592591
-        ],
+            -122.383356, 
+            37.594398
+        ], 
         "type": "Point"
-    },
-    "location_address": "1501 TROUSDALE DRIVE",
-    "location_city": "BURLINGAME",
-    "location_state": "CA",
-    "location_zip": "94010",
+    }, 
+    "location_address": "1501 TROUSDALE DRIVE", 
+    "location_city": "BURLINGAME", 
+    "location_state": "CA", 
+    "location_zip": "94010", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mphs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sutter Health",
+        "name": "Sutter Health", 
         "websites": [
             "www.sutterhealth.org"
         ]
-    },
-    "phone_number": "6506965270",
-    "provider_id": "050007",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6506965270", 
+    "provider_id": "050007", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "94010"
 }

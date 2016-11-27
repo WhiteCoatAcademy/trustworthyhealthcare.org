@@ -1,41 +1,51 @@
 {
-    "address": "6750 EAST BAYWOOD AVENUE",
-    "city": "MESA",
-    "county_name": "MARICOPA",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "BANNER HEART HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6750 EAST BAYWOOD AVENUE", 
+    "city": "MESA", 
+    "county_name": "MARICOPA", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "BANNER HEART HOSPITAL", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -111.685419,
-            33.410382
-        ],
+            -111.686221, 
+            33.410429
+        ], 
         "type": "Point"
-    },
-    "location_address": "6750 EAST BAYWOOD AVENUE",
-    "location_city": "MESA",
-    "location_state": "AZ",
-    "location_zip": "85206",
+    }, 
+    "location_address": "6750 EAST BAYWOOD AVENUE", 
+    "location_city": "MESA", 
+    "location_state": "AZ", 
+    "location_zip": "85206", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bannerhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Banner Health",
+        "name": "Banner Health", 
         "websites": [
             "www.bannerhealth.com"
         ]
-    },
-    "phone_number": "4808545050",
-    "provider_id": "030105",
-    "raw_ratings": {},
-    "state": "AZ",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4808545050", 
+    "provider_id": "030105", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "AZ", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "85206"
 }

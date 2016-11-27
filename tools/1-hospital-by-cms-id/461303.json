@@ -1,41 +1,53 @@
 {
-    "address": "1100 SOUTH MEDICAL DRIVE",
-    "city": "MOUNT PLEASANT",
-    "county_name": "SANPETE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SANPETE VALLEY HOSPITAL - CAH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1100 SOUTH MEDICAL DRIVE", 
+    "city": "MOUNT PLEASANT", 
+    "county_name": "SANPETE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SANPETE VALLEY HOSPITAL - CAH", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -111.461243,
-            39.531757
-        ],
+            -111.461194, 
+            39.531803
+        ], 
         "type": "Point"
-    },
-    "location_address": "1100 SOUTH MEDICAL DRIVE",
-    "location_city": "MOUNT PLEASANT",
-    "location_state": "UT",
-    "location_zip": "84647",
+    }, 
+    "location_address": "1100 SOUTH MEDICAL DRIVE", 
+    "location_city": "MOUNT PLEASANT", 
+    "location_state": "UT", 
+    "location_zip": "84647", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Intermountain Health Care, Inc",
+        "name": "Intermountain Health Care, Inc", 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "phone_number": "4354624123",
-    "provider_id": "461303",
-    "raw_ratings": {},
-    "state": "UT",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4354624123", 
+    "provider_id": "461303", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "UT", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "84647"
 }

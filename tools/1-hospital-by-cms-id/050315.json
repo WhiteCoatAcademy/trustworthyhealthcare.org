@@ -1,39 +1,50 @@
 {
-    "address": "1700 MOUNT VERNON AVENUE",
-    "city": "BAKERSFIELD",
-    "county_name": "KERN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "KERN MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1700 MOUNT VERNON AVENUE", 
+    "city": "BAKERSFIELD", 
+    "county_name": "KERN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "KERN MEDICAL CENTER", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.967548,
-            35.382404
-        ],
+            -118.967546, 
+            35.380964
+        ], 
         "type": "Point"
-    },
-    "location_address": "1700 MOUNT VERNON AVENUE",
-    "location_city": "BAKERSFIELD",
-    "location_state": "CA",
-    "location_zip": "93306",
+    }, 
+    "location_address": "1700 MOUNT VERNON AVENUE", 
+    "location_city": "BAKERSFIELD", 
+    "location_state": "CA", 
+    "location_zip": "93306", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.kernmedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6613262000",
-    "provider_id": "050315",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6613262000", 
+    "provider_id": "050315", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "93306"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "6201 N SUNCOAST BLVD",
-    "city": "CRYSTAL RIVER",
-    "county_name": "CITRUS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SEVEN RIVERS REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6201 N SUNCOAST BLVD", 
+    "city": "CRYSTAL RIVER", 
+    "county_name": "CITRUS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SEVEN RIVERS REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.625951,
-            28.951071
-        ],
+            -82.626291, 
+            28.951772
+        ], 
         "type": "Point"
-    },
-    "location_address": "6201 N SUNCOAST BLVD",
-    "location_city": "CRYSTAL RIVER",
-    "location_state": "FL",
-    "location_zip": "34428",
+    }, 
+    "location_address": "6201 N SUNCOAST BLVD", 
+    "location_city": "CRYSTAL RIVER", 
+    "location_state": "FL", 
+    "location_zip": "34428", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.srrmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Health Management Associates, Inc.",
+        "name": "Health Management Associates, Inc.", 
         "websites": [
             "www.hma.com"
         ]
-    },
-    "phone_number": "3527956560",
-    "provider_id": "100249",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3527956560", 
+    "provider_id": "100249", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "34428"
 }

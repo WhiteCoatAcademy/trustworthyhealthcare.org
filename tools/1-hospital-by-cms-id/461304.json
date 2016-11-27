@@ -1,39 +1,51 @@
 {
-    "address": "48 WEST 1500 NORTH",
-    "city": "NEPHI",
-    "county_name": "JUAB",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CENTRAL VALLEY MEDICAL CENTER - CAH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "48 WEST 1500 NORTH", 
+    "city": "NEPHI", 
+    "county_name": "JUAB", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CENTRAL VALLEY MEDICAL CENTER - CAH", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -111.838497,
-            39.730611
-        ],
+            -111.837215, 
+            39.730587
+        ], 
         "type": "Point"
-    },
-    "location_address": "48 WEST 1500 NORTH",
-    "location_city": "NEPHI",
-    "location_state": "UT",
-    "location_zip": "84648",
+    }, 
+    "location_address": "48 WEST 1500 NORTH", 
+    "location_city": "NEPHI", 
+    "location_state": "UT", 
+    "location_zip": "84648", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cvmed.net"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4356233000",
-    "provider_id": "461304",
-    "raw_ratings": {},
-    "state": "UT",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4356233000", 
+    "provider_id": "461304", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "UT", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "84648"
 }

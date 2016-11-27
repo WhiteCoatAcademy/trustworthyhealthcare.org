@@ -1,39 +1,51 @@
 {
-    "address": "1301 WEST MAIN STREET",
-    "city": "LAKE CITY",
-    "county_name": "CALHOUN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "STEWART MEMORIAL COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1301 WEST MAIN STREET", 
+    "city": "LAKE CITY", 
+    "county_name": "CALHOUN", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "STEWART MEMORIAL COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -94.746423,
-            42.26727
-        ],
+            -94.750451, 
+            42.266198
+        ], 
         "type": "Point"
-    },
-    "location_address": "1301 WEST MAIN STREET",
-    "location_city": "LAKE CITY",
-    "location_state": "IA",
-    "location_zip": "51449",
+    }, 
+    "location_address": "1301 WEST MAIN STREET", 
+    "location_city": "LAKE CITY", 
+    "location_state": "IA", 
+    "location_zip": "51449", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stewartmemorial.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7124643171",
-    "provider_id": "161350",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "7124643171", 
+    "provider_id": "161350", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "51449"
 }

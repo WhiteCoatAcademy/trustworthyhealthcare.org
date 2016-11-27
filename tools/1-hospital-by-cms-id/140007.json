@@ -1,40 +1,49 @@
 {
-    "address": "333 N MADISON",
-    "city": "JOLIET",
-    "county_name": "WILL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PRESENCE SAINT JOSEPH MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "333 N MADISON", 
+    "city": "JOLIET", 
+    "county_name": "WILL", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PRESENCE SAINT JOSEPH MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"333 N MADISON\",\"city\":\"JOLIET\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "41.52810115700004",
-        "longitude": "-88.13465957599999",
-        "needs_recoding": false
-    },
-    "location_address": "333 N MADISON",
-    "location_city": "JOLIET",
-    "location_state": "IL",
-    "location_zip": "60435",
+        "coordinates": [
+            -88.132072, 
+            41.529266
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "333 N MADISON", 
+    "location_city": "JOLIET", 
+    "location_state": "IL", 
+    "location_zip": "60435", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.provena.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Provena Health",
+        "name": "Provena Health", 
         "websites": [
             "www.provena.org"
         ]
-    },
-    "phone_number": "8157257133",
-    "provider_id": "140007",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8157257133", 
+    "provider_id": "140007", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "60435"
 }

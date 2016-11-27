@@ -1,41 +1,49 @@
 {
-    "address": "3400 WAKE FOREST RD",
-    "city": "RALEIGH",
-    "county_name": "WAKE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DUKE HEALTH RALEIGH HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3400 WAKE FOREST RD", 
+    "city": "RALEIGH", 
+    "county_name": "WAKE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DUKE HEALTH RALEIGH HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -78.619402,
-            35.829296
-        ],
+            -78.619473, 
+            35.829159
+        ], 
         "type": "Point"
-    },
-    "location_address": "3400 WAKE FOREST RD",
-    "location_city": "RALEIGH",
-    "location_state": "NC",
-    "location_zip": "27609",
+    }, 
+    "location_address": "3400 WAKE FOREST RD", 
+    "location_city": "RALEIGH", 
+    "location_state": "NC", 
+    "location_zip": "27609", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.dukeraleighhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Duke University Health System",
+        "name": "Duke University Health System", 
         "websites": [
             "www.dukehealth.org"
         ]
-    },
-    "phone_number": "9199543000",
-    "provider_id": "340073",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9199543000", 
+    "provider_id": "340073", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "27609"
 }

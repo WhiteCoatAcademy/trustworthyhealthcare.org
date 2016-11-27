@@ -1,41 +1,56 @@
 {
-    "address": "600 NORTH  WOLFE STREET",
-    "city": "BALTIMORE",
-    "county_name": "BALTIMORE CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JOHNS HOPKINS HOSPITAL, THE",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "600 NORTH  WOLFE STREET", 
+    "city": "BALTIMORE", 
+    "county_name": "BALTIMORE CITY", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JOHNS HOPKINS HOSPITAL, THE", 
+    "hospital_overall_rating_footnote": "Data suppressed by CMS for one or more quarters", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.590781,
-            39.296892
-        ],
+            -76.590807, 
+            39.297502
+        ], 
         "type": "Point"
-    },
-    "location_address": "600 NORTH WOLFE STREET",
-    "location_city": "BALTIMORE",
-    "location_state": "MD",
-    "location_zip": "21287",
+    }, 
+    "location_address": "600 NORTH WOLFE STREET", 
+    "location_city": "BALTIMORE", 
+    "location_state": "MD", 
+    "location_zip": "21287", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hopkinshospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "The Johns Hopkins Hospital & Health System",
+        "name": "The Johns Hopkins Hospital & Health System", 
         "websites": [
             "www.hopkinshospital.org"
         ]
-    },
-    "phone_number": "4109559540",
-    "provider_id": "210009",
-    "raw_ratings": {},
-    "state": "MD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "phone_number": "4109559540", 
+    "provider_id": "210009", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "state": "MD", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "zip_code": "21287"
 }

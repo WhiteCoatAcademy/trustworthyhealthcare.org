@@ -1,41 +1,49 @@
 {
-    "address": "1250 16TH STREET",
-    "city": "SANTA MONICA",
-    "county_name": "LOS ANGELES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SANTA MONICA - UCLA MED CTR & ORTHOPAEDIC HOSPITAL",
-    "hospital_ownership": "Government - State",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1250 16TH STREET", 
+    "city": "SANTA MONICA", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SANTA MONICA - UCLA MED CTR & ORTHOPAEDIC HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - State", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.485997,
-            34.027506
-        ],
+            -118.486315, 
+            34.027776
+        ], 
         "type": "Point"
-    },
-    "location_address": "1250 16TH STREET",
-    "location_city": "SANTA MONICA",
-    "location_state": "CA",
-    "location_zip": "90404",
+    }, 
+    "location_address": "1250 16TH STREET", 
+    "location_city": "SANTA MONICA", 
+    "location_state": "CA", 
+    "location_zip": "90404", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "healthcare.ucla.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University of California Los Angeles Healthcare",
+        "name": "University of California Los Angeles Healthcare", 
         "websites": [
             "healthcare.ucla.edu"
         ]
-    },
-    "phone_number": "3103194000",
-    "provider_id": "050112",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3103194000", 
+    "provider_id": "050112", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "90404"
 }

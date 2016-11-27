@@ -1,41 +1,50 @@
 {
-    "address": "1000 MEDICAL CENTER DRIVE",
-    "city": "HARDEEVILLE",
-    "county_name": "JASPER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COASTAL CAROLINA HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1000 MEDICAL CENTER DRIVE", 
+    "city": "HARDEEVILLE", 
+    "county_name": "JASPER", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COASTAL CAROLINA HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.055052,
-            32.31256
-        ],
+            -81.055467, 
+            32.31481
+        ], 
         "type": "Point"
-    },
-    "location_address": "1000 MEDICAL CENTER DRIVE",
-    "location_city": "HARDEEVILLE",
-    "location_state": "SC",
-    "location_zip": "29927",
+    }, 
+    "location_address": "1000 MEDICAL CENTER DRIVE", 
+    "location_city": "HARDEEVILLE", 
+    "location_state": "SC", 
+    "location_zip": "29927", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ccmc-cares.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "TENET Healthcare",
+        "name": "TENET Healthcare", 
         "websites": [
             "www.tenethealth.com"
         ]
-    },
-    "phone_number": "8437848182",
-    "provider_id": "420101",
-    "raw_ratings": {},
-    "state": "SC",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8437848182", 
+    "provider_id": "420101", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "SC", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "29927"
 }

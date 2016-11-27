@@ -1,41 +1,49 @@
 {
-    "address": "1216 SECOND STREET SOUTHWEST",
-    "city": "ROCHESTER",
-    "county_name": "OLMSTED",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MAYO CLINIC HOSPITAL ROCHESTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1216 SECOND STREET SOUTHWEST", 
+    "city": "ROCHESTER", 
+    "county_name": "OLMSTED", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MAYO CLINIC HOSPITAL ROCHESTER", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -92.481355,
+            -92.481355, 
             44.021643
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1216 SECOND STREET SOUTHWEST",
-    "location_city": "ROCHESTER",
-    "location_state": "MN",
-    "location_zip": "55902",
+    }, 
+    "location_address": "1216 SECOND STREET SOUTHWEST", 
+    "location_city": "ROCHESTER", 
+    "location_state": "MN", 
+    "location_zip": "55902", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mayoclinic.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Mayo Health System",
+        "name": "Mayo Health System", 
         "websites": [
             "www.mayohealthsystem.org"
         ]
-    },
-    "phone_number": "5072555123",
-    "provider_id": "240010",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5072555123", 
+    "provider_id": "240010", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "55902"
 }

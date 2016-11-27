@@ -1,41 +1,49 @@
 {
-    "address": "333 LAIDLEY ST",
-    "city": "CHARLESTON",
-    "county_name": "KANAWHA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST FRANCIS HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "333 LAIDLEY ST", 
+    "city": "CHARLESTON", 
+    "county_name": "KANAWHA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST FRANCIS HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.632523,
-            38.353391
-        ],
+            -81.63258, 
+            38.353364
+        ], 
         "type": "Point"
-    },
-    "location_address": "333 LAIDLEY ST",
-    "location_city": "CHARLESTON",
-    "location_state": "WV",
-    "location_zip": "25301",
+    }, 
+    "location_address": "333 LAIDLEY ST", 
+    "location_city": "CHARLESTON", 
+    "location_state": "WV", 
+    "location_zip": "25301", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stfrancishospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Thomas Health System, Inc.",
+        "name": "Thomas Health System, Inc.", 
         "websites": [
             "www.thomaswv.org"
         ]
-    },
-    "phone_number": "3043476500",
-    "provider_id": "510031",
-    "raw_ratings": {},
-    "state": "WV",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3043476500", 
+    "provider_id": "510031", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WV", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "25301"
 }

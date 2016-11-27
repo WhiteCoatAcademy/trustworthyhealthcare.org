@@ -1,41 +1,54 @@
 {
-    "address": "434 HOSPITAL DRIVE",
-    "city": "LINVILLE",
-    "county_name": "AVERY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHARLES A CANNON JR MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "434 HOSPITAL DRIVE", 
+    "city": "LINVILLE", 
+    "county_name": "AVERY", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHARLES A CANNON JR MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -81.888299,
-            36.061938
-        ],
+            -81.885678, 
+            36.067483
+        ], 
         "type": "Point"
-    },
-    "location_address": "434 HOSPITAL DRIVE",
-    "location_city": "LINVILLE",
-    "location_state": "NC",
-    "location_zip": "28646",
+    }, 
+    "location_address": "434 HOSPITAL DRIVE", 
+    "location_city": "LINVILLE", 
+    "location_state": "NC", 
+    "location_zip": "28646", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.apprhs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Appalachian Regional Healthcare System",
+        "name": "Appalachian Regional Healthcare System", 
         "websites": [
             "www.apprhs.org"
         ]
-    },
-    "phone_number": "8287377000",
-    "provider_id": "341323",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8287377000", 
+    "provider_id": "341323", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "28646"
 }

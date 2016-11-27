@@ -1,41 +1,49 @@
 {
-    "address": "800 OAK STREET",
-    "city": "FARMVILLE",
-    "county_name": "PRINCE EDWARD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOUTHSIDE COMMUNITY HOSPITAL, INC",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "800 OAK STREET", 
+    "city": "FARMVILLE", 
+    "county_name": "PRINCE EDWARD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTHSIDE COMMUNITY HOSPITAL, INC", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -78.402486,
-            37.302996
-        ],
+            -78.403058, 
+            37.303317
+        ], 
         "type": "Point"
-    },
-    "location_address": "800 OAK STREET",
-    "location_city": "FARMVILLE",
-    "location_state": "VA",
-    "location_zip": "23901",
+    }, 
+    "location_address": "800 OAK STREET", 
+    "location_city": "FARMVILLE", 
+    "location_state": "VA", 
+    "location_zip": "23901", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sch-farmville.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Centra Health",
+        "name": "Centra Health", 
         "websites": [
             "www.centrahealth.com"
         ]
-    },
-    "phone_number": "4343928811",
-    "provider_id": "490090",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4343928811", 
+    "provider_id": "490090", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "23901"
 }

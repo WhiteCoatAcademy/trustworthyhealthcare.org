@@ -1,41 +1,49 @@
 {
-    "address": "900 HYDE ST",
-    "city": "SAN FRANCISCO",
-    "county_name": "SAN FRANCISCO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAINT FRANCIS MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "900 HYDE ST", 
+    "city": "SAN FRANCISCO", 
+    "county_name": "SAN FRANCISCO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAINT FRANCIS MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.417112,
+            -122.417112, 
             37.789561
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "900 HYDE ST",
-    "location_city": "SAN FRANCISCO",
-    "location_state": "CA",
-    "location_zip": "94109",
+    }, 
+    "location_address": "900 HYDE ST", 
+    "location_city": "SAN FRANCISCO", 
+    "location_state": "CA", 
+    "location_zip": "94109", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.saintfrancismemorial.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare West",
+        "name": "Catholic Healthcare West", 
         "websites": [
             "www.chwhealth.org"
         ]
-    },
-    "phone_number": "4153536000",
-    "provider_id": "050152",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4153536000", 
+    "provider_id": "050152", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "94109"
 }

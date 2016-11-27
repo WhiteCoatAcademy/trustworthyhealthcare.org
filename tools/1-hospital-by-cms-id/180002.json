@@ -1,41 +1,49 @@
 {
-    "address": "240 HOSPITAL ROAD",
-    "city": "WHITESBURG",
-    "county_name": "LETCHER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WHITESBURG ARH HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "240 HOSPITAL ROAD", 
+    "city": "WHITESBURG", 
+    "county_name": "LETCHER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WHITESBURG ARH HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.811861,
-            37.112944
-        ],
+            -82.813504, 
+            37.111838
+        ], 
         "type": "Point"
-    },
-    "location_address": "240 HOSPITAL ROAD",
-    "location_city": "WHITESBURG",
-    "location_state": "KY",
-    "location_zip": "41858",
+    }, 
+    "location_address": "240 HOSPITAL ROAD", 
+    "location_city": "WHITESBURG", 
+    "location_state": "KY", 
+    "location_zip": "41858", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.arh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Appalachian Regional Healthcare",
+        "name": "Appalachian Regional Healthcare", 
         "websites": [
             "www.arh.org"
         ]
-    },
-    "phone_number": "6066333500",
-    "provider_id": "180002",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6066333500", 
+    "provider_id": "180002", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "41858"
 }

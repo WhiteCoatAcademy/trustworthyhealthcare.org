@@ -1,39 +1,47 @@
 {
-    "address": "310 SUNNYVIEW LANE",
-    "city": "KALISPELL",
-    "county_name": "FLATHEAD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "KALISPELL REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "310 SUNNYVIEW LANE", 
+    "city": "KALISPELL", 
+    "county_name": "FLATHEAD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "KALISPELL REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -114.322773,
-            48.216148
-        ],
+            -114.324753, 
+            48.215685
+        ], 
         "type": "Point"
-    },
-    "location_address": "310 SUNNYVIEW LANE",
-    "location_city": "KALISPELL",
-    "location_state": "MT",
-    "location_zip": "59901",
+    }, 
+    "location_address": "310 SUNNYVIEW LANE", 
+    "location_city": "KALISPELL", 
+    "location_state": "MT", 
+    "location_zip": "59901", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.krmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4067525111",
-    "provider_id": "270051",
-    "raw_ratings": {},
-    "state": "MT",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4067525111", 
+    "provider_id": "270051", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MT", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "59901"
 }

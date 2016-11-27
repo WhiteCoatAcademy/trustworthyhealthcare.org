@@ -1,39 +1,51 @@
 {
-    "address": "8400 NORTHWEST BLVD",
-    "city": "INDIANAPOLIS",
-    "county_name": "MARION",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "ORTHOINDY HOSPITAL",
-    "hospital_ownership": "Physician",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "8400 NORTHWEST BLVD", 
+    "city": "INDIANAPOLIS", 
+    "county_name": "MARION", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "ORTHOINDY HOSPITAL", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Physician", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.266258,
-            39.906702
-        ],
+            -86.266256, 
+            39.907039
+        ], 
         "type": "Point"
-    },
-    "location_address": "8400 NORTHWEST BLVD",
-    "location_city": "INDIANAPOLIS",
-    "location_state": "IN",
-    "location_zip": "46278",
+    }, 
+    "location_address": "8400 NORTHWEST BLVD", 
+    "location_city": "INDIANAPOLIS", 
+    "location_state": "IN", 
+    "location_zip": "46278", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.orthoindy.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3179561000",
-    "provider_id": "150160",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3179561000", 
+    "provider_id": "150160", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "46278"
 }

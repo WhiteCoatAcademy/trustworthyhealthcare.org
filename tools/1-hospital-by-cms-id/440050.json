@@ -1,41 +1,49 @@
 {
-    "address": "401 TAKOMA AVE",
-    "city": "GREENEVILLE",
-    "county_name": "GREENE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TAKOMA REGIONAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "401 TAKOMA AVE", 
+    "city": "GREENEVILLE", 
+    "county_name": "GREENE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TAKOMA REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.84509,
-            36.152421
-        ],
+            -82.844924, 
+            36.152105
+        ], 
         "type": "Point"
-    },
-    "location_address": "401 TAKOMA AVE",
-    "location_city": "GREENEVILLE",
-    "location_state": "TN",
-    "location_zip": "37743",
+    }, 
+    "location_address": "401 TAKOMA AVE", 
+    "location_city": "GREENEVILLE", 
+    "location_state": "TN", 
+    "location_zip": "37743", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.takoma.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Wellmont Health System",
+        "name": "Wellmont Health System", 
         "websites": [
             "www.wellmont.org"
         ]
-    },
-    "phone_number": "4236393151",
-    "provider_id": "440050",
-    "raw_ratings": {},
-    "state": "TN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4236393151", 
+    "provider_id": "440050", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "37743"
 }

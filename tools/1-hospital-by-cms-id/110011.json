@@ -1,41 +1,49 @@
 {
-    "address": "705 DIXIE STREET",
-    "city": "CARROLLTON",
-    "county_name": "CARROLL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TANNER MEDICAL CENTER - CARROLLTON",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "705 DIXIE STREET", 
+    "city": "CARROLLTON", 
+    "county_name": "CARROLL", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TANNER MEDICAL CENTER - CARROLLTON", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.072464,
-            33.570555
-        ],
+            -85.072521, 
+            33.569625
+        ], 
         "type": "Point"
-    },
-    "location_address": "705 DIXIE STREET",
-    "location_city": "CARROLLTON",
-    "location_state": "GA",
-    "location_zip": "30117",
+    }, 
+    "location_address": "705 DIXIE STREET", 
+    "location_city": "CARROLLTON", 
+    "location_state": "GA", 
+    "location_zip": "30117", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.tanner.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Tanner Health System",
+        "name": "Tanner Health System", 
         "websites": [
             "www.tanner.org"
         ]
-    },
-    "phone_number": "7708369580",
-    "provider_id": "110011",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7708369580", 
+    "provider_id": "110011", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "30117"
 }

@@ -1,41 +1,50 @@
 {
-    "address": "4800 SOUTH CROATAN HIGHWAY",
-    "city": "NAGS HEAD",
-    "county_name": "DARE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "THE OUTER BANKS HOSPITAL, INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "4800 SOUTH CROATAN HIGHWAY", 
+    "city": "NAGS HEAD", 
+    "county_name": "DARE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "THE OUTER BANKS HOSPITAL, INC", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -75.61707,
-            35.941132
-        ],
+            -75.616923, 
+            35.940862
+        ], 
         "type": "Point"
-    },
-    "location_address": "4800 SOUTH CROATAN HIGHWAY",
-    "location_city": "NAGS HEAD",
-    "location_state": "NC",
-    "location_zip": "27959",
+    }, 
+    "location_address": "4800 SOUTH CROATAN HIGHWAY", 
+    "location_city": "NAGS HEAD", 
+    "location_state": "NC", 
+    "location_zip": "27959", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.theouterbankshospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University Health Systems of Eastern Carolina",
+        "name": "University Health Systems of Eastern Carolina", 
         "websites": [
             "www.uhseast.com"
         ]
-    },
-    "phone_number": "2524494500",
-    "provider_id": "341324",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2524494500", 
+    "provider_id": "341324", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "27959"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "1000 W 10TH ST",
-    "city": "ROLLA",
-    "county_name": "PHELPS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PHELPS COUNTY REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1000 W 10TH ST", 
+    "city": "ROLLA", 
+    "county_name": "PHELPS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PHELPS COUNTY REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -91.784993,
-            37.951442
-        ],
+            -91.786111, 
+            37.951444
+        ], 
         "type": "Point"
-    },
-    "location_address": "1000 W 10TH ST",
-    "location_city": "ROLLA",
-    "location_state": "MO",
-    "location_zip": "65401",
+    }, 
+    "location_address": "1000 W 10TH ST", 
+    "location_city": "ROLLA", 
+    "location_state": "MO", 
+    "location_zip": "65401", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pcrmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5734588899",
-    "provider_id": "260017",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5734588899", 
+    "provider_id": "260017", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "65401"
 }

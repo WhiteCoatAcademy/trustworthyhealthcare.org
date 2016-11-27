@@ -1,39 +1,47 @@
 {
-    "address": "1199 PRINCE AVENUE",
-    "city": "ATHENS",
-    "county_name": "CLARKE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ATHENS REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1199 PRINCE AVENUE", 
+    "city": "ATHENS", 
+    "county_name": "CLARKE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ATHENS REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.397803,
-            33.962383
-        ],
+            -83.397733, 
+            33.962377
+        ], 
         "type": "Point"
-    },
-    "location_address": "1199 PRINCE AVENUE",
-    "location_city": "ATHENS",
-    "location_state": "GA",
-    "location_zip": "30606",
+    }, 
+    "location_address": "1199 PRINCE AVENUE", 
+    "location_city": "ATHENS", 
+    "location_state": "GA", 
+    "location_zip": "30606", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.armc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7064757000",
-    "provider_id": "110074",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7064757000", 
+    "provider_id": "110074", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "30606"
 }

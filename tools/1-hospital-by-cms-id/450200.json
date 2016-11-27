@@ -1,39 +1,47 @@
 {
-    "address": "1000 PINE STREET",
-    "city": "TEXARKANA",
-    "county_name": "BOWIE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WADLEY REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1000 PINE STREET", 
+    "city": "TEXARKANA", 
+    "county_name": "BOWIE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WADLEY REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Physician", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.047255,
-            33.428603
-        ],
+            -94.047188, 
+            33.428482
+        ], 
         "type": "Point"
-    },
-    "location_address": "1000 PINE STREET",
-    "location_city": "TEXARKANA",
-    "location_state": "TX",
-    "location_zip": "75501",
+    }, 
+    "location_address": "1000 PINE STREET", 
+    "location_city": "TEXARKANA", 
+    "location_state": "TX", 
+    "location_zip": "75501", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wadleyhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9037988000",
-    "provider_id": "450200",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9037988000", 
+    "provider_id": "450200", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "75501"
 }

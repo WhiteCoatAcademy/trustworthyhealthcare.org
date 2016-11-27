@@ -1,39 +1,48 @@
 {
-    "address": "101 CRESTVIEW AVENUE",
-    "city": "EVERGREEN",
-    "county_name": "CONECUH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "EVERGREEN MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "101 CRESTVIEW AVENUE", 
+    "city": "EVERGREEN", 
+    "county_name": "CONECUH", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "EVERGREEN MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.940492,
-            31.431763
-        ],
+            -86.94205, 
+            31.43126
+        ], 
         "type": "Point"
-    },
-    "location_address": "101 CRESTVIEW AVENUE",
-    "location_city": "EVERGREEN",
-    "location_state": "AL",
-    "location_zip": "36401",
+    }, 
+    "location_address": "101 CRESTVIEW AVENUE", 
+    "location_city": "EVERGREEN", 
+    "location_state": "AL", 
+    "location_zip": "36401", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.evergreenmedical.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2515782480",
-    "provider_id": "010148",
-    "raw_ratings": {},
-    "state": "AL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2515782480", 
+    "provider_id": "010148", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "AL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "36401"
 }

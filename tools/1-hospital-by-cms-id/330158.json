@@ -1,41 +1,49 @@
 {
-    "address": "255 LAFAYETTE AVENUE",
-    "city": "SUFFERN",
-    "county_name": "ROCKLAND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GOOD SAMARITAN HOSPITAL OF SUFFERN",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "255 LAFAYETTE AVENUE", 
+    "city": "SUFFERN", 
+    "county_name": "ROCKLAND", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GOOD SAMARITAN HOSPITAL OF SUFFERN", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.133051,
-            41.112304
-        ],
+            -74.136248, 
+            41.112389
+        ], 
         "type": "Point"
-    },
-    "location_address": "255 LAFAYETTE AVENUE",
-    "location_city": "SUFFERN",
-    "location_state": "NY",
-    "location_zip": "10901",
+    }, 
+    "location_address": "255 LAFAYETTE AVENUE", 
+    "location_city": "SUFFERN", 
+    "location_state": "NY", 
+    "location_zip": "10901", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.goodsamhosp.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Bon Secours Health System, Inc.",
+        "name": "Bon Secours Health System, Inc.", 
         "websites": [
             "www.bshsi.com"
         ]
-    },
-    "phone_number": "9143685000",
-    "provider_id": "330158",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9143685000", 
+    "provider_id": "330158", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "10901"
 }

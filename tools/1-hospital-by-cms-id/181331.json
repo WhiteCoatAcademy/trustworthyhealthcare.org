@@ -1,40 +1,54 @@
 {
-    "address": "9879 KENTUCKY ROUTE 122",
-    "city": "MC DOWELL",
-    "county_name": "FLOYD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MCDOWELL ARH HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "9879 KENTUCKY ROUTE 122", 
+    "city": "MC DOWELL", 
+    "county_name": "FLOYD", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MCDOWELL ARH HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"9879 KENTUCKY ROUTE 122\",\"city\":\"MC DOWELL\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "37.45682046600007",
-        "longitude": "-82.74533330199995",
-        "needs_recoding": false
-    },
-    "location_address": "9879 KENTUCKY ROUTE 122",
-    "location_city": "MC DOWELL",
-    "location_state": "KY",
-    "location_zip": "41647",
+        "coordinates": [
+            -82.747264, 
+            37.457174
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "9879 KENTUCKY ROUTE 122", 
+    "location_city": "MC DOWELL", 
+    "location_state": "KY", 
+    "location_zip": "41647", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.arh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Appalachian Regional Healthcare",
+        "name": "Appalachian Regional Healthcare", 
         "websites": [
             "www.arh.org"
         ]
-    },
-    "phone_number": "6063773400",
-    "provider_id": "181331",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6063773400", 
+    "provider_id": "181331", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "41647"
 }

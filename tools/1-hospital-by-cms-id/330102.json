@@ -1,41 +1,49 @@
 {
-    "address": "2950 ELMWOOD AVENUE",
-    "city": "KENMORE",
-    "county_name": "ERIE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "KENMORE MERCY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2950 ELMWOOD AVENUE", 
+    "city": "KENMORE", 
+    "county_name": "ERIE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "KENMORE MERCY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -78.878678,
+            -78.878678, 
             42.9779
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2950 ELMWOOD AVENUE",
-    "location_city": "KENMORE",
-    "location_state": "NY",
-    "location_zip": "14217",
+    }, 
+    "location_address": "2950 ELMWOOD AVENUE", 
+    "location_city": "KENMORE", 
+    "location_state": "NY", 
+    "location_zip": "14217", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.chsbuffalo.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Health East",
+        "name": "Catholic Health East", 
         "websites": [
             "www.che.org"
         ]
-    },
-    "phone_number": "7164476100",
-    "provider_id": "330102",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7164476100", 
+    "provider_id": "330102", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "14217"
 }

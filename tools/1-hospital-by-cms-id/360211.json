@@ -1,41 +1,49 @@
 {
-    "address": "380 SUMMIT AVENUE",
-    "city": "STEUBENVILLE",
-    "county_name": "JEFFERSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TRINITY MEDICAL CTR EAST &TRINITY MEDICAL CTR WEST",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "380 SUMMIT AVENUE", 
+    "city": "STEUBENVILLE", 
+    "county_name": "JEFFERSON", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TRINITY MEDICAL CTR EAST &TRINITY MEDICAL CTR WEST", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.625105,
-            40.356232
-        ],
+            -80.625103, 
+            40.356224
+        ], 
         "type": "Point"
-    },
-    "location_address": "380 SUMMIT AVENUE",
-    "location_city": "STEUBENVILLE",
-    "location_state": "OH",
-    "location_zip": "43952",
+    }, 
+    "location_address": "380 SUMMIT AVENUE", 
+    "location_city": "STEUBENVILLE", 
+    "location_state": "OH", 
+    "location_zip": "43952", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.trinityhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Trinity Health System",
+        "name": "Trinity Health System", 
         "websites": [
             "www.trinityhealth.com"
         ]
-    },
-    "phone_number": "7402837000",
-    "provider_id": "360211",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7402837000", 
+    "provider_id": "360211", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "43952"
 }

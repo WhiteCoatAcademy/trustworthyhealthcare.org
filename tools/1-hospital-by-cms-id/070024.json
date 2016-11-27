@@ -1,39 +1,47 @@
 {
-    "address": "326 WASHINGTON ST",
-    "city": "NORWICH",
-    "county_name": "NEW LONDON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WILLIAM W BACKUS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "326 WASHINGTON ST", 
+    "city": "NORWICH", 
+    "county_name": "NEW LONDON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WILLIAM W BACKUS HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -72.086747,
+            -72.086747, 
             41.543402
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "326 WASHINGTON ST",
-    "location_city": "NORWICH",
-    "location_state": "CT",
-    "location_zip": "06360",
+    }, 
+    "location_address": "326 WASHINGTON ST", 
+    "location_city": "NORWICH", 
+    "location_state": "CT", 
+    "location_zip": "06360", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.backushospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8608898331",
-    "provider_id": "070024",
-    "raw_ratings": {},
-    "state": "CT",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8608898331", 
+    "provider_id": "070024", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CT", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "06360"
 }

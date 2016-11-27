@@ -1,41 +1,49 @@
 {
-    "address": "374 STOCKHOLM STREET",
-    "city": "BROOKLYN",
-    "county_name": "KINGS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WYCKOFF HEIGHTS MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "374 STOCKHOLM STREET", 
+    "city": "BROOKLYN", 
+    "county_name": "KINGS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WYCKOFF HEIGHTS MEDICAL CENTER", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.917784,
-            40.704566
-        ],
+            -73.917648, 
+            40.704699
+        ], 
         "type": "Point"
-    },
-    "location_address": "374 STOCKHOLM STREET",
-    "location_city": "BROOKLYN",
-    "location_state": "NY",
-    "location_zip": "11237",
+    }, 
+    "location_address": "374 STOCKHOLM STREET", 
+    "location_city": "BROOKLYN", 
+    "location_state": "NY", 
+    "location_zip": "11237", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wyckoffhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "New York-Presbyterian Healthcare System",
+        "name": "New York-Presbyterian Healthcare System", 
         "websites": [
             "www.nypsystem.org"
         ]
-    },
-    "phone_number": "7189637272",
-    "provider_id": "330221",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7189637272", 
+    "provider_id": "330221", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "11237"
 }

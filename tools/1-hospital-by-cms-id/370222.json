@@ -1,38 +1,50 @@
 {
-    "address": "9600 NORTH BROADWAY EXTENSION",
-    "city": "OKLAHOMA CITY",
-    "county_name": "OKLAHOMA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MCBRIDE CLINIC ORTHOPEDIC HOSPITAL,  L L C",
-    "hospital_ownership": "Physician",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "9600 NORTH BROADWAY EXTENSION", 
+    "city": "OKLAHOMA CITY", 
+    "county_name": "OKLAHOMA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MCBRIDE ORTHOPEDIC HOSPITAL", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Physician", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"9600 NORTH BROADWAY EXTENSION\",\"city\":\"OKLAHOMA CITY\",\"state\":\"OK\",\"zip\":\"\"}",
-        "latitude": "35.56858269400004",
-        "longitude": "-97.51318083099994",
-        "needs_recoding": false
-    },
-    "location_address": "9600 NORTH BROADWAY EXTENSION",
-    "location_city": "OKLAHOMA CITY",
-    "location_state": "OK",
-    "location_zip": "73114",
+        "coordinates": [
+            -97.512802, 
+            35.567572
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "9600 NORTH BROADWAY EXTENSION", 
+    "location_city": "OKLAHOMA CITY", 
+    "location_state": "OK", 
+    "location_zip": "73114", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mcboh.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4054862100",
-    "provider_id": "370222",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4054862100", 
+    "provider_id": "370222", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "73114"
 }

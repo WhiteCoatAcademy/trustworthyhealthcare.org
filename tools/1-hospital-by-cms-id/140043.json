@@ -1,39 +1,47 @@
 {
-    "address": "100 EAST LEFEVRE ROAD",
-    "city": "STERLING",
-    "county_name": "WHITESIDE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CGH MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 EAST LEFEVRE ROAD", 
+    "city": "STERLING", 
+    "county_name": "WHITESIDE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CGH MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.697127,
-            41.801549
-        ],
+            -89.696733, 
+            41.801564
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 EAST LEFEVRE ROAD",
-    "location_city": "STERLING",
-    "location_state": "IL",
-    "location_zip": "61081",
+    }, 
+    "location_address": "100 EAST LEFEVRE ROAD", 
+    "location_city": "STERLING", 
+    "location_state": "IL", 
+    "location_zip": "61081", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cghmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8156250400",
-    "provider_id": "140043",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8156250400", 
+    "provider_id": "140043", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "61081"
 }

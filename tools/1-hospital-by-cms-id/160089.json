@@ -1,38 +1,47 @@
 {
-    "address": "1001 E PENNSYLVANIA",
-    "city": "OTTUMWA",
-    "county_name": "WAPELLO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OTTUMWA REGIONAL HEALTH CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1001 E PENNSYLVANIA", 
+    "city": "OTTUMWA", 
+    "county_name": "WAPELLO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OTTUMWA REGIONAL HEALTH CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"1001 E PENNSYLVANIA\",\"city\":\"OTTUMWA\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "41.027523846000065",
-        "longitude": "-92.38978256799999",
-        "needs_recoding": false
-    },
-    "location_address": "1001 E PENNSYLVANIA",
-    "location_city": "OTTUMWA",
-    "location_state": "IA",
-    "location_zip": "52501",
+        "coordinates": [
+            -92.401429, 
+            41.015123
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "1001 E PENNSYLVANIA", 
+    "location_city": "OTTUMWA", 
+    "location_state": "IA", 
+    "location_zip": "52501", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.orhc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6416827511",
-    "provider_id": "160089",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6416827511", 
+    "provider_id": "160089", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "52501"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "820 E MOUNTAIN VIEW STREET",
-    "city": "BARSTOW",
-    "county_name": "SAN BERNARDINO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BARSTOW COMMUNITY HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "820 E MOUNTAIN VIEW STREET", 
+    "city": "BARSTOW", 
+    "county_name": "SAN BERNARDINO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BARSTOW COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.017457,
-            34.893356
-        ],
+            -117.0166, 
+            34.893696
+        ], 
         "type": "Point"
-    },
-    "location_address": "820 E MOUNTAIN VIEW STREET",
-    "location_city": "BARSTOW",
-    "location_state": "CA",
-    "location_zip": "92311",
+    }, 
+    "location_address": "820 E MOUNTAIN VIEW STREET", 
+    "location_city": "BARSTOW", 
+    "location_state": "CA", 
+    "location_zip": "92311", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.barstowhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "7602561761",
-    "provider_id": "050298",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7602561761", 
+    "provider_id": "050298", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "92311"
 }

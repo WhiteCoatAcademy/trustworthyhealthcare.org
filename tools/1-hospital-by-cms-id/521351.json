@@ -1,39 +1,49 @@
 {
-    "address": "2000 N DEWEY AVE",
-    "city": "REEDSBURG",
-    "county_name": "SAUK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "REEDSBURG AREA MEDICAL CTR",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "2000 N DEWEY AVE", 
+    "city": "REEDSBURG", 
+    "county_name": "SAUK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "REEDSBURG AREA MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -89.994544,
-            43.549588
-        ],
+            -89.994548, 
+            43.549287
+        ], 
         "type": "Point"
-    },
-    "location_address": "2000 N DEWEY AVE",
-    "location_city": "REEDSBURG",
-    "location_state": "WI",
-    "location_zip": "53959",
+    }, 
+    "location_address": "2000 N DEWEY AVE", 
+    "location_city": "REEDSBURG", 
+    "location_state": "WI", 
+    "location_zip": "53959", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ramchealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6085246487",
-    "provider_id": "521351",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6085246487", 
+    "provider_id": "521351", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "53959"
 }

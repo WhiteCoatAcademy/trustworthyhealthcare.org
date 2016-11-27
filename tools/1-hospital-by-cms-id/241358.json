@@ -1,41 +1,55 @@
 {
-    "address": "425 7TH STREET NW",
-    "city": "CASS LAKE",
-    "county_name": "CASS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CASS LAKE INDIAN HEALTH SERVICES HOSPITAL",
-    "hospital_ownership": "Government - Federal",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "425 7TH STREET NW", 
+    "city": "CASS LAKE", 
+    "county_name": "CASS", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CASS LAKE INDIAN HEALTH SERVICES HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Government - Federal", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -94.607907,
-            47.384088
-        ],
+            -94.609515, 
+            47.384094
+        ], 
         "type": "Point"
-    },
-    "location_address": "425 7TH STREET NW",
-    "location_city": "CASS LAKE",
-    "location_state": "MN",
-    "location_zip": "56633",
+    }, 
+    "location_address": "425 7TH STREET NW", 
+    "location_city": "CASS LAKE", 
+    "location_state": "MN", 
+    "location_zip": "56633", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ihs.gov"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Indian Health Service",
+        "name": "Indian Health Service", 
         "websites": [
             "www.ihs.gov"
         ]
-    },
-    "phone_number": "2183353200",
-    "provider_id": "241358",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2183353200", 
+    "provider_id": "241358", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "56633"
 }

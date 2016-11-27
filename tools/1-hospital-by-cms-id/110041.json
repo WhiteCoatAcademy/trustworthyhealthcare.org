@@ -1,38 +1,47 @@
 {
-    "address": "541 HISTORIC HIGHWAY 441-NORTH",
-    "city": "DEMOREST",
-    "county_name": "HABERSHAM",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HABERSHAM COUNTY MEDICAL CTR",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "541 HISTORIC HIGHWAY 441-NORTH", 
+    "city": "DEMOREST", 
+    "county_name": "HABERSHAM", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HABERSHAM COUNTY MEDICAL CTR", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"541 HISTORIC HIGHWAY 441-NORTH\",\"city\":\"DEMOREST\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "34.56410302200004",
-        "longitude": "-83.54599944399996",
-        "needs_recoding": false
-    },
-    "location_address": "541 HISTORIC HIGHWAY 441-NORTH",
-    "location_city": "DEMOREST",
-    "location_state": "GA",
-    "location_zip": "30535",
+        "coordinates": [
+            -83.623904, 
+            34.603493
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "541 HISTORIC HIGHWAY 441-NORTH", 
+    "location_city": "DEMOREST", 
+    "location_state": "GA", 
+    "location_zip": "30535", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hcmcmed.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7067542161",
-    "provider_id": "110041",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7067542161", 
+    "provider_id": "110041", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "30535"
 }

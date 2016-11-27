@@ -1,39 +1,50 @@
 {
-    "address": "200 SOUTH ACADEMY ROAD",
-    "city": "GUTHRIE",
-    "county_name": "LOGAN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY HOSPITAL LOGAN COUNTY, INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "200 SOUTH ACADEMY ROAD", 
+    "city": "GUTHRIE", 
+    "county_name": "LOGAN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY HOSPITAL LOGAN COUNTY, INC", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -97.460455,
-            35.876163
-        ],
+            -97.460477, 
+            35.876239
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 SOUTH ACADEMY ROAD",
-    "location_city": "GUTHRIE",
-    "location_state": "OK",
-    "location_zip": "73044",
+    }, 
+    "location_address": "200 SOUTH ACADEMY ROAD", 
+    "location_city": "GUTHRIE", 
+    "location_state": "OK", 
+    "location_zip": "73044", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.loganhosp.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4052826700",
-    "provider_id": "371317",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "4052826700", 
+    "provider_id": "371317", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "73044"
 }

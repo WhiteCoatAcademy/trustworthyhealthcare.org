@@ -1,41 +1,55 @@
 {
-    "address": "350 N MERIDIAN STREET",
-    "city": "BLACKFOOT",
-    "county_name": "BINGHAM",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "IDAHO DOCTORS HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "350 N MERIDIAN STREET", 
+    "city": "BLACKFOOT", 
+    "county_name": "BINGHAM", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "IDAHO DOCTORS HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -112.35613,
-            43.19573
-        ],
+            -112.356124, 
+            43.196301
+        ], 
         "type": "Point"
-    },
-    "location_address": "350 N MERIDIAN STREET",
-    "location_city": "BLACKFOOT",
-    "location_state": "ID",
-    "location_zip": "83221",
+    }, 
+    "location_address": "350 N MERIDIAN STREET", 
+    "location_city": "BLACKFOOT", 
+    "location_state": "ID", 
+    "location_zip": "83221", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.binghammemorial.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Bingham Memorial",
+        "name": "Bingham Memorial", 
         "websites": [
             "www.binghammemorial.org"
         ]
-    },
-    "phone_number": "2087822900",
-    "provider_id": "130067",
-    "raw_ratings": {},
-    "state": "ID",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2087822900", 
+    "provider_id": "130067", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "ID", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "83221"
 }

@@ -1,41 +1,55 @@
 {
-    "address": "745 EAST 8TH STREET",
-    "city": "WINNER",
-    "county_name": "TRIPP",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WINNER REGIONAL HEALTHCARE CENTER - CAH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "745 EAST 8TH STREET", 
+    "city": "WINNER", 
+    "county_name": "TRIPP", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WINNER REGIONAL HEALTHCARE CENTER - CAH", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -99.847617,
-            43.370947
-        ],
+            -99.847473, 
+            43.370946
+        ], 
         "type": "Point"
-    },
-    "location_address": "745 EAST 8TH STREET",
-    "location_city": "WINNER",
-    "location_state": "SD",
-    "location_zip": "57580",
+    }, 
+    "location_address": "745 EAST 8TH STREET", 
+    "location_city": "WINNER", 
+    "location_state": "SD", 
+    "location_zip": "57580", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.winnerregional.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sanford Health",
+        "name": "Sanford Health", 
         "websites": [
             "www.sanfordhealth.org"
         ]
-    },
-    "phone_number": "6058427100",
-    "provider_id": "431334",
-    "raw_ratings": {},
-    "state": "SD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6058427100", 
+    "provider_id": "431334", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "SD", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "57580"
 }

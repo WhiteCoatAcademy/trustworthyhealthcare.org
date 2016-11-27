@@ -1,41 +1,51 @@
 {
-    "address": "158 WEST MAIN ROAD",
-    "city": "CONNEAUT",
-    "county_name": "ASHTABULA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY HOSPITALS CONNEAUT MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "158 WEST MAIN ROAD", 
+    "city": "CONNEAUT", 
+    "county_name": "ASHTABULA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY HOSPITALS CONNEAUT MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -80.587557,
-            41.936904
-        ],
+            -80.586459, 
+            41.93692
+        ], 
         "type": "Point"
-    },
-    "location_address": "158 WEST MAIN ROAD",
-    "location_city": "CONNEAUT",
-    "location_state": "OH",
-    "location_zip": "44030",
+    }, 
+    "location_address": "158 WEST MAIN ROAD", 
+    "location_city": "CONNEAUT", 
+    "location_state": "OH", 
+    "location_zip": "44030", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.uhhospitals.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University Hospitals Health Systems",
+        "name": "University Hospitals Health Systems", 
         "websites": [
             "www.uhhospitals.org"
         ]
-    },
-    "phone_number": "4405931131",
-    "provider_id": "361308",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4405931131", 
+    "provider_id": "361308", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "44030"
 }

@@ -1,41 +1,56 @@
 {
-    "address": "7300 VAN DUSEN ROAD",
-    "city": "LAUREL",
-    "county_name": "PRINCE GEORGES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LAUREL REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "7300 VAN DUSEN ROAD", 
+    "city": "LAUREL", 
+    "county_name": "PRINCE GEORGES", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LAUREL REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating_footnote": "Data suppressed by CMS for one or more quarters", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.881591,
-            39.084742
-        ],
+            -76.882185, 
+            39.084383
+        ], 
         "type": "Point"
-    },
-    "location_address": "7300 VAN DUSEN ROAD",
-    "location_city": "LAUREL",
-    "location_state": "MD",
-    "location_zip": "20707",
+    }, 
+    "location_address": "7300 VAN DUSEN ROAD", 
+    "location_city": "LAUREL", 
+    "location_state": "MD", 
+    "location_zip": "20707", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.laurelregionalhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Dimensions Healthcare System",
+        "name": "Dimensions Healthcare System", 
         "websites": [
             "www.dimensionshealth.org"
         ]
-    },
-    "phone_number": "3017254300",
-    "provider_id": "210055",
-    "raw_ratings": {},
-    "state": "MD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "phone_number": "3017254300", 
+    "provider_id": "210055", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "state": "MD", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "zip_code": "20707"
 }

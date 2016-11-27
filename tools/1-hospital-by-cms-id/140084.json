@@ -1,41 +1,49 @@
 {
-    "address": "1324 NORTH SHERIDAN ROAD",
-    "city": "WAUKEGAN",
-    "county_name": "LAKE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "VISTA MEDICAL CENTER EAST",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1324 NORTH SHERIDAN ROAD", 
+    "city": "WAUKEGAN", 
+    "county_name": "LAKE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "VISTA MEDICAL CENTER EAST", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.831153,
-            42.378921
-        ],
+            -87.831135, 
+            42.378857
+        ], 
         "type": "Point"
-    },
-    "location_address": "1324 NORTH SHERIDAN ROAD",
-    "location_city": "WAUKEGAN",
-    "location_state": "IL",
-    "location_zip": "60085",
+    }, 
+    "location_address": "1324 NORTH SHERIDAN ROAD", 
+    "location_city": "WAUKEGAN", 
+    "location_state": "IL", 
+    "location_zip": "60085", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.vistahealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "8473604000",
-    "provider_id": "140084",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8473604000", 
+    "provider_id": "140084", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "60085"
 }

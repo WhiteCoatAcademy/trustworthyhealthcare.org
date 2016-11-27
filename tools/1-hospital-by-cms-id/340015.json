@@ -1,41 +1,49 @@
 {
-    "address": "612 MOCKSVILLE AVE",
-    "city": "SALISBURY",
-    "county_name": "ROWAN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NOVANT HEALTH ROWAN MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "612 MOCKSVILLE AVE", 
+    "city": "SALISBURY", 
+    "county_name": "ROWAN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NOVANT HEALTH ROWAN MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.471441,
-            35.682169
-        ],
+            -80.471436, 
+            35.682214
+        ], 
         "type": "Point"
-    },
-    "location_address": "612 MOCKSVILLE AVE",
-    "location_city": "SALISBURY",
-    "location_state": "NC",
-    "location_zip": "28144",
+    }, 
+    "location_address": "612 MOCKSVILLE AVE", 
+    "location_city": "SALISBURY", 
+    "location_state": "NC", 
+    "location_zip": "28144", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.rowan.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Novant Health",
+        "name": "Novant Health", 
         "websites": [
             "www.novanthealth.org"
         ]
-    },
-    "phone_number": "7042105000",
-    "provider_id": "340015",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7042105000", 
+    "provider_id": "340015", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "28144"
 }

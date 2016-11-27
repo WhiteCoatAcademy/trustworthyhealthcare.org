@@ -1,41 +1,49 @@
 {
-    "address": "809 E MARION AVE",
-    "city": "PUNTA GORDA",
-    "county_name": "CHARLOTTE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BAYFRONT HEALTH PUNTA GORDA",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "809 E MARION AVE", 
+    "city": "PUNTA GORDA", 
+    "county_name": "CHARLOTTE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BAYFRONT HEALTH PUNTA GORDA", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.041808,
-            26.940672
-        ],
+            -82.041788, 
+            26.940682
+        ], 
         "type": "Point"
-    },
-    "location_address": "809 E MARION AVE",
-    "location_city": "PUNTA GORDA",
-    "location_state": "FL",
-    "location_zip": "33950",
+    }, 
+    "location_address": "809 E MARION AVE", 
+    "location_city": "PUNTA GORDA", 
+    "location_state": "FL", 
+    "location_zip": "33950", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.charlotteregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Health Management Associates, Inc.",
+        "name": "Health Management Associates, Inc.", 
         "websites": [
             "www.hma.com"
         ]
-    },
-    "phone_number": "9416393131",
-    "provider_id": "100047",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9416393131", 
+    "provider_id": "100047", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "33950"
 }

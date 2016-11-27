@@ -1,41 +1,49 @@
 {
-    "address": "1201 HEALTH CENTER PARKWAY",
-    "city": "YUKON",
-    "county_name": "CANADIAN",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "INTEGRIS CANADIAN VALLEY  HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1201 HEALTH CENTER PARKWAY", 
+    "city": "YUKON", 
+    "county_name": "CANADIAN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "INTEGRIS CANADIAN VALLEY  HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.764138,
-            35.48381
-        ],
+            -97.760336, 
+            35.483692
+        ], 
         "type": "Point"
-    },
-    "location_address": "1201 HEALTH CENTER PARKWAY",
-    "location_city": "YUKON",
-    "location_state": "OK",
-    "location_zip": "73099",
+    }, 
+    "location_address": "1201 HEALTH CENTER PARKWAY", 
+    "location_city": "YUKON", 
+    "location_state": "OK", 
+    "location_zip": "73099", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.integris-health.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "INTEGRIS Health",
+        "name": "INTEGRIS Health", 
         "websites": [
             "www.integris-health.com"
         ]
-    },
-    "phone_number": "4057176800",
-    "provider_id": "370211",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4057176800", 
+    "provider_id": "370211", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "73099"
 }

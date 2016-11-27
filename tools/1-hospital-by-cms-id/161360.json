@@ -1,40 +1,53 @@
 {
-    "address": "1000 LINCOLN CIRCLE SE",
-    "city": "ORANGE CITY",
-    "county_name": "SIOUX",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ORANGE CITY AREA HEALTH SYSTEM",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1000 LINCOLN CIRCLE SE", 
+    "city": "ORANGE CITY", 
+    "county_name": "SIOUX", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ORANGE CITY AREA HEALTH SYSTEM", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"1000 LINCOLN CIRCLE SE\",\"city\":\"ORANGE CITY\",\"state\":\"IA\",\"zip\":\"\"}",
-        "latitude": "42.99551057800005",
-        "longitude": "-96.04293765599994",
-        "needs_recoding": false
-    },
-    "location_address": "1000 LINCOLN CIRCLE SE",
-    "location_city": "ORANGE CITY",
-    "location_state": "IA",
-    "location_zip": "51041",
+        "coordinates": [
+            -96.044828, 
+            42.995318
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "1000 LINCOLN CIRCLE SE", 
+    "location_city": "ORANGE CITY", 
+    "location_state": "IA", 
+    "location_zip": "51041", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ochealthsystem.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sanford Health",
+        "name": "Sanford Health", 
         "websites": [
             "www.sanfordhealth.org"
         ]
-    },
-    "phone_number": "7127374984",
-    "provider_id": "161360",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7127374984", 
+    "provider_id": "161360", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "51041"
 }

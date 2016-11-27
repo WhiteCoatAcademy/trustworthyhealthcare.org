@@ -1,41 +1,49 @@
 {
-    "address": "1117 EAST DEVONSHIRE",
-    "city": "HEMET",
-    "county_name": "RIVERSIDE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HEMET VALLEY MEDICAL CENTER",
-    "hospital_ownership": "Government - State",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1117 EAST DEVONSHIRE", 
+    "city": "HEMET", 
+    "county_name": "RIVERSIDE", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HEMET VALLEY MEDICAL CENTER", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Government - State", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -116.959841,
-            33.75122
-        ],
+            -116.960068, 
+            33.751223
+        ], 
         "type": "Point"
-    },
-    "location_address": "1117 EAST DEVONSHIRE",
-    "location_city": "HEMET",
-    "location_state": "CA",
-    "location_zip": "92543",
+    }, 
+    "location_address": "1117 EAST DEVONSHIRE", 
+    "location_city": "HEMET", 
+    "location_state": "CA", 
+    "location_zip": "92543", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.valleyhealthsystem.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Valley Health System",
+        "name": "Valley Health System", 
         "websites": [
             "www.valleyhealthsystem.com"
         ]
-    },
-    "phone_number": "9516522811",
-    "provider_id": "050390",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9516522811", 
+    "provider_id": "050390", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "92543"
 }

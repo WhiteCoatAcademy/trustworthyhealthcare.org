@@ -1,39 +1,51 @@
 {
-    "address": "2202 FALSE RIVER DRIVE",
-    "city": "NEW ROADS",
-    "county_name": "POINTE COUPEE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "POINTE COUPEE GENERAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "2202 FALSE RIVER DRIVE", 
+    "city": "NEW ROADS", 
+    "county_name": "POINTE COUPEE", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "POINTE COUPEE GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -91.461372,
-            30.682516
-        ],
+            -91.46103, 
+            30.682703
+        ], 
         "type": "Point"
-    },
-    "location_address": "2202 FALSE RIVER DRIVE",
-    "location_city": "NEW ROADS",
-    "location_state": "LA",
-    "location_zip": "70760",
+    }, 
+    "location_address": "2202 FALSE RIVER DRIVE", 
+    "location_city": "NEW ROADS", 
+    "location_state": "LA", 
+    "location_zip": "70760", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pcgh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2253686386",
-    "provider_id": "191316",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2253686386", 
+    "provider_id": "191316", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "70760"
 }

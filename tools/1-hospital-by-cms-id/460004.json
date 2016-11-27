@@ -1,41 +1,49 @@
 {
-    "address": "4401 HARRISON BOULEVARD",
-    "city": "OGDEN",
-    "county_name": "WEBER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MCKAY DEE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4401 HARRISON BOULEVARD", 
+    "city": "OGDEN", 
+    "county_name": "WEBER", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MCKAY DEE HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -111.94908,
-            41.184218
-        ],
+            -111.949117, 
+            41.182779
+        ], 
         "type": "Point"
-    },
-    "location_address": "4401 HARRISON BOULEVARD",
-    "location_city": "OGDEN",
-    "location_state": "UT",
-    "location_zip": "84403",
+    }, 
+    "location_address": "4401 HARRISON BOULEVARD", 
+    "location_city": "OGDEN", 
+    "location_state": "UT", 
+    "location_zip": "84403", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Intermountain Health Care, Inc",
+        "name": "Intermountain Health Care, Inc", 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "phone_number": "8013872800",
-    "provider_id": "460004",
-    "raw_ratings": {},
-    "state": "UT",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8013872800", 
+    "provider_id": "460004", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "UT", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "84403"
 }

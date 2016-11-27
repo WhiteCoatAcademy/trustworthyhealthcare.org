@@ -1,41 +1,49 @@
 {
-    "address": "80 SEYMOUR STREET",
-    "city": "HARTFORD",
-    "county_name": "HARTFORD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HARTFORD HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "80 SEYMOUR STREET", 
+    "city": "HARTFORD", 
+    "county_name": "HARTFORD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HARTFORD HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -72.68082,
+            -72.68082, 
             41.754123
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "80 SEYMOUR STREET",
-    "location_city": "HARTFORD",
-    "location_state": "CT",
-    "location_zip": "06102",
+    }, 
+    "location_address": "80 SEYMOUR STREET", 
+    "location_city": "HARTFORD", 
+    "location_state": "CT", 
+    "location_zip": "06102", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.harthosp.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Hartford Healthcare Corporation",
+        "name": "Hartford Healthcare Corporation", 
         "websites": [
             "www.harthosp.org"
         ]
-    },
-    "phone_number": "8605455000",
-    "provider_id": "070025",
-    "raw_ratings": {},
-    "state": "CT",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8605455000", 
+    "provider_id": "070025", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CT", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "06102"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "300 E WARWICK DR",
-    "city": "ALMA",
-    "county_name": "GRATIOT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MIDMICHIGAN MEDICAL CENTER-GRATIOT",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "300 E WARWICK DR", 
+    "city": "ALMA", 
+    "county_name": "GRATIOT", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MIDMICHIGAN MEDICAL CENTER-GRATIOT", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.662507,
-            43.391626
-        ],
+            -84.662278, 
+            43.39168
+        ], 
         "type": "Point"
-    },
-    "location_address": "300 E WARWICK DR",
-    "location_city": "ALMA",
-    "location_state": "MI",
-    "location_zip": "48801",
+    }, 
+    "location_address": "300 E WARWICK DR", 
+    "location_city": "ALMA", 
+    "location_state": "MI", 
+    "location_zip": "48801", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.midmichigan.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "MidMichigan Health",
+        "name": "MidMichigan Health", 
         "websites": [
             "www.midmichigan.org"
         ]
-    },
-    "phone_number": "9894631101",
-    "provider_id": "230030",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9894631101", 
+    "provider_id": "230030", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "48801"
 }

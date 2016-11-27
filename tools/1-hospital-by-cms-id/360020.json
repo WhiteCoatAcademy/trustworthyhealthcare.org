@@ -1,41 +1,49 @@
 {
-    "address": "525 EAST MARKET STREET",
-    "city": "AKRON",
-    "county_name": "SUMMIT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SUMMA HEALTH SYSTEMS HOSPITALS",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "525 EAST MARKET STREET", 
+    "city": "AKRON", 
+    "county_name": "SUMMIT", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SUMMA HEALTH SYSTEM", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.501157,
-            41.078801
-        ],
+            -81.500069, 
+            41.078335
+        ], 
         "type": "Point"
-    },
-    "location_address": "525 EAST MARKET STREET",
-    "location_city": "AKRON",
-    "location_state": "OH",
-    "location_zip": "44309",
+    }, 
+    "location_address": "525 EAST MARKET STREET", 
+    "location_city": "AKRON", 
+    "location_state": "OH", 
+    "location_zip": "44309", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.summahealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Summa Health System",
+        "name": "Summa Health System", 
         "websites": [
             "www.summahealth.org"
         ]
-    },
-    "phone_number": "3303753000",
-    "provider_id": "360020",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3303753000", 
+    "provider_id": "360020", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "44309"
 }

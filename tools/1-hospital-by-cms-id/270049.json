@@ -1,41 +1,49 @@
 {
-    "address": "1233 N 30TH ST",
-    "city": "BILLINGS",
-    "county_name": "YELLOWSTONE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST VINCENT HEALTHCARE",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1233 N 30TH ST", 
+    "city": "BILLINGS", 
+    "county_name": "YELLOWSTONE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST VINCENT HEALTHCARE", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -108.520657,
-            45.793541
-        ],
+            -108.520217, 
+            45.793101
+        ], 
         "type": "Point"
-    },
-    "location_address": "1233 N 30TH ST",
-    "location_city": "BILLINGS",
-    "location_state": "MT",
-    "location_zip": "59107",
+    }, 
+    "location_address": "1233 N 30TH ST", 
+    "location_city": "BILLINGS", 
+    "location_state": "MT", 
+    "location_zip": "59101", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.svh-mt.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sisters of Charity of Leavenworth Health System",
+        "name": "Sisters of Charity of Leavenworth Health System", 
         "websites": [
             "www.sclhsc.org"
         ]
-    },
-    "phone_number": "4066577000",
-    "provider_id": "270049",
-    "raw_ratings": {},
-    "state": "MT",
-    "zip_code": "59107"
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4066577000", 
+    "provider_id": "270049", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MT", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
+    "zip_code": "59101"
 }

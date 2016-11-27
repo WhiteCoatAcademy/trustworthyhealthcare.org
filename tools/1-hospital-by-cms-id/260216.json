@@ -1,41 +1,49 @@
 {
-    "address": "100 N E SAINT LUKE'S BOULEVARD",
-    "city": "LEES SUMMIT",
-    "county_name": "JACKSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAINT LUKE'S EAST LEE'S SUMMIT HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 N E SAINT LUKE'S BOULEVARD", 
+    "city": "LEES SUMMIT", 
+    "county_name": "JACKSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAINT LUKE'S EAST LEE'S SUMMIT HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.380963,
-            38.94076
-        ],
+            -94.378443, 
+            38.940551
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 N E SAINT LUKE'S BOULEVARD",
-    "location_city": "LEES SUMMIT",
-    "location_state": "MO",
-    "location_zip": "64086",
+    }, 
+    "location_address": "100 N E SAINT LUKE'S BOULEVARD", 
+    "location_city": "LEES SUMMIT", 
+    "location_state": "MO", 
+    "location_zip": "64086", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.saintlukeshealthsystem.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Luke's Health System",
+        "name": "Saint Luke's Health System", 
         "websites": [
             "www.saintlukeshealthsystem.org"
         ]
-    },
-    "phone_number": "8163475000",
-    "provider_id": "260216",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8163475000", 
+    "provider_id": "260216", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "64086"
 }

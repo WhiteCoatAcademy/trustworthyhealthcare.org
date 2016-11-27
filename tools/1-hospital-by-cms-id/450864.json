@@ -1,39 +1,49 @@
 {
-    "address": "1814 ROSELAND BOULEVARD",
-    "city": "TYLER",
-    "county_name": "SMITH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TEXAS SPINE AND JOINT HOSPITAL",
-    "hospital_ownership": "Physician",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1814 ROSELAND BOULEVARD", 
+    "city": "TYLER", 
+    "county_name": "SMITH", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TEXAS SPINE AND JOINT HOSPITAL", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Physician", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.299465,
-            32.328962
-        ],
+            -95.299466, 
+            32.329279
+        ], 
         "type": "Point"
-    },
-    "location_address": "1814 ROSELAND BOULEVARD",
-    "location_city": "TYLER",
-    "location_state": "TX",
-    "location_zip": "75701",
+    }, 
+    "location_address": "1814 ROSELAND BOULEVARD", 
+    "location_city": "TYLER", 
+    "location_state": "TX", 
+    "location_zip": "75701", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.tsjh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9035253300",
-    "provider_id": "450864",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9035253300", 
+    "provider_id": "450864", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75701"
 }

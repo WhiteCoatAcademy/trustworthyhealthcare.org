@@ -1,41 +1,49 @@
 {
-    "address": "900 EIGHTH AVENUE",
-    "city": "FORT WORTH",
-    "county_name": "TARRANT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PLAZA MEDICAL CENTER OF FORT WORTH",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "900 EIGHTH AVENUE", 
+    "city": "FORT WORTH", 
+    "county_name": "TARRANT", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PLAZA MEDICAL CENTER OF FORT WORTH", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.343709,
-            32.734721
-        ],
+            -97.343704, 
+            32.735481
+        ], 
         "type": "Point"
-    },
-    "location_address": "900 EIGHTH AVENUE",
-    "location_city": "FORT WORTH",
-    "location_state": "TX",
-    "location_zip": "76104",
+    }, 
+    "location_address": "900 EIGHTH AVENUE", 
+    "location_city": "FORT WORTH", 
+    "location_state": "TX", 
+    "location_zip": "76104", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.plazamedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "8173362100",
-    "provider_id": "450672",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8173362100", 
+    "provider_id": "450672", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "76104"
 }

@@ -1,41 +1,50 @@
 {
-    "address": "3001 SILLECT AVENUE",
-    "city": "BAKERSFIELD",
-    "county_name": "KERN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BAKERSFIELD HEART HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3001 SILLECT AVENUE", 
+    "city": "BAKERSFIELD", 
+    "county_name": "KERN", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BAKERSFIELD HEART HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -119.040006,
-            35.386043
-        ],
+            -119.040838, 
+            35.386104
+        ], 
         "type": "Point"
-    },
-    "location_address": "3001 SILLECT AVENUE",
-    "location_city": "BAKERSFIELD",
-    "location_state": "CA",
-    "location_zip": "93308",
+    }, 
+    "location_address": "3001 SILLECT AVENUE", 
+    "location_city": "BAKERSFIELD", 
+    "location_state": "CA", 
+    "location_zip": "93308", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bakersfieldhearthospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "MedCath Corporation",
+        "name": "MedCath Corporation", 
         "websites": [
             "www.medcath.com"
         ]
-    },
-    "phone_number": "6613166000",
-    "provider_id": "050724",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6613166000", 
+    "provider_id": "050724", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "93308"
 }

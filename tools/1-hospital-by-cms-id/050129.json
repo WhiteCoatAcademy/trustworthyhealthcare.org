@@ -1,41 +1,49 @@
 {
-    "address": "2101 N WATERMAN AVE",
-    "city": "SAN BERNARDINO",
-    "county_name": "SAN BERNARDINO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST BERNARDINE MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2101 N WATERMAN AVE", 
+    "city": "SAN BERNARDINO", 
+    "county_name": "SAN BERNARDINO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST BERNARDINE MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.27876,
+            -117.27876, 
             34.134062
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2101 N WATERMAN AVE",
-    "location_city": "SAN BERNARDINO",
-    "location_state": "CA",
-    "location_zip": "92404",
+    }, 
+    "location_address": "2101 N WATERMAN AVE", 
+    "location_city": "SAN BERNARDINO", 
+    "location_state": "CA", 
+    "location_zip": "92404", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stbernardinemedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare West",
+        "name": "Catholic Healthcare West", 
         "websites": [
             "www.chwhealth.org"
         ]
-    },
-    "phone_number": "9098814440",
-    "provider_id": "050129",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9098838711", 
+    "provider_id": "050129", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "92404"
 }

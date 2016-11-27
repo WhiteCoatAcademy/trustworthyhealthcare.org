@@ -1,41 +1,49 @@
 {
-    "address": "2700 NW STEWART PARKWAY",
-    "city": "ROSEBURG",
-    "county_name": "DOUGLAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2700 NW STEWART PARKWAY", 
+    "city": "ROSEBURG", 
+    "county_name": "DOUGLAS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -123.367073,
-            43.239863
-        ],
+            -123.366515, 
+            43.239988
+        ], 
         "type": "Point"
-    },
-    "location_address": "2700 NW STEWART PARKWAY",
-    "location_city": "ROSEBURG",
-    "location_state": "OR",
-    "location_zip": "97471",
+    }, 
+    "location_address": "2700 NW STEWART PARKWAY", 
+    "location_city": "ROSEBURG", 
+    "location_state": "OR", 
+    "location_zip": "97471", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mercyrose.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Health Initiatives",
+        "name": "Catholic Health Initiatives", 
         "websites": [
             "www.catholichealthinit.org"
         ]
-    },
-    "phone_number": "5416730611",
-    "provider_id": "380027",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5416730611", 
+    "provider_id": "380027", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "97471"
 }

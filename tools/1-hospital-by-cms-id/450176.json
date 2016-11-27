@@ -1,39 +1,47 @@
 {
-    "address": "900 SOUTH BRYAN ROAD",
-    "city": "MISSION",
-    "county_name": "HIDALGO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MISSION REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "900 SOUTH BRYAN ROAD", 
+    "city": "MISSION", 
+    "county_name": "HIDALGO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MISSION REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -98.312673,
-            26.19658
-        ],
+            -98.312642, 
+            26.19672
+        ], 
         "type": "Point"
-    },
-    "location_address": "900 SOUTH BRYAN ROAD",
-    "location_city": "MISSION",
-    "location_state": "TX",
-    "location_zip": "78572",
+    }, 
+    "location_address": "900 SOUTH BRYAN ROAD", 
+    "location_city": "MISSION", 
+    "location_state": "TX", 
+    "location_zip": "78572", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.missionhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9563239000",
-    "provider_id": "450176",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9563239000", 
+    "provider_id": "450176", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "78572"
 }

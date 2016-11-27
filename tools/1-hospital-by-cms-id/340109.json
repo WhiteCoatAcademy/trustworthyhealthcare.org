@@ -1,39 +1,47 @@
 {
-    "address": "1144 N ROAD ST",
-    "city": "ELIZABETH CITY",
-    "county_name": "PASQUOTANK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SENTARA ALBEMARLE MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1144 N ROAD ST", 
+    "city": "ELIZABETH CITY", 
+    "county_name": "PASQUOTANK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SENTARA ALBEMARLE MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.22002,
+            -76.22002, 
             36.32153
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1144 N ROAD ST",
-    "location_city": "ELIZABETH CITY",
-    "location_state": "NC",
-    "location_zip": "27909",
+    }, 
+    "location_address": "1144 N ROAD ST", 
+    "location_city": "ELIZABETH CITY", 
+    "location_state": "NC", 
+    "location_zip": "27909", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.albemarlehealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2523350531",
-    "provider_id": "340109",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2523350531", 
+    "provider_id": "340109", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "27909"
 }

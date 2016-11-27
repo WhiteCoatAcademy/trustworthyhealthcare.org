@@ -1,41 +1,49 @@
 {
-    "address": "2211 LOMAS BOULEVARD NE",
-    "city": "ALBUQUERQUE",
-    "county_name": "BERNALILLO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNM HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2211 LOMAS BOULEVARD NE", 
+    "city": "ALBUQUERQUE", 
+    "county_name": "BERNALILLO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNM HOSPITAL", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -106.616839,
-            35.087491
-        ],
+            -106.618148, 
+            35.087483
+        ], 
         "type": "Point"
-    },
-    "location_address": "2211 LOMAS BOULEVARD NE",
-    "location_city": "ALBUQUERQUE",
-    "location_state": "NM",
-    "location_zip": "87106",
+    }, 
+    "location_address": "2211 LOMAS BOULEVARD NE", 
+    "location_city": "ALBUQUERQUE", 
+    "location_state": "NM", 
+    "location_zip": "87106", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "hospitals.unm.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University of New Mexico Hospitals",
+        "name": "University of New Mexico Hospitals", 
         "websites": [
             "hospitals.unm.edu"
         ]
-    },
-    "phone_number": "5052722111",
-    "provider_id": "320001",
-    "raw_ratings": {},
-    "state": "NM",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5052722111", 
+    "provider_id": "320001", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NM", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "87106"
 }

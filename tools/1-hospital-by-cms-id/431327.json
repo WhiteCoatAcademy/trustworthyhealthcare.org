@@ -1,41 +1,55 @@
 {
-    "address": "410 W 16TH AVE",
-    "city": "TYNDALL",
-    "county_name": "BON HOMME",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST MICHAEL'S HOSPITAL - CAH",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "410 W 16TH AVE", 
+    "city": "TYNDALL", 
+    "county_name": "BON HOMME", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST MICHAEL'S HOSPITAL - CAH", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -97.867896,
+            -97.867896, 
             42.991253
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "410 W 16TH AVE",
-    "location_city": "TYNDALL",
-    "location_state": "SD",
-    "location_zip": "57066",
+    }, 
+    "location_address": "410 W 16TH AVE", 
+    "location_city": "TYNDALL", 
+    "location_state": "SD", 
+    "location_zip": "57066", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.avera.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Avera Health",
+        "name": "Avera Health", 
         "websites": [
             "www.avera.org"
         ]
-    },
-    "phone_number": "6055893341",
-    "provider_id": "431327",
-    "raw_ratings": {},
-    "state": "SD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6055892100", 
+    "provider_id": "431327", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "SD", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "57066"
 }

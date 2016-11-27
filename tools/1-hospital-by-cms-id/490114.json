@@ -1,41 +1,49 @@
 {
-    "address": "1990 HOLTON AVENUE EAST",
-    "city": "BIG STONE GAP",
-    "county_name": "WISE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WELLMONT LONESOME PINE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1990 HOLTON AVENUE EAST", 
+    "city": "BIG STONE GAP", 
+    "county_name": "WISE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LONESOME PINE HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.757355,
-            36.876448
-        ],
+            -82.755669, 
+            36.877284
+        ], 
         "type": "Point"
-    },
-    "location_address": "1990 HOLTON AVENUE EAST",
-    "location_city": "BIG STONE GAP",
-    "location_state": "VA",
-    "location_zip": "24219",
+    }, 
+    "location_address": "1990 HOLTON AVENUE EAST", 
+    "location_city": "BIG STONE GAP", 
+    "location_state": "VA", 
+    "location_zip": "24219", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wellmont.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Wellmont Health System",
+        "name": "Wellmont Health System", 
         "websites": [
             "www.wellmont.org"
         ]
-    },
-    "phone_number": "2765233111",
-    "provider_id": "490114",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2765233111", 
+    "provider_id": "490114", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "24219"
 }

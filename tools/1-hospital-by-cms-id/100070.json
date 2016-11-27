@@ -1,41 +1,49 @@
 {
-    "address": "540 THE RIALTO",
-    "city": "VENICE",
-    "county_name": "SARASOTA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "VENICE REGIONAL MEDICAL CENTER - BAYFRONT HEALTH",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "540 THE RIALTO", 
+    "city": "VENICE", 
+    "county_name": "SARASOTA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "VENICE REGIONAL MEDICAL CENTER - BAYFRONT HEALTH", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.444326,
-            27.091587
-        ],
+            -82.444445, 
+            27.089683
+        ], 
         "type": "Point"
-    },
-    "location_address": "540 THE RIALTO",
-    "location_city": "VENICE",
-    "location_state": "FL",
-    "location_zip": "34285",
+    }, 
+    "location_address": "540 THE RIALTO", 
+    "location_city": "VENICE", 
+    "location_state": "FL", 
+    "location_zip": "34285", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.veniceregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Health Management Associates, Inc.",
+        "name": "Health Management Associates, Inc.", 
         "websites": [
             "www.hma.com"
         ]
-    },
-    "phone_number": "9414857711",
-    "provider_id": "100070",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9414857711", 
+    "provider_id": "100070", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "34285"
 }

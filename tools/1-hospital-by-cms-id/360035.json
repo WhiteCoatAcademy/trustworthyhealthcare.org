@@ -1,41 +1,49 @@
 {
-    "address": "793 WEST STATE STREET",
-    "city": "COLUMBUS",
-    "county_name": "FRANKLIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MOUNT CARMEL WEST",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "793 WEST STATE STREET", 
+    "city": "COLUMBUS", 
+    "county_name": "FRANKLIN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MOUNT CARMEL WEST", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.02332,
-            39.957482
-        ],
+            -83.020824, 
+            39.957782
+        ], 
         "type": "Point"
-    },
-    "location_address": "793 WEST STATE STREET",
-    "location_city": "COLUMBUS",
-    "location_state": "OH",
-    "location_zip": "43222",
+    }, 
+    "location_address": "793 WEST STATE STREET", 
+    "location_city": "COLUMBUS", 
+    "location_state": "OH", 
+    "location_zip": "43222", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mountcarmelhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Trinity Health",
+        "name": "Trinity Health", 
         "websites": [
             "www.trinity-health.org"
         ]
-    },
-    "phone_number": "6142345000",
-    "provider_id": "360035",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6142345000", 
+    "provider_id": "360035", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "43222"
 }

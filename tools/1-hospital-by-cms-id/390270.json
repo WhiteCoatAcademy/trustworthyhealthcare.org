@@ -1,41 +1,49 @@
 {
-    "address": "1000 EAST MOUNTAIN BOULEVARD",
-    "city": "WILKES BARRE",
-    "county_name": "LUZERNE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GEISINGER WYOMING VALLEY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1000 EAST MOUNTAIN BOULEVARD", 
+    "city": "WILKES BARRE", 
+    "county_name": "LUZERNE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GEISINGER WYOMING VALLEY MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -75.808445,
-            41.250596
-        ],
+            -75.812423, 
+            41.255983
+        ], 
         "type": "Point"
-    },
-    "location_address": "1000 EAST MOUNTAIN BOULEVARD",
-    "location_city": "WILKES BARRE",
-    "location_state": "PA",
-    "location_zip": "18711",
+    }, 
+    "location_address": "1000 EAST MOUNTAIN BOULEVARD", 
+    "location_city": "WILKES BARRE", 
+    "location_state": "PA", 
+    "location_zip": "18711", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.geisinger.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Geisinger Health System",
+        "name": "Geisinger Health System", 
         "websites": [
             "www.geisinger.org"
         ]
-    },
-    "phone_number": "5708267300",
-    "provider_id": "390270",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5708267300", 
+    "provider_id": "390270", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "18711"
 }

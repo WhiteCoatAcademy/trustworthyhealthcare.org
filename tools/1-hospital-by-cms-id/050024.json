@@ -1,41 +1,50 @@
 {
-    "address": "2400 EAST 4TH ST",
-    "city": "NATIONAL CITY",
-    "county_name": "SAN DIEGO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PARADISE VALLEY HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2400 EAST 4TH ST", 
+    "city": "NATIONAL CITY", 
+    "county_name": "SAN DIEGO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PARADISE VALLEY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.083713,
-            32.686203
-        ],
+            -117.083243, 
+            32.686336
+        ], 
         "type": "Point"
-    },
-    "location_address": "2400 EAST 4TH ST",
-    "location_city": "NATIONAL CITY",
-    "location_state": "CA",
-    "location_zip": "91950",
+    }, 
+    "location_address": "2400 EAST 4TH ST", 
+    "location_city": "NATIONAL CITY", 
+    "location_state": "CA", 
+    "location_zip": "91950", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.paradisevalleyhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Prime Healthcare Services, Inc.",
+        "name": "Prime Healthcare Services, Inc.", 
         "websites": [
             "www.primehealthcareservices.com"
         ]
-    },
-    "phone_number": "6194704321",
-    "provider_id": "050024",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6194704321", 
+    "provider_id": "050024", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "91950"
 }

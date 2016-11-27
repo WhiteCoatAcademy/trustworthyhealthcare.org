@@ -1,41 +1,49 @@
 {
-    "address": "1055 SAXON BLVD",
-    "city": "ORANGE CITY",
-    "county_name": "VOLUSIA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FLORIDA HOSPITAL FISH MEMORIAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1055 SAXON BLVD", 
+    "city": "ORANGE CITY", 
+    "county_name": "VOLUSIA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FLORIDA HOSPITAL FISH MEMORIAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.283751,
-            28.911303
-        ],
+            -81.284122, 
+            28.91129
+        ], 
         "type": "Point"
-    },
-    "location_address": "1055 SAXON BLVD",
-    "location_city": "ORANGE CITY",
-    "location_state": "FL",
-    "location_zip": "32763",
+    }, 
+    "location_address": "1055 SAXON BLVD", 
+    "location_city": "ORANGE CITY", 
+    "location_state": "FL", 
+    "location_zip": "32763", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.fhfishmemorial.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Adventist Health System",
+        "name": "Adventist Health System", 
         "websites": [
             "www.ahss.org"
         ]
-    },
-    "phone_number": "3869175000",
-    "provider_id": "100072",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3869175000", 
+    "provider_id": "100072", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "32763"
 }

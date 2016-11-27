@@ -1,40 +1,49 @@
 {
-    "address": "915 GORDON AVENUE & MIMOSA DRIVE",
-    "city": "THOMASVILLE",
-    "county_name": "THOMAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JOHN D ARCHBOLD MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "915 GORDON AVENUE & MIMOSA DRIVE", 
+    "city": "THOMASVILLE", 
+    "county_name": "THOMAS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JOHN D ARCHBOLD MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"915 GORDON AVENUE &amp; MIMOSA DRIVE\",\"city\":\"THOMASVILLE\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "30.836421836000056",
-        "longitude": "-83.98048649999998",
-        "needs_recoding": false
-    },
-    "location_address": "915 GORDON AVENUE & MIMOSA DRIVE",
-    "location_city": "THOMASVILLE",
-    "location_state": "GA",
-    "location_zip": "31792",
+        "coordinates": [
+            -83.973335, 
+            30.824623
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "915 GORDON AVENUE & MIMOSA DRIVE", 
+    "location_city": "THOMASVILLE", 
+    "location_state": "GA", 
+    "location_zip": "31792", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.archbold.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Archbold Medical Center",
+        "name": "Archbold Medical Center", 
         "websites": [
             "www.archbold.org"
         ]
-    },
-    "phone_number": "2292282880",
-    "provider_id": "110038",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2292282880", 
+    "provider_id": "110038", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "31792"
 }

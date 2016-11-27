@@ -1,41 +1,49 @@
 {
-    "address": "3700 WASHINGTON AVE",
-    "city": "EVANSVILLE",
-    "county_name": "VANDERBURGH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST MARY'S MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3700 WASHINGTON AVE", 
+    "city": "EVANSVILLE", 
+    "county_name": "VANDERBURGH", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST MARY'S MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.50513,
-            37.962405
-        ],
+            -87.50554, 
+            37.962408
+        ], 
         "type": "Point"
-    },
-    "location_address": "3700 WASHINGTON AVE",
-    "location_city": "EVANSVILLE",
-    "location_state": "IN",
-    "location_zip": "47750",
+    }, 
+    "location_address": "3700 WASHINGTON AVE", 
+    "location_city": "EVANSVILLE", 
+    "location_state": "IN", 
+    "location_zip": "47750", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stmarys.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ascension Health",
+        "name": "Ascension Health", 
         "websites": [
             "www.ascensionhealth.org"
         ]
-    },
-    "phone_number": "8124854000",
-    "provider_id": "150100",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8124854000", 
+    "provider_id": "150100", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "47750"
 }

@@ -1,41 +1,53 @@
 {
-    "address": "326 ASBURY AVENUE",
-    "city": "RIPLEY",
-    "county_name": "LAUDERDALE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LAUDERDALE COMMUNITY HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "326 ASBURY AVENUE", 
+    "city": "RIPLEY", 
+    "county_name": "LAUDERDALE", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LAUDERDALE COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -89.548949,
-            35.746554
-        ],
+            -89.550821, 
+            35.746625
+        ], 
         "type": "Point"
-    },
-    "location_address": "326 ASBURY AVENUE",
-    "location_city": "RIPLEY",
-    "location_state": "TN",
-    "location_zip": "38063",
+    }, 
+    "location_address": "326 ASBURY AVENUE", 
+    "location_city": "RIPLEY", 
+    "location_state": "TN", 
+    "location_zip": "38063", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bmhcc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Baptist Memorial Health Care Corporation",
+        "name": "Baptist Memorial Health Care Corporation", 
         "websites": [
             "www.bmhcc.org"
         ]
-    },
-    "phone_number": "7312212200",
-    "provider_id": "441314",
-    "raw_ratings": {},
-    "state": "TN",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "7312212200", 
+    "provider_id": "441314", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "38063"
 }

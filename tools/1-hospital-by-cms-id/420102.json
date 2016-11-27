@@ -1,41 +1,52 @@
 {
-    "address": "175 PATEWOOD DRIVE",
-    "city": "GREENVILLE",
-    "county_name": "GREENVILLE",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "GHS PATEWOOD MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "175 PATEWOOD DRIVE", 
+    "city": "GREENVILLE", 
+    "county_name": "GREENVILLE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "GHS PATEWOOD MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.325899,
-            34.852418
-        ],
+            -82.32611, 
+            34.852726
+        ], 
         "type": "Point"
-    },
-    "location_address": "175 PATEWOOD DRIVE",
-    "location_city": "GREENVILLE",
-    "location_state": "SC",
-    "location_zip": "29615",
+    }, 
+    "location_address": "175 PATEWOOD DRIVE", 
+    "location_city": "GREENVILLE", 
+    "location_state": "SC", 
+    "location_zip": "29615", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ghs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Greenville Hospital System",
+        "name": "Greenville Hospital System", 
         "websites": [
             "www.ghs.org"
         ]
-    },
-    "phone_number": "8647971000",
-    "provider_id": "420102",
-    "raw_ratings": {},
-    "state": "SC",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8647971000", 
+    "provider_id": "420102", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "SC", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "29615"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "620 HOWARD AVENUE",
-    "city": "ALTOONA",
-    "county_name": "BLAIR",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UPMC ALTOONA",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "620 HOWARD AVENUE", 
+    "city": "ALTOONA", 
+    "county_name": "BLAIR", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UPMC ALTOONA", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -78.398301,
-            40.521085
-        ],
+            -78.398293, 
+            40.521092
+        ], 
         "type": "Point"
-    },
-    "location_address": "620 HOWARD AVENUE",
-    "location_city": "ALTOONA",
-    "location_state": "PA",
-    "location_zip": "16601",
+    }, 
+    "location_address": "620 HOWARD AVENUE", 
+    "location_city": "ALTOONA", 
+    "location_state": "PA", 
+    "location_zip": "16601", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.altoonaregional.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Bon Secours Health System, Inc.",
+        "name": "Bon Secours Health System, Inc.", 
         "websites": [
             "www.bshsi.com"
         ]
-    },
-    "phone_number": "8148892011",
-    "provider_id": "390073",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8148892011", 
+    "provider_id": "390073", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "16601"
 }

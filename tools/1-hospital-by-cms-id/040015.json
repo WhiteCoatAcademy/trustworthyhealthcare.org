@@ -1,39 +1,47 @@
 {
-    "address": "311 NORTH MORROW STREET",
-    "city": "MENA",
-    "county_name": "POLK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MENA REGIONAL HEALTH SYSTEM",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "311 NORTH MORROW STREET", 
+    "city": "MENA", 
+    "county_name": "POLK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MENA REGIONAL HEALTH SYSTEM", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.222504,
-            34.588476
-        ],
+            -94.222504, 
+            34.588582
+        ], 
         "type": "Point"
-    },
-    "location_address": "311 NORTH MORROW STREET",
-    "location_city": "MENA",
-    "location_state": "AR",
-    "location_zip": "71953",
+    }, 
+    "location_address": "311 NORTH MORROW STREET", 
+    "location_city": "MENA", 
+    "location_state": "AR", 
+    "location_zip": "71953", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.menaregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4793946100",
-    "provider_id": "040015",
-    "raw_ratings": {},
-    "state": "AR",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4793946100", 
+    "provider_id": "040015", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "AR", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "71953"
 }

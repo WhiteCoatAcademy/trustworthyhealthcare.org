@@ -1,39 +1,51 @@
 {
-    "address": "425 NORTH ELM STREET",
-    "city": "SAUK CENTRE",
-    "county_name": "STEARNS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CENTRACARE HEALTH SYSTEM - SAUK CENTRE",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "425 NORTH ELM STREET", 
+    "city": "SAUK CENTRE", 
+    "county_name": "STEARNS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CENTRACARE HEALTH SYSTEM - SAUK CENTRE", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -94.954567,
-            45.745877
-        ],
+            -94.954569, 
+            45.745942
+        ], 
         "type": "Point"
-    },
-    "location_address": "425 NORTH ELM STREET",
-    "location_city": "SAUK CENTRE",
-    "location_state": "MN",
-    "location_zip": "56378",
+    }, 
+    "location_address": "425 NORTH ELM STREET", 
+    "location_city": "SAUK CENTRE", 
+    "location_state": "MN", 
+    "location_zip": "56378", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stmichaelshospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3203522221",
-    "provider_id": "241368",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3203522221", 
+    "provider_id": "241368", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "56378"
 }

@@ -1,41 +1,50 @@
 {
-    "address": "13100 FT KING RD",
-    "city": "DADE CITY",
-    "county_name": "PASCO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BAYFRONT HEALTH DADE CITY",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "13100 FT KING RD", 
+    "city": "DADE CITY", 
+    "county_name": "PASCO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BAYFRONT HEALTH DADE CITY", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.201686,
+            -82.201686, 
             28.348624
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "13100 FT KING RD",
-    "location_city": "DADE CITY",
-    "location_state": "FL",
-    "location_zip": "33525",
+    }, 
+    "location_address": "13100 FT KING RD", 
+    "location_city": "DADE CITY", 
+    "location_state": "FL", 
+    "location_zip": "33525", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pascoregionalmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Health Management Associates, Inc.",
+        "name": "Health Management Associates, Inc.", 
         "websites": [
             "www.hma.com"
         ]
-    },
-    "phone_number": "3525683174",
-    "provider_id": "100211",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3525683174", 
+    "provider_id": "100211", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "33525"
 }

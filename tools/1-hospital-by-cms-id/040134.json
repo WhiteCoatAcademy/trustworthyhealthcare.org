@@ -1,41 +1,49 @@
 {
-    "address": "1701 S SHACKLEFORD ROAD",
-    "city": "LITTLE ROCK",
-    "county_name": "PULASKI",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ARKANSAS HEART HOSPITAL, LLC",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1701 S SHACKLEFORD ROAD", 
+    "city": "LITTLE ROCK", 
+    "county_name": "PULASKI", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ARKANSAS HEART HOSPITAL, LLC", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -92.394419,
-            34.739288
-        ],
+            -92.394421, 
+            34.739159
+        ], 
         "type": "Point"
-    },
-    "location_address": "1701 S SHACKLEFORD ROAD",
-    "location_city": "LITTLE ROCK",
-    "location_state": "AR",
-    "location_zip": "72211",
+    }, 
+    "location_address": "1701 S SHACKLEFORD ROAD", 
+    "location_city": "LITTLE ROCK", 
+    "location_state": "AR", 
+    "location_zip": "72211", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.arheart.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "MedCath Corporation",
+        "name": "MedCath Corporation", 
         "websites": [
             "www.medcath.com"
         ]
-    },
-    "phone_number": "5012197000",
-    "provider_id": "040134",
-    "raw_ratings": {},
-    "state": "AR",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5012197000", 
+    "provider_id": "040134", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "AR", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "72211"
 }

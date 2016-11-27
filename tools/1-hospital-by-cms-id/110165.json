@@ -1,39 +1,47 @@
 {
-    "address": "11 UPPER RIVERDALE ROAD, SW",
-    "city": "RIVERDALE",
-    "county_name": "CLAYTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOUTHERN REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "11 UPPER RIVERDALE ROAD, SW", 
+    "city": "RIVERDALE", 
+    "county_name": "CLAYTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTHERN REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.393249,
+            -84.393249, 
             33.576612
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "11 UPPER RIVERDALE ROAD, SW",
-    "location_city": "RIVERDALE",
-    "location_state": "GA",
-    "location_zip": "30274",
+    }, 
+    "location_address": "11 UPPER RIVERDALE ROAD, SW", 
+    "location_city": "RIVERDALE", 
+    "location_state": "GA", 
+    "location_zip": "30274", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.southernregional.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7709918160",
-    "provider_id": "110165",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7709918160", 
+    "provider_id": "110165", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "30274"
 }

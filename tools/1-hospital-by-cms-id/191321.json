@@ -1,41 +1,54 @@
 {
-    "address": "52579 HIGHWAY 51 SOUTH",
-    "city": "INDEPENDENCE",
-    "county_name": "TANGIPAHOA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LALLIE KEMP MEDICAL CENTER",
-    "hospital_ownership": "Government - State",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "52579 HIGHWAY 51 SOUTH", 
+    "city": "INDEPENDENCE", 
+    "county_name": "TANGIPAHOA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LALLIE KEMP MEDICAL CENTER", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Government - State", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -90.496337,
-            30.620168
-        ],
+            -90.496999, 
+            30.622194
+        ], 
         "type": "Point"
-    },
-    "location_address": "52579 HIGHWAY 51 SOUTH",
-    "location_city": "INDEPENDENCE",
-    "location_state": "LA",
-    "location_zip": "70443",
+    }, 
+    "location_address": "52579 HIGHWAY 51 SOUTH", 
+    "location_city": "INDEPENDENCE", 
+    "location_state": "LA", 
+    "location_zip": "70443", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lsuhospitals.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Louisiana State University Health Care Services Division",
+        "name": "Louisiana State University Health Care Services Division", 
         "websites": [
             "www.lsuhospitals.org"
         ]
-    },
-    "phone_number": "9858789421",
-    "provider_id": "191321",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9858789421", 
+    "provider_id": "191321", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "70443"
 }

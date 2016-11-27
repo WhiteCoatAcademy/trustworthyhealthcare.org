@@ -1,41 +1,50 @@
 {
-    "address": "100 MEDICAL CAMPUS DRIVE",
-    "city": "LANSDALE",
-    "county_name": "MONTGOMERY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LANSDALE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 MEDICAL CAMPUS DRIVE", 
+    "city": "LANSDALE", 
+    "county_name": "MONTGOMERY", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LANSDALE HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -75.271733,
-            40.251328
-        ],
+            -75.270395, 
+            40.250348
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 MEDICAL CAMPUS DRIVE",
-    "location_city": "LANSDALE",
-    "location_state": "PA",
-    "location_zip": "19446",
+    }, 
+    "location_address": "100 MEDICAL CAMPUS DRIVE", 
+    "location_city": "LANSDALE", 
+    "location_state": "PA", 
+    "location_zip": "19446", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cmmc-uhs.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Universal Health Services, Inc.",
+        "name": "Universal Health Services, Inc.", 
         "websites": [
             "www.uhsinc.com"
         ]
-    },
-    "phone_number": "2153682100",
-    "provider_id": "390012",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2153682100", 
+    "provider_id": "390012", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "19446"
 }

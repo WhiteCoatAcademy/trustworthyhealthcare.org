@@ -1,41 +1,55 @@
 {
-    "address": "725 WELCH ROAD",
-    "city": "PALO ALTO",
-    "county_name": "SANTA CLARA",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "LUCILE SALTER PACKARD CHILDREN'S HSP AT STANFORD",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Childrens",
+    "address": "725 WELCH ROAD", 
+    "city": "PALO ALTO", 
+    "county_name": "SANTA CLARA", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "LUCILE SALTER PACKARD CHILDREN'S HSP AT STANFORD", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Childrens", 
     "location": {
         "coordinates": [
-            -122.174248,
-            37.437193
-        ],
+            -122.175061, 
+            37.437382
+        ], 
         "type": "Point"
-    },
-    "location_address": "725 WELCH ROAD",
-    "location_city": "PALO ALTO",
-    "location_state": "CA",
-    "location_zip": "94304",
+    }, 
+    "location_address": "725 WELCH ROAD", 
+    "location_city": "PALO ALTO", 
+    "location_state": "CA", 
+    "location_zip": "94304", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lpch.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Stanford Hospital and Clinics",
+        "name": "Stanford Hospital and Clinics", 
         "websites": [
             "www.stanfordhospital.com"
         ]
-    },
-    "phone_number": "6504978000",
-    "provider_id": "053305",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6504978000", 
+    "provider_id": "053305", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "94304"
 }

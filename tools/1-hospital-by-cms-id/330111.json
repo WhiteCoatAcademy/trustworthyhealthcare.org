@@ -1,39 +1,48 @@
 {
-    "address": "224 EAST MAIN STREET",
-    "city": "SPRINGVILLE",
-    "county_name": "ERIE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BERTRAND CHAFFEE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "224 EAST MAIN STREET", 
+    "city": "SPRINGVILLE", 
+    "county_name": "ERIE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BERTRAND CHAFFEE HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -78.659178,
-            42.508483
-        ],
+            -78.659289, 
+            42.508484
+        ], 
         "type": "Point"
-    },
-    "location_address": "224 EAST MAIN STREET",
-    "location_city": "SPRINGVILLE",
-    "location_state": "NY",
-    "location_zip": "14141",
+    }, 
+    "location_address": "224 EAST MAIN STREET", 
+    "location_city": "SPRINGVILLE", 
+    "location_state": "NY", 
+    "location_zip": "14141", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.chaffeehospitalandhome.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7165922871",
-    "provider_id": "330111",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7165922871", 
+    "provider_id": "330111", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "14141"
 }

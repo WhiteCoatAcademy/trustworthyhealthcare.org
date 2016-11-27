@@ -1,41 +1,49 @@
 {
-    "address": "3500 GASTON AVE",
-    "city": "DALLAS",
-    "county_name": "DALLAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BAYLOR UNIVERSITY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3500 GASTON AVE", 
+    "city": "DALLAS", 
+    "county_name": "DALLAS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BAYLOR UNIVERSITY MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.780663,
-            32.790685
-        ],
+            -96.78081, 
+            32.790567
+        ], 
         "type": "Point"
-    },
-    "location_address": "3500 GASTON AVE",
-    "location_city": "DALLAS",
-    "location_state": "TX",
-    "location_zip": "75246",
+    }, 
+    "location_address": "3500 GASTON AVE", 
+    "location_city": "DALLAS", 
+    "location_state": "TX", 
+    "location_zip": "75246", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Baylor Health Care System",
+        "name": "Baylor Health Care System", 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "phone_number": "2148200111",
-    "provider_id": "450021",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2148200111", 
+    "provider_id": "450021", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "75246"
 }

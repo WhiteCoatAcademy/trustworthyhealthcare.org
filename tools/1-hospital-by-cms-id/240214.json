@@ -1,39 +1,48 @@
 {
-    "address": "9875 HOSPITAL DRIVE",
-    "city": "MAPLE GROVE",
-    "county_name": "HENNEPIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MAPLE GROVE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "9875 HOSPITAL DRIVE", 
+    "city": "MAPLE GROVE", 
+    "county_name": "HENNEPIN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MAPLE GROVE HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.479513,
-            45.133424
-        ],
+            -93.479489, 
+            45.133378
+        ], 
         "type": "Point"
-    },
-    "location_address": "9875 HOSPITAL DRIVE",
-    "location_city": "MAPLE GROVE",
-    "location_state": "MN",
-    "location_zip": "55369",
+    }, 
+    "location_address": "9875 HOSPITAL DRIVE", 
+    "location_city": "MAPLE GROVE", 
+    "location_state": "MN", 
+    "location_zip": "55369", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.woodwinds.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7635811000",
-    "provider_id": "240214",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7635811000", 
+    "provider_id": "240214", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "55369"
 }

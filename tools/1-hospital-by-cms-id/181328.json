@@ -1,41 +1,54 @@
 {
-    "address": "80 HOSPITAL DRIVE",
-    "city": "BARBOURVILLE",
-    "county_name": "KNOX",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "KNOX COUNTY HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "80 HOSPITAL DRIVE", 
+    "city": "BARBOURVILLE", 
+    "county_name": "KNOX", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BARBOURVILLE ARH HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -83.87152,
+            -83.87152, 
             36.85231
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "80 HOSPITAL DRIVE",
-    "location_city": "BARBOURVILLE",
-    "location_state": "KY",
-    "location_zip": "40906",
+    }, 
+    "location_address": "80 HOSPITAL DRIVE", 
+    "location_city": "BARBOURVILLE", 
+    "location_state": "KY", 
+    "location_zip": "40906", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.knoxcohospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Pacer Health",
+        "name": "Pacer Health", 
         "websites": [
             "www.pacerhealth.com"
         ]
-    },
-    "phone_number": "6065464175",
-    "provider_id": "181328",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6065464175", 
+    "provider_id": "181328", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "40906"
 }

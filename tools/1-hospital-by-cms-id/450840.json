@@ -1,41 +1,50 @@
 {
-    "address": "1105 CENTRAL EXPRESSWAY NORTH",
-    "city": "ALLEN",
-    "county_name": "COLLIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL ALLEN",
-    "hospital_ownership": "Government - Federal",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1105 CENTRAL EXPRESSWAY NORTH", 
+    "city": "ALLEN", 
+    "county_name": "COLLIN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TEXAS HEALTH PRESBYTERIAN HOSPITAL ALLEN", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Federal", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.671289,
-            33.115782
-        ],
+            -96.671504, 
+            33.115433
+        ], 
         "type": "Point"
-    },
-    "location_address": "1105 CENTRAL EXPRESSWAY NORTH",
-    "location_city": "ALLEN",
-    "location_state": "TX",
-    "location_zip": "75013",
+    }, 
+    "location_address": "1105 CENTRAL EXPRESSWAY NORTH", 
+    "location_city": "ALLEN", 
+    "location_state": "TX", 
+    "location_zip": "75013", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.texashealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Texas Health Resources",
+        "name": "Texas Health Resources", 
         "websites": [
             "www.texashealth.org"
         ]
-    },
-    "phone_number": "9727476197",
-    "provider_id": "450840",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9727476197", 
+    "provider_id": "450840", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75013"
 }

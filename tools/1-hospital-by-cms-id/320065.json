@@ -1,41 +1,49 @@
 {
-    "address": "5419 N LOVINGTON HIGHWAY",
-    "city": "HOBBS",
-    "county_name": "LEA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LEA REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5419 N LOVINGTON HIGHWAY", 
+    "city": "HOBBS", 
+    "county_name": "LEA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LEA REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -103.181283,
-            32.761045
-        ],
+            -103.182479, 
+            32.762366
+        ], 
         "type": "Point"
-    },
-    "location_address": "5419 N LOVINGTON HIGHWAY",
-    "location_city": "HOBBS",
-    "location_state": "NM",
-    "location_zip": "88240",
+    }, 
+    "location_address": "5419 N LOVINGTON HIGHWAY", 
+    "location_city": "HOBBS", 
+    "location_state": "NM", 
+    "location_zip": "88240", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.learegionalmedical.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "5754925000",
-    "provider_id": "320065",
-    "raw_ratings": {},
-    "state": "NM",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5754925000", 
+    "provider_id": "320065", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NM", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "88240"
 }

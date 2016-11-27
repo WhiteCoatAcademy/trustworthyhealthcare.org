@@ -1,39 +1,51 @@
 {
-    "address": "920 HILLCREST DR",
-    "city": "VERNON",
-    "county_name": "WILBARGER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WILBARGER GENERAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "920 HILLCREST DR", 
+    "city": "VERNON", 
+    "county_name": "WILBARGER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WILBARGER GENERAL HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -99.312936,
-            34.158467
-        ],
+            -99.313571, 
+            34.160068
+        ], 
         "type": "Point"
-    },
-    "location_address": "920 HILLCREST DR",
-    "location_city": "VERNON",
-    "location_state": "TX",
-    "location_zip": "76384",
+    }, 
+    "location_address": "920 HILLCREST DR", 
+    "location_city": "VERNON", 
+    "location_state": "TX", 
+    "location_zip": "76384", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wghospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9405529351",
-    "provider_id": "450584",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "9405529351", 
+    "provider_id": "450584", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "76384"
 }

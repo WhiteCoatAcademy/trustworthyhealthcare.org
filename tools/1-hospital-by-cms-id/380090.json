@@ -1,39 +1,47 @@
 {
-    "address": "1775 THOMPSON ROAD",
-    "city": "COOS BAY",
-    "county_name": "COOS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BAY AREA HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1775 THOMPSON ROAD", 
+    "city": "COOS BAY", 
+    "county_name": "COOS", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BAY AREA HOSPITAL", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -124.23333,
-            43.38583
-        ],
+            -124.232457, 
+            43.385854
+        ], 
         "type": "Point"
-    },
-    "location_address": "1775 THOMPSON ROAD",
-    "location_city": "COOS BAY",
-    "location_state": "OR",
-    "location_zip": "97420",
+    }, 
+    "location_address": "1775 THOMPSON ROAD", 
+    "location_city": "COOS BAY", 
+    "location_state": "OR", 
+    "location_zip": "97420", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bayareahospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5412698111",
-    "provider_id": "380090",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5412698124", 
+    "provider_id": "380090", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "97420"
 }

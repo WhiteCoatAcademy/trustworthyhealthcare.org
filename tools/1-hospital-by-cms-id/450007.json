@@ -1,39 +1,47 @@
 {
-    "address": "551 HILL COUNTRY DRIVE",
-    "city": "KERRVILLE",
-    "county_name": "KERR",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PETERSON REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "551 HILL COUNTRY DRIVE", 
+    "city": "KERRVILLE", 
+    "county_name": "KERR", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PETERSON REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -99.151596,
-            30.044733
-        ],
+            -99.151128, 
+            30.044324
+        ], 
         "type": "Point"
-    },
-    "location_address": "551 HILL COUNTRY DRIVE",
-    "location_city": "KERRVILLE",
-    "location_state": "TX",
-    "location_zip": "78028",
+    }, 
+    "location_address": "551 HILL COUNTRY DRIVE", 
+    "location_city": "KERRVILLE", 
+    "location_state": "TX", 
+    "location_zip": "78028", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.petersonrmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8308964200",
-    "provider_id": "450007",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8308964200", 
+    "provider_id": "450007", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "78028"
 }

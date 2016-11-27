@@ -1,41 +1,49 @@
 {
-    "address": "98-1079 MOANALUA ROAD",
-    "city": "AIEA",
-    "county_name": "HONOLULU",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PALI MOMI MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "98-1079 MOANALUA ROAD", 
+    "city": "AIEA", 
+    "county_name": "HONOLULU", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PALI MOMI MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -157.937544,
-            21.383687
-        ],
+            -157.937582, 
+            21.383779
+        ], 
         "type": "Point"
-    },
-    "location_address": "98-1079 MOANALUA ROAD",
-    "location_city": "AIEA",
-    "location_state": "HI",
-    "location_zip": "96701",
+    }, 
+    "location_address": "98-1079 MOANALUA ROAD", 
+    "location_city": "AIEA", 
+    "location_state": "HI", 
+    "location_zip": "96701", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.kapiolani.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Hawaii Pacific Health",
+        "name": "Hawaii Pacific Health", 
         "websites": [
             "www.hawaiipacifichealth.org"
         ]
-    },
-    "phone_number": "8084866000",
-    "provider_id": "120026",
-    "raw_ratings": {},
-    "state": "HI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8084866000", 
+    "provider_id": "120026", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "HI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "96701"
 }

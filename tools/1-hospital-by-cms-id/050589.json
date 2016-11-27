@@ -1,41 +1,49 @@
 {
-    "address": "1301 N ROSE DRIVE",
-    "city": "PLACENTIA",
-    "county_name": "ORANGE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PLACENTIA LINDA HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1301 N ROSE DRIVE", 
+    "city": "PLACENTIA", 
+    "county_name": "ORANGE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PLACENTIA LINDA HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.842037,
-            33.88674
-        ],
+            -117.842096, 
+            33.886612
+        ], 
         "type": "Point"
-    },
-    "location_address": "1301 N ROSE DRIVE",
-    "location_city": "PLACENTIA",
-    "location_state": "CA",
-    "location_zip": "92870",
+    }, 
+    "location_address": "1301 N ROSE DRIVE", 
+    "location_city": "PLACENTIA", 
+    "location_state": "CA", 
+    "location_zip": "92870", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.placentialinda.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "TENET Healthcare",
+        "name": "TENET Healthcare", 
         "websites": [
             "www.tenethealth.com"
         ]
-    },
-    "phone_number": "7149932000",
-    "provider_id": "050589",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7149932000", 
+    "provider_id": "050589", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "92870"
 }

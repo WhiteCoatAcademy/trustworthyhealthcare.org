@@ -1,41 +1,56 @@
 {
-    "address": "3001 HOSPITAL DRIVE",
-    "city": "CHEVERLY",
-    "county_name": "PRINCE GEORGES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PRINCE GEORGES  HOSPITAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3001 HOSPITAL DRIVE", 
+    "city": "CHEVERLY", 
+    "county_name": "PRINCE GEORGES", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PRINCE GEORGES  HOSPITAL CENTER", 
+    "hospital_overall_rating_footnote": "Data suppressed by CMS for one or more quarters", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.922928,
-            38.92994
-        ],
+            -76.922638, 
+            38.930923
+        ], 
         "type": "Point"
-    },
-    "location_address": "3001 HOSPITAL DRIVE",
-    "location_city": "CHEVERLY",
-    "location_state": "MD",
-    "location_zip": "20785",
+    }, 
+    "location_address": "3001 HOSPITAL DRIVE", 
+    "location_city": "CHEVERLY", 
+    "location_state": "MD", 
+    "location_zip": "20785", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.princegeorgeshospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Dimensions Healthcare System",
+        "name": "Dimensions Healthcare System", 
         "websites": [
             "www.dimensionshealth.org"
         ]
-    },
-    "phone_number": "3016182000",
-    "provider_id": "210003",
-    "raw_ratings": {},
-    "state": "MD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "phone_number": "3016182000", 
+    "provider_id": "210003", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "state": "MD", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "zip_code": "20785"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "715 N ST JOSEPH AVE",
-    "city": "HASTINGS",
-    "county_name": "ADAMS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MARY LANNING HEALTHCARE",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "715 N ST JOSEPH AVE", 
+    "city": "HASTINGS", 
+    "county_name": "ADAMS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MARY LANNING HEALTHCARE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -98.388144,
-            40.591713
-        ],
+            -98.387474, 
+            40.592416
+        ], 
         "type": "Point"
-    },
-    "location_address": "715 N ST JOSEPH AVE",
-    "location_city": "HASTINGS",
-    "location_state": "NE",
-    "location_zip": "68901",
+    }, 
+    "location_address": "715 N ST JOSEPH AVE", 
+    "location_city": "HASTINGS", 
+    "location_state": "NE", 
+    "location_zip": "68901", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mlmh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4024634521",
-    "provider_id": "280032",
-    "raw_ratings": {},
-    "state": "NE",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4024634521", 
+    "provider_id": "280032", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NE", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "68901"
 }

@@ -1,41 +1,54 @@
 {
-    "address": "313 NORTH MAIN ST",
-    "city": "ASHLAND CITY",
-    "county_name": "CHEATHAM",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TRISTAR ASHLAND CITY MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "313 NORTH MAIN ST", 
+    "city": "ASHLAND CITY", 
+    "county_name": "CHEATHAM", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TRISTAR ASHLAND CITY MEDICAL CENTER", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -87.066156,
-            36.277202
-        ],
+            -87.065976, 
+            36.276974
+        ], 
         "type": "Point"
-    },
-    "location_address": "313 NORTH MAIN ST",
-    "location_city": "ASHLAND CITY",
-    "location_state": "TN",
-    "location_zip": "37015",
+    }, 
+    "location_address": "313 NORTH MAIN ST", 
+    "location_city": "ASHLAND CITY", 
+    "location_state": "TN", 
+    "location_zip": "37015", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cheathammedctr.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "6157923030",
-    "provider_id": "441311",
-    "raw_ratings": {},
-    "state": "TN",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "6157923030", 
+    "provider_id": "441311", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "37015"
 }

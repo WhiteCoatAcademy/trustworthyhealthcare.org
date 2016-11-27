@@ -1,41 +1,49 @@
 {
-    "address": "3000 32ND AVE SOUTH",
-    "city": "FARGO",
-    "county_name": "CASS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ESSENTIA HEALTH-FARGO",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3000 32ND AVE SOUTH", 
+    "city": "FARGO", 
+    "county_name": "CASS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ESSENTIA HEALTH-FARGO", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.828583,
-            46.832504
-        ],
+            -96.828105, 
+            46.8325
+        ], 
         "type": "Point"
-    },
-    "location_address": "3000 32ND AVE SOUTH",
-    "location_city": "FARGO",
-    "location_state": "ND",
-    "location_zip": "58104",
+    }, 
+    "location_address": "3000 32ND AVE SOUTH", 
+    "location_city": "FARGO", 
+    "location_state": "ND", 
+    "location_zip": "58104", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.innovishealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Benedictine Health System",
+        "name": "Benedictine Health System", 
         "websites": [
             "www.bhshealth.org"
         ]
-    },
-    "phone_number": "7013648000",
-    "provider_id": "350070",
-    "raw_ratings": {},
-    "state": "ND",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7013648000", 
+    "provider_id": "350070", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "ND", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "58104"
 }

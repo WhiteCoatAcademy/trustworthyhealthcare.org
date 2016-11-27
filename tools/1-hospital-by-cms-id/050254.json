@@ -1,39 +1,47 @@
 {
-    "address": "1100 MARSHALL WAY",
-    "city": "PLACERVILLE",
-    "county_name": "EL DORADO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MARSHALL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1100 MARSHALL WAY", 
+    "city": "PLACERVILLE", 
+    "county_name": "EL DORADO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MARSHALL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -120.790607,
-            38.724319
-        ],
+            -120.790643, 
+            38.724483
+        ], 
         "type": "Point"
-    },
-    "location_address": "1100 MARSHALL WAY",
-    "location_city": "PLACERVILLE",
-    "location_state": "CA",
-    "location_zip": "95667",
+    }, 
+    "location_address": "1100 MARSHALL WAY", 
+    "location_city": "PLACERVILLE", 
+    "location_state": "CA", 
+    "location_zip": "95667", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.marshallhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5306221441",
-    "provider_id": "050254",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5306221441", 
+    "provider_id": "050254", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "95667"
 }

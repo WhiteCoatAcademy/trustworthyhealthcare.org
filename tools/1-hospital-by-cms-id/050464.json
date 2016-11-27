@@ -1,41 +1,49 @@
 {
-    "address": "1441 FLORIDA AVENUE",
-    "city": "MODESTO",
-    "county_name": "STANISLAUS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DOCTORS MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1441 FLORIDA AVENUE", 
+    "city": "MODESTO", 
+    "county_name": "STANISLAUS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DOCTORS MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -120.996248,
+            -120.996248, 
             37.665531
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1441 FLORIDA AVENUE",
-    "location_city": "MODESTO",
-    "location_state": "CA",
-    "location_zip": "95350",
+    }, 
+    "location_address": "1441 FLORIDA AVENUE", 
+    "location_city": "MODESTO", 
+    "location_state": "CA", 
+    "location_zip": "95350", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.dmc-modesto.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "TENET Healthcare",
+        "name": "TENET Healthcare", 
         "websites": [
             "www.tenethealth.com"
         ]
-    },
-    "phone_number": "2095781211",
-    "provider_id": "050464",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2095781211", 
+    "provider_id": "050464", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "95350"
 }

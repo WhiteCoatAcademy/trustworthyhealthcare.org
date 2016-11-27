@@ -1,40 +1,49 @@
 {
-    "address": "200 MED CENTER DRIVE",
-    "city": "FORT PAYNE",
-    "county_name": "DE KALB",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DEKALB REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 MED CENTER DRIVE", 
+    "city": "FORT PAYNE", 
+    "county_name": "DE KALB", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DEKALB REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"200 MED CENTER DRIVE\",\"city\":\"FORT PAYNE\",\"state\":\"AL\",\"zip\":\"\"}",
-        "latitude": "34.44060759100006",
-        "longitude": "-85.75726760699996",
-        "needs_recoding": false
-    },
-    "location_address": "200 MED CENTER DRIVE",
-    "location_city": "FORT PAYNE",
-    "location_state": "AL",
-    "location_zip": "35968",
+        "coordinates": [
+            -85.75656, 
+            34.440533
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "200 MED CENTER DRIVE", 
+    "location_city": "FORT PAYNE", 
+    "location_state": "AL", 
+    "location_zip": "35968", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.dekalbregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "2568453150",
-    "provider_id": "010012",
-    "raw_ratings": {},
-    "state": "AL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2568453150", 
+    "provider_id": "010012", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "AL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "35968"
 }

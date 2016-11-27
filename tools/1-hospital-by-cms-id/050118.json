@@ -1,41 +1,49 @@
 {
-    "address": "1205 E NORTH STREET",
-    "city": "MANTECA",
-    "county_name": "SAN JOAQUIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DOCTORS HOSPITAL OF MANTECA",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1205 E NORTH STREET", 
+    "city": "MANTECA", 
+    "county_name": "SAN JOAQUIN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DOCTORS HOSPITAL OF MANTECA", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -121.198181,
-            37.801092
-        ],
+            -121.19691, 
+            37.801087
+        ], 
         "type": "Point"
-    },
-    "location_address": "1205 E NORTH STREET",
-    "location_city": "MANTECA",
-    "location_state": "CA",
-    "location_zip": "95336",
+    }, 
+    "location_address": "1205 E NORTH STREET", 
+    "location_city": "MANTECA", 
+    "location_state": "CA", 
+    "location_zip": "95336", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.doctorsmanteca.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "TENET Healthcare",
+        "name": "TENET Healthcare", 
         "websites": [
             "www.tenethealth.com"
         ]
-    },
-    "phone_number": "2098233111",
-    "provider_id": "050118",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2098233111", 
+    "provider_id": "050118", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "95336"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "350 PARRISH STREET",
-    "city": "CANANDAIGUA",
-    "county_name": "ONTARIO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "F F THOMPSON HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "350 PARRISH STREET", 
+    "city": "CANANDAIGUA", 
+    "county_name": "ONTARIO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "F F THOMPSON HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.290111,
-            42.874854
-        ],
+            -77.289875, 
+            42.874946
+        ], 
         "type": "Point"
-    },
-    "location_address": "350 PARRISH STREET",
-    "location_city": "CANANDAIGUA",
-    "location_state": "NY",
-    "location_zip": "14424",
+    }, 
+    "location_address": "350 PARRISH STREET", 
+    "location_city": "CANANDAIGUA", 
+    "location_state": "NY", 
+    "location_zip": "14424", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.thompsonhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5853966000",
-    "provider_id": "330074",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5853966000", 
+    "provider_id": "330074", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "14424"
 }

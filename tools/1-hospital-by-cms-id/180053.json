@@ -1,38 +1,47 @@
 {
-    "address": "55 FOUNDATION DRIVE",
-    "city": "FLEMINGSBURG",
-    "county_name": "FLEMING",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FLEMING COUNTY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "55 FOUNDATION DRIVE", 
+    "city": "FLEMINGSBURG", 
+    "county_name": "FLEMING", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FLEMING COUNTY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"55 FOUNDATION DRIVE\",\"city\":\"FLEMINGSBURG\",\"state\":\"KY\",\"zip\":\"\"}",
-        "latitude": "38.42172119300005",
-        "longitude": "-83.75218776799994",
-        "needs_recoding": false
-    },
-    "location_address": "55 FOUNDATION DRIVE",
-    "location_city": "FLEMINGSBURG",
-    "location_state": "KY",
-    "location_zip": "41041",
+        "coordinates": [
+            -83.752848, 
+            38.421511
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "55 FOUNDATION DRIVE", 
+    "location_city": "FLEMINGSBURG", 
+    "location_state": "KY", 
+    "location_zip": "41041", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.flemingcountyhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6068492351",
-    "provider_id": "180053",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6068492351", 
+    "provider_id": "180053", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "41041"
 }

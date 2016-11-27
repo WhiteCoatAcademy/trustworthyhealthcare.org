@@ -1,39 +1,47 @@
 {
-    "address": "500 W 4TH STREET",
-    "city": "ODESSA",
-    "county_name": "ECTOR",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEDICAL CENTER HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "500 W 4TH STREET", 
+    "city": "ODESSA", 
+    "county_name": "ECTOR", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEDICAL CENTER HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -102.374336,
-            31.844698
-        ],
+            -102.37491, 
+            31.844399
+        ], 
         "type": "Point"
-    },
-    "location_address": "500 W 4TH STREET",
-    "location_city": "ODESSA",
-    "location_state": "TX",
-    "location_zip": "79761",
+    }, 
+    "location_address": "500 W 4TH STREET", 
+    "location_city": "ODESSA", 
+    "location_state": "TX", 
+    "location_zip": "79761", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mchodessa.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4326404000",
-    "provider_id": "450132",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4326404000", 
+    "provider_id": "450132", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "79761"
 }

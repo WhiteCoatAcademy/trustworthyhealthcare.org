@@ -1,39 +1,51 @@
 {
-    "address": "101 AVENUE J",
-    "city": "ANSON",
-    "county_name": "JONES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ANSON GENERAL HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "101 AVENUE J", 
+    "city": "ANSON", 
+    "county_name": "JONES", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ANSON  HOSPITAL DISTRICT", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -99.895515,
-            32.767506
-        ],
+            -99.895514, 
+            32.768101
+        ], 
         "type": "Point"
-    },
-    "location_address": "101 AVENUE J",
-    "location_city": "ANSON",
-    "location_state": "TX",
-    "location_zip": "79501",
+    }, 
+    "location_address": "101 AVENUE J", 
+    "location_city": "ANSON", 
+    "location_state": "TX", 
+    "location_zip": "79501", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.micsgroup.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3258233231",
-    "provider_id": "450078",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "3258233231", 
+    "provider_id": "450078", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "79501"
 }

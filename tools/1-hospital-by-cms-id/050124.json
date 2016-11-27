@@ -1,39 +1,47 @@
 {
-    "address": "1812 VERDUGO BLVD",
-    "city": "GLENDALE",
-    "county_name": "LOS ANGELES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "USC VERDUGO HILLS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1812 VERDUGO BLVD", 
+    "city": "GLENDALE", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "USC VERDUGO HILLS HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.216172,
-            34.205605
-        ],
+            -118.216048, 
+            34.205614
+        ], 
         "type": "Point"
-    },
-    "location_address": "1812 VERDUGO BLVD",
-    "location_city": "GLENDALE",
-    "location_state": "CA",
-    "location_zip": "91209",
+    }, 
+    "location_address": "1812 VERDUGO BLVD", 
+    "location_city": "GLENDALE", 
+    "location_state": "CA", 
+    "location_zip": "91209", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.verdugohillshospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8187907100",
-    "provider_id": "050124",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "8187907100", 
+    "provider_id": "050124", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "91209"
 }

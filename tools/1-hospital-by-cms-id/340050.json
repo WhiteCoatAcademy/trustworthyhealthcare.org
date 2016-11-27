@@ -1,39 +1,47 @@
 {
-    "address": "300 W 27 ST  PO BOX 1408",
-    "city": "LUMBERTON",
-    "county_name": "ROBESON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOUTHEASTERN REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "300 W 27 ST  PO BOX 1408", 
+    "city": "LUMBERTON", 
+    "county_name": "ROBESON", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTHEASTERN REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -79.012161,
+            -79.012161, 
             34.63649
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "300 W 27 ST PO BOX 1408",
-    "location_city": "LUMBERTON",
-    "location_state": "NC",
-    "location_zip": "28359",
+    }, 
+    "location_address": "300 W 27 ST PO BOX 1408", 
+    "location_city": "LUMBERTON", 
+    "location_state": "NC", 
+    "location_zip": "28359", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.srmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9106715000",
-    "provider_id": "340050",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9106715000", 
+    "provider_id": "340050", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "28359"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "2201 S CLEAR CREEK ROAD",
-    "city": "KILLEEN",
-    "county_name": "BELL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "METROPLEX HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2201 S CLEAR CREEK ROAD", 
+    "city": "KILLEEN", 
+    "county_name": "BELL", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "METROPLEX HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.799705,
-            31.112873
-        ],
+            -97.799519, 
+            31.11335
+        ], 
         "type": "Point"
-    },
-    "location_address": "2201 S CLEAR CREEK ROAD",
-    "location_city": "KILLEEN",
-    "location_state": "TX",
-    "location_zip": "76542",
+    }, 
+    "location_address": "2201 S CLEAR CREEK ROAD", 
+    "location_city": "KILLEEN", 
+    "location_state": "TX", 
+    "location_zip": "76542", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mplex.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Adventist Health System",
+        "name": "Adventist Health System", 
         "websites": [
             "www.ahss.org"
         ]
-    },
-    "phone_number": "2545267523",
-    "provider_id": "450152",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2545267523", 
+    "provider_id": "450152", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "76542"
 }

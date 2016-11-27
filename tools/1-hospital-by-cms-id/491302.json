@@ -1,40 +1,50 @@
 {
-    "address": "159 HARTLEY WAY",
-    "city": "PEARISBURG",
-    "county_name": "GILES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CARILION GILES COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "159 HARTLEY WAY", 
+    "city": "PEARISBURG", 
+    "county_name": "GILES", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CARILION GILES COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"159 HARTLEY WAY\",\"city\":\"PEARISBURG\",\"state\":\"VA\",\"zip\":\"\"}",
-        "latitude": "37.33274804600006",
-        "longitude": "-80.71101185599997",
-        "needs_recoding": false
-    },
-    "location_address": "159 HARTLEY WAY",
-    "location_city": "PEARISBURG",
-    "location_state": "VA",
-    "location_zip": "24134",
+        "coordinates": [
+            -80.710747, 
+            37.332697
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "159 HARTLEY WAY", 
+    "location_city": "PEARISBURG", 
+    "location_state": "VA", 
+    "location_zip": "24134", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.carilion.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Carilion Health System",
+        "name": "Carilion Health System", 
         "websites": [
             "www.carilion.com"
         ]
-    },
-    "phone_number": "5409216000",
-    "provider_id": "491302",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5409216000", 
+    "provider_id": "491302", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "24134"
 }

@@ -1,39 +1,48 @@
 {
-    "address": "400 SOUTHWEST 25 AVE",
-    "city": "MINERAL WELLS",
-    "county_name": "PALO PINTO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PALO PINTO GENERAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "400 SOUTHWEST 25 AVE", 
+    "city": "MINERAL WELLS", 
+    "county_name": "PALO PINTO", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PALO PINTO GENERAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -98.145343,
-            32.799561
-        ],
+            -98.145387, 
+            32.799552
+        ], 
         "type": "Point"
-    },
-    "location_address": "400 SOUTHWEST 25 AVE",
-    "location_city": "MINERAL WELLS",
-    "location_state": "TX",
-    "location_zip": "76067",
+    }, 
+    "location_address": "400 SOUTHWEST 25 AVE", 
+    "location_city": "MINERAL WELLS", 
+    "location_state": "TX", 
+    "location_zip": "76067", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ppgh.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9403257891",
-    "provider_id": "450565",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9403257891", 
+    "provider_id": "450565", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "76067"
 }

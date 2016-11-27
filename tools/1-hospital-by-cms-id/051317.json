@@ -1,40 +1,53 @@
 {
-    "address": "15630 18TH AVE - HWY 53",
-    "city": "CLEARLAKE",
-    "county_name": "LAKE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST HELENA HOSPITAL-CLEARLAKE",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "15630 18TH AVE - HWY 53", 
+    "city": "CLEARLAKE", 
+    "county_name": "LAKE", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST HELENA HOSPITAL-CLEARLAKE", 
+    "hospital_overall_rating": "2", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"15630 18TH AVE - HWY 53\",\"city\":\"CLEARLAKE\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "38.93617399800007",
-        "longitude": "-122.62020252299999",
-        "needs_recoding": false
-    },
-    "location_address": "15630 18TH AVE - HWY 53",
-    "location_city": "CLEARLAKE",
-    "location_state": "CA",
-    "location_zip": "95422",
+        "coordinates": [
+            -122.620655, 
+            38.943323
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "15630 18TH AVE - HWY 53", 
+    "location_city": "CLEARLAKE", 
+    "location_state": "CA", 
+    "location_zip": "95422", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.redbudcommunityhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Adventist Health",
+        "name": "Adventist Health", 
         "websites": [
             "www.adventisthealth.com"
         ]
-    },
-    "phone_number": "7079946486",
-    "provider_id": "051317",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7079946486", 
+    "provider_id": "051317", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "95422"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "317 WESTERN BOULEVARD",
-    "city": "JACKSONVILLE",
-    "county_name": "ONSLOW",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ONSLOW MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "317 WESTERN BOULEVARD", 
+    "city": "JACKSONVILLE", 
+    "county_name": "ONSLOW", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ONSLOW MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.382591,
-            34.762394
-        ],
+            -77.382493, 
+            34.761847
+        ], 
         "type": "Point"
-    },
-    "location_address": "317 WESTERN BOULEVARD",
-    "location_city": "JACKSONVILLE",
-    "location_state": "NC",
-    "location_zip": "28540",
+    }, 
+    "location_address": "317 WESTERN BOULEVARD", 
+    "location_city": "JACKSONVILLE", 
+    "location_state": "NC", 
+    "location_zip": "28540", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.onslowmemorial.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9105772345",
-    "provider_id": "340042",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9105772345", 
+    "provider_id": "340042", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "28540"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "777 HOSPITAL WAY",
-    "city": "POCATELLO",
-    "county_name": "BANNOCK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PORTNEUF MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "777 HOSPITAL WAY", 
+    "city": "POCATELLO", 
+    "county_name": "BANNOCK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PORTNEUF MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -112.41874,
-            42.873418
-        ],
+            -112.4189, 
+            42.872621
+        ], 
         "type": "Point"
-    },
-    "location_address": "777 HOSPITAL WAY",
-    "location_city": "POCATELLO",
-    "location_state": "ID",
-    "location_zip": "83201",
+    }, 
+    "location_address": "777 HOSPITAL WAY", 
+    "location_city": "POCATELLO", 
+    "location_state": "ID", 
+    "location_zip": "83201", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.portmed.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2082391452",
-    "provider_id": "130028",
-    "raw_ratings": {},
-    "state": "ID",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2082391452", 
+    "provider_id": "130028", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "ID", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "83201"
 }

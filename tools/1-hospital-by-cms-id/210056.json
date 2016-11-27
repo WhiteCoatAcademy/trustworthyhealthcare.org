@@ -1,41 +1,56 @@
 {
-    "address": "5601 LOCH RAVEN BOULEVARD",
-    "city": "BALTIMORE",
-    "county_name": "BALTIMORE CITY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEDSTAR GOOD SAMARITAN HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5601 LOCH RAVEN BOULEVARD", 
+    "city": "BALTIMORE", 
+    "county_name": "BALTIMORE CITY", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEDSTAR GOOD SAMARITAN HOSPITAL", 
+    "hospital_overall_rating_footnote": "Data suppressed by CMS for one or more quarters", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.588565,
-            39.359548
-        ],
+            -76.588628, 
+            39.359417
+        ], 
         "type": "Point"
-    },
-    "location_address": "5601 LOCH RAVEN BOULEVARD",
-    "location_city": "BALTIMORE",
-    "location_state": "MD",
-    "location_zip": "21239",
+    }, 
+    "location_address": "5601 LOCH RAVEN BOULEVARD", 
+    "location_city": "BALTIMORE", 
+    "location_state": "MD", 
+    "location_zip": "21239", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.goodsam-md.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "MedStar Health",
+        "name": "MedStar Health", 
         "websites": [
             "www.medstarhealth.org"
         ]
-    },
-    "phone_number": "4434443902",
-    "provider_id": "210056",
-    "raw_ratings": {},
-    "state": "MD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "phone_number": "4434443902", 
+    "provider_id": "210056", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "state": "MD", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "zip_code": "21239"
 }

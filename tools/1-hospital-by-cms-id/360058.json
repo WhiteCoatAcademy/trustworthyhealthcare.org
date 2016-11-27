@@ -1,39 +1,47 @@
 {
-    "address": "800 WEST MAIN STREET",
-    "city": "COLDWATER",
-    "county_name": "MERCER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCER COUNTY JOINT TOWNSHIP COMMUNITY HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "800 WEST MAIN STREET", 
+    "city": "COLDWATER", 
+    "county_name": "MERCER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCER COUNTY JOINT TOWNSHIP COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.639393,
-            40.479776
-        ],
+            -84.638243, 
+            40.479782
+        ], 
         "type": "Point"
-    },
-    "location_address": "800 WEST MAIN STREET",
-    "location_city": "COLDWATER",
-    "location_state": "OH",
-    "location_zip": "45828",
+    }, 
+    "location_address": "800 WEST MAIN STREET", 
+    "location_city": "COLDWATER", 
+    "location_state": "OH", 
+    "location_zip": "45828", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mercerhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4196784843",
-    "provider_id": "360058",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4196784843", 
+    "provider_id": "360058", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "45828"
 }

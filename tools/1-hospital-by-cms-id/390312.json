@@ -1,41 +1,53 @@
 {
-    "address": "1331 EAST WYOMING AVENUE",
-    "city": "PHILADELPHIA",
-    "county_name": "PHILADELPHIA",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "CANCER TREATMENT CENTERS OF AMERICA",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1331 EAST WYOMING AVENUE", 
+    "city": "PHILADELPHIA", 
+    "county_name": "PHILADELPHIA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "CANCER TREATMENT CENTERS OF AMERICA", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -75.098455,
-            40.018297
-        ],
+            -75.098463, 
+            40.018295
+        ], 
         "type": "Point"
-    },
-    "location_address": "1331 EAST WYOMING AVENUE",
-    "location_city": "PHILADELPHIA",
-    "location_state": "PA",
-    "location_zip": "19124",
+    }, 
+    "location_address": "1331 EAST WYOMING AVENUE", 
+    "location_city": "PHILADELPHIA", 
+    "location_state": "PA", 
+    "location_zip": "19124", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cancercenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Cancer Treatment Centers of America",
+        "name": "Cancer Treatment Centers of America", 
         "websites": [
             "www.cancercenter.com"
         ]
-    },
-    "phone_number": "2157446728",
-    "provider_id": "390312",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2157446728", 
+    "provider_id": "390312", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "19124"
 }

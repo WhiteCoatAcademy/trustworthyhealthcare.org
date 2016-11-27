@@ -1,41 +1,49 @@
 {
-    "address": "1310 SOUTHERN AVENUE  SE",
-    "city": "WASHINGTON",
-    "county_name": "DISTRICT OF COLUMBIA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNITED MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1310 SOUTHERN AVENUE  SE", 
+    "city": "WASHINGTON", 
+    "county_name": "DISTRICT OF COLUMBIA", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNITED MEDICAL CENTER", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.983834,
-            38.834841
-        ],
+            -76.984698, 
+            38.834155
+        ], 
         "type": "Point"
-    },
-    "location_address": "1310 SOUTHERN AVENUE SE",
-    "location_city": "WASHINGTON",
-    "location_state": "DC",
-    "location_zip": "20032",
+    }, 
+    "location_address": "1310 SOUTHERN AVENUE SE", 
+    "location_city": "WASHINGTON", 
+    "location_state": "DC", 
+    "location_zip": "20032", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.greatersoutheast.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Specialty Hospitals of America",
+        "name": "Specialty Hospitals of America", 
         "websites": [
             "www.specialty-hospitals.com"
         ]
-    },
-    "phone_number": "2025746611",
-    "provider_id": "090008",
-    "raw_ratings": {},
-    "state": "DC",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2025746611", 
+    "provider_id": "090008", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "DC", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "20032"
 }

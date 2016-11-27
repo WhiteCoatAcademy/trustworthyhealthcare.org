@@ -1,41 +1,49 @@
 {
-    "address": "725 NORTH STREET",
-    "city": "PITTSFIELD",
-    "county_name": "BERKSHIRE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BERKSHIRE MEDICAL CENTER INC",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "725 NORTH STREET", 
+    "city": "PITTSFIELD", 
+    "county_name": "BERKSHIRE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BERKSHIRE MEDICAL CENTER INC", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.249004,
+            -73.249004, 
             42.458748
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "725 NORTH STREET",
-    "location_city": "PITTSFIELD",
-    "location_state": "MA",
-    "location_zip": "01201",
+    }, 
+    "location_address": "725 NORTH STREET", 
+    "location_city": "PITTSFIELD", 
+    "location_state": "MA", 
+    "location_zip": "01201", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.berkshirehealthsystems.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Berkshire Health System",
+        "name": "Berkshire Health System", 
         "websites": [
             "www.berkshirehealthsystems.com"
         ]
-    },
-    "phone_number": "4134472000",
-    "provider_id": "220046",
-    "raw_ratings": {},
-    "state": "MA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4134472000", 
+    "provider_id": "220046", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "01201"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "200 STONECREST BOULEVARD",
-    "city": "SMYRNA",
-    "county_name": "RUTHERFORD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TRISTAR STONECREST MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 STONECREST BOULEVARD", 
+    "city": "SMYRNA", 
+    "county_name": "RUTHERFORD", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TRISTAR STONECREST MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.562475,
-            35.976793
-        ],
+            -86.56376, 
+            35.973743
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 STONECREST BOULEVARD",
-    "location_city": "SMYRNA",
-    "location_state": "TN",
-    "location_zip": "37167",
+    }, 
+    "location_address": "200 STONECREST BOULEVARD", 
+    "location_city": "SMYRNA", 
+    "location_state": "TN", 
+    "location_zip": "37167", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stonecrestmedical.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "6157682000",
-    "provider_id": "440227",
-    "raw_ratings": {},
-    "state": "TN",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6157682000", 
+    "provider_id": "440227", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "37167"
 }

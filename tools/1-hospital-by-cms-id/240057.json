@@ -1,41 +1,49 @@
 {
-    "address": "800 EAST 28TH STREET",
-    "city": "MINNEAPOLIS",
-    "county_name": "HENNEPIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ABBOTT NORTHWESTERN HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "800 EAST 28TH STREET", 
+    "city": "MINNEAPOLIS", 
+    "county_name": "HENNEPIN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ABBOTT NORTHWESTERN HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.262646,
-            44.951948
-        ],
+            -93.262294, 
+            44.951953
+        ], 
         "type": "Point"
-    },
-    "location_address": "800 EAST 28TH STREET",
-    "location_city": "MINNEAPOLIS",
-    "location_state": "MN",
-    "location_zip": "55407",
+    }, 
+    "location_address": "800 EAST 28TH STREET", 
+    "location_city": "MINNEAPOLIS", 
+    "location_state": "MN", 
+    "location_zip": "55407", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.abbottnorthwestern.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Allina Hospitals & Clinics",
+        "name": "Allina Hospitals & Clinics", 
         "websites": [
             "www.allina.com"
         ]
-    },
-    "phone_number": "6128634509",
-    "provider_id": "240057",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6128634509", 
+    "provider_id": "240057", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "55407"
 }

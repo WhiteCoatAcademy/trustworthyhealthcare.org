@@ -1,41 +1,49 @@
 {
-    "address": "4321 FIR ST",
-    "city": "EAST CHICAGO",
-    "county_name": "LAKE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST CATHERINE HOSPITAL INC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4321 FIR ST", 
+    "city": "EAST CHICAGO", 
+    "county_name": "LAKE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST CATHERINE HOSPITAL INC", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.448546,
-            41.633793
-        ],
+            -87.448542, 
+            41.634064
+        ], 
         "type": "Point"
-    },
-    "location_address": "4321 FIR ST",
-    "location_city": "EAST CHICAGO",
-    "location_state": "IN",
-    "location_zip": "46312",
+    }, 
+    "location_address": "4321 FIR ST", 
+    "location_city": "EAST CHICAGO", 
+    "location_state": "IN", 
+    "location_zip": "46312", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.comhs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Healthcare System",
+        "name": "Community Healthcare System", 
         "websites": [
             "www.comhs.org"
         ]
-    },
-    "phone_number": "2193927004",
-    "provider_id": "150008",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2193927004", 
+    "provider_id": "150008", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "46312"
 }

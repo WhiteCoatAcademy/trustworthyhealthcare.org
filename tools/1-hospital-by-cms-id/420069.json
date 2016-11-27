@@ -1,39 +1,47 @@
 {
-    "address": "10 HOSPITAL ST BOX 550",
-    "city": "MANNING",
-    "county_name": "CLARENDON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CLARENDON MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "10 HOSPITAL ST BOX 550", 
+    "city": "MANNING", 
+    "county_name": "CLARENDON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CLARENDON MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.21197,
-            33.687869
-        ],
+            -80.213181, 
+            33.690103
+        ], 
         "type": "Point"
-    },
-    "location_address": "10 HOSPITAL ST BOX 550",
-    "location_city": "MANNING",
-    "location_state": "SC",
-    "location_zip": "29102",
+    }, 
+    "location_address": "10 HOSPITAL ST BOX 550", 
+    "location_city": "MANNING", 
+    "location_state": "SC", 
+    "location_zip": "29102", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.clarendonhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8034353386",
-    "provider_id": "420069",
-    "raw_ratings": {},
-    "state": "SC",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8034353386", 
+    "provider_id": "420069", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "SC", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "29102"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1600 HOSPITAL PARKWAY",
-    "city": "BEDFORD",
-    "county_name": "TARRANT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TEXAS HEALTH HARRIS METHODIST HURST-EULESS-BEDFORD",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1600 HOSPITAL PARKWAY", 
+    "city": "BEDFORD", 
+    "county_name": "TARRANT", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TEXAS HEALTH HARRIS METHODIST HURST-EULESS-BEDFORD", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.125242,
-            32.835348
-        ],
+            -97.125239, 
+            32.833229
+        ], 
         "type": "Point"
-    },
-    "location_address": "1600 HOSPITAL PARKWAY",
-    "location_city": "BEDFORD",
-    "location_state": "TX",
-    "location_zip": "76022",
+    }, 
+    "location_address": "1600 HOSPITAL PARKWAY", 
+    "location_city": "BEDFORD", 
+    "location_state": "TX", 
+    "location_zip": "76022", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.texashealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Texas Health Resources",
+        "name": "Texas Health Resources", 
         "websites": [
             "www.texashealth.org"
         ]
-    },
-    "phone_number": "8178484000",
-    "provider_id": "450639",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8178484000", 
+    "provider_id": "450639", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "76022"
 }

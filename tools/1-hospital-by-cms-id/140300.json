@@ -1,41 +1,53 @@
 {
-    "address": "500 E 51ST ST",
-    "city": "CHICAGO",
-    "county_name": "COOK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PROVIDENT HOSPITAL OF CHICAGO",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "500 E 51ST ST", 
+    "city": "CHICAGO", 
+    "county_name": "COOK", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PROVIDENT HOSPITAL OF CHICAGO", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.613526,
-            41.802153
-        ],
+            -87.614193, 
+            41.802158
+        ], 
         "type": "Point"
-    },
-    "location_address": "500 E 51ST ST",
-    "location_city": "CHICAGO",
-    "location_state": "IL",
-    "location_zip": "60615",
+    }, 
+    "location_address": "500 E 51ST ST", 
+    "location_city": "CHICAGO", 
+    "location_state": "IL", 
+    "location_zip": "60615", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ccbhs.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Cook County Bureau of Health Services",
+        "name": "Cook County Bureau of Health Services", 
         "websites": [
             "www.ccbhs.org"
         ]
-    },
-    "phone_number": "3125722000",
-    "provider_id": "140300",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "3125722000", 
+    "provider_id": "140300", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "60615"
 }

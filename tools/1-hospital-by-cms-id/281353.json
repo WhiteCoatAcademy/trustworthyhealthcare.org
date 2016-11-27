@@ -1,39 +1,51 @@
 {
-    "address": "2707 L STREET",
-    "city": "ORD",
-    "county_name": "VALLEY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "VALLEY COUNTY HEALTH SYSTEM",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "2707 L STREET", 
+    "city": "ORD", 
+    "county_name": "VALLEY", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "VALLEY COUNTY HEALTH SYSTEM", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -98.943024,
-            41.603189
-        ],
+            -98.942683, 
+            41.60318
+        ], 
         "type": "Point"
-    },
-    "location_address": "2707 L STREET",
-    "location_city": "ORD",
-    "location_state": "NE",
-    "location_zip": "68862",
+    }, 
+    "location_address": "2707 L STREET", 
+    "location_city": "ORD", 
+    "location_state": "NE", 
+    "location_zip": "68862", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.valleycountyhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3087284200",
-    "provider_id": "281353",
-    "raw_ratings": {},
-    "state": "NE",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "3087284200", 
+    "provider_id": "281353", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NE", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "68862"
 }

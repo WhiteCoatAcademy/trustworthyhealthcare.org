@@ -1,41 +1,49 @@
 {
-    "address": "4343 NORTH JOSEY LANE",
-    "city": "CARROLLTON",
-    "county_name": "DENTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BAYLOR MEDICAL CENTER AT CARROLLTON",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4343 NORTH JOSEY LANE", 
+    "city": "CARROLLTON", 
+    "county_name": "DENTON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "BAYLOR SCOTT AND WHITE MEDICAL CENTER CARROLLTON", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.884763,
-            33.027442
-        ],
+            -96.883557, 
+            33.029579
+        ], 
         "type": "Point"
-    },
-    "location_address": "4343 NORTH JOSEY LANE",
-    "location_city": "CARROLLTON",
-    "location_state": "TX",
-    "location_zip": "75010",
+    }, 
+    "location_address": "4343 NORTH JOSEY LANE", 
+    "location_city": "CARROLLTON", 
+    "location_state": "TX", 
+    "location_zip": "75010", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.trinitymedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Hospital Partners of America",
+        "name": "Hospital Partners of America", 
         "websites": [
             "www.hospitalpartners.com"
         ]
-    },
-    "phone_number": "9724921010",
-    "provider_id": "450730",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9723942255", 
+    "provider_id": "450730", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75010"
 }

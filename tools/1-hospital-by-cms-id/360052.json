@@ -1,41 +1,49 @@
 {
-    "address": "2222 PHILADELPHIA DRIVE",
-    "city": "DAYTON",
-    "county_name": "MONTGOMERY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GOOD SAMARITAN HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2222 PHILADELPHIA DRIVE", 
+    "city": "DAYTON", 
+    "county_name": "MONTGOMERY", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GOOD SAMARITAN HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.234956,
-            39.787958
-        ],
+            -84.234967, 
+            39.788206
+        ], 
         "type": "Point"
-    },
-    "location_address": "2222 PHILADELPHIA DRIVE",
-    "location_city": "DAYTON",
-    "location_state": "OH",
-    "location_zip": "45406",
+    }, 
+    "location_address": "2222 PHILADELPHIA DRIVE", 
+    "location_city": "DAYTON", 
+    "location_state": "OH", 
+    "location_zip": "45406", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.goodsamdayton.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Premier Health Partners",
+        "name": "Premier Health Partners", 
         "websites": [
             "www.premierhealthpartners.com"
         ]
-    },
-    "phone_number": "9372782612",
-    "provider_id": "360052",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9372782612", 
+    "provider_id": "360052", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "45406"
 }

@@ -1,41 +1,52 @@
 {
-    "address": "5848 SOUTH 300 EAST",
-    "city": "MURRAY",
-    "county_name": "SALT LAKE",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "THE ORTHOPEDIC SPECIALTY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5848 SOUTH 300 EAST", 
+    "city": "MURRAY", 
+    "county_name": "SALT LAKE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "THE ORTHOPEDIC SPECIALTY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -111.898369,
+            -111.898369, 
             40.644021
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "5848 SOUTH 300 EAST",
-    "location_city": "MURRAY",
-    "location_state": "UT",
-    "location_zip": "84107",
+    }, 
+    "location_address": "5848 SOUTH 300 EAST", 
+    "location_city": "MURRAY", 
+    "location_state": "UT", 
+    "location_zip": "84107", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Intermountain Health Care, Inc",
+        "name": "Intermountain Health Care, Inc", 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "phone_number": "8013144100",
-    "provider_id": "460049",
-    "raw_ratings": {},
-    "state": "UT",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8013144100", 
+    "provider_id": "460049", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "UT", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "84107"
 }

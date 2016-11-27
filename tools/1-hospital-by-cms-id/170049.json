@@ -1,41 +1,49 @@
 {
-    "address": "20333 WEST 151ST STREET",
-    "city": "OLATHE",
-    "county_name": "JOHNSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OLATHE MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "20333 WEST 151ST STREET", 
+    "city": "OLATHE", 
+    "county_name": "JOHNSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OLATHE MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.823673,
+            -94.823673, 
             38.854524
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "20333 WEST 151ST STREET",
-    "location_city": "OLATHE",
-    "location_state": "KS",
-    "location_zip": "66061",
+    }, 
+    "location_address": "20333 WEST 151ST STREET", 
+    "location_city": "OLATHE", 
+    "location_state": "KS", 
+    "location_zip": "66061", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ohsi.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Olathe Health System, Inc.",
+        "name": "Olathe Health System, Inc.", 
         "websites": [
             "www.omci.com"
         ]
-    },
-    "phone_number": "9137914200",
-    "provider_id": "170049",
-    "raw_ratings": {},
-    "state": "KS",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9137914200", 
+    "provider_id": "170049", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "KS", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "66061"
 }

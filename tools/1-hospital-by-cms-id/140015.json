@@ -1,41 +1,49 @@
 {
-    "address": "BROADWAY AT 11TH STREET",
-    "city": "QUINCY",
-    "county_name": "ADAMS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BLESSING HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "BROADWAY AT 11TH STREET", 
+    "city": "QUINCY", 
+    "county_name": "ADAMS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BLESSING HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -91.39833,
+            -91.39833, 
             39.935624
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "BROADWAY AT 11TH STREET",
-    "location_city": "QUINCY",
-    "location_state": "IL",
-    "location_zip": "62301",
+    }, 
+    "location_address": "BROADWAY AT 11TH STREET", 
+    "location_city": "QUINCY", 
+    "location_state": "IL", 
+    "location_zip": "62301", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.blessinghospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Blessing Corporate Services, Inc.",
+        "name": "Blessing Corporate Services, Inc.", 
         "websites": [
             "www.blessinghospital.org"
         ]
-    },
-    "phone_number": "2172235811",
-    "provider_id": "140015",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2172235811", 
+    "provider_id": "140015", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "62301"
 }

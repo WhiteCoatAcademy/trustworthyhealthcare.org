@@ -1,39 +1,47 @@
 {
-    "address": "1850 STATE ST",
-    "city": "NEW ALBANY",
-    "county_name": "FLOYD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FLOYD MEMORIAL HOSPITAL AND HEALTH SERVICES",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1850 STATE ST", 
+    "city": "NEW ALBANY", 
+    "county_name": "FLOYD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FLOYD MEMORIAL HOSPITAL AND HEALTH SERVICES", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.834777,
-            38.300212
-        ],
+            -85.83508, 
+            38.300506
+        ], 
         "type": "Point"
-    },
-    "location_address": "1850 STATE ST",
-    "location_city": "NEW ALBANY",
-    "location_state": "IN",
-    "location_zip": "47150",
+    }, 
+    "location_address": "1850 STATE ST", 
+    "location_city": "NEW ALBANY", 
+    "location_state": "IN", 
+    "location_zip": "47150", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.floydmemorial.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8129495500",
-    "provider_id": "150044",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8129495500", 
+    "provider_id": "150044", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "47150"
 }

@@ -1,41 +1,50 @@
 {
-    "address": "35 MILES STREET",
-    "city": "DAMARISCOTTA",
-    "county_name": "LINCOLN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST ANDREWS HOSPITAL (LINCOLN COUNTY HEALTHCARE)",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "35 MILES STREET", 
+    "city": "DAMARISCOTTA", 
+    "county_name": "LINCOLN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST ANDREWS HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -69.528109,
-            44.026133
-        ],
+            -69.527164, 
+            44.026199
+        ], 
         "type": "Point"
-    },
-    "location_address": "35 MILES STREET",
-    "location_city": "DAMARISCOTTA",
-    "location_state": "ME",
-    "location_zip": "04543",
+    }, 
+    "location_address": "35 MILES STREET", 
+    "location_city": "DAMARISCOTTA", 
+    "location_state": "ME", 
+    "location_zip": "04543", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.standrewshealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "MaineHealth",
+        "name": "MaineHealth", 
         "websites": [
             "www.mainehealth.org"
         ]
-    },
-    "phone_number": "2075631234",
-    "provider_id": "201302",
-    "raw_ratings": {},
-    "state": "ME",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2075631234", 
+    "provider_id": "201302", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "ME", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "04543"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "727 N BEERS ST",
-    "city": "HOLMDEL",
-    "county_name": "MONMOUTH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BAYSHORE COMMUNITY HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "727 N BEERS ST", 
+    "city": "HOLMDEL", 
+    "county_name": "MONMOUTH", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BAYSHORE COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.19418,
-            40.405264
-        ],
+            -74.193354, 
+            40.404203
+        ], 
         "type": "Point"
-    },
-    "location_address": "727 N BEERS ST",
-    "location_city": "HOLMDEL",
-    "location_state": "NJ",
-    "location_zip": "07733",
+    }, 
+    "location_address": "727 N BEERS ST", 
+    "location_city": "HOLMDEL", 
+    "location_state": "NJ", 
+    "location_zip": "07733", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bchs.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Robert Wood Johnson Health Network",
+        "name": "Robert Wood Johnson Health Network", 
         "websites": [
             "www.rwjhn.org"
         ]
-    },
-    "phone_number": "7327395900",
-    "provider_id": "310112",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7327395900", 
+    "provider_id": "310112", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "07733"
 }

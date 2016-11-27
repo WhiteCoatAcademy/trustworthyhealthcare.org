@@ -1,41 +1,49 @@
 {
-    "address": "600 HOSPITAL DR",
-    "city": "MONROE",
-    "county_name": "UNION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CAROLINAS HEALTHCARE SYSTEM UNION",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "600 HOSPITAL DR", 
+    "city": "MONROE", 
+    "county_name": "UNION", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CAROLINAS HEALTHCARE SYSTEM UNION", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.522794,
-            34.975129
-        ],
+            -80.522853, 
+            34.975111
+        ], 
         "type": "Point"
-    },
-    "location_address": "600 HOSPITAL DR",
-    "location_city": "MONROE",
-    "location_state": "NC",
-    "location_zip": "28110",
+    }, 
+    "location_address": "600 HOSPITAL DR", 
+    "location_city": "MONROE", 
+    "location_state": "NC", 
+    "location_zip": "28110", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.unionregional.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Carolinas HealthCare System",
+        "name": "Carolinas HealthCare System", 
         "websites": [
             "www.carolinas.org"
         ]
-    },
-    "phone_number": "7042833100",
-    "provider_id": "340130",
-    "raw_ratings": {},
-    "state": "NC",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7042833100", 
+    "provider_id": "340130", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NC", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "28110"
 }

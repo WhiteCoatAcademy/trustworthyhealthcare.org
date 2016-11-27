@@ -1,41 +1,51 @@
 {
-    "address": "901 GRANT STREET",
-    "city": "HARVARD",
-    "county_name": "MCHENRY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY HARVARD HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "901 GRANT STREET", 
+    "city": "HARVARD", 
+    "county_name": "MCHENRY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY HARVARD HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -88.60775,
-            42.426008
-        ],
+            -88.607748, 
+            42.425992
+        ], 
         "type": "Point"
-    },
-    "location_address": "901 GRANT STREET",
-    "location_city": "HARVARD",
-    "location_state": "IL",
-    "location_zip": "60033",
+    }, 
+    "location_address": "901 GRANT STREET", 
+    "location_city": "HARVARD", 
+    "location_state": "IL", 
+    "location_zip": "60033", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mercyhealthsystem.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Mercy Health System",
+        "name": "Mercy Health System", 
         "websites": [
             "www.mercyhealthsystem.org"
         ]
-    },
-    "phone_number": "8159435431",
-    "provider_id": "141335",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "8159435431", 
+    "provider_id": "141335", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "60033"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "401 9TH AVENUE NW  POST OFFICE BOX 1210",
-    "city": "WATERTOWN",
-    "county_name": "CODINGTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PRAIRIE LAKES HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "401 9TH AVENUE NW  POST OFFICE BOX 1210", 
+    "city": "WATERTOWN", 
+    "county_name": "CODINGTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PRAIRIE LAKES HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.120996,
-            44.910677
-        ],
+            -97.120867, 
+            44.910825
+        ], 
         "type": "Point"
-    },
-    "location_address": "401 9TH AVENUE NW POST OFFICE BOX 1210",
-    "location_city": "WATERTOWN",
-    "location_state": "SD",
-    "location_zip": "57201",
+    }, 
+    "location_address": "401 9TH AVENUE NW POST OFFICE BOX 1210", 
+    "location_city": "WATERTOWN", 
+    "location_state": "SD", 
+    "location_zip": "57201", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.prairielakes.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6058827000",
-    "provider_id": "430005",
-    "raw_ratings": {},
-    "state": "SD",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6058827000", 
+    "provider_id": "430005", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "SD", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "57201"
 }

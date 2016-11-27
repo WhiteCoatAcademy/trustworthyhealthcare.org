@@ -1,39 +1,47 @@
 {
-    "address": "55 HOSPITAL DRIVE",
-    "city": "ATHENS",
-    "county_name": "ATHENS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OHIOHEALTH O'BLENESS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "55 HOSPITAL DRIVE", 
+    "city": "ATHENS", 
+    "county_name": "ATHENS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OHIOHEALTH O'BLENESS HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.114153,
-            39.327733
-        ],
+            -82.114189, 
+            39.327741
+        ], 
         "type": "Point"
-    },
-    "location_address": "55 HOSPITAL DRIVE",
-    "location_city": "ATHENS",
-    "location_state": "OH",
-    "location_zip": "45701",
+    }, 
+    "location_address": "55 HOSPITAL DRIVE", 
+    "location_city": "ATHENS", 
+    "location_state": "OH", 
+    "location_zip": "45701", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.obleness.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7405929233",
-    "provider_id": "360014",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7405929233", 
+    "provider_id": "360014", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "45701"
 }

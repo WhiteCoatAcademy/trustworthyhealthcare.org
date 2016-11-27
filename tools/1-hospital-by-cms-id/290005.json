@@ -1,41 +1,50 @@
 {
-    "address": "1409 EAST LAKE MEAD BLVD",
-    "city": "NORTH LAS VEGAS",
-    "county_name": "CLARK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTH VISTA HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1409 EAST LAKE MEAD BLVD", 
+    "city": "NORTH LAS VEGAS", 
+    "county_name": "CLARK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTH VISTA HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -115.122865,
-            36.19574
-        ],
+            -115.122986, 
+            36.195739
+        ], 
         "type": "Point"
-    },
-    "location_address": "1409 EAST LAKE MEAD BLVD",
-    "location_city": "NORTH LAS VEGAS",
-    "location_state": "NV",
-    "location_zip": "89030",
+    }, 
+    "location_address": "1409 EAST LAKE MEAD BLVD", 
+    "location_city": "NORTH LAS VEGAS", 
+    "location_state": "NV", 
+    "location_zip": "89030", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.northvistahospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "IASIS Healthcare",
+        "name": "IASIS Healthcare", 
         "websites": [
             "www.iasishealthcare.com"
         ]
-    },
-    "phone_number": "7026575504",
-    "provider_id": "290005",
-    "raw_ratings": {},
-    "state": "NV",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7026575504", 
+    "provider_id": "290005", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NV", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "89030"
 }

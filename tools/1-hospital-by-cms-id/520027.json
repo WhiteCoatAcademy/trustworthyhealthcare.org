@@ -1,41 +1,49 @@
 {
-    "address": "13111 N PORT WASHINGTON RD",
-    "city": "MEQUON",
-    "county_name": "OZAUKEE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COLUMBIA ST MARYS HOSPITAL OZAUKEE",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "13111 N PORT WASHINGTON RD", 
+    "city": "MEQUON", 
+    "county_name": "OZAUKEE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COLUMBIA ST MARYS HOSPITAL OZAUKEE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.924149,
-            43.25606
-        ],
+            -87.92415, 
+            43.25618
+        ], 
         "type": "Point"
-    },
-    "location_address": "13111 N PORT WASHINGTON RD",
-    "location_city": "MEQUON",
-    "location_state": "WI",
-    "location_zip": "53097",
+    }, 
+    "location_address": "13111 N PORT WASHINGTON RD", 
+    "location_city": "MEQUON", 
+    "location_state": "WI", 
+    "location_zip": "53097", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.columbia-stmarys.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ascension Health",
+        "name": "Ascension Health", 
         "websites": [
             "www.ascensionhealth.org"
         ]
-    },
-    "phone_number": "2622437300",
-    "provider_id": "520027",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2622437300", 
+    "provider_id": "520027", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "53097"
 }

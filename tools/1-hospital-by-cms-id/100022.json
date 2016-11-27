@@ -1,41 +1,49 @@
 {
-    "address": "1611 NW 12TH AVE",
-    "city": "MIAMI",
-    "county_name": "MIAMI-DADE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JACKSON MEMORIAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1611 NW 12TH AVE", 
+    "city": "MIAMI", 
+    "county_name": "MIAMI-DADE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JACKSON MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -80.214945,
+            -80.214945, 
             25.790612
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1611 NW 12TH AVE",
-    "location_city": "MIAMI",
-    "location_state": "FL",
-    "location_zip": "33136",
+    }, 
+    "location_address": "1611 NW 12TH AVE", 
+    "location_city": "MIAMI", 
+    "location_state": "FL", 
+    "location_zip": "33136", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.jhsmiami.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Jackson Health System",
+        "name": "Jackson Health System", 
         "websites": [
             "www.jhsmiami.org"
         ]
-    },
-    "phone_number": "3055851111",
-    "provider_id": "100022",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3055851111", 
+    "provider_id": "100022", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "33136"
 }

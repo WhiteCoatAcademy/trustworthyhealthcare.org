@@ -1,39 +1,47 @@
 {
-    "address": "4050 WEST MEMORIAL ROAD",
-    "city": "OKLAHOMA CITY",
-    "county_name": "OKLAHOMA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OKLAHOMA HEART HOSPITAL",
-    "hospital_ownership": "Physician",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4050 WEST MEMORIAL ROAD", 
+    "city": "OKLAHOMA CITY", 
+    "county_name": "OKLAHOMA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OKLAHOMA HEART HOSPITAL, LLC", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Physician", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.596027,
-            35.609037
-        ],
+            -97.596201, 
+            35.609035
+        ], 
         "type": "Point"
-    },
-    "location_address": "4050 WEST MEMORIAL ROAD",
-    "location_city": "OKLAHOMA CITY",
-    "location_state": "OK",
-    "location_zip": "73120",
+    }, 
+    "location_address": "4050 WEST MEMORIAL ROAD", 
+    "location_city": "OKLAHOMA CITY", 
+    "location_state": "OK", 
+    "location_zip": "73120", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.okheart.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4056083200",
-    "provider_id": "370215",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4056083200", 
+    "provider_id": "370215", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "73120"
 }

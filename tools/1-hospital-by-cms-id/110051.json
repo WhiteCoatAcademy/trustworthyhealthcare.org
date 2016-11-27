@@ -1,39 +1,47 @@
 {
-    "address": "35 HOSPITAL ROAD",
-    "city": "BLAIRSVILLE",
-    "county_name": "UNION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNION GENERAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "35 HOSPITAL ROAD", 
+    "city": "BLAIRSVILLE", 
+    "county_name": "UNION", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNION GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.962676,
-            34.886699
-        ],
+            -83.963026, 
+            34.884842
+        ], 
         "type": "Point"
-    },
-    "location_address": "35 HOSPITAL ROAD",
-    "location_city": "BLAIRSVILLE",
-    "location_state": "GA",
-    "location_zip": "30512",
+    }, 
+    "location_address": "35 HOSPITAL ROAD", 
+    "location_city": "BLAIRSVILLE", 
+    "location_state": "GA", 
+    "location_zip": "30512", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.uniongeneralhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7067452111",
-    "provider_id": "110051",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7067452111", 
+    "provider_id": "110051", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "30512"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1800 UNIVERSITY BOULEVARD",
-    "city": "DURANT",
-    "county_name": "BRYAN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ALLIANCEHEALTH DURANT",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1800 UNIVERSITY BOULEVARD", 
+    "city": "DURANT", 
+    "county_name": "BRYAN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ALLIANCEHEALTH DURANT", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.39518,
-            34.004904
-        ],
+            -96.395055, 
+            34.004903
+        ], 
         "type": "Point"
-    },
-    "location_address": "1800 UNIVERSITY BOULEVARD",
-    "location_city": "DURANT",
-    "location_state": "OK",
-    "location_zip": "74702",
+    }, 
+    "location_address": "1800 UNIVERSITY BOULEVARD", 
+    "location_city": "DURANT", 
+    "location_state": "OK", 
+    "location_zip": "74702", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mcsohealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Health Management Associates, Inc.",
+        "name": "Health Management Associates, Inc.", 
         "websites": [
             "www.hma.com"
         ]
-    },
-    "phone_number": "4059243080",
-    "provider_id": "370014",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4059243080", 
+    "provider_id": "370014", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "74702"
 }

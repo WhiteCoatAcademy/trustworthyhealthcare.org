@@ -1,41 +1,49 @@
 {
-    "address": "23900 KATY FREEWAY",
-    "city": "KATY",
-    "county_name": "HARRIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEMORIAL HERMANN KATY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "23900 KATY FREEWAY", 
+    "city": "KATY", 
+    "county_name": "HARRIS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEMORIAL HERMANN KATY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.785657,
+            -95.785344, 
             29.785918
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "23900 KATY FREEWAY",
-    "location_city": "KATY",
-    "location_state": "TX",
-    "location_zip": "77494",
+    }, 
+    "location_address": "23900 KATY FREEWAY", 
+    "location_city": "KATY", 
+    "location_state": "TX", 
+    "location_zip": "77494", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.memorialhermann.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Memorial Hermann",
+        "name": "Memorial Hermann", 
         "websites": [
             "www.memorialhermann.org"
         ]
-    },
-    "phone_number": "2813921111",
-    "provider_id": "450847",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2813921111", 
+    "provider_id": "450847", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "77494"
 }

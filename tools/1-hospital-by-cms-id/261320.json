@@ -1,41 +1,51 @@
 {
-    "address": "1500 STATE STREET",
-    "city": "LEXINGTON",
-    "county_name": "LAFAYETTE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LAFAYETTE REGIONAL HEALTH CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1500 STATE STREET", 
+    "city": "LEXINGTON", 
+    "county_name": "LAFAYETTE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LAFAYETTE REGIONAL HEALTH CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -93.876596,
-            39.189134
-        ],
+            -93.877065, 
+            39.189146
+        ], 
         "type": "Point"
-    },
-    "location_address": "1500 STATE STREET",
-    "location_city": "LEXINGTON",
-    "location_state": "MO",
-    "location_zip": "64067",
+    }, 
+    "location_address": "1500 STATE STREET", 
+    "location_city": "LEXINGTON", 
+    "location_state": "MO", 
+    "location_zip": "64067", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lafayetteregionalhealthcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "6602592203",
-    "provider_id": "261320",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6602592203", 
+    "provider_id": "261320", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "64067"
 }

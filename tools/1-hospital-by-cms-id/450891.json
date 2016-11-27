@@ -1,39 +1,50 @@
 {
-    "address": "6020 W PARKER ROAD",
-    "city": "PLANO",
-    "county_name": "COLLIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TEXAS HEALTH CENTER FOR DIAGNOSTICS & SURGERY PLAN",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6020 W PARKER ROAD", 
+    "city": "PLANO", 
+    "county_name": "COLLIN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TEXAS HEALTH CENTER FOR DIAGNOSTICS & SURGERY PLAN", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.831869,
-            33.045097
-        ],
+            -96.832243, 
+            33.045103
+        ], 
         "type": "Point"
-    },
-    "location_address": "6020 W PARKER ROAD",
-    "location_city": "PLANO",
-    "location_state": "TX",
-    "location_zip": "75093",
+    }, 
+    "location_address": "6020 W PARKER ROAD", 
+    "location_city": "PLANO", 
+    "location_state": "TX", 
+    "location_zip": "75093", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ppcds.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9724032700",
-    "provider_id": "450891",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9724032700", 
+    "provider_id": "450891", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "75093"
 }

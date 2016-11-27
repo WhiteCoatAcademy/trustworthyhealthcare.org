@@ -1,40 +1,52 @@
 {
-    "address": "1301 GRUNDMAN BLVD",
-    "city": "NEBRASKA CITY",
-    "county_name": "OTOE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHI HEALTH ST MARY'S",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1301 GRUNDMAN BLVD", 
+    "city": "NEBRASKA CITY", 
+    "county_name": "OTOE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHI HEALTH ST MARY'S", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"1314 3RD AVE\",\"city\":\"NEBRASKA CITY\",\"state\":\"NE\",\"zip\":\"\"}",
-        "latitude": "40.67952943000006",
-        "longitude": "-95.86160543599999",
-        "needs_recoding": false
-    },
-    "location_address": "1301 GRUNDMAN BLVD",
-    "location_city": "NEBRASKA CITY",
-    "location_state": "NE",
-    "location_zip": "68410",
+        "coordinates": [
+            -95.862109, 
+            40.658152
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "1301 GRUNDMAN BLVD", 
+    "location_city": "NEBRASKA CITY", 
+    "location_state": "NE", 
+    "location_zip": "68410", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stmaryshospitalnecity.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Health Initiatives",
+        "name": "Catholic Health Initiatives", 
         "websites": [
             "www.catholichealthinit.org"
         ]
-    },
-    "phone_number": "4028733321",
-    "provider_id": "281342",
-    "raw_ratings": {},
-    "state": "NE",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "4028733321", 
+    "provider_id": "281342", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "NE", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "68410"
 }

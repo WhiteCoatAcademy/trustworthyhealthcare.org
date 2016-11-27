@@ -1,41 +1,49 @@
 {
-    "address": "305 LANGDON STREET",
-    "city": "SOMERSET",
-    "county_name": "PULASKI",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LAKE CUMBERLAND REGIONAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "305 LANGDON STREET", 
+    "city": "SOMERSET", 
+    "county_name": "PULASKI", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LAKE CUMBERLAND REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.617298,
-            37.086395
-        ],
+            -84.617956, 
+            37.086576
+        ], 
         "type": "Point"
-    },
-    "location_address": "305 LANGDON STREET",
-    "location_city": "SOMERSET",
-    "location_state": "KY",
-    "location_zip": "42502",
+    }, 
+    "location_address": "305 LANGDON STREET", 
+    "location_city": "SOMERSET", 
+    "location_state": "KY", 
+    "location_zip": "42502", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lakecumberlandhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "6066797441",
-    "provider_id": "180132",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6066797441", 
+    "provider_id": "180132", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "42502"
 }

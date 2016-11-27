@@ -1,41 +1,49 @@
 {
-    "address": "601 E 15TH STREET",
-    "city": "AUSTIN",
-    "county_name": "TRAVIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY MEDICAL CENTER AT BRACKENRIDGE",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "601 E 15TH STREET", 
+    "city": "AUSTIN", 
+    "county_name": "TRAVIS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY MEDICAL CENTER AT BRACKENRIDGE", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.732749,
-            30.274993
-        ],
+            -97.732977, 
+            30.275055
+        ], 
         "type": "Point"
-    },
-    "location_address": "601 E 15TH STREET",
-    "location_city": "AUSTIN",
-    "location_state": "TX",
-    "location_zip": "78701",
+    }, 
+    "location_address": "601 E 15TH STREET", 
+    "location_city": "AUSTIN", 
+    "location_state": "TX", 
+    "location_zip": "78701", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.seton.net"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ascension Health",
+        "name": "Ascension Health", 
         "websites": [
             "www.ascensionhealth.org"
         ]
-    },
-    "phone_number": "5123247000",
-    "provider_id": "450124",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5123247000", 
+    "provider_id": "450124", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "78701"
 }

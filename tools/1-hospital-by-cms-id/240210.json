@@ -1,41 +1,49 @@
 {
-    "address": "1575 BEAM AVENUE",
-    "city": "MAPLEWOOD",
-    "county_name": "RAMSEY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HEALTHEAST ST JOHN'S HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1575 BEAM AVENUE", 
+    "city": "MAPLEWOOD", 
+    "county_name": "RAMSEY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HEALTHEAST ST JOHN'S HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.033544,
+            -93.033508, 
             45.028131
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1575 BEAM AVENUE",
-    "location_city": "MAPLEWOOD",
-    "location_state": "MN",
-    "location_zip": "55109",
+    }, 
+    "location_address": "1575 BEAM AVENUE", 
+    "location_city": "MAPLEWOOD", 
+    "location_state": "MN", 
+    "location_zip": "55109", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stjohnshospital-mn.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HealthEast Care System",
+        "name": "HealthEast Care System", 
         "websites": [
             "www.healtheast.org"
         ]
-    },
-    "phone_number": "6512327000",
-    "provider_id": "240210",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6512327000", 
+    "provider_id": "240210", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "55109"
 }

@@ -1,41 +1,51 @@
 {
-    "address": "2000 CAMPBELL DRIVE",
-    "city": "TORRINGTON",
-    "county_name": "GOSHEN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "2000 CAMPBELL DRIVE", 
+    "city": "TORRINGTON", 
+    "county_name": "GOSHEN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -104.191509,
-            42.081734
-        ],
+            -104.191509, 
+            42.081765
+        ], 
         "type": "Point"
-    },
-    "location_address": "2000 CAMPBELL DRIVE",
-    "location_city": "TORRINGTON",
-    "location_state": "WY",
-    "location_zip": "82240",
+    }, 
+    "location_address": "2000 CAMPBELL DRIVE", 
+    "location_city": "TORRINGTON", 
+    "location_state": "WY", 
+    "location_zip": "82240", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bannerhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Banner Health",
+        "name": "Banner Health", 
         "websites": [
             "www.bannerhealth.com"
         ]
-    },
-    "phone_number": "3075324181",
-    "provider_id": "531307",
-    "raw_ratings": {},
-    "state": "WY",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3075324181", 
+    "provider_id": "531307", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WY", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "82240"
 }

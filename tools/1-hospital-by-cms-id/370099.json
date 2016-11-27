@@ -1,39 +1,48 @@
 {
-    "address": "1027 EAST CHERRY STREET",
-    "city": "CUSHING",
-    "county_name": "PAYNE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HILLCREST HOSPITAL CUSHING",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1027 EAST CHERRY STREET", 
+    "city": "CUSHING", 
+    "county_name": "PAYNE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HILLCREST HOSPITAL CUSHING", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.757446,
-            35.978942
-        ],
+            -96.758038, 
+            35.978937
+        ], 
         "type": "Point"
-    },
-    "location_address": "1027 EAST CHERRY STREET",
-    "location_city": "CUSHING",
-    "location_state": "OK",
-    "location_zip": "74023",
+    }, 
+    "location_address": "1027 EAST CHERRY STREET", 
+    "location_city": "CUSHING", 
+    "location_state": "OK", 
+    "location_zip": "74023", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": []
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ardent Health Services",
+        "name": "Ardent Health Services", 
         "websites": [
             "www.ardenthealth.com"
         ]
-    },
-    "phone_number": "9182252915",
-    "provider_id": "370099",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9182252915", 
+    "provider_id": "370099", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "74023"
 }

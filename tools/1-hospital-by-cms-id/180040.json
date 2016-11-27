@@ -1,41 +1,49 @@
 {
-    "address": "200 ABRAHAM FLEXNER WAY",
-    "city": "LOUISVILLE",
-    "county_name": "JEFFERSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JEWISH HOSPITAL & ST MARY'S HEALTHCARE",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 ABRAHAM FLEXNER WAY", 
+    "city": "LOUISVILLE", 
+    "county_name": "JEFFERSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JEWISH HOSPITAL & ST MARY'S HEALTHCARE", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.750763,
-            38.249283
-        ],
+            -85.750823, 
+            38.24929
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 ABRAHAM FLEXNER WAY",
-    "location_city": "LOUISVILLE",
-    "location_state": "KY",
-    "location_zip": "40202",
+    }, 
+    "location_address": "200 ABRAHAM FLEXNER WAY", 
+    "location_city": "LOUISVILLE", 
+    "location_state": "KY", 
+    "location_zip": "40202", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.jewishhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Jewish Hospital and Saint Mary's Healthcare",
+        "name": "Jewish Hospital and Saint Mary's Healthcare", 
         "websites": [
             "www.jewishhospital.org"
         ]
-    },
-    "phone_number": "5025874011",
-    "provider_id": "180040",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5025874011", 
+    "provider_id": "180040", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "40202"
 }

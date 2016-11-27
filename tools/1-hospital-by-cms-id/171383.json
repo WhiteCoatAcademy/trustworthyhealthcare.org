@@ -1,39 +1,48 @@
 {
-    "address": "1300 EAST FIFTH AVENUE",
-    "city": "WINFIELD",
-    "county_name": "COWLEY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WILLIAM NEWTON HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1300 EAST FIFTH AVENUE", 
+    "city": "WINFIELD", 
+    "county_name": "COWLEY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WILLIAM NEWTON HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -96.981905,
-            37.244659
-        ],
+            -96.981972, 
+            37.244658
+        ], 
         "type": "Point"
-    },
-    "location_address": "1300 EAST FIFTH AVENUE",
-    "location_city": "WINFIELD",
-    "location_state": "KS",
-    "location_zip": "67156",
+    }, 
+    "location_address": "1300 EAST FIFTH AVENUE", 
+    "location_city": "WINFIELD", 
+    "location_state": "KS", 
+    "location_zip": "67156", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wnmh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6202212300",
-    "provider_id": "171383",
-    "raw_ratings": {},
-    "state": "KS",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6202212300", 
+    "provider_id": "171383", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "KS", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "67156"
 }

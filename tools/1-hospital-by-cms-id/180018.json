@@ -1,39 +1,47 @@
 {
-    "address": "222 MEDICAL CIRCLE",
-    "city": "MOREHEAD",
-    "county_name": "ROWAN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST CLAIRE REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Federal",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "222 MEDICAL CIRCLE", 
+    "city": "MOREHEAD", 
+    "county_name": "ROWAN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST CLAIRE REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Federal", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -83.442358,
-            38.179944
-        ],
+            -83.44243, 
+            38.180032
+        ], 
         "type": "Point"
-    },
-    "location_address": "222 MEDICAL CIRCLE",
-    "location_city": "MOREHEAD",
-    "location_state": "KY",
-    "location_zip": "40351",
+    }, 
+    "location_address": "222 MEDICAL CIRCLE", 
+    "location_city": "MOREHEAD", 
+    "location_state": "KY", 
+    "location_zip": "40351", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.st-claire.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6067836500",
-    "provider_id": "180018",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6067836503", 
+    "provider_id": "180018", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "40351"
 }

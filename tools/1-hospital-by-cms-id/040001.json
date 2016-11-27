@@ -1,39 +1,48 @@
 {
-    "address": "603 NORTH PROGRESS AVENUE",
-    "city": "SILOAM SPRINGS",
-    "county_name": "BENTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SILOAM SPRINGS REGIONAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "603 NORTH PROGRESS AVENUE", 
+    "city": "SILOAM SPRINGS", 
+    "county_name": "BENTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SILOAM SPRINGS REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -94.510476,
-            36.188656
-        ],
+            -94.509658, 
+            36.190377
+        ], 
         "type": "Point"
-    },
-    "location_address": "603 NORTH PROGRESS AVENUE",
-    "location_city": "SILOAM SPRINGS",
-    "location_state": "AR",
-    "location_zip": "72761",
+    }, 
+    "location_address": "603 NORTH PROGRESS AVENUE", 
+    "location_city": "SILOAM SPRINGS", 
+    "location_state": "AR", 
+    "location_zip": "72761", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ssmh.us"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4795244141",
-    "provider_id": "040001",
-    "raw_ratings": {},
-    "state": "AR",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "4795244141", 
+    "provider_id": "040001", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "AR", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "72761"
 }

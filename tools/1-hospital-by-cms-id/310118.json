@@ -1,41 +1,50 @@
 {
-    "address": "55 MEADOWLANDS PKWY",
-    "city": "SECAUCUS",
-    "county_name": "HUDSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEADOWLANDS HOSPITAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "55 MEADOWLANDS PKWY", 
+    "city": "SECAUCUS", 
+    "county_name": "HUDSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEADOWLANDS HOSPITAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -74.072165,
-            40.791736
-        ],
+            -74.07211, 
+            40.791793
+        ], 
         "type": "Point"
-    },
-    "location_address": "55 MEADOWLANDS PKWY",
-    "location_city": "SECAUCUS",
-    "location_state": "NJ",
-    "location_zip": "07094",
+    }, 
+    "location_address": "55 MEADOWLANDS PKWY", 
+    "location_city": "SECAUCUS", 
+    "location_state": "NJ", 
+    "location_zip": "07094", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.libertyhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LibertyHealth",
+        "name": "LibertyHealth", 
         "websites": [
             "www.libertyhealth.org"
         ]
-    },
-    "phone_number": "2013923200",
-    "provider_id": "310118",
-    "raw_ratings": {},
-    "state": "NJ",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2013923200", 
+    "provider_id": "310118", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NJ", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "07094"
 }

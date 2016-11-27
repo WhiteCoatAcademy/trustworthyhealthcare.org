@@ -1,40 +1,50 @@
 {
-    "address": "1324 FIFTH NORTH STREET",
-    "city": "NEW ULM",
-    "county_name": "BROWN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NEW ULM MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1324 FIFTH NORTH STREET", 
+    "city": "NEW ULM", 
+    "county_name": "BROWN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NEW ULM MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"1324 FIFTH NORTH STREET\",\"city\":\"NEW ULM\",\"state\":\"MN\",\"zip\":\"\"}",
-        "latitude": "44.31220196400005",
-        "longitude": "-94.47574093999998",
-        "needs_recoding": false
-    },
-    "location_address": "1324 FIFTH NORTH STREET",
-    "location_city": "NEW ULM",
-    "location_state": "MN",
-    "location_zip": "56073",
+        "coordinates": [
+            -94.47507, 
+            44.312552
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "1324 FIFTH NORTH STREET", 
+    "location_city": "NEW ULM", 
+    "location_state": "MN", 
+    "location_zip": "56073", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.newulmmedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Allina Hospitals & Clinics",
+        "name": "Allina Hospitals & Clinics", 
         "websites": [
             "www.allina.com"
         ]
-    },
-    "phone_number": "5072331000",
-    "provider_id": "241378",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5072331000", 
+    "provider_id": "241378", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "56073"
 }

@@ -1,41 +1,53 @@
 {
-    "address": "100 FRIST COURT",
-    "city": "COLUMBUS",
-    "county_name": "MUSCOGEE",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "NORTHSIDE MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 FRIST COURT", 
+    "city": "COLUMBUS", 
+    "county_name": "MUSCOGEE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "NORTHSIDE MEDICAL CENTER", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.951322,
-            32.535232
-        ],
+            -84.954583, 
+            32.535921
+        ], 
         "type": "Point"
-    },
-    "location_address": "100 FRIST COURT",
-    "location_city": "COLUMBUS",
-    "location_state": "GA",
-    "location_zip": "31909",
+    }, 
+    "location_address": "100 FRIST COURT", 
+    "location_city": "COLUMBUS", 
+    "location_state": "GA", 
+    "location_zip": "31909", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hughstonsports.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Columbus Regional Healthcare System",
+        "name": "Columbus Regional Healthcare System", 
         "websites": [
             "www.columbusregional.com"
         ]
-    },
-    "phone_number": "7064942100",
-    "provider_id": "110200",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7064942100", 
+    "provider_id": "110200", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "31909"
 }

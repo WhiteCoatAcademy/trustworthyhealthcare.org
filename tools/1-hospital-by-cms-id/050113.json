@@ -1,39 +1,49 @@
 {
-    "address": "222 W 39TH AVE",
-    "city": "SAN MATEO",
-    "county_name": "SAN MATEO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAN MATEO MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "222 W 39TH AVE", 
+    "city": "SAN MATEO", 
+    "county_name": "SAN MATEO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAN MATEO MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.298572,
-            37.530457
-        ],
+            -122.299406, 
+            37.530116
+        ], 
         "type": "Point"
-    },
-    "location_address": "222 W 39TH AVE",
-    "location_city": "SAN MATEO",
-    "location_state": "CA",
-    "location_zip": "94403",
+    }, 
+    "location_address": "222 W 39TH AVE", 
+    "location_city": "SAN MATEO", 
+    "location_state": "CA", 
+    "location_zip": "94403", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sanmateomedicalcenter.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6505732222",
-    "provider_id": "050113",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6505732222", 
+    "provider_id": "050113", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "94403"
 }

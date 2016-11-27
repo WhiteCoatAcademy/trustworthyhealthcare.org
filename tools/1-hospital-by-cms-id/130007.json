@@ -1,41 +1,49 @@
 {
-    "address": "1055 NORTH CURTIS ROAD",
-    "city": "BOISE",
-    "county_name": "ADA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST ALPHONSUS REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1055 NORTH CURTIS ROAD", 
+    "city": "BOISE", 
+    "county_name": "ADA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST ALPHONSUS REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -116.253622,
+            -116.253622, 
             43.614072
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1055 NORTH CURTIS ROAD",
-    "location_city": "BOISE",
-    "location_state": "ID",
-    "location_zip": "83706",
+    }, 
+    "location_address": "1055 NORTH CURTIS ROAD", 
+    "location_city": "BOISE", 
+    "location_state": "ID", 
+    "location_zip": "83706", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.saintalphonsus.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Trinity Health",
+        "name": "Trinity Health", 
         "websites": [
             "www.trinity-health.org"
         ]
-    },
-    "phone_number": "2083672121",
-    "provider_id": "130007",
-    "raw_ratings": {},
-    "state": "ID",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2083672121", 
+    "provider_id": "130007", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "ID", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "83706"
 }

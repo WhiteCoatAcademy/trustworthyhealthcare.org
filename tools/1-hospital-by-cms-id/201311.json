@@ -1,39 +1,49 @@
 {
-    "address": "11 HOSPITAL DRIVE",
-    "city": "MACHIAS",
-    "county_name": "WASHINGTON",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "DOWN EAST COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "11 HOSPITAL DRIVE", 
+    "city": "MACHIAS", 
+    "county_name": "WASHINGTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DOWN EAST COMMUNITY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -67.47715,
-            44.71349
-        ],
+            -67.477203, 
+            44.71341
+        ], 
         "type": "Point"
-    },
-    "location_address": "11 HOSPITAL DRIVE",
-    "location_city": "MACHIAS",
-    "location_state": "ME",
-    "location_zip": "04654",
+    }, 
+    "location_address": "11 HOSPITAL DRIVE", 
+    "location_city": "MACHIAS", 
+    "location_state": "ME", 
+    "location_zip": "04654", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.dech.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2072553356",
-    "provider_id": "201311",
-    "raw_ratings": {},
-    "state": "ME",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2072553356", 
+    "provider_id": "201311", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "ME", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "04654"
 }

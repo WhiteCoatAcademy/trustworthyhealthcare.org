@@ -1,41 +1,49 @@
 {
-    "address": "3901 S SEVENTH ST",
-    "city": "TERRE HAUTE",
-    "county_name": "VIGO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TERRE HAUTE REGIONAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3901 S SEVENTH ST", 
+    "city": "TERRE HAUTE", 
+    "county_name": "VIGO", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TERRE HAUTE REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.406841,
-            39.419454
-        ],
+            -87.406837, 
+            39.419624
+        ], 
         "type": "Point"
-    },
-    "location_address": "3901 S SEVENTH ST",
-    "location_city": "TERRE HAUTE",
-    "location_state": "IN",
-    "location_zip": "47802",
+    }, 
+    "location_address": "3901 S SEVENTH ST", 
+    "location_city": "TERRE HAUTE", 
+    "location_state": "IN", 
+    "location_zip": "47802", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.regionalhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "8122320021",
-    "provider_id": "150046",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8122320021", 
+    "provider_id": "150046", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "47802"
 }

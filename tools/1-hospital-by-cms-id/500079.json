@@ -1,41 +1,49 @@
 {
-    "address": "401 15TH AVENUE SE",
-    "city": "PUYALLUP",
-    "county_name": "PIERCE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MULTICARE GOOD SAMARITAN HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "401 15TH AVENUE SE", 
+    "city": "PUYALLUP", 
+    "county_name": "PIERCE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MULTICARE GOOD SAMARITAN HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.289468,
+            -122.289468, 
             47.177411
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "401 15TH AVENUE SE",
-    "location_city": "PUYALLUP",
-    "location_state": "WA",
-    "location_zip": "98372",
+    }, 
+    "location_address": "401 15TH AVENUE SE", 
+    "location_city": "PUYALLUP", 
+    "location_state": "WA", 
+    "location_zip": "98372", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.multicare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "MultiCare Health System",
+        "name": "MultiCare Health System", 
         "websites": [
             "www.multicare.org"
         ]
-    },
-    "phone_number": "2536972102",
-    "provider_id": "500079",
-    "raw_ratings": {},
-    "state": "WA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2536972102", 
+    "provider_id": "500079", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "WA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "98372"
 }

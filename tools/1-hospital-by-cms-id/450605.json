@@ -1,39 +1,49 @@
 {
-    "address": "1711 W WHEELER AVENUE",
-    "city": "ARANSAS PASS",
-    "county_name": "SAN PATRICIO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CARE REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1711 W WHEELER AVENUE", 
+    "city": "ARANSAS PASS", 
+    "county_name": "SAN PATRICIO", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CARE REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.162123,
-            27.916082
-        ],
+            -97.162187, 
+            27.916117
+        ], 
         "type": "Point"
-    },
-    "location_address": "1711 W WHEELER AVENUE",
-    "location_city": "ARANSAS PASS",
-    "location_state": "TX",
-    "location_zip": "78336",
+    }, 
+    "location_address": "1711 W WHEELER AVENUE", 
+    "location_city": "ARANSAS PASS", 
+    "location_state": "TX", 
+    "location_zip": "78336", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nbhtx.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3617588585",
-    "provider_id": "450605",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3617588585", 
+    "provider_id": "450605", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "78336"
 }

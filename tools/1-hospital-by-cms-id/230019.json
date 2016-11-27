@@ -1,40 +1,49 @@
 {
-    "address": "16001 W NINE MILE RD",
-    "city": "SOUTHFIELD",
-    "county_name": "OAKLAND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PROVIDENCE HOSPITAL AND MEDICAL CENTERS",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "16001 W NINE MILE RD", 
+    "city": "SOUTHFIELD", 
+    "county_name": "OAKLAND", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PROVIDENCE - PROVIDENCE PARK HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"16001 W NINE MILE RD\",\"city\":\"SOUTHFIELD\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.459192227000074",
-        "longitude": "-83.20529983899996",
-        "needs_recoding": false
-    },
-    "location_address": "16001 W NINE MILE RD",
-    "location_city": "SOUTHFIELD",
-    "location_state": "MI",
-    "location_zip": "48075",
+        "coordinates": [
+            -83.205163, 
+            42.459196
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "16001 W NINE MILE RD", 
+    "location_city": "SOUTHFIELD", 
+    "location_state": "MI", 
+    "location_zip": "48075", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stjohn.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ascension Health",
+        "name": "Ascension Health", 
         "websites": [
             "www.ascensionhealth.org"
         ]
-    },
-    "phone_number": "2488493011",
-    "provider_id": "230019",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2488493011", 
+    "provider_id": "230019", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "48075"
 }

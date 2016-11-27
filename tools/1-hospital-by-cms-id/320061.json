@@ -1,41 +1,52 @@
 {
-    "address": "516 E NIZHONI BLVD",
-    "city": "GALLUP",
-    "county_name": "MCKINLEY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GALLUP INDIAN MEDICAL CENTER",
-    "hospital_ownership": "Government - Federal",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "516 E NIZHONI BLVD", 
+    "city": "GALLUP", 
+    "county_name": "MCKINLEY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GALLUP INDIAN MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Government - Federal", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -108.730203,
+            -108.730171, 
             35.508444
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "516 E NIZHONI BLVD",
-    "location_city": "GALLUP",
-    "location_state": "NM",
-    "location_zip": "87301",
+    }, 
+    "location_address": "516 E NIZHONI BLVD", 
+    "location_city": "GALLUP", 
+    "location_state": "NM", 
+    "location_zip": "87301", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ihs.gov"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Indian Health Service",
+        "name": "Indian Health Service", 
         "websites": [
             "www.ihs.gov"
         ]
-    },
-    "phone_number": "5057221000",
-    "provider_id": "320061",
-    "raw_ratings": {},
-    "state": "NM",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5057221000", 
+    "provider_id": "320061", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NM", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "87301"
 }

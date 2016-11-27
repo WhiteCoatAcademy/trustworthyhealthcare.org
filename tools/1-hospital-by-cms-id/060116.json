@@ -1,41 +1,50 @@
 {
-    "address": "200 EXEMPLA CIRCLE",
-    "city": "LAFAYETTE",
-    "county_name": "BOULDER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GOOD SAMARITAN MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 EXEMPLA CIRCLE", 
+    "city": "LAFAYETTE", 
+    "county_name": "BOULDER", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GOOD SAMARITAN MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -105.082978,
-            39.970618
-        ],
+            -105.083203, 
+            39.96931
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 EXEMPLA CIRCLE",
-    "location_city": "LAFAYETTE",
-    "location_state": "CO",
-    "location_zip": "80026",
+    }, 
+    "location_address": "200 EXEMPLA CIRCLE", 
+    "location_city": "LAFAYETTE", 
+    "location_state": "CO", 
+    "location_zip": "80026", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.exempla.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Exempla Healthcare",
+        "name": "Exempla Healthcare", 
         "websites": [
             "www.exempla.org"
         ]
-    },
-    "phone_number": "3036894000",
-    "provider_id": "060116",
-    "raw_ratings": {},
-    "state": "CO",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3036894000", 
+    "provider_id": "060116", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "80026"
 }

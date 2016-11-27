@@ -1,41 +1,49 @@
 {
-    "address": "1010 MURRAY ST",
-    "city": "SAN LUIS OBISPO",
-    "county_name": "SAN LUIS OBISPO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SIERRA VISTA REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1010 MURRAY ST", 
+    "city": "SAN LUIS OBISPO", 
+    "county_name": "SAN LUIS OBISPO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SIERRA VISTA REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -120.665394,
-            35.29096
-        ],
+            -120.665549, 
+            35.290961
+        ], 
         "type": "Point"
-    },
-    "location_address": "1010 MURRAY ST",
-    "location_city": "SAN LUIS OBISPO",
-    "location_state": "CA",
-    "location_zip": "93405",
+    }, 
+    "location_address": "1010 MURRAY ST", 
+    "location_city": "SAN LUIS OBISPO", 
+    "location_state": "CA", 
+    "location_zip": "93405", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sierravistaregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "TENET Healthcare",
+        "name": "TENET Healthcare", 
         "websites": [
             "www.tenethealth.com"
         ]
-    },
-    "phone_number": "8505467600",
-    "provider_id": "050506",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8505467600", 
+    "provider_id": "050506", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "93405"
 }

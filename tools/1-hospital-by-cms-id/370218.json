@@ -1,39 +1,47 @@
 {
-    "address": "10501 EAST 91ST STREET SOUTH",
-    "city": "TULSA",
-    "county_name": "TULSA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAINT FRANCIS HOSPITAL SOUTH, LLC",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "10501 EAST 91ST STREET SOUTH", 
+    "city": "TULSA", 
+    "county_name": "TULSA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAINT FRANCIS HOSPITAL SOUTH, LLC", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.85692,
+            -95.85692, 
             36.03189
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "10501 EAST 91ST STREET SOUTH",
-    "location_city": "TULSA",
-    "location_state": "OK",
-    "location_zip": "74133",
+    }, 
+    "location_address": "10501 EAST 91ST STREET SOUTH", 
+    "location_city": "TULSA", 
+    "location_state": "OK", 
+    "location_zip": "74133", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.saintfrancisheart.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9183076000",
-    "provider_id": "370218",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9183076000", 
+    "provider_id": "370218", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "74133"
 }

@@ -1,40 +1,49 @@
 {
-    "address": "200 HWY 30 WEST",
-    "city": "NEW ALBANY",
-    "county_name": "UNION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BAPTIST MEMORIAL HOSPITAL UNION COUNTY",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 HWY 30 WEST", 
+    "city": "NEW ALBANY", 
+    "county_name": "UNION", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL UNION COUNTY", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"200 HWY 30 WEST\",\"city\":\"NEW ALBANY\",\"state\":\"MS\",\"zip\":\"\"}",
-        "latitude": "34.49880779600005",
-        "longitude": "-89.02754759699997",
-        "needs_recoding": false
-    },
-    "location_address": "200 HWY 30 WEST",
-    "location_city": "NEW ALBANY",
-    "location_state": "MS",
-    "location_zip": "38652",
+        "coordinates": [
+            -89.029345, 
+            34.498097
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "200 HWY 30 WEST", 
+    "location_city": "NEW ALBANY", 
+    "location_state": "MS", 
+    "location_zip": "38652", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bmhcc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Baptist Memorial Health Care Corporation",
+        "name": "Baptist Memorial Health Care Corporation", 
         "websites": [
             "www.bmhcc.org"
         ]
-    },
-    "phone_number": "6625387631",
-    "provider_id": "250006",
-    "raw_ratings": {},
-    "state": "MS",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6625387631", 
+    "provider_id": "250006", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MS", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "38652"
 }

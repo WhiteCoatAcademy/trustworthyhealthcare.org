@@ -1,41 +1,49 @@
 {
-    "address": "1380 EAST MEDICAL CENTER DRIVE",
-    "city": "ST GEORGE",
-    "county_name": "WASHINGTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DIXIE REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1380 EAST MEDICAL CENTER DRIVE", 
+    "city": "ST GEORGE", 
+    "county_name": "WASHINGTON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DIXIE REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -113.55333,
+            -113.55333, 
             37.09985
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1380 EAST MEDICAL CENTER DRIVE",
-    "location_city": "ST GEORGE",
-    "location_state": "UT",
-    "location_zip": "84790",
+    }, 
+    "location_address": "1380 EAST MEDICAL CENTER DRIVE", 
+    "location_city": "ST GEORGE", 
+    "location_state": "UT", 
+    "location_zip": "84790", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Intermountain Health Care, Inc",
+        "name": "Intermountain Health Care, Inc", 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "phone_number": "4352512100",
-    "provider_id": "460021",
-    "raw_ratings": {},
-    "state": "UT",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4352512100", 
+    "provider_id": "460021", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "UT", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "84790"
 }

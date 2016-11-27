@@ -1,41 +1,49 @@
 {
-    "address": "147 GETTYS STREET",
-    "city": "GETTYSBURG",
-    "county_name": "ADAMS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GETTYSBURG HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "147 GETTYS STREET", 
+    "city": "GETTYSBURG", 
+    "county_name": "ADAMS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GETTYSBURG HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.234044,
-            39.823318
-        ],
+            -77.234044, 
+            39.823317
+        ], 
         "type": "Point"
-    },
-    "location_address": "147 GETTYS STREET",
-    "location_city": "GETTYSBURG",
-    "location_state": "PA",
-    "location_zip": "17325",
+    }, 
+    "location_address": "147 GETTYS STREET", 
+    "location_city": "GETTYSBURG", 
+    "location_state": "PA", 
+    "location_zip": "17325", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.wellspan.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "WellSpan Health",
+        "name": "WellSpan Health", 
         "websites": [
             "www.wellspan.org"
         ]
-    },
-    "phone_number": "7173342121",
-    "provider_id": "390065",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7173342121", 
+    "provider_id": "390065", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "17325"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1100 ALLIED DRIVE",
-    "city": "PLANO",
-    "county_name": "COLLIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "THE HEART HOSPITAL BAYLOR PLANO",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1100 ALLIED DRIVE", 
+    "city": "PLANO", 
+    "county_name": "COLLIN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "THE HEART HOSPITAL BAYLOR PLANO", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.789918,
-            33.015635
-        ],
+            -96.79012, 
+            33.015252
+        ], 
         "type": "Point"
-    },
-    "location_address": "1100 ALLIED DRIVE",
-    "location_city": "PLANO",
-    "location_state": "TX",
-    "location_zip": "75093",
+    }, 
+    "location_address": "1100 ALLIED DRIVE", 
+    "location_city": "PLANO", 
+    "location_state": "TX", 
+    "location_zip": "75093", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Baylor Health Care System",
+        "name": "Baylor Health Care System", 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "phone_number": "4698143278",
-    "provider_id": "670025",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4698143278", 
+    "provider_id": "670025", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75093"
 }

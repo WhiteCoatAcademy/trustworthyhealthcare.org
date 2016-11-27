@@ -1,41 +1,49 @@
 {
-    "address": "4401 BOOTH CALLOWAY ROAD",
-    "city": "NORTH RICHLAND HILLS",
-    "county_name": "TARRANT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NORTH HILLS HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4401 BOOTH CALLOWAY ROAD", 
+    "city": "NORTH RICHLAND HILLS", 
+    "county_name": "TARRANT", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NORTH HILLS HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.212235,
-            32.829303
-        ],
+            -97.212234, 
+            32.829476
+        ], 
         "type": "Point"
-    },
-    "location_address": "4401 BOOTH CALLOWAY ROAD",
-    "location_city": "NORTH RICHLAND HILLS",
-    "location_state": "TX",
-    "location_zip": "76180",
+    }, 
+    "location_address": "4401 BOOTH CALLOWAY ROAD", 
+    "location_city": "NORTH RICHLAND HILLS", 
+    "location_state": "TX", 
+    "location_zip": "76180", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.northhillshospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "8172551000",
-    "provider_id": "450087",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8172551000", 
+    "provider_id": "450087", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "76180"
 }

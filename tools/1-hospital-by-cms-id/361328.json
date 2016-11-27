@@ -1,41 +1,54 @@
 {
-    "address": "1200 RALSTON AVENUE",
-    "city": "DEFIANCE",
-    "county_name": "DEFIANCE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DEFIANCE REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1200 RALSTON AVENUE", 
+    "city": "DEFIANCE", 
+    "county_name": "DEFIANCE", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DEFIANCE REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -84.372979,
-            41.299093
-        ],
+            -84.373469, 
+            41.299392
+        ], 
         "type": "Point"
-    },
-    "location_address": "1200 RALSTON AVENUE",
-    "location_city": "DEFIANCE",
-    "location_state": "OH",
-    "location_zip": "43512",
+    }, 
+    "location_address": "1200 RALSTON AVENUE", 
+    "location_city": "DEFIANCE", 
+    "location_state": "OH", 
+    "location_zip": "43512", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.promedica.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "ProMedica Health System",
+        "name": "ProMedica Health System", 
         "websites": [
             "www.promedica.org"
         ]
-    },
-    "phone_number": "4197836955",
-    "provider_id": "361328",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4197836955", 
+    "provider_id": "361328", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "43512"
 }

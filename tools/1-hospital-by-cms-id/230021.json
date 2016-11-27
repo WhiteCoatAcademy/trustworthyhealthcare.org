@@ -1,41 +1,49 @@
 {
-    "address": "1234 NAPIER AVENUE",
-    "city": "ST JOSEPH",
-    "county_name": "BERRIEN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LAKELAND HOSPITAL, ST JOSEPH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1234 NAPIER AVENUE", 
+    "city": "ST JOSEPH", 
+    "county_name": "BERRIEN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LAKELAND HOSPITAL, ST JOSEPH", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.477296,
-            42.089775
-        ],
+            -86.477134, 
+            42.089678
+        ], 
         "type": "Point"
-    },
-    "location_address": "1234 NAPIER AVENUE",
-    "location_city": "ST JOSEPH",
-    "location_state": "MI",
-    "location_zip": "49085",
+    }, 
+    "location_address": "1234 NAPIER AVENUE", 
+    "location_city": "ST JOSEPH", 
+    "location_state": "MI", 
+    "location_zip": "49085", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lakelandhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Lakeland Regional Health System",
+        "name": "Lakeland Regional Health System", 
         "websites": [
             "www.lakelandhealth.org"
         ]
-    },
-    "phone_number": "2699838300",
-    "provider_id": "230021",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2699838300", 
+    "provider_id": "230021", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "49085"
 }

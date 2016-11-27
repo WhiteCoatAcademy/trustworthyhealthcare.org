@@ -1,38 +1,47 @@
 {
-    "address": "100 DOCTOR WARREN TUTTLE DR",
-    "city": "HARRISBURG",
-    "county_name": "SALINE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HARRISBURG MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "100 DOCTOR WARREN TUTTLE DR", 
+    "city": "HARRISBURG", 
+    "county_name": "SALINE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HARRISBURG MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"100 DOCTOR WARREN TUTTLE DR\",\"city\":\"HARRISBURG\",\"state\":\"IL\",\"zip\":\"\"}",
-        "latitude": "37.73091479000004",
-        "longitude": "-88.52381527299997",
-        "needs_recoding": false
-    },
-    "location_address": "100 DOCTOR WARREN TUTTLE DR",
-    "location_city": "HARRISBURG",
-    "location_state": "IL",
-    "location_zip": "62946",
+        "coordinates": [
+            -88.524467, 
+            37.730882
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "100 DOCTOR WARREN TUTTLE DR", 
+    "location_city": "HARRISBURG", 
+    "location_state": "IL", 
+    "location_zip": "62946", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.harrisburgmedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6182537671",
-    "provider_id": "140210",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6182537671", 
+    "provider_id": "140210", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "62946"
 }

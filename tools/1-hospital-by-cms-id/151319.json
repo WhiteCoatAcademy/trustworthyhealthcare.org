@@ -1,39 +1,50 @@
 {
-    "address": "1808 SHERMAN DR",
-    "city": "PRINCETON",
-    "county_name": "GIBSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GIBSON GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1808 SHERMAN DR", 
+    "city": "PRINCETON", 
+    "county_name": "GIBSON", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GIBSON GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -87.58912,
-            38.360232
-        ],
+            -87.589559, 
+            38.360231
+        ], 
         "type": "Point"
-    },
-    "location_address": "1808 SHERMAN DR",
-    "location_city": "PRINCETON",
-    "location_state": "IN",
-    "location_zip": "47670",
+    }, 
+    "location_address": "1808 SHERMAN DR", 
+    "location_city": "PRINCETON", 
+    "location_state": "IN", 
+    "location_zip": "47670", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.gibsongeneral.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8123853401",
-    "provider_id": "151319",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "8123853401", 
+    "provider_id": "151319", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "47670"
 }

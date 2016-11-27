@@ -1,39 +1,47 @@
 {
-    "address": "1111 DUFF AVENUE",
-    "city": "AMES",
-    "county_name": "STORY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MARY GREELEY MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1111 DUFF AVENUE", 
+    "city": "AMES", 
+    "county_name": "STORY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MARY GREELEY MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.61063,
-            42.032508
-        ],
+            -93.610616, 
+            42.032048
+        ], 
         "type": "Point"
-    },
-    "location_address": "1111 DUFF AVENUE",
-    "location_city": "AMES",
-    "location_state": "IA",
-    "location_zip": "50010",
+    }, 
+    "location_address": "1111 DUFF AVENUE", 
+    "location_city": "AMES", 
+    "location_state": "IA", 
+    "location_zip": "50010", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mgmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5152392011",
-    "provider_id": "160030",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5152392011", 
+    "provider_id": "160030", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "50010"
 }

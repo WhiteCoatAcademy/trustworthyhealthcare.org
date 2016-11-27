@@ -1,41 +1,49 @@
 {
-    "address": "2430 WEST PIERCE STREET",
-    "city": "CARLSBAD",
-    "county_name": "EDDY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CARLSBAD MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2430 WEST PIERCE STREET", 
+    "city": "CARLSBAD", 
+    "county_name": "EDDY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CARLSBAD MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -104.258655,
-            32.441835
-        ],
+            -104.258646, 
+            32.441844
+        ], 
         "type": "Point"
-    },
-    "location_address": "2430 WEST PIERCE STREET",
-    "location_city": "CARLSBAD",
-    "location_state": "NM",
-    "location_zip": "88220",
+    }, 
+    "location_address": "2430 WEST PIERCE STREET", 
+    "location_city": "CARLSBAD", 
+    "location_state": "NM", 
+    "location_zip": "88220", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.carlsbadmedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Community Health Systems, Inc.",
+        "name": "Community Health Systems, Inc.", 
         "websites": [
             "www.chs.net"
         ]
-    },
-    "phone_number": "5758874570",
-    "provider_id": "320063",
-    "raw_ratings": {},
-    "state": "NM",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5758874570", 
+    "provider_id": "320063", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NM", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "88220"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "1600 SOUTH 48TH ST",
-    "city": "LINCOLN",
-    "county_name": "LANCASTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BRYAN MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1600 SOUTH 48TH ST", 
+    "city": "LINCOLN", 
+    "county_name": "LANCASTER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BRYAN MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.653662,
-            40.796516
-        ],
+            -96.653661, 
+            40.796598
+        ], 
         "type": "Point"
-    },
-    "location_address": "1600 SOUTH 48TH ST",
-    "location_city": "LINCOLN",
-    "location_state": "NE",
-    "location_zip": "68506",
+    }, 
+    "location_address": "1600 SOUTH 48TH ST", 
+    "location_city": "LINCOLN", 
+    "location_state": "NE", 
+    "location_zip": "68506", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bryanlgh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4024811111",
-    "provider_id": "280003",
-    "raw_ratings": {},
-    "state": "NE",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4024811111", 
+    "provider_id": "280003", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NE", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "68506"
 }

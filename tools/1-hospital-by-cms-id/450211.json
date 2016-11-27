@@ -1,40 +1,49 @@
 {
-    "address": "1201 WEST FRANK STREET",
-    "city": "LUFKIN",
-    "county_name": "ANGELINA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEMORIAL MEDICAL CENTER OF EAST TEXAS",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1201 WEST FRANK STREET", 
+    "city": "LUFKIN", 
+    "county_name": "ANGELINA", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEMORIAL MEDICAL CENTER OF EAST TEXAS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"1201 WEST FRANK STREET\",\"city\":\"LUFKIN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "31.337276819000067",
-        "longitude": "-94.74262097799999",
-        "needs_recoding": false
-    },
-    "location_address": "1201 WEST FRANK STREET",
-    "location_city": "LUFKIN",
-    "location_state": "TX",
-    "location_zip": "75901",
+        "coordinates": [
+            -94.742766, 
+            31.337223
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "1201 WEST FRANK STREET", 
+    "location_city": "LUFKIN", 
+    "location_state": "TX", 
+    "location_zip": "75901", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mhset.net"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Memorial Health System of East Texas",
+        "name": "Memorial Health System of East Texas", 
         "websites": [
             "www.memorialhealth.org"
         ]
-    },
-    "phone_number": "9366348111",
-    "provider_id": "450211",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9366348111", 
+    "provider_id": "450211", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "75901"
 }

@@ -1,39 +1,48 @@
 {
-    "address": "1401 N 10TH AVENUE",
-    "city": "STAYTON",
-    "county_name": "MARION",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SANTIAM MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1401 N 10TH AVENUE", 
+    "city": "STAYTON", 
+    "county_name": "MARION", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SANTIAM MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.78413,
-            44.805595
-        ],
+            -122.784124, 
+            44.805247
+        ], 
         "type": "Point"
-    },
-    "location_address": "1401 N 10TH AVENUE",
-    "location_city": "STAYTON",
-    "location_state": "OR",
-    "location_zip": "97383",
+    }, 
+    "location_address": "1401 N 10TH AVENUE", 
+    "location_city": "STAYTON", 
+    "location_state": "OR", 
+    "location_zip": "97383", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.santiamhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5037692175",
-    "provider_id": "380056",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5037692175", 
+    "provider_id": "380056", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "97383"
 }

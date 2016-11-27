@@ -1,39 +1,49 @@
 {
-    "address": "105 NASON DRIVE",
-    "city": "ROARING SPRING",
-    "county_name": "BLAIR",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "NASON HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "105 NASON DRIVE", 
+    "city": "ROARING SPRING", 
+    "county_name": "BLAIR", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "NASON HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -78.388829,
-            40.338038
-        ],
+            -78.388078, 
+            40.337833
+        ], 
         "type": "Point"
-    },
-    "location_address": "105 NASON DRIVE",
-    "location_city": "ROARING SPRING",
-    "location_state": "PA",
-    "location_zip": "16673",
+    }, 
+    "location_address": "105 NASON DRIVE", 
+    "location_city": "ROARING SPRING", 
+    "location_state": "PA", 
+    "location_zip": "16673", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nasonhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8142242141",
-    "provider_id": "390062",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8142242141", 
+    "provider_id": "390062", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "16673"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1190 WAIANUENUE AVENUE",
-    "city": "HILO",
-    "county_name": "HAWAII",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HILO MEDICAL CENTER",
-    "hospital_ownership": "Government - State",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1190 WAIANUENUE AVENUE", 
+    "city": "HILO", 
+    "county_name": "HAWAII", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HILO MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - State", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -155.113286,
-            19.717493
-        ],
+            -155.111886, 
+            19.717679
+        ], 
         "type": "Point"
-    },
-    "location_address": "1190 WAIANUENUE AVENUE",
-    "location_city": "HILO",
-    "location_state": "HI",
-    "location_zip": "96720",
+    }, 
+    "location_address": "1190 WAIANUENUE AVENUE", 
+    "location_city": "HILO", 
+    "location_state": "HI", 
+    "location_zip": "96720", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hmc.hhsc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Hawaii Health Systems Corporation",
+        "name": "Hawaii Health Systems Corporation", 
         "websites": [
             "www.hhsc.org"
         ]
-    },
-    "phone_number": "8089323000",
-    "provider_id": "120005",
-    "raw_ratings": {},
-    "state": "HI",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8089323000", 
+    "provider_id": "120005", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "HI", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "96720"
 }

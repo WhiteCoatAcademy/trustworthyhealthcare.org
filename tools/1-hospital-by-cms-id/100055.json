@@ -1,41 +1,50 @@
 {
-    "address": "1395 S PINELLAS AVE",
-    "city": "TARPON SPRINGS",
-    "county_name": "PINELLAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FLORIDA HOSPITAL NORTH PINELLAS",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1395 S PINELLAS AVE", 
+    "city": "TARPON SPRINGS", 
+    "county_name": "PINELLAS", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FLORIDA HOSPITAL NORTH PINELLAS", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.758572,
-            28.133188
-        ],
+            -82.758576, 
+            28.13314
+        ], 
         "type": "Point"
-    },
-    "location_address": "1395 S PINELLAS AVE",
-    "location_city": "TARPON SPRINGS",
-    "location_state": "FL",
-    "location_zip": "34689",
+    }, 
+    "location_address": "1395 S PINELLAS AVE", 
+    "location_city": "TARPON SPRINGS", 
+    "location_state": "FL", 
+    "location_zip": "34689", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hemh.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University Community Health",
+        "name": "University Community Health", 
         "websites": [
             "www.uch.org"
         ]
-    },
-    "phone_number": "7279425000",
-    "provider_id": "100055",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7279425000", 
+    "provider_id": "100055", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "34689"
 }

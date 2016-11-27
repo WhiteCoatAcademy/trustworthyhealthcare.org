@@ -1,41 +1,56 @@
 {
-    "address": "5755 CEDAR LANE",
-    "city": "COLUMBIA",
-    "county_name": "HOWARD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HOWARD COUNTY GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5755 CEDAR LANE", 
+    "city": "COLUMBIA", 
+    "county_name": "HOWARD", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HOWARD COUNTY GENERAL HOSPITAL", 
+    "hospital_overall_rating_footnote": "Data suppressed by CMS for one or more quarters", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.887294,
-            39.214552
-        ],
+            -76.887278, 
+            39.214472
+        ], 
         "type": "Point"
-    },
-    "location_address": "5755 CEDAR LANE",
-    "location_city": "COLUMBIA",
-    "location_state": "MD",
-    "location_zip": "21044",
+    }, 
+    "location_address": "5755 CEDAR LANE", 
+    "location_city": "COLUMBIA", 
+    "location_state": "MD", 
+    "location_zip": "21044", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hcgh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "The Johns Hopkins Hospital & Health System",
+        "name": "The Johns Hopkins Hospital & Health System", 
         "websites": [
             "www.hopkinshospital.org"
         ]
-    },
-    "phone_number": "4107407890",
-    "provider_id": "210048",
-    "raw_ratings": {},
-    "state": "MD",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "phone_number": "4107407890", 
+    "provider_id": "210048", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
+    "state": "MD", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Data suppressed by CMS for one or more quarters", 
     "zip_code": "21044"
 }

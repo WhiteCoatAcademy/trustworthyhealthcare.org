@@ -1,41 +1,49 @@
 {
-    "address": "200 MISSION BLVD",
-    "city": "JACKSON",
-    "county_name": "AMADOR",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SUTTER AMADOR HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 MISSION BLVD", 
+    "city": "JACKSON", 
+    "county_name": "AMADOR", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SUTTER AMADOR HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -120.765903,
-            38.349554
-        ],
+            -120.765903, 
+            38.349552
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 MISSION BLVD",
-    "location_city": "JACKSON",
-    "location_state": "CA",
-    "location_zip": "95642",
+    }, 
+    "location_address": "200 MISSION BLVD", 
+    "location_city": "JACKSON", 
+    "location_state": "CA", 
+    "location_zip": "95642", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sutteramador.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sutter Health",
+        "name": "Sutter Health", 
         "websites": [
             "www.sutterhealth.org"
         ]
-    },
-    "phone_number": "2092237500",
-    "provider_id": "050014",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2092237500", 
+    "provider_id": "050014", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "95642"
 }

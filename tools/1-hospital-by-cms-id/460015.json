@@ -1,40 +1,49 @@
 {
-    "address": "500 EAST 1400 NORTH",
-    "city": "LOGAN",
-    "county_name": "CACHE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LOGAN REGIONAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "500 EAST 1400 NORTH", 
+    "city": "LOGAN", 
+    "county_name": "CACHE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LOGAN REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"500 EAST 1400 NORTH\",\"city\":\"LOGAN\",\"state\":\"UT\",\"zip\":\"\"}",
-        "latitude": "41.75743373000006",
-        "longitude": "-111.82112768799999",
-        "needs_recoding": false
-    },
-    "location_address": "500 EAST 1400 NORTH",
-    "location_city": "LOGAN",
-    "location_state": "UT",
-    "location_zip": "84341",
+        "coordinates": [
+            -111.822737, 
+            41.757461
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "500 EAST 1400 NORTH", 
+    "location_city": "LOGAN", 
+    "location_state": "UT", 
+    "location_zip": "84341", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Intermountain Health Care, Inc",
+        "name": "Intermountain Health Care, Inc", 
         "websites": [
             "intermountainhealthcare.org"
         ]
-    },
-    "phone_number": "4357161000",
-    "provider_id": "460015",
-    "raw_ratings": {},
-    "state": "UT",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4357161000", 
+    "provider_id": "460015", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "UT", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "84341"
 }

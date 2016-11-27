@@ -1,39 +1,48 @@
 {
-    "address": "834 SHERIDAN STREET",
-    "city": "PORT TOWNSEND",
-    "county_name": "JEFFERSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JEFFERSON HEALTHCARE",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "834 SHERIDAN STREET", 
+    "city": "PORT TOWNSEND", 
+    "county_name": "JEFFERSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JEFFERSON HEALTHCARE", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -122.790284,
-            48.105502
-        ],
+            -122.790285, 
+            48.105539
+        ], 
         "type": "Point"
-    },
-    "location_address": "834 SHERIDAN STREET",
-    "location_city": "PORT TOWNSEND",
-    "location_state": "WA",
-    "location_zip": "98368",
+    }, 
+    "location_address": "834 SHERIDAN STREET", 
+    "location_city": "PORT TOWNSEND", 
+    "location_state": "WA", 
+    "location_zip": "98368", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.jgh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3603852200",
-    "provider_id": "501323",
-    "raw_ratings": {},
-    "state": "WA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3603852200", 
+    "provider_id": "501323", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "98368"
 }

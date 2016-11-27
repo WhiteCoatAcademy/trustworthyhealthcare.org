@@ -1,41 +1,49 @@
 {
-    "address": "1501 WEST ELK AVENUE",
-    "city": "ELIZABETHTON",
-    "county_name": "CARTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SYCAMORE SHOALS HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1501 WEST ELK AVENUE", 
+    "city": "ELIZABETHTON", 
+    "county_name": "CARTER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SYCAMORE SHOALS HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -82.251718,
-            36.342759
-        ],
+            -82.247664, 
+            36.345064
+        ], 
         "type": "Point"
-    },
-    "location_address": "1501 WEST ELK AVENUE",
-    "location_city": "ELIZABETHTON",
-    "location_state": "TN",
-    "location_zip": "37643",
+    }, 
+    "location_address": "1501 WEST ELK AVENUE", 
+    "location_city": "ELIZABETHTON", 
+    "location_state": "TN", 
+    "location_zip": "37643", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.msha.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Mountain States Health Alliance",
+        "name": "Mountain States Health Alliance", 
         "websites": [
             "www.msha.com"
         ]
-    },
-    "phone_number": "4235421300",
-    "provider_id": "440018",
-    "raw_ratings": {},
-    "state": "TN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4235421300", 
+    "provider_id": "440018", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "37643"
 }

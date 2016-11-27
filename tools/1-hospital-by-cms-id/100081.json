@@ -1,39 +1,49 @@
 {
-    "address": "4413 US HWY 331 S",
-    "city": "DEFUNIAK SPRINGS",
-    "county_name": "WALTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HEALTHMARK REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4413 US HWY 331 S", 
+    "city": "DEFUNIAK SPRINGS", 
+    "county_name": "WALTON", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HEALTHMARK REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.119509,
-            30.659228
-        ],
+            -86.119679, 
+            30.659494
+        ], 
         "type": "Point"
-    },
-    "location_address": "4413 US HWY 331 S",
-    "location_city": "DEFUNIAK SPRINGS",
-    "location_state": "FL",
-    "location_zip": "32435",
+    }, 
+    "location_address": "4413 US HWY 331 S", 
+    "location_city": "DEFUNIAK SPRINGS", 
+    "location_state": "FL", 
+    "location_zip": "32435", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.healthmarkregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8509514500",
-    "provider_id": "100081",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8509514500", 
+    "provider_id": "100081", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "32435"
 }

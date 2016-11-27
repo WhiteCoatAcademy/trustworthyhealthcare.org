@@ -1,39 +1,47 @@
 {
-    "address": "3333 RIVERBEND DRIVE",
-    "city": "SPRINGFIELD",
-    "county_name": "LANE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SACRED HEART MEDICAL CENTER - RIVERBEND",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3333 RIVERBEND DRIVE", 
+    "city": "SPRINGFIELD", 
+    "county_name": "LANE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SACRED HEART MEDICAL CENTER - RIVERBEND", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -123.028655,
-            44.081312
-        ],
+            -123.028208, 
+            44.082176
+        ], 
         "type": "Point"
-    },
-    "location_address": "3333 RIVERBEND DRIVE",
-    "location_city": "SPRINGFIELD",
-    "location_state": "OR",
-    "location_zip": "97477",
+    }, 
+    "location_address": "3333 RIVERBEND DRIVE", 
+    "location_city": "SPRINGFIELD", 
+    "location_state": "OR", 
+    "location_zip": "97477", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "members.kaiserpermanente.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5412227300",
-    "provider_id": "380102",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5412227300", 
+    "provider_id": "380102", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "97477"
 }

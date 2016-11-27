@@ -1,40 +1,49 @@
 {
-    "address": "67 & 100 TER HEUN DRIVE",
-    "city": "FALMOUTH",
-    "county_name": "BARNSTABLE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FALMOUTH HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "67 & 100 TER HEUN DRIVE", 
+    "city": "FALMOUTH", 
+    "county_name": "BARNSTABLE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FALMOUTH HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"67 &amp; 100 TER HEUN DRIVE\",\"city\":\"FALMOUTH\",\"state\":\"MA\",\"zip\":\"\"}",
-        "latitude": "41.55335131100003",
-        "longitude": "-70.61810786899997",
-        "needs_recoding": false
-    },
-    "location_address": "67 & 100 TER HEUN DRIVE",
-    "location_city": "FALMOUTH",
-    "location_state": "MA",
-    "location_zip": "02540",
+        "coordinates": [
+            -70.621126, 
+            41.564962
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "67 & 100 TER HEUN DRIVE", 
+    "location_city": "FALMOUTH", 
+    "location_state": "MA", 
+    "location_zip": "02540", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.capecodhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Cape Cod Healthcare, Inc",
+        "name": "Cape Cod Healthcare, Inc", 
         "websites": [
             "www.capecodhealth.org"
         ]
-    },
-    "phone_number": "5085485300",
-    "provider_id": "220135",
-    "raw_ratings": {},
-    "state": "MA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5085485300", 
+    "provider_id": "220135", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "02540"
 }

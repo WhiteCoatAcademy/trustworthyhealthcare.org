@@ -1,38 +1,48 @@
 {
-    "address": "10580 N MERIDIAN ST",
-    "city": "INDIANAPOLIS",
-    "county_name": "HAMILTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST VINCENT HEART CENTER OF INDIANA LLC",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "10580 N MERIDIAN ST", 
+    "city": "INDIANAPOLIS", 
+    "county_name": "HAMILTON", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST VINCENT HEART CENTER OF INDIANA LLC", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"10580 N MERIDIAN ST\",\"city\":\"INDIANAPOLIS\",\"state\":\"IN\",\"zip\":\"\"}",
-        "latitude": "39.93926136400006",
-        "longitude": "-86.15795630999997",
-        "needs_recoding": false
-    },
-    "location_address": "10580 N MERIDIAN ST",
-    "location_city": "INDIANAPOLIS",
-    "location_state": "IN",
-    "location_zip": "46290",
+        "coordinates": [
+            -86.160285, 
+            39.934358
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "10580 N MERIDIAN ST", 
+    "location_city": "INDIANAPOLIS", 
+    "location_state": "IN", 
+    "location_zip": "46290", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.theheartcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3175835000",
-    "provider_id": "150153",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3175835000", 
+    "provider_id": "150153", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "46290"
 }

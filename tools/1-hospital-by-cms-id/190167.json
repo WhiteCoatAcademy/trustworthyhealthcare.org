@@ -1,41 +1,49 @@
 {
-    "address": "800 E MAIN",
-    "city": "VILLE PLATTE",
-    "county_name": "EVANGELINE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "800 E MAIN", 
+    "city": "VILLE PLATTE", 
+    "county_name": "EVANGELINE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -92.265504,
-            30.684745
-        ],
+            -92.265889, 
+            30.684899
+        ], 
         "type": "Point"
-    },
-    "location_address": "800 E MAIN",
-    "location_city": "VILLE PLATTE",
-    "location_state": "LA",
-    "location_zip": "70586",
+    }, 
+    "location_address": "800 E MAIN", 
+    "location_city": "VILLE PLATTE", 
+    "location_state": "LA", 
+    "location_zip": "70586", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.vpmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "3373635684",
-    "provider_id": "190167",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3373635684", 
+    "provider_id": "190167", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "70586"
 }

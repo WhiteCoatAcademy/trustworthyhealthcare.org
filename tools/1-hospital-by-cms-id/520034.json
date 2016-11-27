@@ -1,41 +1,49 @@
 {
-    "address": "5000 MEMORIAL DRIVE",
-    "city": "TWO RIVERS",
-    "county_name": "MANITOWOC",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "AURORA MEDICAL CTR MANITOWOC COUNTY",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5000 MEMORIAL DRIVE", 
+    "city": "TWO RIVERS", 
+    "county_name": "MANITOWOC", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "AURORA MEDICAL CTR MANITOWOC COUNTY", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -87.615137,
-            44.125862
-        ],
+            -87.615933, 
+            44.125582
+        ], 
         "type": "Point"
-    },
-    "location_address": "5000 MEMORIAL DRIVE",
-    "location_city": "TWO RIVERS",
-    "location_state": "WI",
-    "location_zip": "54241",
+    }, 
+    "location_address": "5000 MEMORIAL DRIVE", 
+    "location_city": "TWO RIVERS", 
+    "location_state": "WI", 
+    "location_zip": "54241", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.aurorahealthcare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Aurora Health Care",
+        "name": "Aurora Health Care", 
         "websites": [
             "www.aurorahealthcare.org"
         ]
-    },
-    "phone_number": "9207945000",
-    "provider_id": "520034",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9207945000", 
+    "provider_id": "520034", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "54241"
 }

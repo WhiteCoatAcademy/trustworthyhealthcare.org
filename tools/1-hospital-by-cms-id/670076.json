@@ -1,38 +1,50 @@
 {
-    "address": "3601 CALAIS DRIVE",
-    "city": "SHERMAN",
-    "county_name": "GRAYSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BAYLOR SCOTT AND WHITE SURGICAL HOSPITAL AT SHERMA",
-    "hospital_ownership": "Physician",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3601 CALAIS DRIVE", 
+    "city": "SHERMAN", 
+    "county_name": "GRAYSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BAYLOR SCOTT AND WHITE SURGICAL HOSPITAL AT SHERMA", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Physician", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"3601 CALAIS DRIVE\",\"city\":\"SHERMAN\",\"state\":\"TX\",\"zip\":\"\"}",
-        "latitude": "33.63604052000005",
-        "longitude": "-96.60912612099997",
-        "needs_recoding": false
-    },
-    "location_address": "3601 CALAIS DRIVE",
-    "location_city": "SHERMAN",
-    "location_state": "TX",
-    "location_zip": "75090",
+        "coordinates": [
+            -96.602527, 
+            33.67686
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "3601 CALAIS DRIVE", 
+    "location_city": "SHERMAN", 
+    "location_state": "TX", 
+    "location_zip": "75090", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9038133728",
-    "provider_id": "670076",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9038133728", 
+    "provider_id": "670076", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "75090"
 }

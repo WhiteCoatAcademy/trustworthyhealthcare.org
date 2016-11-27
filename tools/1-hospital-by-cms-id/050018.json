@@ -1,39 +1,48 @@
 {
-    "address": "531 W COLLEGE ST",
-    "city": "LOS ANGELES",
-    "county_name": "LOS ANGELES",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "PACIFIC ALLIANCE MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "531 W COLLEGE ST", 
+    "city": "LOS ANGELES", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "PACIFIC ALLIANCE MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.239532,
-            34.064729
-        ],
+            -118.239249, 
+            34.064627
+        ], 
         "type": "Point"
-    },
-    "location_address": "531 W COLLEGE ST",
-    "location_city": "LOS ANGELES",
-    "location_state": "CA",
-    "location_zip": "90012",
+    }, 
+    "location_address": "531 W COLLEGE ST", 
+    "location_city": "LOS ANGELES", 
+    "location_state": "CA", 
+    "location_zip": "90012", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pamc.net"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2136248411",
-    "provider_id": "050018",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2136248411", 
+    "provider_id": "050018", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "90012"
 }

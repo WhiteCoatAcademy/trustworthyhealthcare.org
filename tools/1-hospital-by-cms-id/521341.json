@@ -1,39 +1,49 @@
 {
-    "address": "333 E SECOND ST",
-    "city": "RICHLAND CENTER",
-    "county_name": "RICHLAND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "RICHLAND HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "333 E SECOND ST", 
+    "city": "RICHLAND CENTER", 
+    "county_name": "RICHLAND", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "RICHLAND HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -90.383236,
-            43.339118
-        ],
+            -90.383645, 
+            43.339119
+        ], 
         "type": "Point"
-    },
-    "location_address": "333 E SECOND ST",
-    "location_city": "RICHLAND CENTER",
-    "location_state": "WI",
-    "location_zip": "53581",
+    }, 
+    "location_address": "333 E SECOND ST", 
+    "location_city": "RICHLAND CENTER", 
+    "location_state": "WI", 
+    "location_zip": "53581", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.richlandhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6086476321",
-    "provider_id": "521341",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6086476321", 
+    "provider_id": "521341", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "53581"
 }

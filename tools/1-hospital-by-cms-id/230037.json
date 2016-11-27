@@ -1,39 +1,47 @@
 {
-    "address": "168 S HOWELL STREET",
-    "city": "HILLSDALE",
-    "county_name": "HILLSDALE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HILLSDALE COMMUNITY HEALTH CENTER",
-    "hospital_ownership": "Government - Federal",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "168 S HOWELL STREET", 
+    "city": "HILLSDALE", 
+    "county_name": "HILLSDALE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HILLSDALE HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.631703,
-            41.911797
-        ],
+            -84.631702, 
+            41.911489
+        ], 
         "type": "Point"
-    },
-    "location_address": "168 S HOWELL STREET",
-    "location_city": "HILLSDALE",
-    "location_state": "MI",
-    "location_zip": "49242",
+    }, 
+    "location_address": "168 S HOWELL STREET", 
+    "location_city": "HILLSDALE", 
+    "location_state": "MI", 
+    "location_zip": "49242", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.hchc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5174374451",
-    "provider_id": "230037",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5174374451", 
+    "provider_id": "230037", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "49242"
 }

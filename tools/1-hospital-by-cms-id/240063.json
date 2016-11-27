@@ -1,41 +1,49 @@
 {
-    "address": "45 WEST 10TH STREET",
-    "city": "SAINT PAUL",
-    "county_name": "RAMSEY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOSEPH'S HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "45 WEST 10TH STREET", 
+    "city": "SAINT PAUL", 
+    "county_name": "RAMSEY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JOSEPH'S HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.100808,
-            44.948774
-        ],
+            -93.100037, 
+            44.949108
+        ], 
         "type": "Point"
-    },
-    "location_address": "45 WEST 10TH STREET",
-    "location_city": "SAINT PAUL",
-    "location_state": "MN",
-    "location_zip": "55102",
+    }, 
+    "location_address": "45 WEST 10TH STREET", 
+    "location_city": "SAINT PAUL", 
+    "location_state": "MN", 
+    "location_zip": "55102", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stjosephs-stpaul.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HealthEast Care System",
+        "name": "HealthEast Care System", 
         "websites": [
             "www.healtheast.org"
         ]
-    },
-    "phone_number": "6512327707",
-    "provider_id": "240063",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6512327707", 
+    "provider_id": "240063", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "55102"
 }

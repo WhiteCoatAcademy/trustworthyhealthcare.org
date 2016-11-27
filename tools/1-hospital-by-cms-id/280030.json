@@ -1,41 +1,49 @@
 {
-    "address": "601 NORTH 30TH ST",
-    "city": "OMAHA",
-    "county_name": "DOUGLAS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHI HEALTH CREIGHTON UNIVERSITY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "601 NORTH 30TH ST", 
+    "city": "OMAHA", 
+    "county_name": "DOUGLAS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHI HLTH CREIGHTON UNIVERSITY MED CTR-BERGAN MERCY", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.956512,
-            41.264776
-        ],
+            -95.956492, 
+            41.265305
+        ], 
         "type": "Point"
-    },
-    "location_address": "601 NORTH 30TH ST",
-    "location_city": "OMAHA",
-    "location_state": "NE",
-    "location_zip": "68131",
+    }, 
+    "location_address": "601 NORTH 30TH ST", 
+    "location_city": "OMAHA", 
+    "location_state": "NE", 
+    "location_zip": "68131", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.creightonhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "TENET Healthcare",
+        "name": "TENET Healthcare", 
         "websites": [
             "www.tenethealth.com"
         ]
-    },
-    "phone_number": "4024494000",
-    "provider_id": "280030",
-    "raw_ratings": {},
-    "state": "NE",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "4024494000", 
+    "provider_id": "280030", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NE", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "68131"
 }

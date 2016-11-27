@@ -1,39 +1,49 @@
 {
-    "address": "200 HEALTHCARE DR",
-    "city": "GREENVILLE",
-    "county_name": "BOND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GREENVILLE REGIONAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 HEALTHCARE DR", 
+    "city": "GREENVILLE", 
+    "county_name": "BOND", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GREENVILLE REGIONAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.408701,
-            38.901655
-        ],
+            -89.408675, 
+            38.902084
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 HEALTHCARE DR",
-    "location_city": "GREENVILLE",
-    "location_state": "IL",
-    "location_zip": "62246",
+    }, 
+    "location_address": "200 HEALTHCARE DR", 
+    "location_city": "GREENVILLE", 
+    "location_state": "IL", 
+    "location_zip": "62246", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.greenvilleregionalhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6186641230",
-    "provider_id": "140137",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6186641230", 
+    "provider_id": "140137", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "62246"
 }

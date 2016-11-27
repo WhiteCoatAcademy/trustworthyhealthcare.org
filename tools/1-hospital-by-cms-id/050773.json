@@ -1,39 +1,48 @@
 {
-    "address": "13855 E 14TH STREET",
-    "city": "SAN LEANDRO",
-    "county_name": "ALAMEDA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAN LEANDRO HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "13855 E 14TH STREET", 
+    "city": "SAN LEANDRO", 
+    "county_name": "ALAMEDA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAN LEANDRO HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.14195,
-            37.714618
-        ],
+            -122.141973, 
+            37.714632
+        ], 
         "type": "Point"
-    },
-    "location_address": "13855 E 14TH STREET",
-    "location_city": "SAN LEANDRO",
-    "location_state": "CA",
-    "location_zip": "94578",
+    }, 
+    "location_address": "13855 E 14TH STREET", 
+    "location_city": "SAN LEANDRO", 
+    "location_state": "CA", 
+    "location_zip": "94578", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.montclair-hospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5103576500",
-    "provider_id": "050773",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5103576500", 
+    "provider_id": "050773", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "94578"
 }

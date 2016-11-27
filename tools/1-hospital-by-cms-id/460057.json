@@ -1,39 +1,48 @@
 {
-    "address": "900 ROUND VALLEY DRIVE",
-    "city": "PARK CITY",
-    "county_name": "SUMMIT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PARK CITY MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "900 ROUND VALLEY DRIVE", 
+    "city": "PARK CITY", 
+    "county_name": "SUMMIT", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PARK CITY MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -111.467791,
-            40.68756
-        ],
+            -111.468982, 
+            40.687671
+        ], 
         "type": "Point"
-    },
-    "location_address": "900 ROUND VALLEY DRIVE",
-    "location_city": "PARK CITY",
-    "location_state": "UT",
-    "location_zip": "84060",
+    }, 
+    "location_address": "900 ROUND VALLEY DRIVE", 
+    "location_city": "PARK CITY", 
+    "location_state": "UT", 
+    "location_zip": "84060", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cvsh.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4356586700",
-    "provider_id": "460057",
-    "raw_ratings": {},
-    "state": "UT",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4356586700", 
+    "provider_id": "460057", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "UT", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "84060"
 }

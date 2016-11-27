@@ -1,38 +1,47 @@
 {
-    "address": "45TH AVENUE AND PARSONS BOULEVARD",
-    "city": "FLUSHING",
-    "county_name": "QUEENS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FLUSHING HOSPITAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "45TH AVENUE AND PARSONS BOULEVARD", 
+    "city": "FLUSHING", 
+    "county_name": "QUEENS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FLUSHING HOSPITAL MEDICAL CENTER", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"45TH AVENUE AND PARSONS BOULEVARD\",\"city\":\"FLUSHING\",\"state\":\"NY\",\"zip\":\"\"}",
-        "latitude": "40.755631390000076",
-        "longitude": "-73.81563939899996",
-        "needs_recoding": false
-    },
-    "location_address": "45TH AVENUE AND PARSONS BOULEVARD",
-    "location_city": "FLUSHING",
-    "location_state": "NY",
-    "location_zip": "11355",
+        "coordinates": [
+            -73.815645, 
+            40.755636
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "45TH AVENUE AND PARSONS BOULEVARD", 
+    "location_city": "FLUSHING", 
+    "location_state": "NY", 
+    "location_zip": "11355", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.flushinghospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7186705000",
-    "provider_id": "330193",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7186705000", 
+    "provider_id": "330193", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "11355"
 }

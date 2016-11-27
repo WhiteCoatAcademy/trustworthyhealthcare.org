@@ -1,41 +1,49 @@
 {
-    "address": "505 PARNASSUS AVE, BOX 0296",
-    "city": "SAN FRANCISCO",
-    "county_name": "SAN FRANCISCO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UCSF MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "505 PARNASSUS AVE, BOX 0296", 
+    "city": "SAN FRANCISCO", 
+    "county_name": "SAN FRANCISCO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UCSF MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.457942,
-            37.763471
-        ],
+            -122.457654, 
+            37.763553
+        ], 
         "type": "Point"
-    },
-    "location_address": "505 PARNASSUS AVE, BOX 0296",
-    "location_city": "SAN FRANCISCO",
-    "location_state": "CA",
-    "location_zip": "94143",
+    }, 
+    "location_address": "505 PARNASSUS AVE, BOX 0296", 
+    "location_city": "SAN FRANCISCO", 
+    "location_state": "CA", 
+    "location_zip": "94143", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ucsfhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "University of California San Francisco Medical Center",
+        "name": "University of California San Francisco Medical Center", 
         "websites": [
             "www.ucsfhealth.org"
         ]
-    },
-    "phone_number": "4153532733",
-    "provider_id": "050454",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4153532733", 
+    "provider_id": "050454", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "94143"
 }

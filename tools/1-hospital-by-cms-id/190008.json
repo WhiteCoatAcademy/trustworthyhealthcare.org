@@ -1,39 +1,47 @@
 {
-    "address": "8166 MAIN STREET",
-    "city": "HOUMA",
-    "county_name": "TERREBONNE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "TERREBONNE GENERAL MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "8166 MAIN STREET", 
+    "city": "HOUMA", 
+    "county_name": "TERREBONNE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "TERREBONNE GENERAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.714322,
+            -90.714322, 
             29.598537
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "8166 MAIN STREET",
-    "location_city": "HOUMA",
-    "location_state": "LA",
-    "location_zip": "70360",
+    }, 
+    "location_address": "8166 MAIN STREET", 
+    "location_city": "HOUMA", 
+    "location_state": "LA", 
+    "location_zip": "70360", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.tgmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9858734141",
-    "provider_id": "190008",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9858734141", 
+    "provider_id": "190008", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "70360"
 }

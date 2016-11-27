@@ -1,39 +1,47 @@
 {
-    "address": "1800 W CHARLESTON BLVD",
-    "city": "LAS VEGAS",
-    "county_name": "CLARK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "UNIVERSITY MEDICAL CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1800 W CHARLESTON BLVD", 
+    "city": "LAS VEGAS", 
+    "county_name": "CLARK", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "UNIVERSITY MEDICAL CENTER", 
+    "hospital_overall_rating": "1", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -115.165463,
-            36.15894
-        ],
+            -115.165945, 
+            36.158941
+        ], 
         "type": "Point"
-    },
-    "location_address": "1800 W CHARLESTON BLVD",
-    "location_city": "LAS VEGAS",
-    "location_state": "NV",
-    "location_zip": "89102",
+    }, 
+    "location_address": "1800 W CHARLESTON BLVD", 
+    "location_city": "LAS VEGAS", 
+    "location_state": "NV", 
+    "location_zip": "89102", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.umcsn.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7023832000",
-    "provider_id": "290007",
-    "raw_ratings": {},
-    "state": "NV",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7023832000", 
+    "provider_id": "290007", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NV", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "89102"
 }

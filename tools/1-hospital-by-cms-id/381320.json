@@ -1,39 +1,51 @@
 {
-    "address": "2111 EXCHANGE STREET",
-    "city": "ASTORIA",
-    "county_name": "CLATSOP",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COLUMBIA MEMORIAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "2111 EXCHANGE STREET", 
+    "city": "ASTORIA", 
+    "county_name": "CLATSOP", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COLUMBIA MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -123.818457,
-            46.188506
-        ],
+            -123.81846, 
+            46.188505
+        ], 
         "type": "Point"
-    },
-    "location_address": "2111 EXCHANGE STREET",
-    "location_city": "ASTORIA",
-    "location_state": "OR",
-    "location_zip": "97103",
+    }, 
+    "location_address": "2111 EXCHANGE STREET", 
+    "location_city": "ASTORIA", 
+    "location_state": "OR", 
+    "location_zip": "97103", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.columbiamemorial.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5033254321",
-    "provider_id": "381320",
-    "raw_ratings": {},
-    "state": "OR",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "5033254321", 
+    "provider_id": "381320", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OR", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "97103"
 }

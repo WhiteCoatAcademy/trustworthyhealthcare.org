@@ -1,39 +1,47 @@
 {
-    "address": "16251 SYLVESTER ROAD SW",
-    "city": "BURIEN",
-    "county_name": "KING",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HIGHLINE MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "16251 SYLVESTER ROAD SW", 
+    "city": "BURIEN", 
+    "county_name": "KING", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HIGHLINE MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.341623,
-            47.456585
-        ],
+            -122.341455, 
+            47.456778
+        ], 
         "type": "Point"
-    },
-    "location_address": "16251 SYLVESTER ROAD SW",
-    "location_city": "BURIEN",
-    "location_state": "WA",
-    "location_zip": "98166",
+    }, 
+    "location_address": "16251 SYLVESTER ROAD SW", 
+    "location_city": "BURIEN", 
+    "location_state": "WA", 
+    "location_zip": "98166", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.highlinemedical.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2062449970",
-    "provider_id": "500011",
-    "raw_ratings": {},
-    "state": "WA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2062449970", 
+    "provider_id": "500011", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "98166"
 }

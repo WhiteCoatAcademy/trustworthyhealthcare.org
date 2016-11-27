@@ -1,38 +1,47 @@
 {
-    "address": "23625 W R HOLMAN HIGHWAY",
-    "city": "MONTEREY",
-    "county_name": "MONTEREY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "COMMUNITY HOSPITAL OF THE MONTEREY PENINSULA",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "23625 W R HOLMAN HIGHWAY", 
+    "city": "MONTEREY", 
+    "county_name": "MONTEREY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "COMMUNITY HOSPITAL OF THE MONTEREY PENINSULA", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"23625 W R HOLMAN HIGHWAY\",\"city\":\"MONTEREY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "36.59759100200006",
-        "longitude": "-121.89676979899997",
-        "needs_recoding": false
-    },
-    "location_address": "23625 W R HOLMAN HIGHWAY",
-    "location_city": "MONTEREY",
-    "location_state": "CA",
-    "location_zip": "93940",
+        "coordinates": [
+            -121.914874, 
+            36.577609
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "23625 W R HOLMAN HIGHWAY", 
+    "location_city": "MONTEREY", 
+    "location_state": "CA", 
+    "location_zip": "93940", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.chomp.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8316245311",
-    "provider_id": "050145",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "8316245311", 
+    "provider_id": "050145", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "93940"
 }

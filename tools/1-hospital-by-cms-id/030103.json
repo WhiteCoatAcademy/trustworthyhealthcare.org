@@ -1,41 +1,49 @@
 {
-    "address": "5777 EAST MAYO BOULEVARD",
-    "city": "PHOENIX",
-    "county_name": "MARICOPA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MAYO CLINIC HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5777 EAST MAYO BOULEVARD", 
+    "city": "PHOENIX", 
+    "county_name": "MARICOPA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MAYO CLINIC HOSPITAL", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -111.951056,
-            33.660643
-        ],
+            -111.955634, 
+            33.663306
+        ], 
         "type": "Point"
-    },
-    "location_address": "5777 EAST MAYO BOULEVARD",
-    "location_city": "PHOENIX",
-    "location_state": "AZ",
-    "location_zip": "85054",
+    }, 
+    "location_address": "5777 EAST MAYO BOULEVARD", 
+    "location_city": "PHOENIX", 
+    "location_state": "AZ", 
+    "location_zip": "85054", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.mayoclinic.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Mayo Health System",
+        "name": "Mayo Health System", 
         "websites": [
             "www.mayohealthsystem.org"
         ]
-    },
-    "phone_number": "4803422000",
-    "provider_id": "030103",
-    "raw_ratings": {},
-    "state": "AZ",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4803422000", 
+    "provider_id": "030103", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "AZ", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "85054"
 }

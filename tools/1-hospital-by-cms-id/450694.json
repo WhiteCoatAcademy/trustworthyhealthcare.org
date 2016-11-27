@@ -1,39 +1,50 @@
 {
-    "address": "303 SANDY CORNER RD",
-    "city": "EL CAMPO",
-    "county_name": "WHARTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "EL CAMPO MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "303 SANDY CORNER RD", 
+    "city": "EL CAMPO", 
+    "county_name": "WHARTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "EL CAMPO MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.289577,
-            29.219127
-        ],
+            -96.289363, 
+            29.218479
+        ], 
         "type": "Point"
-    },
-    "location_address": "303 SANDY CORNER RD",
-    "location_city": "EL CAMPO",
-    "location_state": "TX",
-    "location_zip": "77437",
+    }, 
+    "location_address": "303 SANDY CORNER RD", 
+    "location_city": "EL CAMPO", 
+    "location_state": "TX", 
+    "location_zip": "77437", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ecmh.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "9795785251",
-    "provider_id": "450694",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "9795785251", 
+    "provider_id": "450694", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "77437"
 }

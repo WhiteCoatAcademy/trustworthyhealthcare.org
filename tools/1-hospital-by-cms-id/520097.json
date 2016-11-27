@@ -1,41 +1,49 @@
 {
-    "address": "1726 SHAWANO AVE",
-    "city": "GREEN BAY",
-    "county_name": "BROWN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST MARYS HOSPITAL MEDICAL CTR",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1726 SHAWANO AVE", 
+    "city": "GREEN BAY", 
+    "county_name": "BROWN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST MARYS HOSPITAL MEDICAL CTR", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.07075,
-            44.533652
-        ],
+            -88.066561, 
+            44.532184
+        ], 
         "type": "Point"
-    },
-    "location_address": "1726 SHAWANO AVE",
-    "location_city": "GREEN BAY",
-    "location_state": "WI",
-    "location_zip": "54303",
+    }, 
+    "location_address": "1726 SHAWANO AVE", 
+    "location_city": "GREEN BAY", 
+    "location_state": "WI", 
+    "location_zip": "54303", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stmgb.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Hospital Sisters Health System",
+        "name": "Hospital Sisters Health System", 
         "websites": [
             "www.hshs.org"
         ]
-    },
-    "phone_number": "9204984200",
-    "provider_id": "520097",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9204984200", 
+    "provider_id": "520097", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "54303"
 }

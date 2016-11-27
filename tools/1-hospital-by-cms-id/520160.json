@@ -1,41 +1,49 @@
 {
-    "address": "1818 N MEADE ST",
-    "city": "APPLETON",
-    "county_name": "OUTAGAMIE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "APPLETON MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1818 N MEADE ST", 
+    "city": "APPLETON", 
+    "county_name": "OUTAGAMIE", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "THEDACARE REGIONAL MEDICAL CENTER - APPLETON INC", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.395612,
-            44.278756
-        ],
+            -88.395612, 
+            44.278772
+        ], 
         "type": "Point"
-    },
-    "location_address": "1818 N MEADE ST",
-    "location_city": "APPLETON",
-    "location_state": "WI",
-    "location_zip": "54911",
+    }, 
+    "location_address": "1818 N MEADE ST", 
+    "location_city": "APPLETON", 
+    "location_state": "WI", 
+    "location_zip": "54911", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.thedacare.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "ThedaCare, Inc",
+        "name": "ThedaCare, Inc", 
         "websites": [
             "www.thedacare.org"
         ]
-    },
-    "phone_number": "9207314101",
-    "provider_id": "520160",
-    "raw_ratings": {},
-    "state": "WI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "9207314101", 
+    "provider_id": "520160", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "WI", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "54911"
 }

@@ -1,39 +1,47 @@
 {
-    "address": "4600 SPOTSYLVANIA PARKWAY",
-    "city": "FREDERICKSBURG",
-    "county_name": "SPOTSYLVANIA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SPOTSYLVANIA REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4600 SPOTSYLVANIA PARKWAY", 
+    "city": "FREDERICKSBURG", 
+    "county_name": "SPOTSYLVANIA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SPOTSYLVANIA REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -77.49645,
-            38.219496
-        ],
+            -77.498215, 
+            38.219421
+        ], 
         "type": "Point"
-    },
-    "location_address": "4600 SPOTSYLVANIA PARKWAY",
-    "location_city": "FREDERICKSBURG",
-    "location_state": "VA",
-    "location_zip": "22408",
+    }, 
+    "location_address": "4600 SPOTSYLVANIA PARKWAY", 
+    "location_city": "FREDERICKSBURG", 
+    "location_state": "VA", 
+    "location_zip": "22408", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bonsecours.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5404984000",
-    "provider_id": "490141",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5404984000", 
+    "provider_id": "490141", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "22408"
 }

@@ -1,38 +1,49 @@
 {
-    "address": "123 MEDICAL PARK DRIVE PO BOX 188",
-    "city": "PICKENS",
-    "county_name": "PICKENS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CANNON MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "123 MEDICAL PARK DRIVE PO BOX 188", 
+    "city": "PICKENS", 
+    "county_name": "PICKENS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CANNON MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"123 MEDICAL PARK DRIVE PO BOX 188\",\"city\":\"PICKENS\",\"state\":\"SC\",\"zip\":\"\"}",
-        "latitude": "34.88370314800005",
-        "longitude": "-82.70750980299994",
-        "needs_recoding": false
-    },
-    "location_address": "123 MEDICAL PARK DRIVE PO BOX 188",
-    "location_city": "PICKENS",
-    "location_state": "SC",
-    "location_zip": "29671",
+        "coordinates": [
+            -82.635592, 
+            34.897174
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "123 MEDICAL PARK DRIVE PO BOX 188", 
+    "location_city": "PICKENS", 
+    "location_state": "SC", 
+    "location_zip": "29671", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.cannonhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "8648784791",
-    "provider_id": "420011",
-    "raw_ratings": {},
-    "state": "SC",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8648784791", 
+    "provider_id": "420011", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "SC", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "29671"
 }

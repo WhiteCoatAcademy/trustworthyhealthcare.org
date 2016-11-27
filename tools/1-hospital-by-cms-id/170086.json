@@ -1,38 +1,47 @@
 {
-    "address": "1500 SW 10TH ST",
-    "city": "TOPEKA",
-    "county_name": "SHAWNEE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "STORMONT-VAIL HEALTHCARE",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1500 SW 10TH AVENUE", 
+    "city": "TOPEKA", 
+    "county_name": "SHAWNEE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "STORMONT VAIL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"1500 SW 10TH ST\",\"city\":\"TOPEKA\",\"state\":\"KS\",\"zip\":\"\"}",
-        "latitude": "39.051277277000054",
-        "longitude": "-95.69614417999998",
-        "needs_recoding": false
-    },
-    "location_address": "1500 SW 10TH ST",
-    "location_city": "TOPEKA",
-    "location_state": "KS",
-    "location_zip": "66604",
+        "coordinates": [
+            -95.695627, 
+            39.051129
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "1500 SW 10TH AVENUE", 
+    "location_city": "TOPEKA", 
+    "location_state": "KS", 
+    "location_zip": "66604", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stormontvail.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7853546121",
-    "provider_id": "170086",
-    "raw_ratings": {},
-    "state": "KS",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7853546121", 
+    "provider_id": "170086", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "KS", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "66604"
 }

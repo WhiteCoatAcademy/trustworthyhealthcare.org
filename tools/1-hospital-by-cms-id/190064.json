@@ -1,41 +1,49 @@
 {
-    "address": "5000 HENNESSY BLVD",
-    "city": "BATON ROUGE",
-    "county_name": "EAST BATON ROUGE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5000 HENNESSY BLVD", 
+    "city": "BATON ROUGE", 
+    "county_name": "EAST BATON ROUGE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -91.111528,
+            -91.111528, 
             30.401318
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "5000 HENNESSY BLVD",
-    "location_city": "BATON ROUGE",
-    "location_state": "LA",
-    "location_zip": "70808",
+    }, 
+    "location_address": "5000 HENNESSY BLVD", 
+    "location_city": "BATON ROUGE", 
+    "location_state": "LA", 
+    "location_zip": "70808", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ololrmc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Franciscan Missionaries of Our Lady Health System",
+        "name": "Franciscan Missionaries of Our Lady Health System", 
         "websites": [
             "www.fmolhs.org"
         ]
-    },
-    "phone_number": "2257656565",
-    "provider_id": "190064",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2257656565", 
+    "provider_id": "190064", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "70808"
 }

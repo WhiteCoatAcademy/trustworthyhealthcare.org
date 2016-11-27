@@ -1,41 +1,49 @@
 {
-    "address": "1235 E CHEROKEE",
-    "city": "SPRINGFIELD",
-    "county_name": "GREENE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MERCY HOSPITAL SPRINGFIELD",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1235 E CHEROKEE", 
+    "city": "SPRINGFIELD", 
+    "county_name": "GREENE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MERCY HOSPITAL SPRINGFIELD", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.275861,
-            37.178174
-        ],
+            -93.276636, 
+            37.178237
+        ], 
         "type": "Point"
-    },
-    "location_address": "1235 E CHEROKEE",
-    "location_city": "SPRINGFIELD",
-    "location_state": "MO",
-    "location_zip": "65804",
+    }, 
+    "location_address": "1235 E CHEROKEE", 
+    "location_city": "SPRINGFIELD", 
+    "location_state": "MO", 
+    "location_zip": "65804", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stjohns.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sisters of Mercy Health System",
+        "name": "Sisters of Mercy Health System", 
         "websites": [
             "www.mercy.net"
         ]
-    },
-    "phone_number": "4178202000",
-    "provider_id": "260065",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4178202000", 
+    "provider_id": "260065", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "65804"
 }

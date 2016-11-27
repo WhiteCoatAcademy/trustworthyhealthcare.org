@@ -1,41 +1,54 @@
 {
-    "address": "701 LEWISTON ST",
-    "city": "COTTONWOOD",
-    "county_name": "IDAHO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST MARY'S HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "701 LEWISTON ST", 
+    "city": "COTTONWOOD", 
+    "county_name": "IDAHO", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST MARY'S HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -116.351596,
-            46.050324
-        ],
+            -116.351645, 
+            46.050371
+        ], 
         "type": "Point"
-    },
-    "location_address": "701 LEWISTON ST",
-    "location_city": "COTTONWOOD",
-    "location_state": "ID",
-    "location_zip": "83522",
+    }, 
+    "location_address": "701 LEWISTON ST", 
+    "location_city": "COTTONWOOD", 
+    "location_state": "ID", 
+    "location_zip": "83522", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.smh-cvhc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Benedictine Health System",
+        "name": "Benedictine Health System", 
         "websites": [
             "www.bhshealth.org"
         ]
-    },
-    "phone_number": "2089623251",
-    "provider_id": "131321",
-    "raw_ratings": {},
-    "state": "ID",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2089623251", 
+    "provider_id": "131321", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "ID", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "83522"
 }

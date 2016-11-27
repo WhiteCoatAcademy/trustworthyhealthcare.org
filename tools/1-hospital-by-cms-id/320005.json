@@ -1,41 +1,49 @@
 {
-    "address": "801 WEST MAPLE STREET",
-    "city": "FARMINGTON",
-    "county_name": "SAN JUAN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAN JUAN REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "801 WEST MAPLE STREET", 
+    "city": "FARMINGTON", 
+    "county_name": "SAN JUAN", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAN JUAN REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -108.217946,
-            36.724842
-        ],
+            -108.215501, 
+            36.724323
+        ], 
         "type": "Point"
-    },
-    "location_address": "801 WEST MAPLE STREET",
-    "location_city": "FARMINGTON",
-    "location_state": "NM",
-    "location_zip": "87401",
+    }, 
+    "location_address": "801 WEST MAPLE STREET", 
+    "location_city": "FARMINGTON", 
+    "location_state": "NM", 
+    "location_zip": "87401", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sanjuanregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "San Juan Regional Medical Center Network",
+        "name": "San Juan Regional Medical Center Network", 
         "websites": [
             "www.sanjuanregional.com"
         ]
-    },
-    "phone_number": "5056092000",
-    "provider_id": "320005",
-    "raw_ratings": {},
-    "state": "NM",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5056092000", 
+    "provider_id": "320005", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NM", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "87401"
 }

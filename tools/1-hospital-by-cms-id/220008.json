@@ -1,39 +1,47 @@
 {
-    "address": "211 PARK STREET",
-    "city": "ATTLEBORO",
-    "county_name": "BRISTOL",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "STURDY MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "211 PARK STREET", 
+    "city": "ATTLEBORO", 
+    "county_name": "BRISTOL", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "STURDY MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -71.27478,
-            41.94262
-        ],
+            -71.275279, 
+            41.942695
+        ], 
         "type": "Point"
-    },
-    "location_address": "211 PARK STREET",
-    "location_city": "ATTLEBORO",
-    "location_state": "MA",
-    "location_zip": "02703",
+    }, 
+    "location_address": "211 PARK STREET", 
+    "location_city": "ATTLEBORO", 
+    "location_state": "MA", 
+    "location_zip": "02703", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sturdymemorial.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5082225200",
-    "provider_id": "220008",
-    "raw_ratings": {},
-    "state": "MA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5082225200", 
+    "provider_id": "220008", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "02703"
 }

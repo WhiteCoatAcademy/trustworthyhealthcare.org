@@ -1,41 +1,50 @@
 {
-    "address": "600 NORTH LEWIS STREET",
-    "city": "NEW IBERIA",
-    "county_name": "IBERIA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DAUTERIVE HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "600 NORTH LEWIS STREET", 
+    "city": "NEW IBERIA", 
+    "county_name": "IBERIA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DAUTERIVE HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -91.795591,
+            -91.795592, 
             30.007689
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "600 NORTH LEWIS STREET",
-    "location_city": "NEW IBERIA",
-    "location_state": "LA",
-    "location_zip": "70563",
+    }, 
+    "location_address": "600 NORTH LEWIS STREET", 
+    "location_city": "NEW IBERIA", 
+    "location_state": "LA", 
+    "location_zip": "70563", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.dauterivehospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "3373657311",
-    "provider_id": "190003",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3373657311", 
+    "provider_id": "190003", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "70563"
 }

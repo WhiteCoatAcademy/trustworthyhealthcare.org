@@ -1,41 +1,49 @@
 {
-    "address": "1301 WONDER WORLD DRIVE",
-    "city": "SAN MARCOS",
-    "county_name": "HAYS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CENTRAL TEXAS MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1301 WONDER WORLD DRIVE", 
+    "city": "SAN MARCOS", 
+    "county_name": "HAYS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CENTRAL TEXAS MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.94664,
+            -97.94664, 
             29.85143
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1301 WONDER WORLD DRIVE",
-    "location_city": "SAN MARCOS",
-    "location_state": "TX",
-    "location_zip": "78666",
+    }, 
+    "location_address": "1301 WONDER WORLD DRIVE", 
+    "location_city": "SAN MARCOS", 
+    "location_state": "TX", 
+    "location_zip": "78666", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ctmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Adventist Health System",
+        "name": "Adventist Health System", 
         "websites": [
             "www.ahss.org"
         ]
-    },
-    "phone_number": "5127533690",
-    "provider_id": "450272",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5127533690", 
+    "provider_id": "450272", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "78666"
 }

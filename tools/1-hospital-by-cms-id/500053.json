@@ -1,39 +1,47 @@
 {
-    "address": "900 SOUTH AUBURN STREET",
-    "city": "KENNEWICK",
-    "county_name": "BENTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "KENNEWICK GENERAL HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "900 SOUTH AUBURN STREET", 
+    "city": "KENNEWICK", 
+    "county_name": "BENTON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "KENNEWICK GENERAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -119.118462,
-            46.199089
-        ],
+            -119.118458, 
+            46.199447
+        ], 
         "type": "Point"
-    },
-    "location_address": "900 SOUTH AUBURN STREET",
-    "location_city": "KENNEWICK",
-    "location_state": "WA",
-    "location_zip": "99336",
+    }, 
+    "location_address": "900 SOUTH AUBURN STREET", 
+    "location_city": "KENNEWICK", 
+    "location_state": "WA", 
+    "location_zip": "99336", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.kennewickgeneral.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5095866111",
-    "provider_id": "500053",
-    "raw_ratings": {},
-    "state": "WA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5095866111", 
+    "provider_id": "500053", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "WA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "99336"
 }

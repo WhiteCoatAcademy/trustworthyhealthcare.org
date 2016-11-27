@@ -1,39 +1,47 @@
 {
-    "address": "555 NORTH DUKE STREET",
-    "city": "LANCASTER",
-    "county_name": "LANCASTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LANCASTER GENERAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "555 NORTH DUKE STREET", 
+    "city": "LANCASTER", 
+    "county_name": "LANCASTER", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LANCASTER GENERAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -76.305399,
-            40.047353
-        ],
+            -76.305328, 
+            40.046975
+        ], 
         "type": "Point"
-    },
-    "location_address": "555 NORTH DUKE STREET",
-    "location_city": "LANCASTER",
-    "location_state": "PA",
-    "location_zip": "17604",
+    }, 
+    "location_address": "555 NORTH DUKE STREET", 
+    "location_city": "LANCASTER", 
+    "location_state": "PA", 
+    "location_zip": "17604", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lancastergeneral.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "7172995511",
-    "provider_id": "390100",
-    "raw_ratings": {},
-    "state": "PA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7172995511", 
+    "provider_id": "390100", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "PA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "17604"
 }

@@ -1,39 +1,49 @@
 {
-    "address": "200 S CEDAR ST",
-    "city": "SHELBYVILLE",
-    "county_name": "SHELBY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SHELBY MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 S CEDAR ST", 
+    "city": "SHELBYVILLE", 
+    "county_name": "SHELBY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SHELBY MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -88.807113,
-            39.405801
-        ],
+            -88.807112, 
+            39.405769
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 S CEDAR ST",
-    "location_city": "SHELBYVILLE",
-    "location_state": "IL",
-    "location_zip": "62565",
+    }, 
+    "location_address": "200 S CEDAR ST", 
+    "location_city": "SHELBYVILLE", 
+    "location_state": "IL", 
+    "location_zip": "62565", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.shelbyville.net"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2177743961",
-    "provider_id": "140019",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2177743961", 
+    "provider_id": "140019", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "62565"
 }

@@ -1,41 +1,55 @@
 {
-    "address": "225 ELYRIA STREET",
-    "city": "LODI",
-    "county_name": "MEDINA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LODI COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "225 ELYRIA STREET", 
+    "city": "LODI", 
+    "county_name": "MEDINA", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LODI COMMUNITY HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -82.013656,
-            41.036371
-        ],
+            -82.013669, 
+            41.036399
+        ], 
         "type": "Point"
-    },
-    "location_address": "225 ELYRIA STREET",
-    "location_city": "LODI",
-    "location_state": "OH",
-    "location_zip": "44254",
+    }, 
+    "location_address": "225 ELYRIA STREET", 
+    "location_city": "LODI", 
+    "location_state": "OH", 
+    "location_zip": "44254", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lodihospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Akron General Health System",
+        "name": "Akron General Health System", 
         "websites": [
             "www.akrongeneral.org"
         ]
-    },
-    "phone_number": "3309481222",
-    "provider_id": "361303",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "3309481222", 
+    "provider_id": "361303", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "44254"
 }

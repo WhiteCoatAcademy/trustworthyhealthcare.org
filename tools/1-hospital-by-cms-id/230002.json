@@ -1,40 +1,49 @@
 {
-    "address": "36475 FIVE MILE ROAD",
-    "city": "LIVONIA",
-    "county_name": "WAYNE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST MARY MERCY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "36475 FIVE MILE ROAD", 
+    "city": "LIVONIA", 
+    "county_name": "WAYNE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST MARY MERCY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"36475 FIVE MILE ROAD\",\"city\":\"LIVONIA\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.39660143100008",
-        "longitude": "-83.40315008299996",
-        "needs_recoding": false
-    },
-    "location_address": "36475 FIVE MILE ROAD",
-    "location_city": "LIVONIA",
-    "location_state": "MI",
-    "location_zip": "48154",
+        "coordinates": [
+            -83.404618, 
+            42.396568
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "36475 FIVE MILE ROAD", 
+    "location_city": "LIVONIA", 
+    "location_state": "MI", 
+    "location_zip": "48154", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stmarymercy.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Trinity Health",
+        "name": "Trinity Health", 
         "websites": [
             "www.trinity-health.org"
         ]
-    },
-    "phone_number": "7346554800",
-    "provider_id": "230002",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "7346554800", 
+    "provider_id": "230002", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "48154"
 }

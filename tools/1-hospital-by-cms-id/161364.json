@@ -1,39 +1,50 @@
 {
-    "address": "2000 S MAIN",
-    "city": "FAIRFIELD",
-    "county_name": "JEFFERSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JEFFERSON COUNTY HEALTH CENTER",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "2000 S MAIN", 
+    "city": "FAIRFIELD", 
+    "county_name": "JEFFERSON", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JEFFERSON COUNTY HEALTH CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -91.963083,
-            40.989349
-        ],
+            -91.963113, 
+            40.985848
+        ], 
         "type": "Point"
-    },
-    "location_address": "2000 S MAIN",
-    "location_city": "FAIRFIELD",
-    "location_state": "IA",
-    "location_zip": "52556",
+    }, 
+    "location_address": "2000 S MAIN", 
+    "location_city": "FAIRFIELD", 
+    "location_state": "IA", 
+    "location_zip": "52556", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.jchospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "6414724111",
-    "provider_id": "161364",
-    "raw_ratings": {},
-    "state": "IA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6414724111", 
+    "provider_id": "161364", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "52556"
 }

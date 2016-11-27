@@ -1,39 +1,47 @@
 {
-    "address": "2500 BELLEVUE MEDICAL CENTER DR",
-    "city": "BELLEVUE",
-    "county_name": "SARPY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BELLEVUE MEDICAL CENTER DBA NEBRASKA MEDICINE-BELL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2500 BELLEVUE MEDICAL CENTER DR", 
+    "city": "BELLEVUE", 
+    "county_name": "SARPY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BELLEVUE MEDICAL CENTER DBA NEBRASKA MEDICINE-BELL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.94586,
+            -95.94586, 
             41.13639
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "2500 BELLEVUE MEDICAL CENTER DR",
-    "location_city": "BELLEVUE",
-    "location_state": "NE",
-    "location_zip": "68123",
+    }, 
+    "location_address": "2500 BELLEVUE MEDICAL CENTER DR", 
+    "location_city": "BELLEVUE", 
+    "location_state": "NE", 
+    "location_zip": "68123", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.alegent.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4027633600",
-    "provider_id": "280132",
-    "raw_ratings": {},
-    "state": "NE",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4027633600", 
+    "provider_id": "280132", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NE", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "68123"
 }

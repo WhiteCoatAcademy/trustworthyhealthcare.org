@@ -1,40 +1,49 @@
 {
-    "address": "11800 EAST TWELVE MILE ROAD",
-    "city": "WARREN",
-    "county_name": "MACOMB",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST JOHN MACOMB-OAKLAND HOSPITAL-MACOMB CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "11800 EAST TWELVE MILE ROAD", 
+    "city": "WARREN", 
+    "county_name": "MACOMB", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST JOHN MACOMB-OAKLAND HOSPITAL-MACOMB CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"11800 EAST TWELVE MILE ROAD\",\"city\":\"WARREN\",\"state\":\"MI\",\"zip\":\"\"}",
-        "latitude": "42.50713175900006",
-        "longitude": "-83.00501943199998",
-        "needs_recoding": false
-    },
-    "location_address": "11800 EAST TWELVE MILE ROAD",
-    "location_city": "WARREN",
-    "location_state": "MI",
-    "location_zip": "48093",
+        "coordinates": [
+            -83.003535, 
+            42.507178
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "11800 EAST TWELVE MILE ROAD", 
+    "location_city": "WARREN", 
+    "location_state": "MI", 
+    "location_zip": "48093", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stjohn.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ascension Health",
+        "name": "Ascension Health", 
         "websites": [
             "www.ascensionhealth.org"
         ]
-    },
-    "phone_number": "5865735000",
-    "provider_id": "230195",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5865735000", 
+    "provider_id": "230195", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "48093"
 }

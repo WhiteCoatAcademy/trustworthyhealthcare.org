@@ -1,41 +1,49 @@
 {
-    "address": "5633 NORTH LIDGERWOOD",
-    "city": "SPOKANE",
-    "county_name": "SPOKANE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PROVIDENCE HOLY FAMILY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "5633 NORTH LIDGERWOOD", 
+    "city": "SPOKANE", 
+    "county_name": "SPOKANE", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PROVIDENCE HOLY FAMILY HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -117.405904,
-            47.709697
-        ],
+            -117.405904, 
+            47.709751
+        ], 
         "type": "Point"
-    },
-    "location_address": "5633 NORTH LIDGERWOOD",
-    "location_city": "SPOKANE",
-    "location_state": "WA",
-    "location_zip": "99208",
+    }, 
+    "location_address": "5633 NORTH LIDGERWOOD", 
+    "location_city": "SPOKANE", 
+    "location_state": "WA", 
+    "location_zip": "99208", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.holy-family.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Providence Health System",
+        "name": "Providence Health System", 
         "websites": [
             "www.providence.org"
         ]
-    },
-    "phone_number": "5094822450",
-    "provider_id": "500077",
-    "raw_ratings": {},
-    "state": "WA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5094822450", 
+    "provider_id": "500077", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "WA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "99208"
 }

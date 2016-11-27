@@ -1,41 +1,49 @@
 {
-    "address": "3535 SOUTH I35 EAST",
-    "city": "DENTON",
-    "county_name": "DENTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DENTON REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "3535 SOUTH I35 EAST", 
+    "city": "DENTON", 
+    "county_name": "DENTON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DENTON REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.093133,
-            33.176196
-        ],
+            -97.091212, 
+            33.174926
+        ], 
         "type": "Point"
-    },
-    "location_address": "3535 SOUTH I35 EAST",
-    "location_city": "DENTON",
-    "location_state": "TX",
-    "location_zip": "76210",
+    }, 
+    "location_address": "3535 SOUTH I35 EAST", 
+    "location_city": "DENTON", 
+    "location_state": "TX", 
+    "location_zip": "76210", 
+    "mortality_national_comparison": "Above the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.dentonregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "9403843535",
-    "provider_id": "450634",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9403843535", 
+    "provider_id": "450634", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "76210"
 }

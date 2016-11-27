@@ -1,41 +1,49 @@
 {
-    "address": "301 W HOMER ST",
-    "city": "MICHIGAN CITY",
-    "county_name": "LA PORTE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "FRANCISCAN ST ANTHONY HEALTH - MICHIGAN CITY",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "301 W HOMER ST", 
+    "city": "MICHIGAN CITY", 
+    "county_name": "LA PORTE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "FRANCISCAN ST ANTHONY HEALTH - MICHIGAN CITY", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.898965,
-            41.706437
-        ],
+            -86.89985, 
+            41.706374
+        ], 
         "type": "Point"
-    },
-    "location_address": "301 W HOMER ST",
-    "location_city": "MICHIGAN CITY",
-    "location_state": "IN",
-    "location_zip": "46360",
+    }, 
+    "location_address": "301 W HOMER ST", 
+    "location_city": "MICHIGAN CITY", 
+    "location_state": "IN", 
+    "location_zip": "46360", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sahhc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Sisters of Saint Francis Health Services, Inc.",
+        "name": "Sisters of Saint Francis Health Services, Inc.", 
         "websites": [
             "www.ssfhs.org"
         ]
-    },
-    "phone_number": "2198798511",
-    "provider_id": "150015",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2198798511", 
+    "provider_id": "150015", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "46360"
 }

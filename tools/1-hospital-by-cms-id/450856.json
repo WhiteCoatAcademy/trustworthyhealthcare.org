@@ -1,41 +1,53 @@
 {
-    "address": "18600 NORTH HARDY OAK BLVD",
-    "city": "SAN ANTONIO",
-    "county_name": "BEXAR",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOUTH TEXAS SPINE AND SURGICAL HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "18600 NORTH HARDY OAK BLVD", 
+    "city": "SAN ANTONIO", 
+    "county_name": "BEXAR", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTH TEXAS SPINE AND SURGICAL HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -98.478446,
-            29.613952
-        ],
+            -98.478493, 
+            29.613205
+        ], 
         "type": "Point"
-    },
-    "location_address": "18600 NORTH HARDY OAK BLVD",
-    "location_city": "SAN ANTONIO",
-    "location_state": "TX",
-    "location_zip": "78258",
+    }, 
+    "location_address": "18600 NORTH HARDY OAK BLVD", 
+    "location_city": "SAN ANTONIO", 
+    "location_state": "TX", 
+    "location_zip": "78258", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nshinc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "National Surgical Hospitals",
+        "name": "National Surgical Hospitals", 
         "websites": [
             "www.nshinc.com"
         ]
-    },
-    "phone_number": "2104040800",
-    "provider_id": "450856",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2104040800", 
+    "provider_id": "450856", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "78258"
 }

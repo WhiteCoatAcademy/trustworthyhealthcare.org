@@ -1,39 +1,50 @@
 {
-    "address": "211 SKYLINE DRIVE",
-    "city": "WHITE SALMON",
-    "county_name": "KLICKITAT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SKYLINE HOSPITAL",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "211 SKYLINE DRIVE", 
+    "city": "WHITE SALMON", 
+    "county_name": "KLICKITAT", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SKYLINE HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -121.471118,
-            45.723105
-        ],
+            -121.469921, 
+            45.722474
+        ], 
         "type": "Point"
-    },
-    "location_address": "211 SKYLINE DRIVE",
-    "location_city": "WHITE SALMON",
-    "location_state": "WA",
-    "location_zip": "98672",
+    }, 
+    "location_address": "211 SKYLINE DRIVE", 
+    "location_city": "WHITE SALMON", 
+    "location_state": "WA", 
+    "location_zip": "98672", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.skylinehospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5094911101",
-    "provider_id": "501315",
-    "raw_ratings": {},
-    "state": "WA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "5094911101", 
+    "provider_id": "501315", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "WA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "98672"
 }

@@ -1,41 +1,52 @@
 {
-    "address": "1593 EAST POLSTON AVENUE",
-    "city": "POST FALLS",
-    "county_name": "KOOTENAI",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "NORTHWEST SPECIALTY HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1593 EAST POLSTON AVENUE", 
+    "city": "POST FALLS", 
+    "county_name": "KOOTENAI", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "NORTHWEST SPECIALTY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -116.924455,
-            47.71441
-        ],
+            -116.923334, 
+            47.7144
+        ], 
         "type": "Point"
-    },
-    "location_address": "1593 EAST POLSTON AVENUE",
-    "location_city": "POST FALLS",
-    "location_state": "ID",
-    "location_zip": "83854",
+    }, 
+    "location_address": "1593 EAST POLSTON AVENUE", 
+    "location_city": "POST FALLS", 
+    "location_state": "ID", 
+    "location_zip": "83854", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.nshinc.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "National Surgical Hospitals",
+        "name": "National Surgical Hospitals", 
         "websites": [
             "www.nshinc.com"
         ]
-    },
-    "phone_number": "2082622300",
-    "provider_id": "130066",
-    "raw_ratings": {},
-    "state": "ID",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2082622300", 
+    "provider_id": "130066", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "ID", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "83854"
 }

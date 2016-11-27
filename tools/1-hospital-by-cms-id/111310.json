@@ -1,38 +1,50 @@
 {
-    "address": "1960 HIGHWAY 247 CONNECTOR",
-    "city": "BYRON",
-    "county_name": "PEACH",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEDICAL CENTER OF PEACH COUNTY, THE",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1960 HIGHWAY 247 CONNECTOR", 
+    "city": "BYRON", 
+    "county_name": "PEACH", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEDICAL CENTER OF PEACH COUNTY, NAVICENT HEALTH", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"1960 HIGHWAY 247 CONNECTOR\",\"city\":\"BYRON\",\"state\":\"GA\",\"zip\":\"\"}",
-        "latitude": "32.653473191000046",
-        "longitude": "-83.75899950899998",
-        "needs_recoding": false
-    },
-    "location_address": "1960 HIGHWAY 247 CONNECTOR",
-    "location_city": "BYRON",
-    "location_state": "GA",
-    "location_zip": "31008",
+        "coordinates": [
+            -83.758349, 
+            32.606567
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "1960 HIGHWAY 247 CONNECTOR", 
+    "location_city": "BYRON", 
+    "location_state": "GA", 
+    "location_zip": "31008", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.peachregional.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "4786542000",
-    "provider_id": "111310",
-    "raw_ratings": {},
-    "state": "GA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "4786542000", 
+    "provider_id": "111310", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "GA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "31008"
 }

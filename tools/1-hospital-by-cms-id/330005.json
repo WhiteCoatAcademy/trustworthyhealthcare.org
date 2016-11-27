@@ -1,41 +1,49 @@
 {
-    "address": "726 EXCHANGE STREET, SUITE 522",
-    "city": "BUFFALO",
-    "county_name": "ERIE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "KALEIDA HEALTH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "726 EXCHANGE STREET, SUITE 522", 
+    "city": "BUFFALO", 
+    "county_name": "ERIE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "KALEIDA HEALTH", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -78.849749,
-            42.874534
-        ],
+            -78.850067, 
+            42.87459
+        ], 
         "type": "Point"
-    },
-    "location_address": "726 EXCHANGE STREET, SUITE 522",
-    "location_city": "BUFFALO",
-    "location_state": "NY",
-    "location_zip": "14210",
+    }, 
+    "location_address": "726 EXCHANGE STREET, SUITE 522", 
+    "location_city": "BUFFALO", 
+    "location_state": "NY", 
+    "location_zip": "14210", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "bgh.kaleidahealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Kaleida Health",
+        "name": "Kaleida Health", 
         "websites": [
             "www.kaleidahealth.org"
         ]
-    },
-    "phone_number": "7168598620",
-    "provider_id": "330005",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7168598620", 
+    "provider_id": "330005", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "14210"
 }

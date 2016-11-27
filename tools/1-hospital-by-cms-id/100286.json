@@ -1,41 +1,49 @@
 {
-    "address": "6101 PINE RIDGE ROAD",
-    "city": "NAPLES",
-    "county_name": "COLLIER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PHYSICIANS REGIONAL MEDICAL CENTER - PINE RIDGE",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "6101 PINE RIDGE ROAD", 
+    "city": "NAPLES", 
+    "county_name": "COLLIER", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PHYSICIANS REGIONAL MEDICAL CENTER - PINE RIDGE", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.730707,
-            26.211764
-        ],
+            -81.732356, 
+            26.211743
+        ], 
         "type": "Point"
-    },
-    "location_address": "6101 PINE RIDGE ROAD",
-    "location_city": "NAPLES",
-    "location_state": "FL",
-    "location_zip": "34119",
+    }, 
+    "location_address": "6101 PINE RIDGE ROAD", 
+    "location_city": "NAPLES", 
+    "location_state": "FL", 
+    "location_zip": "34119", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.physiciansregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Health Management Associates, Inc.",
+        "name": "Health Management Associates, Inc.", 
         "websites": [
             "www.hma.com"
         ]
-    },
-    "phone_number": "2393484000",
-    "provider_id": "100286",
-    "raw_ratings": {},
-    "state": "FL",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2393484000", 
+    "provider_id": "100286", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "FL", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "34119"
 }

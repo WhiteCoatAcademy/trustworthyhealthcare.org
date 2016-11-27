@@ -1,41 +1,49 @@
 {
-    "address": "929 NORTH ST FRANCIS STREET",
-    "city": "WICHITA",
-    "county_name": "SEDGWICK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "VIA CHRISTI HOSPITALS WICHITA, INC",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "929 NORTH ST FRANCIS STREET", 
+    "city": "WICHITA", 
+    "county_name": "SEDGWICK", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "VIA CHRISTI HOSPITALS WICHITA, INC", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.331708,
-            37.700278
-        ],
+            -97.331694, 
+            37.700627
+        ], 
         "type": "Point"
-    },
-    "location_address": "929 NORTH ST FRANCIS STREET",
-    "location_city": "WICHITA",
-    "location_state": "KS",
-    "location_zip": "67214",
+    }, 
+    "location_address": "929 NORTH ST FRANCIS STREET", 
+    "location_city": "WICHITA", 
+    "location_state": "KS", 
+    "location_zip": "67214", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.via-christi.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Via Christi Health System",
+        "name": "Via Christi Health System", 
         "websites": [
             "www.via-christi.org"
         ]
-    },
-    "phone_number": "3162681381",
-    "provider_id": "170122",
-    "raw_ratings": {},
-    "state": "KS",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3162685000", 
+    "provider_id": "170122", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "KS", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "67214"
 }

@@ -1,39 +1,50 @@
 {
-    "address": "500 W VOTAW ST",
-    "city": "PORTLAND",
-    "county_name": "JAY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JAY COUNTY HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "500 W VOTAW ST", 
+    "city": "PORTLAND", 
+    "county_name": "JAY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JAY COUNTY HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -84.983524,
-            40.439375
-        ],
+            -84.983445, 
+            40.439377
+        ], 
         "type": "Point"
-    },
-    "location_address": "500 W VOTAW ST",
-    "location_city": "PORTLAND",
-    "location_state": "IN",
-    "location_zip": "47371",
+    }, 
+    "location_address": "500 W VOTAW ST", 
+    "location_city": "PORTLAND", 
+    "location_state": "IN", 
+    "location_zip": "47371", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.jaycountyhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2607267131",
-    "provider_id": "151320",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2607267131", 
+    "provider_id": "151320", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "47371"
 }

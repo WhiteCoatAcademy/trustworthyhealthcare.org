@@ -1,39 +1,47 @@
 {
-    "address": "214 EAST 23RD STREET",
-    "city": "CHEYENNE",
-    "county_name": "LARAMIE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CHEYENNE REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "214 EAST 23RD STREET", 
+    "city": "CHEYENNE", 
+    "county_name": "LARAMIE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CHEYENNE REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -104.817035,
-            41.13979
-        ],
+            -104.817036, 
+            41.139789
+        ], 
         "type": "Point"
-    },
-    "location_address": "214 EAST 23RD STREET",
-    "location_city": "CHEYENNE",
-    "location_state": "WY",
-    "location_zip": "82001",
+    }, 
+    "location_address": "214 EAST 23RD STREET", 
+    "location_city": "CHEYENNE", 
+    "location_state": "WY", 
+    "location_zip": "82001", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.umcwy.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3076342273",
-    "provider_id": "530014",
-    "raw_ratings": {},
-    "state": "WY",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "3076342273", 
+    "provider_id": "530014", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "WY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "82001"
 }

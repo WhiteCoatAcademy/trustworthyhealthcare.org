@@ -1,39 +1,51 @@
 {
-    "address": "1500 LINE AVENUE",
-    "city": "SHREVEPORT",
-    "county_name": "CADDO",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "SPECIALISTS HOSPITAL SHREVEPORT",
-    "hospital_ownership": "Physician",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1500 LINE AVENUE", 
+    "city": "SHREVEPORT", 
+    "county_name": "CADDO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "SPECIALISTS HOSPITAL SHREVEPORT", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Physician", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -93.74605,
-            32.497364
-        ],
+            -93.746046, 
+            32.496926
+        ], 
         "type": "Point"
-    },
-    "location_address": "1500 LINE AVENUE",
-    "location_city": "SHREVEPORT",
-    "location_state": "LA",
-    "location_zip": "71101",
+    }, 
+    "location_address": "1500 LINE AVENUE", 
+    "location_city": "SHREVEPORT", 
+    "location_state": "LA", 
+    "location_zip": "71101", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.specialistshealthsystem.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "3182133800",
-    "provider_id": "190278",
-    "raw_ratings": {},
-    "state": "LA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "3182133800", 
+    "provider_id": "190278", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "LA", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "71101"
 }

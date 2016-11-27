@@ -1,41 +1,49 @@
 {
-    "address": "600 SOUTH MONROE",
-    "city": "ENID",
-    "county_name": "GARFIELD",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "INTEGRIS BASS BAPTIST HEALTH CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "600 SOUTH MONROE", 
+    "city": "ENID", 
+    "county_name": "GARFIELD", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "INTEGRIS BASS BAPTIST HEALTH CENTER", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.886522,
-            36.39087
-        ],
+            -97.886499, 
+            36.389907
+        ], 
         "type": "Point"
-    },
-    "location_address": "600 SOUTH MONROE",
-    "location_city": "ENID",
-    "location_state": "OK",
-    "location_zip": "73701",
+    }, 
+    "location_address": "600 SOUTH MONROE", 
+    "location_city": "ENID", 
+    "location_state": "OK", 
+    "location_zip": "73701", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.integris-health.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "INTEGRIS Health",
+        "name": "INTEGRIS Health", 
         "websites": [
             "www.integris-health.com"
         ]
-    },
-    "phone_number": "5802332300",
-    "provider_id": "370016",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5802332300", 
+    "provider_id": "370016", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "73701"
 }

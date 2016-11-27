@@ -1,41 +1,49 @@
 {
-    "address": "701 NORTH BROADWAY",
-    "city": "SLEEPY HOLLOW",
-    "county_name": "WESTCHESTER",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PHELPS MEMORIAL HOSPITAL ASSN",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "701 NORTH BROADWAY", 
+    "city": "SLEEPY HOLLOW", 
+    "county_name": "WESTCHESTER", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "PHELPS MEMORIAL HOSPITAL ASSN", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -73.859639,
+            -73.859639, 
             41.107555
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "701 NORTH BROADWAY",
-    "location_city": "SLEEPY HOLLOW",
-    "location_state": "NY",
-    "location_zip": "10591",
+    }, 
+    "location_address": "701 NORTH BROADWAY", 
+    "location_city": "SLEEPY HOLLOW", 
+    "location_state": "NY", 
+    "location_zip": "10591", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.phelpshospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "New York-Presbyterian Healthcare System",
+        "name": "New York-Presbyterian Healthcare System", 
         "websites": [
             "www.nypsystem.org"
         ]
-    },
-    "phone_number": "9143663000",
-    "provider_id": "330261",
-    "raw_ratings": {},
-    "state": "NY",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9143663000", 
+    "provider_id": "330261", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "NY", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "10591"
 }

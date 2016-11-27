@@ -1,39 +1,47 @@
 {
-    "address": "54 HOSPITAL DRIVE",
-    "city": "OSAGE BEACH",
-    "county_name": "CAMDEN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LAKE REGIONAL HEALTH SYSTEM",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "54 HOSPITAL DRIVE", 
+    "city": "OSAGE BEACH", 
+    "county_name": "CAMDEN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LAKE REGIONAL HEALTH SYSTEM", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -92.68336,
-            38.119188
-        ],
+            -92.681163, 
+            38.118538
+        ], 
         "type": "Point"
-    },
-    "location_address": "54 HOSPITAL DRIVE",
-    "location_city": "OSAGE BEACH",
-    "location_state": "MO",
-    "location_zip": "65065",
+    }, 
+    "location_address": "54 HOSPITAL DRIVE", 
+    "location_city": "OSAGE BEACH", 
+    "location_state": "MO", 
+    "location_zip": "65065", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lakeregional.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5733488000",
-    "provider_id": "260186",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5733488000", 
+    "provider_id": "260186", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "65065"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "200 JEFFERSON AVENUE SE",
-    "city": "GRAND RAPIDS",
-    "county_name": "KENT",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SAINT MARY'S HEALTH CARE",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "200 JEFFERSON AVENUE SE", 
+    "city": "GRAND RAPIDS", 
+    "county_name": "KENT", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SAINT MARY'S HEALTH CARE", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.664091,
-            42.957181
-        ],
+            -85.664114, 
+            42.958252
+        ], 
         "type": "Point"
-    },
-    "location_address": "200 JEFFERSON AVENUE SE",
-    "location_city": "GRAND RAPIDS",
-    "location_state": "MI",
-    "location_zip": "49503",
+    }, 
+    "location_address": "200 JEFFERSON AVENUE SE", 
+    "location_city": "GRAND RAPIDS", 
+    "location_state": "MI", 
+    "location_zip": "49503", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.smmmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Trinity Health",
+        "name": "Trinity Health", 
         "websites": [
             "www.trinity-health.org"
         ]
-    },
-    "phone_number": "6166855000",
-    "provider_id": "230059",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "6166855000", 
+    "provider_id": "230059", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "49503"
 }

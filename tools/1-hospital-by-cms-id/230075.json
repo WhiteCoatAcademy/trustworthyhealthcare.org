@@ -1,41 +1,49 @@
 {
-    "address": "300 NORTH AVENUE",
-    "city": "BATTLE CREEK",
-    "county_name": "CALHOUN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "BRONSON BATTLE CREEK HOSPITAL",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "300 NORTH AVENUE", 
+    "city": "BATTLE CREEK", 
+    "county_name": "CALHOUN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "BRONSON BATTLE CREEK HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.180415,
-            42.330192
-        ],
+            -85.180405, 
+            42.330559
+        ], 
         "type": "Point"
-    },
-    "location_address": "300 NORTH AVENUE",
-    "location_city": "BATTLE CREEK",
-    "location_state": "MI",
-    "location_zip": "49017",
+    }, 
+    "location_address": "300 NORTH AVENUE", 
+    "location_city": "BATTLE CREEK", 
+    "location_state": "MI", 
+    "location_zip": "49017", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.bchealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Trinity Health",
+        "name": "Trinity Health", 
         "websites": [
             "www.trinity-health.org"
         ]
-    },
-    "phone_number": "2699668000",
-    "provider_id": "230075",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "2699668000", 
+    "provider_id": "230075", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "49017"
 }

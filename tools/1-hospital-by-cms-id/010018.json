@@ -1,41 +1,54 @@
 {
-    "address": "1720 UNIVERSITY BLVD",
-    "city": "BIRMINGHAM",
-    "county_name": "JEFFERSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CALLAHAN EYE HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1720 UNIVERSITY BLVD", 
+    "city": "BIRMINGHAM", 
+    "county_name": "JEFFERSON", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CALLAHAN EYE HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.802298,
-            33.503187
-        ],
+            -86.802401, 
+            33.503137
+        ], 
         "type": "Point"
-    },
-    "location_address": "1720 UNIVERSITY BLVD",
-    "location_city": "BIRMINGHAM",
-    "location_state": "AL",
-    "location_zip": "35233",
+    }, 
+    "location_address": "1720 UNIVERSITY BLVD", 
+    "location_city": "BIRMINGHAM", 
+    "location_state": "AL", 
+    "location_zip": "35233", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.health.uab.edu"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "UAB Health System",
+        "name": "UAB Health System", 
         "websites": [
             "www.health.uab.edu"
         ]
-    },
-    "phone_number": "2053258100",
-    "provider_id": "010018",
-    "raw_ratings": {},
-    "state": "AL",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2053258100", 
+    "provider_id": "010018", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "AL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "35233"
 }

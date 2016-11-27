@@ -1,41 +1,49 @@
 {
-    "address": "10 WOODLAND ROAD",
-    "city": "SAINT HELENA",
-    "county_name": "NAPA",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "ST HELENA HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "10 WOODLAND ROAD", 
+    "city": "SAINT HELENA", 
+    "county_name": "NAPA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "ST HELENA HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.475271,
-            38.542024
-        ],
+            -122.47548, 
+            38.541668
+        ], 
         "type": "Point"
-    },
-    "location_address": "10 WOODLAND ROAD",
-    "location_city": "SAINT HELENA",
-    "location_state": "CA",
-    "location_zip": "94574",
+    }, 
+    "location_address": "10 WOODLAND ROAD", 
+    "location_city": "SAINT HELENA", 
+    "location_state": "CA", 
+    "location_zip": "94574", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.sthelenahospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Adventist Health",
+        "name": "Adventist Health", 
         "websites": [
             "www.adventisthealth.com"
         ]
-    },
-    "phone_number": "7079633611",
-    "provider_id": "050013",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "7079633611", 
+    "provider_id": "050013", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "94574"
 }

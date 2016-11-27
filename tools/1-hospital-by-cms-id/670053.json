@@ -1,39 +1,48 @@
 {
-    "address": "1317 LAKE POINTE PARKWAY",
-    "city": "SUGAR LAND",
-    "county_name": "FORT BEND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST LUKE'S SUGAR LAND HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1317 LAKE POINTE PARKWAY", 
+    "city": "SUGAR LAND", 
+    "county_name": "FORT BEND", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST LUKE'S SUGAR LAND HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -95.621302,
-            29.604655
-        ],
+            -95.621328, 
+            29.60496
+        ], 
         "type": "Point"
-    },
-    "location_address": "1317 LAKE POINTE PARKWAY",
-    "location_city": "SUGAR LAND",
-    "location_state": "TX",
-    "location_zip": "77478",
+    }, 
+    "location_address": "1317 LAKE POINTE PARKWAY", 
+    "location_city": "SUGAR LAND", 
+    "location_state": "TX", 
+    "location_zip": "77478", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.baylorhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2816377000",
-    "provider_id": "670053",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2816377000", 
+    "provider_id": "670053", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "77478"
 }

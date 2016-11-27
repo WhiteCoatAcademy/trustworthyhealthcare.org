@@ -1,39 +1,47 @@
 {
-    "address": "1009 W GREEN ST",
-    "city": "HASTINGS",
-    "county_name": "BARRY",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SPECTRUM HEALTH PENNOCK",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1009 W GREEN ST", 
+    "city": "HASTINGS", 
+    "county_name": "BARRY", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SPECTRUM HEALTH PENNOCK", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -85.3021,
+            -85.3021, 
             42.6442
-        ],
+        ], 
         "type": "Point"
-    },
-    "location_address": "1009 W GREEN ST",
-    "location_city": "HASTINGS",
-    "location_state": "MI",
-    "location_zip": "49058",
+    }, 
+    "location_address": "1009 W GREEN ST", 
+    "location_city": "HASTINGS", 
+    "location_state": "MI", 
+    "location_zip": "49058", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.pennockhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2699453451",
-    "provider_id": "230040",
-    "raw_ratings": {},
-    "state": "MI",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2699453451", 
+    "provider_id": "230040", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "MI", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "49058"
 }

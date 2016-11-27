@@ -1,41 +1,49 @@
 {
-    "address": "190 EAST BANNOCK STREET",
-    "city": "BOISE",
-    "county_name": "ADA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST LUKE'S REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "190 EAST BANNOCK STREET", 
+    "city": "BOISE", 
+    "county_name": "ADA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST LUKE'S REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "5", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -116.192165,
-            43.612115
-        ],
+            -116.192202, 
+            43.612157
+        ], 
         "type": "Point"
-    },
-    "location_address": "190 EAST BANNOCK STREET",
-    "location_city": "BOISE",
-    "location_state": "ID",
-    "location_zip": "83712",
+    }, 
+    "location_address": "190 EAST BANNOCK STREET", 
+    "location_city": "BOISE", 
+    "location_state": "ID", 
+    "location_zip": "83712", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stlukesonline.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Saint Luke's Health System",
+        "name": "Saint Luke's Health System", 
         "websites": [
             "www.stlukesonline.org"
         ]
-    },
-    "phone_number": "2083812222",
-    "provider_id": "130006",
-    "raw_ratings": {},
-    "state": "ID",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2083812222", 
+    "provider_id": "130006", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "ID", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "83712"
 }

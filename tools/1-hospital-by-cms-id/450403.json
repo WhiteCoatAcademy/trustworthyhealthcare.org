@@ -1,41 +1,49 @@
 {
-    "address": "4500 MEDICAL CENTER DRIVE",
-    "city": "MCKINNEY",
-    "county_name": "COLLIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MEDICAL CENTER OF MCKINNEY",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "4500 MEDICAL CENTER DRIVE", 
+    "city": "MCKINNEY", 
+    "county_name": "COLLIN", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MEDICAL CENTER OF MCKINNEY", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -96.635558,
-            33.159033
-        ],
+            -96.635503, 
+            33.15984
+        ], 
         "type": "Point"
-    },
-    "location_address": "4500 MEDICAL CENTER DRIVE",
-    "location_city": "MCKINNEY",
-    "location_state": "TX",
-    "location_zip": "75069",
+    }, 
+    "location_address": "4500 MEDICAL CENTER DRIVE", 
+    "location_city": "MCKINNEY", 
+    "location_state": "TX", 
+    "location_zip": "75069", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.ncentralmedical.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "HCA",
+        "name": "HCA", 
         "websites": [
             "www.hcahealthcare.com"
         ]
-    },
-    "phone_number": "9725478000",
-    "provider_id": "450403",
-    "raw_ratings": {},
-    "state": "TX",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9725478000", 
+    "provider_id": "450403", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "TX", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "75069"
 }

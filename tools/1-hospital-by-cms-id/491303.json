@@ -1,41 +1,53 @@
 {
-    "address": "312 HOSPITAL DRIVE",
-    "city": "CLINTWOOD",
-    "county_name": "DICKENSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "DICKENSON COMMUNITY HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "312 HOSPITAL DRIVE", 
+    "city": "CLINTWOOD", 
+    "county_name": "DICKENSON", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "DICKENSON COMMUNITY HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -82.451973,
-            37.162595
-        ],
+            -82.449102, 
+            37.15986
+        ], 
         "type": "Point"
-    },
-    "location_address": "312 HOSPITAL DRIVE",
-    "location_city": "CLINTWOOD",
-    "location_state": "VA",
-    "location_zip": "24228",
+    }, 
+    "location_address": "312 HOSPITAL DRIVE", 
+    "location_city": "CLINTWOOD", 
+    "location_state": "VA", 
+    "location_zip": "24228", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.dchosp.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Mountain States Health Alliance",
+        "name": "Mountain States Health Alliance", 
         "websites": [
             "www.msha.com"
         ]
-    },
-    "phone_number": "2769260300",
-    "provider_id": "491303",
-    "raw_ratings": {},
-    "state": "VA",
+    }, 
+    "patient_experience_national_comparison": "Not Available", 
+    "patient_experience_national_comparison_footnote": "Results are not available for this reporting period", 
+    "phone_number": "2769260300", 
+    "provider_id": "491303", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "VA", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "24228"
 }

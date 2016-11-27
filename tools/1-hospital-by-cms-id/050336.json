@@ -1,39 +1,47 @@
 {
-    "address": "975 S FAIRMONT AVENUE",
-    "city": "LODI",
-    "county_name": "SAN JOAQUIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "LODI MEMORIAL HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "975 S FAIRMONT AVENUE", 
+    "city": "LODI", 
+    "county_name": "SAN JOAQUIN", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "LODI MEMORIAL HOSPITAL", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -121.285788,
-            38.121894
-        ],
+            -121.285787, 
+            38.121634
+        ], 
         "type": "Point"
-    },
-    "location_address": "975 S FAIRMONT AVENUE",
-    "location_city": "LODI",
-    "location_state": "CA",
-    "location_zip": "95240",
+    }, 
+    "location_address": "975 S FAIRMONT AVENUE", 
+    "location_city": "LODI", 
+    "location_state": "CA", 
+    "location_zip": "95240", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.lodihealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2093343411",
-    "provider_id": "050336",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2093343411", 
+    "provider_id": "050336", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "95240"
 }

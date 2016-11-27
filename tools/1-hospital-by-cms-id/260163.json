@@ -1,41 +1,49 @@
 {
-    "address": "1101 W LIBERTY",
-    "city": "FARMINGTON",
-    "county_name": "SAINT FRANCOIS",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "PARKLAND HEALTH CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1101 W LIBERTY", 
+    "city": "FARMINGTON", 
+    "county_name": "SAINT FRANCOIS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "PARKLAND HEALTH CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.438959,
-            37.780523
-        ],
+            -90.438195, 
+            37.780624
+        ], 
         "type": "Point"
-    },
-    "location_address": "1101 W LIBERTY",
-    "location_city": "FARMINGTON",
-    "location_state": "MO",
-    "location_zip": "63640",
+    }, 
+    "location_address": "1101 W LIBERTY", 
+    "location_city": "FARMINGTON", 
+    "location_state": "MO", 
+    "location_zip": "63640", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.parklandhealthcenter.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "BJC HealthCare",
+        "name": "BJC HealthCare", 
         "websites": [
             "www.bjc.org"
         ]
-    },
-    "phone_number": "5734316005",
-    "provider_id": "260163",
-    "raw_ratings": {},
-    "state": "MO",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5734316005", 
+    "provider_id": "260163", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MO", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "63640"
 }

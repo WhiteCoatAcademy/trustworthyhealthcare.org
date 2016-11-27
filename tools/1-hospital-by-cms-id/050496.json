@@ -1,41 +1,49 @@
 {
-    "address": "2540 EAST ST",
-    "city": "CONCORD",
-    "county_name": "CONTRA COSTA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "JOHN MUIR MEDICAL CENTER - CONCORD CAMPUS",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2540 EAST ST", 
+    "city": "CONCORD", 
+    "county_name": "CONTRA COSTA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "JOHN MUIR MEDICAL CENTER - CONCORD CAMPUS", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.03434,
-            37.983101
-        ],
+            -122.034236, 
+            37.98296
+        ], 
         "type": "Point"
-    },
-    "location_address": "2540 EAST ST",
-    "location_city": "CONCORD",
-    "location_state": "CA",
-    "location_zip": "94520",
+    }, 
+    "location_address": "2540 EAST ST", 
+    "location_city": "CONCORD", 
+    "location_state": "CA", 
+    "location_zip": "94520", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.johnmuirhealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "John Muir Health",
+        "name": "John Muir Health", 
         "websites": [
             "www.jmmdhs.com"
         ]
-    },
-    "phone_number": "9256742002",
-    "provider_id": "050496",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "9256828200", 
+    "provider_id": "050496", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "94520"
 }

@@ -1,40 +1,50 @@
 {
-    "address": "28400 MCCALL B0ULEVARD",
-    "city": "SUN CITY",
-    "county_name": "RIVERSIDE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "MENIFEE VALLEY MEDICAL CENTER",
-    "hospital_ownership": "Government - Hospital District or Authority",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "28400 MCCALL B0ULEVARD", 
+    "city": "SUN CITY", 
+    "county_name": "RIVERSIDE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "MENIFEE VALLEY MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Government - Hospital District or Authority", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
-        "human_address": "{\"address\":\"28400 MCCALL B0ULEVARD\",\"city\":\"SUN CITY\",\"state\":\"CA\",\"zip\":\"\"}",
-        "latitude": "33.71782630000007",
-        "longitude": "-117.16778918299997",
-        "needs_recoding": false
-    },
-    "location_address": "28400 MCCALL B0ULEVARD",
-    "location_city": "SUN CITY",
-    "location_state": "CA",
-    "location_zip": "92585",
+        "coordinates": [
+            -117.169346, 
+            33.718627
+        ], 
+        "type": "Point"
+    }, 
+    "location_address": "28400 MCCALL B0ULEVARD", 
+    "location_city": "SUN CITY", 
+    "location_state": "CA", 
+    "location_zip": "92585", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.valleyhealthsystem.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Valley Health System",
+        "name": "Valley Health System", 
         "websites": [
             "www.valleyhealthsystem.com"
         ]
-    },
-    "phone_number": "9516798888",
-    "provider_id": "050684",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9516798888", 
+    "provider_id": "050684", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "92585"
 }

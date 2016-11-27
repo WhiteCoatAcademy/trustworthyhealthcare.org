@@ -1,41 +1,54 @@
 {
-    "address": "14101 PARKWAY COMMONS DRIVE",
-    "city": "OKLAHOMA CITY",
-    "county_name": "OKLAHOMA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "OKLAHOMA SPINE HOSPITAL",
-    "hospital_ownership": "Physician",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "14101 PARKWAY COMMONS DRIVE", 
+    "city": "OKLAHOMA CITY", 
+    "county_name": "OKLAHOMA", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "OKLAHOMA SPINE HOSPITAL", 
+    "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score", 
+    "hospital_ownership": "Physician", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -97.582644,
-            35.615067
-        ],
+            -97.582124, 
+            35.614137
+        ], 
         "type": "Point"
-    },
-    "location_address": "14101 PARKWAY COMMONS DRIVE",
-    "location_city": "OKLAHOMA CITY",
-    "location_state": "OK",
-    "location_zip": "73134",
+    }, 
+    "location_address": "14101 PARKWAY COMMONS DRIVE", 
+    "location_city": "OKLAHOMA CITY", 
+    "location_state": "OK", 
+    "location_zip": "73134", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.oklahomaspine.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Medical Facilities Corporation",
+        "name": "Medical Facilities Corporation", 
         "websites": [
             "www.medicalfacilitiescorp.ca"
         ]
-    },
-    "phone_number": "4057492700",
-    "provider_id": "370206",
-    "raw_ratings": {},
-    "state": "OK",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "4057492700", 
+    "provider_id": "370206", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Not Available", 
+    "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "state": "OK", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "73134"
 }

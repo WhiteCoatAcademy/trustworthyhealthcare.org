@@ -1,39 +1,50 @@
 {
-    "address": "1400 E 9TH ST",
-    "city": "ROCHESTER",
-    "county_name": "FULTON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "WOODLAWN HOSPITAL",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Critical Access Hospitals",
+    "address": "1400 E 9TH ST", 
+    "city": "ROCHESTER", 
+    "county_name": "FULTON", 
+    "effectiveness_of_care_national_comparison": "Not Available", 
+    "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
+    "efficient_use_of_medical_imaging_national_comparison": "Not Available", 
+    "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "WOODLAWN HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Critical Access Hospitals", 
     "location": {
         "coordinates": [
-            -86.195585,
-            41.061692
-        ],
+            -86.196973, 
+            41.061728
+        ], 
         "type": "Point"
-    },
-    "location_address": "1400 E 9TH ST",
-    "location_city": "ROCHESTER",
-    "location_state": "IN",
-    "location_zip": "46975",
+    }, 
+    "location_address": "1400 E 9TH ST", 
+    "location_city": "ROCHESTER", 
+    "location_state": "IN", 
+    "location_zip": "46975", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.woodlawnhospital.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "5742233141",
-    "provider_id": "151313",
-    "raw_ratings": {},
-    "state": "IN",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5742233141", 
+    "provider_id": "151313", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "IN", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "46975"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "88 LEWIS BAY ROAD",
-    "city": "HYANNIS",
-    "county_name": "BARNSTABLE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "CAPE COD HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "88 LEWIS BAY ROAD", 
+    "city": "HYANNIS", 
+    "county_name": "BARNSTABLE", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "CAPE COD HOSPITAL", 
+    "hospital_overall_rating": "4", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -70.274896,
-            41.653169
-        ],
+            -70.275043, 
+            41.654035
+        ], 
         "type": "Point"
-    },
-    "location_address": "88 LEWIS BAY ROAD",
-    "location_city": "HYANNIS",
-    "location_state": "MA",
-    "location_zip": "02601",
+    }, 
+    "location_address": "88 LEWIS BAY ROAD", 
+    "location_city": "HYANNIS", 
+    "location_state": "MA", 
+    "location_zip": "02601", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.capecodhealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Cape Cod Healthcare, Inc",
+        "name": "Cape Cod Healthcare, Inc", 
         "websites": [
             "www.capecodhealth.org"
         ]
-    },
-    "phone_number": "5087711800",
-    "provider_id": "220012",
-    "raw_ratings": {},
-    "state": "MA",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "5087711800", 
+    "provider_id": "220012", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "MA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "02601"
 }

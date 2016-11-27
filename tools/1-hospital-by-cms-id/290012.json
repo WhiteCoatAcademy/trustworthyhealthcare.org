@@ -1,41 +1,49 @@
 {
-    "address": "102 E LAKE MEAD DR",
-    "city": "HENDERSON",
-    "county_name": "CLARK",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST ROSE DOMINICAN HOSPITALS - ROSE DE LIMA CAMPUS",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "102 E LAKE MEAD DR", 
+    "city": "HENDERSON", 
+    "county_name": "CLARK", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Above the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST ROSE DOMINICAN HOSPITALS - ROSE DE LIMA CAMPUS", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -114.985663,
-            36.037407
-        ],
+            -114.983192, 
+            36.038829
+        ], 
         "type": "Point"
-    },
-    "location_address": "102 E LAKE MEAD DR",
-    "location_city": "HENDERSON",
-    "location_state": "NV",
-    "location_zip": "89015",
+    }, 
+    "location_address": "102 E LAKE MEAD DR", 
+    "location_city": "HENDERSON", 
+    "location_state": "NV", 
+    "location_zip": "89015", 
+    "mortality_national_comparison": "Below the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.strosehospitals.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare West",
+        "name": "Catholic Healthcare West", 
         "websites": [
             "www.chwhealth.org"
         ]
-    },
-    "phone_number": "7026165000",
-    "provider_id": "290012",
-    "raw_ratings": {},
-    "state": "NV",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "7026165000", 
+    "provider_id": "290012", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "NV", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "89015"
 }

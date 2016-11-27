@@ -1,39 +1,47 @@
 {
-    "address": "2500 METROHEALTH DRIVE",
-    "city": "CLEVELAND",
-    "county_name": "CUYAHOGA",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "METROHEALTH SYSTEM",
-    "hospital_ownership": "Voluntary non-profit - Other",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "2500 METROHEALTH DRIVE", 
+    "city": "CLEVELAND", 
+    "county_name": "CUYAHOGA", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "METROHEALTH SYSTEM", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Other", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -81.69685,
-            41.462116
-        ],
+            -81.698756, 
+            41.462386
+        ], 
         "type": "Point"
-    },
-    "location_address": "2500 METROHEALTH DRIVE",
-    "location_city": "CLEVELAND",
-    "location_state": "OH",
-    "location_zip": "44109",
+    }, 
+    "location_address": "2500 METROHEALTH DRIVE", 
+    "location_city": "CLEVELAND", 
+    "location_state": "OH", 
+    "location_zip": "44109", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.metrohealth.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": null,
+        "name": null, 
         "websites": []
-    },
-    "phone_number": "2167787089",
-    "provider_id": "360059",
-    "raw_ratings": {},
-    "state": "OH",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "2167787089", 
+    "provider_id": "360059", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "OH", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "44109"
 }

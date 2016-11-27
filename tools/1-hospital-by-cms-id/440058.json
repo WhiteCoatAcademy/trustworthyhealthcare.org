@@ -1,41 +1,49 @@
 {
-    "address": "185 HOSPITAL ROAD",
-    "city": "WINCHESTER",
-    "county_name": "FRANKLIN",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SOUTHERN TENNESSEE REGIONAL HLTH SYSTEM WINCHESTER",
-    "hospital_ownership": "Proprietary",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "185 HOSPITAL ROAD", 
+    "city": "WINCHESTER", 
+    "county_name": "FRANKLIN", 
+    "effectiveness_of_care_national_comparison": "Below the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SOUTHERN TENNESSEE REGIONAL HLTH SYSTEM WINCHESTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Proprietary", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -86.091088,
-            35.176003
-        ],
+            -86.091121, 
+            35.175941
+        ], 
         "type": "Point"
-    },
-    "location_address": "185 HOSPITAL ROAD",
-    "location_city": "WINCHESTER",
-    "location_state": "TN",
-    "location_zip": "37398",
+    }, 
+    "location_address": "185 HOSPITAL ROAD", 
+    "location_city": "WINCHESTER", 
+    "location_state": "TN", 
+    "location_zip": "37398", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.southerntennessee.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "LifePoint Hospitals, Inc",
+        "name": "LifePoint Hospitals, Inc", 
         "websites": [
             "www.lifepointhospitals.com"
         ]
-    },
-    "phone_number": "9319678295",
-    "provider_id": "440058",
-    "raw_ratings": {},
-    "state": "TN",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "9319678295", 
+    "provider_id": "440058", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "TN", 
+    "timeliness_of_care_national_comparison": "Above the National average", 
     "zip_code": "37398"
 }

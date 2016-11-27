@@ -1,41 +1,49 @@
 {
-    "address": "201 S 14TH ST",
-    "city": "HERRIN",
-    "county_name": "WILLIAMSON",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "HERRIN HOSPITAL",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "201 S 14TH ST", 
+    "city": "HERRIN", 
+    "county_name": "WILLIAMSON", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "HERRIN HOSPITAL", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -89.026494,
-            37.802854
-        ],
+            -89.026543, 
+            37.800098
+        ], 
         "type": "Point"
-    },
-    "location_address": "201 S 14TH ST",
-    "location_city": "HERRIN",
-    "location_state": "IL",
-    "location_zip": "62948",
+    }, 
+    "location_address": "201 S 14TH ST", 
+    "location_city": "HERRIN", 
+    "location_state": "IL", 
+    "location_zip": "62948", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.herrinhospital.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Southern Illinois Healthcare",
+        "name": "Southern Illinois Healthcare", 
         "websites": [
             "www.sih.net"
         ]
-    },
-    "phone_number": "6189422171",
-    "provider_id": "140011",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "6189422171", 
+    "provider_id": "140011", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Above the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "62948"
 }

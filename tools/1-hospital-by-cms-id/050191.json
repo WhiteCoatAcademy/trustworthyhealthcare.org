@@ -1,41 +1,49 @@
 {
-    "address": "1050 LINDEN AVE",
-    "city": "LONG BEACH",
-    "county_name": "LOS ANGELES",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "ST MARY MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1050 LINDEN AVE", 
+    "city": "LONG BEACH", 
+    "county_name": "LOS ANGELES", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "ST MARY MEDICAL CENTER", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -118.186686,
-            33.7801
-        ],
+            -118.186685, 
+            33.779901
+        ], 
         "type": "Point"
-    },
-    "location_address": "1050 LINDEN AVE",
-    "location_city": "LONG BEACH",
-    "location_state": "CA",
-    "location_zip": "90813",
+    }, 
+    "location_address": "1050 LINDEN AVE", 
+    "location_city": "LONG BEACH", 
+    "location_state": "CA", 
+    "location_zip": "90813", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.stmarymedicalcenter.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Catholic Healthcare West",
+        "name": "Catholic Healthcare West", 
         "websites": [
             "www.chwhealth.org"
         ]
-    },
-    "phone_number": "5624919000",
-    "provider_id": "050191",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "5624919000", 
+    "provider_id": "050191", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Same as the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Below the National average", 
     "zip_code": "90813"
 }

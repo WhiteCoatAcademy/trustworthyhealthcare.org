@@ -1,41 +1,52 @@
 {
-    "address": "502 EAST SECOND STREET",
-    "city": "DULUTH",
-    "county_name": "SAINT LOUIS",
-    "emergency_services": false,
-    "global_rank": {},
-    "hospital_name": "ESSENTIA HEALTH DULUTH",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "502 EAST SECOND STREET", 
+    "city": "DULUTH", 
+    "county_name": "SAINT LOUIS", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": false, 
+    "global_rank": {}, 
+    "hospital_name": "ESSENTIA HEALTH DULUTH", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -92.094863,
-            46.792523
-        ],
+            -92.094155, 
+            46.793074
+        ], 
         "type": "Point"
-    },
-    "location_address": "502 EAST SECOND STREET",
-    "location_city": "DULUTH",
-    "location_state": "MN",
-    "location_zip": "55805",
+    }, 
+    "location_address": "502 EAST SECOND STREET", 
+    "location_city": "DULUTH", 
+    "location_state": "MN", 
+    "location_zip": "55805", 
+    "mortality_national_comparison": "Not Available", 
+    "mortality_national_comparison_footnote": "Results are not available for this reporting period", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.millerdwan.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "SMDC Health System",
+        "name": "SMDC Health System", 
         "websites": [
             "www.smdc.org"
         ]
-    },
-    "phone_number": "2187862646",
-    "provider_id": "240019",
-    "raw_ratings": {},
-    "state": "MN",
+    }, 
+    "patient_experience_national_comparison": "Above the National average", 
+    "phone_number": "2187862646", 
+    "provider_id": "240019", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Not Available", 
+    "readmission_national_comparison_footnote": "Results are not available for this reporting period", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "MN", 
+    "timeliness_of_care_national_comparison": "Not Available", 
+    "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period", 
     "zip_code": "55805"
 }

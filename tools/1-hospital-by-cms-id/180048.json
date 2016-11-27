@@ -1,41 +1,49 @@
 {
-    "address": "217 SOUTH THIRD STREET",
-    "city": "DANVILLE",
-    "county_name": "BOYLE",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "EPHRAIM MCDOWELL REGIONAL MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Private",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "217 SOUTH THIRD STREET", 
+    "city": "DANVILLE", 
+    "county_name": "BOYLE", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "EPHRAIM MCDOWELL REGIONAL MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Private", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -84.77264,
-            37.643795
-        ],
+            -84.772636, 
+            37.643851
+        ], 
         "type": "Point"
-    },
-    "location_address": "217 SOUTH THIRD STREET",
-    "location_city": "DANVILLE",
-    "location_state": "KY",
-    "location_zip": "40422",
+    }, 
+    "location_address": "217 SOUTH THIRD STREET", 
+    "location_city": "DANVILLE", 
+    "location_state": "KY", 
+    "location_zip": "40422", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.emrmc.org"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Ephraim McDowell Health",
+        "name": "Ephraim McDowell Health", 
         "websites": [
             "www.emhealth.org"
         ]
-    },
-    "phone_number": "8592392409",
-    "provider_id": "180048",
-    "raw_ratings": {},
-    "state": "KY",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "8592392409", 
+    "provider_id": "180048", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Same as the National average", 
+    "state": "KY", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "40422"
 }

@@ -1,41 +1,49 @@
 {
-    "address": "1900 SULLIVAN AVENUE",
-    "city": "DALY CITY",
-    "county_name": "SAN MATEO",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "SETON MEDICAL CENTER",
-    "hospital_ownership": "Voluntary non-profit - Church",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "1900 SULLIVAN AVENUE", 
+    "city": "DALY CITY", 
+    "county_name": "SAN MATEO", 
+    "effectiveness_of_care_national_comparison": "Same as the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Below the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "SETON MEDICAL CENTER", 
+    "hospital_overall_rating": "2", 
+    "hospital_ownership": "Voluntary non-profit - Church", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -122.472996,
-            37.679979
-        ],
+            -122.47291, 
+            37.680315
+        ], 
         "type": "Point"
-    },
-    "location_address": "1900 SULLIVAN AVENUE",
-    "location_city": "DALY CITY",
-    "location_state": "CA",
-    "location_zip": "94015",
+    }, 
+    "location_address": "1900 SULLIVAN AVENUE", 
+    "location_city": "DALY CITY", 
+    "location_state": "CA", 
+    "location_zip": "94015", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.setonmedicalcenter.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Daughters of Charity Health System",
+        "name": "Daughters of Charity Health System", 
         "websites": [
             "www.dochs.org"
         ]
-    },
-    "phone_number": "6509924000",
-    "provider_id": "050289",
-    "raw_ratings": {},
-    "state": "CA",
+    }, 
+    "patient_experience_national_comparison": "Below the National average", 
+    "phone_number": "6509924000", 
+    "provider_id": "050289", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Below the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "CA", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "94015"
 }

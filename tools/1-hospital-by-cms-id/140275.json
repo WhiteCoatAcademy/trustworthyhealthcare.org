@@ -1,41 +1,49 @@
 {
-    "address": "801 ILLINI DRIVE",
-    "city": "SILVIS",
-    "county_name": "ROCK ISLAND",
-    "emergency_services": true,
-    "global_rank": {},
-    "hospital_name": "GENESIS HEALTH SYSTEM",
-    "hospital_ownership": "Government - Local",
-    "hospital_type": "Acute Care Hospitals",
+    "address": "801 ILLINI DRIVE", 
+    "city": "SILVIS", 
+    "county_name": "ROCK ISLAND", 
+    "effectiveness_of_care_national_comparison": "Above the National average", 
+    "efficient_use_of_medical_imaging_national_comparison": "Same as the National average", 
+    "emergency_services": true, 
+    "global_rank": {}, 
+    "hospital_name": "GENESIS HEALTH SYSTEM", 
+    "hospital_overall_rating": "3", 
+    "hospital_ownership": "Government - Local", 
+    "hospital_type": "Acute Care Hospitals", 
     "location": {
         "coordinates": [
-            -90.418426,
-            41.493063
-        ],
+            -90.419997, 
+            41.493068
+        ], 
         "type": "Point"
-    },
-    "location_address": "801 ILLINI DRIVE",
-    "location_city": "SILVIS",
-    "location_state": "IL",
-    "location_zip": "61282",
+    }, 
+    "location_address": "801 ILLINI DRIVE", 
+    "location_city": "SILVIS", 
+    "location_state": "IL", 
+    "location_zip": "61282", 
+    "mortality_national_comparison": "Same as the National average", 
     "network_info": {
-        "arin_handles": [],
-        "as_numbers": [],
-        "netblock_ranges": [],
+        "arin_handles": [], 
+        "as_numbers": [], 
+        "netblock_ranges": [], 
         "websites": [
             "www.genesishealth.com"
         ]
-    },
-    "numeric_ratings": {},
+    }, 
+    "numeric_ratings": {}, 
     "parent_info": {
-        "name": "Genesis Health System",
+        "name": "Genesis Health System", 
         "websites": [
             "www.genesishealth.com"
         ]
-    },
-    "phone_number": "3097929363",
-    "provider_id": "140275",
-    "raw_ratings": {},
-    "state": "IL",
+    }, 
+    "patient_experience_national_comparison": "Same as the National average", 
+    "phone_number": "3097929363", 
+    "provider_id": "140275", 
+    "raw_ratings": {}, 
+    "readmission_national_comparison": "Above the National average", 
+    "safety_of_care_national_comparison": "Below the National average", 
+    "state": "IL", 
+    "timeliness_of_care_national_comparison": "Same as the National average", 
     "zip_code": "61282"
 }
