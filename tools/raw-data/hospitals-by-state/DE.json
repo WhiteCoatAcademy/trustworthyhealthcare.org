@@ -1,51 +1,70 @@
 [
     {
-        "address": "1601 KIRKWOOD HIGHWAY",
-        "city": "WILMINGTON",
-        "county_name": "NEW CASTLE",
-        "emergency_services": false,
-        "hospital_name": "WILMINGTON VA MEDICAL CENTER",
-        "hospital_ownership": "Government Federal",
-        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
-        "location": {
-            "coordinates": [
-                -75.606996,
-                39.738565
-            ],
-            "type": "Point"
-        },
-        "location_address": "1601 KIRKWOOD HIGHWAY",
-        "location_city": "WILMINGTON",
-        "location_state": "DE",
-        "location_zip": "19805",
-        "phone_number": "3029942511",
-        "provider_id": "08002F",
-        "state": "DE",
-        "zip_code": "19805"
-    },
-    {
         "address": "7TH AND CLAYTON STS",
         "city": "WILMINGTON",
         "county_name": "NEW CASTLE",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
         "emergency_services": true,
         "hospital_name": "ST FRANCIS HOSPITAL",
+        "hospital_overall_rating": "4",
         "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
         "location_address": "7TH AND CLAYTON STS",
         "location_city": "WILMINGTON",
         "location_state": "DE",
         "location_zip": "19805",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Below the National average",
         "phone_number": "3024214100",
         "provider_id": "080003",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Above the National average",
         "state": "DE",
+        "timeliness_of_care_national_comparison": "Below the National average",
         "zip_code": "19805"
+    },
+    {
+        "address": "21 WEST CLARKE AVENUE",
+        "city": "MILFORD",
+        "county_name": "SUSSEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "BAYHEALTH - MILFORD MEMORIAL HOSPITAL",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.432714,
+                38.905855
+            ],
+            "type": "Point"
+        },
+        "location_address": "21 WEST CLARKE AVENUE",
+        "location_city": "MILFORD",
+        "location_state": "DE",
+        "location_zip": "19963",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "3024223311",
+        "provider_id": "080009",
+        "readmission_national_comparison": "Above the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "DE",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "19963"
     },
     {
         "address": "801 MIDDLEFORD RD",
         "city": "SEAFORD",
         "county_name": "SUSSEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
         "emergency_services": true,
         "hospital_name": "NANTICOKE MEMORIAL HOSPITAL",
+        "hospital_overall_rating": "4",
         "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
         "location": {
@@ -59,71 +78,31 @@
         "location_city": "SEAFORD",
         "location_state": "DE",
         "location_zip": "19973",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Above the National average",
         "phone_number": "3026296611",
         "provider_id": "080006",
+        "readmission_national_comparison": "Above the National average",
+        "safety_of_care_national_comparison": "Above the National average",
         "state": "DE",
+        "timeliness_of_care_national_comparison": "Below the National average",
         "zip_code": "19973"
-    },
-    {
-        "address": "424 SAVANNAH RD",
-        "city": "LEWES",
-        "county_name": "SUSSEX",
-        "emergency_services": true,
-        "hospital_name": "BEEBE MEDICAL CENTER",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -75.143049,
-                38.770627
-            ],
-            "type": "Point"
-        },
-        "location_address": "424 SAVANNAH RD",
-        "location_city": "LEWES",
-        "location_state": "DE",
-        "location_zip": "19958",
-        "phone_number": "3026453300",
-        "provider_id": "080007",
-        "state": "DE",
-        "zip_code": "19958"
-    },
-    {
-        "address": "21 WEST CLARKE AVENUE",
-        "city": "MILFORD",
-        "county_name": "SUSSEX",
-        "emergency_services": true,
-        "hospital_name": "BAYHEALTH - MILFORD MEMORIAL HOSPITAL",
-        "hospital_ownership": "Proprietary",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -75.433393,
-                38.906209
-            ],
-            "type": "Point"
-        },
-        "location_address": "21 WEST CLARKE AVENUE",
-        "location_city": "MILFORD",
-        "location_state": "DE",
-        "location_zip": "19963",
-        "phone_number": "3024223311",
-        "provider_id": "080009",
-        "state": "DE",
-        "zip_code": "19963"
     },
     {
         "address": "4755 OGLETOWN-STANTON ROAD",
         "city": "NEWARK",
         "county_name": "NEW CASTLE",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
         "emergency_services": true,
         "hospital_name": "CHRISTIANA CARE HEALTH SERVICES, INC.",
+        "hospital_overall_rating": "4",
         "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
         "location": {
             "coordinates": [
-                -75.673642,
-                39.689677
+                -75.673228,
+                39.689909
             ],
             "type": "Point"
         },
@@ -131,23 +110,31 @@
         "location_city": "NEWARK",
         "location_state": "DE",
         "location_zip": "19718",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Same as the National average",
         "phone_number": "3027331000",
         "provider_id": "080001",
+        "readmission_national_comparison": "Above the National average",
+        "safety_of_care_national_comparison": "Below the National average",
         "state": "DE",
+        "timeliness_of_care_national_comparison": "Below the National average",
         "zip_code": "19718"
     },
     {
         "address": "640 S STATE STREET",
         "city": "DOVER",
         "county_name": "KENT",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
         "emergency_services": true,
         "hospital_name": "BAYHEALTH - KENT GENERAL HOSPITAL",
+        "hospital_overall_rating": "3",
         "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
         "location": {
             "coordinates": [
-                -75.522324,
-                39.150749
+                -75.522347,
+                39.150149
             ],
             "type": "Point"
         },
@@ -155,9 +142,85 @@
         "location_city": "DOVER",
         "location_state": "DE",
         "location_zip": "19901",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Same as the National average",
         "phone_number": "3027447001",
         "provider_id": "080004",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
         "state": "DE",
+        "timeliness_of_care_national_comparison": "Below the National average",
         "zip_code": "19901"
+    },
+    {
+        "address": "1600 ROCKLAND RD PO BOX 269",
+        "city": "WILMINGTON",
+        "county_name": "NEW CASTLE",
+        "effectiveness_of_care_national_comparison": "Not Available",
+        "effectiveness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "efficient_use_of_medical_imaging_national_comparison": "Not Available",
+        "efficient_use_of_medical_imaging_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "emergency_services": true,
+        "hospital_name": "ALFRED I DUPONT HOSPITAL FOR CHILDREN",
+        "hospital_overall_rating_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Childrens",
+        "location": {
+            "coordinates": [
+                -75.55527,
+                39.78239
+            ],
+            "type": "Point"
+        },
+        "location_address": "1600 ROCKLAND RD PO BOX 269",
+        "location_city": "WILMINGTON",
+        "location_state": "DE",
+        "location_zip": "19899",
+        "mortality_national_comparison": "Not Available",
+        "mortality_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "patient_experience_national_comparison": "Not Available",
+        "patient_experience_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "phone_number": "3026514000",
+        "provider_id": "083300",
+        "readmission_national_comparison": "Not Available",
+        "readmission_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "safety_of_care_national_comparison": "Not Available",
+        "safety_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "state": "DE",
+        "timeliness_of_care_national_comparison": "Not Available",
+        "timeliness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "zip_code": "19899"
+    },
+    {
+        "address": "424 SAVANNAH RD",
+        "city": "LEWES",
+        "county_name": "SUSSEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
+        "emergency_services": true,
+        "hospital_name": "BEEBE MEDICAL CENTER",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -75.14222,
+                38.771441
+            ],
+            "type": "Point"
+        },
+        "location_address": "424 SAVANNAH RD",
+        "location_city": "LEWES",
+        "location_state": "DE",
+        "location_zip": "19958",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "3026453300",
+        "provider_id": "080007",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "DE",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "19958"
     }
 ]

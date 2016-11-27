@@ -1,650 +1,19 @@
 [
     {
-        "address": "421 N MAIN ST",
-        "city": "LEEDS",
-        "county_name": "HAMPSHIRE",
-        "emergency_services": false,
-        "hospital_name": "NORTHAMPTON VA MEDICAL CENTER",
-        "hospital_ownership": "Government Federal",
-        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
-        "location": {
-            "coordinates": [
-                -72.689099,
-                42.348922
-            ],
-            "type": "Point"
-        },
-        "location_address": "421 N MAIN ST",
-        "location_city": "LEEDS",
-        "location_state": "MA",
-        "location_zip": "01053",
-        "phone_number": "4135844040",
-        "provider_id": "22009F",
-        "state": "MA",
-        "zip_code": "01053"
-    },
-    {
-        "address": "150 S. HUNTINGTON AVENUE",
-        "city": "JAMAICA PLAIN",
-        "county_name": "SUFFOLK",
-        "emergency_services": false,
-        "hospital_name": "VA BOSTON HEALTHCARE SYSTEM - JAMAICA PLAIN",
-        "hospital_ownership": "Government Federal",
-        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
-        "location": {
-            "coordinates": [
-                -71.11139,
-                42.32653
-            ],
-            "type": "Point"
-        },
-        "location_address": "150 S. HUNTINGTON AVENUE",
-        "location_city": "JAMAICA PLAIN",
-        "location_state": "MA",
-        "location_zip": "02130",
-        "phone_number": "6172329500",
-        "provider_id": "22010F",
-        "state": "MA",
-        "zip_code": "02130"
-    },
-    {
-        "address": "200 SPRINGS ROAD",
-        "city": "BEDFORD",
-        "county_name": "MIDDLESEX",
-        "emergency_services": false,
-        "hospital_name": "BEDFORD VA MEDICAL CENTER",
-        "hospital_ownership": "Government Federal",
-        "hospital_type": "ACUTE CARE - VETERANS ADMINISTRATION",
-        "location": {
-            "coordinates": [
-                -71.272955,
-                42.504878
-            ],
-            "type": "Point"
-        },
-        "location_address": "200 SPRINGS ROAD",
-        "location_city": "BEDFORD",
-        "location_state": "MA",
-        "location_zip": "01730",
-        "phone_number": "7812757500",
-        "provider_id": "22001F",
-        "state": "MA",
-        "zip_code": "01730"
-    },
-    {
-        "address": "2033 MAIN STREET",
-        "city": "ATHOL",
-        "county_name": "WORCESTER",
-        "emergency_services": true,
-        "hospital_name": "ATHOL MEMORIAL HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Critical Access Hospitals",
-        "location": {
-            "coordinates": [
-                -72.208189,
-                42.58607
-            ],
-            "type": "Point"
-        },
-        "location_address": "2033 MAIN STREET",
-        "location_city": "ATHOL",
-        "location_state": "MA",
-        "location_zip": "01331",
-        "phone_number": "9782493511",
-        "provider_id": "221303",
-        "state": "MA",
-        "zip_code": "01331"
-    },
-    {
-        "address": "85 HERRICK STREET",
-        "city": "BEVERLY",
-        "county_name": "ESSEX",
-        "emergency_services": true,
-        "hospital_name": "BEVERLY HOSPITAL CORPORATION",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -70.8758,
-                42.568341
-            ],
-            "type": "Point"
-        },
-        "location_address": "85 HERRICK STREET",
-        "location_city": "BEVERLY",
-        "location_state": "MA",
-        "location_zip": "01915",
-        "phone_number": "9789223000",
-        "provider_id": "220033",
-        "state": "MA",
-        "zip_code": "01915"
-    },
-    {
-        "address": "680 CENTER STREET",
-        "city": "BROCKTON",
-        "county_name": "PLYMOUTH",
-        "emergency_services": true,
-        "hospital_name": "SIGNATURE HEALTHCARE BROCKTON HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Other",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -70.991188,
-                42.086197
-            ],
-            "type": "Point"
-        },
-        "location_address": "680 CENTER STREET",
-        "location_city": "BROCKTON",
-        "location_state": "MA",
-        "location_zip": "02302",
-        "phone_number": "5089417000",
-        "provider_id": "220052",
-        "state": "MA",
-        "zip_code": "02302"
-    },
-    {
-        "address": "330 BROOKLINE AVENUE",
-        "city": "BOSTON",
-        "county_name": "SUFFOLK",
-        "emergency_services": true,
-        "hospital_name": "BETH ISRAEL DEACONESS MEDICAL CENTER",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.105735,
-                42.340351
-            ],
-            "type": "Point"
-        },
-        "location_address": "330 BROOKLINE AVENUE",
-        "location_city": "BOSTON",
-        "location_state": "MA",
-        "location_zip": "02215",
-        "phone_number": "6176677000",
-        "provider_id": "220086",
-        "state": "MA",
-        "zip_code": "02215"
-    },
-    {
-        "address": "41 & 45 MALL ROAD",
-        "city": "BURLINGTON",
-        "county_name": "MIDDLESEX",
-        "emergency_services": true,
-        "hospital_name": "LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location_address": "41 & 45 MALL ROAD",
-        "location_city": "BURLINGTON",
-        "location_state": "MA",
-        "location_zip": "01803",
-        "phone_number": "7817445100",
-        "provider_id": "220171",
-        "state": "MA",
-        "zip_code": "01803"
-    },
-    {
-        "address": "271 CAREW STREET",
-        "city": "SPRINGFIELD",
-        "county_name": "HAMPDEN",
-        "emergency_services": true,
-        "hospital_name": "MERCY MEDICAL CENTER",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -72.595442,
-                42.115878
-            ],
-            "type": "Point"
-        },
-        "location_address": "271 CAREW STREET",
-        "location_city": "SPRINGFIELD",
-        "location_state": "MA",
-        "location_zip": "01104",
-        "phone_number": "4137489000",
-        "provider_id": "220066",
-        "state": "MA",
-        "zip_code": "01104"
-    },
-    {
-        "address": "88 WASHINGTON STREET",
-        "city": "TAUNTON",
-        "county_name": "BRISTOL",
-        "emergency_services": true,
-        "hospital_name": "MORTON HOSPITAL",
-        "hospital_ownership": "Proprietary",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.094342,
-                41.905589
-            ],
-            "type": "Point"
-        },
-        "location_address": "88 WASHINGTON STREET",
-        "location_city": "TAUNTON",
-        "location_state": "MA",
-        "location_zip": "02780",
-        "phone_number": "5088287000",
-        "provider_id": "220073",
-        "state": "MA",
-        "zip_code": "02780"
-    },
-    {
-        "address": "759 CHESTNUT STREET",
-        "city": "SPRINGFIELD",
-        "county_name": "HAMPDEN",
-        "emergency_services": true,
-        "hospital_name": "BAYSTATE MEDICAL CENTER",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -72.605255,
-                42.120751
-            ],
-            "type": "Point"
-        },
-        "location_address": "759 CHESTNUT STREET",
-        "location_city": "SPRINGFIELD",
-        "location_state": "MA",
-        "location_zip": "01199",
-        "phone_number": "4137940000",
-        "provider_id": "220077",
-        "state": "MA",
-        "zip_code": "01199"
-    },
-    {
-        "address": "1153 CENTRE STREET",
-        "city": "BOSTON",
-        "county_name": "SUFFOLK",
-        "emergency_services": true,
-        "hospital_name": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.127428,
-                42.300641
-            ],
-            "type": "Point"
-        },
-        "location_address": "1153 CENTRE STREET",
-        "location_city": "BOSTON",
-        "location_state": "MA",
-        "location_zip": "02130",
-        "phone_number": "6179837000",
-        "provider_id": "220119",
-        "state": "MA",
-        "zip_code": "02130"
-    },
-    {
-        "address": "115 WEST SILVER STREET",
-        "city": "WESTFIELD",
-        "county_name": "HAMPDEN",
-        "emergency_services": true,
-        "hospital_name": "NOBLE HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -72.759775,
-                42.117485
-            ],
-            "type": "Point"
-        },
-        "location_address": "115 WEST SILVER STREET",
-        "location_city": "WESTFIELD",
-        "location_state": "MA",
-        "location_zip": "01085",
-        "phone_number": "4135682811",
-        "provider_id": "220065",
-        "state": "MA",
-        "zip_code": "01085"
-    },
-    {
-        "address": "85 SOUTH STREET",
-        "city": "WARE",
-        "county_name": "HAMPSHIRE",
-        "emergency_services": true,
-        "hospital_name": "BAYSTATE MARY LANE HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -72.241542,
-                42.25276
-            ],
-            "type": "Point"
-        },
-        "location_address": "85 SOUTH STREET",
-        "location_city": "WARE",
-        "location_state": "MA",
-        "location_zip": "01082",
-        "phone_number": "4139676211",
-        "provider_id": "220050",
-        "state": "MA",
-        "zip_code": "01082"
-    },
-    {
-        "address": "235 NORTH PEARL STREET",
-        "city": "BROCKTON",
-        "county_name": "PLYMOUTH",
-        "emergency_services": true,
-        "hospital_name": "GOOD SAMARITAN MEDICAL CENTER",
-        "hospital_ownership": "Proprietary",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.065635,
-                42.096879
-            ],
-            "type": "Point"
-        },
-        "location_address": "235 NORTH PEARL STREET",
-        "location_city": "BROCKTON",
-        "location_state": "MA",
-        "location_zip": "02301",
-        "phone_number": "5084273000",
-        "provider_id": "220111",
-        "state": "MA",
-        "zip_code": "02301"
-    },
-    {
-        "address": "107 LINCOLN STREET",
-        "city": "WORCESTER",
-        "county_name": "WORCESTER",
-        "emergency_services": false,
-        "hospital_name": "ADCARE HOSPITAL OF WORCESTER INC",
-        "hospital_ownership": "Proprietary",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.795311,
-                42.27658
-            ],
-            "type": "Point"
-        },
-        "location_address": "107 LINCOLN STREET",
-        "location_city": "WORCESTER",
-        "location_state": "MA",
-        "location_zip": "01605",
-        "phone_number": "5087999000",
-        "provider_id": "220062",
-        "state": "MA",
-        "zip_code": "01605"
-    },
-    {
-        "address": "2014 WASHINGTON STREET",
-        "city": "NEWTON",
-        "county_name": "MIDDLESEX",
-        "emergency_services": true,
-        "hospital_name": "NEWTON-WELLESLEY HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Other",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.246035,
-                42.332812
-            ],
-            "type": "Point"
-        },
-        "location_address": "2014 WASHINGTON STREET",
-        "location_city": "NEWTON",
-        "location_state": "MA",
-        "location_zip": "02462",
-        "phone_number": "6172436000",
-        "provider_id": "220101",
-        "state": "MA",
-        "zip_code": "02462"
-    },
-    {
-        "address": "736 CAMBRIDGE STREET",
-        "city": "BRIGHTON",
-        "county_name": "SUFFOLK",
-        "emergency_services": true,
-        "hospital_name": "ST ELIZABETH'S MEDICAL CENTER",
-        "hospital_ownership": "Proprietary",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.148469,
-                42.349624
-            ],
-            "type": "Point"
-        },
-        "location_address": "736 CAMBRIDGE STREET",
-        "location_city": "BRIGHTON",
-        "location_state": "MA",
-        "location_zip": "02135",
-        "phone_number": "6177893000",
-        "provider_id": "220036",
-        "state": "MA",
-        "zip_code": "02135"
-    },
-    {
-        "address": "201 HIGHLAND STREET",
-        "city": "CLINTON",
-        "county_name": "WORCESTER",
-        "emergency_services": true,
-        "hospital_name": "CLINTON HOSPITAL ASSOCIATION",
-        "hospital_ownership": "Voluntary non-profit - Other",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.693649,
-                42.426986
-            ],
-            "type": "Point"
-        },
-        "location_address": "201 HIGHLAND STREET",
-        "location_city": "CLINTON",
-        "location_state": "MA",
-        "location_zip": "01510",
-        "phone_number": "9783683000",
-        "provider_id": "220058",
-        "state": "MA",
-        "zip_code": "01510"
-    },
-    {
-        "address": "ONE HOSPITAL ROAD PO BOX 1477",
-        "city": "OAK BLUFFS",
-        "county_name": "DUKES",
-        "emergency_services": true,
-        "hospital_name": "MARTHA'S VINEYARD HOSPITAL INC",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Critical Access Hospitals",
-        "location_address": "ONE HOSPITAL ROAD PO BOX 1477",
-        "location_city": "OAK BLUFFS",
-        "location_state": "MA",
-        "location_zip": "02557",
-        "phone_number": "5086930410",
-        "provider_id": "221300",
-        "state": "MA",
-        "zip_code": "02557"
-    },
-    {
-        "address": "60 HOSPITAL ROAD",
-        "city": "LEOMINSTER",
-        "county_name": "WORCESTER",
-        "emergency_services": true,
-        "hospital_name": "HEALTHALLIANCE HOSPITALS, INC",
-        "hospital_ownership": "Voluntary non-profit - Other",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.761255,
-                42.541145
-            ],
-            "type": "Point"
-        },
-        "location_address": "60 HOSPITAL ROAD",
-        "location_city": "LEOMINSTER",
-        "location_state": "MA",
-        "location_zip": "01453",
-        "phone_number": "9784662000",
-        "provider_id": "220001",
-        "state": "MA",
-        "zip_code": "01453"
-    },
-    {
-        "address": "295 VARNUM AVENUE",
-        "city": "LOWELL",
-        "county_name": "MIDDLESEX",
-        "emergency_services": true,
-        "hospital_name": "LOWELL GENERAL HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.34068,
-                42.64646
-            ],
-            "type": "Point"
-        },
-        "location_address": "295 VARNUM AVENUE",
-        "location_city": "LOWELL",
-        "location_state": "MA",
-        "location_zip": "01854",
-        "phone_number": "9789376000",
-        "provider_id": "220063",
-        "state": "MA",
-        "zip_code": "01854"
-    },
-    {
-        "address": "243 CHARLES STREET",
-        "city": "BOSTON",
-        "county_name": "SUFFOLK",
-        "emergency_services": true,
-        "hospital_name": "MASSACHUSETTS EYE AND EAR INFIRMARY",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.070396,
-                42.363111
-            ],
-            "type": "Point"
-        },
-        "location_address": "243 CHARLES STREET",
-        "location_city": "BOSTON",
-        "location_state": "MA",
-        "location_zip": "02114",
-        "phone_number": "6175237900",
-        "provider_id": "220075",
-        "state": "MA",
-        "zip_code": "02114"
-    },
-    {
-        "address": "725 NORTH STREET",
-        "city": "PITTSFIELD",
-        "county_name": "BERKSHIRE",
-        "emergency_services": true,
-        "hospital_name": "BERKSHIRE MEDICAL CENTER INC",
-        "hospital_ownership": "Voluntary non-profit - Other",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -73.249004,
-                42.458748
-            ],
-            "type": "Point"
-        },
-        "location_address": "725 NORTH STREET",
-        "location_city": "PITTSFIELD",
-        "location_state": "MA",
-        "location_zip": "01201",
-        "phone_number": "4134472000",
-        "provider_id": "220046",
-        "state": "MA",
-        "zip_code": "01201"
-    },
-    {
-        "address": "55 FOGG ROAD",
-        "city": "SOUTH WEYMOUTH",
-        "county_name": "NORFOLK",
-        "emergency_services": true,
-        "hospital_name": "SOUTH SHORE HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -70.954258,
-                42.174729
-            ],
-            "type": "Point"
-        },
-        "location_address": "55 FOGG ROAD",
-        "location_city": "SOUTH WEYMOUTH",
-        "location_state": "MA",
-        "location_zip": "02190",
-        "phone_number": "7813408000",
-        "provider_id": "220100",
-        "state": "MA",
-        "zip_code": "02190"
-    },
-    {
-        "address": "25 HIGHLAND AVENUE",
-        "city": "NEWBURYPORT",
-        "county_name": "ESSEX",
-        "emergency_services": true,
-        "hospital_name": "ANNA JAQUES HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -70.889695,
-                42.81433
-            ],
-            "type": "Point"
-        },
-        "location_address": "25 HIGHLAND AVENUE",
-        "location_city": "NEWBURYPORT",
-        "location_state": "MA",
-        "location_zip": "01950",
-        "phone_number": "9784631000",
-        "provider_id": "220029",
-        "state": "MA",
-        "zip_code": "01950"
-    },
-    {
-        "address": "41 HIGHLAND AVENUE",
-        "city": "WINCHESTER",
-        "county_name": "MIDDLESEX",
-        "emergency_services": true,
-        "hospital_name": "WINCHESTER HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.121408,
-                42.465496
-            ],
-            "type": "Point"
-        },
-        "location_address": "41 HIGHLAND AVENUE",
-        "location_city": "WINCHESTER",
-        "location_state": "MA",
-        "location_zip": "01890",
-        "phone_number": "7817299000",
-        "provider_id": "220105",
-        "state": "MA",
-        "zip_code": "01890"
-    },
-    {
         "address": "795 MIDDLE STREET",
         "city": "FALL RIVER",
         "county_name": "BRISTOL",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
         "emergency_services": true,
         "hospital_name": "SAINT ANNE'S HOSPITAL",
+        "hospital_overall_rating": "4",
         "hospital_ownership": "Proprietary",
         "hospital_type": "Acute Care Hospitals",
         "location": {
             "coordinates": [
-                -71.163321,
-                41.693262
+                -71.163642,
+                41.693321
             ],
             "type": "Point"
         },
@@ -652,538 +21,25 @@
         "location_city": "FALL RIVER",
         "location_state": "MA",
         "location_zip": "02721",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Above the National average",
         "phone_number": "5086745600",
         "provider_id": "220020",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
         "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
         "zip_code": "02721"
-    },
-    {
-        "address": "55 FRUIT STREET",
-        "city": "BOSTON",
-        "county_name": "SUFFOLK",
-        "emergency_services": true,
-        "hospital_name": "MASSACHUSETTS GENERAL HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.069802,
-                42.362421
-            ],
-            "type": "Point"
-        },
-        "location_address": "55 FRUIT STREET",
-        "location_city": "BOSTON",
-        "location_state": "MA",
-        "location_zip": "02114",
-        "phone_number": "6177262000",
-        "provider_id": "220071",
-        "state": "MA",
-        "zip_code": "02114"
-    },
-    {
-        "address": "1 BOSTON MEDICAL CENTER PLACE",
-        "city": "BOSTON",
-        "county_name": "SUFFOLK",
-        "emergency_services": true,
-        "hospital_name": "BOSTON MEDICAL CENTER CORPORATION",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.075659,
-                42.334518
-            ],
-            "type": "Point"
-        },
-        "location_address": "1 BOSTON MEDICAL CENTER PLACE",
-        "location_city": "BOSTON",
-        "location_state": "MA",
-        "location_zip": "02118",
-        "phone_number": "6176388000",
-        "provider_id": "220031",
-        "state": "MA",
-        "zip_code": "02118"
-    },
-    {
-        "address": "81 HIGHLAND AVENUE",
-        "city": "SALEM",
-        "county_name": "ESSEX",
-        "emergency_services": true,
-        "hospital_name": "NORTH SHORE MEDICAL CENTER",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -70.908699,
-                42.511902
-            ],
-            "type": "Point"
-        },
-        "location_address": "81 HIGHLAND AVENUE",
-        "location_city": "SALEM",
-        "location_state": "MA",
-        "location_zip": "01970",
-        "phone_number": "9787411215",
-        "provider_id": "220035",
-        "state": "MA",
-        "zip_code": "01970"
-    },
-    {
-        "address": "330 MOUNT AUBURN STREET",
-        "city": "CAMBRIDGE",
-        "county_name": "MIDDLESEX",
-        "emergency_services": true,
-        "hospital_name": "MOUNT AUBURN HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.135688,
-                42.375014
-            ],
-            "type": "Point"
-        },
-        "location_address": "330 MOUNT AUBURN STREET",
-        "location_city": "CAMBRIDGE",
-        "location_state": "MA",
-        "location_zip": "02138",
-        "phone_number": "6174923500",
-        "provider_id": "220002",
-        "state": "MA",
-        "zip_code": "02138"
-    },
-    {
-        "address": "40 WRIGHT STREET",
-        "city": "PALMER",
-        "county_name": "HAMPDEN",
-        "emergency_services": true,
-        "hospital_name": "BAYSTATE WING HOSPITAL AND MEDICAL CENTERS",
-        "hospital_ownership": "Voluntary non-profit - Other",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -72.340832,
-                42.168972
-            ],
-            "type": "Point"
-        },
-        "location_address": "40 WRIGHT STREET",
-        "location_city": "PALMER",
-        "location_state": "MA",
-        "location_zip": "01069",
-        "phone_number": "4132837651",
-        "provider_id": "220030",
-        "state": "MA",
-        "zip_code": "01069"
-    },
-    {
-        "address": "211 PARK STREET",
-        "city": "ATTLEBORO",
-        "county_name": "BRISTOL",
-        "emergency_services": true,
-        "hospital_name": "STURDY MEMORIAL HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Other",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.27478,
-                41.94262
-            ],
-            "type": "Point"
-        },
-        "location_address": "211 PARK STREET",
-        "location_city": "ATTLEBORO",
-        "location_state": "MA",
-        "location_zip": "02703",
-        "phone_number": "5082225200",
-        "provider_id": "220008",
-        "state": "MA",
-        "zip_code": "02703"
-    },
-    {
-        "address": "88 LEWIS BAY ROAD",
-        "city": "HYANNIS",
-        "county_name": "BARNSTABLE",
-        "emergency_services": true,
-        "hospital_name": "CAPE COD HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -70.274896,
-                41.653169
-            ],
-            "type": "Point"
-        },
-        "location_address": "88 LEWIS BAY ROAD",
-        "location_city": "HYANNIS",
-        "location_state": "MA",
-        "location_zip": "02601",
-        "phone_number": "5087711800",
-        "provider_id": "220012",
-        "state": "MA",
-        "zip_code": "02601"
-    },
-    {
-        "address": "275 SANDWICH STREET",
-        "city": "PLYMOUTH",
-        "county_name": "PLYMOUTH",
-        "emergency_services": true,
-        "hospital_name": "BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -70.643637,
-                41.94367
-            ],
-            "type": "Point"
-        },
-        "location_address": "275 SANDWICH STREET",
-        "location_city": "PLYMOUTH",
-        "location_state": "MA",
-        "location_zip": "02360",
-        "phone_number": "5087462000",
-        "provider_id": "220060",
-        "state": "MA",
-        "zip_code": "02360"
-    },
-    {
-        "address": "125 PARKER HILL AVENUE",
-        "city": "BOSTON",
-        "county_name": "SUFFOLK",
-        "emergency_services": false,
-        "hospital_name": "NEW ENGLAND BAPTIST HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.106294,
-                42.330025
-            ],
-            "type": "Point"
-        },
-        "location_address": "125 PARKER HILL AVENUE",
-        "location_city": "BOSTON",
-        "location_state": "MA",
-        "location_zip": "02120",
-        "phone_number": "6177545800",
-        "provider_id": "220088",
-        "state": "MA",
-        "zip_code": "02120"
-    },
-    {
-        "address": "75 FRANCIS STREET",
-        "city": "BOSTON",
-        "county_name": "SUFFOLK",
-        "emergency_services": true,
-        "hospital_name": "BRIGHAM AND WOMEN'S HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.108083,
-                42.336211
-            ],
-            "type": "Point"
-        },
-        "location_address": "75 FRANCIS STREET",
-        "location_city": "BOSTON",
-        "location_state": "MA",
-        "location_zip": "02115",
-        "phone_number": "6177325500",
-        "provider_id": "220110",
-        "state": "MA",
-        "zip_code": "02115"
-    },
-    {
-        "address": "1493 CAMBRIDGE STREET",
-        "city": "CAMBRIDGE",
-        "county_name": "MIDDLESEX",
-        "emergency_services": true,
-        "hospital_name": "CAMBRIDGE HEALTH ALLIANCE",
-        "hospital_ownership": "Government - Local",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.104486,
-                42.37419
-            ],
-            "type": "Point"
-        },
-        "location_address": "1493 CAMBRIDGE STREET",
-        "location_city": "CAMBRIDGE",
-        "location_state": "MA",
-        "location_zip": "02138",
-        "phone_number": "6176652300",
-        "provider_id": "220011",
-        "state": "MA",
-        "zip_code": "02138"
-    },
-    {
-        "address": "70 EAST STREET",
-        "city": "METHUEN",
-        "county_name": "ESSEX",
-        "emergency_services": true,
-        "hospital_name": "HOLY FAMILY HOSPITAL",
-        "hospital_ownership": "Proprietary",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.168659,
-                42.725672
-            ],
-            "type": "Point"
-        },
-        "location_address": "70 EAST STREET",
-        "location_city": "METHUEN",
-        "location_state": "MA",
-        "location_zip": "01844",
-        "phone_number": "9786870156",
-        "provider_id": "220080",
-        "state": "MA",
-        "zip_code": "01844"
-    },
-    {
-        "address": "200 GROTON ROAD",
-        "city": "AYER",
-        "county_name": "MIDDLESEX",
-        "emergency_services": true,
-        "hospital_name": "NASHOBA VALLEY MEDICAL CENTER",
-        "hospital_ownership": "Proprietary",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.573063,
-                42.576384
-            ],
-            "type": "Point"
-        },
-        "location_address": "200 GROTON ROAD",
-        "location_city": "AYER",
-        "location_state": "MA",
-        "location_zip": "01432",
-        "phone_number": "9787849000",
-        "provider_id": "220098",
-        "state": "MA",
-        "zip_code": "01432"
-    },
-    {
-        "address": "363 HIGHLAND AVENUE",
-        "city": "FALL RIVER",
-        "county_name": "BRISTOL",
-        "emergency_services": true,
-        "hospital_name": "SOUTHCOAST HOSPITAL GROUP, INC",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.146064,
-                41.710611
-            ],
-            "type": "Point"
-        },
-        "location_address": "363 HIGHLAND AVENUE",
-        "location_city": "FALL RIVER",
-        "location_state": "MA",
-        "location_zip": "02720",
-        "phone_number": "5086793131",
-        "provider_id": "220074",
-        "state": "MA",
-        "zip_code": "02720"
-    },
-    {
-        "address": "242 GREEN STREET",
-        "city": "GARDNER",
-        "county_name": "WORCESTER",
-        "emergency_services": true,
-        "hospital_name": "HEYWOOD HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.986092,
-                42.586393
-            ],
-            "type": "Point"
-        },
-        "location_address": "242 GREEN STREET",
-        "location_city": "GARDNER",
-        "location_state": "MA",
-        "location_zip": "01440",
-        "phone_number": "9786323420",
-        "provider_id": "220095",
-        "state": "MA",
-        "zip_code": "01440"
-    },
-    {
-        "address": "199 REEDSDALE ROAD",
-        "city": "MILTON",
-        "county_name": "NORFOLK",
-        "emergency_services": true,
-        "hospital_name": "BETH ISRAEL DEACONESS HOSPITAL-MILTON INC",
-        "hospital_ownership": "Government - Federal",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.075277,
-                42.25241
-            ],
-            "type": "Point"
-        },
-        "location_address": "199 REEDSDALE ROAD",
-        "location_city": "MILTON",
-        "location_state": "MA",
-        "location_zip": "02186",
-        "phone_number": "6176964600",
-        "provider_id": "220108",
-        "state": "MA",
-        "zip_code": "02186"
-    },
-    {
-        "address": "30 LOCUST STREET",
-        "city": "NORTHAMPTON",
-        "county_name": "HAMPSHIRE",
-        "emergency_services": true,
-        "hospital_name": "COOLEY DICKINSON HOSPITAL INC,THE",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -72.653387,
-                42.331632
-            ],
-            "type": "Point"
-        },
-        "location_address": "30 LOCUST STREET",
-        "location_city": "NORTHAMPTON",
-        "location_state": "MA",
-        "location_zip": "01060",
-        "phone_number": "4135822000",
-        "provider_id": "220015",
-        "state": "MA",
-        "zip_code": "01060"
-    },
-    {
-        "address": "29 LEWIS AVENUE",
-        "city": "GREAT BARRINGTON",
-        "county_name": "BERKSHIRE",
-        "emergency_services": true,
-        "hospital_name": "FAIRVIEW HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Critical Access Hospitals",
-        "location": {
-            "coordinates": [
-                -73.372567,
-                42.191978
-            ],
-            "type": "Point"
-        },
-        "location_address": "29 LEWIS AVENUE",
-        "location_city": "GREAT BARRINGTON",
-        "location_state": "MA",
-        "location_zip": "01230",
-        "phone_number": "4135280790",
-        "provider_id": "221302",
-        "state": "MA",
-        "zip_code": "01230"
-    },
-    {
-        "address": "575 BEECH STREET",
-        "city": "HOLYOKE",
-        "county_name": "HAMPDEN",
-        "emergency_services": true,
-        "hospital_name": "HOLYOKE MEDICAL CENTER",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -72.627955,
-                42.199421
-            ],
-            "type": "Point"
-        },
-        "location_address": "575 BEECH STREET",
-        "location_city": "HOLYOKE",
-        "location_state": "MA",
-        "location_zip": "01040",
-        "phone_number": "4135342500",
-        "provider_id": "220024",
-        "state": "MA",
-        "zip_code": "01040"
-    },
-    {
-        "address": "67 & 100 TER HEUN DRIVE",
-        "city": "FALMOUTH",
-        "county_name": "BARNSTABLE",
-        "emergency_services": true,
-        "hospital_name": "FALMOUTH HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location_address": "67 & 100 TER HEUN DRIVE",
-        "location_city": "FALMOUTH",
-        "location_state": "MA",
-        "location_zip": "02540",
-        "phone_number": "5085485300",
-        "provider_id": "220135",
-        "state": "MA",
-        "zip_code": "02540"
-    },
-    {
-        "address": "115 LINCOLN STREET",
-        "city": "FRAMINGHAM",
-        "county_name": "MIDDLESEX",
-        "emergency_services": true,
-        "hospital_name": "METROWEST MEDICAL CENTER",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -71.419715,
-                42.284249
-            ],
-            "type": "Point"
-        },
-        "location_address": "115 LINCOLN STREET",
-        "location_city": "FRAMINGHAM",
-        "location_state": "MA",
-        "location_zip": "01701",
-        "phone_number": "5083831000",
-        "provider_id": "220175",
-        "state": "MA",
-        "zip_code": "01701"
-    },
-    {
-        "address": "300 LONGWOOD AVENUE",
-        "city": "BOSTON",
-        "county_name": "SUFFOLK",
-        "emergency_services": true,
-        "hospital_name": "BOSTON CHILDREN'S HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Childrens",
-        "location": {
-            "coordinates": [
-                -71.104762,
-                42.337621
-            ],
-            "type": "Point"
-        },
-        "location_address": "300 LONGWOOD AVENUE",
-        "location_city": "BOSTON",
-        "location_state": "MA",
-        "location_zip": "02115",
-        "phone_number": "6177356000",
-        "provider_id": "223302",
-        "state": "MA",
-        "zip_code": "02115"
     },
     {
         "address": "55 LAKE AVENUE NORTH",
         "city": "WORCESTER",
         "county_name": "WORCESTER",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
         "emergency_services": true,
         "hospital_name": "UMASS MEMORIAL MEDICAL CENTER INC",
+        "hospital_overall_rating": "1",
         "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
         "location": {
@@ -1197,47 +53,121 @@
         "location_city": "WORCESTER",
         "location_state": "MA",
         "location_zip": "01655",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Below the National average",
         "phone_number": "5083341000",
         "provider_id": "220163",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Below the National average",
         "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
         "zip_code": "01655"
     },
     {
-        "address": "14 PROSPECT STREET",
-        "city": "MILFORD",
-        "county_name": "WORCESTER",
-        "emergency_services": true,
-        "hospital_name": "MILFORD REGIONAL MEDICAL CENTER",
-        "hospital_ownership": "Voluntary non-profit - Other",
+        "address": "125 PARKER HILL AVENUE",
+        "city": "BOSTON",
+        "county_name": "SUFFOLK",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": false,
+        "hospital_name": "NEW ENGLAND BAPTIST HOSPITAL",
+        "hospital_overall_rating": "5",
+        "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
         "location": {
             "coordinates": [
-                -71.528655,
-                42.132545
+                -71.107617,
+                42.330368
             ],
             "type": "Point"
         },
-        "location_address": "14 PROSPECT STREET",
-        "location_city": "MILFORD",
+        "location_address": "125 PARKER HILL AVENUE",
+        "location_city": "BOSTON",
         "location_state": "MA",
-        "location_zip": "01757",
-        "phone_number": "5084731190",
-        "provider_id": "220090",
+        "location_zip": "02120",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "6177545800",
+        "provider_id": "220088",
+        "readmission_national_comparison": "Above the National average",
+        "safety_of_care_national_comparison": "Above the National average",
         "state": "MA",
-        "zip_code": "01757"
+        "timeliness_of_care_national_comparison": "Not Available",
+        "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "zip_code": "02120"
+    },
+    {
+        "address": "ONE GENERAL STREET",
+        "city": "LAWRENCE",
+        "county_name": "ESSEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "LAWRENCE GENERAL HOSPITAL",
+        "hospital_overall_rating": "2",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "ONE GENERAL STREET",
+        "location_city": "LAWRENCE",
+        "location_state": "MA",
+        "location_zip": "01842",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "9786834000",
+        "provider_id": "220010",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Below the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "01842"
+    },
+    {
+        "address": "330 MOUNT AUBURN STREET",
+        "city": "CAMBRIDGE",
+        "county_name": "MIDDLESEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "MOUNT AUBURN HOSPITAL",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.134209,
+                42.374924
+            ],
+            "type": "Point"
+        },
+        "location_address": "330 MOUNT AUBURN STREET",
+        "location_city": "CAMBRIDGE",
+        "location_state": "MA",
+        "location_zip": "02138",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "6174923500",
+        "provider_id": "220002",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02138"
     },
     {
         "address": "800 WASHINGTON STREET",
         "city": "BOSTON",
         "county_name": "SUFFOLK",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
         "emergency_services": true,
         "hospital_name": "TUFTS MEDICAL CENTER",
+        "hospital_overall_rating": "2",
         "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
         "location": {
             "coordinates": [
-                -71.063454,
-                42.35005
+                -71.063693,
+                42.349486
             ],
             "type": "Point"
         },
@@ -1245,23 +175,102 @@
         "location_city": "BOSTON",
         "location_state": "MA",
         "location_zip": "02111",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Same as the National average",
         "phone_number": "6176365000",
         "provider_id": "220116",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Below the National average",
         "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
         "zip_code": "02111"
+    },
+    {
+        "address": "81 HIGHLAND AVENUE",
+        "city": "SALEM",
+        "county_name": "ESSEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "NORTH SHORE MEDICAL CENTER",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.908564,
+                42.51204
+            ],
+            "type": "Point"
+        },
+        "location_address": "81 HIGHLAND AVENUE",
+        "location_city": "SALEM",
+        "location_state": "MA",
+        "location_zip": "01970",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "9787411215",
+        "provider_id": "220035",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Below the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "01970"
+    },
+    {
+        "address": "516 CAREW STREET",
+        "city": "SPRINGFIELD",
+        "county_name": "HAMPDEN",
+        "effectiveness_of_care_national_comparison": "Not Available",
+        "effectiveness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "efficient_use_of_medical_imaging_national_comparison": "Not Available",
+        "efficient_use_of_medical_imaging_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "emergency_services": false,
+        "hospital_name": "SHRINERS' HOSPITAL FOR CHILDREN (THE)",
+        "hospital_overall_rating_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Childrens",
+        "location": {
+            "coordinates": [
+                -72.591568,
+                42.120558
+            ],
+            "type": "Point"
+        },
+        "location_address": "516 CAREW STREET",
+        "location_city": "SPRINGFIELD",
+        "location_state": "MA",
+        "location_zip": "01104",
+        "mortality_national_comparison": "Not Available",
+        "mortality_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "patient_experience_national_comparison": "Not Available",
+        "patient_experience_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "phone_number": "4137872000",
+        "provider_id": "223303",
+        "readmission_national_comparison": "Not Available",
+        "readmission_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "safety_of_care_national_comparison": "Not Available",
+        "safety_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Not Available",
+        "timeliness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "zip_code": "01104"
     },
     {
         "address": "100 SOUTH STREET",
         "city": "SOUTHBRIDGE",
         "county_name": "WORCESTER",
+        "effectiveness_of_care_national_comparison": "Below the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
         "emergency_services": true,
-        "hospital_name": "HARRINGTON MEMORIAL HOSPITAL",
+        "hospital_name": "HARRINGTON MEMORIAL HOSPITAL-1",
+        "hospital_overall_rating": "3",
         "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
         "location": {
             "coordinates": [
-                -72.043002,
-                42.077044
+                -72.041595,
+                42.077238
             ],
             "type": "Point"
         },
@@ -1269,23 +278,233 @@
         "location_city": "SOUTHBRIDGE",
         "location_state": "MA",
         "location_zip": "01550",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Above the National average",
         "phone_number": "5087659771",
         "provider_id": "220019",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
         "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
         "zip_code": "01550"
+    },
+    {
+        "address": "14 PROSPECT STREET",
+        "city": "MILFORD",
+        "county_name": "WORCESTER",
+        "effectiveness_of_care_national_comparison": "Below the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
+        "emergency_services": true,
+        "hospital_name": "MILFORD REGIONAL MEDICAL CENTER",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.529014,
+                42.132835
+            ],
+            "type": "Point"
+        },
+        "location_address": "14 PROSPECT STREET",
+        "location_city": "MILFORD",
+        "location_state": "MA",
+        "location_zip": "01757",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "5084731190",
+        "provider_id": "220090",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Below the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "01757"
+    },
+    {
+        "address": "1153 CENTRE STREET",
+        "city": "BOSTON",
+        "county_name": "SUFFOLK",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.127432,
+                42.30066
+            ],
+            "type": "Point"
+        },
+        "location_address": "1153 CENTRE STREET",
+        "location_city": "BOSTON",
+        "location_state": "MA",
+        "location_zip": "02130",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "6179837000",
+        "provider_id": "220119",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02130"
+    },
+    {
+        "address": "2033 MAIN STREET",
+        "city": "ATHOL",
+        "county_name": "WORCESTER",
+        "effectiveness_of_care_national_comparison": "Not Available",
+        "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "efficient_use_of_medical_imaging_national_comparison": "Not Available",
+        "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period",
+        "emergency_services": true,
+        "hospital_name": "ATHOL MEMORIAL HOSPITAL",
+        "hospital_overall_rating": "3",
+        "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -72.208388,
+                42.586143
+            ],
+            "type": "Point"
+        },
+        "location_address": "2033 MAIN STREET",
+        "location_city": "ATHOL",
+        "location_state": "MA",
+        "location_zip": "01331",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Not Available",
+        "patient_experience_national_comparison_footnote": "Results are not available for this reporting period",
+        "phone_number": "9782493511",
+        "provider_id": "221303",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Not Available",
+        "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "01331"
+    },
+    {
+        "address": "243 CHARLES STREET",
+        "city": "BOSTON",
+        "county_name": "SUFFOLK",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Not Available",
+        "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period",
+        "emergency_services": true,
+        "hospital_name": "MASSACHUSETTS EYE AND EAR INFIRMARY",
+        "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.070375,
+                42.36315
+            ],
+            "type": "Point"
+        },
+        "location_address": "243 CHARLES STREET",
+        "location_city": "BOSTON",
+        "location_state": "MA",
+        "location_zip": "02114",
+        "mortality_national_comparison": "Not Available",
+        "mortality_national_comparison_footnote": "Results are not available for this reporting period",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "6175237900",
+        "provider_id": "220075",
+        "readmission_national_comparison": "Not Available",
+        "readmission_national_comparison_footnote": "Results are not available for this reporting period",
+        "safety_of_care_national_comparison": "Not Available",
+        "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "02114"
+    },
+    {
+        "address": "363 HIGHLAND AVENUE",
+        "city": "FALL RIVER",
+        "county_name": "BRISTOL",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
+        "emergency_services": true,
+        "hospital_name": "SOUTHCOAST HOSPITAL GROUP, INC",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.146181,
+                41.710584
+            ],
+            "type": "Point"
+        },
+        "location_address": "363 HIGHLAND AVENUE",
+        "location_city": "FALL RIVER",
+        "location_state": "MA",
+        "location_zip": "02720",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "5086793131",
+        "provider_id": "220074",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "02720"
+    },
+    {
+        "address": "725 NORTH STREET",
+        "city": "PITTSFIELD",
+        "county_name": "BERKSHIRE",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "BERKSHIRE MEDICAL CENTER INC",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -73.249004,
+                42.458748
+            ],
+            "type": "Point"
+        },
+        "location_address": "725 NORTH STREET",
+        "location_city": "PITTSFIELD",
+        "location_state": "MA",
+        "location_zip": "01201",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "4134472000",
+        "provider_id": "220046",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "01201"
     },
     {
         "address": "57 PROSPECT STREET",
         "city": "NANTUCKET",
         "county_name": "NANTUCKET",
+        "effectiveness_of_care_national_comparison": "Below the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Not Available",
+        "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period",
         "emergency_services": true,
         "hospital_name": "NANTUCKET COTTAGE HOSPITAL",
+        "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score",
         "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
         "location": {
             "coordinates": [
-                -70.100016,
-                41.275319
+                -70.099848,
+                41.275217
             ],
             "type": "Point"
         },
@@ -1293,71 +512,227 @@
         "location_city": "NANTUCKET",
         "location_state": "MA",
         "location_zip": "02554",
+        "mortality_national_comparison": "Not Available",
+        "mortality_national_comparison_footnote": "Results are not available for this reporting period",
+        "patient_experience_national_comparison": "Not Available",
+        "patient_experience_national_comparison_footnote": "Results are not available for this reporting period",
         "phone_number": "5082281200",
         "provider_id": "220177",
+        "readmission_national_comparison": "Not Available",
+        "readmission_national_comparison_footnote": "Results are not available for this reporting period",
+        "safety_of_care_national_comparison": "Not Available",
+        "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period",
         "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
         "zip_code": "02554"
     },
     {
-        "address": "585 LEBANON STREET",
-        "city": "MELROSE",
+        "address": "2014 WASHINGTON STREET",
+        "city": "NEWTON",
         "county_name": "MIDDLESEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
         "emergency_services": true,
-        "hospital_name": "HALLMARK HEALTH SYSTEM",
+        "hospital_name": "NEWTON-WELLESLEY HOSPITAL",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.246592,
+                42.332339
+            ],
+            "type": "Point"
+        },
+        "location_address": "2014 WASHINGTON STREET",
+        "location_city": "NEWTON",
+        "location_state": "MA",
+        "location_zip": "02462",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "6172436000",
+        "provider_id": "220101",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02462"
+    },
+    {
+        "address": "60 HOSPITAL ROAD",
+        "city": "LEOMINSTER",
+        "county_name": "WORCESTER",
+        "effectiveness_of_care_national_comparison": "Below the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "HEALTHALLIANCE HOSPITALS, INC",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.763033,
+                42.541193
+            ],
+            "type": "Point"
+        },
+        "location_address": "60 HOSPITAL ROAD",
+        "location_city": "LEOMINSTER",
+        "location_state": "MA",
+        "location_zip": "01453",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "9784662000",
+        "provider_id": "220001",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "01453"
+    },
+    {
+        "address": "242 GREEN STREET",
+        "city": "GARDNER",
+        "county_name": "WORCESTER",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "HEYWOOD HOSPITAL",
+        "hospital_overall_rating": "3",
         "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
         "location": {
             "coordinates": [
-                -71.06203,
-                42.460409
+                -71.986522,
+                42.587357
             ],
             "type": "Point"
         },
-        "location_address": "585 LEBANON STREET",
-        "location_city": "MELROSE",
+        "location_address": "242 GREEN STREET",
+        "location_city": "GARDNER",
         "location_state": "MA",
-        "location_zip": "02176",
-        "phone_number": "7819793000",
-        "provider_id": "220070",
+        "location_zip": "01440",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "9786323420",
+        "provider_id": "220095",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
         "state": "MA",
-        "zip_code": "02176"
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "01440"
     },
     {
-        "address": "800 WASHINGTON STREET",
-        "city": "NORWOOD",
-        "county_name": "NORFOLK",
+        "address": "41 HIGHLAND AVENUE",
+        "city": "WINCHESTER",
+        "county_name": "MIDDLESEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
         "emergency_services": true,
-        "hospital_name": "NORWOOD HOSPITAL",
-        "hospital_ownership": "Proprietary",
+        "hospital_name": "WINCHESTER HOSPITAL",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
         "location": {
             "coordinates": [
-                -71.20264,
-                42.189462
+                -71.121408,
+                42.465496
             ],
             "type": "Point"
         },
-        "location_address": "800 WASHINGTON STREET",
-        "location_city": "NORWOOD",
+        "location_address": "41 HIGHLAND AVENUE",
+        "location_city": "WINCHESTER",
         "location_state": "MA",
-        "location_zip": "02062",
-        "phone_number": "5087721000",
-        "provider_id": "220126",
+        "location_zip": "01890",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "7817299000",
+        "provider_id": "220105",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
         "state": "MA",
-        "zip_code": "02062"
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "01890"
+    },
+    {
+        "address": "115 LINCOLN STREET",
+        "city": "FRAMINGHAM",
+        "county_name": "MIDDLESEX",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "METROWEST MEDICAL CENTER",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.419754,
+                42.28427
+            ],
+            "type": "Point"
+        },
+        "location_address": "115 LINCOLN STREET",
+        "location_city": "FRAMINGHAM",
+        "location_state": "MA",
+        "location_zip": "01701",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "5083831000",
+        "provider_id": "220175",
+        "readmission_national_comparison": "Above the National average",
+        "safety_of_care_national_comparison": "Below the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "01701"
+    },
+    {
+        "address": "41 & 45 MALL ROAD",
+        "city": "BURLINGTON",
+        "county_name": "MIDDLESEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.224457,
+                42.517383
+            ],
+            "type": "Point"
+        },
+        "location_address": "41 & 45 MALL ROAD",
+        "location_city": "BURLINGTON",
+        "location_state": "MA",
+        "location_zip": "01803",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "7817445100",
+        "provider_id": "220171",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Below the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "01803"
     },
     {
         "address": "123 SUMMER STREET",
         "city": "WORCESTER",
         "county_name": "WORCESTER",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
         "emergency_services": true,
         "hospital_name": "ST VINCENT HOSPITAL",
+        "hospital_overall_rating": "3",
         "hospital_ownership": "Proprietary",
         "hospital_type": "Acute Care Hospitals",
         "location": {
             "coordinates": [
-                -71.79563,
-                42.266786
+                -71.795505,
+                42.266086
             ],
             "type": "Point"
         },
@@ -1365,106 +740,674 @@
         "location_city": "WORCESTER",
         "location_state": "MA",
         "location_zip": "01608",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Below the National average",
         "phone_number": "5083635000",
         "provider_id": "220176",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
         "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
         "zip_code": "01608"
     },
     {
-        "address": "ONE GENERAL STREET",
-        "city": "LAWRENCE",
-        "county_name": "ESSEX",
-        "emergency_services": true,
-        "hospital_name": "LAWRENCE GENERAL HOSPITAL",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location_address": "ONE GENERAL STREET",
-        "location_city": "LAWRENCE",
-        "location_state": "MA",
-        "location_zip": "01842",
-        "phone_number": "9786834000",
-        "provider_id": "220010",
-        "state": "MA",
-        "zip_code": "01842"
-    },
-    {
-        "address": "164 HIGH STREET",
-        "city": "GREENFIELD",
-        "county_name": "FRANKLIN",
-        "emergency_services": true,
-        "hospital_name": "BAYSTATE FRANKLIN MEDICAL CENTER",
-        "hospital_ownership": "Voluntary non-profit - Private",
-        "hospital_type": "Acute Care Hospitals",
-        "location": {
-            "coordinates": [
-                -72.591287,
-                42.595606
-            ],
-            "type": "Point"
-        },
-        "location_address": "164 HIGH STREET",
-        "location_city": "GREENFIELD",
-        "location_state": "MA",
-        "location_zip": "01301",
-        "phone_number": "4137730211",
-        "provider_id": "220016",
-        "state": "MA",
-        "zip_code": "01301"
-    },
-    {
-        "address": "2100 DORCHESTER AVENUE",
-        "city": "BOSTON",
+        "address": "736 CAMBRIDGE STREET",
+        "city": "BRIGHTON",
         "county_name": "SUFFOLK",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
         "emergency_services": true,
-        "hospital_name": "CARNEY HOSPITAL",
+        "hospital_name": "ST ELIZABETH'S MEDICAL CENTER",
+        "hospital_overall_rating": "3",
         "hospital_ownership": "Proprietary",
         "hospital_type": "Acute Care Hospitals",
         "location": {
             "coordinates": [
-                -71.066592,
-                42.277558
+                -71.147833,
+                42.349886
             ],
             "type": "Point"
         },
-        "location_address": "2100 DORCHESTER AVENUE",
-        "location_city": "BOSTON",
+        "location_address": "736 CAMBRIDGE STREET",
+        "location_city": "BRIGHTON",
         "location_state": "MA",
-        "location_zip": "02124",
-        "phone_number": "6175062000",
-        "provider_id": "220017",
+        "location_zip": "02135",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "6177893000",
+        "provider_id": "220036",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
         "state": "MA",
-        "zip_code": "02124"
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02135"
     },
     {
-        "address": "148 CHESTNUT STREET",
-        "city": "NEEDHAM",
-        "county_name": "NORFOLK",
+        "address": "1 BOSTON MEDICAL CENTER PLACE",
+        "city": "BOSTON",
+        "county_name": "SUFFOLK",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
         "emergency_services": true,
-        "hospital_name": "BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM",
+        "hospital_name": "BOSTON MEDICAL CENTER CORPORATION-",
+        "hospital_overall_rating": "3",
         "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
         "location": {
             "coordinates": [
-                -71.23736,
-                42.277558
+                -71.07448,
+                42.33481
             ],
             "type": "Point"
         },
-        "location_address": "148 CHESTNUT STREET",
-        "location_city": "NEEDHAM",
+        "location_address": "1 BOSTON MEDICAL CENTER PLACE",
+        "location_city": "BOSTON",
         "location_state": "MA",
-        "location_zip": "02494",
-        "phone_number": "7814533002",
-        "provider_id": "220083",
+        "location_zip": "02118",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "6176388000",
+        "provider_id": "220031",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Below the National average",
         "state": "MA",
-        "zip_code": "02494"
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02118"
+    },
+    {
+        "address": "29 LEWIS AVENUE",
+        "city": "GREAT BARRINGTON",
+        "county_name": "BERKSHIRE",
+        "effectiveness_of_care_national_comparison": "Not Available",
+        "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "FAIRVIEW HOSPITAL",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location": {
+            "coordinates": [
+                -73.374055,
+                42.191842
+            ],
+            "type": "Point"
+        },
+        "location_address": "29 LEWIS AVENUE",
+        "location_city": "GREAT BARRINGTON",
+        "location_state": "MA",
+        "location_zip": "01230",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "4135280790",
+        "provider_id": "221302",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Not Available",
+        "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "01230"
+    },
+    {
+        "address": "ONE HOSPITAL ROAD PO BOX 1477",
+        "city": "OAK BLUFFS",
+        "county_name": "DUKES",
+        "effectiveness_of_care_national_comparison": "Not Available",
+        "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "efficient_use_of_medical_imaging_national_comparison": "Not Available",
+        "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period",
+        "emergency_services": true,
+        "hospital_name": "MARTHA'S VINEYARD HOSPITAL INC",
+        "hospital_overall_rating": "4",
+        "hospital_overall_rating_footnote": "This hospital\u0092s star rating only includes data reported on inpatient services",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Critical Access Hospitals",
+        "location_address": "ONE HOSPITAL ROAD PO BOX 1477",
+        "location_city": "OAK BLUFFS",
+        "location_state": "MA",
+        "location_zip": "02557",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "5086930410",
+        "provider_id": "221300",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Not Available",
+        "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Not Available",
+        "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "zip_code": "02557"
+    },
+    {
+        "address": "88 WASHINGTON STREET",
+        "city": "TAUNTON",
+        "county_name": "BRISTOL",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "MORTON HOSPITAL",
+        "hospital_overall_rating": "2",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.09435,
+                41.905583
+            ],
+            "type": "Point"
+        },
+        "location_address": "88 WASHINGTON STREET",
+        "location_city": "TAUNTON",
+        "location_state": "MA",
+        "location_zip": "02780",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "5088287000",
+        "provider_id": "220073",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "02780"
+    },
+    {
+        "address": "199 REEDSDALE ROAD",
+        "city": "MILTON",
+        "county_name": "NORFOLK",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "BETH ISRAEL DEACONESS HOSPITAL-MILTON INC",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Government - Federal",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.075213,
+                42.252352
+            ],
+            "type": "Point"
+        },
+        "location_address": "199 REEDSDALE ROAD",
+        "location_city": "MILTON",
+        "location_state": "MA",
+        "location_zip": "02186",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "6176964600",
+        "provider_id": "220108",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "02186"
+    },
+    {
+        "address": "30 WARREN STREET",
+        "city": "BRIGHTON",
+        "county_name": "SUFFOLK",
+        "effectiveness_of_care_national_comparison": "Not Available",
+        "effectiveness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "efficient_use_of_medical_imaging_national_comparison": "Not Available",
+        "efficient_use_of_medical_imaging_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "emergency_services": false,
+        "hospital_name": "FRANCISCAN CHILDREN'S HOSPITAL & REHAB CENTER",
+        "hospital_overall_rating_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Childrens",
+        "location": {
+            "coordinates": [
+                -71.144447,
+                42.349756
+            ],
+            "type": "Point"
+        },
+        "location_address": "30 WARREN STREET",
+        "location_city": "BRIGHTON",
+        "location_state": "MA",
+        "location_zip": "02135",
+        "mortality_national_comparison": "Not Available",
+        "mortality_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "patient_experience_national_comparison": "Not Available",
+        "patient_experience_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "phone_number": "6172543800",
+        "provider_id": "223300",
+        "readmission_national_comparison": "Not Available",
+        "readmission_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "safety_of_care_national_comparison": "Not Available",
+        "safety_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Not Available",
+        "timeliness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "zip_code": "02135"
+    },
+    {
+        "address": "55 FOGG ROAD",
+        "city": "SOUTH WEYMOUTH",
+        "county_name": "NORFOLK",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
+        "emergency_services": true,
+        "hospital_name": "SOUTH SHORE HOSPITAL",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.954075,
+                42.17472
+            ],
+            "type": "Point"
+        },
+        "location_address": "55 FOGG ROAD",
+        "location_city": "SOUTH WEYMOUTH",
+        "location_state": "MA",
+        "location_zip": "02190",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "7813408000",
+        "provider_id": "220100",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Below the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02190"
+    },
+    {
+        "address": "70 EAST STREET",
+        "city": "METHUEN",
+        "county_name": "ESSEX",
+        "effectiveness_of_care_national_comparison": "Below the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "HOLY FAMILY HOSPITAL",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.165979,
+                42.725539
+            ],
+            "type": "Point"
+        },
+        "location_address": "70 EAST STREET",
+        "location_city": "METHUEN",
+        "location_state": "MA",
+        "location_zip": "01844",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "9786870156",
+        "provider_id": "220080",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "01844"
+    },
+    {
+        "address": "85 HERRICK STREET",
+        "city": "BEVERLY",
+        "county_name": "ESSEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
+        "emergency_services": true,
+        "hospital_name": "BEVERLY HOSPITAL CORPORATION",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.877222,
+                42.565302
+            ],
+            "type": "Point"
+        },
+        "location_address": "85 HERRICK STREET",
+        "location_city": "BEVERLY",
+        "location_state": "MA",
+        "location_zip": "01915",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "9789223000",
+        "provider_id": "220033",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "01915"
+    },
+    {
+        "address": "275 SANDWICH STREET",
+        "city": "PLYMOUTH",
+        "county_name": "PLYMOUTH",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "BETH ISRAEL DEACONESS HOSPITAL - PLYMOUTH",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.645619,
+                41.944861
+            ],
+            "type": "Point"
+        },
+        "location_address": "275 SANDWICH STREET",
+        "location_city": "PLYMOUTH",
+        "location_state": "MA",
+        "location_zip": "02360",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "5087462000",
+        "provider_id": "220060",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02360"
+    },
+    {
+        "address": "25 HIGHLAND AVENUE",
+        "city": "NEWBURYPORT",
+        "county_name": "ESSEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
+        "emergency_services": true,
+        "hospital_name": "ANNA JAQUES HOSPITAL",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.890227,
+                42.814606
+            ],
+            "type": "Point"
+        },
+        "location_address": "25 HIGHLAND AVENUE",
+        "location_city": "NEWBURYPORT",
+        "location_state": "MA",
+        "location_zip": "01950",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "9784631000",
+        "provider_id": "220029",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "01950"
+    },
+    {
+        "address": "115 WEST SILVER STREET",
+        "city": "WESTFIELD",
+        "county_name": "HAMPDEN",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "NOBLE HOSPITAL",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -72.760312,
+                42.117748
+            ],
+            "type": "Point"
+        },
+        "location_address": "115 WEST SILVER STREET",
+        "location_city": "WESTFIELD",
+        "location_state": "MA",
+        "location_zip": "01085",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "4135682811",
+        "provider_id": "220065",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "01085"
+    },
+    {
+        "address": "55 FRUIT STREET",
+        "city": "BOSTON",
+        "county_name": "SUFFOLK",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
+        "emergency_services": true,
+        "hospital_name": "MASSACHUSETTS GENERAL HOSPITAL",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.06884,
+                42.362403
+            ],
+            "type": "Point"
+        },
+        "location_address": "55 FRUIT STREET",
+        "location_city": "BOSTON",
+        "location_state": "MA",
+        "location_zip": "02114",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "6177262000",
+        "provider_id": "220071",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02114"
+    },
+    {
+        "address": "51 BLOSSOM STREET",
+        "city": "BOSTON",
+        "county_name": "SUFFOLK",
+        "effectiveness_of_care_national_comparison": "Not Available",
+        "effectiveness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "efficient_use_of_medical_imaging_national_comparison": "Not Available",
+        "efficient_use_of_medical_imaging_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "emergency_services": false,
+        "hospital_name": "SHRINERS' HOSPITAL FOR CHILDREN - BOSTON, THE",
+        "hospital_overall_rating_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Childrens",
+        "location": {
+            "coordinates": [
+                -71.066904,
+                42.363079
+            ],
+            "type": "Point"
+        },
+        "location_address": "51 BLOSSOM STREET",
+        "location_city": "BOSTON",
+        "location_state": "MA",
+        "location_zip": "02114",
+        "mortality_national_comparison": "Not Available",
+        "mortality_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "patient_experience_national_comparison": "Not Available",
+        "patient_experience_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "phone_number": "6177223000",
+        "provider_id": "223304",
+        "readmission_national_comparison": "Not Available",
+        "readmission_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "safety_of_care_national_comparison": "Not Available",
+        "safety_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Not Available",
+        "timeliness_of_care_national_comparison_footnote": "Data are shown only for hospitals that participate in the Inpatient Quality Reporting (IQR) and Outpatient Quality Reporting (OQR) programs",
+        "zip_code": "02114"
+    },
+    {
+        "address": "680 CENTER STREET",
+        "city": "BROCKTON",
+        "county_name": "PLYMOUTH",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "SIGNATURE HEALTHCARE BROCKTON HOSPITAL",
+        "hospital_overall_rating": "2",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.991083,
+                42.08621
+            ],
+            "type": "Point"
+        },
+        "location_address": "680 CENTER STREET",
+        "location_city": "BROCKTON",
+        "location_state": "MA",
+        "location_zip": "02302",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "5089417000",
+        "provider_id": "220052",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02302"
+    },
+    {
+        "address": "OLD ROAD TO 9 ACRE CORNER",
+        "city": "W CONCORD",
+        "county_name": "MIDDLESEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
+        "emergency_services": true,
+        "hospital_name": "EMERSON HOSPITAL",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location_address": "OLD ROAD TO 9 ACRE CORNER",
+        "location_city": "W CONCORD",
+        "location_state": "MA",
+        "location_zip": "01742",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "9783691400",
+        "provider_id": "220084",
+        "readmission_national_comparison": "Above the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "01742"
+    },
+    {
+        "address": "201 HIGHLAND STREET",
+        "city": "CLINTON",
+        "county_name": "WORCESTER",
+        "effectiveness_of_care_national_comparison": "Below the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Not Available",
+        "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period",
+        "emergency_services": true,
+        "hospital_name": "CLINTON HOSPITAL ASSOCIATION",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.693349,
+                42.427062
+            ],
+            "type": "Point"
+        },
+        "location_address": "201 HIGHLAND STREET",
+        "location_city": "CLINTON",
+        "location_state": "MA",
+        "location_zip": "01510",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "9783683000",
+        "provider_id": "220058",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Not Available",
+        "safety_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "01510"
+    },
+    {
+        "address": "759 CHESTNUT STREET",
+        "city": "SPRINGFIELD",
+        "county_name": "HAMPDEN",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
+        "emergency_services": true,
+        "hospital_name": "BAYSTATE MEDICAL CENTER",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -72.605251,
+                42.120742
+            ],
+            "type": "Point"
+        },
+        "location_address": "759 CHESTNUT STREET",
+        "location_city": "SPRINGFIELD",
+        "location_state": "MA",
+        "location_zip": "01199",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "4137940000",
+        "provider_id": "220077",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "01199"
+    },
+    {
+        "address": "235 NORTH PEARL STREET",
+        "city": "BROCKTON",
+        "county_name": "PLYMOUTH",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "GOOD SAMARITAN MEDICAL CENTER",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.065645,
+                42.09707
+            ],
+            "type": "Point"
+        },
+        "location_address": "235 NORTH PEARL STREET",
+        "location_city": "BROCKTON",
+        "location_state": "MA",
+        "location_zip": "02301",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "5084273000",
+        "provider_id": "220111",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02301"
     },
     {
         "address": "157 UNION STREET",
         "city": "MARLBOROUGH",
         "county_name": "MIDDLESEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
         "emergency_services": true,
         "hospital_name": "MARLBOROUGH HOSPITAL",
+        "hospital_overall_rating": "3",
         "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
         "location": {
@@ -1478,26 +1421,667 @@
         "location_city": "MARLBOROUGH",
         "location_state": "MA",
         "location_zip": "01752",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Below the National average",
         "phone_number": "5084815000",
         "provider_id": "220049",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Above the National average",
         "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
         "zip_code": "01752"
     },
     {
-        "address": "OLD ROAD TO 9 ACRE CORNER",
-        "city": "W CONCORD",
-        "county_name": "MIDDLESEX",
+        "address": "575 BEECH STREET",
+        "city": "HOLYOKE",
+        "county_name": "HAMPDEN",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
         "emergency_services": true,
-        "hospital_name": "EMERSON HOSPITAL",
+        "hospital_name": "HOLYOKE MEDICAL CENTER",
+        "hospital_overall_rating": "2",
         "hospital_ownership": "Voluntary non-profit - Private",
         "hospital_type": "Acute Care Hospitals",
-        "location_address": "OLD ROAD TO 9 ACRE CORNER",
-        "location_city": "W CONCORD",
+        "location": {
+            "coordinates": [
+                -72.627087,
+                42.199616
+            ],
+            "type": "Point"
+        },
+        "location_address": "575 BEECH STREET",
+        "location_city": "HOLYOKE",
         "location_state": "MA",
-        "location_zip": "01742",
-        "phone_number": "9783691400",
-        "provider_id": "220084",
+        "location_zip": "01040",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "4135342500",
+        "provider_id": "220024",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Below the National average",
         "state": "MA",
-        "zip_code": "01742"
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "01040"
+    },
+    {
+        "address": "148 CHESTNUT STREET",
+        "city": "NEEDHAM",
+        "county_name": "NORFOLK",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.237361,
+                42.277552
+            ],
+            "type": "Point"
+        },
+        "location_address": "148 CHESTNUT STREET",
+        "location_city": "NEEDHAM",
+        "location_state": "MA",
+        "location_zip": "02494",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "7814533002",
+        "provider_id": "220083",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02494"
+    },
+    {
+        "address": "300 LONGWOOD AVENUE",
+        "city": "BOSTON",
+        "county_name": "SUFFOLK",
+        "effectiveness_of_care_national_comparison": "Not Available",
+        "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "efficient_use_of_medical_imaging_national_comparison": "Not Available",
+        "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period",
+        "emergency_services": true,
+        "hospital_name": "BOSTON CHILDREN'S HOSPITAL",
+        "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Childrens",
+        "location": {
+            "coordinates": [
+                -71.105165,
+                42.337774
+            ],
+            "type": "Point"
+        },
+        "location_address": "300 LONGWOOD AVENUE",
+        "location_city": "BOSTON",
+        "location_state": "MA",
+        "location_zip": "02115",
+        "mortality_national_comparison": "Not Available",
+        "mortality_national_comparison_footnote": "Results are not available for this reporting period",
+        "patient_experience_national_comparison": "Not Available",
+        "patient_experience_national_comparison_footnote": "Results are not available for this reporting period",
+        "phone_number": "6177356000",
+        "provider_id": "223302",
+        "readmission_national_comparison": "Not Available",
+        "readmission_national_comparison_footnote": "Results are not available for this reporting period",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Not Available",
+        "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "zip_code": "02115"
+    },
+    {
+        "address": "330 BROOKLINE AVENUE",
+        "city": "BOSTON",
+        "county_name": "SUFFOLK",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Below the National average",
+        "emergency_services": true,
+        "hospital_name": "BETH ISRAEL DEACONESS MEDICAL CENTER",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.105504,
+                42.340575
+            ],
+            "type": "Point"
+        },
+        "location_address": "330 BROOKLINE AVENUE",
+        "location_city": "BOSTON",
+        "location_state": "MA",
+        "location_zip": "02215",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "6176677000",
+        "provider_id": "220086",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02215"
+    },
+    {
+        "address": "164 HIGH STREET",
+        "city": "GREENFIELD",
+        "county_name": "FRANKLIN",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "BAYSTATE FRANKLIN MEDICAL CENTER",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -72.591287,
+                42.595606
+            ],
+            "type": "Point"
+        },
+        "location_address": "164 HIGH STREET",
+        "location_city": "GREENFIELD",
+        "location_state": "MA",
+        "location_zip": "01301",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "4137730211",
+        "provider_id": "220016",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "01301"
+    },
+    {
+        "address": "295 VARNUM AVENUE",
+        "city": "LOWELL",
+        "county_name": "MIDDLESEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
+        "emergency_services": true,
+        "hospital_name": "LOWELL GENERAL HOSPITAL",
+        "hospital_overall_rating": "2",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.340573,
+                42.646493
+            ],
+            "type": "Point"
+        },
+        "location_address": "295 VARNUM AVENUE",
+        "location_city": "LOWELL",
+        "location_state": "MA",
+        "location_zip": "01854",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "9789376000",
+        "provider_id": "220063",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "01854"
+    },
+    {
+        "address": "271 CAREW STREET",
+        "city": "SPRINGFIELD",
+        "county_name": "HAMPDEN",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "MERCY MEDICAL CTR",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -72.595442,
+                42.115878
+            ],
+            "type": "Point"
+        },
+        "location_address": "271 CAREW STREET",
+        "location_city": "SPRINGFIELD",
+        "location_state": "MA",
+        "location_zip": "01104",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "4137489000",
+        "provider_id": "220066",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "01104"
+    },
+    {
+        "address": "88 LEWIS BAY ROAD",
+        "city": "HYANNIS",
+        "county_name": "BARNSTABLE",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
+        "emergency_services": true,
+        "hospital_name": "CAPE COD HOSPITAL",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.275043,
+                41.654035
+            ],
+            "type": "Point"
+        },
+        "location_address": "88 LEWIS BAY ROAD",
+        "location_city": "HYANNIS",
+        "location_state": "MA",
+        "location_zip": "02601",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "5087711800",
+        "provider_id": "220012",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02601"
+    },
+    {
+        "address": "2100 DORCHESTER AVENUE",
+        "city": "BOSTON",
+        "county_name": "SUFFOLK",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "CARNEY HOSPITAL",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.066483,
+                42.277963
+            ],
+            "type": "Point"
+        },
+        "location_address": "2100 DORCHESTER AVENUE",
+        "location_city": "BOSTON",
+        "location_state": "MA",
+        "location_zip": "02124",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "6175062000",
+        "provider_id": "220017",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02124"
+    },
+    {
+        "address": "1493 CAMBRIDGE STREET",
+        "city": "CAMBRIDGE",
+        "county_name": "MIDDLESEX",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "CAMBRIDGE HEALTH ALLIANCE",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Government - Local",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.104413,
+                42.374181
+            ],
+            "type": "Point"
+        },
+        "location_address": "1493 CAMBRIDGE STREET",
+        "location_city": "CAMBRIDGE",
+        "location_state": "MA",
+        "location_zip": "02138",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "6176652300",
+        "provider_id": "220011",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "02138"
+    },
+    {
+        "address": "75 FRANCIS STREET",
+        "city": "BOSTON",
+        "county_name": "SUFFOLK",
+        "effectiveness_of_care_national_comparison": "Below the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
+        "emergency_services": true,
+        "hospital_name": "BRIGHAM AND WOMEN'S HOSPITAL",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.107434,
+                42.335814
+            ],
+            "type": "Point"
+        },
+        "location_address": "75 FRANCIS STREET",
+        "location_city": "BOSTON",
+        "location_state": "MA",
+        "location_zip": "02115",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Above the National average",
+        "phone_number": "6177325500",
+        "provider_id": "220110",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Below the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02115"
+    },
+    {
+        "address": "85 SOUTH STREET",
+        "city": "WARE",
+        "county_name": "HAMPSHIRE",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Not Available",
+        "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period",
+        "emergency_services": true,
+        "hospital_name": "BAYSTATE MARY LANE HOSPITAL",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -72.241399,
+                42.252903
+            ],
+            "type": "Point"
+        },
+        "location_address": "85 SOUTH STREET",
+        "location_city": "WARE",
+        "location_state": "MA",
+        "location_zip": "01082",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "4139676211",
+        "provider_id": "220050",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "01082"
+    },
+    {
+        "address": "800 WASHINGTON STREET",
+        "city": "NORWOOD",
+        "county_name": "NORFOLK",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "NORWOOD HOSPITAL",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.20264,
+                42.189462
+            ],
+            "type": "Point"
+        },
+        "location_address": "800 WASHINGTON STREET",
+        "location_city": "NORWOOD",
+        "location_state": "MA",
+        "location_zip": "02062",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "5087721000",
+        "provider_id": "220126",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02062"
+    },
+    {
+        "address": "107 LINCOLN STREET",
+        "city": "WORCESTER",
+        "county_name": "WORCESTER",
+        "effectiveness_of_care_national_comparison": "Not Available",
+        "effectiveness_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "efficient_use_of_medical_imaging_national_comparison": "Not Available",
+        "efficient_use_of_medical_imaging_national_comparison_footnote": "Results are not available for this reporting period",
+        "emergency_services": false,
+        "hospital_name": "ADCARE HOSPITAL OF WORCESTER INC",
+        "hospital_overall_rating_footnote": "There are too few measures or measure groups reported to calculate a star rating or measure group score",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.795576,
+                42.276182
+            ],
+            "type": "Point"
+        },
+        "location_address": "107 LINCOLN STREET",
+        "location_city": "WORCESTER",
+        "location_state": "MA",
+        "location_zip": "01605",
+        "mortality_national_comparison": "Not Available",
+        "mortality_national_comparison_footnote": "Results are not available for this reporting period",
+        "patient_experience_national_comparison": "Not Available",
+        "patient_experience_national_comparison_footnote": "Results are not available for this reporting period",
+        "phone_number": "5087999000",
+        "provider_id": "220062",
+        "readmission_national_comparison": "Not Available",
+        "readmission_national_comparison_footnote": "Results are not available for this reporting period",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Not Available",
+        "timeliness_of_care_national_comparison_footnote": "Results are not available for this reporting period",
+        "zip_code": "01605"
+    },
+    {
+        "address": "40 WRIGHT STREET",
+        "city": "PALMER",
+        "county_name": "HAMPDEN",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "BAYSTATE WING HOSPITAL AND MEDICAL CENTERS",
+        "hospital_overall_rating": "4",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -72.342457,
+                42.16813
+            ],
+            "type": "Point"
+        },
+        "location_address": "40 WRIGHT STREET",
+        "location_city": "PALMER",
+        "location_state": "MA",
+        "location_zip": "01069",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "4132837651",
+        "provider_id": "220030",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "01069"
+    },
+    {
+        "address": "200 GROTON ROAD",
+        "city": "AYER",
+        "county_name": "MIDDLESEX",
+        "effectiveness_of_care_national_comparison": "Same as the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "NASHOBA VALLEY MEDICAL CENTER",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Proprietary",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.573053,
+                42.576412
+            ],
+            "type": "Point"
+        },
+        "location_address": "200 GROTON ROAD",
+        "location_city": "AYER",
+        "location_state": "MA",
+        "location_zip": "01432",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "9787849000",
+        "provider_id": "220098",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Same as the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Above the National average",
+        "zip_code": "01432"
+    },
+    {
+        "address": "30 LOCUST STREET",
+        "city": "NORTHAMPTON",
+        "county_name": "HAMPSHIRE",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "COOLEY DICKINSON HOSPITAL INC,THE",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -72.653387,
+                42.331632
+            ],
+            "type": "Point"
+        },
+        "location_address": "30 LOCUST STREET",
+        "location_city": "NORTHAMPTON",
+        "location_state": "MA",
+        "location_zip": "01060",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Below the National average",
+        "phone_number": "4135822000",
+        "provider_id": "220015",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Below the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "01060"
+    },
+    {
+        "address": "585 LEBANON STREET",
+        "city": "MELROSE",
+        "county_name": "MIDDLESEX",
+        "effectiveness_of_care_national_comparison": "Below the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Above the National average",
+        "emergency_services": true,
+        "hospital_name": "HALLMARK HEALTH SYSTEM",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.06193,
+                42.460055
+            ],
+            "type": "Point"
+        },
+        "location_address": "585 LEBANON STREET",
+        "location_city": "MELROSE",
+        "location_state": "MA",
+        "location_zip": "02176",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "7819793000",
+        "provider_id": "220070",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Below the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02176"
+    },
+    {
+        "address": "67 & 100 TER HEUN DRIVE",
+        "city": "FALMOUTH",
+        "county_name": "BARNSTABLE",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "FALMOUTH HOSPITAL",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Private",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -70.621126,
+                41.564962
+            ],
+            "type": "Point"
+        },
+        "location_address": "67 & 100 TER HEUN DRIVE",
+        "location_city": "FALMOUTH",
+        "location_state": "MA",
+        "location_zip": "02540",
+        "mortality_national_comparison": "Above the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "5085485300",
+        "provider_id": "220135",
+        "readmission_national_comparison": "Below the National average",
+        "safety_of_care_national_comparison": "Below the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Below the National average",
+        "zip_code": "02540"
+    },
+    {
+        "address": "211 PARK STREET",
+        "city": "ATTLEBORO",
+        "county_name": "BRISTOL",
+        "effectiveness_of_care_national_comparison": "Above the National average",
+        "efficient_use_of_medical_imaging_national_comparison": "Same as the National average",
+        "emergency_services": true,
+        "hospital_name": "STURDY MEMORIAL HOSPITAL",
+        "hospital_overall_rating": "3",
+        "hospital_ownership": "Voluntary non-profit - Other",
+        "hospital_type": "Acute Care Hospitals",
+        "location": {
+            "coordinates": [
+                -71.275279,
+                41.942695
+            ],
+            "type": "Point"
+        },
+        "location_address": "211 PARK STREET",
+        "location_city": "ATTLEBORO",
+        "location_state": "MA",
+        "location_zip": "02703",
+        "mortality_national_comparison": "Same as the National average",
+        "patient_experience_national_comparison": "Same as the National average",
+        "phone_number": "5082225200",
+        "provider_id": "220008",
+        "readmission_national_comparison": "Same as the National average",
+        "safety_of_care_national_comparison": "Above the National average",
+        "state": "MA",
+        "timeliness_of_care_national_comparison": "Same as the National average",
+        "zip_code": "02703"
     }
 ]
